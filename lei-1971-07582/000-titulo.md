@@ -1,0 +1,3 @@
+# LEI Nº 7582, DE 4 DE JANEIRO DE 1971.
+Reclassifica o cargo de Entregador de Avisos, e dá outras providências.
+Paulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 30 de dezembro de 1970, decretou e eu promulgo a seguinte lei:
