@@ -1,0 +1,4 @@
+# LEI N. 12.309 - DE 16 DE ABRIL DE 1997
+Fica denominada de Pieter Adriaan Jan Vandekeybus - "Padre Pedro" - logradouro público inominado, situado na Avenida Aldeia Manuel Antonio entre a Rua Mario Furtado e Rua 27 de Novembro, no distrito de Artur Alvim.
+(Projeto de Lei n. 311/96, do Vereador Nelo Rodolfo)
+Nelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do art. 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:
