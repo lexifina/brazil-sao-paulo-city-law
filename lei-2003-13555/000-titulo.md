@@ -1,0 +1,4 @@
+# LEI Nº 13.555, DE 8 DE ABRIL DE 2003
+(Projeto de Lei nº 292/02, do Vereador Toninho Campanha - PSB)
+Denomina Praça Agenor Beloto o espaço livre inominado, oriundo do arruamento denominado Jardim Santa Maria, localizado na Rua Maria Francisca do Nascimento, Quadra 253 - Setor 148, no Parque Santo Antônio, Distrito de Vila Formosa, que se encontra dividido em duas partes pelo prolongamento da Rua Adam.
+MARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:
