@@ -1,0 +1,5 @@
+# LEI Nº 11.355, DE 5 DE MAIO DE 1993.
+(Projeto de Lei nº 256/91, do Vereador Arselino Tatto)
+Dispõe sobre a venda de ingressos,nos cinemas, cineclubes, teatros, espetáculos musicais, circenses e eventos esportivos a estudantes de 1º, 2º e 3º graus.
+PAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faz saber que a Câmara Municipal em sessão de 13 de abril de 1993, decretou e eu promulgo a seguinte lei:
+"Art. 1º - Os estudantes da educação básica (ensino fundamental e ensino médio), educação de jovens e adultos (ensino fundamental e médio), educação profissional (básico e técnico), cursos pré-vestibulares e educação superior (cursos tecnológicos, seqüenciais de graduação e pós-graduação), regularmente matriculados em estabelecimentos de ensino públicos ou particulares, oficialmente reconhecidos, terão assegurado o acesso aos cinemas, cineclubes, teatros, espetáculos musicais, circenses e eventos esportivos apresentados no Município de São Paulo."
