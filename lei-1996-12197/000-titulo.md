@@ -1,0 +1,5 @@
+# LEI N. 12.197 - DE 18 DE SETEMBRO DE 1996
+Denomina Hagib Chohfi, a travessa inominada, que inicia na Rua Felicio Ciaccio e tem seu término na Praça Doutor José Augusto César, Setor 069, Quadra 223, em Vila Santana, Bairro de Santana.
+(Projeto de Lei n. 1154/95, do Vereador Almir Guimarães)
+PAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.
+Faz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:
