@@ -1,0 +1,5 @@
+# LEI N. 12.590 - DE 8 DE ABRIL DE 1998
+Dispõe sobre denominação da Casa de Cultura, e dá outras providências.
+(Projeto de Lei n. 387/97, do Vereador Alberto Hiar - PSDB)
+CELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.
+Faz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:
