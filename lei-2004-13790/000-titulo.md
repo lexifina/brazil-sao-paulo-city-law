@@ -1,0 +1,4 @@
+# LEI Nº 13.790, DE 13 DE FEVEREIRO DE 2004
+(Projeto de Lei nº 624/01, do Vereador Vicente Cândido - PT)
+Institui na Secretaria Municipal de Esportes, Lazer e Recreação o Fundo Municipal de Esportes, Lazer e Recreação; (VETADO), e dá outras providências.
+MARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2003, decretou e eu promulgo a seguinte lei:
