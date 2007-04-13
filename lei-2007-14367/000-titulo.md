@@ -1,0 +1,4 @@
+# LEI Nº 14.367, DE 12 DE ABRIL DE 2007
+(Projeto de Lei nº 406/05, do Vereador Antonio Carlos Rodrigues - PR)
+Denomina Praça Ramiro da Chã Vaz Pinto o espaço público livre sem denominação, situado no Jardim Ester Yolanda, Distrito do Rio Pequeno, e dá outras providências.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:
