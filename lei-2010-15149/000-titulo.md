@@ -1,0 +1,4 @@
+# LEI Nº 15.149, DE 4 DE MAIO DE 2010
+(Projeto de Lei nº 288/08, do Vereador Adilson Amadeu - PTB)
+Altera denominação de logradouro público da atual Ponte do Tatuapé, no Bairro do Tatuapé, para Ponte do Tatuapé Dep. Ricardo Izar.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de abril de 2010, decretou e eu promulgo a seguinte lei:
