@@ -1,0 +1,4 @@
+# LEI Nº 15.362, DE 24 DE MARÇO DE 2011
+(Projeto de Lei nº 500/10, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Readequa as tabelas salariais dos empregos públicos e funções de confiança do Hospital do Servidor Público Municipal - HSPM e revoga o art. 44 da Lei nº 13.766, de 21 de janeiro de 2004; dispõe sobre a representação judicial da Fundação Paulistana de Educação e Tecnologia; dispõe sobre a contratação de pessoal, por tempo determinado, no âmbito da Fundação Paulistana de Educação e Tecnologia, para o exercício das funções inerentes aos empregos públicos que especifica.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de março de 2011, decretou e eu promulgo a seguinte lei:
