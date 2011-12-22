@@ -1,0 +1,4 @@
+# LEI Nº 14.713, DE 4 DE ABRIL DE 2008
+(Projeto de Lei nº 160/08, do Executivo)
+Dispõe sobre a reorganização do Quadro dos Profissionais da Saúde, a reconfiguração das carreiras dos níveis superior e médio do referido Quadro, a instituição de novo plano de carreiras e do Prêmio de Produtividade de Desempenho a ser concedido aos servidores que especifica, a cessação da vantagem pecuniária que discrimina, a alteração dos dispositivos das Leis nº 13.652, de 25 de setembro de 2003, nº 13.748, de 16 de janeiro de 2004, e nº 14.591, de 13 de novembro de 2007, e a alteração do valor das gratificações que especifica.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de abril de 2008, decretou e eu promulgo a seguinte lei:
