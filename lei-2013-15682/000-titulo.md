@@ -1,0 +1,4 @@
+# LEI Nº 15.682, DE 26 DE FEVEREIRO DE 2013
+(Projeto de Lei nº 310/12, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre a criação de cargos de Assistente de Diretor de Escola no Quadro do Magistério Municipal; altera a redação do § 3º do art. 91 da Lei n° 11.434, de 12 de novembro de 1993, relativo à remuneração de servidores quando no exercício dos cargos de provimento em comissão ali referidos; altera o valor da gratificação de que trata o art. 3° da Lei nº 10.429, de 24 de fevereiro de 1988, devida aos membros do Conselho Municipal de Educação; institui Abono de Compatibilização para os servidores que especifica; acrescenta referências de vencimentos ao Quadro do Magistério Municipal.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 5 de fevereiro de 2013, decretou e eu promulgo a seguinte lei:
