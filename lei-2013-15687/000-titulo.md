@@ -1,0 +1,4 @@
+# LEI Nº 15.687, DE 27 DE MARÇO DE 2013
+(Projeto de Lei nº 356/12, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Altera o "caput" do art. 1º da Lei nº 15.390/2011, que autoriza o Executivo a contratar operações de crédito relativas ao Programa de Modernização da Administração Tributária e da Gestão dos Setores Sociais Básicos - PMAT e ao Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros - PNAFM e altera a redação do "caput" do art. 9º da Lei nº 15.499/2011, para estender o prazo de requerimento do Auto de Licença de Funcionamento Condicionado, e dá outras providências.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de março de 2013, decretou e eu promulgo a seguinte lei:
