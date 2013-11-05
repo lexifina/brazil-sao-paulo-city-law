@@ -1,0 +1,4 @@
+# LEI Nº 15.887, DE 4 DE NOVEMBRO DE 2013
+(Projeto de Lei nº 551/11, dos Vereadores Marco Aurélio Cunha  PSD e Marta Costa  PSD)
+Altera a redação da alínea d do inciso VII, e insere parágrafo único no art. 2º, da Lei nº 13.763, de 19 de janeiro de 2004, a qual estabelece normas para o exercício da prestação de serviços de manobra e guarda de veículos, também conhecido como valet service, para dispor sobre a obrigatoriedade de anotação de quilometragem e condições do veículo no recibo do cliente de serviço de valet service, no âmbito do Município de São Paulo, e dá outras providências.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de outubro de 2013, decretou e eu promulgo a seguinte lei:
