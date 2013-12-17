@@ -1,0 +1,4 @@
+# LEI Nº 15.912, DE 16 DE DEZEMBRO DE 2013
+(Projeto de Lei nº 44/13, dos Vereadores Goulart - PSD, Alessandro Guedes - PT, Calvo - PMDB, Coronel Camilo - PSD, Dalton Silvano - PV, David Soares - PSD, Edir Sales - PSD, José Police Neto - PSD, Marco Aurélio Cunha - PSD, Mário Covas Neto - PSDB, Marta Costa - PSD, Noemi Nonato - PROS, Senival Moura - PT, Souza Santos - PSD, Toninho Paiva - PR e Vavá - PT)
+Dispõe sobre a isenção de pagamento da tarifa nas linhas urbanas de ônibus às pessoas com idade igual ou maior que sessenta anos, no âmbito do Município de São Paulo, e dá outras providências.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 13 de novembro de 2013, decretou e eu promulgo a seguinte lei:
