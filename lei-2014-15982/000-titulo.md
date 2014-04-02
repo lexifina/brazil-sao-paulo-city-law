@@ -1,0 +1,4 @@
+# LEI Nº 15.982, DE 1º DE ABRIL DE 2014
+(Projeto de Lei nº 103/13, dos Vereadores Ricardo Nunes - PMDB, Alfredinho - PT, Ari Friedenbach - PROS, Arselino Tatto - PT, Atílio Francisco - PRB, Calvo - PMDB, Dalton Silvano - PV, Edir Sales - PSD, Eduardo Tuma - PSDB, Floriano Pesaro - PSDB, Gilson Barreto - PSDB, José Police Neto - PSD, Laércio Benko - PHS, Milton Leite - DEMOCRATAS, Natalini - PV, Nelo Rodolfo - PMDB, Noemi Nonato - PROS, Orlando Silva - PCdoB, Paulo Frange - PTB e Ricardo Young - PPS)
+Altera a redação do "caput" do art. 9° da Lei nº 15.499, de 7 de dezembro de 2011, para estender o prazo de requerimento do Auto de Licença de Funcionamento Condicionado.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 31 de março de 2014, decretou e eu promulgo a seguinte lei:
