@@ -1,0 +1,4 @@
+# LEI Nº 16.255, DE 10 DE SETEMBRO DE 2015
+(Projeto de Lei nº 46/11, do Vereador Chico Macena - PT)
+Altera a Lei nº 13.614, de 2 de julho de 2003, que estabelece as diretrizes gerais para a utilização das vias públicas municipais, inclusive dos respectivos subsolo e espaço aéreo, e das obras de arte de domínio municipal, para a implantação e instalação de equipamentos de infraestrutura urbana destinados à prestação de serviços públicos e privados; delega competência para outorgar a permissão de uso; disciplina a execução das obras dela decorrentes, e dá outras providências.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:
