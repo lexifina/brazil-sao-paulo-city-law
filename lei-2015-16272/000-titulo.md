@@ -1,0 +1,4 @@
+# LEI Nº 16.272, DE 30 DE SETEMBRO DE 2015
+(Projeto de Lei nº 146/15, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Introduz alterações na Lei nº 13.701, de 24 de dezembro de 2003, relativa ao Imposto sobre Serviços de Qualquer Natureza - ISS, na Lei nº 15.889, de 5 de novembro de 2013, referente ao Imposto Predial e Territorial Urbano - IPTU, e na Lei nº 14.107, de 12 de dezembro de 2005, que dispõe sobre o processo administrativo fiscal e cria o Conselho Municipal de Tributos, bem como estende os prazos a que se referem o "caput" e o § 1º do art. 1º da Lei nº 16.097, de 29 de dezembro de 2014, que instituiu o Programa de Parcelamento Incentivado de 2014 - PPI 2014.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de setembro de 2015, decretou e eu promulgo a seguinte lei:
