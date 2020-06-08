@@ -1,0 +1,4 @@
+# LEI Nº 14.887, DE 15 DE JANEIRO DE 2009
+(Projeto de Lei nº 429/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Reorganiza a Secretaria Municipal do Verde e do Meio Ambiente - SVMA e dispõe sobre seu quadro de cargos de provimento em comissão; confere nova disciplina ao Conselho do Meio Ambiente e Desenvolvimento Sustentável - CADES, ao Conselho do Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável - CONFEMA, ao Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável - FEMA, ao Conselho Consultivo da Universidade Aberta do Meio Ambiente e Cultura de Paz e ao Conselho Regional de Meio Ambiente e Cultura de Paz; revoga as leis e os decretos que especifica.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 2008, decretou e eu promulgo a seguinte lei:
