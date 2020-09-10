@@ -1,0 +1,4 @@
+# LEI Nº 17.448, DE 9 DE SETEMBRO DE 2020
+(Projeto de Lei nº 255/20, dos Vereadores Daniel Annenberg - PSDB, Alessandro Guedes - PT, Alfredinho - PT, Antonio Donato - PT, Aurélio Nomura - PSDB, Caio Miranda Carneiro - DEMOCRATAS, Claudio Fonseca - CIDADANIA, Eduardo Matarazzo Suplicy - PT, Gilberto Natalini - PV, Noemi Nonato - PL, Patrícia Bezerra - PSDB, Paulo Frange - PTB, Reis - PT, Ricardo Nunes - MDB, Rinaldi Digilio - PSL, Rodrigo Goulart - PSD e Toninho Vespoli - PSOL)
+Dispõe sobre medidas de transparência ativa a serem observadas durante situação de emergência e estado de calamidade pública decorrentes de doenças contagiosas.
+BRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de agosto 2020, decretou e eu promulgo a seguinte lei:
