@@ -1,0 +1,4 @@
+# LEI Nº 17.540, DE 17 DE DEZEMBRO DE 2020
+(Projeto de Lei nº 682/20, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Autoriza o Poder Executivo a celebrar termo aditivo ao Contrato de Confissão, Consolidação, Promessa de Assunção e Refinanciamento de Dívidas firmado com a União ao amparo da Medida Provisória nº 2.185-35, de 24 de agosto de 2001, e suas edições anteriores, para estabelecimento das alterações autorizadas pela Lei Complementar nº 173, de 27 de maio de 2020; altera a alínea "e" do art. 2º da Lei nº 17.255, de 26 de dezembro de 2019, e o § 2º da Lei nº 15.931, de 20 de dezembro de 2013, nos termos que especifica.
+BRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de dezembro de 2020, decretou e eu promulgo a seguinte lei:
