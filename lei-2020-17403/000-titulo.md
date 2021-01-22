@@ -1,0 +1,4 @@
+# LEI Nº 17.403, DE 17 DE JULHO DE 2020
+(Projeto de Lei nº 630/17, do Executivo)
+Dispõe sobre a suspensão da exclusão de parcelamentos durante o estado de calamidade pública; dispõe sobre o ISS relativo às sociedades unipessoais; permite a opção do J-40 para comissionados da área da Saúde; trata das permissões de uso e da autorização para o Poder Executivo proceder aos Termos de Permissão de Uso - TPU que especifica; trata do Programa de Incentivo à Manutenção do Emprego - PIME; autoriza o Executivo a indicar servidores públicos municipais inativos no âmbito dos convênios celebrados com a JUCESP; transfere propriedade para a COHAB; suspende cobrança de parcela de financiamento dos contratos com a COHAB-SP e dá outras providências.
+BRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de julho de 2020, decretou e eu promulgo a seguinte lei:
