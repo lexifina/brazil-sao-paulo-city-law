@@ -1,0 +1,4 @@
+# LEI Nº 17.555, DE 22 DE MARÇO DE 2021
+(Projeto de Lei nº 91/21, do Executivo)
+Dispõe sobre a reestruturação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - CACS-FUNDEB, em conformidade com o art. 212-A da Constituição Federal, regulamentado na forma da Lei Federal nº 14.113, de 25 de dezembro de 2020; autoriza a disponibilização de uniformes sem o brasão da Prefeitura do Município de São Paulo, no âmbito do Programa Auxílio Uniforme Escolar, instituído pela Lei nº 17.437, de 12 de agosto de 2020, na hipótese e condições que especifica.
+BRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de março de 2021, decretou e eu promulgo a seguinte lei:
