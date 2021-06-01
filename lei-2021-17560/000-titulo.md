@@ -1,0 +1,4 @@
+# LEI Nº 17.560, DE 31 DE MAIO DE 2021
+(Projeto de Lei nº 685/17, dos Vereadores Rute Costa - PSDB, Carlos Bezerra Jr. - PSDB, Cris Monteiro - NOVO, Dr. Sidney Cruz - SOLIDARIEDADE, Edir Sales - PSD, Eli Corrêa - DEMOCRATAS, Ely Teruel - PODEMOS, Faria de Sá - PP, Felipe Becari - PSD, Gilberto Nascimento - PSC, Isac Felix - PL, Janaína Lima - NOVO, Juliana Cardoso - PT, Milton Ferreira - PODEMOS, Rinaldi Digilio - PSL, Sandra Tadeu - DEMOCRATAS e Thammy Miranda - PL)
+Dispõe sobre a implantação do acompanhamento psicológico para mulheres vítimas de violência no Município e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 5 de maio de 2021, decretou e eu promulgo a seguinte lei:
