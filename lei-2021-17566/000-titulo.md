@@ -1,0 +1,4 @@
+# LEI Nº 17.566, DE 8 DE JUNHO DE 2021
+(Projeto de Lei nº 396/16, dos Vereadores Paulo Fiorilo - PT, Alfredinho - PT, Dr. Sidney Cruz - SOLIDARIEDADE, Elaine Do Quilombo Periférico - PSOL, Erika Hilton - PSOL, Faria De Sá - PP, Felipe Becari - PSD, Gilson Barreto - PSDB, Jean Madeira - REPUBLICANOS, Juliana Cardoso - PT, Luana Alves - PSOL e Ricardo Nunes - MDB)
+Institui o reconhecimento do caráter educacional e formativo da capoeira em suas manifestações culturais e esportivas e permite a celebração de parcerias para o seu ensino nos estabelecimentos de educação que especifica no Município de São Paulo.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de maio de 2021, decretou e eu promulgo a seguinte lei:
