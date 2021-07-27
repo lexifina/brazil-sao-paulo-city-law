@@ -1,0 +1,4 @@
+# LEI Nº 17.579, DE 26 DE JULHO DE 2021
+(Projeto de Lei nº 136/21, dos Vereadores Silvia Da Bancada Feminista - PSOL, Alessandro Guedes - PT, Antonio Donato - PT, Celso Giannazi - PSOL, Eduardo Matarazzo Suplicy - PT, Eli Corrêa - DEMOCRATAS, Eliseu Gabriel - PSB, Erika Hilton - PSOL, Jair Tatto - PT, Juliana Cardoso - PT, Luana Alves - PSOL, Marcelo Messias - MDB, Paulo Frange - PTB, Professor Toninho Vespoli - PSOL, Renata Falzoni - PV E Senival Moura - PT)
+Dispõe sobre o encaminhamento das solicitações de acolhimento emergencial e de auxílio-aluguel para mulheres em situação de violência.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de junho de 2021, decretou e eu promulgo a seguinte lei:
