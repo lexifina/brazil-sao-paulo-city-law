@@ -1,0 +1,4 @@
+# LEI Nº 17.587, DE 26 DE JULHO DE 2021
+(Projeto de Lei nº 197/18, dos Vereadores Eduardo Matarazzo Suplicy - PT, Alessandro Guedes - PT, Alfredinho - PT, Antonio Donato - PT, Arselino Tatto - PT, Jair Tatto - PT, Juliana Cardoso - PT, Reis - PT, Senival Moura - PT, Elaine do Quilombo Periférico - PSOL, Erika Hilton - PSOL, Fabio Riva - PSDB, Faria de Sá - PP, Felipe Becari - PSD, George Hato - MDB, Gilson Barreto - PSDB, Luana Alves - PSOL, Ricardo Teixeira - DEMOCRATAS e Sandra Tadeu - DEMOCRATAS)
+Cria a Lei Paul Singer - Marco Regulatório Municipal da Economia Solidária, bem como a Política, o Sistema e o Conselho Municipal de Economia Solidária.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de junho de 2021, decretou e eu promulgo a seguinte lei:
