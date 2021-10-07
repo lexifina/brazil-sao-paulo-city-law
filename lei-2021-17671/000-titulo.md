@@ -1,0 +1,4 @@
+# LEI Nº 17.671, DE 6 DE OUTUBRO DE 2021
+(Projeto de Lei nº 249/21, dos Vereadores João Jorge - PSDB e Xexéu Tripoli - PSDB)
+Altera a denominação da Avenida Auro Soares de Moura Andrade, que passa a ser denominada Avenida Mário de Andrade, e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de setembro de 2021, decretou e eu promulgo a seguinte lei:
