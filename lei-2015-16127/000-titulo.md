@@ -1,0 +1,4 @@
+# LEI Nº 16.127, DE 12 DE MARÇO DE 2015
+(Projeto de Lei nº 208/14, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Concede isenção do Imposto Sobre Serviços de Qualquer Natureza - ISS aos serviços prestados na área de transporte metropolitano, saúde, educação, habitação de interesse social e iluminação pública, por meio de parceria público-privada, ao serviço de transporte público de passageiros realizado pelas empresas que exploram o sistema metroviário no Município de São Paulo, e aos serviços prestados por organizações sociais por meio de contrato de gestão com o Poder Público, bem como remite créditos tributários e anistia infrações tributárias, nos termos e condições que especifica.
+FERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de fevereiro de 2015, decretou e eu promulgo a seguinte lei:
