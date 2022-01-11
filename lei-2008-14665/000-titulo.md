@@ -1,0 +1,4 @@
+# LEI Nº 14.665 DE 8 DE JANEIRO DE 2008
+(Projeto de Lei nº 780/07, do Executivo)
+Dispõe sobre desafetação de áreas públicas municipais da classe dos bens de uso comum do povo e destinação de áreas públicas municipais da classe dos bens dominiais para promover o Programa de Regularização Urbanística e Fundiária; autoriza o Executivo a outorgar concessão de uso especial para fins de moradia ou concessão de direito real de uso, bem como doar áreas a órgãos ou entidades da Administração direta ou indireta, para a construção de habitações de interesse social; altera o art. 3º e substitui os Anexos I e II da Lei nº 13.514, de 16 de janeiro de 2003.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de dezembro de 2007, decretou e eu promulgo a seguinte lei:
