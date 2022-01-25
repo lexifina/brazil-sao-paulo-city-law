@@ -1,0 +1,4 @@
+# LEI Nº 17.753, DE 24 DE JANEIRO DE 2022
+(Projeto de Lei nº 700/21, dos Vereadores Felipe Becari - PSD, Camilo Cristófaro - PSB, Cris Monteiro - NOVO, Dr. Sidney Cruz - SOLIDARIEDADE, Edir Sales - PSD, Ely Teruel - PODEMOS, Fabio Riva - PSDB, Faria de Sá - PP, Gilberto Nascimento - PSC, Gilson Barreto - PSDB, Jair Tatto - PT, Marlon Luz - PATRIOTA, Rinaldi Digilio - PSL, Rodrigo Goulart - PSD, Rubinho Nunes - PSL, Sandra Santana - PSDB e Thammy Miranda - PL)
+Dispõe sobre a criação de um complexo de referência e atendimento especializado às pessoas com o Transtorno do Espectro Autista (TEA) e pessoas com Síndrome de Down.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2021, decretou e eu promulgo a seguinte lei:
