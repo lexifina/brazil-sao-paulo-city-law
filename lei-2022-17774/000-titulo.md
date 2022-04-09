@@ -1,0 +1,4 @@
+# LEI Nº 17.774, DE 8 DE ABRIL DE 2022
+(Projeto de Lei nº 749/21, dos Vereadores Alessandro Guedes - PT, Adilson Amadeu - UNIÃO, Alfredinho - PT, Antonio Donato - PT, Atílio Francisco - REPUBLICANOS, Edir Sales - PSD, Eduardo Matarazzo Suplicy - PT, Erika Hilton - PSOL, Fabio Riva - PSDB, Faria de Sá - PP, Gilson Barreto - PSDB, Jair Tatto - PT, Professor Toninho Vespoli - PSOL, Rinaldi Digilio - UNIÃO, Sandra Tadeu - UNIÃO, Senival Moura - PT e Thammy Miranda - PL)
+Denomina Túnel Dep. Fed. José Mentor G. de Melo Netto o logradouro público inominado situado no Distrito de Itaquera.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de março de 2022, decretou e eu promulgo a seguinte lei:
