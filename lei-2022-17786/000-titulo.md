@@ -1,0 +1,4 @@
+# LEI Nº 17.786, DE 26 DE ABRIL DE 2022
+(Projeto de Lei nº 23/22, dos Vereadores Sonaira Fernandes - REPUBLICANOS, André Santos - REPUBLICANOS, Camilo Cristófaro - PSB, Cris Monteiro - NOVO, Ely Teruel - PODEMOS, Faria de Sá - PP, Jorge Wilson Filho - REPUBLICANOS, Rinaldi Digilio - UNIÃO, Rute Costa - PSDB E Sandra Santana - PSDB)
+Dispõe sobre a alteração da Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Datas e Eventos da Cidade de São Paulo o Junho Lilás, para esclarecimento e conscientização da população sobre as doenças raras e autoimunes, a ser comemorado no mês de junho de cada ano.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 22 de março de 2022, decretou e eu promulgo a seguinte lei:
