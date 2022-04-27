@@ -1,0 +1,4 @@
+# LEI Nº 17.788, DE 26 DE ABRIL DE 2022
+(Projeto de Lei nº 460/21, dos Vereadores Sandra Tadeu - UNIÃO, Delegado Palumbo - MDB, Eli Corrêa - UNIÃO, Ely Teruel - PODEMOS, Fabio Riva - PSDB, Faria de Sá - PP, Fernando Holiday - NOVO, Janaína Lima - MDB, Marcelo Messias - MDB, Rodrigo Goulart - PSD, Rubinho Nunes - UNIÃO, Rute Costa - PSDB, Sansão Pereira - REPUBLICANOS e Thammy Miranda - PL)
+Dispõe sobre a organização e implementação de ações de Prevenção à Gravidez na Adolescência e Incentivo ao Planejamento Reprodutivo em hospitais e unidades básicas de saúde pública que prestem serviços de saúde no âmbito do SUS, no Município de São Paulo.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 29 de março de 2022, decretou e eu promulgo a seguinte lei:
