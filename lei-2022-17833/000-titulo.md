@@ -1,0 +1,4 @@
+# LEI Nº 17.833, DE 8 DE JULHO DE 2022
+(Projeto de Lei nº 626/21, dos Vereadores Delegado Palumbo - MDB, Atílio Francisco - REPUBLICANOS, Camilo Cristófaro - AVANTE, Cris Monteiro - NOVO, Dr. Sidney Cruz - SOLIDARIEDADE, Eli Corrêa - UNIÃO, Ely Teruel - PODEMOS, Fabio Riva - PSDB, Faria de Sá - PP, Felipe Becari - UNIÃO, Fernando Holiday - NOVO, Rinaldi Digilio - UNIÃO, Rodrigo Goulart - PSD, Rute Costa - PSDB e Thammy Miranda - PL)
+Altera a Lei nº 17.502, de 3 de novembro de 2020, que dispõe sobre política pública municipal para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de junho de 2022, decretou e eu promulgo a seguinte lei:
