@@ -1,0 +1,4 @@
+# LEI Nº 17.828, DE 8 DE JULHO DE 2022
+(Projeto de Lei nº 06/22, dos Vereadores Sandra Tadeu - UNIÃO, André Santos - REPUBLICANOS, Dr. Sidney Cruz - SOLIDARIEDADE, Edir Sales - PSD, Eli Corrêa - UNIÃO, Ely Teruel - PODEMOS, Fabio Riva - PSDB, Gilberto Nascimento - PSC, Janaína Lima - MDB, Jorge Wilson Filho - REPUBLICANOS, Juliana Cardoso - PT, Marcelo Messias - MDB, Rinaldi Digilio - UNIÃO, Rodrigo Goulart - PSD, Sandra Santana - PSDB e Thammy Miranda - PL)
+Altera a Lei nº 17.585, de 2021, que institui a campanha Check-up Geral das Mulheres, para alerta e prevenção de doenças, e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de junho de 2022, decretou e eu promulgo a seguinte lei:
