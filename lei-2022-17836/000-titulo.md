@@ -1,0 +1,4 @@
+# LEI Nº 17.836, DE 12 DE JULHO DE 2022
+(Projeto de Lei nº 314/22, dos Vereadores Eli Corrêa - UNIÃO, Alessandro Guedes - PT, Atílio Francisco - REPUBLICANOS, Celso Giannazi - PSOL, Dr. Sidney Cruz - SOLIDARIEDADE, Edir Sales - PSD, Eduardo Matarazzo Suplicy - PT, Ely Teruel - PODEMOS, Erika Hilton - PSOL, Faria de Sá - PP, Fernando Holiday - NOVO, Isac Félix - PL, Jorge Wilson Filho - REPUBLICANOS, Juliana Cardoso - PT, Marcelo Messias - MDB, Rinaldi Digilio - UNIÃO, Rodrigo Goulart - PSD, Rute Costa - PSDB, Sandra Santana - PSDB e Senival Moura - PT)
+Altera a Lei nº 14.485, de 19 de julho de 2007, para inserir no Calendário de Eventos da Cidade o Dia dos Avós, a ser celebrado anualmente no dia 26 de julho.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de junho de 2022, decretou e eu promulgo a seguinte lei:
