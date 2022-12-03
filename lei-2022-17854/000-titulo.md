@@ -1,0 +1,4 @@
+# LEI Nº 17.854, DE 2 DE DEZEMBRO DE 2022
+(Projeto de Lei nº 634/22, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre a criação, no Quadro do Magistério Municipal, do Quadro dos Profissionais de Educação - QPE, de cargos de Professor de Educação Infantil, da Classe dos Docentes, da carreira do Magistério Municipal, altera a Lei nº 13.392, de 17 de julho de 2002, que dispõe sobre a concessão de bolsas-treinamento e bolsas-auxílio, e altera a Lei nº 10.793, de 21 de dezembro de 1989, que dispõe sobre contratação por tempo determinado, nos termos do art. 37, inciso IX, da Constituição Federal, e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 29 de novembro de 2022, decretou e eu promulgo a seguinte lei:
