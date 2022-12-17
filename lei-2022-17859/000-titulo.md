@@ -1,0 +1,4 @@
+# LEI Nº 17.859, DE 16 DE DEZEMBRO DE 2022
+(Projeto de Lei nº 612/22, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre a regularização fundiária urbana de edificações, loteamentos e conjuntos/empreendimentos habitacionais implantados para fins de provisão de habitação de interesse social produzidos diretamente pelo Município, pelo Estado de São Paulo ou pela União, bem como por intermédio de concessões, parcerias público-privadas e convênios congêneres e sobre procedimento administrativo de avaliação e indenização de construções em assentamentos urbanos de interesse social.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2022, decretou e eu promulgo a seguinte lei:
