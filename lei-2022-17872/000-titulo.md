@@ -1,0 +1,4 @@
+# LEI Nº 17.872, DE 28 DE DEZEMBRO DE 2022
+(Projeto de Lei nº 262/21, dos Vereadores André Santos - REPUBLICANOS, Atílio Francisco - REPUBLICANOS, Edir Sales - PSD, Ely Teruel - PODEMOS, Fabio Riva - PSDB, Gilberto Nascimento - PSC, Jorge Wilson Filho - REPUBLICANOS, Rinaldi Digilio - UNIÃO, Rodrigo Goulart - PSD, Rute Costa - PSDB e Sandra Santana - PSDB)
+Institui o Programa de Atendimento Educacional Especializado, para diagnóstico, tratamento e acompanhamento dos educandos com transtornos específicos do desenvolvimento das habilidades escolares, nas instituições públicas e privadas de ensino do Município de São Paulo.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 29 de novembro de 2022, decretou e eu promulgo a seguinte lei:
