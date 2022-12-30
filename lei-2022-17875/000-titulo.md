@@ -1,0 +1,4 @@
+# LEI Nº 17.875, DE 29 DE DEZEMBRO DE 2022
+(Projeto de Lei nº 613/22, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Remite créditos de IPTU para os imóveis que especifica, anistia infrações pelo descumprimento de obrigação acessória relativa a honorários advocatícios sucumbenciais, altera as Leis nº 13.701, de 24 de dezembro de 2003, nº 11.154, de 30 de dezembro de 1991, nº 13.647, de 16 de setembro de 2003, nº 13.474, de 30 de dezembro de 2002, nº 14.256, de 29 de dezembro de 2006, nº 13.476, de 30 de dezembro de 2002, nº 14.256, de 29 de dezembro de 2006, nº 8.645, de 21 de novembro de 1977, e nº 15.510, de 20 de dezembro de 2011, e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2022, decretou e eu promulgo a seguinte lei:
