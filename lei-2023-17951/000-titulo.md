@@ -1,0 +1,4 @@
+# LEI Nº 17.951, DE 23 DE MAIO DE 2023
+(Projeto de Lei nº 18/23, dos Vereadores Cris Monteiro - NOVO, Daniel Annenberg - PSB, Dra. Sandra Tadeu - UNIÃO, Edir Sales - PSD, Eli Corrêa - UNIÃO, Fernando Holiday - REPUBLICANOS, Hélio Rodrigues - PT, João Ananias - PT, Luna Zarattini - PT, Marcelo Messias - MDB, Rinaldi Digilio - UNIÃO, Rodolfo Despachante - PSC, Sandra Santana - PSDB e Silvia da Bancada Feminista - PSOL)
+Institui o Programa "Não Se Cale", protocolo de conduta para espaços públicos e privados de lazer em situações de agressão sexual e procedimento para auxiliar pessoas que se sintam em situação de risco, e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de maio de 2023, decretou e eu promulgo a seguinte lei:
