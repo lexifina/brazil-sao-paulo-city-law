@@ -1,0 +1,4 @@
+# LEI Nº 17.721, DE 7 DE DEZEMBRO DE 2021
+(Projeto de Lei nº 650/21, do Executivo)
+Dispõe sobre a criação do Novo Quadro de Pessoal de Nível Médio e Básico - QMB da Prefeitura do Município de São Paulo, com plano de carreira, reenquadra cargos e funções de Assistente de Gestão de Políticas Públicas e de Assistente de Suporte Técnico, do Quadro de Pessoal de Nível Médio da Prefeitura do Município de São Paulo, instituído pela Lei nº 13.748, de 16 de janeiro de 2004, e de Agente de Apoio, do Quadro de Pessoal do Nível Básico da Prefeitura do Município de São Paulo, instituído pela Lei nº 13.652, de 25 de setembro de 2003, e institui o respectivo regime de remuneração por subsídio.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de novembro de 2021, decretou e eu promulgo a seguinte lei:
