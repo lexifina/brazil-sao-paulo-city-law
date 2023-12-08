@@ -1,0 +1,4 @@
+# LEI Nº 14.715, DE 8 DE ABRIL DE 2008
+(Projeto de Lei nº 185/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Altera dispositivos das Leis nº 9.480, de 8 de junho de 1982, e nº 10.224, de 15 de dezembro de 1986, ambas com as modificações introduzidas pela legislação subseqüente, as quais dispõem, respectivamente, sobre as carreiras de Agente de Apoio Fiscal e de Agente Vistor, concede a Gratificação por Desempenho de Atividade, instituída pela Lei n° 14.600, de 27 de novembro de 2007, aos servidores que especifica e altera dispositivos das Leis nº 14.591, de 13 de novembro de 2007, nº 14.600, de 27 de novembro de 2007 e nº 14.660, de 26 de dezembro de 2007.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 8 de abril de 2008, decretou e eu promulgo a seguinte lei:
