@@ -1,0 +1,4 @@
+# LEI Nº 18.064, DE 28 DE DEZEMBRO DE 2023
+(Projeto de Lei nº 712/23, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre a criação, no Quadro do Magistério Municipal, do Quadro dos Profissionais de Educação - QPE, de cargos de Professor de Educação Infantil, da Classe dos Docentes, da carreira do Magistério Municipal; consolida a Estratégia Municipal de Inclusão Profissional Assistida do Município de São Paulo; altera a Lei nº 15.838, de 2013; revoga as Leis nº 13.178, de 17 de setembro de 2001 (POT), nº 13.841, de 7 de junho de 2004 (BT), e o art. 44 da Lei Municipal nº 17.433, de 29 de julho de 2020.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de dezembro de 2023, decretou e eu promulgo a seguinte lei:
