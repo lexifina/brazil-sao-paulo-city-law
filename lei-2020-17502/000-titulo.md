@@ -1,0 +1,4 @@
+# LEI Nº 17.502, DE 3 DE NOVEMBRO DE 2020
+(Projeto de Lei nº 586/18, dos Vereadores Rinaldi Digilio - PSL, Atílio Francisco - REPUBLICANOS, Aurélio Nomura - PSDB, Camilo Cristófaro - PSB, Celso Jatene - PL, Claudio Fonseca - CIDADANIA, Daniel Annenberg - PSDB, Eduardo Tuma - PSDB, Eliseu Gabriel - PSB, Fabio Riva - PSDB, Gilberto Nascimento - PSC, Gilberto Natalini - S/PARTIDO, Isac Felix - PL, Noemi Nonato - PL, Patrícia Bezerra - PSDB, Reis - PT, Ricardo Nunes - MDB, Ricardo Teixeira - DEMOCRATAS, Sandra Tadeu - DEMOCRATAS, Soninha Francine - Cidadania e Zé Turin - REPUBLICANOS)
+Dispõe sobre política pública municipal para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares.
+BRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de outubro de 2020, decretou e eu promulgo a seguinte lei:
