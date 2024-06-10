@@ -1,0 +1,4 @@
+# LEI Nº 18.132, DE 7 DE JUNHO DE 2024
+(Projeto de Lei nº 760/20, dos Vereadores Arselino Tatto - PT, Jair Tatto - PT, Adilson Amadeu - UNIÃO, Dr. Adriano Santos - PT, Dra. Sandra Tadeu - PL, Edir Sales - PSD, Ely Teruel - MDB, Fabio Riva - MDB, Gilberto Nascimento - PL, Janaína Lima - PP, Marcelo Messias - MDB, Professor Toninho Vespoli - PSOL, Rinaldi Digilio - UNIÃO, Rodrigo Goulart - PSD, Sandra Santana - MDB, Sidney Cruz - MDB e Thammy Miranda - PSD)
+Acrescenta dispositivo à Lei nº 15.096, de 5 de janeiro de 2010, para determinar que o Programa Censo-Inclusão e Cadastro-Inclusão passe a contemplar as pessoas com Transtorno do Espectro Autista.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de maio de 2024, decretou e eu promulgo a seguinte lei:
