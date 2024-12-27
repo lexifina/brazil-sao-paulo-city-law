@@ -1,0 +1,4 @@
+# LEI Nº 18.211, DE 27 DE DEZEMBRO DE 2024
+(Projeto de Lei nº 574/24, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Revoga parcialmente as Leis nº 8.274, de 12 de agosto de 1975, e nº 16.020, de 2 de julho de 2014, e integralmente as Leis nº 5.114, de 28 de fevereiro de 1957, nº 5.829, de 8 de setembro de 1961, nº 5.930, de 3 de janeiro de 1962, nº 6.296, de 30 de maio de 1963, nº 6.323, de 7 de junho de 1963, nº 8.249, de 12 de maio de 1975, nº 12.453, de 16 de setembro de 1997, e os Decretos nº 952, de 12 de março de 1947, e nº 1.026, de 4 de novembro de 1947, e aprova novos alinhamentos viários.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 10 de dezembro de 2024, decretou e eu promulgo a seguinte lei:
