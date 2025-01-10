@@ -1,0 +1,4 @@
+# LEI Nº 18.224, DE 9 DE JANEIRO DE 2025
+(Projeto de Lei nº 758/20, dos Vereadores Rinaldi Digilio - UNIÃO, André Santos - REPUBLICANOS, Atílio Francisco - REPUBLICANOS, Delegado Palumbo - MDB, Eli Corrêa - UNIÃO, Ely Teruel - MDB, Fabio Riva - MDB, Faria de Sá - PP, Gilberto Nascimento - PL, Rodrigo Goulart - PSD, Sidney Cruz - MDB, Silvia da Bancada FEMINISTA - PSOL e Sonaira Fernandes - PL)
+Assegura todas as informações e direito de atendimento às pessoas com deficiência auditiva por meio da Língua Brasileira de Sinais - LIBRAS em todas as instituições públicas municipais de São Paulo.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de dezembro de 2024, decretou e eu promulgo a seguinte lei:
