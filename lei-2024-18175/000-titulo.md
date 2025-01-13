@@ -1,0 +1,4 @@
+# LEI Nº 18.175, DE 25 DE JULHO DE 2024
+(Projeto de Lei nº 028/22, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre a introdução na Operação Urbana Consorciada Faria Lima de dispositivos criados pela Lei nº 16.050, de 31 de julho de 2014, modificada pela Lei nº 17.975, de 8 de julho de 2023 e pela Lei nº 16.402, de 22 de março de 2016, modificada pela Lei nº 18.081, de 19 de janeiro de 2024, e sobre a criação de perímetro expandido para incluir o Complexo de Paraisópolis e altera a Lei nº 13.769, de 26 de janeiro de 2004, modificada pelas: Leis nº 13.871, de 08 de julho de 2004; nº 15.519, de 29 de dezembro de 2011 e nº 16.242, de 31 de julho de 2015.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 3 de julho de 2024, decretou e eu promulgo a seguinte lei:
