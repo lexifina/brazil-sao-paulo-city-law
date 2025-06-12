@@ -1,0 +1,4 @@
+# LEI Nº 15.406, DE 8 DE JULHO DE 2011
+(Projeto de Lei nº 144/11, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Dispõe sobre o Programa Nota Fiscal Paulistana e altera dispositivos da Lei nº 14.097, de 8 de dezembro de 2005; autoriza a reabertura de prazo para ingresso no Programa de Parcelamento Incentivado - PPI; introduz alterações na legislação tributária relativa ao IPTU, ao ITBI-IV e ao ISS; altera a Lei nº 13.478, de 30 de dezembro de 2002; autoriza, conforme especifica, a transferência de depósitos judiciais e administrativos, a alienação de participações acionárias minoritárias e a cessão de direitos creditórios; institui a comunicação por meio do Domicílio Eletrônico do Cidadão Paulistano - DEC.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de julho de 2011, decretou e eu promulgo a seguinte lei:
