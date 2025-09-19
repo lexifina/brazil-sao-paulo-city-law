@@ -1,0 +1,4 @@
+# LEI Nº 13.614, DE 2 DE JULHO DE 2003
+(Projeto de Lei nº 478/02, do Executivo, aprovado na forma do Substitutivo do Legislativo)
+Estabelece as diretrizes para a utilização das vias públicas municipais, inclusive dos respectivos subsolo e espaço aéreo, e das obras de arte de domínio municipal, para a realização de serviços e obras de infraestrutura urbana para implantação, instalação e manutenção de equipamentos destinados à prestação de serviços públicos e privados; delega competência ao Departamento de Controle de Uso de Vias Públicas - CONVIAS, para emitir o TPU - Termo de Permissão de Uso, o Alvará de Instalação e o Alvará de Manutenção, relativos à execução de serviços e obras de infraestrutura urbana, e dá outras providências.
+MARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de junho de 2003, decretou e eu promulgo a seguinte lei:
