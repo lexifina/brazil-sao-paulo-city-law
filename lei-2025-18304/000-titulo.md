@@ -1,0 +1,4 @@
+# LEI Nº 18.304, DE 24 DE SETEMBRO DE 2025
+(Projeto de Lei nº 577/24, dos Vereadores Carlos Bezerra Jr. - PSD, André Souza - REPUBLICANOS, Isac Félix - PL, Keit Lima - PSOL, Marina Bragante - REDE, Professor Toninho Vespoli - PSOL, Renata Falzoni - PSB, Sandra Santana - MDB, Sansão Pereira - REPUBLICANOS, Silvão Leite - UNIÃO e Silvinho Leite - UNIÃO)
+Institui o Programa de Proteção à Infância no Ambiente Digital e dispõe sobre a obrigatoriedade de implementação de métodos de verificação de idade por empresas provedoras de aplicações de internet e provedores de conexão à internet no Município de São Paulo e dá outras providências.
+RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de agosto de 2025, decretou e eu promulgo a seguinte lei:
