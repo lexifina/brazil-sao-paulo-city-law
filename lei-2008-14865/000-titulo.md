@@ -1,0 +1,4 @@
+# LEI Nº 14.865, DE 29 DE DEZEMBRO DE 2008
+(Projeto de Lei nº 657/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Concede isenção de Imposto Predial e Territorial Urbano - IPTU nas condições que especifica; altera dispositivos das Leis nº 6.989, de 29 de dezembro de 1966, nº 11.154, de 30 de dezembro de 1991, nº 13.476, de 30 de dezembro de 2002, nº 13.701, de 24 de dezembro de 2003, nº 14.097, de 8 de dezembro de 2005, nº 14.107, de 12 de dezembro de 2005, e nº 8.645, de 21 de novembro de 1977, com as respectivas alterações posteriores; autoriza a reabertura de prazo para ingresso no Programa de Parcelamento Incentivado - PPI; revoga os dispositivos e leis que especifica.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:
