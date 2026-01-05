@@ -1,0 +1,4 @@
+# LEI Nº 14.934, DE 18 DE JUNHO DE 2009
+(Projeto de Lei nº 558/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)
+Autoriza o Poder Executivo a celebrar contratos, convênios ou quaisquer outros tipos de ajustes necessários, inclusive convênio de cooperação e contrato de programa, com o Estado de São Paulo, a Agência Reguladora de Saneamento e Energia do Estado de São Paulo - ARSESP e a Companhia de Saneamento Básico do Estado de São Paulo - SABESP, para as finalidades e nas condições que especifica; cria o Fundo Municipal de Saneamento Ambiental e Infraestrutura; e dá outras providências.
+GILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 3 de junho de 2009, decretou e eu promulgo a seguinte lei:
