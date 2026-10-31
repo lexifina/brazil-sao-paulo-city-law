@@ -16,3 +16,4 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
   dated by the latest date in the altering acts' addresses (notes + Alterações list).
 - 18:08Z: 10-lei-organica PUBLISHed; main 23a9834 (autopush).
 - 2026-10-31T18:28:40Z: 30-lei-2026-01..04 (187 Leis of 2026; 1 left out: altered, no dated alteration) PUBLISHed.
+- 2026-10-31T18:57:01Z: 30-lei-2025-01..04 (153 Leis of 2025) PUBLISHed (build 341 acts clean).

@@ -1,0 +1,320 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2025",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-10-31",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "3 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-18376": {
+   "label": "Lei nº 18.376, de 29/12/2025",
+   "title": "Dispõe sobre o Plano Plurianual para o quadriênio 2026-2029.",
+   "kind": "law",
+   "enacted": "2025-12-29",
+   "published": "2025-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18376-de-29-de-dezembro-de-2025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-18377": {
+   "label": "Lei nº 18.377, de 29/12/2025",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2026.",
+   "kind": "law",
+   "enacted": "2025-12-29",
+   "published": "2025-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18377-de-29-de-dezembro-de-2025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-18378": {
+   "label": "Lei nº 18.378, de 29/12/2025",
+   "title": "Altera o art. 150 da Lei nº 13.478, de 30 de dezembro de 2002, para dispor sobre o descarte adequado de materiais perfurocortantes de origem domiciliar.",
+   "kind": "law",
+   "enacted": "2025-12-29",
+   "published": "2025-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18378-de-29-de-dezembro-de-2025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-18376",
+   "short": "Lei 18376/2025",
+   "title": "Lei nº 18.376, de 29/12/2025 (Dispõe sobre o Plano Plurianual para o quadriênio 2026-2029.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18376-de-29-de-dezembro-de-2025",
+   "first_law": "lei-2025-18376",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18376-de-29-de-dezembro-de-2025",
+     "sha256": "58c0b29fafa2d589a6b8613cd4112b7ced66dd2958f8c07fbd009654df059b6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.376, DE 29 DE DEZEMBRO DE 2025\n(Projeto de Lei nº 1168/25, do Executivo aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre o Plano Plurianual para o quadriênio 2026-2029.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Plano Plurianual para o quadriênio 2026-2029, em cumprimento ao disposto no § 1º do art. 165 da Constituição Federal, e no inciso X do art. 69 e inciso I do art. 137, da Lei Orgânica do Município de São Paulo, estabelecendo programas, ações, valores e metas da Administração Pública Direta e Indireta do Poder Executivo e do Poder Legislativo para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.\nParágrafo único. Fazem parte desta Lei os seguintes anexos:\nI - apresentação do cenário econômico e demonstrativo da previsão de receitas para o quadriênio 2026-2029;\nII - demonstrativo dos programas e ações da Administração Pública para o quadriênio 2026-2029;\nIII - demonstrativo dos programas, indicadores, produtos e integração com instrumentos de planejamento;\nIV - orçamento climático;\nV - agendas sociais;\nVI - regionalização e distribuição territorial das despesas no quadriênio 2026-2029;\nVII - quadros adicionais simplificados;\nVIII - relação de alterações de programas e ações do quadriênio 2022-2025 para o quadriênio 2026-2029;\nIX - glossário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os programas constantes do anexo referido no inciso II do parágrafo único do art. 1º desta Lei obedecem à diretriz da regionalização das ações e estão em consonância com os projetos que compõem o Programa de Metas 2025-2028, os 17 (dezessete) Objetivos do Desenvolvimento Sustentável da Organização das Nações Unidas - ONU, na forma da Agenda Municipal 2030, o Plano Diretor Estratégico e outros instrumentos de planejamento vigentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As metas físicas e os valores estimados para execução das despesas previstas neste Plano Plurianual estão condicionados à efetiva arrecadação das receitas nele previstas.\n§ 1º As estimativas de valores de receitas e de despesas constantes dos anexos desta Lei, bem como suas metas físicas, foram fixadas de modo a conferir consistência ao Plano Plurianual, não se constituindo em obrigatoriedade ou limites à programação das despesas nas Leis orçamentárias anuais.\n§ 2º A Lei de Diretrizes Orçamentárias estabelecerá as metas e prioridades para cada ano, promovendo os ajustes eventualmente necessários ao Plano Plurianual.\n§ 3º As Leis Orçamentárias Anuais para o período 2026-2029 devem ser compatíveis com os programas e metas constantes desta Lei, observado o disposto no caput deste artigo.\n§ 4º As metas referidas no caput deste artigo norteiam as ações da Administração Municipal e correspondem as quantidades e valores estimados, não constituindo limites para o cumprimento dos objetivos do Plano de que trata esta Lei.\n§ 5º Considera-se revisão do Plano Plurianual a inclusão, a exclusão ou a alteração de programas.\n§ 6º As Leis Orçamentárias Anuais e seus anexos poderão criar, alterar ou excluir ações orçamentárias para o ano de sua vigência.\n§ 7º Ações orçamentárias criadas nos termos do § 6º deverão ser vinculadas aos programas do Plano Plurianual, observando-se o disposto no § 4º do art. 4º.\n§ 8º Fica o Poder Executivo autorizado a compatibilizar os anexos desta Lei a eventuais diferenças com relação à Lei Orçamentária Anual de 2026, em seus exatos limites.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As codificações de programas e ações constantes do Plano Plurianual serão observadas nas Leis de Diretrizes Orçamentárias, nas Leis Orçamentárias Anuais e nos projetos que as modifiquem.\n§ 1º Cada programa é composto por:\nI - ações orçamentárias necessárias à consecução das políticas públicas prioritárias para a Administração Municipal e respectivos produtos;\nII - valor global e respectivas fontes de financiamento, com a identificação, quando cabível, das Regiões, Subprefeituras e Distritos a serem beneficiados pelos investimentos;\nIII - indicadores de acompanhamento e respectivos resultados esperados para o período 2026-2029, quando cabível;\nIV - vínculo com o Programa de Metas 2025-2028, Agenda Municipal 2030, Plano Diretor Estratégico e outros instrumentos de planejamento vigentes;\nV - órgão responsável e órgãos participantes.\n§ 2º A identificação das ações regionalizadas, nos termos do inciso II do § 1º deste artigo, dar-se-á a partir do Detalhamento de Ação - DA, composto pela indicação da capacidade de regionalização de cada ação orçamentária e por códigos indicativos de Região, Subprefeitura e Distrito do local onde serão aplicados os recursos, de forma a conferir maior transparência ao processo de planejamento e execução orçamentária, não se constituindo em limites vinculantes para as despesas.\n§ 3º As codificações de que trata este artigo permanecerão até a extinção dos programas e ações a que se vinculam.\n§ 4º Cada ação será vinculada a somente um programa, estando vedada sua vinculação a mais de um programa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Administração Municipal adotará um índice de distribuição territorial do orçamento público, composto por indicadores das dimensões de vulnerabilidade social, infraestrutura urbana e demografia, de forma regionalizada no território do Município de São Paulo.\n§ 1º O objetivo do índice previsto no caput é reduzir desigualdades territoriais no Município de São Paulo, de forma a integrar os diferentes instrumentos de planejamento municipal vigentes, direcionando investimentos e expandindo a oferta de serviços públicos em regiões mais vulneráveis, em conformidade com a aplicação de recursos em projetos e atividades prioritários previstos no Plano Diretor Estratégico vigente e no Programa de Metas 2025-2028.\n§ 2º Os critérios de destinação de recursos com vistas à aplicação do índice previsto no caput obedecerão às normas referentes à execução orçamentária e financeira para cada exercício.\n§ 3º (VETADO)\n§ 4º A composição do índice previsto no caput é apresentada no anexo de que trata o inciso VI do parágrafo único do art. 1º desta Lei.\n§ 5º Para os exercícios de 2027, 2028 e 2029, a Administração Municipal poderá rever e atualizar a composição do índice previsto no caput, inclusive alterando seus componentes e respectivas ponderações, mantendo as dimensões de vulnerabilidade social, infraestrutura urbana e demografia, mas podendo acrescentar outras dimensões pertinentes, com vistas a melhor refletir a redução de desigualdades territoriais.\n§ 6º A atualização de que trata o § 5º deste artigo deverá ser apresentada em anexo do Projeto de Lei de Diretrizes Orçamentárias de 2027, 2028 e 2029, respectivamente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A avaliação dos programas é inerente às responsabilidades dos órgãos executores e objetivará:\nI - aferir o resultado com base nas metas fixadas;\nII - subsidiar a alocação dos recursos.\n§ 1º A Secretaria Municipal de Planejamento e Eficiência disponibilizará anualmente relatórios de monitoramento da execução dos programas estabelecidos por esta Lei, inclusive quanto à regionalização dos gastos públicos elencada por órgão e entidade da Administração Municipal, por meio do portal do Orçamento Público, além do portal da Transparência e do portal de Dados Abertos da Prefeitura de São Paulo.\n§ 2º A Secretaria Municipal de Planejamento e Eficiência estabelecerá as normas para o monitoramento dos programas estabelecidos por esta Lei, inclusive quanto aos prazos e meios de fornecimento de dados e informações pelos Grupos de Planejamento de que trata o art. 8º desta Lei.\n§ 3º Os dados de execução das Leis Orçamentárias Anuais deverão ser publicados no portal do Orçamento Público, além do portal da Transparência e do portal de Dados Abertos da Prefeitura de São Paulo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os programas que comportarem parcerias com financiamento de ações por outras fontes que não as do Tesouro Municipal deverão ser executados de acordo com as condições pactuadas, observando especialmente a utilização adequada da fonte de recursos externa ao Município e, quando for o caso, da contrapartida municipal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Cada órgão terá um Grupo de Planejamento com as seguintes atribuições:\nI - acompanhar e avaliar a execução do programa e das respectivas ações;\nII - coletar e manter dados atualizados e relevantes de sua área de competência;\nIII - zelar pela compatibilidade e coerência do programa com relação às Leis, planos e instrumentos de planejamento;\nIV - zelar pela integração e coerência entre o programa e as ações previstas para os fundos, autarquias, fundações e empresas a ele relacionadas, quando for o caso;\nV - adotar eventuais medidas corretivas, no sentido de compatibilizar os projetos e as atividades com os resultados planejados;\nVI - justificar os motivos de eventual descumprimento das metas físicas ou financeiras relativas aos projetos e atividades sob sua responsabilidade, inclusive quanto à regionalização das despesas;\nVII - organizar e fornecer subsídios necessários para a elaboração dos projetos de Leis de Diretrizes Orçamentárias e das Leis Orçamentárias Anuais, inclusive no que diz respeito aos processos participativos de planejamento orçamentário, conforme regras estabelecidas pela Secretaria Municipal de Planejamento e Eficiência;\nVIII - subsidiar a Secretaria Municipal de Planejamento e Eficiência na elaboração do relatório a que se refere o § 1º do art. 6º desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os órgãos responsáveis deverão assegurar o fornecimento tempestivo, completo e fidedigno dos dados necessários ao acompanhamento e à avaliação dos programas e ações constantes desta Lei, nos termos e prazos estabelecidos pela Secretaria Municipal de Planejamento e Eficiência.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica autorizada a revisão anual do Plano Plurianual, por ato do Poder Executivo, exclusivamente para atualização de produtos, indicadores, metas e demais elementos de monitoramento e avaliação, quando necessária a adequação dos instrumentos de planejamento às condições reais de execução e às prioridades da Administração Municipal.\nParágrafo único. As atualizações de que trata o caput deverão observar as disposições desta Lei e os princípios de transparência e publicidade.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As ações orçamentárias de natureza tipicamente administrativas, bem como aquelas decorrentes de emendas parlamentares, não terão atribuição de produtos, sem prejuízo da obrigatoriedade de registro orçamentário e da vinculação ao programa correspondente.\nParágrafo único. Nesses casos, o monitoramento e a avaliação da execução orçamentária se darão pelas informações de despesa.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Os pedidos de execução orçamentária de indicações parlamentares serão analisados e ratificados pela Casa Civil do Gabinete do Prefeito, com posterior envio à Secretaria Municipal de Planejamento e Eficiência, por meio de processo eletrônico específico, para instrução, análise e demais providências necessárias ao atendimento do pedido.\nParágrafo único. A Casa Civil publicará mensalmente, no Portal da Transparência, os pedidos atendidos com a indicação do Parlamentar e a descrição do objeto, do órgão executor e dos valores alocados.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Poder Executivo publicará, até trinta dias após o encerramento de cada semestre, relatório detalhando a execução das despesas destinadas à pessoa idosa, apuradas segundo a metodologia prevista no Anexo V desta Lei.\n§ 1º O relatório apresentará os valores empenhados, liquidados e pagos, agregados por programa e por ação orçamentária, bem como o órgão responsável pela despesa.\n§ 2º O relatório será disponibilizado em meios eletrônicos de acesso público.\n§ 3º A metodologia poderá ser atualizada pela Secretaria Municipal de Planejamento e Eficiência, com vistas a aprimorar os critérios de identificação e apropriação das despesas relativas à Pessoa Idosa, assegurada a continuidade do relatório previsto no caput.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entrará em vigor em 1º de janeiro de 2026.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2025, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nELAINE CRISTINA ALVES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 29 de dezembro de 2025.\nDocumento original assinado nº 148554987\nAnexos integrantes da Lei nº 18.376, de 29 de dezembro de 2025\nAnexo nº 148555049\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-18377",
+   "short": "Lei 18377/2025",
+   "title": "Lei nº 18.377, de 29/12/2025 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2026.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18377-de-29-de-dezembro-de-2025",
+   "first_law": "lei-2025-18377",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18377-de-29-de-dezembro-de-2025",
+     "sha256": "7a76a4764fe15ed8c85ed5dc96dc6e5a55f72f95352b3321f896070427800858",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.377, DE 29 DE DEZEMBRO DE 2025\n(Projeto de Lei nº 1169/25, do Executivo aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2026.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2026, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o orçamento fiscal referente aos Poderes Executivo e Legislativo, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta;\nII - o orçamento de investimentos das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta Lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º Os Orçamentos Fiscais dos Poderes do Município, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta, para o exercício de 2026, discriminados nos anexos desta Lei, estimam a receita e fixam a despesa em R$ 137.397.016.864,00 (cento e trinta e sete bilhões, trezentos e noventa e sete milhões, dezesseis mil, oitocentos e sessenta e quatro reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A receita total estimada do Orçamento Fiscal, de acordo com a legislação em vigor, está assim distribuída:\nDEMONSTRATIVO DAS RECEITAS\nRecursos de todas as fontes\nR$1,00\nDISCRIMINAÇÃO\nVALOR\nReceitas Correntes\n111.281.515.873\nReceita de Impostos, Taxas e Contribuições de Melhoria\n73.290.918.438\nReceitas de Contribuições\n4.614.763.168\nReceita Patrimonial\n2.817.379.100\nReceita de Serviços\n149.071.413\nTransferências Correntes\n27.755.155.752\nOutras Receitas Correntes\n2.654.228.002\nReceitas de Capital\n13.892.363.421\nOperações de Crédito\n8.255.808.584\nAlienação de Bens\n14.554.455\nAmortização de Empréstimos\n23.240.899\nTransferências de Capital\n694.589.758\nOutras Receitas de Capital\n4.904.169.725\nReceitas Intraorçamentárias\n12.223.137.570\nReceitas Intraorçamentárias Correntes\n12.223.133.570\nReceita de Impostos, Taxas e Contribuições de Melhoria Intraorçamentárias\n1.235.601\nReceitas de Contribuições Intraorçamentárias\n5.945.408.085\nReceita Patrimonial Intraorçamentária\n41.206.085\nReceita de Serviços Intraorçamentária\n600.854.987\nTransferências Correntes\n29.800.004\nOutras Receitas Correntes Intraorçamentárias\n5.604.628.808\nReceitas Intraorçamentárias de Capital\n4.000\nAlienação de Bens Intraorçamentária\n2.000\nTransferências de Capital\n1.000\nOutras Receitas de Capital Intraorçamentária\n1.000\nRecursos Arrecadados em Exercícios Anteriores\n0\nTOTAL\n137.397.016.864\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nDESPESAS POR ÓRGÃOS\nRecursos de todas as fontes\nR$ 1,00\nÓRGÃO\nVALOR\nPoder Legislativo\n09\nCâmara Municipal de São Paulo\n1.329.772.166\n10\nTribunal de Contas do Município de São Paulo\n629.354.000\n76\nFundo Especial de Despesas da Câmara Municipal de São Paulo\n8.885.500\n77\nFundo Especial de Despesas do Tribunal de Contas\n9.611.481\nPoder Executivo - Administração Direta\n07\nFundo Municipal de Desenvolvimento Social\n65.449.375\n08\nFundo Municipal do Idoso\n16.583.488\n11\nSecretaria do Governo Municipal\n1.043.528.592\n12\nSecretaria Municipal das Subprefeituras\n4.590.187.783\n13\nSecretaria Municipal de Gestão\n496.618.455\n14\nSecretaria Municipal de Habitação\n2.981.769.286\n16\nSecretaria Municipal de Educação\n26.536.608.168\n17\nSecretaria Municipal da Fazenda\n602.245.271\n19\nSecretaria Municipal de Esportes e Lazer\n569.101.126\n20\nSecretaria Municipal de Mobilidade Urbana e Transporte - SMT\n11.253.298.712\n21\nProcuradoria Geral do Município - PGM\n358.744.692\n22\nSecretaria Municipal de Infraestrutura Urbana e Obras\n3.109.910.224\n23\nSecretaria Municipal de Inovação e Tecnologia\n301.245.685\n24\nSecretaria Municipal de Assistência e Desenvolvimento Social\n349.365.484\n25\nSecretaria Municipal de Cultura\n906.171.418\n26\nSecretaria Municipal de Justiça\n5.942.589\n27\nSecretaria Municipal do Verde e do Meio Ambiente\n749.962.092\n28\nEncargos Gerais do Município\n20.178.449.957\n29\nSecretaria Municipal de Urbanismo e Licenciamento\n2.698.331.766\n30\nSecretaria Municipal de Desenvolvimento Econômico e Trabalho\n397.041.520\n31\nSecretaria Municipal de Planejamento e Eficiência\n31.201.764\n32\nControladoria Geral do Município\n54.573.398\n34.10\nSecretaria Municipal de Direitos Humanos e Cidadania\n316.530.673\n34.20\nFundo Municipal de Combate à Fome\n589.773\n35\nFundo Municipal de Defesa do Consumidor\n2.000\n36\nSecretaria Municipal da Pessoa com Deficiência\n130.392.709\n38\nSecretaria Municipal de Segurança Urbana\n1.846.045.101\n39.10\nFundo Especial da Procuradoria Geral do Município\n434.482.473\n39.20\nCentro de Estudos Jurídicos Lucia Maria Moraes Ribeiro de Mendonça\n63.840\n39.30\nEscola Superior de Direito Público Municipal\n90.400\n41\nSubprefeitura Perus/Anhanguera\n61.644.976\n42\nSubprefeitura Pirituba/Jaraguá\n62.454.545\n43\nSubprefeitura Freguesia/Brasilândia\n65.180.536\n44\nSubprefeitura Casa Verde/Limão/Cachoeirinha\n56.342.613\n45\nSubprefeitura Santana/Tucuruvi\n70.801.299\n46\nSubprefeitura Jaçanã/Tremembé\n55.667.118\n47\nSubprefeitura Vila Maria/Vila Guilherme\n52.593.572\n48\nSubprefeitura Lapa\n65.027.256\n49\nSubprefeitura Sé\n190.921.870\n50\nSubprefeitura Butantã\n62.100.000\n51\nSubprefeitura Pinheiros\n68.522.942\n52\nSubprefeitura Vila Mariana\n67.606.636\n53\nSubprefeitura Ipiranga\n75.205.925\n54\nSubprefeitura Santo Amaro\n67.164.062\n55\nSubprefeitura Jabaquara\n60.860.929\n56\nSubprefeitura Cidade Ademar\n63.747.288\n57\nSubprefeitura Campo Limpo\n74.465.633\n58\nSubprefeitura M'Boi Mirim\n72.312.014\n59\nSubprefeitura Capela do Socorro\n64.463.675\n60\nSubprefeitura Parelheiros\n72.153.647\n61\nSubprefeitura Penha\n68.567.211\n62\nSubprefeitura Ermelino Matarazzo\n56.199.677\n63\nSubprefeitura São Miguel Paulista\n73.704.476\n64\nSubprefeitura Itaim Paulista\n63.610.561\n65\nSubprefeitura Mooca\n92.394.859\n66\nSubprefeitura Aricanduva/Formosa/Carrão\n64.016.421\n67\nSubprefeitura Itaquera\n95.877.530\n68\nSubprefeitura de Guaianases\n72.557.951\n69\nSubprefeitura de Vila Prudente\n53.600.353\n70\nSubprefeitura São Mateus\n84.962.451\n71\nSubprefeitura Cidade Tiradentes\n53.125.591\n72\nSubprefeitura Sapopemba\n46.899.836\n73\nSecretaria Municipal de Relações Internacionais\n34.764.641\n74\nSecretaria Municipal de Turismo\n724.420.001\n75\nFundo Municipal de Parques\n4.000\n78\nFundo de Abastecimento Alimentar de São Paulo\n454.819.992\n79\nFundo Municipal de Cultura\n72.575.923\n84\nFundo Municipal de Saúde\n24.159.234.472\n86\nFundo Municipal de Saneamento Ambiental e Infraestrutura\n219.387.972\n87\nFundo Municipal de Desenvolvimento de Trânsito\n899.275.687\n88\nFundo de Preservação do Patrimônio Histórico e Cultural\n14.910\n89\nFundo Municipal de Esportes e Lazer\n1.650.000\n90\nFundo Municipal dos Direitos da Criança e do Adolescente\n61.302.755\n92\nFundo Municipal do Trabalho, Emprego e Renda\n2.000\n93\nFundo Municipal de Assistência Social\n2.538.121.710\n94\nFundo Especial do Meio Ambiente e Desenvolvimento Sustentável\n18.655.536\n95\nFundo Especial de Promoção de Atividades Culturais\n724.200\n96\nFundo Municipal de Turismo\n1.000\n97\nFundo de Proteção do Patrimônio Cultural e Ambiental Paulistano\n473.768\n98\nFundo de Desenvolvimento Urbano\n2.155.092.725\n99\nFundo Municipal de Iluminação Pública\n449.086.244\nPoder Executivo - Administração Indireta\n02\nHospital do Servidor Público Municipal\n601.650.481\n03.10\nInstituto de Previdência Municipal de São Paulo\n130.931.066\n03.20\nFundo Previdenciário - FUNPREV\n8.746.125.655\n03.30\nFundo Financeiro - FUNFIN\n6.888.443.844\n05\nSão Paulo Urbanismo\n160.478.978\n15\nCinema e Audiovisual de São Paulo\n42.216.812\n33\nAgência Reg. de Serv. Públicos do Mun. de São Paulo\n290.319.298\n80\nFundação Paulistana de Educação, Tecnologia e Cultura\n127.623.068\n81\nFundo Municipal de Limpeza Urbana\n3.246.643.915\n83\nCompanhia Metropolitana de Habitação de São Paulo\n649.343.685\n85\nFundação Theatro Municipal de São Paulo\n168.505.575\n91\nFundo Municipal de Habitação\n298.222.537\nTOTAL\n137.397.016.864\nParágrafo único. Os valores de despesa do Orçamento Fiscal distribuídos para a Secretaria Municipal de Mobilidade e Trânsito contemplam o custeio da manutenção da gratuidade aos domingos para os usuários do sistema municipal de transporte coletivo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º A despesa de investimentos das empresas, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2026, está fixada em R$ 3.207.092.126,00 (três bilhões, duzentos e sete milhões, noventa e dois mil, cento e vinte e seis reais), com a seguinte distribuição:\nINVESTIMENTO POR EMPRESA\nRecursos de todas as fontes\nR$ 1,00\nEMPRESA\nVALOR\nCompanhia de Engenharia de Tráfego - CET\n0\nEmpresa de Tecnologia da Informação e Comunicação - PRODAM\n47.036.357\nSão Paulo Obras - SP OBRAS\n6.910.800\nSão Paulo Parcerias\n1.557.848\nCompanhia São Paulo de Desenvolvimento e Mobilização de Ativos - SPDA\n13.062.713\nSão Paulo Transporte S/A - SPTRANS\n3.132.247.174\nSão Paulo Turismo\n6.277.234\nTOTAL\n3.207.092.126\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º Fica o Executivo autorizado a contratar operações de crédito no País e no exterior, expressamente previstas em lei aprovada pelo Legislativo, observado o disposto na Constituição Federal, nas resoluções do Senado Federal que disciplinam o endividamento dos municípios, na Lei Orgânica do Município de São Paulo e nas leis autorizativas das operações de crédito.\n§ 1º As taxas de juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações e das eventuais repactuações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas aplicáveis à matéria, inclusive as operações de crédito previstas na Lei nº 15.390, de 6 de julho de 2011, alterada pela Lei nº 15.687, de 27 de março de 2013.\n§ 2º Os orçamentos do Município consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas à amortização, juros e demais encargos decorrentes das operações de crédito a que se refere o caput deste artigo.\n§ 3º Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Município, ficando a Secretaria Municipal da Fazenda autorizada a adotar as providências que se façam necessárias.\n§ 4º Os prazos de carência e amortização poderão ser contratualmente repactuados perante a instituição financeira por iniciativa do Poder Executivo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Adicionais\nArt. 7º Fica o Poder Executivo autorizado, consoante o § 7º do art. 137 da Lei Orgânica do Município de São Paulo, a abrir créditos adicionais suplementares por decreto, para a Administração Direta, Indireta e seus Fundos Especiais, devidamente justificados, até o limite de 9% (nove por cento) do total da despesa fixada nesta Lei, nos termos do que dispõem a Lei Federal nº 4.320, de 17 de março de 1964, e o art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025.\n§ 1º Ficam excluídos do limite estabelecido no caput deste artigo os créditos adicionais suplementares listados no § 4º do art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025.\n§ 2º Adicionalmente ao contido no § 7º do art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025, a critério do Poder Executivo, a abertura de créditos adicionais suplementares poderá ser realizada por meio de ato próprio dos titulares dos Órgãos da Administração Direta, exclusivamente mediante a anulação de recursos disponíveis e prescindíveis de mesma fonte e de mesma categoria econômica.\n§ 3º A efetivação da abertura de créditos adicionais suplementares nos termos do caput deste artigo deverá observar os procedimentos estabelecidos no Decreto que regulamentará a execução orçamentária e financeira para o exercício.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Para efeito do disposto nos arts. 40 e 41 da Lei Municipal nº 18.286, de 22 de julho de 2025, alterações de detalhamento das vinculações específicas de fontes de receita, conforme Portaria Conjunta STN/SOF nº 20, de 23 de fevereiro de 2021, e Portaria STN nº 710, de 25 de fevereiro de 2021, não serão consideradas como alterações de fonte de receita.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Adicionalmente ao contido no § 7º do art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025, as entidades da Administração Indireta ficam autorizadas a, por ato próprio, abrir créditos adicionais suplementares em suas dotações, até o limite de 9% (nove por cento), calculado sobre o total da despesa fixada para cada uma delas nos termos do disposto no art. 4º desta Lei.\n§ 1º Aplicam-se, no que couber, a cada entidade, as disposições previstas no art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025, e no art. 8º desta Lei.\n§ 2º A efetivação da abertura de créditos adicionais suplementares nos termos do caput deste artigo somente ocorrerá mediante ratificação da Secretaria à qual a entidade esteja vinculada e deverá observar os procedimentos estabelecidos no decreto que regulamentará a execução orçamentária e financeira para o exercício.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Ficam a Mesa da Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta Lei, autorizados a abrir crédito adicional suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 40 da Lei Municipal nº 18.286, de 22 de julho de 2025, nas dotações dos respectivos Órgãos e Fundos Especiais, desde que os recursos para cobertura sejam provenientes de anulação total ou parcial de dotações orçamentárias no âmbito de cada entidade, conforme estabelecem o inciso II do art. 27 da Lei Orgânica do Município de São Paulo e o art. 41 da Lei Municipal nº 18.286, de 22 de julho de 2025.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 11. Para efeito do disposto no art. 9º da Lei Complementar Federal nº 101, de 2000, serão preservadas, prioritariamente, as dotações que atendam os critérios estabelecidos no § 2º do art. 38 da Lei Municipal nº 18.286, de 22 de julho de 2025.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Os compromissos assumidos pelas unidades deverão se limitar aos recursos orçamentários disponibilizados, em especial àqueles de natureza continuada.\nParágrafo único. Eventuais despesas realizadas sem a devida cobertura orçamentária deverão ser objeto de apuração de responsabilidade, sem prejuízo do disposto no § 3º do art. 38 da Lei Municipal nº 18.286, de 22 de julho de 2025.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Os órgãos aos quais estejam vinculadas entidades da Administração Indireta deverão acompanhar efetivamente as respectivas atividades e, em especial, coordenar o uso dos recursos autorizados nesta Lei.\nParágrafo único. As entidades da Administração Indireta, incluindo as fundações, as empresas públicas e as sociedades de economia mista, publicarão, no respectivo sítio na internet, em até 30 (trinta) dias, as receitas e despesas do mês anterior de forma detalhada.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Para cumprir o Programa de Trabalho estabelecido nesta Lei, os órgãos orçamentários da Administração Direta e Indireta poderão delegar competência entre si por meio de Nota de Transferência.\n§ 1º A unidade cedente permanecerá responsável pelo mérito do Programa de Trabalho e a unidade executora pela respectiva execução orçamentária, com base nas normas de licitação em vigor.\n§ 2º A transferência financeira na modalidade de aplicação 91 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social também poderá ser utilizada, mediante despacho decisório do titular do órgão cedente, declarando expressamente a delegação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Durante a execução orçamentária, mediante controle interno, deverão ser identificados e avaliados os componentes de custos das ações, para dimensionar se os recursos orçamentários disponíveis comportarão eventual expansão ou geração de novas despesas.\n§ 1º Sempre que cabível, deverá ser verificada a possibilidade de financiamento por outras fontes de recursos, em complemento ao Tesouro Municipal.\n§ 2º Os recursos correspondentes às outras fontes que não os da fonte livre do Tesouro Municipal deverão ser aplicados plenamente, com o acompanhamento e orientação das áreas centrais de orçamento, de finanças e dos negócios jurídicos, quando necessário, minimizando-se eventuais restituições e sanções.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Eventuais saldos de dotações orçamentárias da Câmara Municipal de São Paulo e do Tribunal de Contas do Município de São Paulo, que não venham a ser utilizados por essas entidades, poderão ser oferecidos como fontes para a abertura de créditos adicionais pelo Poder Executivo.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. (VETADO)\n1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Os §§ 1º e 2º do art. 5º da Lei nº 17.254, de 26 de dezembro de 2019, que tratam da autorização para contratação de operações de crédito, passam a vigorar com a seguinte redação:\n\"Art. 5º .......................................................................................\n§ 1º Fica o Poder Executivo autorizado a vincular, como contragarantia à garantia da União, às operações de crédito de que trata esta Lei, em caráter irrevogável e irretratável, a modo \"pro solvendo\", as receitas discriminadas no § 4º do art. 167 da Constituição Federal, no que couber, bem como outras garantias admitidas em direito.\n§ 2º A receita do Fundo de Participação dos Municípios poderá ser oferecida, em caráter complementar, exclusivamente nas operações internas celebradas com instituições financeiras federais, para a cobertura das obrigações principais e acessórias não cobertas pela União, nos termos do contrato de garantia a ser celebrado em decorrência de operação de crédito objeto desta Lei.\" (NR)\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Esta Lei entrará em vigor em 1º de janeiro de 2026.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2025, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nELAINE CRISTINA ALVES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 29 de dezembro de 2025.\nDocumento original assinado nº 148554884\nAnexos integrantes da Lei nº 18.377, de 29 de dezembro de 2025\nAnexo nº 148557724\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-18378",
+   "short": "Lei 18378/2025",
+   "title": "Lei nº 18.378, de 29/12/2025 (Altera o art. 150 da Lei nº 13.478, de 30 de dezembro de 2002, para dispor sobre o descarte adequado de materiais perfurocortantes de origem domiciliar.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18378-de-29-de-dezembro-de-2025",
+   "first_law": "lei-2025-18378",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18378-de-29-de-dezembro-de-2025",
+     "sha256": "fc01fa301d041a446283913c3be97fa42892e4bcb061be4566a9ea90e7422e03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.378, DE 29 DE DEZEMBRO DE 2025\n(Projeto de Lei nº 369/24, dos Vereadores Fabio Riva - MDB, Ely Teruel - MDB e Silvinho Leite - UNIÃO)\nAltera o art. 150 da Lei nº 13.478, de 30 de dezembro de 2002, para dispor sobre o descarte adequado de materiais perfurocortantes de origem domiciliar.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 150 da Lei nº 13.478, de 30 de dezembro de 2002, passa a vigorar com a seguinte redação:\n\"Art. 150. ......................................................................................\n§ 4º É proibido acondicionar juntamente com resíduos comuns, resíduos explosivos, tóxicos ou corrosivos em geral, e materiais perfurocortantes, os quais deverão ser acondicionados e descartados conforme o disposto no § 6º deste artigo.\n§ 6º O descarte de materiais perfurocortantes de origem domiciliar deve ser realizado em recipientes rígidos, resistentes à perfuração, ruptura e vazamento, com tampa, devidamente identificados na parte externa com a inscrição \"PERFUROCORTANTE\" e a menção a riscos adicionais, químico ou radiológico, quando houver.\n§ 7º O disposto no § 6º deste artigo aplica-se apenas ao descarte de materiais perfurocortantes de origem domiciliar, residenciais ou não residenciais, nos termos dos incisos I e II do art. 22 desta Lei, não incidindo sobre o descarte de materiais perfurocortantes originados dos serviços de saúde, conforme art. 22, inciso IV, e art. 94, § 1º, desta Lei.\n§ 8º Para efeito do disposto no § 6º deste artigo, entende-se como material perfurocortante todo aquele que, por suas características, possa perfurar ou cortar a pele ou mucosa, como:\nI - (VETADO)\nII - frascos ou ampolas de vidro ou de material rígido;\nIII - (VETADO)\nIV - lâminas de barbear;\nV - lâmpadas, pregos, facas, estiletes, espetos e garfos de materiais rígidos, entre outros.\n§ 9º É vedado o descarte doméstico de materiais perfurocortantes de origem domiciliar em:\nI - recipientes comuns de lixo;\nII - esgotos sanitários;\nIII - vias públicas;\nIV - qualquer outro local que possa colocar em risco a saúde pública.\n§ 10. O descarte de materiais perfurocortantes de origem domiciliar deverá ocorrer em pontos de entrega especiais, em locais já atendidos pela coleta de resíduos de serviços de saúde, conforme regulamento.\n§ 11. Poderão ser realizados ciclos de formação educativa da população em geral para o descarte adequado de materiais perfurocortantes de origem domiciliar.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução da presente Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2025, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nELAINE CRISTINA ALVES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 29 de dezembro de 2025.\nDocumento original assinado nº 148622136\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
