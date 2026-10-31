@@ -21,3 +21,4 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
 - 19:03Z resumed (PID 41236) after confirming the 18:57Z timeout was a local network drop (Porto Velho's SAPL failed in the same 9 s); see SCRAPING-LOG.md.
 - 2026-10-31T19:06:15Z: 30-lei-2024-01..04 (153 Leis of 2024) PUBLISHed (build 494 acts clean).
 - 2026-10-31T19:26:23Z: 30-lei-2023-01..04 (184 Leis of 2023) PUBLISHed (build 678 acts clean).
+- 2026-10-31T19:43:48Z: 30-lei-2022-01..03 (146 Leis of 2022) PUBLISHed (build 824 acts clean).
