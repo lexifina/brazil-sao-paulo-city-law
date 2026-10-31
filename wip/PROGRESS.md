@@ -23,3 +23,4 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
 - 2026-10-31T19:26:23Z: 30-lei-2023-01..04 (184 Leis of 2023) PUBLISHed (build 678 acts clean).
 - 2026-10-31T19:43:48Z: 30-lei-2022-01..03 (146 Leis of 2022) PUBLISHed (build 824 acts clean).
 - 2026-10-31T20:12:15Z: 30-lei-2021-01..04 (184 Leis of 2021) PUBLISHed (build 1008 acts clean). Fetch PID 41236 continues (2020 and older, newest first); each finished year needs parse.py + check_letters + build/check/audit before its PUBLISH.
+- 2026-10-31T20:34:00Z: 30-lei-2020-01..06 PUBLISHed (build 1286 acts clean, letters 0, audit []). From now on: bash ../world-law/br_city_verify.sh <folder> after each year (also run by br_city_loop.sh).
