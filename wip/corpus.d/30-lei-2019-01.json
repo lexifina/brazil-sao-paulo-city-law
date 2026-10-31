@@ -1,0 +1,2371 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-10-31",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2009-14891": {
+   "label": "Lei nº 14.891, de 20/01/2009",
+   "title": "Dispõe sobre fixação da data-base para os servidores públicos do Tribunal de Contas do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-01-20",
+   "published": "2019-01-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14891-de-20-de-janeiro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17022": {
+   "label": "Lei nº 17.022, de 02/01/2019",
+   "title": "Confere nova redação ao art. 1º da Lei nº 14.884, de 14 de janeiro de 2009, que dispõe sobre a doação, ao Amparo Maternal, da área municipal situada na Rua Loefgren nº 1901, Vila Clementino.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17022-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17023": {
+   "label": "Lei nº 17.023, de 02/01/2019",
+   "title": "Denomina Praça Arnaldo José de Andrade o espaço livre que especifica, localizado no Distrito de Jardim São Luiz, Subprefeitura do M’Boi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17023-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17024": {
+   "label": "Lei nº 17.024, de 02/01/2019",
+   "title": "Denomina Praça Manuel Pina o logradouro que especifica, localizado no Distrito de Belém, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17024-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17025": {
+   "label": "Lei nº 17.025, de 02/01/2019",
+   "title": "Denomina Rua Amara Tertulina da Silva Xavier o logradouro que especifica, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17025-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17026": {
+   "label": "Lei nº 17.026, de 02/01/2019",
+   "title": "Denomina Praça José Pinto Horta o espaço livre que especifica, localizado no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17026-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17027": {
+   "label": "Lei nº 17.027, de 02/01/2019",
+   "title": "Denomina Praça José Marinho dos Santos o espaço livre que especifica, localizado no Distrito Rio Pequeno, Subprefeitura de Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17027-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17028": {
+   "label": "Lei nº 17.028, de 02/01/2019",
+   "title": "Altera a denominação do Viaduto Florêncio de Abreu para Viaduto Augusto Ferreira Velloso, localizado no Distrito da Sé, Subprefeitura da Sé, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17028-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17029": {
+   "label": "Lei nº 17.029, de 02/01/2019",
+   "title": "Denomina Praça Carlos Correia dos Santos – Carlitão o espaço livre que especifica, localizado no Distrito de Jaraguá, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17029-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17030": {
+   "label": "Lei nº 17.030, de 02/01/2019",
+   "title": "Denomina Praça Divino Espírito Santo o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17030-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17031": {
+   "label": "Lei nº 17.031, de 02/01/2019",
+   "title": "Denomina Travessa Cristóvão Ribeiro da Fonseca o logradouro que especifica, localizado no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17031-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17032": {
+   "label": "Lei nº 17.032, de 02/01/2019",
+   "title": "Denomina Praça Caio Henrique Teodoro de Andrade o espaço livre que especifica, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17032-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17033": {
+   "label": "Lei nº 17.033, de 02/01/2019",
+   "title": "Denomina Praça Francisco Soto – Chicão o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17033-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17034": {
+   "label": "Lei nº 17.034, de 02/01/2019",
+   "title": "Denomina Praça Madalena Soares da Rocha o logradouro que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17034-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17035": {
+   "label": "Lei nº 17.035, de 02/01/2019",
+   "title": "Altera a redação do art. 7º, item 1, da Lei nº 13.399/2002, incluindo Anhanguera na nomenclatura da Subprefeitura de Perus.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17035-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17036": {
+   "label": "Lei nº 17.036, de 02/01/2019",
+   "title": "Denomina Praça Adão Pereira dos Anjos o logradouro que especifica, localizado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17036-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17037": {
+   "label": "Lei nº 17.037, de 02/01/2019",
+   "title": "Denomina Rua América do Sul o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17037-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17038": {
+   "label": "Lei nº 17.038, de 02/01/2019",
+   "title": "Denomina Rua Meire Schunck o logradouro que especifica, localizado no Distrito de Marsilac, Subprefeitura de Parelheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17038-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17039": {
+   "label": "Lei nº 17.039, de 02/01/2019",
+   "title": "Denomina Praça Dr. Édison de Cézar Philippi o logradouro que especifica, localizado no Distrito de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17039-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17040": {
+   "label": "Lei nº 17.040, de 02/01/2019",
+   "title": "Denomina Praça Soldado Richard Schimith de Assis o espaço livre que especifica, localizado no Distrito de Itaim Paulista, Subprefeitura de Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17040-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17041": {
+   "label": "Lei nº 17.041, de 02/01/2019",
+   "title": "Denomina Praça Cidade de Fátima o espaço livre que especifica, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-02",
+   "published": "2019-01-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17041-de-2-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17042": {
+   "label": "Lei nº 17.042, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial da Síndrome de Moebius, a ser comemorado anualmente no dia 24 de janeiro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17042-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17043": {
+   "label": "Lei nº 17.043, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial do Ufólogo, a ser comemorado anualmente no dia 24 de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17043-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17044": {
+   "label": "Lei nº 17.044, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Nacional do Historiador, a ser comemorado anualmente no dia 19 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17044-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17045": {
+   "label": "Lei nº 17.045, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Marcha da Consciência Negra, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17045-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17046": {
+   "label": "Lei nº 17.046, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Nacional de Conscientização e Divulgação da Fibrose Cística, a ser comemorado anualmente no dia 05 de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17046-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17047": {
+   "label": "Lei nº 17.047, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal da Conscientização de Doação do Cordão Umbilical, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17047-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17048": {
+   "label": "Lei nº 17.048, de 03/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Copa dos Refugiados, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-03",
+   "published": "2019-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17048-de-3-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17049": {
+   "label": "Lei nº 17.049, de 11/01/2019",
+   "title": "Denomina Praça Abílio Augusto Fonseca o espaço livre delimitado pelas ruas Luís Elias Attiê e Brigadeiro Henrique Fontenelle, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-11",
+   "published": "2019-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17049-de-11-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17050": {
+   "label": "Lei nº 17.050, de 11/01/2019",
+   "title": "Denomina Praça Dr. Vincenzo Izzo o espaço livre que especifica, localizado no Distrito de Vila Prudente, Subprefeitura de Vila Prudente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-11",
+   "published": "2019-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17050-de-11-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17051": {
+   "label": "Lei nº 17.051, de 11/01/2019",
+   "title": "Denomina Travessa Manoel Pelaio Donha o logradouro que especifica, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-11",
+   "published": "2019-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17051-de-11-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17052": {
+   "label": "Lei nº 17.052, de 11/01/2019",
+   "title": "Denomina Praça Edgard Gamberini o espaço livre que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-11",
+   "published": "2019-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17052-de-11-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17053": {
+   "label": "Lei nº 17.053, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Celebração da Cultura Bantu, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17053-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17054": {
+   "label": "Lei nº 17.054, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Fé e Cultura da Comunidade Boliviana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17054-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17055": {
+   "label": "Lei nº 17.055, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Fonoaudiólogo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17055-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17056": {
+   "label": "Lei nº 17.056, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Conscientização do Tratamento e Prevenção das Feridas Crônicas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17056-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17057": {
+   "label": "Lei nº 17.057, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Conscientização contra o Câncer de Pele, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17057-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17058": {
+   "label": "Lei nº 17.058, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Comemoração e Reconhecimento das Origens Históricas do Bairro de São Miguel Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17058-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17059": {
+   "label": "Lei nº 17.059, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Ética, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17059-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17060": {
+   "label": "Lei nº 17.060, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Junina da Paróquia de Nossa Senhora da Consolação, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17060-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17061": {
+   "label": "Lei nº 17.061, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Auditor-Fiscal do Trabalho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17061-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17062": {
+   "label": "Lei nº 17.062, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal de Prevenção, Conscientização e Combate à Automutilação e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17062-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17063": {
+   "label": "Lei nº 17.063, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês de Combate à Febre Amarela, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17063-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17064": {
+   "label": "Lei nº 17.064, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional da Síndrome de Down, a ser realizado anualmente no último domingo de março, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17064-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17065": {
+   "label": "Lei nº 17.065, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Abril Verde, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17065-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17066": {
+   "label": "Lei nº 17.066, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Valorização do Policial Civil, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17066-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17067": {
+   "label": "Lei nº 17.067, de 22/01/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Corrida Internacional de São Silvestre, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-01-22",
+   "published": "2019-01-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17067-de-22-de-janeiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17068": {
+   "label": "Lei nº 17.068, de 19/02/2019",
+   "title": "Introduz alterações nos arts. 1º, 5º, 6º, 7º, 10 e 15 da Lei nº 13.425, de 2 de setembro de 2002, que regulamenta o art. 168 da Lei Orgânica do Município de São Paulo e institui o Conselho Municipal de Habitação de São Paulo; introduz alterações na Lei nº 16.974, de 23 de agosto de 2018, e na Lei nº 14.517, de 16 de outubro de 2007, cria e extingue os órgãos que especifica, bem como altera as funções de confiança que especifica.",
+   "kind": "law",
+   "enacted": "2019-02-19",
+   "published": "2019-02-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17068-de-19-de-fevereiro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17069": {
+   "label": "Lei nº 17.069, de 06/03/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Festival Cívico do Imirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-03-06",
+   "published": "2019-03-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17069-de-6-de-marco-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17070": {
+   "label": "Lei nº 17.070, de 13/03/2019",
+   "title": "Dispõe sobre a atualização das multas pecuniárias previstas na Lei nº 13.264, de 2 de janeiro de 2002, a inclusão de artigo que extingue qualquer subjetividade que possa ocorrer no ato fiscalizatório e acrescenta teor que garante segurança financeira ao munícipe.",
+   "kind": "law",
+   "enacted": "2019-03-13",
+   "published": "2019-03-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17070-de-13-de-marco-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2009-14891",
+   "short": "Lei 14891/2009",
+   "title": "Lei nº 14.891, de 20/01/2009 (Dispõe sobre fixação da data-base para os servidores públicos do Tribunal de Contas do Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14891-de-20-de-janeiro-de-2009",
+   "first_law": "lei-2009-14891",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14891-de-20-de-janeiro-de-2009",
+     "sha256": "5576388c458642374f2910f9f7a75c92d840a5c3db3e9849535e81d4df96d485",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.891 DE 20 DE JANEIRO DE 2009\n(PROJETO DE LEI Nº 642/08) (TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO)\nDispõe sobre fixação da data-base para os servidores públicos do Tribunal de Contas do Município de São Paulo, e dá outras providências.\nDalton Silvano, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É fixada em 1º de março de cada ano a data-base para o reajuste da remuneração dos servidores públicos do Tribunal de Contas do Município de São Paulo e deliberação sobre o conjunto de reivindicações desses servidores.\nParágrafo único. As disposições deste artigo aplicam-se, no que couber, aos servidores inativos e pensionistas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário, observadas as disposições do art. 169 da Constituição Federal, da Lei de Diretrizes Orçamentárias, da Lei Orçamentária Anual e da Lei Complementar nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de janeiro de 2009.\nO Presidente em exercício, Dalton Silvano\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de janeiro de 2009.\nA Secretária Geral Parlamentar em exercício, Karen Lima Vieira\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17022",
+   "short": "Lei 17022/2019",
+   "title": "Lei nº 17.022, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17022-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17022",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17022-de-2-de-janeiro-de-2019",
+     "sha256": "7b84a40b8a9203bd79e1b9323486b395ff189faeb479cbab6796c9bb8c3dcdb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.022, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 490/18, do Executivo)\nConfere nova redação ao art. 1º da Lei nº 14.884, de 14 de janeiro de 2009, que dispõe sobre a doação, ao Amparo Maternal, da área municipal situada na Rua Loefgren nº 1901, Vila Clementino.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de dezembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 14.884, de 14 de janeiro de 2009, passa a vigorar com a seguinte redação:\n\"Art. 1º Fica o Executivo autorizado a doar ao Amparo Maternal, nos termos do disposto na alínea \"c\" do inciso II do § 1º do art. 112 da Lei Orgânica do Município de São Paulo, a área municipal situada na Rua Loefgren nº 1901, Vila Clementino, para fins de amparo à maternidade sob a forma de assistência médica, educativa e moral às gestantes e nascituros, bem como para prestar assistência à saúde em geral, assistência social e/ou educativa, podendo utilizar o imóvel, dentro de suas áreas de atuação e fim social, para a manutenção e sustentabilidade do fim filantrópico ali exercido.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A donatária deverá arcar com todas as despesas oriundas da modificação promovida por esta lei, inclusive com as relativas à lavratura e registro do competente instrumento no Cartório de Registro de Imóveis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17023",
+   "short": "Lei 17023/2019",
+   "title": "Lei nº 17.023, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17023-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17023",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17023-de-2-de-janeiro-de-2019",
+     "sha256": "58f86a8b201eb3c2fbd52856dabe2da5f4730db9aa2756fa65c2908c38106c45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.023, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 54/18, do Vereador Reis - PT)\nDenomina Praça Arnaldo José de Andrade o espaço livre que especifica, localizado no Distrito de Jardim São Luiz, Subprefeitura do M'Boi Mirim, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Arnaldo José de Andrade o espaço livre 1M do croqui nº 102263 7697127, delimitado pelas ruas Romão Manzini Cerqueira, Baucis, pela rua conhecida por Paulo Lemore e por lotes particulares, localizado no Setor 165, Quadra 424, no Distrito do Jardim São Luiz, na Subprefeitura do M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17024",
+   "short": "Lei 17024/2019",
+   "title": "Lei nº 17.024, de 02/01/2019 (Denomina Praça Manuel Pina o logradouro que especifica, localizado no Distrito de Belém, Subprefeitura da Mooca, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17024-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17024",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17024-de-2-de-janeiro-de-2019",
+     "sha256": "06cf8a2ad57ba5f90dd131b9b1685640d2f0fbaa4a911ce238422f6c24e1a6c2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.024, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 93/16, dos Vereadores Paulo Fiorilo - PT e José Police Neto - PSD)\nDenomina Praça Manuel Pina o logradouro que especifica, localizado no Distrito de Belém, Subprefeitura da Mooca, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manuel Pina o logradouro formado pela área verde 1 da planta de desmembramento de Gleba DG 184 e pelas áreas 1M, 3M e 5M do croqui patrimonial nº 106.820, delimitado pelas ruas Paulo Andrighetti, Catumbi, Praça General Humberto de Souza Mello, pela Área Institucional e por lotes particulares, situado no Setor 196, Quadra 6, localizado no Distrito de Belém, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17025",
+   "short": "Lei 17025/2019",
+   "title": "Lei nº 17.025, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17025-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17025",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17025-de-2-de-janeiro-de-2019",
+     "sha256": "ec9d53333c415c0fb4cce78cf0e83c31ec6a88679e687d6256e909533ca13d92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.025, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 96/17, do Vereador Paulo Frange - PTB)\nDenomina Rua Amara Tertulina da Silva Xavier o logradouro que especifica, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Amara Tertulina da Silva Xavier, Codlog 26.660-4, o logradouro com início entre os números 408 e 420 da Rua Coronel José Venâncio Dias, no trecho desta entre as ruas Fazenda Monte Alegre e Ana Luísa Moreira, e término em faixa sanitária a aproximadamente 90 metros de seu início, localizado no Setor 124, Quadra 28, situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17026",
+   "short": "Lei 17026/2019",
+   "title": "Lei nº 17.026, de 02/01/2019 (Denomina Praça José Pinto Horta o espaço livre que especifica, localizado no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17026-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17026",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17026-de-2-de-janeiro-de-2019",
+     "sha256": "e30138811de434d7f72c20e217a39cabee1901661f2bfbfb10e9fd493be53a60",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.026, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 112/16, do Vereador Paulo Fiorilo - PT)\nDenomina Praça José Pinto Horta o espaço livre que especifica, localizado no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Pinto Horta o espaço livre delimitado pelas duas pistas da Avenida da Barreira Grande e pela Avenida Luís Pires de Minas, situado no Setor 149, Quadras 123 e 302, localizado no Distrito de São Mateus, Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17027",
+   "short": "Lei 17027/2019",
+   "title": "Lei nº 17.027, de 02/01/2019 (Denomina Praça José Marinho dos Santos o espaço livre que especifica, localizado no Distrito Rio Pequeno, Subprefeitura de Butantã, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17027-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17027",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17027-de-2-de-janeiro-de-2019",
+     "sha256": "2b3b66d34287ba69fb9e45131fb182a1221635b7b3602422f81164228c550468",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.027, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 233/16, do Vereador Jair Tatto - PT)\nDenomina Praça José Marinho dos Santos o espaço livre que especifica, localizado no Distrito Rio Pequeno, Subprefeitura de Butantã, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Marinho dos Santos o espaço livre delimitado pelas ruas Padre Paulo Canelles e Domingos de Abreu, situado no Setor 160, Quadra 34, localizado no Distrito Rio Pequeno, Subprefeitura Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17028",
+   "short": "Lei 17028/2019",
+   "title": "Lei nº 17.028, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17028-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17028",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17028-de-2-de-janeiro-de-2019",
+     "sha256": "1fc1fcc660a778831c2cbd6fe0508a9198737cb064cab282b5fc9836df6ed197",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.028, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 391/16, do Vereador Natalini - PV)\nAltera a denominação do Viaduto Florêncio de Abreu para Viaduto Augusto Ferreira Velloso, localizado no Distrito da Sé, Subprefeitura da Sé, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação do Viaduto Florêncio de Abreu, codlog 36.604-2, para Viaduto Augusto Ferreira Velloso, situado no Setor 1, Quadras 40, 41, 49 e 50, localizado no Distrito da Sé, Subprefeitura da Sé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17029",
+   "short": "Lei 17029/2019",
+   "title": "Lei nº 17.029, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17029-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17029",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17029-de-2-de-janeiro-de-2019",
+     "sha256": "33ace884b087fab818139bd711fd168410720912268b02ac033fcbcd896d5789",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.029, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 422/17, da Vereadora Aline Cardoso - PSDB)\nDenomina Praça Carlos Correia dos Santos - Carlitão o espaço livre que especifica, localizado no Distrito de Jaraguá, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Carlos Correia dos Santos - Carlitão o espaço livre 5M do croqui patrimonial nº 104.376, delimitado pela Rua Joaquim Pimentel, pela Travessa Caetano Filgueiras e por lotes particulares, situado no Setor 215, Quadra 1, Distrito de Jaraguá, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17030",
+   "short": "Lei 17030/2019",
+   "title": "Lei nº 17.030, de 02/01/2019 (Denomina Praça Divino Espírito Santo o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17030-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17030",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17030-de-2-de-janeiro-de-2019",
+     "sha256": "1ec27d199c62cbde8c70e9cbf2919de2dc471750ba6f01dd1d862195a3a80877",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.030, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 461/17, do Vereador Toninho Paiva - PR)\nDenomina Praça Divino Espírito Santo o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Divino Espírito Santo o espaço livre 1M do croqui patrimonial nº 103.490, delimitado pela Avenida Dr. Bernardino Brito F. de Carvalho, Rua São Saturnino e por lotes particulares, localizado no Setor 146, Quadra 156, situado no Distrito de Vila Matilde, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17031",
+   "short": "Lei 17031/2019",
+   "title": "Lei nº 17.031, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17031-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17031",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17031-de-2-de-janeiro-de-2019",
+     "sha256": "69bbd4badc44e5024c2d101e199ae8156179d7beee809fdd28939ce9ac091fad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.031, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 519/16, do Vereador Toninho Vespoli - PSOL)\nDenomina Travessa Cristóvão Ribeiro da Fonseca o logradouro que especifica, localizado no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Cristóvão Ribeiro da Fonseca o logradouro com início na Rua Doliarina, entre as ruas Estado do Amazonas e Lagoa Bonita, e término na Rua São João do Paraíso, localizado no Setor 149, Quadra 97, situado no Distrito de São Mateus, na Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17032",
+   "short": "Lei 17032/2019",
+   "title": "Lei nº 17.032, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17032-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17032",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17032-de-2-de-janeiro-de-2019",
+     "sha256": "636190a31ac31a81f659638dad9d595591c10f1e6ebd07fe05bd9f6e98cc3d72",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.032, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 527/16, do Vereador Jair Tatto - PT)\nDenomina Praça Caio Henrique Teodoro de Andrade o espaço livre que especifica, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Caio Henrique Teodoro de Andrade o espaço livre delimitado pelas ruas Maximino Maciel, Dr. Luiz Migliano e divisa de arruamento, situado em parte do espaço livre da planta AU 5222, Setor 171, Quadra 301, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17033",
+   "short": "Lei 17033/2019",
+   "title": "Lei nº 17.033, de 02/01/2019 (Denomina Praça Francisco Soto – Chicão o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17033-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17033",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17033-de-2-de-janeiro-de-2019",
+     "sha256": "43e84243a72d0b0aada5609d2abc5575e72769e71a35573f9b9f2f6f05d7c547",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.033, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 533/16, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDenomina Praça Francisco Soto - Chicão o espaço livre que especifica, localizado no Distrito de Vila Matilde, Subprefeitura da Penha, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Francisco Soto - Chicão o logradouro público inominado delimitado pela Avenida Antonio Estevão de Carvalho e Rua Licánia, situado no Bairro Cidade Patriarca, Distrito de Vila Matilde, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17034",
+   "short": "Lei 17034/2019",
+   "title": "Lei nº 17.034, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17034-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17034",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17034-de-3-de-janeiro-de-2019",
+     "sha256": "38f447769083c2e00a2f74331f6485df601acec5096d4fb8832f678342c9bf0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.034, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 570/17, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Madalena Soares da Rocha o logradouro que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Madalena Soares da Rocha o espaço livre 39M do croqui patrimonial nº 101.198, delimitado pela confluência das ruas José Soares de Araújo e Custódio Guimarães e pela via sem denominação, localizado na Quadra 95, entre as quadras 91 e 92, do Setor 125, Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17035",
+   "short": "Lei 17035/2019",
+   "title": "Lei nº 17.035, de 02/01/2019 (Altera a redação do art. 7º, item 1, da Lei nº 13.399/2002, incluindo Anhanguera na nomenclatura da Subprefeitura de Perus.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17035-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17035",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17035-de-2-de-janeiro-de-2019",
+     "sha256": "4d09ce09406a294555bcb7c195d99088845ec18146c7c89e16ac6af76b71857b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.035, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 588/17, do Vereador Fábio Riva - PSDB)\nAltera a redação do art. 7º, item 1, da Lei nº 13.399/2002, incluindo Anhanguera na nomenclatura da Subprefeitura de Perus.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 13.399, de 1º de agosto de 2002, em seu art. 7º, item 1, passa a vigorar com a seguinte redação:\n\"1 - PERUS/ANHANGUERA: Perus, Anhanguera\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo terá 60 dias para regulamentar esta lei, contados da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17036",
+   "short": "Lei 17036/2019",
+   "title": "Lei nº 17.036, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17036-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17036",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17036-de-2-de-janeiro-de-2019",
+     "sha256": "11d7a3d855176497756835b9b500a92a4235fc533eba6b4846a131a720f1bdd2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.036, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 591/17, do Vereador José Police Neto - PSD)\nDenomina Praça Adão Pereira dos Anjos o logradouro que especifica, localizado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Adão Pereira dos Anjos o espaço livre 2M do croqui patrimonial nº 100.893, delimitado pelas ruas Laura Vicuna, Madre Mazzarello e por lotes particulares, localizado no Setor 81, Quadra 7, situado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17037",
+   "short": "Lei 17037/2019",
+   "title": "Lei nº 17.037, de 02/01/2019 (Denomina Rua América do Sul o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17037-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17037",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17037-de-2-de-janeiro-de-2019",
+     "sha256": "4c8e25326620ba96137fb18f39b27e751a7164893294c377987e84db163f6152",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.037, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 599/17, do Vereador Arselino Tatto - PT)\nDenomina Rua América do Sul o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua América do Sul o logradouro identificado como Rua 1 nas Plantas 2A e 2B do Loteamento Residencial América do Sul, do plano de parcelamento ARR 5030, com início no logradouro conhecido como Rua Maria Moura da Conceição, entre a Avenida Carlos Barbosa Santos e a Rua Nereu Bertini Magalhães, e término a aproximadamente 410 metros além do seu início, em balão de retorno, situado na Quadra 312 do Setor 174, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17038",
+   "short": "Lei 17038/2019",
+   "title": "Lei nº 17.038, de 02/01/2019 (Denomina Rua Meire Schunck o logradouro que especifica, localizado no Distrito de Marsilac, Subprefeitura de Parelheiros, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17038-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17038",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17038-de-2-de-janeiro-de-2019",
+     "sha256": "31e26b30e43ad54bac4a9956ca8adc1d93838e2dd3d6e96c70baf81c6d961cd5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.038, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 694/17, do Vereador Rodrigo Goulart - PSD)\nDenomina Rua Meire Schunck o logradouro que especifica, localizado no Distrito de Marsilac, Subprefeitura de Parelheiros, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Meire Schunck, Codlog nº 38.445-3, o logradouro com início na Rua Dra. Nise da Silveira, entre as Quadras 14 e 16 do Setor 285, e com término em divisa de loteamento a aproximadamente 35 metros de seu início, situado no Setor 285, Quadras 14 e 16, localizado no Distrito de Marsilac, Subprefeitura de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17039",
+   "short": "Lei 17039/2019",
+   "title": "Lei nº 17.039, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17039-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17039",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17039-de-2-de-janeiro-de-2019",
+     "sha256": "9dd28ae5234d4e2df3ab2a4d2df20310b62f2713aa09cbed9f4518ef2464dc67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.039, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 719/17, do Vereador Mario Covas Neto - PODEMOS)\nDenomina Praça Dr. Édison de Cézar Philippi o logradouro que especifica, localizado no Distrito de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dr. Édison de Cézar Philippi o logradouro delimitado pelas avenidas Rebouças, Eusébio Matoso, Brigadeiro Faria Lima e por lotes particulares, situado no Setor 083, Quadra 52, localizado no Distrito de Pinheiros, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17040",
+   "short": "Lei 17040/2019",
+   "title": "Lei nº 17.040, de 02/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17040-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17040",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17040-de-2-de-janeiro-de-2019",
+     "sha256": "83a2ae82cc4d93ebbe95b698fe5df8421b19ce74d3401c4bc0723f6e968fa616",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.040, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 776/17, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDenomina Praça Soldado Richard Schimith de Assis o espaço livre que especifica, localizado no Distrito de Itaim Paulista, Subprefeitura de Itaim Paulista, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Soldado Richard Schimith de Assis o espaço livre 3M do croqui patrimonial nº 101.136, delimitado pela Rua Florai, Avenida Barão de Alagoas e por lotes particulares, situado no Setor 134, Quadra 221, no Distrito de Itaim Paulista, Subprefeitura de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17041",
+   "short": "Lei 17041/2019",
+   "title": "Lei nº 17.041, de 02/01/2019 (Denomina Praça Cidade de Fátima o espaço livre que especifica, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17041-de-2-de-janeiro-de-2019",
+   "first_law": "lei-2019-17041",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17041-de-2-de-janeiro-de-2019",
+     "sha256": "612a99d4638a37833b2bb7900f94be5214164ffafb872a44a91a7d645192aecf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.041, DE 2 DE JANEIRO DE 2019\n(Projeto de Lei nº 786/17, do Vereador Natalini - PV)\nDenomina Praça Cidade de Fátima o espaço livre que especifica, localizado no Distrito de Vila Andrade, Subprefeitura de Campo Limpo, e dá outras providências.\nBRUNO COVAS Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de novembro de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Cidade de Fátima o espaço livre 19M do croqui patrimonial nº 101.278, delimitado pelas ruas Domingos Lopes da Silva, Dankmar Adler e por lotes particulares, situado no Setor 171, Quadra 192, no Distrito de Vila Andrade, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 2 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17042",
+   "short": "Lei 17042/2019",
+   "title": "Lei nº 17.042, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17042-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17042",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17042-de-3-de-janeiro-de-2019",
+     "sha256": "ecccfcf6cd67c8c0eb5cbdbe95e1389a6d9a27e03bfe66c683d2469fba6c7c64",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.042 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 45/18)\n(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial da Síndrome de Moebius, a ser comemorado anualmente no dia 24 de janeiro, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"XXIII - 24 de janeiro:\nDia Mundial da Síndrome de Moebius.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17043",
+   "short": "Lei 17043/2019",
+   "title": "Lei nº 17.043, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17043-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17043",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17043-de-3-de-janeiro-de-2019",
+     "sha256": "be2bc31d96e478dbfa7ed13f66fd2377682628218846896c1df0c30d395ef527",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.043 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 210/16)\n(VEREADOR ARSELINO TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial do Ufólogo, a ser comemorado anualmente no dia 24 de junho, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia Mundial do Ufólogo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17044",
+   "short": "Lei 17044/2019",
+   "title": "Lei nº 17.044, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17044-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17044",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17044-de-3-de-janeiro-de-2019",
+     "sha256": "5107ba87163d121fb577cdacf49903336b707a15d4d3bfcab7a586e2ac041407",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.044 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 229/18)\n(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Nacional do Historiador, a ser comemorado anualmente no dia 19 de agosto, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, renumerando-se os demais, com a seguinte redação:\n\"19 de agosto: Dia Nacional do Historiador.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17045",
+   "short": "Lei 17045/2019",
+   "title": "Lei nº 17.045, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17045-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17045",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17045-de-3-de-janeiro-de-2019",
+     "sha256": "5128d439221077e8b3f785b6a3b2525dd49b244faff42379de6e1cd12001286a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.045 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 300/18)\n(VEREADOR REIS - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Marcha da Consciência Negra, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º (...)\nCCLXVIII - 20 de novembro:\nMarcha da Consciência Negra.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17046",
+   "short": "Lei 17046/2019",
+   "title": "Lei nº 17.046, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17046-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17046",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17046-de-3-de-janeiro-de-2019",
+     "sha256": "5de19a839e199bc24a286eb291d43ffd2fc7d6d59ae737675678876585ff6003",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.046 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 485/17)\n(VEREADOR TONINHO VESPOLI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Nacional de Conscientização e Divulgação da Fibrose Cística, a ser comemorado anualmente no dia 05 de setembro, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXXXV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLXXXV - 05 de setembro:\nDia Municipal de Conscientização e Divulgação da Fibrose Cística.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica inserida alínea ao inciso CLXXXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLXXXII - mês de setembro:\nMês de Conscientização e Divulgação da Fibrose Cística, com objetivo de conscientizar a população brasileira, em especial os gestores e os profissionais da área da saúde, sobre a importância do diagnóstico precoce e do tratamento adequado da fibrose cística, ou mucoviscidose, e divulgar a acessibilidade, nos serviços públicos de saúde, aos medicamentos indicados para o tratamento.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O respectivo mês deve ter como referência a cor roxa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17047",
+   "short": "Lei 17047/2019",
+   "title": "Lei nº 17.047, de 03/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17047-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17047",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17047-de-3-de-janeiro-de-2019",
+     "sha256": "0b99af44c0770af96f977ccbc27f2539c2281982c49d0347c12325ddb4182ab7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.047 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 615/17)\n(VEREADOR PAULO FRANGE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal da Conscientização de Doação do Cordão Umbilical, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCXXIII - 08 de outubro:\nDia Municipal da Conscientização de Doação do Cordão Umbilical.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17048",
+   "short": "Lei 17048/2019",
+   "title": "Lei nº 17.048, de 03/01/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Copa dos Refugiados, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17048-de-3-de-janeiro-de-2019",
+   "first_law": "lei-2019-17048",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17048-de-3-de-janeiro-de-2019",
+     "sha256": "657e9a6e93eea57b9ed0a37bfeae98455f3ee7ce3275a7f56d1480d584762663",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.048 DE 03 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 760/17)\n(VEREADOR TONINHO VESPOLI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Copa dos Refugiados, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLI - mês de agosto:\nCopa dos Refugiados.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de janeiro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de janeiro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17049",
+   "short": "Lei 17049/2019",
+   "title": "Lei nº 17.049, de 11/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17049-de-11-de-janeiro-de-2019",
+   "first_law": "lei-2019-17049",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17049-de-11-de-janeiro-de-2019",
+     "sha256": "c3e817fd25c611f305908e83fa16b3f149cb75583502771c34f8ba76f669588d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.049, DE 11 DE JANEIRO DE 2019\n(Projeto de Lei nº 30/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Abílio Augusto Fonseca o espaço livre delimitado pelas ruas Luís Elias Attiê e Brigadeiro Henrique Fontenelle, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Abílio Augusto Fonseca o espaço livre delimitado pelas ruas Luís Elias Attiê e Brigadeiro Henrique Fontenelle, situado no Setor 78, Quadras 23, 24 e 270, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 11 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17050",
+   "short": "Lei 17050/2019",
+   "title": "Lei nº 17.050, de 11/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17050-de-11-de-janeiro-de-2019",
+   "first_law": "lei-2019-17050",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17050-de-11-de-janeiro-de-2019",
+     "sha256": "6cb6178c8713f7b9cfccfa68edf75ad1fce1eabb961d5f3e8adb9eaf1a50b8b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.050, DE 11 DE JANEIRO DE 2019\n(Projeto de Lei nº 276/17, do Vereador Ricardo Teixeira - PROS)\nDenomina Praça Dr. Vincenzo Izzo o espaço livre que especifica, localizado no Distrito de Vila Prudente, Subprefeitura de Vila Prudente, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dr. Vincenzo Izzo o conjunto de espaços livres delimitados pela Avenida Prof. Luiz Ignácio Anhaia Mello, pelo trecho conhecido como prolongamento da Avenida Salim Farah Maluf e pelos ramos 100 e 200 do Complexo Viário Senador Antonio E. de Barros Filho, identificados na planta DA045C127A do Anel Viário Municipal - Trecho VI elaborada pela EMURB, situado no Setor 100, Quadra 107, localizado no Distrito de Vila Prudente, Subprefeitura de Vila Prudente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 11 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17051",
+   "short": "Lei 17051/2019",
+   "title": "Lei nº 17.051, de 11/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17051-de-11-de-janeiro-de-2019",
+   "first_law": "lei-2019-17051",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17051-de-11-de-janeiro-de-2019",
+     "sha256": "8a764b6799d8eade2a993e72d0cd6bcf02f6746e89b9dffa8c887ff181835143",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.051, DE 11 DE JANEIRO DE 2019\n(Projeto de Lei nº 352/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Travessa Manoel Pelaio Donha o logradouro que especifica, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Manoel Pelaio Donha o logradouro com início na altura do nº 571 da Rua General Lauro Cavalcanti de Farias, entre as ruas Professor Angelo Mazza e Francisco Mogante Policene e término em balão de retorno a aproximadamente 50 metros de seu início, situado no Setor 78, Quadra 374, localizado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 11 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17052",
+   "short": "Lei 17052/2019",
+   "title": "Lei nº 17.052, de 11/01/2019 (Denomina Praça Edgard Gamberini o espaço livre que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17052-de-11-de-janeiro-de-2019",
+   "first_law": "lei-2019-17052",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17052-de-11-de-janeiro-de-2019",
+     "sha256": "a22f38a8ede0ffe4c24d625265dcd76ea8e1e69e753a212837a913577cf9c52a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.052, DE 11 DE JANEIRO DE 2019\n(Projeto de Lei nº 800/17, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Edgard Gamberini o espaço livre que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Edgard Gamberini o espaço livre 8M do croqui patrimonial nº 102.856, delimitado pelas ruas Maestro João de Souza Lima, José Mauro de Vasconcelos, Benedito Gama Ricardo e via de ligação entre as 3 ruas conhecida como Praça 1, situado no Setor 125, Quadras 168, 169, 170 e 171, localizado no Distrito de Pirituba, na Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de janeiro de 2019, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 11 de janeiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17053",
+   "short": "Lei 17053/2019",
+   "title": "Lei nº 17.053, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17053-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17053",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17053-de-22-de-janeiro-de-2019",
+     "sha256": "0c0458bafbee07447ac6ec68e515fc15896633fe94e9675a0c4abf98bcf4863a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.053 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 768/17)\n(VEREADOR TONINHO VESPOLI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Celebração da Cultura Bantu, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCXXVII - 13 de outubro:\nDia Municipal de Celebração da Cultura Bantu.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17054",
+   "short": "Lei 17054/2019",
+   "title": "Lei nº 17.054, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17054-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17054",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17054-de-22-de-janeiro-de-2019",
+     "sha256": "69fd4e6375f3a3ec3893a7eb879dc72332634af69257d3eb32aca41be3a3c326",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.054 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 587/17)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Fé e Cultura da Comunidade Boliviana, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLI - mês de agosto:\nFesta Fé e Cultura da Comunidade Boliviana, visando à preservação das tradições e dos valores culturais da comunidade imigrante.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17055",
+   "short": "Lei 17055/2019",
+   "title": "Lei nº 17.055, de 22/01/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Fonoaudiólogo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17055-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17055",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17055-de-22-de-janeiro-de-2019",
+     "sha256": "7be57204589b30bd4875259d667159bef27d96b7dafaa1faa770676408a3b01f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.055 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 325/18)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Fonoaudiólogo, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCLXXXIX - 09 de dezembro:\nDia do Fonoaudiólogo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17056",
+   "short": "Lei 17056/2019",
+   "title": "Lei nº 17.056, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17056-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17056",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17056-de-22-de-janeiro-de-2019",
+     "sha256": "05deb394c2eaaed504e20cc374a203d7fac43bb5f9d51245d8f4ecc9eeeb392a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.056 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 301/17)\n(VEREADOR ABOU ANNI - PSL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Conscientização do Tratamento e Prevenção das Feridas Crônicas, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCXVI - mês de outubro:\nSemana da Conscientização do Tratamento e Prevenção das Feridas Crônicas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17057",
+   "short": "Lei 17057/2019",
+   "title": "Lei nº 17.057, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17057-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17057",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17057-de-22-de-janeiro-de-2019",
+     "sha256": "aa04a969322e1603fddd28f796044cbdfec963f16268554cd9ed31624caa909d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.057 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 268/18)\n(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Conscientização contra o Câncer de Pele, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"mês de dezembro: Mês da Conscientização contra o Câncer de Pele.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17058",
+   "short": "Lei 17058/2019",
+   "title": "Lei nº 17.058, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17058-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17058",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17058-de-22-de-janeiro-de-2019",
+     "sha256": "fa3eeb727a80739f95c81abaf6ffb6403495332ab97fa765337880f9ab73e079",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.058 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 265/18)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Comemoração e Reconhecimento das Origens Históricas do Bairro de São Miguel Paulista, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"dia 29 de setembro: Dia de Comemoração e Reconhecimento das Origens Históricas do Bairro de São Miguel Paulista, que remontam ao ano de 1560.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17059",
+   "short": "Lei 17059/2019",
+   "title": "Lei nº 17.059, de 22/01/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Ética, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17059-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17059",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17059-de-22-de-janeiro-de-2019",
+     "sha256": "014a0d45e7e238e0940a149dbab9dce4dbc5e44852ad3544c5e95b9724ff17cc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.059 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 260/18)\n(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Ética, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"02 de maio: Dia da Ética.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17060",
+   "short": "Lei 17060/2019",
+   "title": "Lei nº 17.060, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17060-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17060",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17060-de-22-de-janeiro-de-2019",
+     "sha256": "386d5354b979516c054fcc936aa2b1f808e637802560c7f28b79bf518d69de03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.060 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 254/18)\n(VEREADOR RICARDO NUNES - MDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Junina da Paróquia de Nossa Senhora da Consolação, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CVI - mês de junho:\nFesta Junina da Paróquia de Nossa Senhora da Consolação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17061",
+   "short": "Lei 17061/2019",
+   "title": "Lei nº 17.061, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17061-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17061",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17061-de-22-de-janeiro-de-2019",
+     "sha256": "5490cc042ab4d3c68a47eeee2b1cc9eceee756689d922a4e5058624440a8ce23",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.061 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 193/18)\n(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Auditor-Fiscal do Trabalho, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"28 de janeiro: Dia Municipal do Auditor-Fiscal do Trabalho.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17062",
+   "short": "Lei 17062/2019",
+   "title": "Lei nº 17.062, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17062-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17062",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17062-de-22-de-janeiro-de-2019",
+     "sha256": "8366c28e04f89b067edf5fd0b1ff42e381e4c57c281c60dadfdacde4377941c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.062 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 139/18)\n(VEREADOR ANDRÉ SANTOS - PRB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal de Prevenção, Conscientização e Combate à Automutilação e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"primeira semana de setembro:\nSemana Municipal de Prevenção, Conscientização e Combate à Automutilação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17063",
+   "short": "Lei 17063/2019",
+   "title": "Lei nº 17.063, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17063-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17063",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17063-de-22-de-janeiro-de-2019",
+     "sha256": "2c9142330851ff46a9584f544b8d647cea10ea7c2d4e094d9cc9d5b9f1698719",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.063 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 135/18)\n(VEREADORA SANDRA TADEU - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês de Combate à Febre Amarela, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"XVII - mês de janeiro:\nMês de Combate à Febre Amarela.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17064",
+   "short": "Lei 17064/2019",
+   "title": "Lei nº 17.064, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17064-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17064",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17064-de-22-de-janeiro-de-2019",
+     "sha256": "f63ce8e00ab08cd17f40cf3be3a26318c6d74af52d64d09afc04608ce6dbc60b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.064 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 119/18)\n(VEREADOR CLAUDIO FONSECA - PPS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional da Síndrome de Down, a ser realizado anualmente no último domingo de março, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"último domingo de março: o Dia Internacional da Síndrome de Down, evento comemorado com o objetivo de promover a defesa dos direitos e exercício da cidadania da pessoa com Síndrome de Down.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17065",
+   "short": "Lei 17065/2019",
+   "title": "Lei nº 17.065, de 22/01/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Abril Verde, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17065-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17065",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17065-de-22-de-janeiro-de-2019",
+     "sha256": "ed101518833a09a01f06395ac3e1ba1457533bc49a592de3999f71f6b8fccf58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.065 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 108/18)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Abril Verde, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"mês de abril: Abril Verde, com objetivo de conscientizar a população sobre os riscos de acidente de trabalho, doenças ocupacionais, bem como a prevenção destes e a saúde no ambiente de trabalho, e promover a integração da sociedade, órgãos públicos, organizações não governamentais, entidades de classe, associações e federações na tratativa desses temas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17066",
+   "short": "Lei 17066/2019",
+   "title": "Lei nº 17.066, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17066-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17066",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17066-de-22-de-janeiro-de-2019",
+     "sha256": "e8df7428af4b5e229824d55bc1d7daeb3a7aa9447d4dc7a2ade6306f316b6773",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.066 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 88/18)\n(VEREADOR REIS - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Valorização do Policial Civil, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"16 de outubro: Dia Municipal de Valorização do Policial Civil.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17067",
+   "short": "Lei 17067/2019",
+   "title": "Lei nº 17.067, de 22/01/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17067-de-22-de-janeiro-de-2019",
+   "first_law": "lei-2019-17067",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17067-de-22-de-janeiro-de-2019",
+     "sha256": "99bcc027641b4e02f2133b89e5a919eaf2bc7f82d32188ba9f22ee95b0081bbc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.067 DE 22 DE JANEIRO DE 2019\n(PROJETO DE LEI Nº 24/18)\n(VEREADOR TONINHO PAIVA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Corrida Internacional de São Silvestre, e dá outras providências.\nMilton Leite, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"31 de dezembro: Corrida Internacional de São Silvestre.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de janeiro de 2019.\nMILTON LEITE, Presidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de janeiro de 2019.\nRAIMUNDO BATISTA, Secretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17068",
+   "short": "Lei 17068/2019",
+   "title": "Lei nº 17.068, de 19/02/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17068-de-19-de-fevereiro-de-2019",
+   "first_law": "lei-2019-17068",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-02-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17068-de-19-de-fevereiro-de-2019",
+     "sha256": "280e4c15dcfdff7085bc501a781bcd44acaac20d43388d7e28e481a8a224e98b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.068, DE 19 DE FEVEREIRO DE 2019\n(Projeto de Lei nº 495/15, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nIntroduz alterações nos arts. 1º, 5º, 6º, 7º, 10 e 15 da Lei nº 13.425, de 2 de setembro de 2002, que regulamenta o art. 168 da Lei Orgânica do Município de São Paulo e institui o Conselho Municipal de Habitação de São Paulo; introduz alterações na Lei nº 16.974, de 23 de agosto de 2018, e na Lei nº 14.517, de 16 de outubro de 2007, cria e extingue os órgãos que especifica, bem como altera as funções de confiança que especifica.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 13 de fevereiro de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os arts. 1º, 5º, 6º, 7º, 10 e 15 da Lei nº 13.425, de 2 de setembro de 2002, passam a vigorar com as seguintes alterações:\n\"Art 1º Fica criado, no âmbito da Secretaria Municipal de Habitação, o Conselho Municipal de Habitação de São Paulo, que atuará em conformidade com os princípios consagrados no art. 168 da Lei Orgânica do Município de São Paulo e no art. 2º da Lei Federal nº 10.257, de 10 de julho de 2001 - Estatuto da Cidade.\" (NR)\n\"Art. 5º O Conselho Municipal de Habitação terá a seguinte composição:\nI - 13 (treze) representantes da Prefeitura do Município de São Paulo, sendo:\na) o Secretário Municipal de Habitação;\nb) o Secretário Adjunto da Secretaria Municipal de Habitação;\nc) o Presidente da Companhia Metropolitana de Habitação de São Paulo;\nd) 2 (dois) representantes da Secretaria Municipal de Habitação;\ne) 1 (um) representante da Secretaria do Governo Municipal;\nf) 1 (um) representante da Secretaria Municipal de Gestão;\ng) 1 (um) representante da Secretaria Municipal de Infraestrutura Urbana e Obras;\nh) 1 (um) representante da Secretaria Municipal de Desenvolvimento Urbano;\ni) 1 (um) representante da Secretaria Municipal da Fazenda;\nj) 1 (um) representante da Secretaria Municipal de Assistência e Desenvolvimento Social;\nk) 1 (um) representante da Secretaria Municipal de Licenciamento;\nl) 1 (um) representante da Companhia Metropolitana de Habitação de São Paulo;\n...................................................................\" (NR)\n\"Art. 6º ................................................................\nI - o Secretário Municipal de Habitação;\nII - o Secretário Adjunto da Secretaria Municipal de Habitação;\n...................................................................\" (NR)\n\"Art. 7º O Conselho Municipal de Habitação, bem como sua Comissão Executiva, será presidido pelo Secretário Municipal de Habitação, a quem compete:\n...................................................................\" (NR)\n\"Art. 10. Os membros do Conselho e sua Comissão Executiva serão nomeados pelo Prefeito, por meio de portaria, mediante indicação dos representantes do Poder Público e após a eleição dos representantes da sociedade civil.\" (NR)\n\"Art. 15. A Secretaria Executiva do Conselho Municipal de Habitação será exercida pelo Secretário Adjunto da Secretaria Municipal de Habitação, que propiciará o apoio técnico e administrativo ao Conselho, na forma do Regimento Interno.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A estrutura básica da Administração Pública Municipal Direta fica alterada na seguinte conformidade:\nI - fica criada a Secretaria Municipal de Licenciamento - SEL;\nII - ficam extintas:\na) a Secretaria Municipal de Desestatização e Parcerias - SMDP;\nb) a Secretaria Municipal de Relações Internacionais - SMRI.\nParágrafo único. Em decorrência do disposto no inciso II do \"caput\" deste artigo, o Executivo disporá, por meio de decreto, sobre a destinação da estrutura, detalhamento das atribuições dos órgãos e das unidades a eles subordinadas, bem como acerca da lotação de seus cargos de provimento em comissão, bens patrimoniais, serviços, contratos, acervo, pessoal, recursos orçamentários dos órgãos ora extintos, respeitadas as disposições desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Em decorrência do previsto no art. 2º desta lei, a Lei nº 16.974, de 23 de agosto de 2018, passa a vigorar acrescida de art. 29-A com a seguinte redação:\n\"Art. 29-A. A Secretaria Municipal de Licenciamento - SEL, ora criada, tem por finalidade formular e executar a política de licenciamento, bem como controlar o parcelamento urbano e a gestão do patrimônio imobiliário do Município, e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os arts. 1º, 2º, 3º, 4º, 8º, 16, 18, 19 e 20 da Lei nº 16.974, de 2018, passam a vigorar com as seguintes alterações:\n\"Art. 1º ......................................................\nXIII - Secretaria Municipal de Desenvolvimento Urbano - SMDU;\nXVI - Secretaria Municipal de Desenvolvimento Econômico e Trabalho - SMDET;\nXXVII - Secretaria Municipal de Licenciamento - SEL.\n...................................................................\" (NR)\n\"Art. 2º O Gabinete do Prefeito tem por finalidade prestar apoio direto ao Prefeito e assessorá-lo para o melhor cumprimento e desempenho de suas atividades como Chefe do Executivo, buscando a integração dos órgãos e entidades da Administração Pública Municipal, coordenar a estratégia de atuação internacional e de comunicação da Administração Pública Municipal, bem como promover a articulação interna e federativa do Poder Executivo, e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 3º A Secretaria do Governo Municipal - SGM tem por finalidade articular, acompanhar e avaliar a execução de programas e projetos de governo, proceder a estudos e ações para elaboração, avaliação e revisão periódica do Programa de Metas do Município, elaborar diretrizes, e políticas para o estabelecimento de parcerias estratégicas com o setor privado e para a elaboração e implantação do Plano Municipal de Desestatização, bem como prestar apoio administrativo e jurídico ao Gabinete do Prefeito e à Casa Civil e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 4º A Casa Civil tem por finalidade fornecer apoio técnico e técnico-legislativo nos assuntos pertinentes à elaboração da legislação municipal, bem como promover e articular relações institucionais do Poder Executivo com o Poder Legislativo e com a sociedade civil organizada e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 8º A Secretaria Municipal de Gestão - SG tem por finalidade formular e gerir as políticas municipais e os sistemas nelas inseridos, relativos ao desenvolvimento institucional, à gestão de pessoas, à saúde do servidor, à capacitação de profissionais e agentes públicos, à negociação permanente, aos suprimentos, à gestão documental e à gestão da frota veicular, bem como propor, de maneira permanente, novas formas de estruturação dos órgãos municipais e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 16. A ora renomeada Secretaria Municipal de Desenvolvimento Urbano - SMDU, anteriormente Secretaria Municipal de Urbanismo e Licenciamento, tem por finalidade coordenar e conduzir ações governamentais voltadas ao planejamento e desenvolvimento urbano, uso e ocupação do solo e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 18. A Secretaria Municipal das Subprefeituras - SMSUB tem por finalidade atuar em prol da descentralização administrativa do Município e auxiliar as Subprefeituras na articulação e na integração das iniciativas intersetoriais desenvolvidas em seus territórios, coordenar iniciativas que promovam a padronização dos serviços prestados aos cidadãos pelas Subprefeituras, bem como gerir a política e as ações de abastecimento e de desenvolvimento rural sustentável e solidário no Município além de atuar, sem prejuízo das finalidades dos demais órgãos, na execução de assuntos referentes a uso e ocupação do solo e serviços públicos definidos em legislação específica, e executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 19. A ora renomeada Secretaria Municipal de Desenvolvimento Econômico e Trabalho - SMDET, anteriormente Secretaria Municipal de Desenvolvimento Econômico, tem por finalidade conduzir ações governamentais voltadas à geração de trabalho, emprego e renda, à redução das desigualdades regionais, ao apoio às vocações econômicas e desenvolvimento local, ao fortalecimento da cultura empreendedora, à melhoria da competitividade, à promoção do desenvolvimento econômico sustentável, à segurança alimentar nutricional e à garantia dos direitos à alimentação, bem como executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n\"Art. 20. A Secretaria Municipal de Mobilidade e Transportes - SMT tem por finalidade, no âmbito do Município: formular, propor, gerir e avaliar políticas públicas para o desenvolvimento da mobilidade urbana sustentável, integrada e eficiente, priorizando a defesa da vida, a preservação da saúde e do meio ambiente; regular e fiscalizar o uso da rede municipal de vias e ciclovias; regular, gerir, integrar e fiscalizar os transportes coletivos e individuais de pessoas e de carga, motorizados e ativos, incluindo o transporte escolar, no âmbito de sua competência; incentivar os deslocamentos ativos e a micromobilidade vinculada à propulsão de baixo impacto ambiental integrada à rede viária; planejar e executar os serviços de trânsito e controle de tráfego de sua competência; promover a educação e a segurança de trânsito, bem como executar atividades compatíveis e correlatas com a sua área de atuação.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Anexo II, com suas Tabelas A e B, referido no art. 37 da Lei nº 16.974, de 2018, fica substituído pelo Anexo I integrante desta lei, passando o citado dispositivo a vigorar com a seguinte redação:\n\"Art. 37. Os cargos de provimento em comissão constantes do Anexo II desta lei, no qual se discriminam os símbolos/referências e quantidades, ficam com as suas competências estabelecidas na conformidade da coluna \"Competências\", mantidas as denominações e os requisitos para provimento nos termos da legislação vigente.\nParágrafo único. O Executivo poderá por meio de decreto detalhar as competências dos cargos de provimento em comissão de que trata o 'caput' deste artigo, bem como renomeá-los, desde que contemplada pelo menos uma das respectivas competências previstas no Anexo II desta lei.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As funções de confiança da Procuradoria Geral do Município - PGM constantes do Anexo II desta lei, no qual se discriminam as denominações, símbolos, requisitos de provimento e quantidades, ficam com suas denominações alteradas na conformidade da coluna \"Situação Nova\", mantidos os respectivos requisitos de provimento e lotações nos termos da legislação vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Executivo poderá conceder anualmente, ao Museu de Arte Moderna de São Paulo, contribuição no valor equivalente a 9.213 (nove mil duzentos e treze) Unidades de Valor Fiscal do Município de São Paulo - UFMs.\n§ 1º A contribuição será destinada a colaborar no desenvolvimento das atividades culturais e educativas e na consecução de objetivos do Museu de Arte Moderna de São Paulo, e seu pagamento será realizado no 1º trimestre de cada exercício fiscal, pelo valor da UFM vigente no mês de sua efetivação.\n§ 2º Os pagamentos das contribuições somente serão efetivados após a aprovação, pela Prefeitura, da prestação de contas relativas à contribuição referida no \"caput\" deste artigo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogados o parágrafo único do art. 1º, o art. 3º e o parágrafo único do art. 10, todos da Lei nº 12.523, de 28 de novembro de 1997, o parágrafo único do art. 2º da Lei nº 15.401, de 6 de julho de 2011, o inciso VI do art. 2º da Lei nº 15.509, de 15 de dezembro de 2011, e os incisos IV e XXII do art. 1º, o art. 7º, o art. 25 e o inciso I do art. 39, todos da Lei nº 16.974, de 23 de agosto de 2018.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de fevereiro de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 19 de fevereiro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17069",
+   "short": "Lei 17069/2019",
+   "title": "Lei nº 17.069, de 06/03/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17069-de-6-de-marco-de-2019",
+   "first_law": "lei-2019-17069",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17069-de-6-de-marco-de-2019",
+     "sha256": "10ff1b92e6d08ceb9ee15fa85ae39e932b05c780f23fb695ece142e9a511cd5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.069 DE 06 DE MARÇO DE 2019\n(PROJETO DE LEI Nº 123/18)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Festival Cívico do Imirim, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCVI - segundo domingo de setembro:\nFestival Cívico do Imirim.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de março de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de março de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17070",
+   "short": "Lei 17070/2019",
+   "title": "Lei nº 17.070, de 13/03/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17070-de-13-de-marco-de-2019",
+   "first_law": "lei-2019-17070",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-03-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17070-de-13-de-marco-de-2019",
+     "sha256": "4ff7638799b78c32f82a412a5449893d0647105197eb938083399d47842cbe8c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.070, DE 13 DE MARÇO DE 2019\n(Projeto de Lei nº 344/16, dos Vereadores Paulo Fiorilo - PT e Jair Tatto - PT)\nDispõe sobre a atualização das multas pecuniárias previstas na Lei nº 13.264, de 2 de janeiro de 2002, a inclusão de artigo que extingue qualquer subjetividade que possa ocorrer no ato fiscalizatório e acrescenta teor que garante segurança financeira ao munícipe.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 11 da Lei nº 13.264, de 2 de janeiro de 2002, passa a vigorar com a seguinte redação:\n\"Art. 11. As infrações às disposições constantes desta lei estarão sujeitas às punições pecuniárias conforme disposto nos incisos abaixo:\nI - advertência, com prazo de regularização de 5 (cinco) dias úteis a contar da data de término do prazo de defesa à imposição do auto de infração;\nII - multa de R$ 250,00 (duzentos e cinquenta reais) para pessoa física em caso de reincidência ou não regularização da infração, após expirado o prazo de defesa;\nIII - multa de R$ 1.000,00 (mil reais) para pessoa jurídica em caso de reincidência ou não regularização da infração, após expirado o prazo de defesa;\nIV - os valores descritos nos incisos II e III serão dobrados cumulativamente nos casos de nova reincidência ou não regularização da infração.\nParágrafo único. A multa que trata o \"caput\" deste artigo será corrigida anualmente pelo índice oficial de inflação, IPCA.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogados o \"caput\" e parágrafos dos arts. 9º e 12 da Lei nº 13.264, de 2 de janeiro de 2002.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de março de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 13 de março de 2019.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

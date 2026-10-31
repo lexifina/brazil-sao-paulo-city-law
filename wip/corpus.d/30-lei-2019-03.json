@@ -1,0 +1,2746 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-10-31",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2019-17123": {
+   "label": "Lei nº 17.123, de 25/06/2019",
+   "title": "Dispõe sobre a proibição de fornecimento de canudos confeccionados em material plástico, nos locais que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-25",
+   "published": "2019-06-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17123-de-25-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17124": {
+   "label": "Lei nº 17.124, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional do Direito à Verdade, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17124-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17125": {
+   "label": "Lei nº 17.125, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Exposição de Maio na Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17125-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17126": {
+   "label": "Lei nº 17.126, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o aniversário do Bairro Jardim Santa Terezinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17126-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17127": {
+   "label": "Lei nº 17.127, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial da Limpeza Urbana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17127-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17128": {
+   "label": "Lei nº 17.128, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Opaleiro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17128-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17129": {
+   "label": "Lei nº 17.129, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Moto Rock Solidário de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17129-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17130": {
+   "label": "Lei nº 17.130, de 26/06/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal da Redução de Danos, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-06-26",
+   "published": "2019-07-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17130-de-26-de-junho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17131": {
+   "label": "Lei nº 17.131, de 12/07/2019",
+   "title": "Altera o art. 9º da Lei nº 16.703, de 4 de outubro de 2017, que disciplina as concessões e permissões de serviços, obras e bens públicos que serão realizadas no âmbito do Plano Municipal de Desestatização – PMD.",
+   "kind": "law",
+   "enacted": "2019-07-12",
+   "published": "2019-07-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17131-de-12-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17132": {
+   "label": "Lei nº 17.132, de 15/07/2019",
+   "title": "Institui Programa de Formação para os Profissionais de Educação que promovam o atendimento às crianças em situação de risco e aos adolescentes em liberdade assistida ou vigiada, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-15",
+   "published": "2019-07-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17132-de-15-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17133": {
+   "label": "Lei nº 17.133, de 24/07/2019",
+   "title": "Fica alterada a denominação Centro de Educação Infantil Kandinsky para Centro de Educação Infantil Kandinsky - Diogo Nomura, localizado na Rua Antonio Passos nº 76, Distrito de Sacomã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17133-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17134": {
+   "label": "Lei nº 17.134, de 24/07/2019",
+   "title": "Denomina Praça da Advocacia o espaço livre que especifica, localizado no Distrito da Freguesia do Ó, Subprefeitura da Freguesia/Brasilândia e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17134-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17135": {
+   "label": "Lei nº 17.135, de 24/07/2019",
+   "title": "Denomina Praça Pastor Francisco Gonzaga da Silva o logradouro que especifica, localizado no Distrito de Cachoeirinha, Subprefeitura de Casa Verde/Cachoeirinha e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17135-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17136": {
+   "label": "Lei nº 17.136, de 24/07/2019",
+   "title": "Denomina Rua Francisco José Souza da Silva o logradouro inominado, situado no Distrito de Jardim São Luiz, Subprefeitura de M’Boi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17136-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17137": {
+   "label": "Lei nº 17.137, de 24/07/2019",
+   "title": "Denomina Praça Severino Belarmino de Lima logradouro público inominado, localizado entre a Rua Santo Mendes e a Estrada do Pirajuçara Valo Velho, COHAB Monet, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17137-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17138": {
+   "label": "Lei nº 17.138, de 24/07/2019",
+   "title": "Denomina Unidade Básica de Saúde Parque Regina - Perina Alves Teixeira e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17138-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17139": {
+   "label": "Lei nº 17.139, de 24/07/2019",
+   "title": "Denomina Viela Manoel da Hora Bispo o logradouro que especifica localizado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17139-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17140": {
+   "label": "Lei nº 17.140, de 24/07/2019",
+   "title": "Denomina Praça Katsu Takata o espaço livre que especifica, localizado no Distrito da Saúde, Subprefeitura de Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17140-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17141": {
+   "label": "Lei nº 17.141, de 24/07/2019",
+   "title": "Denomina EMEF Campo Limpo III - Luísa Rosária de Oliveira Dias a escola municipal que especifica, situada no Bairro Jardim Dom José, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17141-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17142": {
+   "label": "Lei nº 17.142, de 24/07/2019",
+   "title": "Denomina Praça José Evaristo Garcia o espaço livre que especifica, localizado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17142-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17143": {
+   "label": "Lei nº 17.143, de 24/07/2019",
+   "title": "Denomina Rua Gilberto Travesso o logradouro que especifica, localizado no Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17143-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17144": {
+   "label": "Lei nº 17.144, de 24/07/2019",
+   "title": "Denomina Praça Buzaid Algouz o espaço livre que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-24",
+   "published": "2019-07-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17144-de-24-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17145": {
+   "label": "Lei nº 17.145, de 25/07/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para suprimir a alínea “c” do inciso CCXXIII do art. 7º e inserir inciso ao art. 7º, redefinindo o Dia do Nordestino para 2 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-25",
+   "published": "2019-07-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17145-de-25-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17146": {
+   "label": "Lei nº 17.146, de 25/07/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Grupo Força Jovem Universal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-25",
+   "published": "2019-08-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17146-de-25-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17147": {
+   "label": "Lei nº 17.147, de 25/07/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana de Conscientização Sobre Depressão Infantil, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-25",
+   "published": "2019-08-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17147-de-25-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17148": {
+   "label": "Lei nº 17.148, de 25/07/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Festa de Alasitas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-25",
+   "published": "2019-08-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17148-de-25-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17149": {
+   "label": "Lei nº 17.149, de 25/07/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana de Conscientização e de Combate às Doenças Mórbidas Masculinas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-25",
+   "published": "2019-08-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17149-de-25-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17150": {
+   "label": "Lei nº 17.150, de 29/07/2019",
+   "title": "Altera a redação do art. 1º e do art. 2º da Lei nº 16.006, de 6 de dezembro de 2014, e insere parágrafo ao art. 65 da Lei nº 16.122, de 15 de janeiro de 2015.",
+   "kind": "law",
+   "enacted": "2019-07-29",
+   "published": "2019-07-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17150-de-29-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17151": {
+   "label": "Lei nº 17.151, de 29/07/2019",
+   "title": "Denomina Praça Jornalista Ivan Bertolazzi o logradouro que especifica, localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-07-29",
+   "published": "2019-07-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17151-de-29-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17152": {
+   "label": "Lei nº 17.152, de 31/07/2019",
+   "title": "Dispõe sobre as diretrizes orçamentárias para o exercício de 2020.",
+   "kind": "law",
+   "enacted": "2019-07-31",
+   "published": "2019-08-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17152-de-31-de-julho-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17153": {
+   "label": "Lei nº 17.153, de 16/08/2019",
+   "title": "Dispõe sobre a reorganização administrativa da Ouvidoria, da Escola do Parlamento, dos Gabinetes das Lideranças de Representação Partidária e de Governo, e dos Gabinetes dos Vereadores que integram a Mesa Diretora da Câmara Municipal de São Paulo, transforma e extingue cargos de livre provimento em comissão, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-16",
+   "published": "2019-08-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17153-de-16-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17154": {
+   "label": "Lei nº 17.154, de 21/08/2019",
+   "title": "Denomina Praça Jefferson Zacarias o espaço livre que especifica, localizado no Distrito de Cidade Líder, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-21",
+   "published": "2019-08-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17154-de-21-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17155": {
+   "label": "Lei nº 17.155, de 21/08/2019",
+   "title": "Denomina Viela João Carlos Pereira o logradouro que especifica, localizado no Distrito do Limão, Subprefeitura Casa Verde/Cachoeirinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-21",
+   "published": "2019-08-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17155-de-21-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17156": {
+   "label": "Lei nº 17.156, de 21/08/2019",
+   "title": "Denomina Viela Dario de Souza o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-21",
+   "published": "2019-08-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17156-de-21-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17157": {
+   "label": "Lei nº 17.157, de 22/08/2019",
+   "title": "Denomina Praça Waldomiro Brigalante o espaço livre que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-22",
+   "published": "2019-08-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17157-de-22-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17159": {
+   "label": "Lei nº 17.159, de 26/08/2019",
+   "title": "Denomina Praça José Passos da Silva o espaço livre que especifica, localizado no Distrito de Brasilândia, Subprefeitura de Freguesia/Brasilândia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-26",
+   "published": "2019-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17159-de-26-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17160": {
+   "label": "Lei nº 17.160, de 26/08/2019",
+   "title": "Denomina Praça Osmar Porcelli o espaço livre que especifica, localizado no Distrito da Mooca, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-26",
+   "published": "2019-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17160-de-26-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17161": {
+   "label": "Lei nº 17.161, de 26/08/2019",
+   "title": "Institui o uso da bengala verde como meio adequado para identificar pessoas acometidas de baixa visão e como instrumento de orientação e mobilidade no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-26",
+   "published": "2019-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17161-de-26-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17162": {
+   "label": "Lei nº 17.162, de 30/08/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Feira Nacional da Reforma Agrária.",
+   "kind": "law",
+   "enacted": "2019-08-30",
+   "published": "2019-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17162-de-30-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17163": {
+   "label": "Lei nº 17.163, de 30/08/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Fórum Fale Sem Medo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-30",
+   "published": "2019-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17163-de-30-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17164": {
+   "label": "Lei nº 17.164, de 30/08/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o “World Cleanup Day” - Dia Mundial da Limpeza, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-30",
+   "published": "2019-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17164-de-30-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17165": {
+   "label": "Lei nº 17.165, de 30/08/2019",
+   "title": "Dispõe sobre a proibição do consumo de cigarros, cigarrilhas, charutos, cachimbos, narguilés ou de qualquer outro produto fumígeno, derivado ou não do tabaco, em parques públicos municipais da Cidade de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-30",
+   "published": "2019-08-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17165-de-30-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17166": {
+   "label": "Lei nº 17.166, de 30/08/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Conscientização do Tratamento e Prevenção da Endometriose, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-08-30",
+   "published": "2019-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17166-de-30-de-agosto-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17167": {
+   "label": "Lei nº 17.167, de 02/09/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal das pessoas vítimas de violência, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17167-de-2-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17168": {
+   "label": "Lei nº 17.168, de 02/09/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Elvis Presley Day — Dia Internacional do Rockabilly e a Expo Elvis.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17168-de-2-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17169": {
+   "label": "Lei nº 17.169, de 02/09/2019",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional do Nikkei.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17169-de-2-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17170": {
+   "label": "Lei nº 17.170, de 04/09/2019",
+   "title": "Denomina Rua José Cecilio Jabur o logradouro que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-04",
+   "published": "2019-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17170-de-4-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17171": {
+   "label": "Lei nº 17.171, de 04/09/2019",
+   "title": "Denomina Praça Seu Chiquinho Villano o logradouro que especifica, localizado no Distrito de Vila Mariana, Subprefeitura de Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-04",
+   "published": "2019-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17171-de-4-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17172": {
+   "label": "Lei nº 17.172, de 04/09/2019",
+   "title": "Denomina Via de Pedestre Simião Caetano de Farias o logradouro que especifica, localizado no Distrito de Jardim São Luiz, Subprefeitura de M’Boi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-04",
+   "published": "2019-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17172-de-4-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-17173": {
+   "label": "Lei nº 17.173, de 04/09/2019",
+   "title": "Denomina Praça Luiz Felipe de Amaral Brito o logradouro que especifica, localizado no Distrito de Capão Redondo, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-04",
+   "published": "2019-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17173-de-4-de-setembro-de-2019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2019-17123",
+   "short": "Lei 17123/2019",
+   "title": "Lei nº 17.123, de 25/06/2019 (Dispõe sobre a proibição de fornecimento de canudos confeccionados em material plástico, nos locais que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17123-de-25-de-junho-de-2019",
+   "first_law": "lei-2019-17123",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17123-de-25-de-junho-de-2019",
+     "sha256": "a9bf65fb58fabe567d0c2277e906fe30239e5d6d60d61eb486b5615fcefa1542",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.123, DE 25 DE JUNHO DE 2019\n(Projeto de Lei nº 99/18, dos Vereadores Xexéu Tripoli - PV, Adilson Amadeu - PTB, Alessandro Guedes - PT, Alfredinho - PT, Amauri Silva - PSC, André Santos - PRB, Arselino Tatto - PT, Atílio Francisco - PRB, Aurélio Nomura - PSDB, Caio Miranda Carneiro - PSB, Camilo Cristófaro - PSB, Celso Jatene - PL, Claudinho de Souza - PSDB, Cláudio Fonseca - CIDADANIA, Conte Lopes - PP, Dalton Silvano - DEMOCRATAS, David Soares - DEMOCRATAS, Edir Sales - PSD, Eduardo Matarazzo Suplicy - PT, Eduardo Tuma - PSDB, Eliseu Gabriel - PSB, Fabio Riva - PSDB, George Hato - MDB, Gilberto Nascimento - PSC, Gilberto Natalini - PV, Gilson Barreto - PSDB, Isac Felix - PL, Jair Tatto - PT, José Police Neto - PSD, Juliana Cardoso - PT, Mario Covas Neto - PODEMOS, Milton Ferreira - PODEMOS, Noemi Nonato - PL, Ota - PSB, Patrícia Bezerra - PSDB, Paulo Frange - PTB, Quito Formiga - PSDB, Reis - PT, Ricardo Nunes - MDB, Ricardo Teixeira - DEMOCRATAS, Rinaldi Digilio - PRB, Rodrigo Goulart - PSD, Rute Costa - PSD, Sâmia Bomfim - PSOL, Sandra Tadeu - DEMOCRATAS, Senival Moura - PT, Soninha Francine - CIDADANIA, Souza Santos - PRB, Toninho Paiva - PL, Toninho Vespoli - PSOL e Zé Turin - PHS)\nDispõe sobre a proibição de fornecimento de canudos confeccionados em material plástico, nos locais que especifica, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 5 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibido no Município de São Paulo o fornecimento de canudos de material plástico aos clientes de hotéis, restaurantes, bares, padarias entre outros estabelecimentos comerciais.\nParágrafo único. As disposições desta Lei aplicam-se igualmente aos clubes noturnos, salões de dança e eventos musicais de qualquer espécie.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em lugar dos canudos de plástico poderão ser fornecidos canudos em papel reciclável, material comestível, ou biodegradável, embalados individualmente em envelopes hermeticamente fechados feitos do mesmo material.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A infração às disposições desta Lei acarretará a aplicação das seguintes penalidades:\nI - na primeira autuação, intimação para cessar a irregularidade;\nII - na segunda autuação, multa no valor de R$ 1.000,00 (um mil reais), com nova intimação para cessar a irregularidade;\nIII - na terceira autuação, multa no valor de R$ 2.000,00 (dois mil reais), com nova intimação para cessar a irregularidade;\nIV - na quarta e quinta autuações, multa no valor de R$ 4.000,00 (quatro mil reais), com nova intimação para cessar a irregularidade;\nV - na sexta autuação, multa no valor de R$ 8.000,00 (oito mil reais), com nova intimação para cessar a irregularidade;\nVI - fechamento administrativo.\nParágrafo único. Os valores das multas previstas neste artigo serão atualizados anualmente pela variação, no ano anterior, do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, adotando-se, na hipótese de sua extinção, o índice oficial que vier a substituí-lo em suas finalidades.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A presente Lei será regulamentada pelo Executivo no prazo de até 180 (cento e oitenta) dias, contados a partir de sua vigência.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor no prazo de 180 (cento e oitenta) dias, contados a partir de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de junho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 25 de junho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17124",
+   "short": "Lei 17124/2019",
+   "title": "Lei nº 17.124, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17124-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17124",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17124-de-26-de-junho-de-2019",
+     "sha256": "28d3fcaac2a07f157d6e77c56b5bb880e06254602a97f6c562907de3a462f53f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.124 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 164/18)\n(VEREADOR TONINHO VESPOLI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional do Direito à Verdade, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"24 de março: Dia Internacional do Direito à Verdade.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17125",
+   "short": "Lei 17125/2019",
+   "title": "Lei nº 17.125, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17125-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17125",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17125-de-26-de-junho-de-2019",
+     "sha256": "c4e4fbfa0b92e85dd3ac3a8f4cc6d9486831f294ed302f24688161ef951bc1d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.125 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 439/18)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Exposição de Maio na Paulista, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"LXXVIII - mês de maio:\na Exposição de Maio na Paulista.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17126",
+   "short": "Lei 17126/2019",
+   "title": "Lei nº 17.126, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17126-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17126",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17126-de-26-de-junho-de-2019",
+     "sha256": "cdfa80fa4e856aa784c1d6f191ff8c39f0df0f7561bf9eceefc6f91f1b9f56f2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.126 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 444/18)\n(VEREADOR GILSON BARRETO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o aniversário do Bairro Jardim Santa Terezinha, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLI - mês de agosto:\nAniversário do Bairro Jardim Santa Terezinha.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17127",
+   "short": "Lei 17127/2019",
+   "title": "Lei nº 17.127, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17127-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17127",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17127-de-26-de-junho-de-2019",
+     "sha256": "d13e4433e1b25bd50a57e008d4853005c5e6b28776c9c0c92c92385c1e1cd37b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.127 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 517/18)\n(VEREADORES ADRIANA RAMALHO - PSDB, AURÉLIO NOMURA - PSDB, CLAUDINHO DE SOUZA - PSDB, FÁBIO RIVA - PSDB, GILSON BARRETO - PSDB, JOÃO JORGE - PSDB, QUITO FORMIGA - PSDB E PATRÍCIA BEZERRA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Mundial da Limpeza Urbana, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CLXX - 27 de agosto:\nDia Mundial da Limpeza Urbana. As comemorações que marcam este dia devem servir como meio para mobilização da população do município, de forma a conscientizar os cidadãos da importância da limpeza urbana e da redução da produção de lixo e entulho, de maneira a promover uma cidade mais limpa, próspera e cidadã.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17128",
+   "short": "Lei 17128/2019",
+   "title": "Lei nº 17.128, de 26/06/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Opaleiro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17128-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17128",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17128-de-26-de-junho-de-2019",
+     "sha256": "8c1233ceb9ae087876a9cf6f6e53551d99905cd3f30d7cb1f7d03a83f4e8c165",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.128 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 533/18)\n(VEREADOR RODRIGO GOULART - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Opaleiro, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCLXVII - 19 de Novembro:\no Dia do Opaleiro.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17129",
+   "short": "Lei 17129/2019",
+   "title": "Lei nº 17.129, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17129-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17129",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17129-de-26-de-junho-de-2019",
+     "sha256": "922a7e1867da0c2d598302ce9cc9bc891591b5ed7d64fdf142f017cd974aa9f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.129 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 568/18)\n(VEREADOR ALESSANDRO GUEDES - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Moto Rock Solidário de Itaquera, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXCIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCXCIX - segundo sábado de dezembro:\no Dia do Moto Rock Solidário de Itaquera.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17130",
+   "short": "Lei 17130/2019",
+   "title": "Lei nº 17.130, de 26/06/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17130-de-26-de-junho-de-2019",
+   "first_law": "lei-2019-17130",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17130-de-26-de-junho-de-2019",
+     "sha256": "886673b9ffa650b546bebf97e7a3c29334605a43e9c96c88ab31bcad58af48a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.130 DE 26 DE JUNHO DE 2019\n(PROJETO DE LEI Nº 729/17)\n(VEREADORES EDUARDO MATARAZZO SUPLICY - PT E SONINHA FRANCINE - CIDADANIA)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal da Redução de Danos, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\" - 24 de novembro:\nDia Municipal da Redução de Danos, como paradigma de atuação na política de saúde, notadamente em relação a usuários problemáticos de substâncias psicoativas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 11 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17131",
+   "short": "Lei 17131/2019",
+   "title": "Lei nº 17.131, de 12/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17131-de-12-de-julho-de-2019",
+   "first_law": "lei-2019-17131",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17131-de-12-de-julho-de-2019",
+     "sha256": "2c6a4895a9031b6d02f6d8f4201cbc982ed2257736ea8b2bb9083c7d95bc590a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.131, DE 12 DE JULHO DE 2019\n(Projeto de Lei nº 705/17, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nAltera o art. 9º da Lei nº 16.703, de 4 de outubro de 2017, que disciplina as concessões e permissões de serviços, obras e bens públicos que serão realizadas no âmbito do Plano Municipal de Desestatização - PMD.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 9º da Lei nº 16.703, de 4 de outubro de 2017, passa a vigorar com a seguinte alteração:\n\"Art. 9º ......................................................\nV - o Complexo de Interlagos, composto pelo Autódromo Municipal José Carlos Pace, pelo Kartódromo Ayrton Senna e outras estruturas de apoio.\n...................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo regulamentará, no que couber, as disposições desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 12 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17132",
+   "short": "Lei 17132/2019",
+   "title": "Lei nº 17.132, de 15/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17132-de-15-de-julho-de-2019",
+   "first_law": "lei-2019-17132",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17132-de-15-de-julho-de-2019",
+     "sha256": "96f9e681f162a2860feba85264b268f13d035de9b1e87f0e3d95aff1680b8ddc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.132, DE 15 DE JULHO DE 2019\n(Projeto de Lei nº 51/09, do Vereador Claudio Fonseca - Cidadania)\nInstitui Programa de Formação para os Profissionais de Educação que promovam o atendimento às crianças em situação de risco e aos adolescentes em liberdade assistida ou vigiada, e dá outras providências.\nEDUARDO TUMA, Presidente da Camâra Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo Municipal obrigado a capacitar, através de Formações Específicas, os Profissionais de Educação das unidades escolares que atendam às crianças em situação de risco e aos adolescentes em liberdade assistida ou vigiada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A capacitação de que trata o art. 1º desta Lei deverá compor uma agenda de permanente apoio e assessoria aos profissionais que efetivamente atuem em unidades educacionais que atendam crianças e adolescentes em situação de risco, em liberdade assistida ou vigiada.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de julho de 2019, 466º da fundação de São Paulo.\nEDUARDO TUMA, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17133",
+   "short": "Lei 17133/2019",
+   "title": "Lei nº 17.133, de 24/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17133-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17133",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17133-de-24-de-julho-de-2019",
+     "sha256": "318e8193f773566cd6fe61b1502a2b09f18136ccd3bb67776bf04fbb591dd17e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.133, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 102/18, dos Vereadores Dalton Silvano - DEMOCRATAS e Eduardo Tuma - PSDB)\nFica alterada a denominação Centro de Educação Infantil Kandinsky para Centro de Educação Infantil Kandinsky - Diogo Nomura, localizado na Rua Antonio Passos nº 76, Distrito de Sacomã, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Centro de Educação Infantil Kandinsky - Diogo Nomura o atual Centro de Educação Infantil Kandinsky, localizado na Rua Antonio Passos nº 76, Distrito Jardim Vergueiro (Sacomã).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17134",
+   "short": "Lei 17134/2019",
+   "title": "Lei nº 17.134, de 24/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17134-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17134",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17134-de-24-de-julho-de-2019",
+     "sha256": "e40494c13a4cd575d33d3d8fb4aff48966be644a8fa4ff37396a3c8c211bf89b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.134, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 118/18, do Vereador Claudinho de Souza - PSDB)\nDenomina Praça da Advocacia o espaço livre que especifica, localizado no Distrito da Freguesia do Ó, Subprefeitura da Freguesia/Brasilândia e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça da Advocacia o espaço livre 1M do croqui 100.784, delimitado pela Avenida João Paulo I, pela Rua Miguel Helou e por lotes particulares, localizado no setor 76, quadra 448, situado no Distrito da Freguesia do Ó, na Subprefeitura da Freguesia/Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17135",
+   "short": "Lei 17135/2019",
+   "title": "Lei nº 17.135, de 24/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17135-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17135",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17135-de-24-de-julho-de-2019",
+     "sha256": "e7d3c7cf0ff6ef5c5d7a7365e59c2ad7395836a1236d2a0733d99a689d2dfed9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.135, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 125/18, do Vereador Eduardo Tuma - PSDB)\nDenomina Praça Pastor Francisco Gonzaga da Silva o logradouro que especifica, localizado no Distrito de Cachoeirinha, Subprefeitura de Casa Verde/Cachoeirinha e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Pastor Francisco Gonzaga da Silva, o logradouro inserido no espaço livre 5M do croqui patrimonial nº 103603, delimitado pela Praça Dom Helvécio Gomes de Oliveira, pelo prolongamento natural da Rua Felisberto Freire, pelas quadras 12 e 61 do setor 305 e pela quadra 153 do setor 108, localizado no Distrito de Cachoeirinha na Subprefeitura de Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17136",
+   "short": "Lei 17136/2019",
+   "title": "Lei nº 17.136, de 24/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17136-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17136",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17136-de-24-de-julho-de-2019",
+     "sha256": "0b2ad8254e73fbbcad945b638554661e95ca64c86815b8b829ec9a0ab42b4c2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.136, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 126/18, do Vereador Reis - PT)\nDenomina Rua Francisco José Souza da Silva o logradouro inominado, situado no Distrito de Jardim São Luiz, Subprefeitura de M'Boi Mirim, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Francisco José Souza da Silva o logradouro formado pela rua sem denominação e por praça de retorno pertencente à planta AU 2647, Loteamento Conjunto Patrícia, com início na altura do número 272 da Rua Viruri e término a aproximadamente 25 metros além do seu início em balão de retorno, localizado na quadra 195 do setor 94, situado no Distrito de Jardim São Luiz, na Subprefeitura de M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17137",
+   "short": "Lei 17137/2019",
+   "title": "Lei nº 17.137, de 24/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17137-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17137",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17137-de-24-de-julho-de-2019",
+     "sha256": "fea80a12ffb26c2ac22ebcf468201709775ee815b1a5c21531e7bf367a883e2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.137, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 159/12, do Vereador Alfredinho - PT)\nDenomina Praça Severino Belarmino de Lima logradouro público inominado, localizado entre a Rua Santo Mendes e a Estrada do Pirajuçara Valo Velho, COHAB Monet, Subprefeitura de Campo Limpo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Severino Belarmino de Lima o espaço livre compreendido entre a Rua Santo Mendes e a Estrada do Pirajuçara Valo Velho, COHAB Monet, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta de dotação orçamentária própria, suplementada se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17138",
+   "short": "Lei 17138/2019",
+   "title": "Lei nº 17.138, de 24/07/2019 (Denomina Unidade Básica de Saúde Parque Regina - Perina Alves Teixeira e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17138-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17138",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17138-de-24-de-julho-de-2019",
+     "sha256": "9c09c848faec51bfeec7ffcd237c3e66ad59c7755be5886f05f69e4c70724c69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.138, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 161/18, do Vereador Isac Felix - PL)\nDenomina Unidade Básica de Saúde Parque Regina - Perina Alves Teixeira e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Unidade Básica de Saúde Parque Regina - Perina Alves Teixeira a Unidade Básica de Saúde - UBS localizada na Rua Melo Coutinho nº 260, Parque Regina, no Distrito de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias e suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17139",
+   "short": "Lei 17139/2019",
+   "title": "Lei nº 17.139, de 24/07/2019 (Denomina Viela Manoel da Hora Bispo o logradouro que especifica localizado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17139-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17139",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17139-de-24-de-julho-de-2019",
+     "sha256": "6b57a2ef2d841fab1e92a8193f575e33a0a5ea4d3995d033630d405b8a08bc47",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.139, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 189/16, do Vereador Gilberto Natalini - PV)\nDenomina Viela Manoel da Hora Bispo o logradouro que especifica localizado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viela Manoel da Hora Bispo, codlog 29.222-2, o logradouro conhecido por Viela 2, com início próximo ao nº 271 da Rua Jornalista José Leite Pinto e término na Rua Roque de Mingo, situado no setor 168, quadra 296, localizado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17140",
+   "short": "Lei 17140/2019",
+   "title": "Lei nº 17.140, de 24/07/2019 (Denomina Praça Katsu Takata o espaço livre que especifica, localizado no Distrito da Saúde, Subprefeitura de Vila Mariana, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17140-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17140",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17140-de-24-de-julho-de-2019",
+     "sha256": "3770f066d69f3a6447ba8e290f825a07bac4c3221ad0bd380b6e53a4cb2c78f8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.140, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 251/18, do Vereador Caio Miranda Carneiro - PSB)\nDenomina Praça Katsu Takata o espaço livre que especifica, localizado no Distrito da Saúde, Subprefeitura de Vila Mariana, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Katsu Takata o espaço livre, delimitado pelo entroncamento das Avenidas Jabaquara, Doutor Hugo Beolchi entre as suas duas pistas e pela Praça Padre Gregório Westrupp, localizado no setor 47, quadra 290, situado no Distrito da Saúde, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17141",
+   "short": "Lei 17141/2019",
+   "title": "Lei nº 17.141, de 24/07/2019 (Denomina EMEF Campo Limpo III - Luísa Rosária de Oliveira Dias a escola municipal que especifica, situada no Bairro Jardim Dom José, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17141-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17141",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17141-de-24-de-julho-de-2019",
+     "sha256": "91e4350a9debe9af2e0c14173f8d6b9f43980d811930970d8dda5b9a3c2e8c21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.141, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 257/18, do Vereador Milton Leite - DEMOCRATAS)\nDenomina EMEF Campo Limpo III - Luísa Rosária de Oliveira Dias a escola municipal que especifica, situada no Bairro Jardim Dom José, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Escola Municipal de Ensino Fundamental Campo Limpo III - Luísa Rosária de Oliveira Dias a escola localizada na Av. Andorinha dos Beirais nº 102/108 - Bairro Jardim Dom José, CEP 05858-002.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17142",
+   "short": "Lei 17142/2019",
+   "title": "Lei nº 17.142, de 24/07/2019 (Denomina Praça José Evaristo Garcia o espaço livre que especifica, localizado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17142-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17142",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17142-de-24-de-julho-de-2019",
+     "sha256": "3aacd46438076f8808efc17691d44035b08fbfa9ffe9b7626e8225c6e9dcf677",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.142, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 261/18, do Vereador Ota - PSB)\nDenomina Praça José Evaristo Garcia o espaço livre que especifica, localizado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Evaristo Garcia o espaço livre 10 M do croqui patrimonial nº 101.191, delimitado pelas ruas Uacari, Caxiu e viela sem denominação, localizado no setor 142, quadra 143, situado no Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17143",
+   "short": "Lei 17143/2019",
+   "title": "Lei nº 17.143, de 24/07/2019 (Denomina Rua Gilberto Travesso o logradouro que especifica, localizado no Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17143-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17143-de-24-de-julho-de-2019",
+     "sha256": "14df031a5e2240c8348dc38fc7a068c177bdd57d110afd6c407de10d4e77b382",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.143, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 351/17, do Vereador Ricardo Teixeira - DEMOCRATAS)\nDenomina Rua Gilberto Travesso o logradouro que especifica, localizado no Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Gilberto Travesso o logradouro formado por parte da Praça Amador de Avelar e por parte do logradouro conhecido como Avenida Circular, com início na Rua Idioma Esperanto, entre as ruas Luís Picolo e Guaracapá e término na Rua Tarde de Maio, situado no setor 112, quadras 265, 751 e 752, no Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17144",
+   "short": "Lei 17144/2019",
+   "title": "Lei nº 17.144, de 24/07/2019 (Denomina Praça Buzaid Algouz o espaço livre que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17144-de-24-de-julho-de-2019",
+   "first_law": "lei-2019-17144",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17144-de-24-de-julho-de-2019",
+     "sha256": "36a6dd8ee528cf8d12e05b0f98135ff0b6de30f5a02e8ea8d8e865f36ac6fe61",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.144, DE 24 DE JULHO DE 2019\n(Projeto de Lei nº 459/17, do Vereador Toninho Paiva - PL)\nDenomina Praça Buzaid Algouz o espaço livre que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Buzaid Algouz o espaço livre delimitado pela Rua Amorim Diniz, pela Av. Governador Carvalho Pinto, entre a Praça Rotary Penha e Av. Cangaíba, localizado no setor 60, quadras 91 e 92, situado no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 24 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17145",
+   "short": "Lei 17145/2019",
+   "title": "Lei nº 17.145, de 25/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17145-de-25-de-julho-de-2019",
+   "first_law": "lei-2019-17145",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17145-de-25-de-julho-de-2019",
+     "sha256": "4fff3d475ef86175721e8f73128f472031c97e99c8da7d866ee3a73d640abbc0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.145, DE 25 DE JULHO DE 2019\n(Projeto de Lei nº 171/16, dos Vereadores Mario Covas Neto - PODEMOS e Adriana Ramalho - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para suprimir a alínea \"c\" do inciso CCXXIII do art. 7º e inserir inciso ao art. 7º, redefinindo o Dia do Nordestino para 2 de agosto, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogada a alínea \"c\" do inciso CCXXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"2 de agosto: Dia do Nordestino.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 14.952, de 13 de julho de 2009.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 25 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17146",
+   "short": "Lei 17146/2019",
+   "title": "Lei nº 17.146, de 25/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17146-de-25-de-julho-de-2019",
+   "first_law": "lei-2019-17146",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17146-de-25-de-julho-de-2019",
+     "sha256": "4c19035b3ceb5bd8704b1aaa969accbbc6a3d80acbe7826b200b446c11b4e939",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.146 DE 25 DE JULHO DE 2019\n(PROJETO DE LEI Nº 169/16)\n(VEREADORES SOUZA SANTOS - PRB E ANDRÉ SANTOS - PRB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Grupo Força Jovem Universal, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Primeiro domingo do mês de agosto:\nDia do Grupo Força Jovem Universal.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17147",
+   "short": "Lei 17147/2019",
+   "title": "Lei nº 17.147, de 25/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17147-de-25-de-julho-de-2019",
+   "first_law": "lei-2019-17147",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17147-de-25-de-julho-de-2019",
+     "sha256": "323d81b23089fe259ab57141e1ca2eda6a286bf814f6e4fc894fd2b0de4ee320",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.147 DE 25 DE JULHO DE 2019\n(PROJETO DE LEI Nº 304/17)\n(VEREADOR RINALDI DIGILIO - PRB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana de Conscientização Sobre Depressão Infantil, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CIII - segunda semana de maio:\nSemana de Conscientização Sobre Depressão Infantil, com o objetivo de levar ao conhecimento da população a informação sobre a doença e orientação sobre o diagnóstico e o tratamento adequado.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17148",
+   "short": "Lei 17148/2019",
+   "title": "Lei nº 17.148, de 25/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17148-de-25-de-julho-de-2019",
+   "first_law": "lei-2019-17148",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17148-de-25-de-julho-de-2019",
+     "sha256": "cc3d23624563d83a7c54601e4c52a64e75b720b21c23c070dabe8bf77775026f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.148 DE 25 DE JULHO DE 2019\n(PROJETO DE LEI Nº 618/16)\n(VEREADORA JULIANA CARDOSO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Festa de Alasitas, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia da Festa de Alasitas, festa tradicional da cultura boliviana que homenageia a padroeira da Cidade de La Paz, a Virgem de La Paz, contando também com elementos da cultura indígena.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17149",
+   "short": "Lei 17149/2019",
+   "title": "Lei nº 17.149, de 25/07/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana de Conscientização e de Combate às Doenças Mórbidas Masculinas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17149-de-25-de-julho-de-2019",
+   "first_law": "lei-2019-17149",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17149-de-25-de-julho-de-2019",
+     "sha256": "ad5fae890e9a07d76b33773c5248d7304d6067cf890e355142ade14bab06c7c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.149 DE 25 DE JULHO DE 2019\n(PROJETO DE LEI Nº 144/10)\n(VEREADOR SOUZA SANTOS - PRB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana de Conscientização e de Combate às Doenças Mórbidas Masculinas, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, a ser comemorado anualmente na semana que antecede o dia 7 de abril - Dia Mundial da Saúde, com a seguinte redação:\n\"- semana que antecede o dia 7 de abril - Dia Mundial da Saúde:\na Semana Municipal de Combate e Conscientização às Doenças Mórbidas Masculinas, que tem por objetivo a realização de seminários, palestras e exposições de painéis alusivos ao combate e conscientização das doenças mórbidas masculinas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de julho de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de julho de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17150",
+   "short": "Lei 17150/2019",
+   "title": "Lei nº 17.150, de 29/07/2019 (Altera a redação do art. 1º e do art. 2º da Lei nº 16.006, de 6 de dezembro de 2014, e insere parágrafo ao art. 65 da Lei nº 16.122, de 15 de janeiro de 2015.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17150-de-29-de-julho-de-2019",
+   "first_law": "lei-2019-17150",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17150-de-29-de-julho-de-2019",
+     "sha256": "8fc37777def6a1569a7be19500e858786007abdc0580c50e215bad1aea7f69e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.150, DE 29 DE JULHO DE 2019\n(Projeto de Lei nº 62/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nAltera a redação do art. 1º e do art. 2º da Lei nº 16.006, de 6 de dezembro de 2014, e insere parágrafo ao art. 65 da Lei nº 16.122, de 15 de janeiro de 2015.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º e o art. 2º da Lei nº 16.006, de 6 de dezembro de 2014, passam a vigorar com a seguinte redação:\n\"Art. 1º Fica o Poder Executivo autorizado a aportar recursos financeiros, a fundo perdido, para complementação do subsídio destinado aos Programas Habitacionais Públicos ou Subsidiados pelo Poder Público, objetivando a celebração de parcerias com o Governo Estadual ou Federal para ampliar a oferta de moradias à população de baixa renda, observados os critérios estabelecidos pelo Município de São Paulo.\" (NR)\n\"Art. 2º Caberá ao Secretário Municipal de Habitação autorizar o aporte financeiro de até R$ 120.000,00 (cento e vinte mil reais) por unidade habitacional, a título de subsídio complementar, a fundo perdido, para empreendimentos dos programas referidos no art. 1º desta Lei, encaminhados à Secretaria Municipal de Habitação pela instituição financeira oficial federal responsável pela contratação da operação, considerados de interesse do Município para o atendimento de sua demanda habitacional prioritária.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Renumera o parágrafo único do art. 65 da Lei nº 16.122, de 15 de janeiro de 2015, em § 1º e acrescenta novo parágrafo, conforme segue:\n\"Art. 65. .....................................................\n§ 1º Ficam fixados os valores da Gratificação por Exercício em Posto de Trabalho de Difícil Provimento, concedida aos ocupantes de cargos e funções de Analista de Saúde - Médico e ocupantes de funções anteriormente correspondentes ao cargo referido, na conformidade do Anexo VI - Tabela \"B\", desta Lei.\n§ 2º Os valores estipulados no Anexo VI - Tabela \"A\", relativos ao cargo/função de Agente de Saúde - Condutor de Veículo de Urgência do SAMU, poderão ser alterados por Decreto do Prefeito Municipal, em razão da complexidade e especificidade das funções, condicionado à demonstração da disponibilidade orçamentária e financeira.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 29 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17151",
+   "short": "Lei 17151/2019",
+   "title": "Lei nº 17.151, de 29/07/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17151-de-29-de-julho-de-2019",
+   "first_law": "lei-2019-17151",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-07-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17151-de-29-de-julho-de-2019",
+     "sha256": "1bc09fc21abe1f3c4e44402d2d1a3e415c44898f6429c9521038f45c159c60ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.151, DE 29 DE JULHO DE 2019\n(Projeto de Lei nº 742/17, do Vereador Ricardo Nunes - MDB)\nDenomina Praça Jornalista Ivan Bertolazzi o logradouro que especifica, localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Jornalista Ivan Bertolazzi o logradouro delimitado pela Estrada Engenheiro Marsilac, Rua Amaro de Pontes e por lotes particulares, situado no setor 282, quadra 998, confrontante com a Praça Júlio César de Campos, localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 29 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17152",
+   "short": "Lei 17152/2019",
+   "title": "Lei nº 17.152, de 31/07/2019 (Dispõe sobre as diretrizes orçamentárias para o exercício de 2020.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17152-de-31-de-julho-de-2019",
+   "first_law": "lei-2019-17152",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17152-de-31-de-julho-de-2019",
+     "sha256": "5513b16e02f7c8f8b8c0655455eca64402fe1e9c186f0c7756da07160f19047d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.152, DE 31 DE JULHO DE 2019\n(Projeto de Lei nº 281/19, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre as diretrizes orçamentárias para o exercício de 2020.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de junho de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DAS DISPOSIÇÕES PRELIMINARES\nArt. 1º Em cumprimento ao disposto no § 2º do art. 165 da Constituição Federal e no § 2º do art. 137 da Lei Orgânica do Município de São Paulo, esta Lei estabelece as diretrizes orçamentárias do Município para o exercício de 2020, compreendendo orientações para:\nI - a elaboração da proposta orçamentária;\nII - a estrutura e a organização do orçamento;\nIII - as alterações na legislação tributária do Município;\nIV - as despesas do Município com pessoal e encargos;\nV - a execução orçamentária;\nVI - as diretrizes para avaliação de resultados da execução das metas do plano plurianual;\nVII - as disposições gerais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em cumprimento ao disposto na Lei Complementar Federal nº 101, de 4 de maio de 2000, integram esta Lei os seguintes anexos:\nI - Riscos Fiscais;\nII - Metas Fiscais, composto de:\na) demonstrativo de metas anuais de receitas, despesas, resultados primário e nominal e montante da dívida pública para os exercícios de 2020, 2021 e 2022, em valores correntes e constantes, acompanhado da respectiva metodologia de cálculo;\nb) demonstrativo das metas anuais de receitas, despesas, resultados primário e nominal e montante da dívida pública fixados para os exercícios de 2017, 2018 e 2019;\nc) avaliação quanto ao cumprimento das metas do exercício de 2018;\nd) evolução do patrimônio líquido dos exercícios de 2016, 2017 e 2018, destacando origem e aplicação dos recursos obtidos com alienação de ativos;\ne) demonstrativo da estimativa de renúncia de receita e sua compensação;\nf) demonstrativo da margem de expansão das despesas obrigatórias de caráter continuado;\ng) avaliação da situação financeira e atuarial do regime próprio de previdência dos servidores municipais, gerido pelo Instituto de Previdência Municipal de São Paulo - IPREM;\nIII - Metas e Prioridades;\nIV - (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS ORIENTAÇÕES GERAIS PARA A ELABORAÇÃO DA PROPOSTA ORÇAMENTÁRIA\nArt. 3º O projeto de lei orçamentária, relativo ao exercício de 2020, deverá assegurar os princípios da justiça, da participação popular e de controle social, de transparência e de sustentabilidade na elaboração e execução do orçamento, na seguinte conformidade:\nI - o princípio da sustentabilidade deve ser transversal a todas as áreas da Administração Pública Municipal e assegurar o compromisso com uma gestão comprometida com a qualidade de vida da população, a eficiência dos serviços públicos e o equilíbrio intertemporal do orçamento público;\nII - o princípio da participação da sociedade e de controle social implica assegurar a todo cidadão a participação na elaboração e no acompanhamento do orçamento por meio de instrumentos previstos na legislação;\nIII - o princípio da transparência implica, além da observância ao princípio constitucional da publicidade, a utilização de todos os meios disponíveis para garantir o efetivo acesso dos munícipes às informações relativas ao orçamento;\nIV - o princípio de justiça social implica assegurar, na elaboração e execução do orçamento, políticas públicas, projetos e atividades que venham a reduzir as desigualdades entre indivíduos e regiões da cidade, bem como combater a exclusão social, o trabalho escravo, principalmente através da efetividade de mecanismos econômicos, nos termos da Lei nº 16.606, de 29 de dezembro de 2016, e a vulnerabilidade da juventude negra em São Paulo.\nParágrafo único. Os princípios estabelecidos neste artigo objetivam:\nI - reestruturar o espaço urbano e a reordenação do desenvolvimento da cidade a partir de um compromisso com os direitos sociais e civis;\nII - eliminar as desigualdades sociais, raciais e territoriais a partir de um desenvolvimento econômico sustentável;\nIII - aprofundar os mecanismos de gestão descentralizada, participativa e transparente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A elaboração da lei orçamentária deverá pautar-se pela transparência da gestão fiscal, observando-se o princípio da publicidade e permitindo-se o amplo acesso da sociedade a todas as informações relativas às suas diversas etapas.\n§ 1º Para assegurar a transparência e a ampla participação popular durante o processo de elaboração da proposta orçamentária, o Poder Executivo promoverá audiências públicas, de forma regionalizada e individualizada por Subprefeitura Regional, nos termos do art. 48 da Lei Complementar Federal nº 101, de 2000.\n§ 2º Para discussão da proposta orçamentária, as Subprefeituras organizarão, em conjunto com os Conselhos Participativos Municipais, processo de consulta, acompanhamento e monitoramento, de modo a garantir a participação social na elaboração e gestão do orçamento.\n§ 3º Será dada ampla publicidade pelos meios de comunicação das datas, horários e locais de realização das audiências de que trata o § 1º deste artigo, com antecedência mínima de 10 (dez) dias, inclusive com publicação no Diário Oficial da Cidade e na página oficial da Prefeitura na internet.\n§ 4º São instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público:\nI - os planos, orçamentos e leis de diretrizes orçamentárias;\nII - o Programa de Metas a que se refere o art. 69-A da Lei Orgânica do Município de São Paulo;\nIII - o balanço geral das contas anuais e pareceres prévios elaborados pelo Tribunal de Contas do Município de São Paulo;\nIV - o Relatório Resumido da Execução Orçamentária;\nV - o Relatório de Gestão Fiscal;\nVI - os sistemas de gestão e planos setoriais utilizados pela Administração;\nVII - os indicadores de desempenho relativos à qualidade dos serviços públicos no Município de São Paulo, estabelecidos na Lei nº 14.173, de 26 de junho de 2006;\nVIII - o Portal da Transparência.\n§ 5º Até 5 (cinco) dias úteis após o envio da proposta orçamentária à Câmara Municipal, o Poder Executivo publicará em sua página na internet cópia integral do referido projeto e de seus anexos, bem como a base de dados do orçamento público do exercício e dos 3 (três) anos anteriores, contendo, no mínimo, a possibilidade de agregar as seguintes variáveis:\nI - órgão;\nII - função;\nIII - programa;\nIV - projeto, atividade e operação especial;\nV - categoria econômica;\nVI - fonte de recurso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A proposta orçamentária do Município para 2020 será elaborada em observância ao Programa de Metas e de acordo com as seguintes orientações gerais:\nI - participação da sociedade civil;\nII - responsabilidade na gestão fiscal;\nIII - desenvolvimento econômico e social, visando à redução das desigualdades;\nIV - eficiência e qualidade na prestação de serviços públicos, em especial nas ações e serviços de saúde, de educação, de mobilidade urbana, cultura, esportes e lazer, segurança, habitação e assistência social;\nV - ação planejada, descentralizada e transparente, mediante incentivo à participação da sociedade;\nVI - articulação, cooperação e parceria com a União, o Estado e a iniciativa privada;\nVII - acesso e oportunidades iguais para toda a sociedade;\nVIII - preservação do meio ambiente, apoio e incentivo à produção orgânica e destinação adequada dos resíduos sólidos, preservação do patrimônio histórico material e imaterial e das manifestações culturais;\nIX - resgate da cidadania e direitos humanos nos territórios mais vulneráveis;\nX - estruturação do Plano Diretor aprovado pela Lei nº 16.050, de 31 de julho de 2014;\nXI - promoção do acesso à cultura nas periferias;\nXII - valorização salarial das carreiras dos servidores públicos;\nXIII - priorização dos direitos sociais do idoso, da criança e do adolescente, garantindo sua autonomia, integração e participação efetiva na comunidade e defendendo sua dignidade, bem-estar e o direito à vida;\nXIV - promoção de políticas públicas em favor das minorias sociais;\nXV - priorização dos direitos sociais da mulher, promovendo severo combate a qualquer forma de violência;\nXVI - inclusão social das pessoas com deficiência;\nXVII - modernização, eficiência e transparência na gestão pública por meio do uso intensivo de tecnologia;\nXVIII - aprimoramento de acesso, controle e execução das ações relativas aos fundos municipais da saúde, habitação, criança e adolescente, assistência social, educação e desenvolvimento social, este último relativo ao plano de desestatização, visando garantir maior transparência e controle público.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As metas e prioridades da Administração Municipal para o exercício de 2020 são aquelas especificadas no Anexo de Prioridades e Metas, observando o Programa de Metas da Cidade de São Paulo, elaborado nos termos do art. 69-A, da Lei Orgânica do Município, e seu estabelecimento far-se-á no âmbito da Lei Orçamentária e do Plano Plurianual 2018-2021, em consonância com o disposto nos §§ 9º e 10 do art. 137 do referido diploma legal.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo encaminharão ao Poder Executivo suas propostas orçamentárias para 2020, para inserção no projeto de lei orçamentária, até o último dia útil do mês de agosto de 2019, observado o disposto nesta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Integrarão a proposta orçamentária do Município para 2020:\nI - projeto de lei;\nII - anexo com os critérios de projeção da receita;\nIII - demonstrativo das medidas de compensação às renúncias de receita e ao aumento de despesas obrigatórias de caráter continuado;\nIV - anexos e demonstrativos de que tratam os arts. 19, 20 e 21 desta Lei;\nV - demonstrativo com as seguintes informações sobre cada uma das operações de crédito que constarem da receita orçamentária estimada:\na) operação de crédito contratada, com número da lei que autorizou o empréstimo, órgão financiador, número do contrato, data de assinatura, valor contratado total, valor estimado para o exercício de 2020 e valor de contrapartidas detalhado por fonte de recursos;\nb) operação de crédito não contratada, com número da lei que autorizou o empréstimo, órgão financiador, valor estimado para o exercício de 2020 e valor de contrapartidas detalhado por fonte de recursos;\nVI - demonstrativo a respeito da dívida ativa, contendo memória de cálculo da receita prevista para 2020, com valores por tributo e por outros tipos de dívida;\nVII - saldo de todos os fundos municipais em 31 de agosto de 2019.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Acompanhará a proposta orçamentária do Município para 2020 mensagem da Chefia do Poder Executivo contendo, no mínimo:\nI - demonstrativo dos efeitos decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia sobre as receitas e despesas;\nII - demonstrativo da compatibilidade entre o orçamento proposto e as metas constantes do Anexo de Metas Fiscais de que trata a alínea \"a\" do inciso II do art. 2º desta Lei;\nIII - demonstrativo do atendimento aos princípios de que tratam os incisos I, II, III e IV do caput do art. 3º desta Lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Os projetos e atividades constantes do programa de trabalho dos órgãos e unidades orçamentárias deverão ser identificados em conformidade com o disposto no § 8º do art. 137 da Lei Orgânica do Município de São Paulo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Em cumprimento ao disposto na alínea \"e\" do inciso I do art. 4º da Lei Complementar Federal nº 101, de 2000, a alocação dos recursos da Lei Orçamentária Anual - LOA será feita de forma a propiciar o controle de custos das ações e a avaliação dos resultados dos programas de governo.\n§ 1º A alocação orçamentária de que trata o caput será orientada para o estabelecimento da relação entre a despesa pública e o resultado obtido, de forma a priorizar a análise da eficiência dos recursos, possibilitando o acompanhamento das gestões orçamentária, financeira e patrimonial.\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A lei orçamentária conterá dotação para reserva de contingência, no valor de até 0,4% (quatro décimos por cento) da receita corrente líquida prevista para o exercício de 2020, destinada ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A lei orçamentária não consignará recursos para início de novos projetos se não estiverem adequadamente atendidos aqueles em andamento e contempladas as despesas de conservação do patrimônio público.\n§ 1º O disposto no caput deste artigo aplica-se no âmbito de cada fonte de recursos, conforme vinculações legalmente estabelecidas.\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. A lei orçamentária anual poderá conter dotações relativas a projetos a serem desenvolvidos por meio de parcerias público-privadas, reguladas pela Lei Federal nº 11.079, de 30 de dezembro de 2004, e alterações, e pela Lei Municipal nº 14.517, de 16 de outubro de 2007, e alterações, bem como de consórcios públicos, regulados pela Lei Federal nº 11.107, de 6 de abril de 2005.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Na estimativa das receitas do projeto de lei orçamentária e da respectiva lei, poderão ser considerados os efeitos de propostas de alterações legais em tramitação.\n§ 1º Caso a receita seja estimada na forma do caput deste artigo, o projeto de lei orçamentária deverá:\nI - identificar as proposições de alterações na legislação e especificar a receita adicional esperada, em decorrência de cada uma das propostas e seus dispositivos;\nII - indicar a fonte específica à despesa correspondente, identificando-a como condicionada à aprovação das respectivas alterações na legislação.\n§ 2º Caso as alterações propostas não sejam aprovadas ou parcialmente aprovadas até 31 de dezembro de 2019, não permitindo a integralização dos recursos esperados, as dotações à conta das referidas receitas não serão executadas no todo ou em parte, conforme o caso.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. O projeto de lei orçamentária poderá computar na receita:\nI - operação de crédito autorizada por lei específica, nos termos do § 2º do art. 7º da Lei Federal nº 4.320, de 17 de março de 1964, observado o disposto no § 2º do art. 12 e no art. 32, ambos da Lei Complementar Federal nº 101, de 2000, no inciso III do caput do art. 167 da Constituição Federal, assim como, se for o caso, os limites e condições fixados pelo Senado Federal;\nII - os efeitos de programas de alienação de bens imóveis e de incentivo ao pagamento de débitos inscritos na dívida ativa do Município.\nParágrafo único. No caso do inciso I do caput deste artigo, a lei orçamentária anual deverá conter demonstrativo especificando, por operação de crédito, as dotações de projetos e atividades a serem financiados por tais recursos.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. As despesas com publicidade de interesse do Município restringir-se-ão aos gastos necessários à divulgação institucional, de investimentos, de serviços públicos, bem como de campanhas de natureza educativa ou preventiva, excluídas as despesas com a publicação de editais e outras publicações legais.\n§ 1º Os recursos necessários às despesas referidas no caput deste artigo deverão onerar as seguintes dotações dos Poderes Executivo e Legislativo, nos termos do art. 21 da Lei Federal nº 12.232/2010:\nI - despesas com publicidade institucional;\nII - publicidade de utilidade pública.\n§ 2º Deverão ser criadas, nas propostas orçamentárias da Secretaria Municipal de Educação e do Fundo Municipal de Saúde, as atividades referidas nos incisos I e II do § 1º deste artigo, com a devida classificação programática, visando à aplicação de seus respectivos recursos vinculados, quando for o caso.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. (VETADO)\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "## TÍTULO III\n## DA ESTRUTURA E ORGANIZAÇÃO DO ORÇAMENTO\nArt. 19. Integrarão a lei orçamentária anual do Município os seguintes anexos e demonstrativos, relativos ao orçamento consolidado da Administração Direta e seus fundos, entidades autárquicas, fundacionais e empresas estatais dependentes, e o orçamento de investimentos das empresas em que o Município detenha, direta ou indiretamente, a maioria do capital acionário:\nI - receita e despesa, compreendendo:\na) receita e despesa por categoria econômica;\nb) sumário geral da receita por fontes e da despesa por funções de governo;\nII - da receita, compreendendo:\na) legislação;\nb) a previsão para 2020 por categoria econômica;\nc) a evolução por categoria econômica, incluindo a receita arrecadada nos exercícios de 2016, 2017 e 2018, a receita prevista para o exercício de 2019 conforme aprovada pela lei orçamentária e a receita orçada para 2020;\nIII - da despesa, compreendendo:\na) a despesa fixada por órgão e por unidade orçamentária, discriminando projetos, atividades e operações especiais;\nb) o programa de trabalho do governo, evidenciando os programas de governo por funções e subfunções, discriminando projetos, atividades e operações especiais;\nc) a despesa por órgãos e funções;\nd) a evolução por órgão, incluindo a despesa realizada no exercício de 2018, a despesa fixada para 2019 conforme aprovado pela lei orçamentária e a despesa orçada para 2020;\ne) a evolução por grupo de despesa, incluindo a despesa realizada no exercício de 2018, a despesa fixada para 2019 conforme aprovado pela lei orçamentária e a despesa orçada para 2020;\nf) demonstrativos do cumprimento das disposições legais relativas à aplicação de recursos em saúde e educação;\ng) demonstrativo da despesa por funções, subfunções e programas conforme o vínculo com os recursos;\nh) demonstrativo dos detalhamentos das ações, regionalizados no nível de Subprefeitura quando possível;\nIV - da legislação e atribuições de cada órgão;\nV - da dívida pública, contendo:\na) demonstrativo da dívida pública;\nb) demonstrativo de operações de crédito, evidenciando fontes de recursos e sua aplicação;\nc) despesas vinculadas a operações de crédito, discriminando projetos.\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º Será publicado no Portal da Transparência do Município demonstrativo com memória de cálculo dos rateios e índices de apropriação parcial de despesas com educação e saúde, com detalhamento do código das dotações completas envolvidas, critérios/parâmetros utilizados, além das justificativas legais, que respaldem os números apresentados nos demonstrativos previstos na alínea \"f\".\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. O orçamento de cada um dos órgãos da Administração Direta e seus fundos, bem como o das entidades autárquicas, fundacionais e empresas estatais dependentes discriminará suas despesas, no mínimo, com os seguintes níveis de detalhamento:\nI - programa de trabalho do órgão;\nII - despesa do órgão detalhada por grupo de natureza e modalidade de aplicação;\nIII - despesa por unidade orçamentária, evidenciando as classificações institucional, funcional e programática, detalhando os programas segundo projetos, atividades e operações especiais, e especificando as dotações por, no mínimo, categoria econômica, grupo de natureza de despesa e modalidade de aplicação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. O orçamento de investimentos das empresas discriminará, para cada empresa:\nI - os objetivos sociais, a base legal de instituição, a composição acionária e a descrição da programação de investimentos para o exercício de 2020;\nII - o demonstrativo de investimentos especificados por projetos, de acordo com as fontes de financiamento.\nParágrafo único. Será disponibilizado acesso, por meio da internet, aos dados de execução orçamentária e financeira das empresas mencionadas no caput deste artigo.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA\nArt. 22. O Poder Executivo poderá encaminhar ao Poder Legislativo projetos de lei propondo alterações na legislação, inclusive na que dispõe sobre tributos municipais, se necessárias à preservação do equilíbrio das contas públicas, à consecução da justiça fiscal, à eficiência e modernização da máquina arrecadadora, à alteração das regras de uso e ocupação do solo, subsolo e espaço aéreo, bem como ao cancelamento de débitos cujo montante seja inferior aos respectivos custos de cobrança.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. Os projetos de lei de concessão de anistia, remissão, subsídio, crédito presumido, concessão de isenção em caráter não geral, alteração de alíquota ou modificação de base de cálculo que impliquem redução discriminada de tributos ou contribuições, e outros benefícios que correspondam a tratamento diferenciado, atenderão ao disposto no art. 14 da Lei Complementar Federal nº 101, de 2000, devendo ser instruídos com demonstrativo evidenciando que não serão afetadas as metas de resultado nominal e primário.\n§ 1º A renúncia de receita decorrente de incentivos fiscais em todas as regiões da cidade será considerada na estimativa de receita da lei orçamentária.\n§ 2º As proposições que criem ou prorroguem benefícios tributários devem estar acompanhadas dos objetivos, metas e indicadores relativos à política pública fomentada, bem como da indicação do órgão responsável pela supervisão, acompanhamento e avaliação.\n§ 3º O Poder Executivo adotará providências com vistas a:\nI - elaborar metodologia de acompanhamento e avaliação dos benefícios tributários, incluindo o cronograma e a periodicidade das avaliações, com base em indicadores de eficiência, eficácia e efetividade;\nII - designar os órgãos responsáveis pela supervisão, pelo acompanhamento e pela avaliação dos resultados alcançados pelos benefícios tributários.\n§ 4º Os projetos de lei aprovados que resultem em renúncia de receita em razão de concessão ou ampliação de incentivo ou benefício de natureza tributária, financeira, creditícia ou patrimonial, ou que vinculem receitas, deverão conter cláusula de vigência de, no máximo, cinco anos.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS ORIENTAÇÕES RELATIVAS ÀS DESPESAS DE\n## PESSOAL E ENCARGOS\nArt. 24. No exercício financeiro de 2020, as despesas com pessoal dos Poderes Executivo e Legislativo observarão as disposições contidas nos arts. 18, 19 e 20 da Lei Complementar Federal nº 101, de 2000.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Observado o disposto no art. 24 desta Lei, o Poder Executivo poderá encaminhar projetos de lei visando a:\nI - concessão e absorção de vantagens e aumento de remuneração de servidores;\nII - criação e extinção de cargos públicos;\nIII - criação, extinção e alteração da estrutura de carreiras;\nIV - provimento de cargos e contratações estritamente necessárias, respeitada a legislação municipal vigente;\nV - revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, objetivando a melhoria da qualidade do serviço público por meio de políticas de valorização, desenvolvimento profissional e melhoria das condições de trabalho do servidor público.\n§ 1º Fica dispensada do encaminhamento de projeto de lei a concessão de vantagens já previstas na legislação.\n§ 2º A criação ou ampliação de cargos deverá ser precedida da apresentação, por parte da pasta interessada, do Planejamento de Necessidades de Pessoal Setorial e da demonstração do atendimento aos requisitos da Lei Complementar Federal nº 101, de 2000, observando ainda o estabelecido no Decreto nº 54.851, de 17 de fevereiro de 2014, e alterações.\n§ 3º O Poder Executivo respeitará as negociações realizadas no âmbito do Sistema de Negociação Permanente - SINP com respeito às despesas com pessoal e encargos.\n§ 4º O projeto de lei que tratar da revisão geral anual dos servidores públicos municipais não poderá conter matéria estranha a esta.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Observado o disposto no art. 24 desta Lei, o Poder Legislativo poderá encaminhar projetos de lei e deliberar sobre projetos de resolução, conforme o caso, visando a:\nI - concessão e absorção de vantagens e aumento de remuneração de servidores do Poder Legislativo;\nII - criação e extinção de cargos públicos do Poder Legislativo;\nIII - criação, extinção e alteração da estrutura de carreiras do Poder Legislativo;\nIV - provimento de cargos e contratações estritamente necessárias, respeitada a legislação municipal vigente do Poder Legislativo;\nV - revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, objetivando a melhoria da qualidade do serviço público por meio de políticas de valorização, desenvolvimento profissional e melhoria das condições de trabalho do servidor público do Poder Legislativo;\nVI - instituição de incentivos à demissão voluntária de servidores do Poder Legislativo.\n§ 1º Fica dispensada do encaminhamento de projeto de lei a concessão de vantagens já previstas na legislação.\n§ 2º A criação ou ampliação de cargos deverá ser precedida da demonstração do atendimento aos requisitos da Lei Complementar Federal nº 101, de 2000.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Na hipótese de ser atingido o limite prudencial de que trata o art. 22 da Lei Complementar Federal nº 101, de 2000, a convocação para prestação de horas suplementares de trabalho somente poderá ocorrer nos casos de calamidade pública, na execução de programas emergenciais de saúde pública ou em situações de extrema gravidade, devidamente reconhecidas pela Chefia do Poder Executivo Municipal.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Observado o disposto nos arts. 7º e 8º da Lei Federal nº 12.527, de 18 de novembro de 2011, os Poderes Executivo e Legislativo, neste considerados a Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, disponibilizarão e manterão mensalmente atualizada, nos respectivos sítios na internet, no portal Transparência ou equivalente, preferencialmente no link destinado à divulgação de informações sobre recursos humanos, em formato de dados abertos, tabela com remuneração ou subsídio recebidos, de maneira individualizada, por detentores de mandato eletivo e ocupantes de cargo ou função, incluindo auxílios, ajudas de custo, e quaisquer outras vantagens pecuniárias.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DAS ORIENTAÇÕES RELATIVAS À EXECUÇÃO ORÇAMENTÁRIA\nArt. 29. Na realização das ações de sua competência, o Município poderá transferir recursos a instituições privadas sem fins lucrativos, desde que compatíveis com os programas constantes da lei orçamentária anual, mediante convênio, parceria, termo de colaboração, termo de fomento, ajuste ou congênere, pelo qual fiquem claramente definidos os deveres e obrigações de cada parte, a forma e os prazos para prestação de contas.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. Fica vedada a realização, pelo Poder Executivo Municipal, de quaisquer despesas decorrentes de convênios, contratos de gestão e termos de parceria celebrados com entidades sem fins lucrativos que deixarem de prestar contas periodicamente na forma prevista pelo instrumento em questão à Secretaria Municipal responsável, com informações detalhadas sobre a utilização de recursos públicos municipais para pagamento de funcionários, contratos, parcerias e convênios, com os respectivos comprovantes.\n§ 1º As entidades de que trata este artigo abrangem as Organizações Sociais - OSs, Organizações da Sociedade Civil de Interesse Público - OSCIPs e demais associações civis e organizações assemelhadas.\n§ 2º As informações relativas à celebração de convênios, contratos de gestão e termos de parceria serão publicadas no Portal da Prefeitura do Município de São Paulo na internet.\n§ 3º As propostas de celebração ou renovação de contrato de gestão, convênio ou termo de parceria, bem como suas prestações de contas, deverão ser colocadas à disposição dos conselhos gestores locais ou do conselho municipal, quando for o caso.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. No caso da ocorrência de despesas resultantes da criação, expansão ou aperfeiçoamento de ações governamentais que demandem alterações orçamentárias, aplicam-se as disposições do art. 16 da Lei Complementar Federal nº 101, de 2000.\nParágrafo único. Para fins do disposto no § 3º do art. 16 da Lei Complementar Federal nº 101, de 2000, são consideradas como irrelevantes as despesas de valor de até R$ 17.600,00 (dezessete mil e seiscentos reais), no caso de aquisição de bens e serviços, e de até R$ 33.000,00 (trinta e três mil reais), no caso de realização de obras públicas ou serviços de engenharia.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. Até 30 (trinta) dias após a publicação da lei orçamentária anual, o Executivo deverá fixar a programação financeira e o cronograma de execução de desembolso, com o objetivo de compatibilizar a realização de despesas com o efetivo ingresso das receitas municipais.\n§ 1º Nos termos do que dispõe o parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 2000, os recursos legalmente vinculados a finalidades específicas serão utilizados apenas para atender ao objeto de sua vinculação, ainda que em exercício diverso daquele em que ocorrer o respectivo ingresso.\n§ 2º Créditos orçamentários de fontes vinculadas que durante a execução do orçamento sejam considerados prescindíveis poderão ser anulados com a finalidade de servir à abertura de créditos adicionais, nos termos do art. 43, § 1º, III, da Lei Federal nº 4.320, de 1964, respeitada a regra do art. 8º, parágrafo único, da Lei Complementar Federal nº 101, de 2000.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Em até 15 (quinze) dias após o encerramento de cada trimestre, o Poder Executivo publicará relatório sobre a execução de emendas parlamentares, contendo, no mínimo, as seguintes informações:\nI - Vereador autor;\nII - objeto;\nIII - órgão executor;\nIV - valor em reais;\nV - data da liberação dos recursos e/ou publicação de eventual decreto com o respectivo número.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. Se verificado, ao final de um bimestre, que a realização da receita poderá não comportar o cumprimento das metas de resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais desta Lei, deverá ser promovida a limitação de empenho e movimentação financeira nos 30 (trinta) dias subsequentes.\n§ 1º No caso da ocorrência da previsão contida no caput deste artigo, fica o Poder Executivo autorizado a contingenciar o orçamento, conforme os critérios a seguir:\nI - serão respeitados os percentuais mínimos de aplicação de recursos vinculados, conforme a legislação federal e municipal;\nII - serão priorizados recursos para execução de contrapartidas referentes às transferências de receitas de outras unidades da federação;\nIII - serão priorizados recursos para o cumprimento do Programa de Metas;\nIV - (VETADO)\nV - (VETADO)\n§ 2º Os compromissos assumidos sem a devida cobertura orçamentária e em desrespeito ao art. 60 da Lei Federal nº 4.320, de 1964, são considerados irregulares e de responsabilidade do respectivo ordenador de despesas, sem prejuízo das consequências de ordem civil, administrativa e penal, em especial quanto ao disposto no art. 10, inciso IX, da Lei Federal nº 8.429, de 2 de junho de 1992, nos arts. 15, 16 e 17 da Lei Complementar Federal nº 101, de 2000, e no art. 359-D do Decreto-Lei Federal nº 2.848, de 7 de dezembro de 1940 - Código Penal Brasileiro.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. (VETADO)\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. O Poder Executivo deverá divulgar, juntamente com o Relatório Resumido de Execução Orçamentária, o percentual utilizado do limite para abertura de crédito suplementar a ser definido na LOA 2020.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40. (VETADO)\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DAS DIRETRIZES PARA AVALIAÇÃO DE RESULTADOS DA EXECUÇÃO DAS METAS DO PLANO PLURIANUAL\nArt. 42. O acompanhamento físico e orçamentário dos programas do Plano Plurianual 2018-2021 será uma ação da Secretaria Municipal da Fazenda, que estabelecerá as normas para o acompanhamento.\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "## CAPÍTULO VIII\n## DAS DISPOSIÇÕES GERAIS\nArt. 43. Cabe ao ordenador da despesa o cumprimento das disposições contidas nos arts. 16 e 17 da Lei Complementar Federal nº 101, de 2000.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44. Se a lei orçamentária não for votada até o último dia do exercício de 2019, aplicar-se-á o disposto no art. 140 da Lei Orgânica do Município de São Paulo.\nParágrafo único. Caso a lei orçamentária tenha sido votada e não publicada, aplicar-se-á o disposto no caput deste artigo.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45. As emendas ao projeto de lei orçamentária obedecerão ao disposto no art. 166, § 3º, da Constituição Federal, no art. 138, § 2º, da Lei Orgânica do Município de São Paulo e no regulamento da Comissão de que trata o art. 138, § 1º, também da Lei Orgânica do Município de São Paulo.\nParágrafo único. As emendas parlamentares apresentadas deverão ter valor igual ou superior a R$ 30.000,00 (trinta mil reais), não podendo conter mais do que uma ação.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46. Para fins de atendimento da meta de resultado primário nos exercícios de 2019 e 2020, serão desconsiderados os efeitos do pagamento de precatórios judiciais com recursos de depósitos de terceiros levantados na forma do art. 101, § 2º, II, do Ato das Disposições Constitucionais Transitórias (ADCT).\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47. Para o ano de 2019, a meta fiscal de Resultado Nominal, que compõe o Demonstrativo III - Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores do Anexo III - Metas Fiscais, prevalece sobre as metas fixadas pela Lei nº 16.961, de 20 de julho de 2018.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48. Para fins de avaliação das metas de resultado primário e resultado nominal, dos exercícios de 2019 a 2022, serão considerados:\nI - Resultado Primário calculado pelo método \"acima da linha\", em conformidade com a 9ª edição do Manual dos Demonstrativos Fiscais da Secretaria do Tesouro Nacional;\nII - Resultado Nominal calculado pelo método \"acima da linha\", em conformidade com a 9ª edição do Manual dos Demonstrativos Fiscais da Secretaria do Tesouro Nacional.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49. Os Poderes Executivo e Legislativo, neste considerados a Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, disponibilizarão e manterão mensalmente atualizados, no portal Transparência ou equivalente, demonstrativos dos saldos de todos os fundos municipais.\n§ 1º O demonstrativo deverá conter, no mínimo, entradas e saídas de recursos dos fundos, discriminadas entre pagamentos orçamentários e extraorçamentários, bem como o saldo de caixa e aplicações financeiras do início do exercício financeiro até o último dia do mês anterior de divulgação do mesmo.\n§ 2º (VETADO)\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "Art. 51. Em conformidade com a lista de serviços anexa à Lei Complementar nº 116, de 31 de julho de 2003, o poder Executivo disponibilizará, em seu sítio eletrônico, o valor arrecadado mensalmente do Imposto sobre Serviços de Qualquer Natureza - ISS dos 40 (quarenta) grupos de serviços elencados na referida lista, destacando-se os grupos relacionados a \"Serviços de Intermediação e Congêneres\", bem como \"Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito\".\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "Art. 52. (VETADO)\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53. (VETADO)\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "Art. 54. (VETADO)\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55. (VETADO)\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "Art. 56. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "Art. 57. Esta Lei entrará em vigor na data de sua publicação, retroagindo a 1º de janeiro de 2019 os efeitos do disposto em seu art. 47.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 31 de julho de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 31 de julho de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17153",
+   "short": "Lei 17153/2019",
+   "title": "Lei nº 17.153, de 16/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17153-de-16-de-agosto-de-2019",
+   "first_law": "lei-2019-17153",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17153-de-16-de-agosto-de-2019",
+     "sha256": "1dddf41789cb041886ada2eee3cd751ada50709766a94d7a7aeb3cf3175b41a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.153, DE 16 DE AGOSTO DE 2019\n(Projeto de Lei nº 20/17, MESA DA CÂMARA)\nDispõe sobre a reorganização administrativa da Ouvidoria, da Escola do Parlamento, dos Gabinetes das Lideranças de Representação Partidária e de Governo, e dos Gabinetes dos Vereadores que integram a Mesa Diretora da Câmara Municipal de São Paulo, transforma e extingue cargos de livre provimento em comissão, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de agosto de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei altera a Lei nº 15.506, de 13 de dezembro de 2011, que dispõe sobre a Escola do Parlamento da Câmara Municipal de São Paulo, e a Lei nº 15.507, de 13 de dezembro de 2011, que dispõe sobre a Ouvidoria da Câmara Municipal de São Paulo, estabelece a reorganização administrativa dos Gabinetes de Liderança de Representação Partidária e de Governo, e dos Gabinetes dos Vereadores que integram a Mesa Diretora, alterando as Leis nºs 13.637 e 13.638, de 4 de setembro de 2003, transforma e extingue cargos de livre provimento em comissão, e dá outras providências.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam alterados o caput e incisos I, II e III do art. 4º da Lei nº 15.506, de 2011, que passa a vigorar acrescido de § 3º, com a seguinte redação:\n\"Art. 4º A Escola do Parlamento será dirigida por uma Diretoria integrada por servidores do Quadro de Pessoal do Legislativo designados pelo Presidente da Câmara Municipal de São Paulo, e composta por:\nI - 1 (um) Diretor Presidente, titular de cargo efetivo de nível superior;\nII - 1 (um) Diretor Executivo, titular de cargo efetivo de nível superior ou médio, portador de diploma de nível superior; e\nIII - 1 (um) Diretor Acadêmico, titular de cargo efetivo de nível superior, possuidor de diploma de pós-graduação stricto sensu.\n§ 3º O Presidente poderá designar até 2 (dois) servidores efetivos afastados de outros órgãos municipais, estaduais ou federais, ou entidades estatais, com pré-requisito de nível superior, para colaborar em funções acadêmicas na Escola do Parlamento.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os arts. 3º e 4º da Lei nº 15.507, de 2011, passam a vigorar com a seguinte redação:\n\"Art. 3º A Ouvidoria da Câmara Municipal vincula-se diretamente à Mesa Diretora.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Ouvidoria será integrada por servidores do Quadro de Pessoal do Legislativo designados pelo Presidente da Câmara Municipal de São Paulo, e composta por:\nI - 1 (um) Ouvidor, titular de cargo efetivo de nível superior ou médio, portador de diploma de nível superior;\nII - 1 (um) Ouvidor Adjunto, titular de cargo efetivo de nível superior ou médio, portador de diploma de nível superior; e\nIII - 1 (um) servidor do Quadro de Pessoal do Legislativo, titular de cargo efetivo, preferencialmente integrante da carreira de Técnico Administrativo, para execução de funções administrativas.\"(NR)\nArt. 4º O art. 3º da Lei nº 13.637, de 2003, passa a vigorar com a seguinte redação:\n\"Art. 3º A Mesa da Câmara Municipal de São Paulo dispõe dos seguintes Gabinetes, compostos por cargos de direção, chefia e assessoramento:\nI - Gabinete da Presidência;\nII - Gabinete da 1ª Vice-Presidência;\nIII - Gabinete da 2ª Vice-Presidência;\nIV - Gabinete da 1ª Secretaria; e\nV - Gabinete da 2ª Secretaria.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O art. 4º da Lei nº 13.637, de 2003, passa a vigorar acrescido de novo inciso, com a seguinte redação:\n\"Art. 4º ....................................................\nXII - Coordenadoria de Mídias Digitais.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O § 1º do art. 5º da Lei nº 13.637, de 2003, passa a vigorar com a seguinte redação:\n\"Art. 5º ....................................................\n§ 1º Os Gabinetes das Lideranças de Representação Partidária contarão com 01 (um) Chefe de Gabinete de Liderança, 01 (um) Assessor de Liderança por Vereador integrante da bancada e, para as bancadas integradas por 5 (cinco) ou mais Vereadores, com 01 (um) Assistente Especial Legislativo, dando-se preferência, em caso de insuficiência deste último cargo, para as bancadas integradas por maior número de Vereadores, cabendo o sorteio em caso de empate.\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os arts. 2º a 6º da Lei nº 13.638, de 2003, têm a sua redação alterada nos seguintes termos:\n\"Art. 2º O Gabinete da Presidência da Câmara Municipal de São Paulo tem como objetivo proporcionar assessoria direta ao Presidente em suas atribuições de Presidência da Mesa Diretora na direção dos trabalhos legislativos e serviços administrativos da Câmara Municipal, de representação da Edilidade e de Presidência do Colégio de Líderes de Representação Partidária, estabelecidas em lei, no Regimento Interno ou em outras disposições normativas.\nParágrafo único. Ficam lotados no Gabinete da Presidência: 01 (um) cargo de Chefe de Gabinete da Presidência, 03 (três) cargos de Assessor Legislativo, 03 (três) cargos de Assessor de Gabinete da Mesa Diretora, 05 (cinco) cargos de Assessor do Presidente do Colégio de Líderes, 06 (seis) cargos de Assessor Especial da Mesa Diretora, 02 (dois) cargos de Assessor de Imprensa da Presidência, 01 (um) cargo de Diretor de Comunicação Externa, e 01 (um) cargo de Coordenador de Mídias Digitais.\nArt. 3º Os Gabinetes das Vice-Presidências da Mesa Diretora têm como objetivo proporcionar assessoria direta aos Vice-Presidentes em suas atribuições na Mesa Diretora na direção dos trabalhos legislativos e serviços administrativos da Câmara Municipal, estabelecidas em lei, no Regimento Interno ou em outras disposições normativas.\n§ 1º Ficam lotados no Gabinete do 1º Vice-Presidente: 01 (um) cargo de Chefe de Gabinete da Vice-Presidência, 01 (um) cargo de Assessor Legislativo, 01 (um) cargo de Assessor de Gabinete da Mesa Diretora e 01 (um) cargo de Assessor Especial da Mesa Diretora.\n§ 2º Ficam lotados no Gabinete do 2º Vice-Presidente: 01 (um) cargo de Chefe de Gabinete da Vice-Presidência, 01 (um) cargo de Assessor Legislativo, 01 (um) cargo de Assessor de Gabinete da Mesa Diretora e 01 (um) cargo de Assessor Especial da Mesa Diretora.\nArt. 4º Os Gabinetes das Secretarias da Mesa Diretora têm como objetivo proporcionar assessoria direta aos Vereadores Secretários em suas atribuições na Mesa Diretora na direção dos trabalhos legislativos e serviços administrativos da Câmara Municipal, estabelecidas em lei, no Regimento Interno ou em outras disposições normativas.\n§ 1º Ficam lotados no Gabinete do 1º Secretário: 01 (um) cargo de Chefe de Gabinete de Secretaria, 01 (um) cargo de Assessor Legislativo, 02 (dois) cargos de Assessor de Gabinete da Mesa Diretora, e 03 (três) cargos de Assessor Especial da Mesa Diretora.\n§ 2º Ficam lotados no Gabinete do 2º Secretário: 01 (um) cargo de Chefe de Gabinete da Secretaria, 01 (um) cargo de Assessor Legislativo, 1 (um) cargo de Assessor de Gabinete da Mesa Diretora e 01 (um) cargo de Assessor Especial da Mesa Diretora.\nArt. 5º Os Gabinetes das Lideranças de Representação Partidária têm como objetivo proporcionar assessoria direta aos Líderes de Bancada, com suas atribuições estabelecidas em lei, no Regimento Interno ou em outras disposições normativas.\n§ 1º Ficam lotados nos Gabinetes das Lideranças de Representação Partidária:\nI - 1 (um) cargo de Chefe de Gabinete da Liderança; e\nII - 1 (um) cargo de Assessor de Liderança por Vereador integrante da Bancada.\n§ 2º Os Gabinetes de Liderança de Representação Partidária integrada por 5 (cinco) ou mais Vereadores contarão com 1 (um) cargo de Assistente Especial Legislativo, dando-se preferência, em caso de insuficiência deste cargo, para as Bancadas integradas por maior número de Vereadores, cabendo o sorteio em caso de empate.\nArt. 6º O Gabinete da Liderança do Governo tem como objetivo proporcionar assessoria direta ao Líder do Governo, com suas atribuições de Liderança estabelecidas em lei, no Regimento Interno ou em outras disposições normativas.\nParágrafo único. Ficam lotados no Gabinete da Liderança do Governo:\nI - 01 (um) cargo de Chefe de Gabinete de Liderança; e\nII - 02 (dois) cargos de Assessor de Liderança.\" (NR)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Fica alterada a redação do art. 13 da Lei nº 13.638, de 2003, que passa a vigorar acrescido de inciso com a seguinte redação, renumerando-se o atual inciso X como inciso XI:\n\"Art. 13. ...................................................\nX - subsidiar e prestar suporte às atividades da Corregedoria;\nXI - ............................................................\" (NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ficam extintos os seguintes cargos de livre provimento em comissão:\nI - 1 (um) cargo de Assessor de Imprensa Institucional;\nII - 1 (um) cargo de Coordenador de Corregedoria;\nIII - 2 (dois) cargos de Assessor de Comunicação Externa I;\nIV - 1 (um) cargo de Assessor de Comunicação Externa II;\nV - 1 (um) cargo de Chefe de Cerimonial;\nVI - 1 (um) cargo de Diretor Executivo - TV Câmara São Paulo;\nVII - 1 (um) cargo de Diretor Presidente da Escola do Parlamento;\nVIII - 2 (dois) cargos de Diretor Executivo da Escola do Parlamento;\nIX- 1 (um) cargo de Diretor Acadêmico da Escola do Parlamento;\nX - 1 (um) cargo de Ouvidor;\nXI - 1(um) cargo de Ouvidor Adjunto;\nXII - 2 (dois) cargos de Auxiliares de Ouvidoria;\nXIII - 4 (quatro) cargos de Assistente da Escola do Parlamento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Ficam criados os seguintes cargos de livre provimento em comissão:\nI - 1 (um) cargo de Chefe de Gabinete de Secretaria; e\nII - 2 (dois) cargos de Chefe de Gabinete de Vice-Presidência.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Ficam transformados cargos situados na Coluna Situação Nova da segunda tabela do Anexo II da Lei nº 13.637, de 2003 - QUADRO DO PESSOAL DO LEGISLATIVO - CARGOS EM COMISSÃO, conforme Anexo I da presente lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A redação da Coluna Situação Nova da segunda tabela do Anexo II - QUADRO DE PESSOAL DO LEGISLATIVO - CARGOS EM COMISSÃO da Lei nº 13.637, de 2003, fica alterada na forma do Anexo IV da presente lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Ficam incluídas linhas na tabela do Anexo III da Lei nº 13.637, de 2003, nos termos do Anexo II da presente lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica revogada a Tabela - A3 do Anexo IV da Lei nº 13.637, de 2003.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A Tabela B - Cargos em Comissão do Quadro de Pessoal do Legislativo - Tabelas de Atribuições de Cargos - do Anexo VIII da Lei nº 13.637, de 2003, fica substituída na forma do Anexo III da presente lei.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. A partir da vigência da presente Lei, e desde que não haja aumento de despesa, as normas relativas à organização administrativa e institucional da Câmara Municipal, inclusive de seus Gabinetes, e as relativas às atribuições, criação, transformação e extinção de cargos e funções do Quadro de Pessoal do Legislativo, também com o fim de alterar as disposições legais vigentes, serão editadas mediante Resolução, respeitada a competência da Mesa Diretora e observados os parâmetros estabelecidos na lei de diretrizes orçamentárias.\nParágrafo único. Será exigida a edição de lei, de iniciativa da Mesa Diretora, para a fixação e alteração de remuneração de cargo, emprego ou função pública.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Esta Lei entra em vigor na data de sua publicação, revogados em especial:\nI - o § 4º do art. 5º da Lei nº 13.637, de 4 de setembro de 2003;\nII - o art. 31 da Lei nº 14.381, de 7 de maio de 2007;\nIII - os arts. 7º, 15 e 16 da Lei nº 15.506, de 13 de dezembro de 2011; e\nIV - os arts. 11 e 12 da Lei nº 15.507, de 13 de dezembro de 2011.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 16 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17154",
+   "short": "Lei 17154/2019",
+   "title": "Lei nº 17.154, de 21/08/2019 (Denomina Praça Jefferson Zacarias o espaço livre que especifica, localizado no Distrito de Cidade Líder, Subprefeitura de Itaquera, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17154-de-21-de-agosto-de-2019",
+   "first_law": "lei-2019-17154",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17154-de-21-de-agosto-de-2019",
+     "sha256": "b924986db757ed9d8fc3dac516cdcc2ef563949751b9c01973cd11da65b0ab89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.154, DE 21 DE AGOSTO DE 2019\n(Projeto de Lei nº 192/18, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDenomina Praça Jefferson Zacarias o espaço livre que especifica, localizado no Distrito de Cidade Líder, Subprefeitura de Itaquera, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Jefferson Zacarias o espaço livre delimitado pelas ruas Filipe Alberti, Fortuna de Minas e por lotes particulares, localizado no Setor 147, Quadra 136, no Distrito de Cidade Líder, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 21 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17155",
+   "short": "Lei 17155/2019",
+   "title": "Lei nº 17.155, de 21/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17155-de-21-de-agosto-de-2019",
+   "first_law": "lei-2019-17155",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17155-de-21-de-agosto-de-2019",
+     "sha256": "113c0562e82d0e2dde50909dafe35ac13d4d184ddac91830be7ebaa6acf9c98b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.155, DE 21 DE AGOSTO DE 2019\n(Projeto de Lei nº 594/17, do Vereador Eliseu Gabriel - PSB)\nDenomina Viela João Carlos Pereira o logradouro que especifica, localizado no Distrito do Limão, Subprefeitura Casa Verde/Cachoeirinha, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viela João Carlos Pereira o logradouro com início na altura do nº 146 da Travessa Barra do Ribeira, entre as ruas Joaquim Barbosa e Lagoa Azul, e término a aproximadamente 60 metros além do seu início, localizado na quadra 65 do setor 75, situado no Distrito do Limão, Subprefeitura Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 21 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17156",
+   "short": "Lei 17156/2019",
+   "title": "Lei nº 17.156, de 21/08/2019 (Denomina Viela Dario de Souza o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17156-de-21-de-agosto-de-2019",
+   "first_law": "lei-2019-17156",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17156-de-21-de-agosto-de-2019",
+     "sha256": "101401ac3ccb0c964eeeaaf9897c6b34cd1d91f2d537de2c936d0dc09945fe0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.156, DE 21 DE AGOSTO DE 2019\n(Projeto de Lei nº 856/17, do Vereador Toninho Vespoli - PSOL)\nDenomina Viela Dario de Souza o logradouro que especifica, localizado no Distrito de Grajaú, Subprefeitura de Capela do Socorro, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viela Dario de Souza o logradouro conhecido por Viela 7 do croqui patrimonial nº 101556, com início na Rua Liseta Lassala Freire Oliveira, entre a Rua Benedito Pereira Ignácio e o logradouro conhecido por Viela 5 e término na Rua Antônio Simão da Costa, localizado no setor 176, quadra 77, situado no Distrito de Grajaú, Subprefeitura de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 21 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17157",
+   "short": "Lei 17157/2019",
+   "title": "Lei nº 17.157, de 22/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17157-de-22-de-agosto-de-2019",
+   "first_law": "lei-2019-17157",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17157-de-22-de-agosto-de-2019",
+     "sha256": "43012f637336b590e19abdfe9ff27b32786dba3f6871bf9ab425c069a93108eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.157, DE 22 DE AGOSTO DE 2019\n(Projeto de Lei nº 799/17, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Waldomiro Brigalante o espaço livre que especifica, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Waldomiro Brigalante o espaço livre 9M do croqui patrimonial nº 102.856, delimitado pelas ruas Maestro João de Souza Lima, José Mauro de Vasconcelos, via de ligação entre estas ruas e por lotes particulares, situado no setor 125, quadra 169, localizado no Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 22 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17159",
+   "short": "Lei 17159/2019",
+   "title": "Lei nº 17.159, de 26/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17159-de-26-de-agosto-de-2019",
+   "first_law": "lei-2019-17159",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17159-de-26-de-agosto-de-2019",
+     "sha256": "8d3542a8e6016e35f490e87e15ad06a90a7591923db61a6bfefb5c8704da9f82",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.159, DE 26 DE AGOSTO DE 2019\n(Projeto de Lei nº 435/18, do Vereador Claudinho de Souza - PSDB)\nDenomina Praça José Passos da Silva o espaço livre que especifica, localizado no Distrito de Brasilândia, Subprefeitura de Freguesia/Brasilândia, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Passos da Silva o espaço livre 1M do croqui 101.269, delimitado pelas ruas Santa Cruz do Escalvado e Amaral Ferrador e por lotes particulares, situado no setor 127, quadra 123, localizado no Distrito de Brasilândia, Subprefeitura de Freguesia/Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 26 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17160",
+   "short": "Lei 17160/2019",
+   "title": "Lei nº 17.160, de 26/08/2019 (Denomina Praça Osmar Porcelli o espaço livre que especifica, localizado no Distrito da Mooca, Subprefeitura da Mooca, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17160-de-26-de-agosto-de-2019",
+   "first_law": "lei-2019-17160",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17160-de-26-de-agosto-de-2019",
+     "sha256": "e30a7d93a722f71b340ce1d8afb6af40717100a40728a16676fc5746eca5e2b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.160, DE 26 DE AGOSTO DE 2019\n(Projeto de Lei nº 495/18, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Osmar Porcelli o espaço livre que especifica, localizado no Distrito da Mooca, Subprefeitura da Mooca, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Osmar Porcelli o espaço livre constante na planta ARR287, delimitado pelas ruas Celso de Azevedo Marques e Cônego Antônio Lessa e lotes particulares, localizado no Setor 32, Quadras 64, 72 e 73, situado no Distrito da Mooca, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 26 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17161",
+   "short": "Lei 17161/2019",
+   "title": "Lei nº 17.161, de 26/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17161-de-26-de-agosto-de-2019",
+   "first_law": "lei-2019-17161",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17161-de-26-de-agosto-de-2019",
+     "sha256": "f2825ff565c4b6081aea15bd349262561cd7d870a5567311137d126db7e3021b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.161, DE 26 DE AGOSTO DE 2019\n(Projeto de Lei nº 567/17, do Vereador Paulo Frange - PTB)\nInstitui o uso da bengala verde como meio adequado para identificar pessoas acometidas de baixa visão e como instrumento de orientação e mobilidade no Município de São Paulo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Município de São Paulo, o uso da bengala verde, como instrumento auxiliar de orientação, apoio, mobilidade e de identificação de pessoas diagnosticadas com baixa visão.\nParágrafo único. Considera-se pessoa acometida de baixa visão aquela que apresenta alteração, com restrição de acuidade visual menor ou igual a 20/200 (vinte duzentos avos), e/ou inferior a 30% (trinta por cento) da visão do melhor olho, ou campo visual (visão lateral) menor que 20 (vinte) graus, mesmo com o uso de óculos adequados e após ter passado por todos os procedimentos clínicos e/ou cirúrgicos, e utilizado de todos os recursos óticos disponíveis para a melhora da capacidade visual.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A bengala verde possuirá iguais características em relação à bengala branca em peso, longitude, empunhadura elástica e capacidade de rebatimento, podendo ou não conter, na última anilha, uma luz de LED, a qual facilitará na visibilidade noturna.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo dará publicidade, para conhecimento da população, por instrumentos e mecanismos necessários à divulgação, do uso da bengala verde pelas pessoas diagnosticadas com baixa visão.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução da presente Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 26 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17162",
+   "short": "Lei 17162/2019",
+   "title": "Lei nº 17.162, de 30/08/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Feira Nacional da Reforma Agrária.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17162-de-30-de-agosto-de-2019",
+   "first_law": "lei-2019-17162",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17162-de-30-de-agosto-de-2019",
+     "sha256": "5aadca7147ef18aa82650cd8dc036d5535fcc1d3052f996342ee0a425e7f10b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.162 DE 30 DE AGOSTO DE 2019\n(PROJETO DE LEI Nº 86/19)\n(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Feira Nacional da Reforma Agrária.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XCVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"XCVII - primeira semana de maio:\na Semana da Feira Nacional da Reforma Agrária.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 30 de agosto de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de agosto de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17163",
+   "short": "Lei 17163/2019",
+   "title": "Lei nº 17.163, de 30/08/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Fórum Fale Sem Medo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17163-de-30-de-agosto-de-2019",
+   "first_law": "lei-2019-17163",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17163-de-30-de-agosto-de-2019",
+     "sha256": "f061d7693526f66e020fc6e4d150cf20f77cf1b375d6097d51138f1aed695b6f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.163 DE 30 DE AGOSTO DE 2019\n(PROJETO DE LEI Nº 121/18)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Fórum Fale Sem Medo, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso XLIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º ...\nXLIII - ...\nO Fórum Fale Sem Medo, que faz parte das comemorações do Dia Internacional da Mulher, e cujos objetivos são proporcionar um espaço onde possa haver discussão das violências contra a mulher e promover articulações no enfrentamento à violência contra a mulher.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 30 de agosto de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de agosto de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17164",
+   "short": "Lei 17164/2019",
+   "title": "Lei nº 17.164, de 30/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17164-de-30-de-agosto-de-2019",
+   "first_law": "lei-2019-17164",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17164-de-30-de-agosto-de-2019",
+     "sha256": "47ac73c299745dd30c0611e4554d41ac3bb9c6557b22b16c2dae0dd98bce463b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.164 DE 30 DE AGOSTO DE 2019\n(PROJETO DE LEI Nº 255/18)\n(VEREADORES CAIO MIRANDA CARNEIRO - PSB E SONINHA FRANCINE - CIDADANIA)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o \"World Cleanup Day\" - Dia Mundial da Limpeza, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXCIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 15 de setembro:\no 'World Cleanup Day' - Dia Mundial da Limpeza.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de agosto de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de agosto de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17165",
+   "short": "Lei 17165/2019",
+   "title": "Lei nº 17.165, de 30/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17165-de-30-de-agosto-de-2019",
+   "first_law": "lei-2019-17165",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17165-de-30-de-agosto-de-2019",
+     "sha256": "b34e81c1716a43e0b59df811e2e1ee43f1f152de15ab0bdec4053638fd0728bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.165, DE 30 DE AGOSTO DE 2019\n(Projeto de Lei nº 264/17, do Vereador Ricardo Teixeira - DEMOCRATAS)\nDispõe sobre a proibição do consumo de cigarros, cigarrilhas, charutos, cachimbos, narguilés ou de qualquer outro produto fumígeno, derivado ou não do tabaco, em parques públicos municipais da Cidade de São Paulo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 8 de agosto de 2019, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibido o consumo de cigarros, cigarrilhas, charutos, cachimbos, narguilés ou de qualquer outro produto fumígeno, derivado ou não do tabaco, em parques públicos municipais da Cidade de São Paulo.\nParágrafo único. Nos locais de que trata este artigo deverá ser afixada placa, na forma e nas dimensões estabelecidas na regulamentação desta Lei, em que conste o aviso de que ali é proibido fumar, as sanções aplicáveis e os telefones dos órgãos de fiscalização.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os infratores desta Lei sujeitar-se-ão à multa de R$ 500,00 (quinhentos reais), aplicada em dobro na reincidência, devendo este valor ser reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\nParágrafo único. Para os efeitos de aplicação da multa prevista neste artigo consideram-se infratores os fumantes em ato flagrante.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Secretaria do Verde e do Meio Ambiente deverá criar uma área especial dentro dos parques para atendimento aos fumantes, que deverão ser distantes de parques infantis, áreas esportivas e demais locais de alta aglomeração e circulação de pessoas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de agosto de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 30 de agosto de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17166",
+   "short": "Lei 17166/2019",
+   "title": "Lei nº 17.166, de 30/08/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17166-de-30-de-agosto-de-2019",
+   "first_law": "lei-2019-17166",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17166-de-30-de-agosto-de-2019",
+     "sha256": "56757e193eafb19d64d031d082b954eacaba8ada9e1fb30d457dd12da2b36389",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.166 DE 30 DE AGOSTO DE 2019\n(PROJETO DE LEI Nº 63/18)\n(VEREADORES AURÉLIO NOMURA - PSDB E PATRÍCIA BEZERRA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Conscientização do Tratamento e Prevenção da Endometriose, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"XLI - mês de março:\nMês da Conscientização do Tratamento e Prevenção da Endometriose, objetivando a concentração de esforços na prevenção e no tratamento da doença, abrangendo seu diagnóstico, tratamento clínico e cirúrgico.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de agosto de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de agosto de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17167",
+   "short": "Lei 17167/2019",
+   "title": "Lei nº 17.167, de 02/09/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17167-de-2-de-setembro-de-2019",
+   "first_law": "lei-2019-17167",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17167-de-2-de-setembro-de-2019",
+     "sha256": "8f847f944bfde08d902b6fd8a8c9afd2433ac2841872f8230c227c06fb6e0e27",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.167 DE 2 DE SETEMBRO DE 2019\n(PROJETO DE LEI Nº 314/18)\n(VEREADORES SÂMIA BOMFIM - PSOL E CELSO GIANNAZI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal das pessoas vítimas de violência, e dá outras providências.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Semana entre os dias 12 e 19 de maio: Semana Municipal das pessoas vítimas de violência.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 3 de setembro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 3 de setembro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17168",
+   "short": "Lei 17168/2019",
+   "title": "Lei nº 17.168, de 02/09/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17168-de-2-de-setembro-de-2019",
+   "first_law": "lei-2019-17168",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17168-de-2-de-setembro-de-2019",
+     "sha256": "a2a08bf327005b647b9c0f9d835b0a196e5497867c38d9ba475a97c40a6a2ff1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.168 DE 2 DE SETEMBRO DE 2019\n(PROJETO DE LEI Nº 179/19)\n(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Elvis Presley Day - Dia Internacional do Rockabilly e a Expo Elvis.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam inseridos incisos ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 16 de agosto: Elvis Presley Day - Dia Internacional do Rockabilly.\n- meses de agosto e setembro: Expo Elvis, organizada anualmente durante os meses de agosto e setembro por seus idealizadores, sendo uma festa de rock'n'roll, com as tradições festivas que reúnem aspectos culturais e de época, além de sua própria e tradicional gastronomia, bem como música, cantores e covers de Elvis Presley, painéis relativos à história do Rei, bandas Rockabilly, carros e lambretas antigas, e performances correlatas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 3 de setembro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 3 de setembro de 2019.\nBRENO GANDELMAN Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17169",
+   "short": "Lei 17169/2019",
+   "title": "Lei nº 17.169, de 02/09/2019 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional do Nikkei.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17169-de-2-de-setembro-de-2019",
+   "first_law": "lei-2019-17169",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17169-de-2-de-setembro-de-2019",
+     "sha256": "82dfb99300dbf430ca8e5d68c8d3a29152b31e0330833e7a2671f108cc8d99d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.169 DE 2 DE SETEMBRO DE 2019\n(PROJETO DE LEI Nº 202/19)\n(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Internacional do Nikkei.\nEduardo Tuma, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CXVI - 20 de junho:\no Dia Internacional do Nikkei, com o objetivo de debater e incentivar a preservação da tradição e dos valores culturais da Sociedade Nikkei, para que seja possível transmitir o legado dos pioneiros da Imigração Japonesa no Brasil.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 3 de setembro de 2019.\nEDUARDO TUMA, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 3 de setembro de 2019.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17170",
+   "short": "Lei 17170/2019",
+   "title": "Lei nº 17.170, de 04/09/2019 (Denomina Rua José Cecilio Jabur o logradouro que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17170-de-4-de-setembro-de-2019",
+   "first_law": "lei-2019-17170",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17170-de-4-de-setembro-de-2019",
+     "sha256": "d3ae2780a523896db0b90562237195c658f1ff7b6c033c2310cd99658ea2efe9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.170, DE 4 DE SETEMBRO DE 2019\n(Projeto de Lei nº 210/18, do Vereador Toninho Paiva - PL)\nDenomina Rua José Cecilio Jabur o logradouro que especifica, localizado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua José Cecilio Jabur o logradouro inominado, situado entre a Rua Olho D'Água do Borges e a Rua Floresta Azul, no Setor 130, entre as Quadras 421 e 370, Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de setembro de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 4 de setembro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17171",
+   "short": "Lei 17171/2019",
+   "title": "Lei nº 17.171, de 04/09/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17171-de-4-de-setembro-de-2019",
+   "first_law": "lei-2019-17171",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17171-de-4-de-setembro-de-2019",
+     "sha256": "0f1e2f2972f75acac745e97f0a382168957033a4fd8b242af40e962119bef779",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.171, DE 4 DE SETEMBRO DE 2019\n(Projeto de Lei nº 270/18, do Vereador Gilberto Natalini - PV)\nDenomina Praça Seu Chiquinho Villano o logradouro que especifica, localizado no Distrito de Vila Mariana, Subprefeitura de Vila Mariana, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Seu Chiquinho Villano o logradouro público delimitado pelas duas pistas da Rua Dr. Mario Cardim e pela Rua Rio Grande, localizado no Setor 37, Quadras 71, 81 e 82, situado no Distrito de Vila Mariana, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de setembro de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 4 de setembro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17172",
+   "short": "Lei 17172/2019",
+   "title": "Lei nº 17.172, de 04/09/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17172-de-4-de-setembro-de-2019",
+   "first_law": "lei-2019-17172",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17172-de-4-de-setembro-de-2019",
+     "sha256": "e2b799352c3a46b13453a5364899814188a1cee430e7db4cc6a3ef7b11eb1927",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.172, DE 4 DE SETEMBRO DE 2019\n(Projeto de Lei nº 404/18, do Vereador Reis - PT)\nDenomina Via de Pedestre Simião Caetano de Farias o logradouro que especifica, localizado no Distrito de Jardim São Luiz, Subprefeitura de M'Boi Mirim, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Via de Pedestre Simião Caetano de Farias o logradouro identificado por Viela 2 na planta AU5244, com início na Rua Romão Manzini Cerqueira e término na Rua Francisco Assis Garrido, localizado no setor 165, entre quadras 182 e 426, no Distrito de Jardim São Luiz, Subprefeitura de M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de setembro de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 4 de setembro de 2019.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-17173",
+   "short": "Lei 17173/2019",
+   "title": "Lei nº 17.173, de 04/09/2019",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17173-de-4-de-setembro-de-2019",
+   "first_law": "lei-2019-17173",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-17173-de-4-de-setembro-de-2019",
+     "sha256": "952f53c647171013c45266e42cdafa202d870e3b2681d310c6a80346651bce10",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 17.173, DE 4 DE SETEMBRO DE 2019\n(Projeto de Lei nº 843/17, do Vereador Reis - PT)\nDenomina Praça Luiz Felipe de Amaral Brito o logradouro que especifica, localizado no Distrito de Capão Redondo, Subprefeitura de Campo Limpo, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Luiz Felipe de Amaral Brito o logradouro formado pela área remanescente dos espaços livres 1 e 2 da planta, delimitado pela Rua Maria Blanchard, Avenida Mateus de Albuquerque e lotes particulares, localizado no setor 166 - quadras 134 e 259, no Distrito de Capão Redondo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de setembro de 2019, 466º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nJOÃO JORGE DE SOUZA, Secretário Municipal da Casa Civil\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nPublicada na Casa Civil, em 4 de setembro de 2019.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
