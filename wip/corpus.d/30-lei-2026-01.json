@@ -1,0 +1,2436 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-10-31",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-18379": {
+   "label": "Lei nº 18.379, de 05/01/2026",
+   "title": "Dispõe sobre a remissão de créditos tributários do Imposto Predial e Territorial Urbano – IPTU incidentes sobre imóveis utilizados como teatros ou espaços culturais localizados no Distrito da Bela Vista e outros.",
+   "kind": "law",
+   "enacted": "2026-01-05",
+   "published": "2026-01-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18379-de-5-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18380": {
+   "label": "Lei nº 18.380, de 05/01/2026",
+   "title": "Altera a Lei nº 14.934, de 18 de junho de 2009, para atualizar a composição do Conselho Gestor do Fundo Municipal de Saneamento e Infraestrutura.",
+   "kind": "law",
+   "enacted": "2026-01-05",
+   "published": "2026-01-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18380-de-5-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18381": {
+   "label": "Lei nº 18.381, de 07/01/2026",
+   "title": "Autoriza a implantar o Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-07",
+   "published": "2026-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18381-de-7-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18383": {
+   "label": "Lei nº 18.383, de 07/01/2026",
+   "title": "Institui o Programa de Vizinhança Solidária.",
+   "kind": "law",
+   "enacted": "2026-01-07",
+   "published": "2026-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18383-de-7-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18384": {
+   "label": "Lei nº 18.384, de 07/01/2026",
+   "title": "Altera a Lei Municipal nº 14.471, de 10 de julho de 2007, para declarar Turim, na Itália, cidade-irmã da Cidade de São Paulo.",
+   "kind": "law",
+   "enacted": "2026-01-07",
+   "published": "2026-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18384-de-7-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18386": {
+   "label": "Lei nº 18.386, de 09/01/2026",
+   "title": "Acrescenta o item 9.4 ao Anexo I da Lei nº 16.642, de 9 de maio de 2017 - Código de Obras e Edificações do Município, para determinar a instalação de dispositivos antirrefluxo nos ralos de chão das edificações que especifica.",
+   "kind": "law",
+   "enacted": "2026-01-09",
+   "published": "2026-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18386-de-9-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18387": {
+   "label": "Lei nº 18.387, de 09/01/2026",
+   "title": "Altera a Lei Municipal nº 16.518, de 22 de julho de 2016, para assegurar e ampliar o direito de ingresso e permanência de pessoas com deficiência acompanhadas de cães de assistência em locais de uso público ou privado no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-09",
+   "published": "2026-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18387-de-9-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18388": {
+   "label": "Lei nº 18.388, de 15/01/2026",
+   "title": "Altera a Lei nº 16.778, de 29 de dezembro de 2017, para passar a denominar o próprio municipal situado na Praça Benedito Cavalheiro s/nº, na Travessa Estrada do Sabão, no bairro da Vila Brasilândia, na cidade de São Paulo, Casa de Cultura da Brasilândia - Sonia Franieck e João Terra.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18388-de-16-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18389": {
+   "label": "Lei nº 18.389, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia e o mês de Conscientização e Enfrentamento ao Assédio Psicológico conforme especifica.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18389-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18390": {
+   "label": "Lei nº 18.390, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana de Incentivo às Ações do Parto Humanizado e de Combate à Violência Relacionada ao Parto no Calendário de Eventos do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18390-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18391": {
+   "label": "Lei nº 18.391, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal das Defensoras e Defensores de Direitos Humanos, no Calendário de Eventos do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18391-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18392": {
+   "label": "Lei nº 18.392, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Cultura Italiana, a ser celebrada, anualmente, na semana em que recair o dia 21 de fevereiro.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18392-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18393": {
+   "label": "Lei nº 18.393, de 15/01/2026",
+   "title": "Autoriza a criação do Programa do Polo Cultural, Gastronômico e Turístico Lapa- Pompeia-Barra Funda, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18393-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18394": {
+   "label": "Lei nº 18.394, de 15/01/2026",
+   "title": "Altera as Leis nº 13.637 e nº 13.638, ambas de 4 de setembro de 2003, e a Lei nº 14.381, de 7 de maio de 2007, para instituir, no âmbito da Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, a Equipe de Apoio às Procuradorias Especiais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18394-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18395": {
+   "label": "Lei nº 18.395, de 15/01/2026",
+   "title": "Denomina como Profª. Alfa Beatriz dos Santos Nwosu o CEU EMEF Alto Alegre da DRE/SM e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18395-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18396": {
+   "label": "Lei nº 18.396, de 15/01/2026",
+   "title": "Denomina Praça Arabela Alves dos Santos o logradouro que especifica localizado no Distrito Capão Redondo, Subprefeitura de Campo Limpo.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18396-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18397": {
+   "label": "Lei nº 18.397, de 15/01/2026",
+   "title": "Denomina Travessa Osvaldo Silva de Castro logradouro público inominado localizado no Setor 110, Quadra 528, no Distrito de Cangaíba, Subprefeitura da Penha.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18397-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18398": {
+   "label": "Lei nº 18.398, de 15/01/2026",
+   "title": "Denomina Praça da Poesia Concreta o espaço público que especifica, localizado no Distrito de Pinheiros.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18398-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18399": {
+   "label": "Lei nº 18.399, de 15/01/2026",
+   "title": "Denomina Travessa Iraci Maria Mendonça o logradouro que especifica, localizado no Distrito Pirituba, Subprefeitura Pirituba/Jaraguá.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18399-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18400": {
+   "label": "Lei nº 18.400, de 15/01/2026",
+   "title": "Denomina Praça Prof. Eng. Celso Antônio Abrantes o espaço livre que especifica, no Distrito de Itaim Bibi, Subprefeitura de Pinheiros.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18400-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18401": {
+   "label": "Lei nº 18.401, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia Municipal de Combate a Violência Infantil, a ser comemorado anualmente no dia 4 de junho.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18401-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18402": {
+   "label": "Lei nº 18.402, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia das Rondas Ostensivas Tobias de Aguiar – ROTA.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18402-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18403": {
+   "label": "Lei nº 18.403, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Mês da Solidariedade - Projeto Unisocial, a ser comemorado anualmente no mês de outubro.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18403-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18404": {
+   "label": "Lei nº 18.404, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Virada Pet Permanente, tendo São Francisco de Assis como padroeiro do evento.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18404-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18405": {
+   "label": "Lei nº 18.405, de 15/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia dos Sociólogos e Sociólogas, a ser celebrado anualmente no dia 10 de dezembro.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18405-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18406": {
+   "label": "Lei nº 18.406, de 15/01/2026",
+   "title": "Altera a Lei nº 13.545, de 31 de março de 2003, para estabelecer novos critérios para o cálculo dos valores do auxílio pecuniário e substituir a nomenclatura “Programa Família Guardiã” para “Serviço Família Acolhedora”.",
+   "kind": "law",
+   "enacted": "2026-01-15",
+   "published": "2026-01-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18406-de-15-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18407": {
+   "label": "Lei nº 18.407, de 19/01/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana da Conscientização Menstrual no Calendário de Eventos do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-19",
+   "published": "2026-01-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18407-de-19-de-janeiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18408": {
+   "label": "Lei nº 18.408, de 26/02/2026",
+   "title": "Denomina Travessa José Pinto Lapa o logradouro público localizado no Distrito de Guaianases, Subprefeitura de Guaianases.",
+   "kind": "law",
+   "enacted": "2026-02-26",
+   "published": "2026-02-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18408-de-26-de-fevereiro-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18409": {
+   "label": "Lei nº 18.409, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos do Município de São Paulo o Arraiá da Vila Mariana, a ser celebrado anualmente no último final de semana do mês de junho.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18409-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18410": {
+   "label": "Lei nº 18.410, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Chaveiro.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18410-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18411": {
+   "label": "Lei nº 18.411, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia de Conscientização sobre a Enterocolite Necrosante (NEC), a ser realizado, anualmente, no dia 17 de maio.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18411-de-4-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18412": {
+   "label": "Lei nº 18.412, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Expo da Paulista, a ser celebrada no mês de maio.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18412-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18413": {
+   "label": "Lei nº 18.413, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Carnaval de Rua no Calendário de Eventos do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18413-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18414": {
+   "label": "Lei nº 18.414, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Dia da Queima do Alho no Calendário de Eventos do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18414-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18415": {
+   "label": "Lei nº 18.415, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo, no dia 4 de fevereiro, o Dia da Prevenção do Retinoblastoma.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18415-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18416": {
+   "label": "Lei nº 18.416, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Mulher Oriental, a ser celebrado anualmente no dia 9 de setembro.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18416-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18417": {
+   "label": "Lei nº 18.417, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, a Semana Municipal de Reconhecimento das Lideranças Comunitárias e das Organizações da Sociedade Civil.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18417-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18418": {
+   "label": "Lei nº 18.418, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia Municipal do Profissional de Saúde, a ser celebrado, anualmente, no dia 5 de agosto.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18418-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18419": {
+   "label": "Lei nº 18.419, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia do Pedal da Paz, a ser celebrado, anualmente, no segundo sábado de novembro.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18419-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18420": {
+   "label": "Lei nº 18.420, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Passeio Ciclístico da Mooca, a ser realizado, anualmente, no mês de agosto.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18420-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18421": {
+   "label": "Lei nº 18.421, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Grajaú Fest, a ser comemorado anualmente no último final de semana do mês de novembro.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18421-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18422": {
+   "label": "Lei nº 18.422, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Cidade Ademar Fest, a ser comemorada no último final de semana do mês de junho.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18422-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18423": {
+   "label": "Lei nº 18.423, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Abraço à Represa Billings, a ser comemorado anualmente próximo do dia do aniversário da Represa Billings (27 de março) e do Dia Internacional da Consciência (5 de abril), instituído pela Organização das Nações Unidas – ONU.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18423-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18424": {
+   "label": "Lei nº 18.424, de 03/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia da Mulher Imigrante, a ser celebrado anualmente no dia 14 de novembro.",
+   "kind": "law",
+   "enacted": "2026-03-03",
+   "published": "2026-03-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18424-de-3-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18425": {
+   "label": "Lei nº 18.425, de 09/03/2026",
+   "title": "Denomina Praça Neurandi Leandro de Antônio área pública municipal delimitada pelas ruas Saramenha e Francisco Bayardo, no Distrito de Perdizes, Subprefeitura da Lapa.",
+   "kind": "law",
+   "enacted": "2026-03-09",
+   "published": "2026-03-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18425-de-9-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18426": {
+   "label": "Lei nº 18.426, de 09/03/2026",
+   "title": "Denomina Travessa Benedicto Correia de Abreu o logradouro que começa na altura do número 828 da Avenida Waldemar Tietz e termina na Travessa Berta Becker, situado no Setor 143.",
+   "kind": "law",
+   "enacted": "2026-03-09",
+   "published": "2026-03-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18426-de-9-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18427": {
+   "label": "Lei nº 18.427, de 10/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para inserir no Calendário de Eventos da Cidade de São Paulo o Dia da Cruzada Evangelista da Cidade Líder.",
+   "kind": "law",
+   "enacted": "2026-03-10",
+   "published": "2026-03-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18427-de-10-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18428": {
+   "label": "Lei nº 18.428, de 10/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Patinação, a ser celebrado, anualmente, no dia 7 de setembro.",
+   "kind": "law",
+   "enacted": "2026-03-10",
+   "published": "2026-03-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18428-de-10-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18429": {
+   "label": "Lei nº 18.429, de 20/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Domingo Aéreo - Força Aérea Brasileira, a ser celebrado no último domingo de setembro.",
+   "kind": "law",
+   "enacted": "2026-03-20",
+   "published": "2026-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18429-de-20-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-18430": {
+   "label": "Lei nº 18.430, de 25/03/2026",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês Junho Laranja de combate e prevenção a queimaduras de pele.",
+   "kind": "law",
+   "enacted": "2026-03-25",
+   "published": "2026-03-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18430-de-25-de-marco-de-2026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-18379",
+   "short": "Lei 18379/2026",
+   "title": "Lei nº 18.379, de 05/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18379-de-5-de-janeiro-de-2026",
+   "first_law": "lei-2026-18379",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18379-de-5-de-janeiro-de-2026",
+     "sha256": "692338a73f1c8fd9f028c6c3729b5b6c16b4586160fa9b6cc7393077e88461f1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.379, DE 5 DE JANEIRO DE 2026\n(Projeto de Lei nº 1432/25, do Executivo aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a remissão de créditos tributários do Imposto Predial e Territorial Urbano - IPTU incidentes sobre imóveis utilizados como teatros ou espaços culturais localizados no Distrito da Bela Vista e outros.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei dispõe sobre a remissão de créditos tributários do Imposto Predial e Territorial Urbano - IPTU incidentes sobre imóveis utilizados como teatros ou espaços culturais localizados no Distrito da Bela Vista, tendo como fundamento a relevância cultural, artística e social dos teatros e espaços culturais situados no Distrito da Bela Vista, área reconhecida por sua tradicional contribuição à formação artística, à difusão das artes cênicas e à vida cultural do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam remitidos, vedada a restituição de quaisquer quantias eventualmente recolhidas, os créditos tributários do Imposto Predial e Territorial Urbano - IPTU, inscritos ou não em dívida ativa, referentes aos exercícios de 2020, 2021, 2022, 2023 e 2024, inclusive aqueles objeto de adesão a programa de parcelamento, incidentes sobre imóveis localizados no Distrito da Bela Vista e utilizados exclusiva ou predominantemente como teatros ou espaços culturais, observados os requisitos previstos nesta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A remissão de que trata o art. 2º desta Lei aplica-se aos imóveis cuja finalidade seja a realização de espetáculos de artes cênicas, e que apresentem, cumulativamente, as seguintes características:\nI - caráter artístico e cultural, nos termos do § 2º deste artigo;\nII - acesso direto por logradouro público ou por espaço semi público de circulação;\nIII - capacidade de público, por sala, de até 700 (setecentas) pessoas sentadas.\n§ 1º A remissão prevista nesta Lei não se aplica aos teatros e espaços culturais que sejam administrados ou geridos por:\nI - partidos políticos;\nII - empresas que não tenham finalidade cultural.\n§ 2º Consideram-se de caráter artístico e cultural os teatros e espaços culturais que desenvolvam ações de criação, produção, formação, programação ou promoção de atividades artísticas com finalidade estética e cultural.\n§ 3º No caso de imóveis parcialmente utilizados para atividades culturais ou acessórias correlacionadas à exibição de espetáculos, a remissão incidirá proporcionalmente sobre a área efetivamente utilizada para tais fins.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam remitidos os créditos do Imposto Predial e Territorial Urbano - IPTU, referentes a fatos geradores ocorridos até ou após a entrada em vigor da Emenda Constitucional nº 116, de 17 de fevereiro de 2022, inclusive os objetos de adesão ao programa de parcelamento, inscritos ou não em dívida ativa, ajuizados ou a ajuizar e em execuções fiscais em curso, bem como as respectivas multas, juros e honorários advocatícios sucumbenciais, inclusive relativos a imóveis cujos titulares e locatários, à época do fato gerador, eram entidades religiosas, desde que utilizados exclusivamente como templo de qualquer culto com base na imunidade de imóveis destinados à atividade religiosa de que trata o art. 150, VI, \"b\", da Constituição Federal, e enquadrados nas hipóteses previstas no art. 13 da Lei nº 18.330, de 11 de novembro de 2025.\n§ 1º A remissão poderá ser requerida pelo titular do imóvel ou pela entidade religiosa locatária, devendo o pedido ser instruído com os seguintes documentos:\nI - contrato de locação vigente à época do fato gerador;\nII - ata e estatuto social registrado da entidade religiosa, contendo declaração expressa de dedicação a atividades religiosas e inexistência de fins lucrativos;\nIII - matrícula atualizada do imóvel, expedida pelo Cartório de Registro de Imóveis competente e comprovante do Cadastro Nacional de Pessoas Jurídicas - CNPJ;\nIV - declaração firmada pelo requerente ou por seu representante legal de que o imóvel era utilizado exclusivamente como templo de qualquer culto ou atendia às condições previstas no art. 13 da Lei nº 18.330, de 2025.\n§ 2º Se a declaração prevista no inciso IV do § 1º deste artigo for eivada de falsidade material ou ideológica, e houver sido expedida com dolo e má-fé, os órgãos de representação judicial do Município representarão criminalmente em desfavor dos signatários e de todos os demais que eventualmente tenham concorrido para tanto, sem prejuízo da cassação retroativa da remissão, da imediata inscrição em Dívida Ativa dos correspondentes créditos, e da propositura prioritária de execução fiscal.\n§ 3º O requerimento que não estiver instruído com todos os documentos obrigatórios, ou contiver outras falhas de natureza formal, será indeferido de plano por ausência de elementos mínimos para análise, ficando facultada ao interessado a apresentação de novo requerimento, desde que a documentação exigida esteja completa.\n§ 4º O novo pedido observará a legislação vigente na data de seu protocolo, não se aproveitando documentos apresentados anteriormente.\n§ 5º A remissão de que trata este artigo não autoriza restituição, compensação ou devolução de quaisquer valores eventualmente recolhidos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam remitidos, vedada a restituição de quaisquer quantias eventualmente recolhidas, os créditos do Imposto Predial e Territorial Urbano - IPTU, inscritos ou não em dívida ativa, ajuizados ou a ajuizar e em execuções fiscais em curso, bem como as respectivas multas, juros e honorários advocatícios sucumbenciais, referentes a fatos geradores ocorridos até o exercício de 2025, inclusive aqueles objetos de adesão a programa de parcelamento, incidentes sobre imóveis localizados nos Distritos da Liberdade, Vila Mariana e Saúde integrantes do patrimônio de entidades culturais representativas de imigrantes e seus descendentes cuja finalidade, dentre outras, seja de proporcionar e desenvolver o intercâmbio técnico, cultural e educacional com entidades e governos estrangeiros.\nParágrafo único. A Secretaria Municipal da Fazenda regulamentará os procedimentos para requisição, bem como a relação da documentação comprobatória a ser apresentada.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Secretaria Municipal da Fazenda poderá regulamentar, no que couber, os procedimentos operacionais necessários à efetivação da remissão prevista nesta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 5 de janeiro de 2026.\nDocumento original assinado nº 148691645\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18380",
+   "short": "Lei 18380/2026",
+   "title": "Lei nº 18.380, de 05/01/2026 (Altera a Lei nº 14.934, de 18 de junho de 2009, para atualizar a composição do Conselho Gestor do Fundo Municipal de Saneamento e Infraestrutura.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18380-de-5-de-janeiro-de-2026",
+   "first_law": "lei-2026-18380",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18380-de-5-de-janeiro-de-2026",
+     "sha256": "dc87df2291c261c536cbbfc79d2a6ec5ad7e83804a8e8aceb0e915463db26f9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.380, DE 5 DE JANEIRO DE 2026\n(Projeto de Lei nº 1486/25, do Executivo)\nAltera a Lei nº 14.934, de 18 de junho de 2009, para atualizar a composição do Conselho Gestor do Fundo Municipal de Saneamento e Infraestrutura.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 10 da Lei nº 14.934, de 18 de junho 2009, passa a vigorar com as seguintes alterações:\n\"Art. 10 ......................................................................................\nVII - Secretário Municipal de Gestão;\nXIII - Secretário Municipal de Planejamento e Eficiência.\n..........................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 5 de janeiro de 2026.\nDocumento original assinado nº 148862898\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18381",
+   "short": "Lei 18381/2026",
+   "title": "Lei nº 18.381, de 07/01/2026 (Autoriza a implantar o Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18381-de-7-de-janeiro-de-2026",
+   "first_law": "lei-2026-18381",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18381-de-7-de-janeiro-de-2026",
+     "sha256": "1bd62816a9e1535cca983b1e838079bf0c1951fb4e69619c05cd3ab27bcca11c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.381, DE 7 DE JANEIRO DE 2026\n(Projeto de Lei nº 636/22, dos Vereadores Danilo do Posto de Saúde - PODEMOS, Ana Carolina Oliveira - PODEMOS, Daniel Annenberg - PSB e Silvinho Leite - UNIÃO)\nAutoriza a implantar o Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo e dá outras providências.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo Municipal autorizado a implantar o Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Alfabetização de comunicação digital refere-se nesta Lei a utilização de aplicativo multiplataforma de mensagens instantâneas e chamadas de voz e/ou vídeo instantâneos, envio de texto, imagens, voz, vídeos e arquivos de dados, por meio de aparelhos celulares.\nParágrafo único. O Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo destina-se a pessoas com idade superior a 60 (sessenta) anos completos interessadas em aprender a manusear aparelhos de telefones celulares por meio de aplicativos multiplataforma de comunicação digital.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo Municipal poderá definir critérios para o cadastramento das pessoas interessadas nas capacitações pelo programa de alfabetização de Comunicação Digital da Pessoa Idosa.\n§ 1º O Programa Municipal de Alfabetização de Comunicação Digital da Pessoa Idosa do Município de São Paulo poderá estabelecer prioridades às pessoas idosas que participam de grupos da terceira Idade ou de fóruns da pessoa idosa, reconhecidos pelo Grande Conselho Municipal do Idoso de São Paulo.\n§ 2º Fica o Grande Conselho Municipal do Idoso autorizado, a seu critério, a promover edital de chamamento público para financiamento de termo de colaboração, fomento, ou cooperação para projetos que visem aos objetivos deste Programa, por meio de recursos do Fundo Municipal do Idoso.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica o Executivo Municipal autorizado a firmar convênios que visam cooperação técnica ou financeira com entidades de direito público ou privado, inclusive universidades nacional ou estrangeira.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 7 de janeiro de 2026.\nDocumento original assinado nº 148872243\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18383",
+   "short": "Lei 18383/2026",
+   "title": "Lei nº 18.383, de 07/01/2026 (Institui o Programa de Vizinhança Solidária.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18383-de-7-de-janeiro-de-2026",
+   "first_law": "lei-2026-18383",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18383-de-7-de-janeiro-de-2026",
+     "sha256": "df673ad4515a10e993f4811b41d8759ac504882c3d662af107b483b588800f68",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.383, DE 7 DE JANEIRO DE 2026\n(Projeto de Lei nº 578/25 dos Vereadores Sargento Nantes - PP, Adrilles Jorge - UNIÃO, Ana Carolina Oliveira - PODEMOS, Dr. Murillo Lima - PP, Ely Teruel - MDB e Major Palumbo - PP)\nInstitui o Programa de Vizinhança Solidária.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Vizinhança Solidária, com o objetivo de fomentar a propagação do referido programa, promover a cooperação entre moradores, Conselhos Comunitários de Segurança e Prefeitura, fortalecer a segurança comunitária e incentivar a integração social no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa será regido pelos seguintes princípios:\nI - solidariedade e cooperação entre vizinhos;\nII - prevenção e segurança comunitária;\nIII - incentivo à participação cidadã;\nIV - respeito à privacidade e à liberdade individual;\nV - respeito às forças de segurança do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos específicos do Programa de Vizinhança Solidária:\nI - criar redes de comunicação entre moradores para troca de informações sobre segurança;\nII - estimular ações conjuntas para prevenção de crimes e desastres;\nIII - promover eventos e campanhas educativas sobre segurança e convivência;\nIV - estabelecer parcerias com órgãos públicos e entidades privadas para implementação de melhorias na comunidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os moradores poderão formar grupos de vizinhança solidária, organizados por ruas ou bairros, podendo a comunicação ser feita por meio de aplicativos, redes sociais ou reuniões periódicas, sem prejuízo da atuação dos Conselhos Comunitários de Segurança.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Município poderá oferecer treinamento e materiais educativos sobre segurança comunitária.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Serão incentivadas parcerias com a Polícia Militar, Guarda Civil Metropolitana, Polícia Civil e outros órgãos competentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Município poderá reconhecer formalmente os grupos ativos e oferecer incentivos, tais como:\nI - placa informativa com o selo de \"Comunidade Segura - Programa de Vizinhança Solidária\" para bairros que aderirem ao programa;\nII - apoio na instalação de câmeras de monitoramento comunitário integradas com o Programa Smart Sampa, criado pelo Decreto nº 63.552, de 4 de julho de 2024;\nIII - divulgação de boas práticas e casos de sucesso;\nIV - disponibilização de espaço para encontros entre os grupos de vizinhança solidária, facilitando a cooperação entre sociedade e órgãos de segurança.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 7 de janeiro de 2026.\nDocumento original assinado nº 148943831\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18384",
+   "short": "Lei 18384/2026",
+   "title": "Lei nº 18.384, de 07/01/2026 (Altera a Lei Municipal nº 14.471, de 10 de julho de 2007, para declarar Turim, na Itália, cidade-irmã da Cidade de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18384-de-7-de-janeiro-de-2026",
+   "first_law": "lei-2026-18384",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18384-de-7-de-janeiro-de-2026",
+     "sha256": "7079f4ca1e3bd491f228014a4f9bcca33acd6cf103fe954c9f34e58a00aea852",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.384, DE 7 DE JANEIRO DE 2026\n(Projeto de Lei nº 1190/25 - Vereador Carlos Bezerra Jr. - PSD)\nAltera a Lei Municipal nº 14.471, de 10 de julho de 2007, para declarar Turim, na Itália, cidade-irmã da Cidade de São Paulo.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 3º da Lei Municipal nº 14.471, de 10 de julho de 2007, fica acrescido de inciso com o objetivo de estreitar e fortalecer os laços sociais, culturais e históricos entre as cidades e a população, com a seguinte redação:\n\"Art. 3º .........................................................................................\n- Cidade de Turim, localizada na Itália.; (NR)\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 7 de janeiro de 2026.\nDocumento original assinado nº 148944022\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18386",
+   "short": "Lei 18386/2026",
+   "title": "Lei nº 18.386, de 09/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18386-de-9-de-janeiro-de-2026",
+   "first_law": "lei-2026-18386",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18386-de-9-de-janeiro-de-2026",
+     "sha256": "12e287dd42a2900c0ad9fa33fedddad348ea467ba655d502bcda449d6037370f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.386, DE 9 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 686/25)\n(VEREADOR JOÃO JORGE - MDB)\nAcrescenta o item 9.4 ao Anexo I da Lei nº 16.642, de 9 de maio de 2017 - Código de Obras e Edificações do Município, para determinar a instalação de dispositivos antirrefluxo nos ralos de chão das edificações que especifica.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido o item 9.4 ao Anexo I da Lei nº 16.642, de 9 de maio de 2017 - Código de Obras e Edificações do Município, com a seguinte redação:\n\"9.4 É obrigatório o uso de dispositivo antirrefluxo e capaz de vedar a passagem de patógenos em geral, gases, odores e animais, no âmbito do Município de São Paulo, nos ralos de chão de imóveis utilizados como:\nI - estabelecimentos de ensino, desde creches até instituições de ensino superior público e privado;\nII - hospitais, clínicas, consultórios e demais estabelecimentos de saúde público e privado;\nIII - estabelecimentos comerciais com acesso público, tais como edifícios comerciais, restaurantes, hotéis, lojas, centros de compras e similares;\nIV - edifícios utilizados pela Administração Pública, ainda que o acesso seja restrito;\nV - prédios residenciais com mais de três pavimentos, incluindo condomínios e conjuntos habitacionais;\nVI - estabelecimentos industriais em geral, incluindo armazéns, fábricas e instalações de logística.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica determinado que qualquer dispositivo destinado à redução da vazão de dispositivos instalados em ralos poderá diminuir a vazão em, no máximo, 15% do valor estabelecido no Código de Obras vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data da sua publicação.\nCâmara Municipal de São Paulo, 9 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 9 de janeiro de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18387",
+   "short": "Lei 18387/2026",
+   "title": "Lei nº 18.387, de 09/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18387-de-9-de-janeiro-de-2026",
+   "first_law": "lei-2026-18387",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18387-de-9-de-janeiro-de-2026",
+     "sha256": "6f0a21ca7f63315f0fa835b94d98b7d8f77067e0c8074e74715fe7b2e08d5096",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.387, DE 9 DE JANEIRO DE 2026\n(Projeto de Lei nº 321/25, dos Vereadores Gabriel Abreu - PODEMOS, Dr. Murillo Lima - PP, Dra. Sandra Tadeu - PL, Ely Teruel - MDB, Marina Bragante - REDE, Professor Toninho Vespoli - PSOL, Renata Falzoni - PSB e Silvinho Leite - UNIÃO)\nAltera a Lei Municipal nº 16.518, de 22 de julho de 2016, para assegurar e ampliar o direito de ingresso e permanência de pessoas com deficiência acompanhadas de cães de assistência em locais de uso público ou privado no Município de São Paulo, e dá outras providências.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei Municipal nº 16.518, de 22 de julho de 2016, passa a vigorar com a seguinte redação:\n\"Dispõe sobre o direito de pessoas com deficiência ingressarem e permanecerem com cão de assistência em locais de uso público ou privado no Município de São Paulo, e dá outras providências.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei Municipal nº 16.518, de 22 de julho de 2016, passa a vigorar com as seguintes alterações:\n\"Art. 1º Fica assegurado à pessoa com deficiência o direito de ingressar e permanecer acompanhada de cão de assistência em todos os locais públicos ou privados de uso coletivo, meios de transporte e estabelecimentos comerciais, industriais, de serviços e de lazer.\n§ 1º O direito de que trata o caput deste artigo abrange o ingresso e a permanência nos veículos que prestem serviços de transporte remunerado privado coletivo ou individual de passageiros, quais sejam táxis, veículos de transporte por aplicativo, vans ou ônibus de turismo.\n§ 2º O disposto nesta Lei aplica-se, no que couber, aos cães em fase de treinamento e socialização, desde que acompanhados por seu treinador, instrutor ou família socializadora devidamente identificados.\" (NR)\n\"Art. 1º-A Para os efeitos desta Lei, considera-se cão de assistência o nimal treinado e capacitado para auxiliar pessoas com deficiência, classificado nas seguintes categorias:\nI - cão-guia: para auxílio à pessoa com deficiência visual;\nII - cão-ouvinte: para auxílio à pessoa com deficiência auditiva;\nIII - cão de assistência ao autista: para auxílio à pessoa com Transtorno do Espectro Autista;\nIV - cão de assistência emocional: para auxílio a pessoas que necessitam de suporte emocional;\nV - cão de serviço: para auxílio a pessoas com outras deficiências não compreendidas nos incisos anteriores.\"\n\"Art. 1º-B Fica proibido o ingresso do cão de assistência:\nI - nas áreas críticas, determinadas pela Comissão de Controle de Infecção Hospitalar dos serviços de saúde, devidamente identificadas, como setores de isolamento, quimioterapia, transplante, assistência a queimados, centro cirúrgico, central de material e esterilização, unidade de tratamento intensivo e semi-intensivo, em áreas de preparo de medicamentos, farmácia hospitalar, entre outros;\nII - em áreas de manipulação, processamento, preparação e armazenamento de alimentos.\"\n\"Art. 2º É vedada a exigência do uso de focinheira nos cães de assistência para o ingresso e permanência nos locais previstos no art. 1º.\" (NR)\n\"Art. 3º É vedada a cobrança de qualquer valor, tarifa ou acréscimo vinculados, direta ou indiretamente, ao ingresso ou à presença do cão de assistência nos locais e meios de transporte previstos no art. 1º.\" (NR)\n\"Art. 4º Estando a pessoa com deficiência acompanhada, o direito de acesso e atendimento do acompanhante se dará nos termos da legislação vigente, não se confundindo com o direito de gratuidade de que trata o art. 3º desta Lei.\" (NR)\n\"Art. 5º A identificação do cão de assistência e de seu usuário dar-se-á por meio da apresentação dos seguintes documentos, quando solicitados:\nI - carteira de identificação do cão de assistência, contendo o nome do usuário e do cão, raça, nome do centro de treinamento e identificação do instrutor;\nII - carteira de vacinação atualizada do cão, com comprovação da vacinação múltipla e antirrábica, assinada por médico veterinário com registro no órgão competente.\n§ 1º Para o cão-guia, a identificação observará o disposto no art. 3º do Decreto Federal nº 5.904, de 21 de setembro de 2006, e legislação correlata.\n§ 2º O Poder Executivo regulamentará os critérios e as entidades aptas a emitir a carteira de identificação de que trata o inciso I do caput deste artigo para as demais categorias de cães de assistência.\" (NR)\n\"Art. 7º O infrator que desrespeitar a presente lei ficará sujeito à pena de multa no valor mínimo de R$ 1.000,00 (mil reais) e máximo de R$ 30.000,00 (trinta mil reais) e, no caso de reincidência, à pena de multa no valor mínimo do dobro da primeira pena e máximo de R$ 50.000,00 (cinquenta mil reais).\n§ 1º Constitui ato de discriminação, para os efeitos desta Lei, toda e qualquer ação ou omissão que vise a impedir ou dificultar o gozo do direito previsto nesta Lei.\n§ 2º O processo administrativo para apuração da infração e aplicação das penalidades será regulamentado pelo Poder Executivo.\n§ 3º No caso de infração cometida nos serviços de transporte remunerado privado individual de passageiros, a responsabilidade pela infração e o pagamento da multa recairá sobre a Operadora de Tecnologia de Transporte Credenciada - OTTC, garantido o seu direito de regresso contra o motorista parceiro.\n§ 4º Os valores arrecadados em decorrência da aplicação das multas previstas neste artigo serão utilizados em ações, programas e políticas públicas municipais voltadas às pessoas com deficiência.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogada a Lei Municipal nº 12.492, de 2 de outubro de 1997.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 9 de janeiro de 2026.\nDocumento original assinado nº 149055607\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18388",
+   "short": "Lei 18388/2026",
+   "title": "Lei nº 18.388, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18388-de-16-de-janeiro-de-2026",
+   "first_law": "lei-2026-18388",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18388-de-16-de-janeiro-de-2026",
+     "sha256": "41b27a99e8440b91401643a450790a3d8a2ac1df621977b886c1f816817a8c0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.388 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 54/22)\n(VEREADORA SANDRA SANTANA - MDB)\nAltera a Lei nº 16.778, de 29 de dezembro de 2017, para passar a denominar o próprio municipal situado na Praça Benedito Cavalheiro s/nº, na Travessa Estrada do Sabão, no bairro da Vila Brasilândia, na cidade de São Paulo, Casa de Cultura da Brasilândia - Sonia Franieck e João Terra.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 16.778, de 29 de dezembro de 2017, passa a vigorar com a seguinte redação:\n\"Art. 1º Fica denominado Casa de Cultura da Brasilândia - Sonia Franieck e João Terra o próprio municipal situado na Praça Benedito Cavalheiro s/nº, na Travessa Estrada do Sabão, no bairro da Vila Brasilândia, na cidade de São Paulo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18389",
+   "short": "Lei 18389/2026",
+   "title": "Lei nº 18.389, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18389-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18389",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18389-de-15-de-janeiro-de-2026",
+     "sha256": "cd15fd17ca079b6cf292e9e32508ff10cb95e51114211149a1c71430d836f5a5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.389 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 133/22)\n(VEREADOR AURÉLIO NOMURA - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia e o mês de Conscientização e Enfrentamento ao Assédio Psicológico conforme especifica.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º ................................................................................................\nXXIX - ...................................................................................................\ng) o Mês de Conscientização e Enfrentamento ao Assédio Psicológico, com o objetivo de contribuir para a conscientização e disseminação de informações sobre o tema;\nh) o Dia de Conscientização e Enfrentamento ao Assédio Psicológico, a ser realizado, anualmente, no dia 25 de fevereiro;\n................................................................................................... \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18390",
+   "short": "Lei 18390/2026",
+   "title": "Lei nº 18.390, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18390-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18390",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18390-de-15-de-janeiro-de-2026",
+     "sha256": "25e2b938933afe463ec8fa6feda6c4b4203b4e6c4bae908e7245be7485135540",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.390 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 153/22)\n(VEREADORES ISAC FÉLIX - PL, EDIR SALES - PSD, KEIT LIMA - PSOL E MARINA BRAGANTE - REDE)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana de Incentivo às Ações do Parto Humanizado e de Combate à Violência Relacionada ao Parto no Calendário de Eventos do Município de São Paulo.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º ................................................................................................\n- 08 a 14 de março:\nSemana de Incentivo às Ações do Parto Humanizado e de Combate à Violência Relacionada ao Parto;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18391",
+   "short": "Lei 18391/2026",
+   "title": "Lei nº 18.391, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18391-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18391",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18391-de-15-de-janeiro-de-2026",
+     "sha256": "25fdf0b60e97c8623e6713156bb0cc1ed4e8e8aa74c1abdafd9b94b2612b884c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.391 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 294/25)\n(VEREADORES AMANDA PASCHOAL - PSOL E PROFESSOR TONINHO VESPOLI - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal das Defensoras e Defensores de Direitos Humanos, no Calendário de Eventos do Município de São Paulo.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º ................................................................................................\nXLVI - ...................................................................................................\n- 14 de março:\n- Dia Municipal das Defensoras e Defensores de Direitos Humanos;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18392",
+   "short": "Lei 18392/2026",
+   "title": "Lei nº 18.392, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18392-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18392",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18392-de-15-de-janeiro-de-2026",
+     "sha256": "2a3314953a0e602a61494fac180a50d1d6601e6f30d343391b810a8e64662850",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.392 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 502/23)\n(VEREADORA DRA. SANDRA TADEU - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana da Cultura Italiana, a ser celebrada, anualmente, na semana em que recair o dia 21 de fevereiro.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º ................................................................................................\nXXIX - ...................................................................................................\ni) a Semana da Cultura Italiana, a ser celebrada, anualmente, na semana do dia 21 de fevereiro;\n................................................................................................... \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18393",
+   "short": "Lei 18393/2026",
+   "title": "Lei nº 18.393, de 15/01/2026 (Autoriza a criação do Programa do Polo Cultural, Gastronômico e Turístico Lapa- Pompeia-Barra Funda, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18393-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18393",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18393-de-15-de-janeiro-de-2026",
+     "sha256": "1d1e3659a1985781d389d435252a6d571b525bfd09d0dfbe25a93c589cf968c3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.393 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 620/23)\n(VEREADORES FABIO RIVA - MDB, RODRIGO GOULART - PSD E SONAIRA FERNANDES - PL)\nAutoriza a criação do Programa do Polo Cultural, Gastronômico e Turístico Lapa- Pompeia-Barra Funda, e dá outras providências.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizada a criação, no âmbito do Município de São Paulo, do Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda.\nParágrafo único. Para efeitos do disposto nesta Lei, o Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda fica delimitado pelo perímetro compreendido entre a Praça Melvin Jones com a Rua Herbart, a Rua Nossa Senhora da Lapa até a Praça Professor José Azevedo Antunes, a Rua Clélia, a Rua Palestra Itália, a Rua Turiassu, a Rua Traipu do nº 337 até o seu início, a Rua Lavradio, a Avenida Pacaembu (o lado par entre a Rua Lavradio e a Praça David Raw), a Avenida Mario de Andrade (da Praça David Raw até a Avenida Francisco Matarazzo), a Avenida Francisco Matarazzo, a Rua Carlos Vicari, a Rua Guaicurus, retornando até a Praça Melvin Jones.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda tem por objetivos:\nI - promover o desenvolvimento econômico por meio de atividades de capacitação profissional nas áreas de cultura, gastronomia e turismo, visando à inclusão social e fomentando a economia da rede local;\nII - atrair investimentos para manutenção da área do Polo, realização de eventos, cursos e políticas públicas no âmbito cultura, gastronomia e turismo;\nIII - incentivar cursos, festivais e encontros com foco na promoção da cultura local, da gastronomia e do turismo, no âmbito do Polo;\nIV - preservar a memória histórica, cultural e turística do território;\nV - incentivar políticas públicas de combate às poluições sonora, visual e do ar;\nVI - incentivar a visita dos moradores locais, assim como de turistas;\nVII - realizar campanhas publicitárias, objetivando a divulgação de ações do Polo;\nVIII - propiciar condições de limpeza urbana, segurança, transporte, informação, controle da ordem urbana e sinalização direcionada ao Polo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os estabelecimentos localizados na área apontada no parágrafo único do art. 1º desta Lei que se enquadrem no perfil cultural, gastronômico e turístico poderão, nos termos regulamentares, ser cadastrados como integrantes do Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda, devendo obedecer às legislações específicas relativas ao uso e ocupação do solo e ao patrimônio histórico.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As parcerias, convênios e instrumentos de cooperação poderão ser firmados entre o Poder Executivo e os estabelecimentos cadastrados como integrantes do Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda, assim como com órgãos estaduais e federais da Administração Direta e Indireta, associações Representativas dos segmentos que compõem o Polo, assim como com entidades privadas e organizações não governamentais, tendo como objetivo a promoção do desenvolvimento da atividade e do seu potencial cultural, gastronômico e turístico, de forma ambientalmente sustentável, respeitada a legislação aplicável.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda deverá ser incluído como atração turística da cidade de São Paulo, devendo fazer parte de campanhas publicitárias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica o Poder Público Municipal autorizado a criar o Selo Amigo da Lapa-Pompeia-Barra Funda, que poderá ser conferido anualmente aos estabelecimentos e parceiros que integrarem o Polo Cultural, Gastronômico e Turístico Lapa-Pompeia-Barra Funda.\nParágrafo único. Os estabelecimentos detentores do Selo previsto no caput poderão ser convidados a participar de eventos promovidos ou financiados pela Administração Direta para comercialização dos seus produtos e serviços, respeitada a legislação aplicável.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18394",
+   "short": "Lei 18394/2026",
+   "title": "Lei nº 18.394, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18394-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18394",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18394-de-15-de-janeiro-de-2026",
+     "sha256": "e8c46a253ad34a3a698557556e57bb8f4d0c6fe66db92049a70fbd87b6f86841",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.394 DE 15 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 1382/2025)\n(MESA DA CÂMARA)\nAltera as Leis nº 13.637 e nº 13.638, ambas de 4 de setembro de 2003, e a Lei nº 14.381, de 7 de maio de 2007, para instituir, no âmbito da Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, a Equipe de Apoio às Procuradorias Especiais, e dá outras providências.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 13.637, de 4 de setembro de 2003, passa a vigorar com a seguinte alteração:\n\"Art. 8º ................................................................................................\nIII - Equipe de Apoio às Procuradorias Especiais. \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criados os cargos de provimento efetivo abaixo identificados, previstos no Anexo I da Lei nº 13.637, de 2003, alterados os respectivos quantitativos totais de tal anexo conforme segue:\nl - Procurador Legislativo: 2 (duas) vagas, passando a contar com o total de 42 (quarenta e duas) vagas;\nII - Consultor Técnico Legislativo - Psicologia: 2 (duas) vagas, passando a contar com o total de 4 (quatro) vagas;\nlll - Consultor Técnico Legislativo - Serviço Social: 2 (duas) vagas, passando a contar com o total de 5 (cinco) vagas; e\nIV - Técnico Legislativo - 8 (oito) vagas, passando a contar com 276 (duzentas e setenta e seis) vagas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica aumentado em 1 (uma) vaga o quantitativo da função gratificada de Supervisor de Equipe, previsto no Anexo III da Lei nº 13.637, de 2003, passando o respectivo quantitativo a contar com o total de 51 (cinquenta e uma) vagas, alterado aquele anexo em tais termos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Lei nº 13.638, de 4 de setembro de 2003, passa a vigorar com as seguintes alterações:\n\"Art. 16-B. À Equipe de Apoio às Procuradorias Especiais, subordinada diretamente ao Secretário Geral Parlamentar, destinada a prestar suporte técnico, administrativo e operacional às Procuradorias Especiais da Câmara Municipal, compete:\nI - prestar assessoria técnica às Procuradorias Especiais, inclusive com levantamento, acompanhamento e subsídios afetos às suas áreas de atuação;\nII - apoiar o planejamento e execução de programas, campanhas e ações institucionais das Procuradorias Especiais, em articulação com os órgãos competentes;\nlll - orientar o público sobre o funcionamento dos aparelhos e políticas públicas relacionados e encaminhar demandas aos órgãos e a rede de proteção correspondentes, observadas as competências legais da Câmara Municipal de São Paulo e a legislação referente a proteção de dados pessoais;\nIV - produzir estudos, notas técnicas, indicadores e relatórios periódicos de resultados e de acompanhamento de políticas públicas correlatas;\nV - manter e atualizar, por meio da estrutura dos canais oficiais de comunicação institucional da Câmara Municipal, repositório público de informações, publicações e agenda de atividades das Procuradorias Especiais;\nVI - apoiar a realização de eventos, capacitações e materiais de orientação voltados a vereadoras(es), servidoras(es) e público externo;\nVII - apoiar as Procuradorias Especiais na articulação interinstitucional com órgãos do poder público e entidades da sociedade civil, bem como com redes e procuradorias congêneres;\nVIII - elaborar plano anual de trabalho e relatório anual de atividades; e\nIX - exercer outras atribuições correlatas que lhe forem cometidas pela Mesa ou pelo Secretário Geral Parlamentar.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Lei nº 14.381, de 7 de maio de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 28................................................................................................\n§ 3º A gratificação poderá ser atribuída aos servidores da Câmara Municipal de São Paulo expressamente designados para o trabalho nas Sessões Plenárias e na Equipe de Apoio às Procuradorias Especiais, a critério do Secretário Geral Parlamentar.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18395",
+   "short": "Lei 18395/2026",
+   "title": "Lei nº 18.395, de 15/01/2026 (Denomina como Profª. Alfa Beatriz dos Santos Nwosu o CEU EMEF Alto Alegre da DRE/SM e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18395-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18395",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18395-de-15-de-janeiro-de-2026",
+     "sha256": "7d6c1b88d0a3bf31bb09ad0959818a9ad858d3564d4c188b6372f283b5ba0ccf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.395, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 119/25, do Vereador Hélio Rodrigues - PT)\nDenomina como Profª. Alfa Beatriz dos Santos Nwosu o CEU EMEF Alto Alegre da DRE/SM e dá outras providências.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada como CEU EMEF Profª. Alfa Beatriz dos Santos Nwosu o CEU EMEF Alto Alegre da DRE/SM, localizada na Av. Bento Guelfi s/nº - Jardim das Laranjeiras-CEP 08381-001.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta Lei correrão pelas dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148860139\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18396",
+   "short": "Lei 18396/2026",
+   "title": "Lei nº 18.396, de 15/01/2026 (Denomina Praça Arabela Alves dos Santos o logradouro que especifica localizado no Distrito Capão Redondo, Subprefeitura de Campo Limpo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18396-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18396",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18396-de-15-de-janeiro-de-2026",
+     "sha256": "8050f0193a1f8f3ae827cd03feb93a08ce2f9784fcbfe7479e5a6139aadf576c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.396, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 510/25, do Vereador Isac Félix - PL)\nDenomina Praça Arabela Alves dos Santos o logradouro que especifica localizado no Distrito Capão Redondo, Subprefeitura de Campo Limpo.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Arabela Alves dos Santos o logradouro identificado como \"praça\" na planta de parcelamento ARR-4767 \"Jardim São Bento - Gleba 2\", delimitado pelas ruas Gonçalo Barros, João José Rodrigues Jr. e Emílio Briedes, localizado entre as Quadras 60, 61, 62 e 63 do Setor 182, no Distrito Capão Redondo, Subprefeitura Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148860119\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18397",
+   "short": "Lei 18397/2026",
+   "title": "Lei nº 18.397, de 15/01/2026 (Denomina Travessa Osvaldo Silva de Castro logradouro público inominado localizado no Setor 110, Quadra 528, no Distrito de Cangaíba, Subprefeitura da Penha.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18397-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18397",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18397-de-15-de-janeiro-de-2026",
+     "sha256": "951c84135ed8a67818ad410915159314e0e92530a43e6d879db494a1121fbef3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.397, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 669/24, do Vereador Ricardo Teixeira - UNIÃO)\nDenomina Travessa Osvaldo Silva de Castro logradouro público inominado localizado no Setor 110, Quadra 528, no Distrito de Cangaíba, Subprefeitura da Penha.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Osvaldo Silva de Castro o logradouro que começa na altura do número 238 da Rua Gentil Braga e termina aproximadamente 21,00 metros além do seu início, localizado no Setor 110, Quadra 528, no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148859045\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18398",
+   "short": "Lei 18398/2026",
+   "title": "Lei nº 18.398, de 15/01/2026 (Denomina Praça da Poesia Concreta o espaço público que especifica, localizado no Distrito de Pinheiros.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18398-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18398",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18398-de-15-de-janeiro-de-2026",
+     "sha256": "64bbb0f4b3b362e0fb027af51723a2db1393c2548e05b787b9ad11ed82446305",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.398, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 725/24, do Vereador Professor Toninho Vespoli - PSOL)\nDenomina Praça da Poesia Concreta o espaço público que especifica, localizado no Distrito de Pinheiros.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça da Poesia Concreta o espaço livre pertencente ao loteamento \"Sítio do Buraco\" ARR-1418, delimitado pelas ruas Natingui e Fradique Coutinho e por lotes particulares, situado no Setor 81, Quadra 290, no Distrito Pinheiros, Subprefeitura Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148861008\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18399",
+   "short": "Lei 18399/2026",
+   "title": "Lei nº 18.399, de 15/01/2026 (Denomina Travessa Iraci Maria Mendonça o logradouro que especifica, localizado no Distrito Pirituba, Subprefeitura Pirituba/Jaraguá.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18399-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18399",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18399-de-15-de-janeiro-de-2026",
+     "sha256": "2ec291ee7bca3f7ac124210de82a2e602db9a4c230f5dfef534f1aa501bca7c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.399, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 794/24, do Vereador Eliseu Gabriel - PSB)\nDenomina Travessa Iraci Maria Mendonça o logradouro que especifica, localizado no Distrito Pirituba, Subprefeitura Pirituba/Jaraguá.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Iraci Maria Mendonça o logradouro identificado como Viela 7 na planta de parcelamento AU 01/5267/83, que começa na altura do número 256 da Rua Leônidas Barreto e termina a aproximadamente 32,00 metros além do seu início, situado no Setor 106, Quadra 73, no Distrito Pirituba, Subprefeitura Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148857608\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18400",
+   "short": "Lei 18400/2026",
+   "title": "Lei nº 18.400, de 15/01/2026 (Denomina Praça Prof. Eng. Celso Antônio Abrantes o espaço livre que especifica, no Distrito de Itaim Bibi, Subprefeitura de Pinheiros.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18400-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18400",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18400-de-15-de-janeiro-de-2026",
+     "sha256": "022a3cf297e9b8dcb968444dd39f1bb6442468de9bd148c188bb8dc2909dc8a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.400, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 821/24, da Vereadora Cris Monteiro - NOVO)\nDenomina Praça Prof. Eng. Celso Antônio Abrantes o espaço livre que especifica, no Distrito de Itaim Bibi, Subprefeitura de Pinheiros.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Prof. Eng. Celso Antônio Abrantes o espaço livre delimitado pelas ruas Santa Justina, Egito, Dra. Maria Augusta Saraiva e pela Avenida Santo Amaro, seccionado pela via que interliga a Rua Egito e a Avenida Santo Amaro, situado na Quadra 70, Setor 299, no Distrito de Itaim Bibi, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 148858369\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18401",
+   "short": "Lei 18401/2026",
+   "title": "Lei nº 18.401, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18401-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18401",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18401-de-15-de-janeiro-de-2026",
+     "sha256": "6fd933df8324db927677c0dae73ab239550a9135107910746e26112cc92490c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.401, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 137/25, dos Vereadores Ana Carolina Oliveira - PODEMOS, Ely Teruel - MDB, Lucas Pavanato - PL, Marcelo Messias - MDB, Pastora Sandra Alves - UNIÃO, Silvinho Leite - UNIÃO e Thammy Miranda - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia Municipal de Combate a Violência Infantil, a ser comemorado anualmente no dia 4 de junho.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, o Dia Municipal de Combate a Violência Infantil, a ser realizado anualmente no dia 04 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149404651\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18402",
+   "short": "Lei 18402/2026",
+   "title": "Lei nº 18.402, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18402-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18402",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18402-de-15-de-janeiro-de-2026",
+     "sha256": "f2e6fb3bcf389af10bb953dd4739e5d13f0edc3c413b0d51460036a5c9073e5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.402, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 190/25, dos Vereadores Sargento Nantes - PP, Major Palumbo - PP, Silvão Leite - UNIÃO e Sonaira Fernandes - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia das Rondas Ostensivas Tobias de Aguiar - ROTA.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do art. 183-A do Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º .......................................................................................\n- CCXXIX - 15 de outubro:\n- Dia das Rondas Ostensivas Tobias de Aguiar - ROTA. \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149404982\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18403",
+   "short": "Lei 18403/2026",
+   "title": "Lei nº 18.403, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18403-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18403",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18403-de-15-de-janeiro-de-2026",
+     "sha256": "193faa9f7f721458cb10ddca75dbfa01bcde1e7e8676549c729188e0d2f6cdc5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.403, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 262/25, do Vereador Sansão Pereira - REPUBLICANOS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Mês da Solidariedade - Projeto Unisocial, a ser comemorado anualmente no mês de outubro.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º .......................................................................................\nCCXVI - mês de outubro:\n- o Mês da Solidariedade - Projeto Unisocial;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149405486\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18404",
+   "short": "Lei 18404/2026",
+   "title": "Lei nº 18.404, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18404-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18404",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18404-de-15-de-janeiro-de-2026",
+     "sha256": "61ba9ebf4a7b3c192c7d6130989d1fb72608d18aa3739470f339fe1bbcb8f1a8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.404, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 581/23, dos Vereadores Marcelo Messias - MDB, Dr. Murillo Lima - PP e Silvinho Leite - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Virada Pet Permanente, tendo São Francisco de Assis como padroeiro do evento.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º .......................................................................................\nCCXIX - 4 de outubro:\ne) a Virada Pet Permanente, que deverá ser realizada no final de semana da semana em que recair o dia 04 de outubro, tendo São Francisco como padroeiro do evento, na qual poderão ser promovidos eventos voltados ao bem-estar animal.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149406495\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18405",
+   "short": "Lei 18405/2026",
+   "title": "Lei nº 18.405, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18405-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18405",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18405-de-15-de-janeiro-de-2026",
+     "sha256": "77566586302328da3bdb954d774f51e434fd2247e3cf278bce9b73bfffbf37a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.405, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 621/21, do Vereador Eliseu Gabriel - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia dos Sociólogos e Sociólogas, a ser celebrado anualmente no dia 10 de dezembro.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no artigo 183-A do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXC do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º .......................................................................................\nCCXC - 10 de dezembro\n- Dia do Sociólogo e da Socióloga.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a primeira alínea do inciso CXXXVIII do art. 7º, da Lei nº 14.485, de 19 de julho de 2007.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretária Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149406980\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18406",
+   "short": "Lei 18406/2026",
+   "title": "Lei nº 18.406, de 15/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18406-de-15-de-janeiro-de-2026",
+   "first_law": "lei-2026-18406",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18406-de-15-de-janeiro-de-2026",
+     "sha256": "1c3816a752cfa6311d5cf8d9c059cd4e15ea3045282cf86a8144b399f3d1fbe7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.406, DE 15 DE JANEIRO DE 2026\n(Projeto de Lei nº 1461/25, do Executivo aprovado na forma de Substitutivo do Legislativo)\nAltera a Lei nº 13.545, de 31 de março de 2003, para estabelecer novos critérios para o cálculo dos valores do auxílio pecuniário e substituir a nomenclatura \"Programa Família Guardiã\" para \"Serviço Família Acolhedora\".\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de dezembro de 2025, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A redação da ementa e dos arts. 1º, 2º, 3º, 4º, 5º, 9º, 10, 13, 18, 22 da Lei nº 13.545, de 31 de março de 2003, passa a vigorar com as seguintes alterações:\n\"Institui o Serviço Família Acolhedora, para propiciar convivência familiar à criança e ao adolescente afastados temporariamente da família natural por ordem judicial e dá outras providências.\nArt. 1º Fica instituído o Serviço Família Acolhedora, que tem por objetivo propiciar convivência familiar à criança e ao adolescente afastados de sua família de origem temporariamente, por determinação do Poder Judiciário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Serviço Família Acolhedora consistirá em acolhimento temporário de crianças ou adolescentes em ambiente familiar, autorizado por Termo de Guarda provisória expedido pelo Poder Judiciário.\nParágrafo único. Poderão ser admitidas, mediante avaliação técnica, crianças e adolescentes cujos pais tenham sido destituídos do poder familiar, bem como crianças ou adolescentes com pouca possibilidade de reinserção familiar ou de colocação em família substituta, por meio da guarda subsidiada, que poderá ser concedida, inclusive, à família extensa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São beneficiárias do Serviço Família Acolhedora as crianças e adolescentes:\nI - cuja guarda esteja sub judice nas Varas da Infância e Juventude da Capital de São Paulo;\nII - que estejam abrigadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Serviço Família Acolhedora tem como pressupostos:\nI - o acompanhamento da criança ou do adolescente e da família pelo Poder Judiciário, por meio de sua equipe técnica;\nII - o acompanhamento da criança ou do adolescente e da família pela Secretaria Municipal de Assistência Social.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete à Secretaria Municipal de Assistência Social:\nI - seleção das famílias ou indivíduos;\nII - capacitação das famílias ou indivíduos;\nIII - preparação da criança ou adolescente para o encaminhamento à Família Acolhedora;\nIV - acompanhamento do desenvolvimento da criança e do adolescente na Família Acolhedora;\nV - acompanhamento sistemático da Família Acolhedora;\nVI - atendimento e acompanhamento da família de origem, visando à reinserção familiar;\nVII - diligenciar para que a família de origem mantenha contatos com a criança ou adolescente colocado na família substituta, nos casos em que não houver proibição do Poder Judiciário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A habilitação ao Serviço Família Acolhedora ocorrerá mediante a comprovação da obtenção da guarda em seu favor e a assinatura de um Termo de Compromisso pelo guardião.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Cada família ou indivíduo poderá ter sob sua guarda, para fins de inserção do Serviço Família Acolhedora, no máximo, 02 (dois) beneficiários, criança ou adolescente.\nParágrafo único. Somente nos casos de grupos de irmãos poderá haver a aceitação de mais de 02 (dois) beneficiários, com o correspondente repasse financeiro.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A desistência do Programa por parte da família acolhedora poderá ocorrer a qualquer tempo, sendo o Poder Judiciário informado pela Secretaria Municipal de Assistência Social imediatamente.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. A participação dos requerentes no Serviço Família Acolhedora não gerará vínculo empregatício ou profissional com a Secretaria Municipal de Assistência Social.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. A Secretaria Municipal de Assistência Social será responsável pela coordenação geral do Serviço Família Acolhedora, estabelecendo normas e procedimentos para sua implantação, controle, acompanhamento e fiscalização.\nParágrafo único. No primeiro ano o Serviço Família Acolhedora será implantado gradativamente em região escolhida da cidade, decidida em comum acordo com o Poder Judiciário.\" (NR)\nArt. 2º Fica acrescido o art. 2º-A à Lei nº 13.545, de 31 de março de 2003, com a seguinte redação:\n\"Art. 2º-A. O Serviço Família Acolhedora constitui modalidade complementar de acolhimento, não substituindo os serviços de acolhimento institucional, inclusive o Serviço de Acolhimento Institucional para Crianças e Adolescentes - SAICA.\nParágrafo único. Eventual reorganização da rede de acolhimento institucional deverá ser precedida de estudo técnico e de manifestação fundamentada do órgão gestor da política de assistência social, assegurada a manutenção da capacidade mínima necessária para situações emergenciais ou de impossibilidade de acolhimento familiar.\" (NR)\nArt. 3º A redação dos arts. 14 e 15 da Lei nº 13.545, de 31 de março de 2003, passa a vigorar com as seguintes alterações:\n\"Art. 14. O valor do auxílio pecuniário devido à família acolhedora será definido conforme a idade da criança ou do adolescente apurada no primeiro dia do mês de competência do pagamento:\nI - até 6 (seis) anos completos: 3 (três) salários mínimos vigentes no Estado de São Paulo;\nII - acima de 6 (seis) anos completos e inferior a 18 (dezoito) anos: 2 (dois) salários mínimos vigentes no Estado de São Paulo.\nParágrafo único. A mudança de faixa etária produzirá efeitos financeiros a partir do mês subsequente ao da alteração.\nArt. 15. No caso de acolhimento de criança ou adolescente com deficiência, o auxílio pecuniário será acrescido de 1 (um) salário mínimo vigente no Estado de São Paulo, independentemente da idade.\nParágrafo único. O acréscimo previsto no caput não prejudica o recebimento do Benefício de Prestação Continuada - BPC, nos termos da legislação vigente.\" (NR)\nArt. 4º (VETADO)\nArt. 5º Fica acrescido o art. 22-B à Lei nº 13.545, de 31 de março de 2003, com a seguinte redação:\n\"Art. 22-B. Visando a mobilização e captação de Famílias Acolhedoras, deverão ser realizadas ações que compreendem a:\nI - identificação ativa de potenciais famílias acolhedoras;\nII - (VETADO)\nIII - (VETADO)\nIV - ações articuladas com organizações da sociedade civil, instituições religiosas, associações comunitárias e demais entidades que integram o Sistema de Garantia de Direitos da Criança e do Adolescente.\" (NR)\nArt. 6º (VETADO)\nArt. 7º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de janeiro de 2026, 472º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nDENISE SOARES RAMOS\nSecretário Municipal da Casa Civil - Substituta\nANDRÉ LEMOS JORGE\nSecretário Municipal De Justiça\nPublicada na Casa Civil, em 15 de janeiro de 2026.\nDocumento original assinado nº 149401414\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18407",
+   "short": "Lei 18407/2026",
+   "title": "Lei nº 18.407, de 19/01/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18407-de-19-de-janeiro-de-2026",
+   "first_law": "lei-2026-18407",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18407-de-19-de-janeiro-de-2026",
+     "sha256": "bdbb966a48355a51a9e38c4fe01c8b529d407567d24c07175c42ab47a7d200c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.407 DE 19 DE JANEIRO DE 2026\n(PROJETO DE LEI Nº 396/21)\n(VEREADOR ISAC FÉLIX - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana da Conscientização Menstrual no Calendário de Eventos do Município de São Paulo, e dá outras providências.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º ................................................................................................\nÚltima semana de maio:\nSemana da Conscientização Menstrual.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 19 de janeiro de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 19 de janeiro de 2026.\nBRENO GANDELMAN\nSecretário Geral Parlamentar em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18408",
+   "short": "Lei 18408/2026",
+   "title": "Lei nº 18.408, de 26/02/2026 (Denomina Travessa José Pinto Lapa o logradouro público localizado no Distrito de Guaianases, Subprefeitura de Guaianases.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18408-de-26-de-fevereiro-de-2026",
+   "first_law": "lei-2026-18408",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18408-de-26-de-fevereiro-de-2026",
+     "sha256": "2bdb78442528649ab2721acca32e0bff63994378339dab65d39b5f0b6bc99ab8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.408, DE 26 DE FEVEREIRO DE 2026\n(Projeto de Lei nº 747/23 do Vereador Ricardo Teixeira - UNIÃO)\nDenomina Travessa José Pinto Lapa o logradouro público localizado no Distrito de Guaianases, Subprefeitura de Guaianases.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do inciso I, do art. 84 do Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa José Pinto Lapa o logradouro conhecido por Viela Um, Viela \"1\", que começa na Rua Guiticoroia e termina na Estrada Itaquera-Guaianases, situado no Setor 115, entre as Quadras 299 e 300, no Distrito de Guaianases, Subprefeitura de Guaianases.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de fevereiro de 2026, 473º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nENRICO VAN BLARCUM DE GRAAFF MISASI\nSecretário Municipal da Casa Civil\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 26 de fevereiro de 2026.\nDocumento original assinado nº 151818623\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18409",
+   "short": "Lei 18409/2026",
+   "title": "Lei nº 18.409, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18409-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18409",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18409-de-3-de-marco-de-2026",
+     "sha256": "dc5a7efd456f980711993c8e81565db695dcd9c1b859f46c879c36930cc2fe51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.409, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 95/23)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos do Município de São Paulo o Arraiá da Vila Mariana, a ser celebrado anualmente no último final de semana do mês de junho.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCVI - (...)\nx) último final de semana do mês de junho: o Arraiá da Vila Mariana; \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18410",
+   "short": "Lei 18410/2026",
+   "title": "Lei nº 18.410, de 03/03/2026 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Chaveiro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18410-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18410",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18410-de-3-de-marco-de-2026",
+     "sha256": "7aa20e998e3b1deeb18a8f3b250e877b02093a0979c6271e1e5cb949b33a6408",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.410, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 181/23)\n(VEREADORES ISAC FELIX - PL E SARGENTO NANTES - PP)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Chaveiro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º (...)\nCVIII - 05 de junho:\n- Dia do Chaveiro.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18411",
+   "short": "Lei 18411/2026",
+   "title": "Lei nº 18.411, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18411-de-4-de-marco-de-2026",
+   "first_law": "lei-2026-18411",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18411-de-4-de-marco-de-2026",
+     "sha256": "9af74bed2e4a7f5ad6430f18c17db86a14b8435535a34a5b10419aa9184db752",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.411, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 273/24)\n(VEREADORES CRIS MONTEIRO - NOVO E SILVINHO LEITE - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia de Conscientização sobre a Enterocolite Necrosante (NEC), a ser realizado, anualmente, no dia 17 de maio.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nLXXXVIII - (...)\n- 17 de maio:\nDia de Conscientização sobre a Enterocolite Necrosante (NEC).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18412",
+   "short": "Lei 18412/2026",
+   "title": "Lei nº 18.412, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18412-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18412",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18412-de-3-de-marco-de-2026",
+     "sha256": "2e0a7410514ef02fe96a424e73038aa8c5dc17ad3f7a8bc9f8e8a72385ab9283",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.412, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 302/23)\n(VEREADORES SANDRA SANTANA - MDB E RODRIGO GOULART - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Expo da Paulista, a ser celebrada no mês de maio.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007 passa a vigorar com a seguinte alteração:\n\"Art. 7º (...)\nLXXVIII - (...)\nt) a Expo da Paulista, com vistas ao fortalecimento das artes dos trabalhadores da Cidade de São Paulo.\n(...) \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18413",
+   "short": "Lei 18413/2026",
+   "title": "Lei nº 18.413, de 03/03/2026 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Carnaval de Rua no Calendário de Eventos do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18413-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18413",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18413-de-3-de-marco-de-2026",
+     "sha256": "31775d818baaa74443c7329b6c3ef3e46fc88afc9c8ea3f61f1e02c4d80fb97f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.413, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 340/22)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Carnaval de Rua no Calendário de Eventos do Município de São Paulo.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nXIV - (...)\n- Terça-feira de Carnaval:\n- o Dia do Carnaval de Rua;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18414",
+   "short": "Lei 18414/2026",
+   "title": "Lei nº 18.414, de 03/03/2026 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Dia da Queima do Alho no Calendário de Eventos do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18414-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18414",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18414-de-3-de-marco-de-2026",
+     "sha256": "9e162254b5f9d075dcf50f849e80a4d6a8d0269274bb9463f6c7eb771ec08fab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.414, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 527/23)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Dia da Queima do Alho no Calendário de Eventos do Município de São Paulo.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCLXVIII - (...)\ne) o evento Dia da Queima do Alho;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18415",
+   "short": "Lei 18415/2026",
+   "title": "Lei nº 18.415, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18415-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18415",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18415-de-3-de-marco-de-2026",
+     "sha256": "a6c2092bf9ffcde2c818e5172ec3aee56687d104145e231178a1a96b93b4dedb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.415, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 538/23)\n(VEREADORA DRA. SANDRA TADEU - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo, no dia 4 de fevereiro, o Dia da Prevenção do Retinoblastoma.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XXX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º (...)\nXXX - 04 de fevereiro:\nDia da Prevenção do Retinoblastoma, com a realização de palestras, bem como divulgação nos meios de comunicação buscando a prevenção da doença;\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18416",
+   "short": "Lei 18416/2026",
+   "title": "Lei nº 18.416, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18416-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18416",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18416-de-3-de-marco-de-2026",
+     "sha256": "b414d6065570454743be333872cc1c6ec633d0e2a815ad3518352fee5221cdfc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.416, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 550/23)\n(VEREADORA DRA. SANDRA TADEU - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Mulher Oriental, a ser celebrado anualmente no dia 9 de setembro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com a seguinte redação:\n\"Art. 7º (...)\nCLXXXVIII - 09 de setembro:\no Dia da Mulher Oriental, data na qual poderão ser realizadas exposições culturais, fóruns, palestras e seminários.\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18417",
+   "short": "Lei 18417/2026",
+   "title": "Lei nº 18.417, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18417-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18417",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18417-de-3-de-marco-de-2026",
+     "sha256": "227f2c7bc5a5dd82370c2289f2a71b784ae1822f34f864bf39db10536bcd1005",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.417, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 676/24)\n(VEREADORES SANSÃO PEREIRA - REPUBLICANOS, KEIT LIMA - PSOL, SILVÃO LEITE - UNIÃO E SILVINHO LEITE - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, a Semana Municipal de Reconhecimento das Lideranças Comunitárias e das Organizações da Sociedade Civil.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCV - (...)\n- última semana de maio:\n- Semana Municipal de Reconhecimento das Lideranças Comunitárias e das Organizações da Sociedade Civil;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18418",
+   "short": "Lei 18418/2026",
+   "title": "Lei nº 18.418, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18418-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18418",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18418-de-3-de-marco-de-2026",
+     "sha256": "49b524c6a1545c1f747dee4b2fed86c6f5065d4a2be430c84db3bf88445619c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.418, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 680/24)\n(VEREADORES SANSÃO PEREIRA - REPUBLICANOS, ANDRÉ SANTOS - REPUBLICANOS, KEIT LIMA - PSOL, MARCELO MESSIAS - MDB E SILVINHO LEITE - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia Municipal do Profissional de Saúde, a ser celebrado, anualmente, no dia 5 de agosto.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCLIV - (...)\ng) o Dia Municipal do Profissional da Saúde;\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18419",
+   "short": "Lei 18419/2026",
+   "title": "Lei nº 18.419, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18419-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18419",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18419-de-3-de-marco-de-2026",
+     "sha256": "4658d88984b958133914112ef8ace3a3ce4b62ff4acf2be9b2bcaaae8bfd16c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.419, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 747/24)\n(VEREADOR RICARDO TEIXEIRA - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia do Pedal da Paz, a ser celebrado, anualmente, no segundo sábado de novembro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCCLIV - (...)\np) o Dia do Pedal da Paz, a ser celebrado, anualmente, no segundo sábado de novembro;\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18420",
+   "short": "Lei 18420/2026",
+   "title": "Lei nº 18.420, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18420-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18420",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18420-de-3-de-marco-de-2026",
+     "sha256": "c7683f118085f13c468974d6c0453b0b57f831536fed50113763cab0808e0d65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.420, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 754/23)\n(VEREADORES EDIR SALES - PSD, JOÃO JORGE - MDB E RENATA FALZONI - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Passeio Ciclístico da Mooca, a ser realizado, anualmente, no mês de agosto.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso CLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar acrescido da alínea \"aa\", com a seguinte redação:\n\"Art. 7º (...)\nCLI - (...)\naa) o Passeio Ciclístico da Mooca, com a finalidade de incentivar o uso da bicicleta, o turismo, o entretenimento, o esporte e a atividade física, bem como em razão das comemorações e celebração do aniversário anual do Bairro do Mooca, realizado pelos seus organizadores.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18421",
+   "short": "Lei 18421/2026",
+   "title": "Lei nº 18.421, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18421-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18421",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18421-de-3-de-marco-de-2026",
+     "sha256": "9621dcf2ee63a5421addb592e0bf3e007fb903c91cfdbae1b760fd7fad93288f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.421, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 769/23)\n(VEREADOR MARCELO MESSIAS - MDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Grajaú Fest, a ser comemorado anualmente no último final de semana do mês de novembro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCCLXXXIII - (...)\n- Última semana de novembro:\n- Último final de semana do mês de novembro:\n- Grajaú Fest, a ser comemorado anualmente;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18422",
+   "short": "Lei 18422/2026",
+   "title": "Lei nº 18.422, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18422-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18422",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18422-de-3-de-marco-de-2026",
+     "sha256": "8f4e49eca7c74043a577657bbc38f834a678ceebc5c1f4c396c7470f56a6b646",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.422, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 771/23)\n(VEREADORES MARCELO MESSIAS - MDB E DHEISON SILVA - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Cidade Ademar Fest, a ser comemorada no último final de semana do mês de junho.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido alínea ao inciso CVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º (...)\nCVI - (...)\nx) último final de semana do mês de junho: Cidade Ademar Fest.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18423",
+   "short": "Lei 18423/2026",
+   "title": "Lei nº 18.423, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18423-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18423",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18423-de-3-de-marco-de-2026",
+     "sha256": "e9fa12ad6577404ba27456083dae83529991fe29edc35ab9999495f09e054ec7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.423, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 786/24)\n(VEREADOR MARCELO MESSIAS - MDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Abraço à Represa Billings, a ser comemorado anualmente próximo do dia do aniversário da Represa Billings (27 de março) e do Dia Internacional da Consciência (5 de abril), instituído pela Organização das Nações Unidas - ONU.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nXLI - (...)\nt) Entre os dias 27 de março e 5 de abril: o Abraço à Represa Billings;\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18424",
+   "short": "Lei 18424/2026",
+   "title": "Lei nº 18.424, de 03/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18424-de-3-de-marco-de-2026",
+   "first_law": "lei-2026-18424",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18424-de-3-de-marco-de-2026",
+     "sha256": "25d7f27fd30b5324dbbd7c0bd7622b62c01de47a31852a38bf321fee9df66d96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.424, DE 27 DE FEVEREIRO DE 2026\n(PROJETO DE LEI Nº 1065/25)\n(VEREADORA ELY TERUEL - MDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia da Mulher Imigrante, a ser celebrado anualmente no dia 14 de novembro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCCLXIII - (...)\n-14 de novembro:\n- o Dia da Mulher Imigrante:\n(...)\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 2 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 2 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18425",
+   "short": "Lei 18425/2026",
+   "title": "Lei nº 18.425, de 09/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18425-de-9-de-marco-de-2026",
+   "first_law": "lei-2026-18425",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18425-de-9-de-marco-de-2026",
+     "sha256": "3c1c2c43377e73bfab6fd106564f2df9f6113d965cdd109e4a18e2f2877e1322",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.425, DE 9 DE MARÇO DE 2026\n(Projeto de Lei nº 325/24 do Vereador Paulo Frange - MDB)\nDenomina Praça Neurandi Leandro de Antônio área pública municipal delimitada pelas ruas Saramenha e Francisco Bayardo, no Distrito de Perdizes, Subprefeitura da Lapa.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do inciso I, do art. 84 do Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Neurandi Leandro de Antônio a área pública municipal delimitada pela Rua Saramenha, CODLOG 17.850-0, pela Francisco Bayardo, CODLOG 07.361-0, e por lotes particulares, situada no Setor 012, Quadra 037, no Distrito de Perdizes, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de março de 2026, 473º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nENRICO VAN BLARCUM DE GRAAFF MISASI\nSecretário Municipal da Casa Civil\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 9 de março de 2026.\nDocumento original assinado nº 152017766\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18426",
+   "short": "Lei 18426/2026",
+   "title": "Lei nº 18.426, de 09/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18426-de-9-de-marco-de-2026",
+   "first_law": "lei-2026-18426",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18426-de-9-de-marco-de-2026",
+     "sha256": "89bf37fa0542f402625eb074b930f94421b02b6f017e1eb211c93ee0bb490808",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.426, DE 9 DE MARÇO DE 2026\n(Projeto de Lei nº 611/23, da Vereadora Dra. Sandra Tadeu - PL)\nDenomina Travessa Benedicto Correia de Abreu o logradouro que começa na altura do número 828 da Avenida Waldemar Tietz e termina na Travessa Berta Becker, situado no Setor 143.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do inciso I, do art. 84 do Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Benedicto Correia de Abreu o logradouro que começa na altura do número 828 da Avenida Waldemar Tietz e termina na Travessa Berta Becker, situado no Setor 143, entre as Quadras 46 e 47, no Distrito de Arthur Alvim, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de março de 2026, 473º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nENRICO VAN BLARCUM DE GRAAFF MISASI\nSecretário Municipal da Casa Civil\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 9 de março de 2026.\nDocumento original assinado nº 152017934\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18427",
+   "short": "Lei 18427/2026",
+   "title": "Lei nº 18.427, de 10/03/2026 (Altera a Lei nº 14.485, de 19 de julho de 2007, para inserir no Calendário de Eventos da Cidade de São Paulo o Dia da Cruzada Evangelista da Cidade Líder.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18427-de-10-de-marco-de-2026",
+   "first_law": "lei-2026-18427",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18427-de-10-de-marco-de-2026",
+     "sha256": "f7dcba30db8c31eaa2cf1ad60336f9999d2dfdab5d7f81a29bdbdcff34e56f7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.427, DE 10 DE MARÇO DE 2026\n(PROJETO DE LEI Nº 135/24)\n(VEREADORA DRA. SANDRA TADEU - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para inserir no Calendário de Eventos da Cidade de São Paulo o Dia da Cruzada Evangelista da Cidade Líder.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCXXII - (...)\n- 29 de junho:\nf) Dia da Cruzada Evangelista da Cidade Líder, voltado a ações sociais nas áreas da educação, da saúde da mulher e do direcionamento de jovens para o mercado de trabalho, entre outras;\n(...) \"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 10 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 10 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18428",
+   "short": "Lei 18428/2026",
+   "title": "Lei nº 18.428, de 10/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18428-de-10-de-marco-de-2026",
+   "first_law": "lei-2026-18428",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18428-de-10-de-marco-de-2026",
+     "sha256": "c576c71dcc584767fbaab38d9a8e23888b8a4d1ffbe40c0e68ca4e9c0ad5c184",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.428, DE 10 DE MARÇO DE 2026\n(PROJETO DE LEI Nº 528/24)\n(VEREADORAS DRA. SANDRA TADEU - PL E RENATA FALZONI - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Patinação, a ser celebrado, anualmente, no dia 7 de setembro.\nJoão Jorge, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art.7º (...)\nCLXXXVI - (...)\no Dia da Patinação;\n(...) \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 10 de março de 2026.\nJOÃO JORGE\nPresidente em exercício\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 10 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18429",
+   "short": "Lei 18429/2026",
+   "title": "Lei nº 18.429, de 20/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18429-de-20-de-marco-de-2026",
+   "first_law": "lei-2026-18429",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18429-de-20-de-marco-de-2026",
+     "sha256": "1390f11dbe0120bb6f3866a49bd56d4c1dbb82d6aab312fa72cd4c56bdc7be0f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.429, DE 20 DE MARÇO DE 2026\n(Projeto de Lei nº 190/24, das Vereadoras Cris Monteiro - NOVO e Zoe Martinez - PL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Domingo Aéreo - Força Aérea Brasileira, a ser celebrado no último domingo de setembro.\nRICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de março de 2026, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º ..................................................................................\nCCXIII - último domingo de setembro:\n- o Domingo Aéreo - Força Aérea Brasileira.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de março de 2026, 473º da fundação de São Paulo.\nRICARDO NUNES\nPREFEITO\nENRICO VAN BLARCUM DE GRAAFF MISASI\nSecretário Municipal da Casa Civil\nANDRÉ LEMOS JORGE\nSecretário Municipal de Justiça\nPublicada na Casa Civil, em 20 de março de 2026.\nDocumento original assinado nº 153277481\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-18430",
+   "short": "Lei 18430/2026",
+   "title": "Lei nº 18.430, de 25/03/2026",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18430-de-25-de-marco-de-2026",
+   "first_law": "lei-2026-18430",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18430-de-25-de-marco-de-2026",
+     "sha256": "107f18bce01cedd20bacfbaf24660cf2f6572c9768668ea47f5d07581e3a9365",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 18.430, DE 24 DE MARÇO DE 2026\n(PROJETO DE LEI Nº 75/25)\n(VEREADORES DRA. SANDRA TADEU - PL E SILVINHO LEITE - UNIÃO)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês Junho Laranja de combate e prevenção a queimaduras de pele.\nRicardo Teixeira, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 7º (...)\nCVI - (...)\nx) o Mês Junho Laranja, de combate e prevenção a queimaduras de pele, a fim de alertar e conscientizar as pessoas quanto aos riscos de queimadura de pele por exposição ao sol, fogo ou contato com substâncias químicas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 25 de março de 2026.\nRICARDO TEIXEIRA\nPresidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de março de 2026.\nRAIMUNDO BATISTA\nSecretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
