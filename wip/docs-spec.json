@@ -1,0 +1,17 @@
+{
+ "name": "São Paulo (city)",
+ "full": "the Município de São Paulo, the city of São Paulo",
+ "code": "BR-SP-SAO-PAULO",
+ "slug": "brazil-sao-paulo-city",
+ "parent": "br-sp",
+ "official": "Diário Oficial da Cidade de São Paulo",
+ "publisher": "Prefeitura do Município de São Paulo (Casa Civil, Centro de Referência da Legislação Municipal - CADLEM)",
+ "site": "Portal da Legislação Municipal",
+ "site_url": "https://legislacao.prefeitura.sp.gov.br",
+ "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `lei-organica/` | Lei Orgânica do Município de São Paulo (1990) | 1 |\n| `lei-<year>-<number>/` | the municipal Leis the portal does not list as wholly revoked | 1 each |\n\n**Partial, and growing:** the Leis are added year by year, newest first, as the portal's pages are read; the history may still gain earlier commits. An act the portal shows no alteration for is given **as enacted**, credited to the act itself. An altered act (the Lei Orgânica included) is given **only as its text in force**, credited to the portal as the oldest version available: the wordings in between are not reconstructed, so no earlier version is shown rather than a wrong one. State law is in [brazil-sao-paulo-law](https://github.com/lexifina/brazil-sao-paulo-law); federal law in [brazil-law](https://github.com/lexifina/brazil-law).",
+ "dates": "An unaltered act is dated by its publication in the Diário Oficial da Cidade, as the portal's \"Detalhes da Norma\" gives it (São Paulo municipal laws almost always take effect on publication). An altered act's text in force is dated by the latest date among the altering acts it links to (its alteration notes and its \"Alterações\" list); each date is the one in the altering act's portal address, the day it was signed. Commits are at noon in São Paulo.",
+ "built": "Each page becomes one file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; `000-titulo.md` holds the title, the ementa and the preamble (for the Lei Orgânica also its table of contents); the Lei Orgânica's Disposições Gerais e Transitórias, numbered from 1 again, are `adt-*`. For the text in force, the earlier wordings the page strikes through and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\") are left out, as is the portal's notice that the text does not replace the Diário Oficial. Tables are one line per row, with cells separated by ` | `.",
+ "limits": "Not a complete history: an altered act starts at its text in force. Laws the portal lists as wholly revoked are left out, as are altered laws that link to no dated altering act and pages with no text; `data/` lists what is in. The text is not the official version: only the Diário Oficial da Cidade de São Paulo is authoritative. Text after the last article (place, date, signatures, annexes) stays in the last article's file.",
+ "build": "built: the Lei Orgânica and the municipal Leis of São Paulo, from the Prefeitura's Portal da Legislação Municipal",
+ "terms": "- The Portal da Legislação Municipal is, under Lei municipal 17.901/2023, an official open-data repository of the Prefeitura \"para disponibilização e download de dados, informações e documentos governamentais, segundo os princípios fundamentais dos dados abertos\" (portal page \"Sobre\").\n"
+}
