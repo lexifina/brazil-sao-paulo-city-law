@@ -1,5 +1,40 @@
 2026-10-31T20:34:42Z state [2026, 2025, 2024, 2023, 2022, 2021, 2020]
 nothing new
-2026-10-31T20:54:24Z state [2026, 2025, 2024, 2023, 2022, 2021, 2020]
-nothing new
-2026-10-31T21:00:37Z state [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]
+2026-10-31T21:01:02Z state [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019]
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-05.json 34
+{'odd slug': 4, 'ok': 1520, 'altered, no dated alteration': 19, 'duplicate': 1}
+new parts: corpus.d/30-lei-2019-01.json
+corpus.d/30-lei-2019-02.json
+corpus.d/30-lei-2019-03.json
+corpus.d/30-lei-2019-04.json
+corpus.d/30-lei-2019-05.json
+234 versions checked, 0 mismatches
+rm: cannot remove '.tmp-build/.git/refs/tags/law': Directory not empty
+    shutil.rmtree(p, onexc=force) if p.is_dir() else p.unlink()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 781, in rmtree
+    return _rmtree_unsafe(path, onexc)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.rmdir, fullname, err)
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 520, in force
+    fn(path)
+OSError: [WinError 145] The directory is not empty: 'C:\\Users\\alany\\Documents\\lexifina\\scripts\\brazil-sao-paulo-city-law\\.tmp-build\\.git\\refs\\tags\\law'
+BUILD FAIL
+VERIFY FAILED
+LOM ok
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-01.json 50
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-02.json 50
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-03.json 50
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-04.json 50
+C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\corpus.d\30-lei-2019-05.json 34
+{'odd slug': 4, 'ok': 1520, 'altered, no dated alteration': 19, 'duplicate': 1}
+new parts: corpus.d/30-lei-2019-01.json
+corpus.d/30-lei-2019-02.json
+corpus.d/30-lei-2019-03.json
+corpus.d/30-lei-2019-04.json
+corpus.d/30-lei-2019-05.json
+234 versions checked, 0 mismatches
+{'acts': 1520, 'versions': 1520, 'mismatches': 1520, 'trailer_errors': 10817, 'missing_in_force': 13, 'merges': 37, 'backwards': 0, 'future_dated': 0, 'corpus_sha256': '858d3db0fc975228306cd8394ee089b9b007cf223b80814daf1a8143d12ee1cd'}
+CHECK FAIL
+VERIFY FAILED

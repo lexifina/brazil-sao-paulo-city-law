@@ -1,0 +1,33 @@
+{
+ "commits": 1520,
+ "tags": 2978,
+ "laws": 0,
+ "unexplained": 0,
+ "future": 0,
+ "main": "160eebcba703e7b87700d528a645aaecce2ee0fe"
+}
+
+    os.rmdir(fullname)
+OSError: [WinError 145] The directory is not empty: 'C:\\Users\\alany\\Documents\\lexifina\\scripts\\brazil-sao-paulo-city-law\\.tmp-build\\.git\\refs\\tags\\law'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 1022, in <module>
+    main()
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 1001, in main
+    res = build(folder, repo, args.docs_date)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 896, in build
+    prepare(repo)
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 522, in prepare
+    shutil.rmtree(p, onexc=force) if p.is_dir() else p.unlink()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 781, in rmtree
+    return _rmtree_unsafe(path, onexc)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.rmdir, fullname, err)
+  File "C:\Users\alany\Documents\lexifina\scripts\gitlaw_common\build.py", line 520, in force
+    fn(path)
+OSError: [WinError 145] The directory is not empty: 'C:\\Users\\alany\\Documents\\lexifina\\scripts\\brazil-sao-paulo-city-law\\.tmp-build\\.git\\refs\\tags\\law'
