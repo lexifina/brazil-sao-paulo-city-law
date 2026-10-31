@@ -15,3 +15,4 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
 - Rule: unaltered = as enacted, dated by Data de publicação (Detalhes); altered = text in force, credited to the portal,
   dated by the latest date in the altering acts' addresses (notes + Alterações list).
 - 18:08Z: 10-lei-organica PUBLISHed; main 23a9834 (autopush).
+- 2026-10-31T18:28:40Z: 30-lei-2026-01..04 (187 Leis of 2026; 1 left out: altered, no dated alteration) PUBLISHed.
