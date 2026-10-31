@@ -17,3 +17,4 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
 - 18:08Z: 10-lei-organica PUBLISHed; main 23a9834 (autopush).
 - 2026-10-31T18:28:40Z: 30-lei-2026-01..04 (187 Leis of 2026; 1 left out: altered, no dated alteration) PUBLISHed.
 - 2026-10-31T18:57:01Z: 30-lei-2025-01..04 (153 Leis of 2025) PUBLISHed (build 341 acts clean).
+- 2026-10-31 18:57:49Z: connect timeout (curl 28, 21 s) on a 2024 law page after ~1,000 clean requests; br_city_get wrote .cache/STOP and fetch.py (PID 25152) exited. Treated as a fail per the brief: no retry. Published: LOM + Leis of 2026 and 2025. Year 2024 is partly fetched (not parsed: parse.py only takes years in years-done.json). To resume after a manual check of the host: delete .cache/STOP, run fetch.py --years 2024-1892 (one process, BelowNormal).
