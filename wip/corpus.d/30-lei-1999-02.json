@@ -1,0 +1,2499 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "46 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1999-12868": {
+   "label": "Lei nº 12.868, de 01/07/1999",
+   "title": "DENOMINA TRAVESSA MILTON CARDOSO A ATUAL VIELA 15, COM INICIO NA RUA PEDRO VELASCO E TERMINO NA RUA FRANCISCO MASCARENHAS, DISTRITO DA FREGUESIA DO O,E DA OUTRAS PROVIDENCIAS. (PL 77/98)",
+   "kind": "law",
+   "enacted": "1999-07-01",
+   "published": "1999-07-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12868-de-1-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12869": {
+   "label": "Lei nº 12.869, de 01/07/1999",
+   "title": "DISPOE SOBRE A DECLARACAO DE UTILIDADE PUBLICA DA EXPEDICAO CARIDADE - GRUPO ASSISTENCIAL KARDECISTA, E DA OUTRAS PROVIDENCIAS. (PL 108/98)",
+   "kind": "law",
+   "enacted": "1999-07-01",
+   "published": "1999-07-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12869-de-1-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12871": {
+   "label": "Lei nº 12.871, de 01/07/1999",
+   "title": "DENOMINA PRACA PAULO SCHIESARI O ESPACO PUBLICO DELIMITADO PELA CONFLUENCIADAS RUAS RIFAINA, PEDRO SOARES DE ALMEIDA E ANTONIO G. DA CRUZ, NO JARDIM VERA CRUZ, DISTRITO DE PERDIZES. (PL 415/98)",
+   "kind": "law",
+   "enacted": "1999-07-01",
+   "published": "1999-07-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12871-de-1-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12872": {
+   "label": "Lei nº 12.872, de 01/07/1999",
+   "title": "DENOMINA PRACA JOAO SALVADOR FELIPPELLI, O ESPACO PUBLICO INOMINADO, SEM CODLOG, DELIMITADO PELA RUA CARLOS HENRIQUE PEREIRA NEVES E PELAS AVENIDAS DR. LUIZ ANTONIO PEDUTI CUNHA E DARCY REIS, DISTRITO DE RIO PEQUENO. (PL 276/98)",
+   "kind": "law",
+   "enacted": "1999-07-01",
+   "published": "1999-07-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12872-de-1-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12873": {
+   "label": "Lei nº 12.873, de 01/07/1999",
+   "title": "DENOMINA PRACA MIRANDA DO DOURO O LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA SUZANA, DISTRITO DE VILA SONIA. (PL 246/98)",
+   "kind": "law",
+   "enacted": "1999-07-01",
+   "published": "1999-07-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12873-de-1-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12874": {
+   "label": "Lei nº 12.874, de 02/07/1999",
+   "title": "AUTORIZA A CONCESSAO ADMINISTRATIVA DE USO DE AREA MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 357/94)",
+   "kind": "law",
+   "enacted": "1999-07-02",
+   "published": "1999-07-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12874-de-2-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12877": {
+   "label": "Lei nº 12.877, de 07/07/1999",
+   "title": "DECLARA DE UTILIDADE PUBLICA A ASSOCIACAO DE MORADORES DA FAVELA DE VILA REIS, E DA OUTRAS PROVIDENCIAS. (PL 535/98)",
+   "kind": "law",
+   "enacted": "1999-07-07",
+   "published": "1999-07-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12877-de-7-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12878": {
+   "label": "Lei nº 12.878, de 08/07/1999",
+   "title": "DISPOE SOBRE AS DIRETRIZES ORCAMENTARIAS PARA O ANO 2000, E DA OUTRAS PROVIDENCIAS. (PL 119/99)",
+   "kind": "law",
+   "enacted": "1999-07-08",
+   "published": "1999-07-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12878-de-8-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12880": {
+   "label": "Lei nº 12.880, de 13/07/1999",
+   "title": "DISPOE SOBRE A DECLARACAO DE UTILIDADE PUBLICA DA SOCIEDADE BRASILEIRA MUCULMANA, E DA OUTRAS PROVIDENCIAS. (PL 434/98)",
+   "kind": "law",
+   "enacted": "1999-07-13",
+   "published": "1999-07-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12880-de-13-de-julho-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12883": {
+   "label": "Lei nº 12.883, de 24/08/1999",
+   "title": "DENOMINA AVENIDA MIGUEL MOTOKI OGUSHI LOGRADOURO PUBLICO INOMINADO SITUADONO PARQUE SAO RAFAEL, DISTRITO DE SAO MATEUS, E DA OUTRAS PROVIDENCIAS. (PL537/98)",
+   "kind": "law",
+   "enacted": "1999-08-24",
+   "published": "1999-08-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12883-de-24-de-agosto-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12884": {
+   "label": "Lei nº 12.884, de 08/09/1999",
+   "title": "DENOMINA VIELA ESTEVAM GARCIA O LOGRADOURO PUBLICO INOMINADO, NA VILA ANGLOBRASILEIRA, DISTRITO DA LAPA, E DA OUTRAS PROVIDENCIAS. (PL 208/98)",
+   "kind": "law",
+   "enacted": "1999-09-08",
+   "published": "1999-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12884-de-8-de-setembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12885": {
+   "label": "Lei nº 12.885, de 23/09/1999",
+   "title": "DENOMINA \"PRACA ISIS DIAS DE OLIVEIRA\" O LOGRADOURO INOMINADO, CODLOG 44.356-5, DELIMITADO PELAS RUAS ALBION, GUARARAPES E CORRIENTES (SETOR 080 - QUADRAS: 035, 036 E 061), DISTRITO DA LAPA, E DA OUTRAS PROVIDENCIAS. (PL 125/99)",
+   "kind": "law",
+   "enacted": "1999-09-23",
+   "published": "1999-09-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12885-de-23-de-setembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12889": {
+   "label": "Lei nº 12.889, de 07/10/1999",
+   "title": "DENOMINA RUA DERALDO VIEIRA LIMA O LOGRADOURO PUBLICO LOCALIZADO NA VILA REDISTRITO DA PENHA, E DA OUTRAS PROVIDENCIAS. (PL 11/98)",
+   "kind": "law",
+   "enacted": "1999-10-07",
+   "published": "1999-10-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12889-de-7-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12891": {
+   "label": "Lei nº 12.891, de 15/10/1999",
+   "title": "DISPOE SOBRE O COMERCIO DE FOGOS DE ARTIFICIO E DE ESTAMPIDOS, E DA OUTRAS PROVIDENCIAS",
+   "kind": "law",
+   "enacted": "1999-10-15",
+   "published": "1999-10-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12891-de-15-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12894": {
+   "label": "Lei nº 12.894, de 29/10/1999",
+   "title": "DENOMINA PRACA JOAO TADEU PRIOLLI O LOGRADOURO SEM DENOMINACAO, LOCALIZADO NA RUA AROLDO DE AZEVEDO - CADLOG 02297/7, ENTRE A RUA LOUIS BOULANGER, CADLOG 64116/2 E RUA LUPICINIO RODRIGUES, CADLOG 00043/4, PARALELA A RUA DR. JOVIANO PACHECO AGUIRRES,CADLOG 29887/5, DISTRITO DO CAMPO LIMPO.(PL 731/97)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12894-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12895": {
+   "label": "Lei nº 12.895, de 29/10/1999",
+   "title": "APROVA TRACADO DE FAIXA DE TERRENO NO DISTRITO DE PARELHEIROS, E DA OUTRAS PROVIDENCIAS. (PL 583/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12895-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12896": {
+   "label": "Lei nº 12.896, de 29/10/1999",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DO JAGUARE, E DA OUTRAS PROVIDENCIAS. (PL 404/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12896-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12897": {
+   "label": "Lei nº 12.897, de 29/10/1999",
+   "title": "DENOMINA RUA APOSTOLO TIAGO MAIOR O LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO DO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 467/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12897-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12898": {
+   "label": "Lei nº 12.898, de 29/10/1999",
+   "title": "DENOMINA RUA APOSTOLO MATEUS O LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO DO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 472/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12898-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12900": {
+   "label": "Lei nº 12.900, de 29/10/1999",
+   "title": "DENOMINA PRACA GERALDO PASTORE LOGRADOURO PUBLICO INOMINADO SITUADO NA VILARE, DISTRITO DA PENHA, E DA OUTRAS PROVIDENCIAS. (PL 457/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12900-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12901": {
+   "label": "Lei nº 12.901, de 29/10/1999",
+   "title": "DENOMINA TRAVESSA BRUNO PAULO MAIER LOGRADOURO PUBLICO INOMINADO SITUADO NAVILA TALARICO - DISTRITO DE VILA MATILDE, E DA OUTRAS PROVIDENCIAS. (PL 695/98)",
+   "kind": "law",
+   "enacted": "1999-10-29",
+   "published": "1999-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12901-de-29-de-outubro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12902": {
+   "label": "Lei nº 12.902, de 03/11/1999",
+   "title": "DENOMINA \"SILVIO CALDAS\" AS ARQUIBANCADAS LATERAIS DO POLO CULTURAL GRANDE OTELO. (PL 63/98)",
+   "kind": "law",
+   "enacted": "1999-11-03",
+   "published": "1999-11-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12902-de-3-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12903": {
+   "label": "Lei nº 12.903, de 11/11/1999",
+   "title": "DENOMINA TRAVESSA JORNALISTA OCTAVIO MUNIZ LOGRADOURO PUBLICO SITUADO NA VILA HELENA, DISTRITO DE MOEMA. (PL 602/98)",
+   "kind": "law",
+   "enacted": "1999-11-11",
+   "published": "1999-11-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12903-de-11-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12904": {
+   "label": "Lei nº 12.904, de 12/11/1999",
+   "title": "DENOMINA RUA APOSTOLO BARTOLOMEU LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO DO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 471/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12904-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12905": {
+   "label": "Lei nº 12.905, de 12/11/1999",
+   "title": "DENOMINA RUA APOSTOLO TOME LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRODO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 474/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12905-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12906": {
+   "label": "Lei nº 12.906, de 12/11/1999",
+   "title": "DENOMINA CARLOS BUENO A TRAVESSA LOCALIZADA ENTRE A PCA. RIBEIRA DAS NAUS EA R. DR. JOAO TONIOLO, BAIRRO JARDIM SAO JOSE - PIRITUBA. (PL 558/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12906-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12907": {
+   "label": "Lei nº 12.907, de 12/11/1999",
+   "title": "DENOMINA PRACA JOSE ANTONIADE INGLEZ O LOGRADOURO PUBLICO DELIMITADO PELARUA ANTONIA TERESA DE PAULA MATIAS COM RUA EUDELIO RAMOS, JARDIM DANFER. (PL 650/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12907-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12908": {
+   "label": "Lei nº 12.908, de 12/11/1999",
+   "title": "DENOMINA PRACA REINALDO HAGGE O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS ARAPUE E ACAI, CIDADE LIDER. (PL 673/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12908-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12909": {
+   "label": "Lei nº 12.909, de 12/11/1999",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA ANDRADE - DISTRITO DEVILA ANDRADE, E DA OUTRAS PROVIDENCIAS. (PL 659/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12909-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12910": {
+   "label": "Lei nº 12.910, de 12/11/1999",
+   "title": "DENOMINA TRAVESSA AURORA DO CEU CORREA, LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO TATUAPE. (PL 653/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12910-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12911": {
+   "label": "Lei nº 12.911, de 12/11/1999",
+   "title": "DENOMINA PRACA EVA KOVACS O ESPACO PUBLICO INOMINADO DELIMITADO PELA RUA JOAO SCACIOTTI E AVENIDA ADIBO ARES, JARDIM GUEDALA, DISTRITO DO MORUMBI. (PL441/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12911-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12912": {
+   "label": "Lei nº 12.912, de 12/11/1999",
+   "title": "DENOMINA VIA DE PEDRESTE SECUNDINA AUGUSTA SANTOS, LOGRADOURO PUBLICO INOMINADO, COM INICIO NA AV. ROLAND GARROS, ALTURA DO N. 921 (SETOR 066 - QUADRA:208). (PL 595/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12912-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12913": {
+   "label": "Lei nº 12.913, de 12/11/1999",
+   "title": "DENOMINA TRAVESSA SAO PAULO O LOGRADOURO PUBLICO, QUE TEM INICIO NA RUA FERRUCIO SANDOLI (SETOR 172 - QUADRA: 118), BAIRRO AMERICANOPOLIS. (PL 685/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12913-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12914": {
+   "label": "Lei nº 12.914, de 12/11/1999",
+   "title": "DENOMINA RUA APOSTOLO JUDAS TADEU O LOGRADOURO PUBLICO INOMINADO, SITUADONO BAIRRO DO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 470/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12914-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12915": {
+   "label": "Lei nº 12.915, de 12/11/1999",
+   "title": "DENOMINA RUA APOSTOLO FILIPE O LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO DO BARRO BRANCO - DISTRITO DE CIDADE TIRADENTES, E DA OUTRAS PROVIDENCIAS. (PL 468/98)",
+   "kind": "law",
+   "enacted": "1999-11-12",
+   "published": "1999-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12915-de-12-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12916": {
+   "label": "Lei nº 12.916, de 24/11/1999",
+   "title": "DENOMINA RUA ORLANDO PELLICCI O LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE CIDADE LIDER, E DA OUTRAS PROVIDENCIAS. (PL 701/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12916-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12917": {
+   "label": "Lei nº 12.917, de 24/11/1999",
+   "title": "DENOMINA PRACA SEMENTES DO AMANHA LOGRADOURO PUBLICO INOMINADO NO DISTRITO DE VILA FORMOSA, E DA OUTRAS PROVIDENCIAS. (PL 735/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12917-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12918": {
+   "label": "Lei nº 12.918, de 24/11/1999",
+   "title": "DENOMINA TRAVESSA STEPHAN JAGOCHITZ FILHO LOGRADOURO PUBLICO SITUADO NA VILA CLARISSE, DISTRITO DE PIRITUBA. (PL 598/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12918-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12922": {
+   "label": "Lei nº 12.922, de 24/11/1999",
+   "title": "DENOMINA VIELA FRANCISCA DE ARAUJO SOUZA LOGRADOURO PUBLICO INOMINADO SITUADO NO BAIRRO JARDIM BRASIL - DISTRITO DE VILA MEDEIROS, E DA OUTRAS PROVIDENCIAS. (PL 663/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12922-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12923": {
+   "label": "Lei nº 12.923, de 24/11/1999",
+   "title": "FICA DENOMINADO R.COSMO DI SANDRO,CODIGO CADLOG 46.823-3,LOGRADOURO CONHECIDO P/R.\"12\", QUE COMECA NA RUA \"7\" (QUADRA \"Q\")/TERMINA APROXIMADAMENTE 100METROS ALEM DO SEU INICIO EM BALAO RETORNO,SITUADO DISTRITO JARAGUA, PERTENCENTE CJTO.HABITACIONAL MORRO GRANDE (ST.215-QUADRA 996-AR/PJ). (PL 700/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12923-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12927": {
+   "label": "Lei nº 12.927, de 24/11/1999",
+   "title": "Dispõe sobre o reenquadramento de cargos e funções, que especifica, da Guarda Municipal de Cemitérios do Serviço Funerário do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12927-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12928": {
+   "label": "Lei nº 12.928, de 24/11/1999",
+   "title": "DENOMINA RUA APOSTOLO JOAO O LOGRADOURO PUBLICO INOMINADO, CONHECIDO COMO RUA 2-G, LOCALIZADO NO DISTRITO DE CIDADE TIRADENTES. (PL 466/98)",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12928-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12929": {
+   "label": "Lei nº 12.929, de 24/11/1999",
+   "title": "Denomina rua josé honório da silva, o logradouro público inominado situado no conjunto habitacional morro grande, distrito do jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1999-11-24",
+   "published": "1999-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12929-de-24-de-novembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12939": {
+   "label": "Lei nº 12.939, de 07/12/1999",
+   "title": "Dispõe sobre a exposição de fitas de vídeo com cenas eróticas e de sexo explícito nas locadoras no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "1999-12-07",
+   "published": "1999-12-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12939-de-07-de-dezembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12960": {
+   "label": "Lei nº 12.960, de 27/12/1999",
+   "title": "Altera a Lei nº 12.831, de 30 de abril de 1999, que institui o Programa de Incentivo ao Trabalho e Requalificação Profissional.",
+   "kind": "law",
+   "enacted": "1999-12-27",
+   "published": "1999-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12960-de-27-de-dezembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1999-12961": {
+   "label": "Lei nº 12.961, de 27/12/1999",
+   "title": "ALTERA A LEGISLACAO RELATIVA AOS IMPOSTOS PREDIAL E TERRITORIAL URBANO, CONCEDE ISENCAO E DESCONTO DO IMPOSTO PREDIAL AOS IMOVEIS QUE ESPECIFICA, E DAOUTRAS PROVIDENCIAS. (PL 630/99) OBS. PUBLICA ANEXO II (PLANTA GENERICA) CF. DOM 29/12/99-SUPLEMENTO.",
+   "kind": "law",
+   "enacted": "1999-12-27",
+   "published": "1999-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12961-de-27-de-dezembro-de-1999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1999-12868",
+   "short": "Lei 12868/1999",
+   "title": "Lei nº 12.868, de 01/07/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12868-de-1-de-julho-de-1999",
+   "first_law": "lei-1999-12868",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12868-de-1-de-julho-de-1999",
+     "sha256": "633334e20e01973f6694c94dbcfb5d883c21ff2dfd6545daa614ada24295a11e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.868, 1 DE JULHO DE 1999\n(Projeto de Lei nº 77/98, do Vereador José Viviani Ferraz - PL)\nDenomina Travessa Milton Cardoso a atual Viela 15, com início na Rua Pedro Velasco e término na Rua Francisco Mascarenhas, Distrito da Freguesia do Ó, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Travessa Milton Cardoso a Viela 15, com início na Rua Pedro Velasco e término na Rua Francisco Mascarenhas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 1 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12869",
+   "short": "Lei 12869/1999",
+   "title": "Lei nº 12.869, de 01/07/1999 (DISPOE SOBRE A DECLARACAO DE UTILIDADE PUBLICA DA EXPEDICAO CARIDADE - GRUPO ASSISTENCIAL KARDECISTA, E DA OUTRAS PROVIDENCIAS. (PL 108/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12869-de-1-de-julho-de-1999",
+   "first_law": "lei-1999-12869",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12869-de-1-de-julho-de-1999",
+     "sha256": "d8cbe1f338dd8335285389067953c73bc06a4e092ba6d005d238db138ce5a0fc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.869, 1 DE JULHO DE 1999\n(Projeto de Lei nº 108/98, do Vereador Ivo Morganti - PFL)\nDispõe sobre a declaração de utilidade pública da Expedição Caridade - Grupo Assistencial Kardecista, e dá outras providências.\nCELSO PITTA,Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Será declarada de utilidade pública, nos termos e para os efeitos da Lei nº 4.819, de 21 de novembro de 1955, e demais alterações, a entidade Expedição Caridade - Grupo Assistencial Kardecista, desde que requeira ao Executivo e comprove o preenchimento dos requisitos legais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 1 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12871",
+   "short": "Lei 12871/1999",
+   "title": "Lei nº 12.871, de 01/07/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12871-de-1-de-julho-de-1999",
+   "first_law": "lei-1999-12871",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12871-de-1-de-julho-de-1999",
+     "sha256": "04a58e79446f8e42cd70b794afd35e6441e39a10358ed9fd24d57b3edd0181a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.871, 1 DE JULHO DE 1999\n(Projeto de Lei nº 415/98, do Vereador Paulo Frange - PPB)\nDenomina Praça Paulo Schiesari o espaço público delimitado pela confluência das ruas Rifaina, Pedro Soares de Almeida e Antônio G. da Cruz, no Jardim Vera Cruz, Distrito de Perdizes.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Paulo Shiesari o espaço público inominado, delimitado pela confluência das ruas Rifaina, Pedro Soares de Almeida e Antonio G. da Cruz, no Jardim Vera Cruz, Distrito de Perdizes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 1 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Municipal\nRetificação da publicação do dia 2 de julho de 1999\nLEI Nº 12.871, 1 DE JULHO DE 1999\nNo Art. 1º - Leia-se como segue e não como constou:\nArt. 1º - ............... Praça Paulo Schiesari.............\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12872",
+   "short": "Lei 12872/1999",
+   "title": "Lei nº 12.872, de 01/07/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12872-de-1-de-julho-de-1999",
+   "first_law": "lei-1999-12872",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12872-de-1-de-julho-de-1999",
+     "sha256": "e4fd087aa2cbb281f7f3576a7071d83f1bdc94c153702f20eb89b19eba4245d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.872, 1 DE JULHO DE 1999\n(Projeto de Lei nº 276/98, do Vereador Miguel Colasuonno - PPB)\nDenomina Praça João Salvador Felippelli, o espaço público inominado, sem CODLOG, delimitado pela Rua Carlos Henrique Pereira Neves e pelas Avenidas Dr. Luiz Antonio Peduti Cunha e Darcy Reis, Distrito de Rio Pequeno.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça João Salvador Felippelli o espaço público inominado, sem CODLOG, delimitado pela Rua Carlos Henrique Pereira Neves e pelas Avenidas Dr. Luiz Antonio Peduti Cunha e Darcy Reis, Distrito de Rio Pequeno.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 1 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12873",
+   "short": "Lei 12873/1999",
+   "title": "Lei nº 12.873, de 01/07/1999 (DENOMINA PRACA MIRANDA DO DOURO O LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA SUZANA, DISTRITO DE VILA SONIA. (PL 246/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12873-de-1-de-julho-de-1999",
+   "first_law": "lei-1999-12873",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12873-de-1-de-julho-de-1999",
+     "sha256": "f76b87b08808ce91f134f29a3dd4420750fd86331e606a287b15bfd9e3533574",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.873, 1 DE JULHO DE 1999\n(Projeto de Lei nº 246/98, do Vereador Pierre Alexandre de Freitas - PSDB)\nDenomina Praça Miranda do Douro o logradouro público inominado situado na Vila Suzana, Distrito de Vila Sônia.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Miranda do Douro o espaço livre inominado situado na Rua Professor José Horácio Meirelles Teixeira, Vila Suzana, Distrito de Vila Sônia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 1 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12874",
+   "short": "Lei 12874/1999",
+   "title": "Lei nº 12.874, de 02/07/1999 (AUTORIZA A CONCESSAO ADMINISTRATIVA DE USO DE AREA MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 357/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12874-de-2-de-julho-de-1999",
+   "first_law": "lei-1999-12874",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12874-de-2-de-julho-de-1999",
+     "sha256": "bb3ae5a359c90bc22d046b775993fa8775958e90fbede8927380bce96ae3c3a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.874, 2 DE JULHO DE 1999\n(Projeto de Lei nº 357/94, do Executivo)\nAutoriza a concessão administrativa de uso de área municipal, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 22 de junho de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a ceder, à Organização de Auxílio Fraterno - OAF, mediante concessão administrativa, a título gratuito, independentemente de concorrência e pelo prazo de 25 (vinte e cinco) anos, o uso de área de propriedade municipal, situada nos baixos do Viaduto do Glicério, para o fim específico de implantação do projeto-piloto do denominado \"Projeto Minha Rua - Minha Casa\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A área referida no artigo anterior, que será melhor descrita no instrumento de concessão de uso, está assinalada no croquis anexo, e tem as seguintes caraterísticas: formato irregular, com cerca de 2.183, 30 m2 (dois mil, cento e oitenta e três metros e trinta decímetros quadrados), na seguinte conformidade: inicia-se no ponto A, junto à Rua Glicério, ao lado da Rua Dr. Lund, segue paralelo a esta via numa distância de 89,00 metros, até encontrar o ponto B, onde deflete à direita, numa distância de 8,50 metros, até encontrar o ponto C, onde deflete à esquerda, seguindo paralelo à Rua Dr. Lund, numa distância de 47,90 metros, até encontrar o ponto D, onde deflete à esquerda, percorrendo uma distância de 27,00 metros, até encontrar o ponto E, onde deflete à esquerda, seguindo paralelo à Rua Existente numa distância de 47,90 metros, até encontrar o ponto F, onde deflete à esquerda numa distância de 8,50 metros, até encontrar o ponto G, onde deflete à direita, seguindo paralelo à Rua Existente, numa distância de 89,00 metros, até encontrar o ponto H, onde deflete à esquerda numa distância de 10,00 metros, onde encontra o ponto A inicial.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Além das condições que forem exigidas pela Prefeitura, por ocasião da assinatura do instrumento de concessão, no sentido de salvaguardar os interesses municipais, fica a concessionária obrigada a:\na) utilizar a área exclusivamente para a finalidade especificada no artigo 1º;\nb) permitir a construção, na área cedida, pelo Pensamento Nacional das Bases Empresariais - P.N.B.E., das edificações necessárias à instalação de um Centro de Convivência Piloto, como parte do \"Programa Minha Rua - Minha Casa\";\nc) apresentar, para a aprovação dos órgãos técnicos da Prefeitura, no prazo máximo de 1 (um) ano, a partir da lavratura do competente instrumento de concessão, os projetos e memoriais das edificações a serem executadas, que deverão atender às exigências legais pertinentes;\nd) iniciar as obras no prazo de 1 (um) ano a contar da aprovação dos projetos, e concluí-las no prazo máximo de 2 (dois) anos;\ne) não ceder o imóvel, no todo ou em parte, a terceiros, excetopara o fim previsto na alínea \"b\" deste artigo;\nf) não permitir que terceiros se apossem do imóvel, salvo o disposto na alínea \"b\" deste artigo, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verifique;\ng) zelar pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, qualquer obra de manutenção que se fizer necessária;\nh) responder, perante o poder público, pelos eventuais tributos referentes ao imóvel;\ni) arcar com todas as despesas oriundas da concessão, inclusive as relativas à lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - À Prefeitura cabe o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - A Prefeitura não será responsável, inclusive perante terceiros, por qualquer prejuízo decorrente da execução das obras, serviços e trabalhos a cargo da concessionária.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - A inobservância das condições e obrigações estatuídas nesta lei, ou das cláusulas que constarem do instrumento de concessão, bem como o inadiplemento de qualquer prazo fixado ou a extinção ou dissolução da entidade concessionária implicará a rescisão, de pleno direito, da concessão, revertendo a área ao Município e incorporando-se ao seu patrimônio as edificações e benfeitorias nela executadas, ainda que necessárias, sem direito de retenção e independentemente de pagamento ou indenização, seja a que título for, o mesmo ocorrendo uma vez findo o prazo da concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 2 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12877",
+   "short": "Lei 12877/1999",
+   "title": "Lei nº 12.877, de 07/07/1999 (DECLARA DE UTILIDADE PUBLICA A ASSOCIACAO DE MORADORES DA FAVELA DE VILA REIS, E DA OUTRAS PROVIDENCIAS. (PL 535/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12877-de-7-de-julho-de-1999",
+   "first_law": "lei-1999-12877",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12877-de-7-de-julho-de-1999",
+     "sha256": "dac0f188f7e7c4af24444a10485b31a3fedb01607f2ae37631a968d3b405f3e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.877, 7 DE JULHO DE 1999\n(Projeto de Lei nº 535/98, do Vereador Luiz Paschoal - PTB)\nDeclara de utilidade pública a Associação de Moradores da Favela de Vila Reis, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Será declarada de utilidade pública nos termos e para os efeitos da Lei nº 4.819/55, a Associação de Moradores da Favela de Vila Reis, situada em São Miguel - São Paulo, desde que cumpra os requisitos legais e requeira ao Executivo Municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 7 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12878",
+   "short": "Lei 12878/1999",
+   "title": "Lei nº 12.878, de 08/07/1999 (DISPOE SOBRE AS DIRETRIZES ORCAMENTARIAS PARA O ANO 2000, E DA OUTRAS PROVIDENCIAS. (PL 119/99))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12878-de-8-de-julho-de-1999",
+   "first_law": "lei-1999-12878",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12878-de-8-de-julho-de-1999",
+     "sha256": "e7b79559e6a32582b791616f486cf579fc37b542cc0792752a46dbb6eb7fe168",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.878, 8 DE JULHO DE 1999\n(Projeto de Lei nº 119/99, do Executivo)\nDispõe sobre as Diretrizes Orçamentárias para o ano 2000, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 29 de junho de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA ORGANIZAÇÃO E ESTRUTURA DA LEI ORÇAMENTÁRIA\nArt. 1º - Ficam estabelecidas, nos termos desta lei, as diretrizes para elaboração do Projeto de Lei Orçamentária do Município de São Paulo, relativas ao exercício de 2000.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Projeto de Lei Orçamentária anual do Município de São Paulo será elaborado em observância às diretrizes fixadas nesta lei, ao artigo 137 da Lei Orgânica do Município e à legislação federalque estiver em vigor e compreenderá:\nI - o orçamento fiscal referente aos poderes do Município, e seus órgãos;\nII - os orçamentos das entidades autárquicas;\nIII - o orçamento de investimento das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto;\nIV - os orçamentos dos fundos municipais;\nV - o demonstrativo das obras e serviços públicos cujos recursos sejam oriundos de outorga, de concessão, de permissão, de autorização, de cessão, de transmissão ou quaisquer atos do poder público municipal que impliquem qualquer tipo de reciprocidade por parte da iniciativa privada.\nParágrafo único - A inclusão de determinada obra ou serviço público no demonstrativo a que se refere o inciso V deste artigo não elide a necessidade de autorização legislativa específica, quando couber, nos termos da legislação em vigor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - À falta da lei complementar a que se refere o artigo 165, parágrafo 9º da Constituição Federal, o orçamento da administração direta atenderá às especificações constantes da Lei Federal nº 4.320, de 17 de março de 1964, especialmente no que tange às classificações de receita e despesa e à elaboração de demonstrativos e anexos, sem prejuízo de outros requisitos estabelecidos por esta lei.\n§ 1º - Integrarão, também, o orçamento da administração direta os demonstrativos:\nI - das dotações à conta do Tesouro Municipal, destinadas a aumento de capital ou transferência, a qualquer título, para empresas, autarquias e fundos do Município, devidamente especificadas por órgão receptor, natureza e finalidade da despesa;\nII - dos recursos destinados à manutenção e desenvolvimento do ensino, de forma a caracterizar o cumprimento do disposto no artigo 208 da Lei Orgânica do Município de São Paulo;\nIII - das operações de crédito, a que se refere o artigo 12, desta lei.\n§ 2º - Os projetos e atividades constantes do programa de trabalho dos órgãos e unidades orçamentárias deverão ser identificados, em conformidade com o disposto no artigo 137, parágrafo 8º, da Lei Orgânica do Município de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Os orçamentos das entidades autárquicas compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática de cada órgão, de acordo com as especificações da Lei Federal nº 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, por órgãos, de acordo com a fonte e a origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Os orçamentos dos fundos compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática, de acordo com as especificações da Lei Federal nº 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, de acordo com a fonte e origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O orçamento de investimento, previsto no artigo 2º, inciso III, desta lei, discriminará para cada empresa:\nI - os objetivos sociais, a base legal de instituição, a composição acionária e a descrição da programação de investimentos para o ano 2000;\nII - o demonstrativo de investimentos especificados por projetos de acordo com as fontes de financiamentos (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes);\nIII - o demonstrativo de fontes e usos especificando a composição dos recursos totais por origem (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes), e das aplicações por natureza de despesa (custeio, serviço da dívida, investimento).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - O demonstrativo previsto no inciso V do artigo 2º desta lei compreenderá:\nI - as receitas decorrentes de outorga, de concessão, de permissão, de autorização, de cessão, de transmissão ou de quaisquer atos do Poder Público Municipal que impliquem qualquer tipo de reciprocidade por parte da iniciativa privada;\nII - as despesas previstas do Poder Público Municipal resultantes dos atos abrangidos pelo inciso I deste artigo, discriminadas por projetos e atividades;\nIII - os valores estimados das obras e serviços públicos a serem realizados parcial ou integralmente pela iniciativa privada para a Municipalidade, e cuja fonte de pagamento não seja o Poder Público Municipal, dispensando-se aquelas inferiores aos exigidos na modalidade de licitação-concorrência.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - A proposta orçamentária, a ser encaminhada pelo Executivo à Câmara Municipal, até 30 de setembro de 1999, compor-se-á de:\nI - mensagem;\nII - projeto de lei orçamentária anual;\nIII - tabelas explicativas, a que se refere o artigo 22, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964;\nIV - demonstrativos dos efeitos sobre as receitas e despesas decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia;\nV - relação de projetos e atividades constantes do projeto de lei orçamentária, com sua descrição e codificação, detalhados por elementos de despesa.\n§ 1º - A mensagem que encaminhar o projeto de lei orçamentária anual deverá explicitar os critérios adotados na previsão da receita.\n§ 2º - Os quadros e tabelas da proposta orçamentária deverão ser encaminhados em suporte físico que permita o imediato processamento eletrônico dos dados, sem prejuízo da apresentação usual, devendo os poderes Executivo e Legislativo prover os recursos necessários ao adequado processamento dessas informações.\n§ 3º - Até 10 (dez) dias após o envio da proposta orçamentária, o Executivo deverá encaminhar 57 (cinqüenta e sete) cópias do referido projeto para a Câmara, (das quais, uma será para a Assessoria da Comissão de Finanças e Orçamento e outra para a biblioteca) e uma cópia para o Tribunal de Contas do Município de São Paulo, na forma usual, acompanhada de suporte físico que permita o imediato processamento eletrônico dos dados.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS DIRETRIZES DA RECEITA\nArt. 9º - As diretrizes da receita para o ano 2000, levando em consideração que a Reforma Tributária ainda tramita no Congresso Nacional, impõem o contínuo aperfeiçoamento da administração dos tributos municipais, com vistas ao incremento real das receitas próprias, bem como a cooperação entre o Poder Público e a iniciativa privada, incluindo a concessão de incentivos fiscais e de direito do uso do solo, que possam vir a contemplar, entre outras, iniciativas que não sejam agressivas ao Meio Ambiente ou que contribuam para o desenvolvimento ambientalmente sustentável.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Poderão ser apresentados projetos de lei dispondo sobre as seguintes alterações na área da administração tributária:\nI - atualização da planta genérica de valores do Município;\nII - revisão dos Impostos Predial e Territorial Urbano, inclusive em suas alíquotas, forma de cálculo e condições de pagamento;\nIII - instituição de taxas pela prestação de serviços, adequando-as aos custos efetivos dos mesmos;\nIV - revisão e atualização da legislação sobre a contribuição de melhoria decorrente de obras públicas;\nV - revisão da legislação sobre o Imposto sobre Serviços de Qualquer Natureza;\nVI - revisão da legislação sobre o Imposto sobre a Transmissão Inter-Vivos e de Bens Imóveis e de direitos reais sobre imóveis;\nVII - revisão da legislação sobre as taxas pelo exercício do poder de polícia administrativo;\nVIII - revisão das isenções dos tributos municipais, para manter o interesse público e a justiça fiscal;\nIX - concessão de incentivos fiscais ou outros mecanismos tributários que permitam o atendimento das diretrizes do artigo 9º desta lei.\nParágrafo único - Os projetos de lei que objetivem modificações no Imposto Predial e Territorial Urbano deverão explicitar todas as alterações em relação à legislação atual, de tal forma que seja possível calcular o impacto da medida no valor do tributo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Os projetos de lei que impliquem em redução de receita do exercício financeiro de 2000 deverão explicitar, em sua exposição de motivos, a estimativa da renúncia de receita que acarretam, bem como indicar as despesas, em idêntico montante, que serão anuladas automaticamente nos orçamentos do exercício referido.\n§ 1º - Se o projeto de lei for apresentado durante o exercício financeiro de 2000, a indicação de despesas a serem anuladas deverá ser feita pela classificação funcional programática, até o nível de projetos e atividades.\n§ 2º - Caso o projeto de lei seja apresentado antes do início do ano 2000 e após o encaminhamento da proposta orçamentária para o ano 2000, a indicação de anulação de despesa deverá referir-se aos projetos e atividades ali descritos devendo, no momento oportuno, ser apresentada emenda ao projeto de lei do orçamento para supressão de tais despesas.\n§ 3º - Em sendo apresentado o projeto de lei antes do encaminhamento da proposta orçamentária para o ano 2000, a indicação de anulação de despesa deverá apontar os programas a sofrerem redução, devendo no momento oportuno ser apresentada emenda ao projeto de lei do orçamento para supressão de tais despesas, a nível de projetos e atividades.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O projeto de lei orçamentária poderá computar, na receita:\nI - operações de crédito autorizadas por lei específica, nos termos do artigo 7º, parágrafo 2º, da Lei Federal nº 4.320, de 17 de março de 1964;\nII - operações de crédito a serem autorizadas na própria lei orçamentária;\nIII - os efeitos da aplicação da Emenda Constitucional nº 20/98 (Reforma da Previdência) no que se refere à implantação de Sistema Previdenciário Próprio que prevê contribuição dos servidores municipais;\nIV - os efeitos de programas de alienações de bens imóveis e de incentivos ao pagamento de débitos inscritos na dívida ativa do município.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A lei orçamentária anual poderá autorizar a realização de operações de crédito por antecipação de receita até o limite fixado pelo Senado Federal.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS DIRETRIZES DA DESPESA\nArt. 14 - Constituem prioridades da Administração Pública Municipal:\nI - o refinanciamento da Dívida Mobiliária, de Antecipações de Receitas Orçamentárias - ARO e de outras dívidas, nos termos da Medida Provisória nº 1.811, de 20 de maio de 1999, ou da medida provisória ou lei sobre a matéria que estiver vigendo à época e de demais normas pertinentes;\nII - a implantação do Sistema Previdenciário Próprio dos servidores municipais, nos termos da Emenda Constitucional nº 20/98 e legislação regulamentadora;\nIII - programas específicos de combate ao desemprego e suas conseqüencias;\nIV - Programas Sociais com ênfase às áreas de educação, saúde e bem-estar;\nV - programas de contenção de despesas, com ênfase aos serviços de limpeza ambiental, vigilância de próprios municipais, manutenção de equipamentos, aluguéis e locação de veículos;\nVI - serviços de manutenção e conservação da cidade;\nVII - operação e manutenção dos equipamentos urbanos;\nVIII - operação e manutenção do trânsito e do transporte coletivo;\nIX - INVESTIMENTOS: Construção de terminais de ônibus, participação na construção do Rodoanel Metropolitano, implantação de corredores de ônibus, construção de escolas, construção de creches, construção de unidades de saúde, construção de moradias populares de interesse social (com destaque à continuidade do Projeto Cingapura, das Operações Interligadas, do Programa Guarapiranga e Billings, e do reassentamento do programa PROCAV), obras de infra-estrutura viária, incluindo pavimentação e recapeamento de vias, obras de canalização e retificação de córregos visando combater enchentes, com novo programa a ser financiado pelo BID, ampliação da rede de iluminação pública, projetos desportivos amadores, construção de postos para o Corpo de Bombeiros, continuidade do programa Veículo Leve sobre Pneus - Fura Fila, revitalização e recuperação do centro de São Paulo.\nParágrafo único - O valor a ser destinado a Encargos de Manutenção e de Construção e Reformas de Postos para o Corpo de Bombeiros deverá ser, no mínimo, o valor total arrecadado em 1998 com a Taxa de Combate a Sinistros, atualizado pelo IPC-FIPE, até junho de 1999.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - A realização desses programas de investimentos obedecerá à seguinte ordem de prioridade:\nI - os investimentos em execução em 1999, cuja conclusão está prevista para o ano 2000;\nII - os investimentos a serem iniciados e concluídos no ano 2000;\nIII - os investimentos em execução em 1999, cuja conclusão está prevista para após o ano 2000;\nIV - os investimentos a serem iniciados no ano 2000, cuja conclusão está prevista para após o ano 2000.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - O Executivo poderá encaminhar projetos de lei visando revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, incluindo:\nI - a concessão, absorção de vantagens e aumento de remuneração de servidores;\nII - a criação e a extinção de cargos públicos, bem como a criação, extinção e alteração da estrutura de carreiras;\nIII - provimento de cargos e contratações de emergência estritamente necessárias, respeitada a legislação municipal vigente.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A criação ou ampliação de cargos atenderá aos seguintes requisitos:\nI - existência de prévia dotação orçamentária, suficiente para atender às projeções de despesa com pessoal e aos acréscimos dela decorrentes;\nII - inexistência de cargos, funções ou empregos públicos similares vagos e sem previsão de uso na Administração, ressalvada sua extinção ou transformação decorrente das medidas propostas;\nIII - resultar de ampliação decorrente de investimentos ou de expansão de serviços devidamente previstos na lei orçamentária anual.\nParágrafo único - Os projetos de lei de criação ou ampliação de cargos deverão demonstrar, em sua exposição de motivos, o atendimento aos requisitos de que trata este artigo, apresentando o efetivo acréscimo de despesas com pessoal.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - A proposta orçamentária do Tribunal de Contas do Município será encaminhada ao Executivo na forma, prazo e conteúdo estabelecidos por este Poder, devendo aquele órgão, concomitantemente, remeter à Comissão de Finanças e Orçamento da Câmara Municipal, cópia da referida proposta, para elaboração de parecer sobre a matéria, a ser enviado ao Poder Executivo.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - As despesas com publicidade de interesse do Município restringir-se-ão aos gastos necessários à divulgação de investimentos e serviços públicos efetivamente realizados e de campanhas de natureza educativa ou preventiva, excluídas as despesas com a publicação de editais e outras legais.\nParágrafo único - Os recursos necessários às despesas referidas no \"caput \" deste artigo deverão onerar as seguintes dotações:\na) Publicações de Interesse do Município;\nb) Publicações de Editais e Outras Legais.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Os gastos relativos a construções de creches e de unidades de educação e saúde deverão ser discriminados em dotações individualizadas.\nParágrafo único - A Lei Orçamentária permitirá a realocação dos recursos de que trata o \"caput\" deste artigo desde que para o mesmo programa.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS DISPOSIÇÕES FINAIS\nArt. 21 - No projeto de lei orçamentária, as receitas e despesas poderão ser orçadas segundo os preços vigentes em junho de 1999 ou segundo os preços correntes previstos para o ano 2000.\n.§ 1º - Se orçadas a preços vigentes em junho de 1999, a lei orçamentária anual poderá estabelecer critérios de atualização das dotações orçamentárias a serem aplicados durante o exercício de 2000 de forma a manter o valor real dos projetos e\natividades previstos no orçamento, tendo como limite o comportamento da receita.\n§ 2º - Caso implementada a sistemática de atualização de que trata o parágrafo anterior, a justificativa para reajuste das dotações orçamentárias deverá discriminar a receita prevista em receita própria e receita de operações de crédito, detalhada a nível de alínea.\n§ 3º - A atualização de que tratam os parágrafos anteriores deste artigo, se acolhida na lei orçamentária, ocorrerá observando-se idêntica proporção para cada projeto e atividade, assim como para os elementos de despesa a eles vinculados.\n§ 4º - Para os efeitos desta lei, considera-se como receita própria o somatório das receitas correntes e de capital, com exceção das receitas de operações de crédito, de acordo com as definições dadas pela Lei Federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - O Executivo poderá organizar consultas à população, objetivando o levantamento das expectativas e das necessidades de cada bairro ou regional, com vistas à elaboração da proposta orçamentária.\nParágrafo único - A Câmara Municipal de São Paulo fará, através da Comissão de Finanças e Orçamento, a apresentação, discussão e debate da proposta orçamentária à sociedade, em várias regiões do Município, no prazo que couber, utilizando-se, inclusive, da TV São Paulo como suporte.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - As emendas apresentadas ao projeto de lei orçamentária obedecerão o regulamento a ser baixado pela Comissão de Finanças e Orçamento da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Durante o ano, serão encaminhados detalhamentos de eventuais alterações referentes ao demonstrativo de que trata o inciso V do artigo 2º desta lei.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de julho de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 8 de julho de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12880",
+   "short": "Lei 12880/1999",
+   "title": "Lei nº 12.880, de 13/07/1999 (DISPOE SOBRE A DECLARACAO DE UTILIDADE PUBLICA DA SOCIEDADE BRASILEIRA MUCULMANA, E DA OUTRAS PROVIDENCIAS. (PL 434/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12880-de-13-de-julho-de-1999",
+   "first_law": "lei-1999-12880",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-07-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12880-de-13-de-julho-de-1999",
+     "sha256": "8330a5407728609ed34eafd27ee3db3ea54f3da04922c81cd311ece8a1fa4b6f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 12.880 DE 13 DE JULHO DE 1999.\n(Projeto de Lei 434/98, do Ver. Mohamad Said Mourad)\nDispõe sobre a declaração de utilidade pública da Sociedade Brasileira Muçulmana, e dá outras providências.\nArmando Mellão Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do art. 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Será declarada de utilidade pública, nos termos e para os efeitos da Lei nº 4.819 de 21 de novembro de 1955, e demais alterações, a Sociedade Beneficente Muçulmana, desde que requeira ao Executivo e comprove o preenchimento dos requisitos legais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de julho de 1999.\nO Presidente,\nArmando Mellão Neto\nPublicada na Diretoria Geral da Câmara Municipal de São Paulo, em 26 de julho de 1999.\nO Diretor Geral,\nLuiz Carvalho Diniz\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12883",
+   "short": "Lei 12883/1999",
+   "title": "Lei nº 12.883, de 24/08/1999 (DENOMINA AVENIDA MIGUEL MOTOKI OGUSHI LOGRADOURO PUBLICO INOMINADO SITUADONO PARQUE SAO RAFAEL, DISTRITO DE SAO MATEUS, E DA OUTRAS PROVIDENCIAS. (PL537/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12883-de-24-de-agosto-de-1999",
+   "first_law": "lei-1999-12883",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-08-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12883-de-24-de-agosto-de-1999",
+     "sha256": "f1b0bd694e7953288868231c86d93e53fce964ebb9410e24d763c46c79ce547b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.883 , 24 DE AGOSTO DE 1999\n(Projeto de Lei nº 537/98, do Vereador Toninho Paiva - PFL)\nDenomina Avenida Miguel Motoki Ogushi logradouro público inominado situado no Parque São Rafael, Distrito de São Mateus, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Avenida Miguel Motoki Ogushi o logradouro público inominado com início na Rua Senador Filinto Muller e término na Avenida Adélia Chohfi - Setor 152, Quadras: 216 e 221 e setor 253 quadras 001, 002 e 989 - localizado no Parque São Rafael, Distrito de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de agosto de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de agosto de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12884",
+   "short": "Lei 12884/1999",
+   "title": "Lei nº 12.884, de 08/09/1999 (DENOMINA VIELA ESTEVAM GARCIA O LOGRADOURO PUBLICO INOMINADO, NA VILA ANGLOBRASILEIRA, DISTRITO DA LAPA, E DA OUTRAS PROVIDENCIAS. (PL 208/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12884-de-8-de-setembro-de-1999",
+   "first_law": "lei-1999-12884",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12884-de-8-de-setembro-de-1999",
+     "sha256": "2ce911bc09dcce15b7b1391bf9a4bd91d2add055e5541f71bf12806613ce9922",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.884, 8 DE SETEMBRO DE 1999\n(Projeto de Lei nº 208/98, do Vereador José Izar - PFL)\nDenomina Viela Estevam Garcia o logradouro público inominado, na Vila Anglo Brasileira, Distrito da Lapa, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Estevam Garcia o logradouro público inominado, com início na Rua João Jabotam e término na Rua Guiará, na Vila Anglo Brasileira, Distrito da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de setembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nJOSÉ ANTONIO DE FREITAS, Secretário das Finanças\nDENIZ FERREIRA RIBEIRO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 8 de setembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12885",
+   "short": "Lei 12885/1999",
+   "title": "Lei nº 12.885, de 23/09/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12885-de-23-de-setembro-de-1999",
+   "first_law": "lei-1999-12885",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-09-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12885-de-23-de-setembro-de-1999",
+     "sha256": "a5f62868dd050f409b6eb720b72dfb7287a2b9dd2c9788c73d30b55b1a005c06",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.885, 23 DE SETEMBRO DE 1999\n(Projeto de Lei nº 125/99, do Vereador Ítalo Cardoso - PT)\nDenomina \"Praça Ísis Dias de Oliveira\" o logradouro inominado, CODLOG 44.356-5, delimitado pelas Ruas Albion, Guararapes e Corrientes (Setor 080 - Quadras: 035, 036 e 061), Distrito da Lapa, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Praça Ísis Dias de Oliveira\" o logradouro público inominado, CODLOG 44.356-5, delimitado pelas Ruas Albion, Guararapes e Corrientes (Setor 080 - Quadras: 035, 036 e 061), Distrito da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de setembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 23 de setembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12889",
+   "short": "Lei 12889/1999",
+   "title": "Lei nº 12.889, de 07/10/1999 (DENOMINA RUA DERALDO VIEIRA LIMA O LOGRADOURO PUBLICO LOCALIZADO NA VILA REDISTRITO DA PENHA, E DA OUTRAS PROVIDENCIAS. (PL 11/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12889-de-7-de-outubro-de-1999",
+   "first_law": "lei-1999-12889",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12889-de-7-de-outubro-de-1999",
+     "sha256": "d087d9a62cbc189456eae444cd6794c26b140d0d564fb09e496928ae3fd93b98",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.889,7 DE OUTUBRO DE 1999\n(Projeto de Lei nº 11/98, do Vereador Luiz Paschoal - PL)\nDenomina Rua Deraldo Vieira Lima o logradouro público localizado na Vila Ré, Distrito da Penha, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 14 de setembro de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Deraldo Vieira Lima o logradouro público conhecido por Rua Tiquatira, CADLOG 18.989-8, com início na Rua Benedito Otoni e término na Rua Wadih Hatti, situado na Vila Ré, Distrito da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 7 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12891",
+   "short": "Lei 12891/1999",
+   "title": "Lei nº 12.891, de 15/10/1999 (DISPOE SOBRE O COMERCIO DE FOGOS DE ARTIFICIO E DE ESTAMPIDOS, E DA OUTRAS PROVIDENCIAS)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12891-de-15-de-outubro-de-1999",
+   "first_law": "lei-1999-12891",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12891-de-15-de-outubro-de-1999",
+     "sha256": "1dfb1e5cc72eb91308a05bbad852a6347a1f13a777127476dd7c2bae7db608b0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.891, 15 DE OUTUBRO DE 1999\n(Projeto de Lei nº 520/96, do Vereador Toninho Paiva - PFL)\nDispõe sobre o comércio de fogos de artifício e de estampidos, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 14 de setembro de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O funcionamento de estabelecimento que se dedique ao comércio de fogos de artifício e de estampido, mesmo que não seja esta a sua principal atividade, fica sujeito a prévia licença expedida pelo órgão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - De acordo com a característica e natureza do estabelecimento serão expedidas as seguintes licenças:\nI - Licença provisória - comércio varejista - com prazo máximo de 60 (sessenta) dias, destinada a estabelecimento varejista situado em barracas, com dimensões de 4,00 x 3,00 metros fabricadas, em chapas de alumínio, flandres, ou outro material equivalente, telhados em cimento amianto ou alumínio, situadas em terreno baldio, com frentes voltadas para rua;\nII - Licença anual - comércio varejista - destinada a estabelecimento varejista situado em lojas, armazéns ou garagens, construídas em alvenaria ou material equivalente, com ou sem pavimentos, desde que os superiores sejam utilizados para fins comerciais e as lojas divisórias sejam de concreto armado;\nIII - Licença anual - comércio atacadista - destinada a estabelecimento atacadista situada em lojas, galpões ou armazéns, construídos em terrenos com pelo menos 5.000 m² (cinco mil metros quadrados) afastadas no mínimo 50 (cinqüenta) metros de rodovias, ferrovias e de outras edificações, e a 150 (cento e cinqüenta) metros de distância de equipamentos ou materiais inflamáveis e explosivos, terminais de abastecimento de gás, postos de combustíveis e indústrias de fogos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O pedido de licença de localização e funcionamento deverá ser requerido até 15 (quinze) dias antes da instalação do estabelecimento, através do modelo padrão acompanhado dos seguintes documentos:\nI - Laudo de vistoria prévia, assinado por um engenheiro químico, fornecido pela Associação Brasileira de Pirotecnia (ASSOBRAPI);\nII - Alvará da Divisão de Produtos Controlados, da Secretaria de Segurança Pública do Estado de São Paulo. Tal alvará, no início do processo, poderá ser substituído pelo protocolo onde deverá estar claro que a licença municipal fica condicionada à sua expedição;\nIII - Cópia xerográfica do aviso recibo do IPTU do imóvel a ser vistoriado;\nIV - Carteira de aptidão profissional, fornecida pela ASSOBRAPI, atestando que o comerciante e os funcionários fizeram um curso teórico e prático, estando habilitados para o comércio de fogos no Município de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Antes da concessão do alvará de funcionamento o imóvel deverá ser vistoriado pelo órgão competente do Executivo, que se manifestará conclusivamente sobre as condições do local no prazo máximo de 03 (três) dias úteis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Para os casos previstos no art. 2 º, itens I e II deverá ser verificado:\nI - Se a edificação é construída em alvenaria ou se, no caso de barracas, elas se encontram nos padrões de aparência exigidos;\nII - Se as instalações para o armazenamento de exposição dos produtos são de aço ou outro material não inflamável;\nIII - Se o imóvel está dotado de sistema de prevenção de incêndio, de acordo com a legislação em vigor, devendo para tanto:\na) possuir um extintor de incêndio para cada 10 m² (dez metros quadrados) de área construída, podendo ser de água pressurizada, espuma mecânica ou pó químico;\nb) ter instalado, junto ao quadro de força um extintor de incêndio de CO2 ou pó químico;\nc) apresentar os extintores devidamente carregados, com a validade de carga e selo ABNT, mantendo no local a nota fiscal de compra e recarga;\nd) ter sistema de fiação elétrica totalmente embutido em conduítes.\nParágrafo único - Só poderão ser instalados em edificações cujas condições edilícias estejam devidamente regularizadas perante a municipalidade, exceção feita às barracas mencionadas no Inciso I do artigo 2º.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Após a manifestação a que se refere o art. 4º e antes da expedição do alvará, o proprietário do estabelecimento deverá apresentar no prazo de 72 (setenta e duas) horas, o comprovante de pagamento da Taxa de Fiscalização de Localização, Instalação e Funcionamento, nos termos de legislação em vigor.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Não serão concedidas licenças em quaisquer dos casos se o imóvel estiver localizado em zona estritamente residencial (Z1) ou situados a menos de 100 metros dos seguintes locais:\na) postos de gasolina e de combustíveis em geral, depósitos de outros explosivos, inflamáveis e terminais de beneficiamento de gás;\nb) estabelecimentos de ensino, de quaisquer níveis;\nc) hospitais, maternidades, prontos-socorros e similares, desde que estes estabelecimentos mantenham internações;\nd) cinemas, teatros, casas de espetáculos, exceto boates;\ne) repartições púbicas dos governos federal, estadual e municipal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Não serão concedidas licenças nos seguintes casos:\nI - Para empresas que comercializam outros explosivos, inflamáveis e combustíveis, não se considerando como tal os papeis, plásticos, ácidos, madeiras, e afins, desde que, dentro do estabelecimento, seja montada uma seção anexa separada;\nII - Para lojas de artigos religiosos, umbanda, armas, munições e demais que comercializem com pólvora de caça e/ou rituais;\nIII - Para comércio, em imóveis estritamente residenciais.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Os estabelecimentos que se trata esta lei deverão obedecer os seguintes critérios, dentro do local de comercialização dos fogos:\nI - Fica vedada a manipulação de fogos a granel e desembalados diretamente em caixas de papelão de grande porte;\nII - Ficam vedadas as manipulações, embalagens, montagens, desmontagens, desmanches ou alterações das características iniciais de fabricação;\nIII -Os produtos somente poderão ser comercializados em suas embalagens originais, com quantidades mínimas, vedada a comercialização de produtos unitários retirados de dentro das embalagens;\nIV - Fica proibido o ato de fumar no estabelecimento, seja por funcionários, vendedores e clientes, devendo ser afixada placa alusiva à proibição;\nV - Fica proibido acender velas, manter fogões de qualquer tipo, fogareiros, aquecedores e quaisquer outros objetos que possam provocar chamas ou faíscas.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Em qualquer tipo de estabelecimento que comercialize fogos, os estoques não poderão ocupar mais de 40% (quarenta por cento) do volume do imóvel.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As lojas e barracas, para comercialização no varejo, somente poderão manter o estoque máximo de 10% (dez por cento) entre bombas de riscar e rojões de vara e 30% (trinta por cento) dos demais artigos, devido à menor periculosidade destes, observando-se o seguinte:\nI - Deverá ser destinado o máximo de 10% (dez por cento) da área cúbica do imóvel, para a manutenção e estocagem de bombas de riscar, foguetes de vara, foguetes canos curtos, girândulas, cometinhas e similares, não podendo ultrapassar de 10 m³ (dez metros cúbicos) da área, seja de que tamanho for o imóvel;\nII - Deverá ser destinado o máximo de 30% (trinta por cento) da área cúbica do imóvel, para os demais artigos pirotécnicos, por serem de menor periculosidade, não podendo ultrapassar de 20 m³ (vinte metros cúbicos) da área da venda, seja de que tamanho for o imóvel;\nIII - A soma dos itens I e II serão no máximo de 40% (quarenta por cento) da área cúbica do imóvel, não podendo exceder de 30 m³ (trinta metros cúbicos) totais, seja de que tamanho for o imóvel, ficando compreendido que os produtos constantes do item I não podem ser superiores a 10% (dez por cento) ou a 10 m³ (dez metros cúbicos);\nIV - As bombas de riscar deverão ser embaladas em caixas de 10 peças, estas acondicionadas em \"displays\", contendo 50 caixas de 10 peças e os \"displays\", em uma caixa de papelão ondulado, contendo no máximo 6 \"displays\"; perfazendo 3 embalagens para este produto, cuja menor quantidade permitida para comercialização é a caixa contendo 10 peças;\nV - Os foguetes de vara deverão ser embalados em caixas com o máximo de 2 dúzias, e estas em uma segunda, contendo 5 caixas de 2 dúzias, cuja menor quantidade que pode ser comercializada é a caixa contendo 2 dúzias;\nVI - Os foguetes de canos curtos deverão ser embalados em caixas contendo o máximo de 10 dúzias de peças, devendo estas ser acondicionadas em outra, contendo 5 caixas de 10 dúzias, cuja comercialização mínima permitida será a caixa com10 dúzias;\nVII - Os cometinhas e similares deverão ser embalados em caixas com o máximo de 5 dúzias, sendo estas acondicionadas com outras, contendo 50 caixas com 5 dúzias, cuja menor quantidade que pode ser comercializada é a caixa com 5 dúzias;\nVIII - As girândulas e mini-shows deverão ser embaladas em caixas contendo o máximo de 10 peças e somente poderão ser retiradas das caixas no momento da venda, salvose, além da caixa maior, elas estiverem também embaladas em caixas individuais, condição em que poderá ser exposta e comercializada individualmente.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Nenhum estabelecimento que comercialize fogos, no varejo ou atacado, poderá manter os artigos utilizados em shows pirotécnicos, de qualquer calibre, fora dos tubos propulsores, observando-se as seguintes normas:\nI - Estes artigos somente poderão ser comercializados diretamente entre as indústrias e os consumidores finais, mas desde que as queimas sejam de responsabilidade de pessoal técnico que possua a carteira de Cabo Pirotécnico (Blaster), provando a capacitação técnico-profissional do elemento;\nII - Em caso de dúvida, a fiscalização poderá apreender exemplares para análise pelo pessoal técnico da Delegacia de Produtos Controlados, da Secretaria da Segurança Pública do Estado de São Paulo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O descumprimento dos dispositivos desta lei acarretará aos infratores a aplicação de multa variável até 1.000 UFIR's de acordo com a gravidade da infração [VETADO].\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O Poder Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias, contados a partir da data de sua publicação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 11.233, de 22 de julho de 1992.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nNAOR GUELFI, Secretário das Administrações Regionais\nPublicada na Secretaria do Governo Municipal, em 15 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12894",
+   "short": "Lei 12894/1999",
+   "title": "Lei nº 12.894, de 29/10/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12894-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12894",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12894-de-29-de-outubro-de-1999",
+     "sha256": "cc3bf8ffe06b34ae8fded8d2d7fb01945e7187ae6c739c03a1a3fab3db7c07e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.894, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 731/97, do Vereador Mário Dias - PPB)\nDenomina Praça João Tadeu Priolli o logradouro sem denominação, localizado na Rua Aroldo de Azevedo - CADLOG 02297/7, entre a Rua Louis Boulanger, CADLOG 64116/2 e Rua Lupicínio Rodrigues, CADLOG 00043/4, paralela à Rua Dr. Joviano Pacheco Aguirres, CADLOG 29887/5, Distrito do Campo Limpo.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça João Tadeu Priolli, o logradouro sem denominação, localizado na Rua Aroldo de Azevedo - CADLOG 02297/7, entre a Rua Louis Boulanger, CADLOG 64116/2 e Rua Lupicínio Rodrigues, CADLOG 00043/4, PARALELA à Rua Dr. Joviano Pacheco Aguirres, CADLOG 29887/5, Distrito do Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12895",
+   "short": "Lei 12895/1999",
+   "title": "Lei nº 12.895, de 29/10/1999 (APROVA TRACADO DE FAIXA DE TERRENO NO DISTRITO DE PARELHEIROS, E DA OUTRAS PROVIDENCIAS. (PL 583/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12895-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12895",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12895-de-29-de-outubro-de-1999",
+     "sha256": "ced8cc9c97998c9037ea2ac4dfd70ec53e6347eaad4ebaa2ea7983af3ce41409",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.895, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 583/98, do Executivo)\nAprova traçado de faixa de terreno no distrito de Parelheiros, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa nº 26.833-F-737, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado traçado de faixa de terreno destinado à abertura de viela sanitária ou a constituir servidão \"non aedificandi\", no trecho compreendido entre a Rua Domenico Lanzetti e o córrego existente no local, paralelo à Rua Luigi Caruso, no distrito de Parelheiros, com largura de 3,00 metros e extensão aproximada de 77,00 metros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Se a faixa de terreno a que se refere o artigo anterior for utilizada para a abertura de viela sanitária, os lotes lindeiros, bem como as edificações neles erigidas, relativas a construções, reconstruções ou reformas, não poderão ter, para ele, qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANDRÉ MONTEIRO DE FAZIO, Secretário de Vias Públicas\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12896",
+   "short": "Lei 12896/1999",
+   "title": "Lei nº 12.896, de 29/10/1999 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DO JAGUARE, E DA OUTRAS PROVIDENCIAS. (PL 404/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12896-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12896",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12896-de-29-de-outubro-de-1999",
+     "sha256": "63bed26fecb85f87273186cc492461008994e05807bcda7c9719c9b583b6dc4c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.896, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 404/98, do Vereador Carlos Zarattini - PT)\nDenomina logradouro público inominado situado no Distrito do Jaguaré, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Praça do Relógio do Jaguaré\" o logradouro público delimitado pela Rua Salatiel de Campos, situado no Distrito do Jaguaré.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12897",
+   "short": "Lei 12897/1999",
+   "title": "Lei nº 12.897, de 29/10/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12897-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12897",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12897-de-29-de-outubro-de-1999",
+     "sha256": "a8d1510e531343aac9baf9c34019c3c7fb8b7820adae2beb1b29ca25f085ee12",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.897, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 467/98, do Vereador Dito Salim - PPB)\nDenomina Rua Apóstolo Tiago Maior o logradouro público inominado, situado no Bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo aseguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Tiago Maior o logradouro público inominado, conhecido por Rua 4-G, com início na Rua Eduardo Sanchez e término na Rua 2G (quadras 12G, 13G, 15G e 3G), loteamento Conjunto Santa Etelvina VII, no Bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12898",
+   "short": "Lei 12898/1999",
+   "title": "Lei nº 12.898, de 29/10/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12898-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12898",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12898-de-29-de-outubro-de-1999",
+     "sha256": "c34b875c08cc9d5b27522c381deb3ca643ce53bed231c17bcb85f802d2fec947",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.898, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 472/98, do Vereador Dito Salim - PPB)\nDenomina Rua Apóstolo Mateus o logradouro público inominado, situado no Bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Mateus o logradouro público inominado, conhecido por Rua D-G, com início na Rua 4-G e término na Rua Moisés de Corena (quadras 8G e 9G), loteamento Conjunto Santa Etelvina VII, no Bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12900",
+   "short": "Lei 12900/1999",
+   "title": "Lei nº 12.900, de 29/10/1999 (DENOMINA PRACA GERALDO PASTORE LOGRADOURO PUBLICO INOMINADO SITUADO NA VILARE, DISTRITO DA PENHA, E DA OUTRAS PROVIDENCIAS. (PL 457/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12900-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12900",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12900-de-29-de-outubro-de-1999",
+     "sha256": "f8ad967561795f5a7d19ae3e99db6d7a3a290b382a802b10a88abfb4251b5fa9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.900, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 457/98, do Vereador Luiz Paschoal - PTB)\nDenomina Praça Geraldo Pastore logradouro público inominado situado na Vila Ré, Distrito da Penha, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Geraldo Pastore o logradouro público inominado, limitado pelas Ruas Monte das Gameleiras, Municipal e Wadih Hatti, situado na Vila Ré, Distrito da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12901",
+   "short": "Lei 12901/1999",
+   "title": "Lei nº 12.901, de 29/10/1999 (DENOMINA TRAVESSA BRUNO PAULO MAIER LOGRADOURO PUBLICO INOMINADO SITUADO NAVILA TALARICO - DISTRITO DE VILA MATILDE, E DA OUTRAS PROVIDENCIAS. (PL 695/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12901-de-29-de-outubro-de-1999",
+   "first_law": "lei-1999-12901",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12901-de-29-de-outubro-de-1999",
+     "sha256": "e52a5e13092f8599be1db9c184d78bf445452fd8228bb92f7a4693d3f465c16c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.901, 29 DE OUTUBRO DE 1999\n(Projeto de Lei nº 695/98, do Vereador Luiz Paschoal - PTB)\nDenomina Travessa Bruno Paulo Maier logradouro público inominado situado na Vila Talarico - Distrito de Vila Matilde, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Bruno Paulo Maier o logradouro público inominado com início na altura do número 143 da Rua Fernão Albernaz e término na Rua Bernadelle (setor 113 - quadra 039), Codlog 69.243-3, localizado na Vila Talarico - Distrito de Vila Matilde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12902",
+   "short": "Lei 12902/1999",
+   "title": "Lei nº 12.902, de 03/11/1999 (DENOMINA \"SILVIO CALDAS\" AS ARQUIBANCADAS LATERAIS DO POLO CULTURAL GRANDE OTELO. (PL 63/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12902-de-3-de-novembro-de-1999",
+   "first_law": "lei-1999-12902",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12902-de-3-de-novembro-de-1999",
+     "sha256": "ac319ef7fb8e73e79acfb60e566744b9fbd0cec36a8dd11e4e5d16091d42a710",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.902, 3 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 63/98, do Vereador Paulo Frange - PPB)\nDenomina \"Sílvio Caldas\" as arquibancadas laterais do Polo Cultural Grande Otelo.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam denominadas \"Silvio Caldas\", as arquibancadas laterais do Polo Cultural Grande Otelo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nRODOLFO OSVALDO KONDER, Secretário Municipal de Cultura\nPublicada na Secretaria do Governo Municipal, em 3 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12903",
+   "short": "Lei 12903/1999",
+   "title": "Lei nº 12.903, de 11/11/1999 (DENOMINA TRAVESSA JORNALISTA OCTAVIO MUNIZ LOGRADOURO PUBLICO SITUADO NA VILA HELENA, DISTRITO DE MOEMA. (PL 602/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12903-de-11-de-novembro-de-1999",
+   "first_law": "lei-1999-12903",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12903-de-11-de-novembro-de-1999",
+     "sha256": "b5ac8871a5d29f1ce4e90c05d9c5cb2d47cf556d0114ac69f7cbb90c5835c02c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.903, 11 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 602/98, do Vereador Ivo Morganti - PFL)\nDenomina Travessa Jornalista Octávio Muniz logradouro público situado na Vila Helena, Distrito de Moema.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Jornalista Octávio Muniz o logradouro público inominado com início na Rua Tuim e término na Rua Inhambu (Codlog 37.319-2), localizado na Vila Helena, Distrito de Moema.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nRODOLFO OSVALDO KONDER, Secretário Municipal de Cultura\nPublicada na Secretaria do Governo Municipal, em 3 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12904",
+   "short": "Lei 12904/1999",
+   "title": "Lei nº 12.904, de 12/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12904-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12904",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12904-de-12-de-novembro-de-1999",
+     "sha256": "91eceaebf0c12f1f86181ba52d1757e525a05633ddfab2b7bebbe664fb69c7ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.904, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 471/98, do Vereador Dito Salim - PPB)\nDenomina Rua Apóstolo Bartolomeu logradouro público inominado, situado no Bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Bartolomeu o logradouro público inominado, conhecido por Rua C-G, com início na Rua 8-G e término na Rua Moisés de Corena (quadras 17G, 16G, 8G e 6G), loteamento Conjunto Santa Etelvina VII, no Bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA,PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12905",
+   "short": "Lei 12905/1999",
+   "title": "Lei nº 12.905, de 12/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12905-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12905",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12905-de-12-de-novembro-de-1999",
+     "sha256": "b548269c2ffda579b6aaba35b7d7627084388638b76442686892fd1aeca61111",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.905, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 474/98, do Vereador Dito Salim - PPB)\nDenomina Rua Apóstolo Tomé logradouro público inominado, situado no Bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Tomé o logradouro público inominado, conhecido por Rua 5-G, com início na Rua 4-G e término na Rua Moisés de Corena (quadras 9G e 10G), loteamento Conjunto Santa Etelvina VII, no Bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12906",
+   "short": "Lei 12906/1999",
+   "title": "Lei nº 12.906, de 12/11/1999 (DENOMINA CARLOS BUENO A TRAVESSA LOCALIZADA ENTRE A PCA. RIBEIRA DAS NAUS EA R. DR. JOAO TONIOLO, BAIRRO JARDIM SAO JOSE - PIRITUBA. (PL 558/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12906-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12906",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12906-de-12-de-novembro-de-1999",
+     "sha256": "b127c875b1091aa1e1c596d7d093e47731957be97f6c917e76562472c69845c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.906, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 558/98, do Vereador Paulo Frange - PTB)\nDenomina Carlos Bueno a travessa localizada entre a Pça. Ribeira das Naus e a R. Dr. João Toniolo, bairro Jardim São José - Pirituba.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Carlos Bueno a travessa localizada entre a Pça. Ribeira das Naus e a R. Dr. João Toniolo, bairro Jardim São José - Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes desta lei, correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12907",
+   "short": "Lei 12907/1999",
+   "title": "Lei nº 12.907, de 12/11/1999 (DENOMINA PRACA JOSE ANTONIADE INGLEZ O LOGRADOURO PUBLICO DELIMITADO PELARUA ANTONIA TERESA DE PAULA MATIAS COM RUA EUDELIO RAMOS, JARDIM DANFER. (PL 650/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12907-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12907",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12907-de-12-de-novembro-de-1999",
+     "sha256": "0e05a41268c08915809d5cc044d8b5c7621573b2b0c77d816d716b6f120c04a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.907, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 650/98, do Vereador Toninho Paiva - PFL)\nDenomina Praça José Antoníade Inglez o logradouro público delimitado pela Rua Antonia Teresa de Paula Matias com Rua Eudelio Ramos, Jardim Danfer.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça José Antoníade Inglez o logradouro público delimitado pela Rua Antonia Teresa de Paula Matias com a Rua Eudelio Ramos, Jardim Danfer.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12908",
+   "short": "Lei 12908/1999",
+   "title": "Lei nº 12.908, de 12/11/1999 (DENOMINA PRACA REINALDO HAGGE O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS ARAPUE E ACAI, CIDADE LIDER. (PL 673/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12908-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12908",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12908-de-12-de-novembro-de-1999",
+     "sha256": "48b45ee528a674e4456dac3b70e04d2fc83069afb8a649a9fb8567ef9b57ccc3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.908, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 673/98, do Vereador Toninho Paiva - PFL)\nDenomina Praça Reinaldo Hagge o espaço livre sem denominação, delimitado pelas Ruas Arapuê e Açaí, Cidade Líder.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Reinaldo Hagge o espaço livre sem denominação, delimitado pelas Ruas Arapuê e Açaí, Cidade Líder.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FEREREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12909",
+   "short": "Lei 12909/1999",
+   "title": "Lei nº 12.909, de 12/11/1999 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA ANDRADE - DISTRITO DEVILA ANDRADE, E DA OUTRAS PROVIDENCIAS. (PL 659/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12909-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12909",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12909-de-12-de-novembro-de-1999",
+     "sha256": "f0f48fbe1c4413eca77211b35b716a3b6d73f6c08444c1eb159fbc76f879d98d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.909, 12 DE novembro DE 1999\n(Projeto de Lei nº 659/98, do Vereador Brasil Vita - PPB)\nDenomina logradouro público inominado situado na Vila Andrade - Distrito de Vila Andrade, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Praça Lela Ambuba\" o logradouro público inominado situado na confluência das Ruas Delegado Moraes Novaes e Rua Clarindo localizado na Vila Andrade - Distrito da Vila Andrade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FEREREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12910",
+   "short": "Lei 12910/1999",
+   "title": "Lei nº 12.910, de 12/11/1999 (DENOMINA TRAVESSA AURORA DO CEU CORREA, LOGRADOURO PUBLICO INOMINADO, SITUADO NO BAIRRO TATUAPE. (PL 653/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12910-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12910",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12910-de-12-de-novembro-de-1999",
+     "sha256": "51b38f65c990c6e29970a30719b2496463c948807bacb645488f14d9f698e7c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.910, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 653/98, do Vereador Toninho Paiva - PFL)\nDenomina Travessa Aurora do Céu Correa, logradouro público inominado, situado no Bairro Tatuapé.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Aurora do Céu Correa, o logradouro público inominado, com início na Rua Maria Eugênia, altura do nº 375 (Setor 062 - Quadra 111), Bairro Tatuapé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FEREREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12911",
+   "short": "Lei 12911/1999",
+   "title": "Lei nº 12.911, de 12/11/1999 (DENOMINA PRACA EVA KOVACS O ESPACO PUBLICO INOMINADO DELIMITADO PELA RUA JOAO SCACIOTTI E AVENIDA ADIBO ARES, JARDIM GUEDALA, DISTRITO DO MORUMBI. (PL441/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12911-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12911",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12911-de-12-de-novembro-de-1999",
+     "sha256": "5aea9ad5b3462cee5c944f5ce8ce2ecb016c3748a1a5f75b76110d30603837f2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.911, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 441/98, da Vereadora Ana Maria Quadros -PSDB)\nDenomina Praça Eva Kovacs o espaço público inominado delimitado pela Rua João Scaciotti e Avenida Adibo Ares, Jardim Guedala, Distrito do Morumbi.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Eva Kovacs o espaço público inominado, delimitado pela Rua João Scaciotti e Avenida Adibo Ares, Jardim Guedala, Distrito do Morumbi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12912",
+   "short": "Lei 12912/1999",
+   "title": "Lei nº 12.912, de 12/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12912-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12912",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12912-de-12-de-novembro-de-1999",
+     "sha256": "3786e556853e482852475826f3c0e38436569509ac720056e47e8a4391a831e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.912, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 595/98, do Vereador Wadih Mutran - PPB)\nDenomina Via de pedestre Secundina Augusta Santos, logradouro público inominado, com início na Av. Roland Garros, altura do nº 921 (Setor 066 - Quadra:208).\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Via de pedestre Secundina Augusta Santos, o logradouro público inominado, com início na Av. Roland Garros, altura do nº 921 (Setor 066 - Quadra:208).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12913",
+   "short": "Lei 12913/1999",
+   "title": "Lei nº 12.913, de 12/11/1999 (DENOMINA TRAVESSA SAO PAULO O LOGRADOURO PUBLICO, QUE TEM INICIO NA RUA FERRUCIO SANDOLI (SETOR 172 - QUADRA: 118), BAIRRO AMERICANOPOLIS. (PL 685/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12913-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12913",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12913-de-12-de-novembro-de-1999",
+     "sha256": "c918515d1f990fa456d730fa13fcece675b9a5201c11ed69afac76bf10d914ca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.913, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 685/98, do Vereador Arselino Tatto -PT)\nDenomina Travessa São Paulo o logradouro público, que tem início na Rua Ferrucio Sandoli (Setor 172 - Quadra: 118), Bairro Americanópolis.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa São Paulo, logradouro público inominado, com início na Rua Ferrucio Sandoli (Setor 172 - Quadra: 118), Bairro Americanópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12914",
+   "short": "Lei 12914/1999",
+   "title": "Lei nº 12.914, de 12/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12914-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12914",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12914-de-12-de-novembro-de-1999",
+     "sha256": "cc36f3aa8cebfd256b8357bd6913039dfc0cd95fc8c418a7cb3459bc602868c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.914, 12 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 470/98, do Vereador Dito Salim -PPB)\nDenomina Rua Apóstolo Judas Tadeu o logradouro público inominado, situado no bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Judas Tadeu o logradouro público inominado, conhecido por Rua A-G, com início na Rua 4-G e término na Rua Moisés de Corena (quadras 4G e 5G), loteamento Conjunto Santa Etelvina VII, no bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12915",
+   "short": "Lei 12915/1999",
+   "title": "Lei nº 12.915, de 12/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12915-de-12-de-novembro-de-1999",
+   "first_law": "lei-1999-12915",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12915-de-12-de-novembro-de-1999",
+     "sha256": "05749a3c5e804b180b86150a5e28d06fc428d2b4ba77f7613c1b594b39fb14c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.915, 12 DENOVEMBRO DE 1999\n(Projeto de Lei nº 468/98, do Vereador Dito Salim -PPB)\nDenomina Rua Apóstolo Filipe o logradouro público inominado, situado no bairro do Barro Branco - Distrito de Cidade Tiradentes, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo Filipe o logradouro público inominado, conhecido por Rua B-G, com início na Rua 4-G e término na Rua Moisés de Corena (quadras 5G e 6G), loteamento Conjunto Santa Etelvina VII, no bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12916",
+   "short": "Lei 12916/1999",
+   "title": "Lei nº 12.916, de 24/11/1999 (DENOMINA RUA ORLANDO PELLICCI O LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE CIDADE LIDER, E DA OUTRAS PROVIDENCIAS. (PL 701/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12916-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12916",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12916-de-24-de-novembro-de-1999",
+     "sha256": "ee1e38439e3e28ade5b3e9c910c0214733ffa6175a84b0432cbc65da51990f80",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.916, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 701/98, do Vereador Dito Salim - PPB)\nDenomina Rua Orlando Pellicci o logradouro público inominado situado no Distrito de Cidade Líder, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Orlando Pellicci o logradouro público inominado, com início no logradouro formado pelo primeiro trecho da Avenida 1 e Rua 5, codlog 44.635-1, setor 147 - quadras 331 e 332, no Distrito de Cidade Líder.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12917",
+   "short": "Lei 12917/1999",
+   "title": "Lei nº 12.917, de 24/11/1999 (DENOMINA PRACA SEMENTES DO AMANHA LOGRADOURO PUBLICO INOMINADO NO DISTRITO DE VILA FORMOSA, E DA OUTRAS PROVIDENCIAS. (PL 735/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12917-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12917",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12917-de-24-de-novembro-de-1999",
+     "sha256": "0a68f89228fb39c0613b2061bc6c4950d2a741e24e925f918b955bc19b2e6257",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.917, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 735/98, do Vereador Emílio Meneghini - PPB)\nDenomina Praça Sementes do Amanhã logradouro público inominado no Distrito de Vila Formosa, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Sementes do Amanhã o logradouro público inominado delimitado pelas Ruas Araiporanga e Mandioré (setor 055 - quadra 267), Distrito de Vila Formosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12918",
+   "short": "Lei 12918/1999",
+   "title": "Lei nº 12.918, de 24/11/1999 (DENOMINA TRAVESSA STEPHAN JAGOCHITZ FILHO LOGRADOURO PUBLICO SITUADO NA VILA CLARISSE, DISTRITO DE PIRITUBA. (PL 598/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12918-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12918",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12918-de-24-de-novembro-de-1999",
+     "sha256": "c2377f9aaaf395b04346d8a34e536f94660426c97d24834da37a68152adcd678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.918, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 598/98, do Vereador Celso Cardoso - PPB)\nDenomina Travessa Stephan Jagochitz Filho logradouro público situado na Vila Clarisse, Distrito de Pirituba.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Stephan Jagochitz Filho o logradouro público inominado com início na Rua José Tomas de Souza e término na Rua Nuno Mendes Torres, Codlog nº 68.630 - 1, na Vila Clarisse, no Distrito de Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12922",
+   "short": "Lei 12922/1999",
+   "title": "Lei nº 12.922, de 24/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12922-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12922",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12922-de-24-de-novembro-de-1999",
+     "sha256": "988898e6ecef3689f01fc3d7f8b8c4f20a575e56e6b36d1299faf0dbce1c1d4a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.922, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 663/98, do Vereador Wadih Mutran - PPB)\nDenomina Viela Francisca de Araújo Souza logradouro público inominado situado no Bairro Jardim Brasil - Distrito de Vila Medeiros, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Francisca de Araújo Souza o logradouro público inominado, com início na Avenida Mendes da Rocha, altura do número 1374, Codlog 46.772-3, Setor 066 - Quadra 135, Jardim Brasil, Distrito de Vila Medeiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12923",
+   "short": "Lei 12923/1999",
+   "title": "Lei nº 12.923, de 24/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12923-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12923",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12923-de-24-de-novembro-de-1999",
+     "sha256": "634e1191fc667e82b5f647bdb22f85d098c8b8c91c77a48b1bbe6533449790ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.923, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 700/98, do Vereador José Viviani Ferraz - PL)\nFica denominado Rua Cosmo Di Sandro, Código Cadlog 46.823-3, o logradouro conhecido por Rua \"12\", que começa na Rua \"7\" (Quadra \"Q\") e termina aproximadamente 100 metros além do seu início em balão de retorno, situado no Distrito do Jaraguá, pertencente ao Conjunto Habitacional Morro Grande (Setor 215 - Quadra 996 - AR/PJ).\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Cosmo Di Sandro, Código Cadlog 46.823-3, o logradouro conhecido por Rua \"12\", que começa na Rua \"7\" (Quadra \"Q\") e termina aproximadamente 100 metros além do seu início em balão de retorno, situado no Distrito do Jaraguá, pertencente ao Conjunto Habitacional Morro Grande (Setor 215 - Quadra 996 - AR/PJ).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da implantação desta lei, correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12927",
+   "short": "Lei 12927/1999",
+   "title": "Lei nº 12.927, de 24/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12927-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12927",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12927-de-24-de-novembro-de-1999",
+     "sha256": "088244769d2b80d31eae75534efcb9025cfc2c49b72c89c962ae7e5cc11f3c8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.927 , 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 02/99, do Executivo)\nDispõe sobre o reenquadramento de cargos e funções, que especifica, da Guarda Municipal de Cemitérios do Serviço Funerário do Município de São Paulo, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 9 de novembro 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Os cargos que integram o Quadro dos Profissionais da Guarda Municipal de Cemitérios do Serviço Funerário do Município de São Paulo ficam com a quantidade, as denominações, referências de vencimentos e formas de provimento estabelecidas na conformidade da coluna \"Situação Nova\" do Anexo Único, integrante desta lei, que discrimina também as Partes e Tabelas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Aos cargos de que trata o artigo anterior aplicam-se:\nI - As disposições dos artigos 8º a 13, 26 e 44 da Lei nº 11.715, de 3 de janeiro de 1995, ressalvada a competência do Superintendente do Serviço funerário do Município de São Paulo para a prática dos atos decisórios neles referidos;\nII - A Escala de Padrões de Vencimentos constante do Anexo II integrante da lei mencionada no inciso anterior, atualizada nos termos da legislação vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Os servidores admitidos ou contratados nos termos da Lei nº 9.160, de 3 de dezembro de 1980, para funções de Guarda Municipal de Cemitérios, Referência NM-1, ficam com os salários fixados na Referência QPG-01, aplicando-se-lhes o disposto nos artigos 2º, inciso II e 4º desta lei e nos artigos 26, 40,41 e 44 da Lei nº 11.715, de 3 de janeiro de 1995.\nParágrafo único - As funções de que trata o \"caput\" deste artigo ficam destinadas à extinção na vacância.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Os titulares dos cargos de que trata esta lei ficam sujeitos ao Regime Especial de Trabalho Policial - RETP, instituído pelo artigo 12 da Lei nº 10.272, de 6 de abril de 1987, na redação conferida pelo artigo 1º da Lei nº 10.718, de 21 de dezembro de 1988, e legislação posterior.\n§ 1º - Pela sujeição ao regime de que trata o \"caput\" deste artigo, será atribuída ao servidor a correspondente gratificação.\n§ 2º - A gratificação de que trata o parágrafo anterior incorpora-se aos vencimentos para todos os efeitos legais e é inacumulável com qualquer outra vantagem decorrente de jornadas ou regimes especiais de trabalho.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O disposto nesta lei aplica-se aos aposentados e pensionistas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Os ônus financeiros decorrentes da extensão dos benefícios previstos nesta lei às pensões concedidas pelo Instituto de Previdência Municipal de São Paulo - IPREM, a partir da data do enquadramento, serão suportados pelo Serviço Funerário do Município de São Paulo.\nParágrafo único - O Serviço Funerário do Município de São Paulo realizará repasses mensais ao Instituto de Previdência Municipal de São Paulo - IPREM, mediante a comprovação das despesas de que trata o \"caput\" deste artigo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Ficam ratificados os atos praticados com base nas Resoluções nº 05, de 2 de março de 1995, e nº 12, de 10 de julho de 1997, do Serviço Funerário do Município de São Paulo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias do Serviço Funerário do Município de São Paulo, suplementadas, se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 2 de março de 1995, exceto quanto ao disposto nos parágrafos do artigo 4º, cujos efeitos retroagirão a 10 de julho de 1997.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nJOSÉ ANTONIO DE FREITAS, Secretário Municipal da Administração\nMÁRCIA HELOISA PEREIRA DA SILVA BUCCOLO, Secretária de Serviços e Obras\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Municipal\nANEXO ÚNICO A QUE SE REFERE O ARTIGO 1º DA LEI Nº 12.927, DE 24 DE NOVEMBRO DE 1999\nCARGOS DA GUARDA MUNICIPAL DE CEMITÉRIO DO SERVIÇO\nFUNERÁRIO DO MUNICÍPIO DE SÃO PAULO\nSITUAÇÃO ATUAL SITUAÇÃO NOVA\nNº DE CARGOS DENOMINAÇÃO DO CARGO REF PARTE TABELA Nº DE CARGOS DENOMINAÇÃO DO CARGO REF PARTE TABELA FORMA DE PROVIMENTO\n100 Guarda Municipal de Cemitérios NM-1 PP-III 100 Guarda Municipal de Cemitérios QPG-1 PP-III Mediante concurso público de provas ou de provas e títulos, exigido certificado de conclusão de 2º grau completo ou equivalente e curso de formação específica de, no mínimo, 540 (quinhentos e quarenta) horas, realizado pela Guarda Civil Metropolitana\n25 Encarregado de Segurança NM-1 PS 5 Encarregado de Segurança QPG-1 PS Destinado à extinção na vacânc\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12928",
+   "short": "Lei 12928/1999",
+   "title": "Lei nº 12.928, de 24/11/1999 (DENOMINA RUA APOSTOLO JOAO O LOGRADOURO PUBLICO INOMINADO, CONHECIDO COMO RUA 2-G, LOCALIZADO NO DISTRITO DE CIDADE TIRADENTES. (PL 466/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12928-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12928",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12928-de-24-de-novembro-de-1999",
+     "sha256": "0de427faacd51314f000087dc558700cfdc54fc858bc21dda0a54181e4b11816",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.928, 24 DE NOVEMBRO DE 1999\n(Projeto de Lei nº 466/98, do Vereador Dito Salim - PPB)\nDenomina Rua Apóstolo João o logradouro público inominado, conhecido como Rua 2-G, localizado no Distrito de Cidade Tiradentes.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Apóstolo João o logradouro inominado, conhecido por Rua 2-G, com início na Rua 8-G e término na Rua Moisés Corena (Quadras 16-G, 46-G e 3-G), loteamento Conjunto Santa Etelvina VII, no Bairro do Barro Branco - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12929",
+   "short": "Lei 12929/1999",
+   "title": "Lei nº 12.929, de 24/11/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12929-de-24-de-novembro-de-1999",
+   "first_law": "lei-1999-12929",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12929-de-24-de-novembro-de-1999",
+     "sha256": "4963c27064bd239896d78bf581a23492d394e9e9cda763d826de5e47800830ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.929, 24 DE NOVEMBRO DE 1999\nDenomina rua josé honório da silva, o logradouro público inominado situado no conjunto habitacional morro grande, distrito do jaraguá, e dá outras providências.\n(Projeto de Lei nº 502/98, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua José Honório da Silva, o logradouro público com início na Rua 6, codlog 46.811-8, situado no Conjunto Habitacional Morro Grande, Distrito do Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12939",
+   "short": "Lei 12939/1999",
+   "title": "Lei nº 12.939, de 07/12/1999 (Dispõe sobre a exposição de fitas de vídeo com cenas eróticas e de sexo explícito nas locadoras no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12939-de-07-de-dezembro-de-1999",
+   "first_law": "lei-1999-12939",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-12-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12939-de-07-de-dezembro-de-1999",
+     "sha256": "c10cfda87dccceaab152c40e8cc775d37d78c945dd1aa96ec27bd60f9e47fa03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.939, 7 DE DEZEMBRO DE 1999\n(Projeto de Lei nº 138/98, do Vereador Domingos Dissei - PPB)\nDispõe sobre a exposição de fitas de vídeo com cenas eróticas e de sexo explícito nas locadoras no Município de São Paulo.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 09 de novembro de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam obrigadas as locadoras de vídeo que trabalhem com filmes eróticos e de sexo explícito, a se utilizarem de espaço reservado para expor as fitas assim como o material de propaganda das mesmas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As locadoras deverão restringir o acesso a esse espaço apenas de pessoas maiores de 18 anos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Aos infratores da presente lei, será aplicada pena de multa no valor de 1.000 UFIR.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Os estabelecimentos comerciais em questão terão prazo de 90 (noventa) dias para a adequação, sob pena de cassação do alvará de funcionamento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - As despesas decorrentes da presente lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de dezembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nNAOR GUELFI, Secretário das Administrações Regionais\nANTONIA APARECIDA PEREIRA, Respondendo pelo Expediente da Secretaria da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 7 de dezembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12960",
+   "short": "Lei 12960/1999",
+   "title": "Lei nº 12.960, de 27/12/1999 (Altera a Lei nº 12.831, de 30 de abril de 1999, que institui o Programa de Incentivo ao Trabalho e Requalificação Profissional.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12960-de-27-de-dezembro-de-1999",
+   "first_law": "lei-1999-12960",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12960-de-27-de-dezembro-de-1999",
+     "sha256": "16099e12eb228c74930c424ce3a4f74cf30081f523801710a9469f7e3ba9ced9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.960, 27 DE DEZEMBRO DE 1999\n(Projeto de Lei nº 570/99, do Executivo)\nAltera a Lei nº 12.831, de 30 de abril de 1999, que institui o Programa de Incentivo ao Trabalho e Requalificação Profissional.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O parágrafo 2º do artigo 1º, o artigo 4º e o inciso I do artigo 6º, todos da Lei nº 12.831, de 30 de abril de 1999, passam a vigorar com a seguinte redação:\nI - \"Art. 1º ................................................................\n§ 2º - O Programa de Incentivo e Requalificação Profissional destinará, obrigatoriamente, até 10,0 % (dez por cento) de suas vagas a jovens de 16 (dezesseis) a 18 (dezoito) anos, ficando-lhes vedada a atividade prática insalubre, perigosa ou penosa conforme definição do Ministério do Trabalho, e mais 5,0 % (cinco por cento) das vagas, destinadas aos egressos do sistema penitenciário\".\nII - \"Art. 4º - O Programa oferecerá ao trabalhador desempregado cursos de treinamento e capacitação profissional, com prazo de 6 (seis) meses, prorrogável por mais 3 (três) meses, ministrados por órgãos municipais e entidades reconhecidas por sua notória experiência na formação e qualificação de mão-de-obra, nos termos do decreto regulamentador desta lei.\nParágrafo único - O disposto no \"caput\" deste artigo aplica-se aos cursos de treinamento e capacitação já iniciados, que ficarão automaticamente prorrogados, e àqueles previstos no parágrafo 2º do artigo 1º que se iniciarem após a promulgação desta lei.\"\nIII - \"Art. 6º ...............................................................\nI - comprovar a situação de desemprego de, no mínimo, 6 (seis) meses; e\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ PEREIRA RIBEIRO, Secretário das Finanças\nJOSÉ ANTONIO DE FREITAS, Secretário Municipal da Administração\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1999-12961",
+   "short": "Lei 12961/1999",
+   "title": "Lei nº 12.961, de 27/12/1999",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12961-de-27-de-dezembro-de-1999",
+   "first_law": "lei-1999-12961",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1999-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12961-de-27-de-dezembro-de-1999",
+     "sha256": "2ce3f14d96dc5217a9372cfd62d378655d6bb8b62144d6483a09e20ab69a02af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.961, 27 DE DEZEMBRO DE 1999\n(Projeto de Lei nº 630/99, do Executivo)\nAltera a legislação relativa aos Impostos Predial e Territorial Urbano, concede isenção e desconto do Imposto Predial aos imóveis que especifica, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1999, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam isentos do Imposto Predial, no exercício de 2000, os imóveis construídos, utilizados exclusiva ou predominantemente como residência, com área construída de até 90,00 m² (noventa metros quadrados), de padrões A, B ou C, dos tipos 1 ou 2 da Tabela V, anexa à Lei n.º 10.235, de 16 de dezembro de 1986, e cujo valor venal correspondente, em 1.º de janeiro de 2000, seja igual ou inferior a R$ 21.220,44 (vinte e um mil, duzentos e vinte reais e quarenta e quatro centavos).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para fins de lançamento do Imposto Predial, fica concedido, para o exercício de 2000, desconto de R$ 21.220,44 (vinte e um mil, duzentos e vinte reais e quarenta e quatro centavos) sobre o valor venal de imóveis construídos, utilizados exclusiva ou predominantemente como residência, com área construída de até 90 ,00 m² (noventa metros quadrados), de padrões A, B ou C, dos tipos 1 ou 2 da Tabela V, anexa à Lei n.º 10.235, de 16 de dezembro de l986, e cujo valor venal correspondente, em 1º de janeiro de 2000, seja superior a R$ 21.220,44 (vinte e um mil, duzentos e vinte reais e quarenta e quatro reais) e inferior a R$ 117.894,59 (cento e dezessete mil, oitocentos e noventa e quatro reais e cinqüenta e nove centavos).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Ficam atualizados, na forma do Anexo I, integrante desta lei, os valores unitários de metro quadrado de construção, constantes da Tabela VI, que integra a Lei n.º 10.235, de 16 de dezembro de 1986, com a redação que lhe foi conferida pela Lei n.º 11.960, de 29 de dezembro de 1995, e aprovados os valores unitários de metro quadrado de terreno, contidos na Listagem de Valores constantes do Anexo II, desta lei, a serem considerados para o lançamento dos Impostos Predial e Territorial Urbano, relativo ao exercício de 2000, na forma prevista na legislação específica.\nParágrafo único - Os valores unitários, constantes dos Anexos I e II, incorporam as atualizações introduzidas pelos Decretos nº 36.682, de 30 de dezembro de 1996, nº 37.270, de 30 de dezembro de 1997 e nº 37.782, de 30 de dezembro de 1998, correspondendo àqueles efetivamente utilizados para apuração da base de cálculo dos Impostos Predial e Territorial Urbano do exercício de 1999.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1.º de janeiro de 2000.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 1999, 446º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 1999.\nCARLOS AUGUSTO MEINBERG, Secretário do Governo Municipal\nANEXO I, a que se refere o art. 3º da LEI Nº 12.961, DE 27 DE DEZEMBRO DE 1999\nTABELA VI\nTIPOS E PADRÕES DE CONSTRUÇÃO VALORES UNITÁRIOS DE METRO QUADRADO DE CONSTRUÇÃO PARA 2000\nTipo-Padrão Valor-R$\n1-A 151,86\n1-B 205,45\n1-C 273,32\n1-D 402,00\n1-E 535,99\n2-A 160,77\n2-B 214,36\n2-C 346,10\n2-D 519,14\n2-E 707,58\n3-A 142,93\n3-B 196,51\n3-C 289,44\n3-D 410,92\n4-A 219,75\n4-B 307,80\n4-C 490,30\n4-D 730,64\n5-A 169,71\n5-B 223,31\n5-C 294,78\n5-D 437,73\n5-E 661,09\n6-A 150,07\n6-B 214,36\n6-C 330,53\n6-D 518,14\n***O anexo II a que se refere o art.3º será publicado oportunamente.\nRetificação da publicação do dia 28 de dezembro de 1999\nLEI Nº 12.961, 27 DE DEZEMBRO DE 1999\nNo Art. 2º - Leia-se como segue e não como constou:\n............. em 1º de janeiro de 2000, seja superior a R$ 21.220,44 (vinte e um mil, duzentos e vinte reais e quarenta e quatro centavos) e inferior .............\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

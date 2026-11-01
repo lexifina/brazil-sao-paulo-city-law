@@ -1,0 +1,333 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2000",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "3 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2000-13103": {
+   "label": "Lei nº 13.103, de 22/12/2000",
+   "title": "Dispõe sobre as Diretrizes Orçamentárias para o ano 2001, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2000-12-22",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13103-de-22-de-dezembro-de-2000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2000-13105": {
+   "label": "Lei nº 13.105, de 29/12/2000",
+   "title": "Determina a conversão, para reais, das importâncias fixadas em Unidades Fiscais de Referências - UFIR, na legislação municipal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2000-12-29",
+   "published": "2000-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13105-de-29-de-dezembro-de-2000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2000-13106": {
+   "label": "Lei nº 13.106, de 29/12/2000",
+   "title": "CONCEDE ISENCAO E DESCONTO DO IMPOSTO PREDIAL AOS IMOVEIS QUE ESPECIFICA, EDA OUTRAS PROVIDENCIAS. (PL 371/00)",
+   "kind": "law",
+   "enacted": "2000-12-29",
+   "published": "2000-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13106-de-29-de-dezembro-de-2000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2000-13103",
+   "short": "Lei 13103/2000",
+   "title": "Lei nº 13.103, de 22/12/2000 (Dispõe sobre as Diretrizes Orçamentárias para o ano 2001, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13103-de-22-de-dezembro-de-2000",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2000-13103"
+   ],
+   "versions": [
+    {
+     "from": "2002-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13103-de-22-de-dezembro-de-2000",
+     "sha256": "e4646a802d9eb90aee7a1730f0e756bf220904f521bc2a350f26414bb46f9421",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.103, 22 DE DEZEMBRO DE 2000\n(Projeto de Lei nº 120/00, do Executivo)\nDispõe sobre as Diretrizes Orçamentárias para o ano 2001, e dá outras providências.\nCELSO PITTA, Prefeito em Exercício do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 5 de dezembro de 2000, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA DISPOSIÇÃO PRELIMINAR\nArt. 1º - São estabelecidas, em cumprimento ao disposto no artigo 165, parágrafo 2º, da Constituição, as diretrizes orçamentárias do Município para o exercício de 2001, compreendendo:\nI - as prioridades da administração municipal;\nII - a estrutura e organização dos orçamentos;\nIII - as diretrizes gerais para elaboração e execução dos orçamentos do município e suas alterações;\nIV - as disposições relativas à dívida pública municipal;\nV - as disposições relativas às despesas do Município com pessoal e encargos sociais;\nVI - as disposições sobre alterações na legislação tributária do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS PRIORIDADES DA ADMINISTRAÇÃO MUNICIPAL\nArt. 2º - Em consonância com o artigo 165, parágrafo 2º, da Constituição, as prioridades para o exercício financeiro de 2001 são as especificadas no Anexo de Prioridades que integra esta lei, as quais terão precedência na alocação de recursos na lei orçamentária de 2001, não se constituindo, todavia, em limite à programação das despesas.\nParágrafo único - As metas físicas serão definidas nos próximos 60 (sessenta) dias e serão incluídas, segundo os respectivos projetos e atividades e programas de governo, nos demonstrativos de despesa do projeto de lei orçamentária de 2001, na forma dos anexos definidos pela legislação em vigor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA ESTRUTURA E ORGANIZAÇÃO DOS ORÇAMENTOS\nArt. 3º - O Projeto de Lei Orçamentária anual do Município de São Paulo será elaborado em observância às diretrizes fixadas nesta lei, ao artigo 137 da Lei Orgânica do Município e à legislação federal que estiver em vigor e compreenderá:\nI - o orçamento fiscal referente aos poderes do Município, e seus órgãos;\nII - os orçamentos das entidades autárquicas e fundacionais;\nIII - o orçamento de investimento das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social;\nIV - os orçamentos dos fundos municipais;\nV - o demonstrativo das obras e serviços públicos cujos recursos sejam oriundos de outorga, de concessão, de permissão, de autorização, de cessão, de transmissão ou quaisquer atos do poder público municipal que impliquem em qualquer tipo de reciprocidade por parte da iniciativa privada.\nParágrafo único - A inclusão de determinada obra ou serviço público no demonstrativo a que se refere o inciso V deste artigo não elide a necessidade de autorização legislativa específica, quando couber, nos termos da legislação em vigor.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Os projetos e atividades constantes do programa de trabalho dos órgãos e unidades orçamentárias deverão ser identificados, em conformidade com o disposto no artigo 137, parágrafo 8º, da Lei Orgânica do Município de São Paulo, individualizando-os segundo a sua localização, dimensão, características principais e custo, atribuindo-se as mesmas unidades fiscais de medida para cada projeto e atividade, apresentados em quadros por órgão e este detalhado por administrações regionais, de forma a permitir a quantificação física total padronizada dos produtos e serviços deles decorrentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Os orçamentos das entidades autárquicas e fundacionais compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática de cada órgão, de acordo com as especificações da Lei Federal nº 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, por órgãos, de acordo com a fonte e a origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Os orçamentos dos fundos compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática, de acordo com as especificações da Lei Federal nº 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, de acordo com a fonte e origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - O orçamento de investimento, previsto no artigo 3º, inciso III, desta lei, discriminará para cada empresa:\nI - os objetivos sociais, a base legal de instituição, a composição acionária e a descrição da programação de investimentos para o ano 2001;\nII - o demonstrativo de investimentos especificados por projetos de acordo com as fontes de financiamentos (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes);\nIII - o demonstrativo de fontes e usos especificando a composição dos recursos totais por origem (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes), e das aplicações por natureza de despesa (custeio, serviço da dívida, investimento).\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - A proposta orçamentária, a ser encaminhada pelo Executivo à Câmara Municipal, até 30 de setembro de 2000, compor-se-á de:\nI - mensagem;\nII - projeto de lei orçamentária anual;\nIII - tabelas explicativas, a que se refere o artigo 22, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964;\nIV - tabelas identificando os projetos e atividades, conforme artigo 4º desta lei;\nV - demonstrativos dos efeitos sobre as receitas e despesas decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia;\nVI - relação de projetos e atividades constantes do projeto de lei orçamentária, com sua descrição e codificação, detalhados por elementos de despesa.\nVII - anexo dispondo sobre as medidas de compensação a renúncias de receita e ao aumento de despesas obrigatórias de caráter continuado, de que trata o inciso II do artigo 5º da Lei Complementar nº 101, de 4 de maio de 2000.\n§ 1º - A mensagem que encaminhar o projeto de lei orçamentária anual conterá:\nI - avaliação das necessidades de financiamento do setor público municipal, explicitando receitas e despesas, bem como indicando os resultados primário e nominal;\nII - justificativa da estimativa e da fixação, respectivamente, dos principais agregados da receita e da despesa;\nIII - demonstrativo do cumprimento da legislação que dispõe sobre a aplicação de recursos resultantes de impostos na manutenção e desenvolvimento do ensino, em especial do disposto no artigo 208 da Lei Orgânica do Município de São Paulo.\n§ 2º - Os quadros e tabelas da proposta orçamentária deverão ser encaminhados em suporte físico que permita o imediato processamento eletrônico dos dados, sem prejuízo da apresentação usual, devendo os poderes Executivo e Legislativo prover os recursos necessários ao adequado processamento dessas informações.\n§ 3º - Até 10 (dez) dias após o envio da proposta orçamentária, o Poder Executivo deverá encaminhar 57 (cinqüenta e sete) cópias do referido projeto para a Câmara Municipal, das quais uma será para a Assessoria da Comissão de Finanças e Orçamento e outra para a Biblioteca, 1 (uma) cópia para o Tribunal de Contas do Município de São Paulo, 1 (uma) cópia para o Ministério Público e 1 (uma) cópia para o Fórum de Acompanhamento do Orçamento da Cidade de São Paulo, na forma usual, acompanhada de suporte físico que permita o imediato processamento eletrônico dos dados.\n§ 4º - O Poder Executivo tornará disponíveis, pela rede de computadores Internet, cópia da proposta orçamentária, no mesmo prazo estabelecido pelo § 3º deste artigo, e cópia da lei orçamentária, em até 10 (dez) dias após sua publicação, pela mesma rede.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS DIRETRIZES DA RECEITA\nArt. 9º - As diretrizes da receita para o ano 2001, levando em consideração que a Reforma Tributária ainda tramita no Congresso Nacional, impõem o contínuo aperfeiçoamento da administração dos tributos municipais, com vistas ao incremento real das receitas próprias, bem como a cooperação entre o Poder Público e a iniciativa privada, incluindo a concessão de incentivos fiscais e de direito do uso do solo, que possam vir a contemplar, entre outras, iniciativas que não sejam agressivas ao Meio Ambiente e que contribuam para o desenvolvimento ambientalmente sustentável.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Poderão ser apresentados projetos de lei dispondo sobre as seguintes alterações na área da administração tributária:\nI - atualização da planta genérica de valores do Município;\nII - revisão dos Impostos Predial e Territorial Urbano, inclusive em suas alíquotas, forma de cálculo, condições de pagamento, descontos e isenções;\nIII - instituição de taxas pela prestação de serviços, com a finalidade de custear serviços específicos e divisíveis colocados à disposição da população;\nIV - revisão e atualização da legislação sobre a contribuição de melhoria decorrente de obras públicas;\nV - revisão da legislação sobre o Imposto Sobre Serviços de Qualquer Natureza;\nVI - revisão da legislação sobre a Transmissão Inter-Vivos e de Bens Imóveis e de direitos reais sobre imóveis;\nVII - revisão da legislação sobre as taxas pelo exercício do poder de polícia administrativo;\nVIII - revisão das isenções dos tributos municipais, para manter o interesse público e a justiça fiscal;\nIX - concessão de incentivos fiscais ou outros mecanismos tributários que permitam o atendimento das diretrizes do artigo 9º desta lei.\n§ 1º - Os projetos de lei que objetivem modificações no Imposto Predial e Territorial Urbano deverão explicitar todas as alterações em relação à legislação atual, de tal forma que seja possível calcular o impacto da medida no valor do tributo.\n§ 2º -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Os projetos de lei de concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renuncia de receita deverão estar acompanhados de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes e deverão atender às disposições contidas no art. 14 da Lei Complementar nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O projeto de lei orçamentária poderá computar, na receita:\nI - operações de crédito autorizadas por lei específica, nos termos do artigo 7º, parágrafo 2º, da Lei Federal nº 4.320, de 17 de março de 1964;\nII - operações de crédito a serem autorizadas na própria lei orçamentária;\nIII - os efeitos da aplicação da Emenda Constitucional nº 20/98 (Reforma da Previdência) no que se refere à implantação de Sistema Previdenciário Próprio que prevê contribuição dos servidores municipais;\nIV - os efeitos de programas de alienações de bens imóveis e de incentivos ao pagamento de débitos inscritos na dívida ativa do Município.\nV - os efeitos de privatizações e da concessão dos serviços de saneamento básico para atender à amortização extraordinária relativa ao Contrato de Refinanciamento da Dívida celebrado com a União, em 03.05.2000.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS DIRETRIZES DA DESPESA\nArt. 13 - Além da observância das prioridades fixadas nos termos do artigo 2º, a lei orçamentária somente incluirá novos projetos e despesas obrigatórias de duração continuada se:\nI - tiverem sido adequadamente contemplados todos os que estiverem em andamento;\nII - tiverem perfeitamente definidas suas fontes de custeio;\nIII - os recursos alocados viabilizarem a conclusão de uma etapa ou a obtenção de uma unidade completa, considerando-se as contrapartidas exigidas quando da alocação de recursos federais, estaduais ou de operação de crédito.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A lei orçamentária somente contemplará dotação para investimento com duração superior a um exercício financeiro se o mesmo estiver contido no Plano Plurianual ou em lei que autorize sua inclusão.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Todas as despesas relativas à dívida pública, mobiliária ou contratual, e as receitas que as atenderão, constarão da lei orçamentária.\nParágrafo único - As despesas decorrentes do refinanciamento da dívida celebrada com a União em 3 de maio de 2000 constarão separadamente na lei orçamentária.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - É vedado consignar na lei orçamentária crédito com finalidade imprecisa ou com dotação ilimitada.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A lei orçamentária conterá dotação para reserva de contingência, no valor até 0,1% (um décimo por cento) da receita corrente líquida prevista para o exercício de 2001, destinada ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - No exercício financeiro de 2001, as despesas com pessoal dos Poderes Executivo e Legislativo observarão as disposições contidas nos art. 18, 19 e 20 da Lei Complementar nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Observadas as disposições contidas no artigo anterior, o Executivo poderá encaminhar projetos de lei visando revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, incluindo:\nI - a concessão, absorção de vantagens e aumento de remuneração de servidores;\nII - a criação e a extinção de cargos públicos, bem como a criação, extinção e alteração da estrutura de carreiras;\nIII - provimento de cargos e contratações de emergência estritamente necessárias, respeitada a legislação municipal vigente.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Observadas as disposições contidas no artigo 18, o Legislativo poderá encaminhar projetos de lei ou deliberar sobre projetos de resolução, conforme o caso, visando revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, incluindo:\nI - a concessão, absorção de vantagens e aumento de remuneração de servidores;\nII - a criação e a extinção de cargos públicos, bem como a criação, extinção e alteração da estrutura de carreiras;\nIII - provimento de cargos e contratações de emergência estritamente necessárias, respeitada a legislação municipal vigente.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - A criação ou ampliação de cargos atenderá aos seguintes requisitos:\nI - existência de prévia dotação orçamentária, suficiente para atender às projeções de despesa com pessoal e aos acréscimos dela decorrentes;\nII - inexistência de cargos, funções ou empregos públicos similares vagos e sem previsão de uso na Administração, ressalvada sua extinção ou transformação decorrente das medidas propostas;\nIII - resultar de ampliação decorrente de investimentos ou de expansão de serviços devidamente previstos na lei orçamentária anual.\nParágrafo único - Os projetos de lei ou de resolução de criação ou ampliação de cargos deverão demonstrar, em sua exposição de motivos, o atendimento aos requisitos de que trata este artigo, apresentando o efetivo acréscimo de despesas com pessoal.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - A proposta orçamentária do Tribunal de Contas do Município será encaminhada ao Executivo na forma, prazo e conteúdo estabelecidos por este Poder, devendo aquele órgão, concomitantemente, remeter, à Comissão de Finanças e Orçamento da Câmara Municipal, cópia da referida proposta, para elaboração de parecer sobre a matéria, a ser enviado ao Poder Executivo.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - As despesas com publicidade de interesse do Município restringir-se-ão aos gastos necessários a divulgação de investimentos e serviços públicos efetivamente realizados e de campanhas de natureza educativa ou preventiva, excluídas as despesas com a publicação de editais e outras legais.\nParágrafo único - Os recursos necessários às despesas referidas no \"caput \" deste artigo deverão onerar as seguintes dotações:\nI - Publicações de Interesse do Município;\nII - Publicações de Editais e Outras Legais.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - A Lei Orçamentária poderá autorizar a realocação de recursos, no último trimestre do exercício, entre as Secretarias da Educação, da Assistência Social, da Saúde e da Habitação e Desenvolvimento Urbano.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - Até 30 dias após a publicação do orçamento, o Executivo deverá fixar a programação financeira e o cronograma de execução mensal de desembolso.\nParágrafo único - Deverá ser estabelecida uma programação própria para cada fonte de recursos em função da vinculação legal dos mesmos.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Nos trinta dias após cada bimestre, os titulares dos Poderes Executivo e Legislativo deverão contingenciar dotações orçamentárias e, se necessário, cancelar empenhos e cotas de liquidação de despesa, caso esteja ocorrendo frustração de receitas que implique no não cumprimento das metas de resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais.\n§ 1º - Os valores das metas fiscais constantes do respectivo Anexo, em se tratando de estimativa, são passíveis de variação até o limite de 10% (dez por cento).\n§ 2º - As providências de que trata este artigo não se aplicam às despesas referentes a obrigações constitucionais e legais, inclusive às destinadas ao pagamento do serviço da dívida.\n§ 3º - Não serão objeto de limitação, além do disposto no parágrafo anterior, as despesas ressalvadas no Anexo IV, integrante desta lei, conforme estabelece o artigo 9º, § 2º, \"in fine\", da Lei Complementar nº 101, de 4 de maio de 2000.\n§ 4º - Os valores relativos a Encargos de Manutenção de Postos para o Corpo de Bombeiros e de Construção e Reforma de Postos para o Corpo de Bombeiros, relativos ao item 2 do Anexo IV, deverão ser, no mínimo, equivalentes ao valor total arrecadado em 1998 com a Taxa de Combate a Sinistros, atualizado pelo IPC-FIPE, até junho de 2000.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DAS DISPOSIÇÕES FINAIS\nArt. 27 - No projeto de lei orçamentária, as receitas e despesas poderão ser orçadas segundo os preços vigentes em junho de 2000 ou segundo os preços correntes previstos para o ano 2001.\n§ 1º - Se orçadas a preços vigentes em junho de 2000, a lei orçamentária anual poderá estabelecer critérios de atualização das dotações orçamentárias a serem aplicados durante o exercício de 2001 de forma a manter o valor real dos projetos e atividades previstos no orçamento, tendo como limite o comportamento da receita.\n§ 2º - Caso implementada a sistemática de atualização de que trata o parágrafo anterior, a justificativa para reajuste das dotações orçamentárias deverá discriminar a receita prevista em receita própria e receita de operações de crédito, detalhada a nível de alínea.\n§ 3º - A atualização de que tratam os parágrafos anteriores deste artigo, se acolhida na lei orçamentária, ocorrerá observando-se idêntica proporção para cada projeto e atividade, assim como para os elementos de despesa a eles vinculados.\n§ 4º - Para os efeitos desta lei, considera-se como receita própria o somatório das receitas correntes e de capital, com exceção das receitas de operações de crédito de acordo com as definições dadas pela Lei Federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - O Executivo poderá organizar consultas à população, objetivando o levantamento das expectativas e das necessidades de cada bairro ou regional, com vistas à elaboração da proposta orçamentária.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - As emendas apresentadas ao projeto de lei orçamentária obedecerão o regulamento a ser baixado pela Comissão de Finanças e Orçamento da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Durante o ano, serão encaminhados detalhamento de eventuais alterações referentes ao demonstrativo de que trata o inciso V do artigo 3º desta lei.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Fica o Poder Executivo autorizado a encaminhar, no prazo de 120 (cento e vinte) dias, contados da data de publicação desta lei, projeto de lei propondo Readequação dos Recursos Orçamentários.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de dezembro de 2000, 447º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 22 de dezembro de 2000.\nARNALDO FARIA DE SÁ, Secretário do Governo Municipal\nANEXOS I, II, III E IV INTEGRANTES À LEI Nº 13.103, DE 22 DE DEZEMBRO DE 2000\nANEXO I\nPRIORIDADES NA ALOCAÇÃO DE RECURSOS NA LEI ORÇAMENTÁRIA 2001\nI. O pagamento da amortização extraordinária e das parcelas do refinanciamento da dívida, conforme contrato celebrado com a União, em 03.05.2000;\nII. a implantação do Sistema Previdenciário Próprio dos servidores municipais, nos termos da Emenda Constitucional nº 20/98 e legislação regulamentadora;\nIII. programas específicos de combate ao desemprego e suas conseqüências;\nIV. a implantação do Programa de Renda Mínima;\nV. operação e manutenção do Corpo de Bombeiros;\nVI. programas sociais com ênfase às áreas de educação, saúde, assistência e cultura;\nVII. programas sociais voltados ao atendimento da criança e do adolescente;\nVIII. serviços de manutenção e conservação da cidade;\nIX. serviços de prevenção a enchentes e a acidentes em áreas de risco;\nX. operação e manutenção dos equipamentos urbanos;\nXI. operação e manutenção do trânsito e do transporte coletivo;\nXII. a implantação do Programa Bolsa-Escola e Bolsa-Trabalho;\nXIII. a implantação do Programa Começar de Novo;\nXIV. a implantação do Programa Banco do Povo, com intuito de fornecimento de\ncrédito a micro e pequenos empreendedores;\nXV. estruturação de Sistema Público de Emprego, de forma a desenvolver programas voltados ao atendimento ao trabalhador e realização de cursos profissionalizantes para adolescentes e desempregados;\nXVI. INVESTIMENTOS:\n- Construção de terminais de ônibus, participação na construção do Rodoanel Metropolitano, participação na construção do sistema de transporte público metroviário, implantação de corredores de ônibus, conclusão da primeira linha do programa Veículo Leve sobre Pneus - Fura Fila;\n- Construção de escolas, de creches, de unidades de saúde, de equipamentos culturais e esportivos;\n- Construção de moradias populares de interesse social, com destaque à continuidade do Projeto Cingapura, dos Programas de Mutirões, das Operações Interligadas, do Programa Guarapiranga e Billings, e do reassentamento do programa PROCAV;\n- Obras de infra-estrutura viária, incluindo pavimentação de ruas e avenidas, obras complementares e programas comunitários como o Plano de Pavimentação Urbana Comunitária - PPUC;\n- Obras de canalização e retificação de córregos visando combater enchentes;\n- Ampliação da rede de iluminação pública;\n- Revitalização e recuperação do centro de São Paulo;\n- Implantação de áreas verdes;\n- Implantação de equipamentos de destinação final do lixo;\n- Construção e ampliação de postos do Corpo de Bombeiros.\nANEXO II\nANEXO DE METAS FISCAIS\n1. No balanço de 1999 foram registrados em restos a pagar, incluindo o serviço da dívida a pagar, R$ 1.862,6 milhões. As dotações orçamentárias de \"despesas de exercícios anteriores\", atualizadas em 31.05.2000, somavam R$ 84,3 milhões. Assim, montam a R$ 1.946,9 milhões as despesas realizadas em outros exercícios (principalmente 1999). Portanto, a primeira meta fiscal desta administração é encerrar o exercício de 2000 com equilíbrio orçamentário.\n2. Balanço orçamentário projetado para 31.12.2000 (em milhões de reais)\n2.1 RECEITA\nReceitas Correntes 7.207,8\nReceitas de Capital 165,4\nReceita Total 7.373,2\n2.2 DESPESA\nCréditos abertos no orçamento 2000 7.646,0\n(-) Economias Orçamentárias (272,8)\nDespesa total a empenhar 7.373,2\n3.Para eliminar eventuais Restos a Pagar, propõe-se:\na) Concentrar esforços na cobrança da dívida ativa do Município, com intensificação dos procedimentos e contratação de terceiros para a base do trabalho (Ex: Banco do Brasil apresentou proposta, sendo que já conta com experiência de cobranças em outras cidades);\nb) Aumento da arrecadação, decorrente da melhoria nos sistemas arrecadadores, (alguns já em andamento na Secretaria das Finanças; Ex: CADAM);\nc) Resultado das privatizações a serem realizadas;\nd) Racionalização das despesas.\n4.As metas fiscais da receita para os próximos 4 anos são as que seguem:\n4.1 Crescimento econômico de 3,0% ao ano;\n4.2 Crescimento de receita de ISS, nos próximos 30 meses, em função do aperfeiçoamento da máquina fiscalizadora e arrecadadora. Prevê-se, nos próximos 6 meses, um \"crescimento\" da ordem de 3,0%, em 2001, de 5,0% e, em 2002, de 6,0%;\n4.3 Crescimento da receita das taxas mobiliárias em função de atualização de cadastro e alterações de legislação;\n4.4 Crescimento da receita da dívida ativa em função da intensificação da cobrança com o novo quadro de procuradores municipais. Estuda-se, também, o auxílio de serviços de terceiros no trabalho;\n4.5 Atualização da Planta Genérica de Valores durante o exercício de 2001, para vigorar em 2002.\n5.As metas fiscais da despesa para os próximos 4 anos são as que se seguem:\n5.1 As despesas com o serviço da dívida (amortizações e juros), incluindo-se o refinanciamento da dívida mobiliária e os encargos dos demais contratos de empréstimos, deverão onerar 13,0% da Receita Líquida Real;\n5.2 As despesas com precatórios não alimentares foram distribuídas em 10 anos, admitindo-se, como hipótese, a aprovação de Emenda Constitucional, já aprovada no Senado Federal e em tramitação na Câmara Federal;\n5.3 Para as despesas com pessoal, foi considerado um crescimento vegetativo.\nANEXO II\nMETAS FISCAIS - Valores em R$ milhões\n1997 1998 1999 2000 2001 2002 2003\nRECEITA TOTAL (A) 6.933,9 7.709,8 6.691,1 7.373,2 7.906,2 7.670,9 7.834,7\nDESPESA SEM GASTOS\nREFERENTES A DÍVIDAS (B) 6.131,2 6.022,5 6.860,3 6.867,9\n6.992,2 6.726,1 6.869,3\nRESULTADO PRIMÁRIO (C=A-B) 802,7 1.687,2 (169,2) 505,3 914,0 944,8 965,4\nENCARGOS DA DÍVIDA (D) 198,4 300,4 216,5 373,2 747,8 741,0 756,7\nAMORTIZAÇÕES DA DÍVIDA (E) 1.082,3 1.550,0 113,0 132,1 166,2 203,8 208,7\nRESULTADO NOMINAL [C - (D+E)] (478,0) (163,2) (498,7) - - - -\nAnos 1997 a 2000: valores correntes\nAno 2001 a 2003: valores de junho/2000\nANEXO III\nANEXO DE RISCOS FISCAIS\n1. Em função de problemas relacionados à aplicação da legislação sobre o reajustamento salarial dos servidores, existe, atualmente, em andamento, um número muito elevado de ações movidas pelo funcionalismo contra a PMSP.\nLevando-se em consideração que as sentenças judiciais têm concedido índices percentuais variados em ações de mesma natureza, torna-se muito difícil uma previsão orçamentária para essa finalidade. Assim, propõem-se incluir uma provisão para essas despesas, nos termos do art. da presente lei.\n2. A Prefeitura tem débitos com as concessionárias de serviços públicos, cujos montantes ainda estão em fase de apuração. Por outro lado, a municipalidade tem créditos junto às concessionárias, principalmente decorrentes de inscrições de tributos não pagos na dívida ativa. Assim, há a necessidade de se efetuar um \"encontro de contas\", cujo resultado, se negativo à Prefeitura, representará despesa adicional aos cofres municipais.\n3. A Prefeitura tem débitos com o IPREM referentes a \"ressarcimentos\" à Autarquia, em decorrência de legislação que concedeu vantagem aos pensionistas. Assim sendo, para não desequilibrar o fundo de capitalização para pagamento das pensões, a Prefeitura deve efetuar esses ressarcimentos. Há que se apurar todos os valores pendentes, razão pela qual essa futura despesa seja incluída neste anexo.\nANEXO IV\nDESPESAS RESSALVADAS DE LIMITAÇÃO\nDespesas referentes ao Corpo de Bombeiros:\na) Encargos de Manutenção de Postos do Corpo de Bombeiros;\nb) Construção e Reforma de Postos para o Corpo de Bombeiros.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.103, de 22/12/2000 was altered by acts of 1 date(s), the latest 2002-12-30."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2000-13105",
+   "short": "Lei 13105/2000",
+   "title": "Lei nº 13.105, de 29/12/2000 (Determina a conversão, para reais, das importâncias fixadas em Unidades Fiscais de Referências - UFIR, na legislação municipal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13105-de-29-de-dezembro-de-2000",
+   "first_law": "lei-2000-13105",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13105-de-29-de-dezembro-de-2000",
+     "sha256": "2eae867c5389848e9241a996536961eb8dc6f6a819d72d4d416bffd04e6794d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.105, 29 DE DEZEMBRO DE 2000\n(Projeto de Lei nº 419/00, do Executivo)\nDetermina a conversão, para reais, das importâncias fixadas em Unidades Fiscais de Referências - UFIR, na legislação municipal, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal de São Paulo, em sessão de 27 de dezembro de 2000, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Os valores que, na legislação vigente, estejam fixados em Unidades Fiscais de Referência - UFIR, serão convertidos em Reais, observando-se a equivalência de R$ 1,0641 (um real e seiscentos e quarenta e um milionésimos de centavos) para cada UFIR, cujo valor ora adotado corresponde àquele fixado para 1º de janeiro de 2000.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A partir do exercício de 2001, inclusive, os valores convertidos na forma do artigo 1º serão atualizados, em 1º de janeiro de cada exercício, pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior.\nParágrafo único - Em caso de extinção do índice previsto no \"caput\" deste artigo, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2000, 447º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2000.\nARNALDO FARIA DE SÁ, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2000-13106",
+   "short": "Lei 13106/2000",
+   "title": "Lei nº 13.106, de 29/12/2000 (CONCEDE ISENCAO E DESCONTO DO IMPOSTO PREDIAL AOS IMOVEIS QUE ESPECIFICA, EDA OUTRAS PROVIDENCIAS. (PL 371/00))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13106-de-29-de-dezembro-de-2000",
+   "first_law": "lei-2000-13106",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13106-de-29-de-dezembro-de-2000",
+     "sha256": "a830a6aeafb48d777f9628f52a8a2d76ab7c169ade25b4ebd1a042cef51b3bd0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.106, 29 DE DEZEMBRO DE 2000\n(Projeto de Lei nº 371/2000, do Executivo)\nConcede isenção e desconto do Imposto Predial aos imóveis que especifica, e dá outras providências.\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2000, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam isentos do Imposto Predial, no exercício de 2001, os imóveis construídos, utilizados exclusiva ou predominantemente como residência, com área construída de até 90,00 m² (noventa metros quadrados), de padrões A, B ou C, dos tipos 1 ou 2 da Tabela V, anexa à Lei nº 10.235, de 16 de dezembro de 1986, e cujo valor venal correspondente, em 1º de janeiro de 2001, seja igual ou inferior a R$ 22.400,00 (vinte e dois mil e quatrocentos reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para fins de lançamento do Imposto Predial, fica concedido, para o exercício de 2001, desconto de R$ 22.400,00 (vinte e dois mil e quatrocentos reais) sobre o valor venal de imóveis construídos, utilizados exclusiva ou predominantemente como residência, com área construída de até 90,00 m² (noventa metros quadrados), de padrões A, B e C, dos tipos 1 ou 2 da Tabela V, anexa à Lei nº 10.235, de 16 de dezembro de 1986, cujo valor venal correspondente, em 1º de janeiro de 2001, seja superior a R$ 22.400,00 (vinte e dois mil e quatrocentos reais) e inferior a R$ 124.380,00 (cento e vinte e quatro mil, trezentos e oitenta reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2001.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2000, 447º da fundação de São Paulo.\nCELSO PITTA, PREFEITO\nEDVALDO PEREIRA DE BRITO, Secretário dos Negócios Jurídicos\nDENIZ FERREIRA RIBEIRO, Secretário das Finanças\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2000.\nARNALDO FARIA DE SÁ, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
