@@ -1,0 +1,2726 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1998-12634": {
+   "label": "Lei nº 12.634, de 06/05/1998",
+   "title": "Dá nova redação aos incisos II e III do artigo 3º da Lei n. 10.309, de 22 de abril de 1987",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12634-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12637": {
+   "label": "Lei nº 12.637, de 06/05/1998",
+   "title": "Dispõe sobre a colocação de placas e faixas de caráter permanente, nos pontos críticos de acidentes e atropelamentos da cidade, alertando pedestres e motoristas sobre o perigo.",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12637-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12641": {
+   "label": "Lei nº 12.641, de 06/05/1998",
+   "title": "DISPOE SOBRE A OBRIGATORIEDADE DO FORNECIMENTO DE PROTETOR DE PAPEL DESCARTAVEL PARA ASSENTO DE BACIA SANITARIA NOS LOCAIS QUE ESPECIFICA, E DA OUTRASPROVIDENCIAS. (PL 183/97)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12641-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12642": {
+   "label": "Lei nº 12.642, de 06/05/1998",
+   "title": "PROIBE O TRAFEGO DE CAMINHOES DE TRANSPORTE COM ESCAPAMENTO NAS PARTES LATERAIS E TRASEIRA, E DA OUTRAS PROVIDENCIAS. (PL 46/96)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12642-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12647": {
+   "label": "Lei nº 12.647, de 06/05/1998",
+   "title": "DENOMINA \"AMBULATORIO DE ESPECIALIDADES DO IPIRANGA FLAVIO GIANNOTTI\", O AMBULATORIO DE ESPECIALIDADES DO IPIRANGA, RUA XAVIER DE ALMEIDA NO BAIRRO DOIPIRANGA. (PL 802/95)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12647-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12648": {
+   "label": "Lei nº 12.648, de 06/05/1998",
+   "title": "DISPOE SOBRE A AQUISICAO E LOTEAMENTO DE AREAS PARA SEREM VENDIDAS A POPULACAO CARENTE, PARA CONSTRUCAO DA CASA PROPRIA, E DA OUTRAS PROVIDENCIAS. (PL790/95)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12648-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12656": {
+   "label": "Lei nº 12.656, de 06/05/1998",
+   "title": "DISPOE SOBRE A PUBLICACAO MENSAL DAS COMPRAS, OBRAS E SERVICOS DOS ORGAOS DA ADMINISTRACAO DIRETA E INDIRETA E DA OUTRAS PROVIDENCIAS. (PL 438/93)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12656-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12657": {
+   "label": "Lei nº 12.657, de 06/05/1998",
+   "title": "OBRIGA OS COMERCIANTES E ANUNCIANTES NO AMBITO DO MUNICIPIO DE SAO PAULO A CORRIGIR OS ERROS GRAMATICAIS EVENTUALMENTE OCORRIDOS NAS FAIXAS, CARTAZES,OUTDOORS E PLACAS DE PUBLICIDADES, E DA OUTRAS PROVIDENCIAS. (PL 928/97)",
+   "kind": "law",
+   "enacted": "1998-05-06",
+   "published": "1998-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12657-de-6-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12660": {
+   "label": "Lei nº 12.660, de 19/05/1998",
+   "title": "DA DENOMINACAO A PRACA SITUADA NO BAIRRO DO BELEM. (PL 307/97)",
+   "kind": "law",
+   "enacted": "1998-05-19",
+   "published": "1998-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12660-de-19-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12661": {
+   "label": "Lei nº 12.661, de 19/05/1998",
+   "title": "DENOMINA \"RUA ROQUE GOMES TRINDADE\" O LOGRADOURO SITUADO NO BAIRRO DO JARAGGUA, E DA OUTRAS PROVIDENCIAS. (PL 461/97)",
+   "kind": "law",
+   "enacted": "1998-05-19",
+   "published": "1998-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12661-de-19-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12662": {
+   "label": "Lei nº 12.662, de 19/05/1998",
+   "title": "DENOMINA \"COMANDANTE JACQUES COUSTEAU\" O VIVEIRO DA PREFEITURA MUNICIPAL DESAO PAULO LOCALIZADO EM CAPELA DO SOCORRO, E DA OUTRAS PROVIDENCIAS. (PL 644/97)",
+   "kind": "law",
+   "enacted": "1998-05-19",
+   "published": "1998-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12662-de-19-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12663": {
+   "label": "Lei nº 12.663, de 19/05/1998",
+   "title": "DENOMINA VIELA EDMUNDO BASILIO, LOGRADOURO PUBLICO INOMINADO, NA VILA ITABERABA - BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 735/97)",
+   "kind": "law",
+   "enacted": "1998-05-19",
+   "published": "1998-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12663-de-19-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12667": {
+   "label": "Lei nº 12.667, de 28/05/1998",
+   "title": "FICA INSTITUIDO O DIA 30 DE MAIO, ANUALMENTE, NO AMBITO DO MUNICIPIO DE SAOPAULO, COMO SENDO O \"DIA DO ESTADO DA CROACIA\". (PL 204/98)",
+   "kind": "law",
+   "enacted": "1998-05-28",
+   "published": "1998-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12667-de-28-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12668": {
+   "label": "Lei nº 12.668, de 28/05/1998",
+   "title": "DENOMINA HOSPITAL PROF. MARIO DEGNI, O HOSPITAL MUNICIPAL LOCALIZADO NA RUALUCAS DE LEYDI, N. 257, VILA ANTONIA, INTEGRANTE DO PAS MODULO 2 - BUTANTA/LAPA. (PL 65/98)",
+   "kind": "law",
+   "enacted": "1998-05-28",
+   "published": "1998-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12668-de-28-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12669": {
+   "label": "Lei nº 12.669, de 28/05/1998",
+   "title": "DENOMINA PRONTO SOCORRO PROF. JOAO CATARIN MEZOMO, O PRONTO SOCORRO MUNICIPAL LOCALIZADO NA AVENIDA QUEIROZ FILHO, N. 313, BAIRRO LAPA, INTEGRANTE DO PAS MODULO 2 - BUTANTA/LAPA. (PL 143/98)",
+   "kind": "law",
+   "enacted": "1998-05-28",
+   "published": "1998-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12669-de-28-de-maio-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12671": {
+   "label": "Lei nº 12.671, de 15/06/1998",
+   "title": "AUTORIZA O EXECUTIVO A FIRMAR CONTRATOS DE CONFISSAO E CONSOLIDACAO DE DIVIDAS ORIGINARIAS DE COMPROMISSOS EXTERNOS, BEM COMO DE REESCALONAMENTO E REFINANCIAMENTO DA DIVIDA EXTERNA DE MEDIO E LONGO PRAZOS, JUNTO AO BANCO DO BRASIL S/A., E DA OUTRAS PROVIDENCIAS. (PL 415/97)",
+   "kind": "law",
+   "enacted": "1998-06-15",
+   "published": "1998-06-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12671-de-15-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12672": {
+   "label": "Lei nº 12.672, de 18/06/1998",
+   "title": "DENOMINA TRAVESSA FLORENCIO GATTO, A TRAVESSA INOMINADA LOCALIZADA NO DISTRITO DE BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 770/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12672-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12673": {
+   "label": "Lei nº 12.673, de 18/06/1998",
+   "title": "DENOMINA PRACA NERSON PARREIRAS GAMA, O LOGRADOURO PUBLICO SEM DENOMINACAO,LOCALIZADO ENTRE AS RUAS CEL. ALBINO REGO, JOSE TEODORO VIEIRA E MANOEL DE OLIVEIRA ROCHA, AR-PIRITUBA/JARAGUA. (PL 773/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12673-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12675": {
+   "label": "Lei nº 12.675, de 18/06/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 413/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12675-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12676": {
+   "label": "Lei nº 12.676, de 18/06/1998",
+   "title": "DENOMINA RUA PROFETA JEREMIAS, O LOGRADOURO INOMINADO, CONHECIDO COMO RUA 4E, NO SETOR 3A DA COHAB TIRADENTES NO DISTRITO DE CIDADE TIRADENTES. (PL 585/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12676-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12677": {
+   "label": "Lei nº 12.677, de 18/06/1998",
+   "title": "DENOMINA PRACA AMIN GHORAYEB, O ESPACO LIVRE, SEM DENOMINACAO, SITUADO NO DISTRITO DE VILA MARIANA - AR-VILA MARIANA. (PL 834/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12677-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12678": {
+   "label": "Lei nº 12.678, de 18/06/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM ANHANGUERA - PARQUEMORRO DOCE, DISTRITO DE ANHANGUERA. (PL 876/97)",
+   "kind": "law",
+   "enacted": "1998-06-18",
+   "published": "1998-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12678-de-18-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12682": {
+   "label": "Lei nº 12.682, de 29/06/1998",
+   "title": "INTRODUZ PARAGRAFO UNICO AO ARTIGO 1. DA LEI N. 11452, DE 06 DE DEZEMBRO DE1993, QUE DISPOE SOBRE O \"DIA DO MACON\". (PL 124/98)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12682-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12687": {
+   "label": "Lei nº 12.687, de 29/06/1998",
+   "title": "DISPOE SOBRE A CRIACAO DO \"DIA DO CLUBE ATLETICO YPIRANGA\", NO AMBITO DO MUNICIPIO DE SAO PAULO. (PL 1052/97)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12687-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12688": {
+   "label": "Lei nº 12.688, de 29/06/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA MARIA, E DA OUTRAS PROVIDENCIAS. (PL 990/97)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12688-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12690": {
+   "label": "Lei nº 12.690, de 29/06/1998",
+   "title": "DENOMINA \"ESCOLA MUNICIPAL DE PRIMEIRO GRAU PROFESSOR JAIRO DE ALMEIDA\" A EMPG EXISTENTE NA RUA RECANTO DOS HUMILDES, SEM NUMERO, EM PERUS, E DA OUTRAS PROVIDENCIAS. (PL 1056/97)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12690-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12693": {
+   "label": "Lei nº 12.693, de 29/06/1998",
+   "title": "DENOMINA ESCOLA MUNICIPAL PROFESSORA RUTH GONCALVES CHAVES DE SIQUEIRA, A ESCOLA MUNICIPAL LOCALIZADA A RUA FIGUEIRA DA POLINESIA, N. 373. (PL 1106/97)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12693-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12694": {
+   "label": "Lei nº 12.694, de 29/06/1998",
+   "title": "DENOMINA PRACA CAPITAO PM EDSON TEIXEIRA O ESPACO LIVRE LOCALIZADO ENTRE ASRUAS BAILIQUE E SAO FLAVIANO - VILA MAFRA - VILA FORMOSA. (PL 255/98)",
+   "kind": "law",
+   "enacted": "1998-06-29",
+   "published": "1998-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12694-de-29-de-junho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12699": {
+   "label": "Lei nº 12.699, de 20/07/1998",
+   "title": "DISPOE SOBRE AS DIRETRIZES ORCAMENTARIAS PARA O ANO DE 1999, E DA OUTRAS PROVIDENCIAS. (PL 211/98)",
+   "kind": "law",
+   "enacted": "1998-07-20",
+   "published": "1998-07-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12699-de-20-de-julho-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12701": {
+   "label": "Lei nº 12.701, de 27/08/1998",
+   "title": "FIXA A MENOR REMUNERACAO BRUTA DOS SERVIDORES MUNICIPAIS, REAJUSTA OS VENCIMENTOS E SALARIOS, NA FORMA QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS. (PL26/98)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12701-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12702": {
+   "label": "Lei nº 12.702, de 27/08/1998",
+   "title": "DENOMINA AVENIDA FERNANDO DA CRUZ ALVES LOGRADOURO PUBLICO INOMINADO NO DISTRITO DE PARELHEIROS. (PL 830/96)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12702-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12703": {
+   "label": "Lei nº 12.703, de 27/08/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO, SITUADO NO JARDIM PERI, E DA OUTRAS PROVIDENCIAS. (PL 1060/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12703-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12705": {
+   "label": "Lei nº 12.705, de 27/08/1998",
+   "title": "DENOMINA RUA PROFESSORA APARECIDA RELVAS O LOGRADOURO PUBLICO INOMINADO, CONHECIDO POR RUA 3, NO DISTRITO DE CIDADE LIDER, E DA OUTRAS PROVIDENCIAS. (PL 1020/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12705-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12706": {
+   "label": "Lei nº 12.706, de 27/08/1998",
+   "title": "DENOMINA RUA HERCULANO JOSE DOS SANTOS, LOGRADOURO PUBLICO LOCALIZADO NO BAIRRO PARQUE MORRO DOCE, DISTRITO DE ANHANGUERA. (PL 907/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12706-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12707": {
+   "label": "Lei nº 12.707, de 27/08/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA INACIO, E DA OUTRAS PROVIDENCIAS. (PL 948/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12707-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12708": {
+   "label": "Lei nº 12.708, de 27/08/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA BELA VISTA, E DA OUTRASPROVIDENCIAS. (PL 1021/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12708-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12709": {
+   "label": "Lei nº 12.709, de 27/08/1998",
+   "title": "DENOMINA RUA VICENTE JOSE DOS SANTOS LOGRADOURO PUBLICO INOMINADO SITUADONO PARQUE MORRO DOCE, DISTRITO DE ANHANGUERA. (PL 858/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12709-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12710": {
+   "label": "Lei nº 12.710, de 27/08/1998",
+   "title": "DENOMINA TRAVESSA ALFREDO JOSE MACIEL O LOGRADOURO PUBLICO INOMINADO COMINICIO NA RUA PROFESSOR JOSE LOURENCO, NA VILA ZATT, DISTRITO DE PIRITUBA. (PL 895/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12710-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12711": {
+   "label": "Lei nº 12.711, de 27/08/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA SAO ROQUE - DISTRITO DE CACHOEIRINHA. (PL 739/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12711-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12713": {
+   "label": "Lei nº 12.713, de 27/08/1998",
+   "title": "DENOMINA PRACA DA EMBAIXADA NORDESTINA EM SAO PAULO LOGRADOURO PUBLICO INOMINADO NO DISTRITO DO BOM RETIRO. (PL 511/97)",
+   "kind": "law",
+   "enacted": "1998-08-27",
+   "published": "1998-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12713-de-27-de-agosto-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12716": {
+   "label": "Lei nº 12.716, de 03/09/1998",
+   "title": "OFICIALIZA O HINO DO TATUAPE PARA MARCAR A VOZ DO BAIRRO DO TATUAPE COM TODA SUA TRADICAO. (PL 514/98)",
+   "kind": "law",
+   "enacted": "1998-09-03",
+   "published": "1998-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12716-de-3-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12717": {
+   "label": "Lei nº 12.717, de 04/09/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA CURUCA. (PL 867/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12717-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12719": {
+   "label": "Lei nº 12.719, de 04/09/1998",
+   "title": "DENOMINA TRAVESSA MONSENHOR JOAO PHEENEY CAMARGO E SILVA O LOGRADOURO PUBLICO INOMINADO LOCALIZADO DO DISTRITO DO IPIRANGA, E DA OUTRAS PROVIDENCIAS. (PL 1183/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12719-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12720": {
+   "label": "Lei nº 12.720, de 04/09/1998",
+   "title": "DENOMINA RUA JOSE MONTES DA SILVA, O LOGRADOURO SEM DENOMINACAO CONHECIDO COMO PASSAGEM 4, CADLOG 70357/5, LOCALIZADO ENTRE A AVENIDA COMENDADOR SANT'ANA, CADLOG 17772/5 E AVENIDA NUNO MARQUES PEREIRA - CADLOG 73517/3, NO JARDIM CLARICE, DISTRITO CAPAO REDONDO. (PL 1089/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12720-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12721": {
+   "label": "Lei nº 12.721, de 04/09/1998",
+   "title": "DENOMINA TRAVESSA ANIBAL QUIRINO XAVIER, O LOGRADOURO PUBLICO INOMINADO CONHECIDO POR RUA QUATRO, SITUADO NO BAIRRO PARADA QUINZE, DISTRITO DE ITAQUERA, E DA OUTRAS PROVIDENCIAS. (PL 1191/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12721-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12724": {
+   "label": "Lei nº 12.724, de 04/09/1998",
+   "title": "FIXA A MENOR REMUNERACAO BRUTA DOS SERVIDORES DA SECRETARIA DA CAMARA MUNICIPAL DE SAO PAULO; REAJUSTA OS VENCIMENTOS E SALARIOS, NA FORMA QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS. (PL 536/98)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12724-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12725": {
+   "label": "Lei nº 12.725, de 04/09/1998",
+   "title": "DENOMINA RUA JAYME COMPRI O LOGRADOURO PUBLICO INOMINADO CONHECIDO POR RUA TRES, LOCALIZADO NO JARDIM LIDER, DISTRITO DE JARAGUA. (PL 1092/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12725-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12726": {
+   "label": "Lei nº 12.726, de 04/09/1998",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA INACIO, PERUS, E DA OUTRAS PROVIDENCIAS. (PL 923/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12726-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12727": {
+   "label": "Lei nº 12.727, de 04/09/1998",
+   "title": "FICA DENOMINADO TRAVESSA ROSA APPARECIDA MORAES O LOGRADOURO PUBLICO INOMINADO, NO BAIRRO JARDIM CIDADE PIRITUBA, DISTRITO DE PIRITUBA, E DA OUTRAS PROVIDENCIAS. (PL 888/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12727-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1998-12728": {
+   "label": "Lei nº 12.728, de 04/09/1998",
+   "title": "DENOMINA RUA MANOEL DE SOUZA PACHECO O LOGRADOURO PUBLICO INOMINADO CONHECIDO POR RUA 36, LOCALIZADO NO JARDIM PAULISTANO, DISTRITO DA FREGUESIA DO O.(PL 1163/97)",
+   "kind": "law",
+   "enacted": "1998-09-04",
+   "published": "1998-09-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12728-de-4-de-setembro-de-1998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1998-12634",
+   "short": "Lei 12634/1998",
+   "title": "Lei nº 12.634, de 06/05/1998 (Dá nova redação aos incisos II e III do artigo 3º da Lei n. 10.309, de 22 de abril de 1987)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12634-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12634",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12634-de-6-de-maio-de-1998",
+     "sha256": "e18c5939a58cdac6c6aacc2d136e9411109468ed6eebbcd840017f8c9a315df7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.634 - DE 6 DE MAIO DE 1998\nDá nova redação aos incisos II e III do artigo 3º da Lei n. 10.309, de 22 de abril de 1987\n(Projeto de Lei n. 311/97, do Vereador Adriano Diogo)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os incisos II e III do artigo 3º da Lei n. 10.309, de 22 de abril de 1987, passam a vigorar com a seguinte redação:\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para efeito desta lei, entende-se por:\nII - AGENTE SANITÁRIO: Médico Veterinário ou biólogo do Centro de Controle de Zoonoses e das Administrações Regionais de Saúde da Secretaria Municipal da Saúde;\nIII - ÓRGÃO SANITÁRIO RESPONSÁVEL:\n\"a\" - Centro de Controle de Zoonoses para prevenção e controle das zoonoses do Município de São Paulo;\n\"b\" - Administrações Regionais de Saúde da Secretaria Municipal da Saúde, para prevenção e controle das zoonoses causadas pelos animais sinantrópicos.\"\nArt. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrario.\nArt. 3º A presente lei deverá ser regulamentada no prazo de 60 (sessenta) dias.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12637",
+   "short": "Lei 12637/1998",
+   "title": "Lei nº 12.637, de 06/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12637-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12637",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12637-de-6-de-maio-de-1998",
+     "sha256": "b3b06311f78c643383132ac8c3a5e97f0ff033ab734ecb3ce5621fdd2eaf1e96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.637 - DE 6 DE MAIO DE 1998\nDispõe sobre a colocação de placas e faixas de caráter permanente, nos pontos críticos de acidentes e atropelamentos da cidade, alertando pedestres e motoristas sobre o perigo.\n(Projeto de Lei n. 394/95, do Vereador Jooji Hato)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Sempre que identificado um ponto crítico de ocorrência de atropelamentos e acidentes de trânsito na cidade de São Paulo, este local receberá, por parte dos órgãos competentes, placas e faixas de advertência, alertando pedestres e motoristas para os perigos do local.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta sinalização deverá ser feita em caráter permanente, utilizando frases de efeito que chamem a atenção da população para o fato de que o local em questão é considerado por residentes locais e autoridades um ponto negro no trânsito da cidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A identificação destes pontos críticos poderá ser feita pela própria população, mediante comprovação por matérias jornalísticas, dados estatísticos ou abaixo-assinados dos moradores da região, devendo o interessado solicitar ao órgão competente do Executivo a instalação da sinalização de advertência.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A sinalização deverá ficar o mais visível e iluminada possível, possibilitando aos usuários a identificação prévia do local.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Executivo, após a colocação das placas e faixas de que trata esta lei, terá, para cada ponto crítico, um prazo de 360 dias para solucionar em definitivo, com a adoção das medidas necessárias, as causas da ocorrência demasiada de acidentes, naquilo que couber ao Poder Público Municipal.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Executivo regulamentará esta lei no prazo de 60 (sessenta) dias a contar de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12641",
+   "short": "Lei 12641/1998",
+   "title": "Lei nº 12.641, de 06/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12641-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12641",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12641-de-6-de-maio-de-1998",
+     "sha256": "2dd77e9b796c02211a7b6c5f8b3f7eef2725f319e416e3901c72ba18ed9307ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.641 - DE 6 DE MAIO DE 1998\nDispõe sobre a obrigatoriedade do fornecimento de protetor de papel descartável para assento de bacia sanitária nos locais que especifica, e dá outras providências.\n(Projeto de Lei n. 183/97, do Vereador José Izar)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É obrigatório o fornecimento de protetor descartável para assento de bacia sanitária em banheiros de utilização pública.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento ao disposto nesta lei em estabelecimentos particulares ensejará multa de 100 (cem) UFIRs, dobrada na reincidência.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O desatendimento ao disposto nesta lei no âmbito da Administração Pública Municipal acarretará ao servidor responsável pelos banheiros públicos à sanção administrativa cabível.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Executivo regulamentará a presente lei no prazo de 45 (quarenta e cinco) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12642",
+   "short": "Lei 12642/1998",
+   "title": "Lei nº 12.642, de 06/05/1998 (PROIBE O TRAFEGO DE CAMINHOES DE TRANSPORTE COM ESCAPAMENTO NAS PARTES LATERAIS E TRASEIRA, E DA OUTRAS PROVIDENCIAS. (PL 46/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12642-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12642",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12642-de-6-de-maio-de-1998",
+     "sha256": "199791292be9627688763763de96e0171a1a2dc0442752f991ca54517a1c2f1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.642 - DE 6 DE MAIO DE 1998\nProíbe o tráfego de caminhões de transporte com escapamento nas partes laterais e traseira, e dá outras providências.\n(Projeto de Lei n. 46/96, do Vereador Toninho Paiva)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibido no Município de São Paulo, o tráfego de caminhões de carga pesada que tenham o escapamento com saída nas partes laterais e traseira do veículo.\nParágrafo único. Para atender as exigências constantes no caput deste artigo, os caminhões somente poderão trafegar com a saída do escapamento colocada acima da cabine do motorista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica estabelecido o prazo de 90 (noventa) dias, contados a partir da regulamentação desta lei, para que os veículos se adaptem ao disposto no artigo anterior e seu parágrafo único.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O não cumprimento do disposto nesta lei acarretará multa de 477 (quatrocentas e setenta e sete) UFIRs - Unidades Fiscais de Referência , dobrada em caso de reincidência.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta lei no prazo de 60 (sessenta) dias, contados de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas para a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12647",
+   "short": "Lei 12647/1998",
+   "title": "Lei nº 12.647, de 06/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12647-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12647",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12647-de-6-de-maio-de-1998",
+     "sha256": "09713d0f5158cdb65a153068fb5c213d48c5c3f66de645a4c172ea8f8348ad5b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.647 - DE 6 DE MAIO DE 1998\nDenomina \"Ambulatório de Especialidades do Ipiranga Flávio Giannotti\", o Ambulatório de Especialidades do Ipiranga, Rua Xavier de Almeida no bairro do Ipiranga.\n(Projeto de Lei n. 802/95, do Vereador Jooji Hato)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar \"Ambulatório de Especialidades do Ipiranga Flávio Giannotti\", o Ambulatório de Especialidades do Ipiranga na Rua Xavier de Almeida, bairro do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da implantação desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12648",
+   "short": "Lei 12648/1998",
+   "title": "Lei nº 12.648, de 06/05/1998 (DISPOE SOBRE A AQUISICAO E LOTEAMENTO DE AREAS PARA SEREM VENDIDAS A POPULACAO CARENTE, PARA CONSTRUCAO DA CASA PROPRIA, E DA OUTRAS PROVIDENCIAS. (PL790/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12648-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12648",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12648-de-6-de-maio-de-1998",
+     "sha256": "de2212d0a0684f163ac7b73b4ef9a7ee0f5232b9390beb5e9324dd131b5f85e9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.648 - DE 6 DE MAIO DE 1998\nDispõe sobre a aquisição e loteamento de áreas para serem vendidas à população carente, para construção da casa própria, e dá outras providências.\n(Projeto de Lei n. 790/95, do Vereador Gilson Barreto)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Executivo deverá, mediante autorização legislativa, adquirir terrenos localizados na periferia do Município, urbanizá-los, loteá-los e transferi-los, a preço de custo, à população de baixa renda, para construção da casa própria.\nParágrafo único. A autorização legislativa para aquisição de terrenos, de que trata o caput deste artigo deverá ser requerida, pelo Executivo, em regime de urgência.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O lote adquirido pelo munícipe, nos termos do artigo 1º desta lei, somente poderá ser vendido após 5 (cinco) anos de sua aquisição e mediante quitação total do débito junto à Prefeitura do Município de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica estabelecido, a partir da vigência desta lei, que 1/3 (um terço) dos recursos do Fundo Municipal da Habitação - FMH, deverão ser destinados à aquisição, urbanização e ao loteamento de terrenos, nos termos do disposto nesta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Executivo regulamentará esta lei no prazo de 60 (sessenta) dias a contar da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12656",
+   "short": "Lei 12656/1998",
+   "title": "Lei nº 12.656, de 06/05/1998 (DISPOE SOBRE A PUBLICACAO MENSAL DAS COMPRAS, OBRAS E SERVICOS DOS ORGAOS DA ADMINISTRACAO DIRETA E INDIRETA E DA OUTRAS PROVIDENCIAS. (PL 438/93))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12656-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12656",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12656-de-6-de-maio-de-1998",
+     "sha256": "9a3f1599b48a50653d8757613f3aea4770a0a23b212b4a79c5446dc8803162d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.656 - DE 6 DE MAIO DE 1998\nDispõe sobre a publicação mensal das compras, obras e serviços dos órgãos da Administração Direta e Indireta, e dá outras providências.\n(Projeto de Lei n. 438/93, do Vereador Adriano Diogo)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os órgãos da Administração Direta e Indireta deverão publicar relação no Diário Oficial do Município de São Paulo, até o décimo dia do mês subseqüente, contendo todas as compras efetuadas no mês anterior.\n§ 1º A relação das compras deverá especificar o material comprado, a empresa fornecedora, o valor da compra, o número do empenho, o prazo do fornecimento e as condições de pagamento.\n§ 2º A relação das compras deverá especificar as alterações contratuais relativas a:\nI - prazo de fornecimento;\nII - condições de pagamento;\nIII - reajuste de preços.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os órgãos da Administração Direta e Indireta deverão publicar relação, no Diário Oficial do Município de São Paulo, até o décimo dia do mês subseqüente, contendo todas as obras e serviços contratados no mês anterior.\nParágrafo único. A relação das obras e serviços deverá especificar a obra ou serviço contratado, a empresa ou profissional contratado, o valor e o prazo do contrato, a dotação orçamentária onerada e as condições de pagamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os órgãos da Administração Direta e Indireta deverão publicar relação, no Diário Oficial do Município de São Paulo, até o décimo dia do mês subseqüente, de todas as obras e serviços em execução no mês anterior, com valor igual ou superior a duas mil Unidades Fiscais do Município.\nParágrafo único. A relação das obras e serviços em execução deverá especificar as alterações contratuais relativas a:\nI - prazo do contrato;\nII - condições de pagamento;\nIII - reajuste de preços.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os órgãos da Administração Direta e Indireta deverão publicar relação, no Diário Oficial do Município de São Paulo, até o décimo dia do mês subseqüente, contendo todas as compras ou alienações de imóveis realizadas no mês anterior com valor igual ou superior a duas mil Unidades Fiscais do Município.\nParágrafo único. A relação das compras ou alienações de imóveis deverá conter a descrição do imóvel, a sua localização, o valor da compra ou alienação e as condições de pagamento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os órgãos da Administração Direta e Indireta encaminharão à Câmara Municipal de São Paulo os editais das licitações de obras, serviços, compras, alienações, concessões e locações, com valores iguais ou superiores a duas mil Unidades Fiscais do Município de São Paulo, em até quarenta e oito horas após a instauração do procedimento licitatório.\n§ 1º O edital, a ser encaminhado à Câmara Municipal de São Paulo, será composto por todas as peças entregues aos licitantes.\n§ 2º O edital será encaminhado à Mesa Diretora da Câmara Municipal de São Paulo, que o remeterá à Comissão Permanente pertinente e à Comissão de Finanças e Orçamento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O disposto nesta lei aplica-se à Câmara Municipal de São Paulo e ao Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Prefeito regulamentará esta lei em trinta dias após a sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas, decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Revogam-se as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12657",
+   "short": "Lei 12657/1998",
+   "title": "Lei nº 12.657, de 06/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12657-de-6-de-maio-de-1998",
+   "first_law": "lei-1998-12657",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12657-de-6-de-maio-de-1998",
+     "sha256": "b3f48f5abf21d8f9fb1212bd108d46976292c83ba9645dae0e1907e4beb30778",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.657 - DE 6 DE MAIO DE 1998\nObriga os comerciantes e anunciantes no âmbito do Município de São Paulo a corrigir os erros gramaticais eventualmente ocorridos nas faixas, cartazes, outdoors e placas de publicidades, e dá outras providências.\n(Projeto de Lei n. 928/97, do Vereador Mohamad Said Mourad)\nNelo Rodolfo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam os comerciantes e anunciantes obrigados a corrigir os erros gramaticais, eventualmente ocorridos nas faixas, cartazes, outdoors e placas de publicidade, no prazo de 30 (trinta) dias subseqüentes à notificação expedida pelo Poder Público.\nParágrafo único. O descumprimento do disposto no caput deste artigo ensejará multa de 500 (quinhentas) UFIR para erros em outdoors e 100 (cem) para os demais meios de divulgação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Cabe ao Poder Público criar uma central de informações com profissionais da área, para orientar e esclarecer dúvidas da Língua Portuguesa, aos interessados.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias a contar da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12660",
+   "short": "Lei 12660/1998",
+   "title": "Lei nº 12.660, de 19/05/1998 (DA DENOMINACAO A PRACA SITUADA NO BAIRRO DO BELEM. (PL 307/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12660-de-19-de-maio-de-1998",
+   "first_law": "lei-1998-12660",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12660-de-19-de-maio-de-1998",
+     "sha256": "f7aa5049b430600d5cc0ae9f0103a1cec529e230dac6dda37fb22dbe246ccf58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.660 - DE 19 DE MAIO DE 1998\nDá denominação à praça situada no Bairro do Belém.\n(Projeto de Lei n. 307/97, do Vereador Hanna Gharib - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar-se Mario Vicente Pedro Piccoli a praça ainda sem nome situada no Bairro do Belém, compreendida entre as ruas do Hipódromo e Ipanema e o leito da Via Férrea São Paulo-Santos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12661",
+   "short": "Lei 12661/1998",
+   "title": "Lei nº 12.661, de 19/05/1998 (DENOMINA \"RUA ROQUE GOMES TRINDADE\" O LOGRADOURO SITUADO NO BAIRRO DO JARAGGUA, E DA OUTRAS PROVIDENCIAS. (PL 461/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12661-de-19-de-maio-de-1998",
+   "first_law": "lei-1998-12661",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12661-de-19-de-maio-de-1998",
+     "sha256": "9f066ac19d11c20e5a2ed4d338bd90da22dafd15b74a771fb89546db5994f5b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.661 - DE 19 DE MAIO DE 1998\nDenomina \"Rua Roque Gomes Trindade\" o logradouro situado no Bairro do Jaraguá, e dá outras providências.\n(Projeto de Lei n. 461/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Rua Roque Gomes Trindade\" o logradouro público conhecido como Rua Nove, localizado no Conjunto Habitacional Jardim Paulistano, no Bairro do Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12662",
+   "short": "Lei 12662/1998",
+   "title": "Lei nº 12.662, de 19/05/1998 (DENOMINA \"COMANDANTE JACQUES COUSTEAU\" O VIVEIRO DA PREFEITURA MUNICIPAL DESAO PAULO LOCALIZADO EM CAPELA DO SOCORRO, E DA OUTRAS PROVIDENCIAS. (PL 644/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12662-de-19-de-maio-de-1998",
+   "first_law": "lei-1998-12662",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12662-de-19-de-maio-de-1998",
+     "sha256": "461ff14ad89275737dbae903212c9539301a2303ece5a32707ff6504436513f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.662 - DE 19 DE MAIO DE 1998\nDenomina \"Comandante Jacques Cousteau\" o Viveiro da Prefeitura Municipal de São Paulo localizado em Capela do Socorro, e dá outras providências.\n(Projeto de Lei n. 644/97, do Vereador Antonio Goulart - PMDB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Comandante Jacques Cousteau\" o Viveiro da Prefeitura Municipal de São Paulo localizado em Capela do Socorro e definido pelo perímetro formado pelas Ruas Norman Prochet, Nova Odessa, Raul Tabajara, Catanumi e Av. Romero Sanson.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12663",
+   "short": "Lei 12663/1998",
+   "title": "Lei nº 12.663, de 19/05/1998 (DENOMINA VIELA EDMUNDO BASILIO, LOGRADOURO PUBLICO INOMINADO, NA VILA ITABERABA - BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 735/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12663-de-19-de-maio-de-1998",
+   "first_law": "lei-1998-12663",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12663-de-19-de-maio-de-1998",
+     "sha256": "44174b579da022a8634cf633da7d9c30035d31a58b186d6ead8e21e65fe80daf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.663 - DE 19 DE MAIO DE 1998\nDenomina Viela Edmundo Basílio, logradouro público inominado, na Vila Itaberaba - Brasilândia, e dá outras providências.\n(Projeto de Lei n. 735/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Edmundo Basílio, o logradouro público inominado conhecido por Viela Um, que liga a Rua Sebastião Fernandes Palma com a Rua Professor Luiz Barbosa, na Vila Itaberaba, Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12667",
+   "short": "Lei 12667/1998",
+   "title": "Lei nº 12.667, de 28/05/1998 (FICA INSTITUIDO O DIA 30 DE MAIO, ANUALMENTE, NO AMBITO DO MUNICIPIO DE SAOPAULO, COMO SENDO O \"DIA DO ESTADO DA CROACIA\". (PL 204/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12667-de-28-de-maio-de-1998",
+   "first_law": "lei-1998-12667",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12667-de-28-de-maio-de-1998",
+     "sha256": "dec6b5c23287db0088f94924ba8682b087e945a2cc29a354b2c44bca2b047729",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.667 - DE 28 DE MAIO DE 1998\nFica instituído o Dia 30 de Maio, anualmente, no âmbito do Município de São Paulo, como sendo o \"Dia do Estado da Croácia\".\n(Projeto de Lei n. 204/98, do Vereador José Índio Ferreira do Nascimento - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de São Paulo, o Dia 30 de Maio como sendo o Dia Nacional do Estado da Croácia, que será comemorado anualmente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído deverá constar do Calendário Oficial de Eventos da Cidade de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo promoverá a divulgação do evento e estimulará, através dos órgãos competentes, a realização de sua programação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12668",
+   "short": "Lei 12668/1998",
+   "title": "Lei nº 12.668, de 28/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12668-de-28-de-maio-de-1998",
+   "first_law": "lei-1998-12668",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12668-de-28-de-maio-de-1998",
+     "sha256": "9a30c7589a93bec38cef85124eda0b993ced8505f900cde36658f85c8848c55c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.668 - DE 28 DE MAIO DE 1998\nDenomina Hospital Prof. Mário Degni, o Hospital Municipal localizado na Rua Lucas de Leydi, n. 257, Vila Antonia, integrante do PAS Módulo 2 - Butantã/Lapa.\n(Projeto de Lei n. 065/98, do Vereador Paulo Frange - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Hospital Professor Mário Degni, o Hospital Municipal localizado na Rua Lucas de Leydi, n. 257, Vila Antonia, integrante do PAS Módulo 2 - Butantã/Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12669",
+   "short": "Lei 12669/1998",
+   "title": "Lei nº 12.669, de 28/05/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12669-de-28-de-maio-de-1998",
+   "first_law": "lei-1998-12669",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12669-de-28-de-maio-de-1998",
+     "sha256": "599ef5ac0006533086f5c5d21940bd4ff871d5d3af30bfeffddce0d91b513bf2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.669 - DE 28 DE MAIO DE 1998\nDenomina Pronto Socorro Prof. João Catarin Mezomo, o Pronto Socorro Municipal localizado na Avenida Queiroz Filho, n. 313, Bairro Lapa, integrante do PAS Módulo 2 - Butantã/Lapa.\n(Projeto de Lei n. 143/98, do Vereador Paulo Frange - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Pronto Socorro Prof. João Catarin Mezomo, o Pronto Socorro Municipal localizado na Avenida Queiroz Filho n. 313, Bairro da Lapa, integrante do PAS Módulo 2 - Butantã/Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12671",
+   "short": "Lei 12671/1998",
+   "title": "Lei nº 12.671, de 15/06/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12671-de-15-de-junho-de-1998",
+   "first_law": "lei-1998-12671",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12671-de-15-de-junho-de-1998",
+     "sha256": "04c43be2ab539897214450cd285bb4c701c2f1847822792f9f2d35d8b33556e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.671 - DE 15 DE JUNHO DE 1998\nAutoriza o Executivo a firmar contratos de confissão e consolidação de dívidas originárias de compromissos externos, bem como de reescalonamento e refinanciamento da dívida externa de médio e longo prazos, junto ao Banco do Brasil S/A, e dá outras providências.\n(Projeto de Lei n. 415/97, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 2 de junho de 1998, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam o Executivo, a Administração Indireta e as Sociedades de Economia Mista autorizados a firmar, junto ao Banco do Brasil S/A, este na qualidade de Agente do Tesouro Nacional, contratos de confissão e consolidação de dívidas originárias de compromissos externos, nos termos da Resolução n. 20, de 20 de junho de 1991, do Senado Federal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam, também, o Executivo, a Administração Indireta e as Sociedades de Economia Mista autorizados a firmar contratos de reescalonamento e refinanciamento da dívida externa de médio e longo prazos - DMLP, junto ao Banco do Brasil S/A, este na qualidade de Agente do Tesouro Nacional, nos termos da Resolução n. 98, de 23 de dezembro de 1992, do Senado Federal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo fica também autorizado a comparecer, como interveniente garantidor, nos contratos referidos nos artigos 1º e 2º, contraídos pela sua Administração Indireta e Sociedades de Economia Mista.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Nos financiamentos de que tratam os artigos 1º e 2º serão observadas as mesmas condições obtidas nos acordos de renegociação firmados pela União com os credores estrangeiros.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Em garantia das operações previstas nos artigos 1º e 2º, o Município oferecerá os créditos de que tratam os artigos 156 e 158, a alínea \"b\", do inciso I, e o inciso II do artigo 159 da Constituição Federal, observada a Emenda Constitucional n. 3, de 17 de março de 1993.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12672",
+   "short": "Lei 12672/1998",
+   "title": "Lei nº 12.672, de 18/06/1998 (DENOMINA TRAVESSA FLORENCIO GATTO, A TRAVESSA INOMINADA LOCALIZADA NO DISTRITO DE BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 770/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12672-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12672",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12672-de-18-de-junho-de-1998",
+     "sha256": "8a56a8d6827add8eab51c32db2ff80a967b8a355827139194eddd034fca0323e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.672 - DE 18 DE JUNHO DE 1998\nDenomina Travessa Florêncio Gatto, a travessa inominada localizada no distrito de Brasilândia, e dá outras providências.\n(Projeto de Lei n. 770/97, do Vereador José Viviani Ferraz PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Travessa Florêncio Gatto a travessa que liga a Rua Colúmbia com a Rua João Caetano Pinto, no Jardim do Tiro, distrito de Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12673",
+   "short": "Lei 12673/1998",
+   "title": "Lei nº 12.673, de 18/06/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12673-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12673",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12673-de-18-de-junho-de-1998",
+     "sha256": "7f7af4ecfc5829ee1f96b5dddf5c6ef8e40a8542ed8f256ee738cddd720dbf0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.673 - DE 18 DE JUNHO DE 1998\nDenomina Praça Nerson Parreiras Gama, o logradouro público sem denominação, localizado entre as Ruas Cel. Albino Rego, José Teodoro Vieira e Manoel de Oliveira Rocha, AR-Pirituba/Jaraguá.\n(Projeto de Lei n. 773/97, da Vereadora Lídia Correa - PMDB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Nerson Parreiras Gama, o logradouro público sem denominação, localizado entre as Ruas Cel. Albino Rego, José Teodoro Vieira e Manoel de Oliveira Rocha, AR-Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12675",
+   "short": "Lei 12675/1998",
+   "title": "Lei nº 12.675, de 18/06/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 413/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12675-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12675",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12675-de-18-de-junho-de-1998",
+     "sha256": "5b149d6a617281a2db6cf45dc76bc5119f12cfd9b03e2f19d271b81b0928c8f4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.675 - DE 18 DE JUNHO DE 1998\nDenomina logradouro público inominado situado no Jardim São Paulo, e dá outras providências.\n(Projeto de Lei n. 413/97, do Vereador Dito Salim - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça William Alexandro Dias Vaz, o espaço livre sem denominação, localizado na Rua Inácio Monteiro, setor 136, quadra 341, no Jardim São Paulo - Distrito de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12676",
+   "short": "Lei 12676/1998",
+   "title": "Lei nº 12.676, de 18/06/1998 (DENOMINA RUA PROFETA JEREMIAS, O LOGRADOURO INOMINADO, CONHECIDO COMO RUA 4E, NO SETOR 3A DA COHAB TIRADENTES NO DISTRITO DE CIDADE TIRADENTES. (PL 585/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12676-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12676",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12676-de-18-de-junho-de-1998",
+     "sha256": "c64d812a93926fd69acb4f04637d98aedc02b2206512bc279f2ae85d8add9ea9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.676 - DE 18 DE JUNHO DE 1998\nDenomina Rua Profeta Jeremias, o logradouro inominado, conhecido como Rua 4E, no Setor 3A da Cohab Tiradentes no distrito de Cidade Tiradentes.\n(Projeto de Lei n. 585/97, do Vereador Dito Salim - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Profeta Jeremias o logradouro inominado, conhecido como Rua 4E, que inicia-se na Rua 3E e termina no encontro da Rua 5E com a Rua 4E, no Setor 3A da COHAB Tiradentes, no distrito da Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12677",
+   "short": "Lei 12677/1998",
+   "title": "Lei nº 12.677, de 18/06/1998 (DENOMINA PRACA AMIN GHORAYEB, O ESPACO LIVRE, SEM DENOMINACAO, SITUADO NO DISTRITO DE VILA MARIANA - AR-VILA MARIANA. (PL 834/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12677-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12677",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12677-de-18-de-junho-de-1998",
+     "sha256": "2d186661ca9b4c796bc379ac547515e460c21534a45983b005d4a6a6e0d952af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.677 - DE 18 DE JUNHO DE 1998\nDenomina Praça Amin Ghorayeb o espaço livre, sem denominação, situado no Distrito de Vila Mariana - AR-Vila Mariana.\n(Projeto de Lei n. 834/97, do Vereador Alberto Hiar \"Turco Loco\" - PSDB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Amin Ghorayeb, o espaço livre, sem denominação, delimitado pelas Ruas José Landulfo, Rua Hellen Keller, Rua Loefgren e Rua Corredeira, situado no Distrito de Vila Mariana - AR-Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12678",
+   "short": "Lei 12678/1998",
+   "title": "Lei nº 12.678, de 18/06/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM ANHANGUERA - PARQUEMORRO DOCE, DISTRITO DE ANHANGUERA. (PL 876/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12678-de-18-de-junho-de-1998",
+   "first_law": "lei-1998-12678",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12678-de-18-de-junho-de-1998",
+     "sha256": "ead82ac4760210533dbc66aa813b454b6898b5918654b4135e9e77f66374e16f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.678 - DE 18 DE JUNHO DE 1998\nDenomina logradouro público inominado situado no Jardim Anhanguera - Parque Morro Doce, distrito de Anhanguera.\n(Projeto de Lei n. 876/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Francelina de Oliveira Afonso o logradouro público inominado, com início na Rua Quatro e término na Av. Felippo Sturba, Jardim Anhanguera - Parque Morro Doce, distrito de Anhanguera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12682",
+   "short": "Lei 12682/1998",
+   "title": "Lei nº 12.682, de 29/06/1998 (INTRODUZ PARAGRAFO UNICO AO ARTIGO 1. DA LEI N. 11452, DE 06 DE DEZEMBRO DE1993, QUE DISPOE SOBRE O \"DIA DO MACON\". (PL 124/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12682-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12682",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12682-de-29-de-junho-de-1998",
+     "sha256": "98cdf0abf557f79196f4a1ef969d6e2272b79448898dee7a801f5858693afea1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.682 - DE 29 DE JUNHO DE 1998\nIntroduz parágrafo único ao artigo 1º da Lei n. 11.452, de 6 de dezembro de 1993, que dispõe sobre o \"Dia do Maçon\".\n(Projeto de Lei n. 124/98, do Vereador Edivaldo Estima - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 1º da Lei n. 11.452/93 passa a ter parágrafo único com a seguinte redação:\n\"Parágrafo único. As entidades Grandes Lojas do Estado de São Paulo, Grande Oriente de São Paulo e Grande Oriente do Brasil serão convidadas a participar da comemoração de que trata o caput deste artigo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12687",
+   "short": "Lei 12687/1998",
+   "title": "Lei nº 12.687, de 29/06/1998 (DISPOE SOBRE A CRIACAO DO \"DIA DO CLUBE ATLETICO YPIRANGA\", NO AMBITO DO MUNICIPIO DE SAO PAULO. (PL 1052/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12687-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12687",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12687-de-29-de-junho-de-1998",
+     "sha256": "ac10ae77d6047827a070aae9a143c1df49adb3f87655267a4d78311b824f4c0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.687 - DE 29 DE JUNHO DE 1998\nDispõe sobre a criação do \"Dia do Clube Atlético Ypiranga\", no âmbito do Município de São Paulo.\n(Projeto de Lei n. 1.052/97, do Vereador Dalton Silvano - PSDB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Clube Atlético Ypiranga no âmbito do Município de São Paulo, a ser comemorado, anualmente, no dia 10 de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará constar do Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12688",
+   "short": "Lei 12688/1998",
+   "title": "Lei nº 12.688, de 29/06/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA MARIA, E DA OUTRAS PROVIDENCIAS. (PL 990/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12688-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12688",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12688-de-29-de-junho-de-1998",
+     "sha256": "9b374db0f7d308af14b45f9479b30601edd3c6dfff448e04b0086fd7400ca4fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.688 - DE 29 DE JUNHO DE 1998\nDenomina logradouro público inominado situado no Distrito de Vila Maria, e dá outras providências.\n(Projeto de Lei n. 990/97, do Vereador Wadih Mutran - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua João Antonio Mesquita o logradouro público inominado - CADLOG 61.892-6, com início na Rua da Baracela (setor 63 - quadra 256), situado no Parque Novo Mundo, Distrito de Vila Maria.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12690",
+   "short": "Lei 12690/1998",
+   "title": "Lei nº 12.690, de 29/06/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12690-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12690",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12690-de-29-de-junho-de-1998",
+     "sha256": "d474d1210179df062b49a2c41b6e63152bcd73400ccf67a6e28243e302a56ba4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.690 - DE 29 DE JUNHO DE 1998\nDenomina \"Escola Municipal de Primeiro Grau Professor Jairo de Almeida\" a EMPG existente na Rua Recanto dos Humildes, sem número, em Perus, e dá outras providências.\n(Projeto de Lei n. 1056/97, do Vereador José Silva Amorim - PTB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada \"Escola Municipal de Primeiro Grau Professor Jairo de Almeida\" a EMPG existente na Rua Recanto dos Humildes, sem número, em Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12693",
+   "short": "Lei 12693/1998",
+   "title": "Lei nº 12.693, de 29/06/1998 (DENOMINA ESCOLA MUNICIPAL PROFESSORA RUTH GONCALVES CHAVES DE SIQUEIRA, A ESCOLA MUNICIPAL LOCALIZADA A RUA FIGUEIRA DA POLINESIA, N. 373. (PL 1106/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12693-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12693",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12693-de-29-de-junho-de-1998",
+     "sha256": "10f72051f35d3034506f84d48d0b2a293210fbe12eaf40218bda26c3567fbd33",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.693 - DE 29 DE JUNHO DE 1998\nDenomina Escola Municipal Professora Ruth Gonçalves Chaves de Siqueira, a Escola Municipal localizada à Rua Figueira da Polinésia, n. 373.\n(Projeto de Lei n. 1106/97, da Vereadora Maeli Vergniano - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Escola Municipal Professora Ruth Gonçalves Chaves de Siqueira, a Escola Municipal de Educação Infantil Jardim Matarazzo, localizada na Rua Figueira da Polinésia, n. 373, Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12694",
+   "short": "Lei 12694/1998",
+   "title": "Lei nº 12.694, de 29/06/1998 (DENOMINA PRACA CAPITAO PM EDSON TEIXEIRA O ESPACO LIVRE LOCALIZADO ENTRE ASRUAS BAILIQUE E SAO FLAVIANO - VILA MAFRA - VILA FORMOSA. (PL 255/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12694-de-29-de-junho-de-1998",
+   "first_law": "lei-1998-12694",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12694-de-29-de-junho-de-1998",
+     "sha256": "9254579395b3df2b10382d2d063ed75b1c97db4236caf912e39f34315b21bd89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.694 - DE 29 DE JUNHO DE 1998\nDenomina Praça Capitão PM Edson Teixeira o espaço livre localizado entre as Ruas Bailique e São Flaviano - Vila Mafra - Vila Formosa.\n(Projeto de Lei n. 255/98, do Vereador Emílio Meneghini - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Capitão PM Edson Teixeira o espaço livre localizado entre as Ruas Bailique e São Flaviano - setor 55 - quadra 171 - Vila Mafra - Distrito de Vila Formosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão à conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12699",
+   "short": "Lei 12699/1998",
+   "title": "Lei nº 12.699, de 20/07/1998 (DISPOE SOBRE AS DIRETRIZES ORCAMENTARIAS PARA O ANO DE 1999, E DA OUTRAS PROVIDENCIAS. (PL 211/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12699-de-20-de-julho-de-1998",
+   "first_law": "lei-1998-12699",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-07-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12699-de-20-de-julho-de-1998",
+     "sha256": "34e1d7abe0f0199b2ecaba5016a2b4fb14d9eafe916240db2709bfb49827a833",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.699 - DE 20 DE JULHO DE 1998\nDispõe sobre as Diretrizes Orçamentárias para o ano de 1999, e dá outras providências.\n(Projeto de Lei n. 211/98, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 24 de junho de 1998, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA ORGANIZAÇÃO E ESTRUTURA DA\n## LEI ORÇAMENTÁRIA\nArt. 1º Ficam estabelecidas, nos termos desta lei, as diretrizes para elaboração do Projeto de Lei Orçamentária do Município de São Paulo, relativas ao exercício de 1999.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Projeto de Lei Orçamentária anual do Município de São Paulo será elaborado em observância às diretrizes fixadas nesta lei, ao artigo 137 da Lei Orgânica do Município e à legislação federal que estiver em vigor e compreenderá:\nI - o orçamento fiscal referente aos poderes do Município, e seus órgãos;\nII - os orçamentos das entidades autárquicas;\nIII - o orçamento de investimento das empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto;\nIV - os orçamentos dos fundos municipais;\nV - o demonstrativo das obras e serviços públicos cujos recursos sejam oriundos de outorga, de concessão, de permissão, de autorização, de cessão, de transmissão ou quaisquer atos do poder público municipal que impliquem qualquer tipo de reciprocidade por parte da iniciativa privada.\nParágrafo único. A inclusão de determinada obra ou serviço público no demonstrativo a que se refere o inciso V deste artigo não elide a necessidade de autorização legislativa específica, quando couber, nos termos da legislação em vigor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º À falta da lei complementar a que se refere o artigo 165, § 9º da Constituição Federal, o orçamento da administração direta atenderá às especificações constantes da Lei Federal n. 4.320, de 17 e março de 1964, especialmente no que tange às classificações de receita e despesa e à elaboração de demonstrativos e anexos, sem prejuízo de outros requisitos estabelecidos por esta lei.\n§ 1º Integrarão, também, o orçamento da administração direta os demonstrativos:\nI - das dotações à conta do Tesouro Municipal, destinadas a aumento de capital ou transferência, a qualquer título, para empresas, autarquias e fundos do Município, devidamente especificadas por órgão receptor, natureza e finalidade da despesa;\nII - dos recursos destinados à manutenção e desenvolvimento do ensino, de forma a caracterizar o cumprimento do disposto no artigo 208 da Lei Orgânica do Município de São Paulo;\nIII - das operações de crédito, a que se refere o artigo 12, desta lei.\n§ 2º Os projetos e atividades constantes do programa de trabalho dos órgãos e unidades orçamentárias deverão ser identificados, em conformidade com o disposto no artigo 137, § 8º, da Lei Orgânica do Município de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os orçamentos das entidades autárquicas compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática de cada órgão, de acordo com as especificações da Lei Federal n. 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, por órgãos, de acordo com a fonte e a origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os orçamentos dos fundos compreenderão:\nI - o programa de trabalho e os demonstrativos da despesa por natureza e pela classificação funcional programática, de acordo com as especificações da Lei Federal n. 4.320, de 17 de março de 1964;\nII - o demonstrativo da receita, de acordo com a fonte e origem dos recursos (recursos próprios, transferências, operações de crédito).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O orçamento de investimento, previsto no artigo 2º, inciso III, desta lei, discriminará para cada empresa:\nI - os objetivos socais, a base legal de instituição, a composição acionária e a descrição da programação de investimentos de 1999;\nII - o demonstrativo de investimentos especificados por projetos de acordo com as fontes de financiamentos (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes);\nIII - o demonstrativo de fontes e usos especificando a composição dos recursos totais por origem (recursos próprios, recursos do Tesouro Municipal, operações de crédito, outras fontes), e das aplicações por natureza de despesa (custeio, serviço da dívida, investimento).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O demonstrativo previsto no inciso V do artigo 2º desta lei compreenderá:\nI - as receitas decorrentes de outorga, de concessão, de permissão, de autorização, de cessão, de transmissão ou de quaisquer atos do Poder Público Municipal que impliquem qualquer tipo de reciprocidade por parte da iniciativa privada;\nII - das despesas previstas do Poder Público Municipal resultantes dos atos abrangidos pelo inciso I deste artigo, discriminadas por projetos e atividades;\nIII - os valores estimados das obras e serviços públicos a serem realizados parcial ou integralmente pela iniciativa privada para a Municipalidade, e cuja fonte de pagamento não seja o Poder Público Municipal, dispensando-se aquelas inferiores aos exigidos na modalidade de licitação-concorrência.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A proposta orçamentária, a ser encaminhada pelo Executivo à Câmara Municipal, até 30 de setembro de 1998, compor-se-á de:\nI - mensagem;\nII - projeto de lei orçamentária anual;\nIII - tabelas explicativas, a que se refere o artigo 22, inciso III, da Lei Federal n. 4.320, de 17 de março de 1964;\nIV - demonstrativos dos efeitos sobre as receitas e despesas decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia;\nV - relação de projetos e atividades constantes do projeto de lei orçamentária, com sua descrição e codificação, detalhados por elementos de despesa.\n§ 1º A mensagem que encaminhar o projeto de lei orçamentária anual deverá explicitar os critérios adotados na previsão da receita.\n§ 2º Os quadros e tabelas da proposta orçamentária deverão ser encaminhados em suporte físico que permita o imediato processamento eletrônico dos dados, sem prejuízo da apresentação usual, devendo os poderes Executivo e Legislativo prover os recursos necessários ao adequado processamento dessas informações.\n§ 3º Até 10 (dez) dias após o envio da proposta orçamentária, o Executivo deverá encaminhar à Câmara Municipal 55 (cinqüenta e cinco) cópias do referido projeto.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA DIRETRIZES DA RECEITA\nArt. 9º As diretrizes da receita para o ano de 1999, em vista das indefinições no que se refere às alterações tributárias à Constituição, determinam o aperfeiçoamento da atual legislação na busca da otimização da arrecadação municipal, bem como a crescente cooperação entre o Poder Público e a iniciativa privada, incluindo a concessão de incentivos fiscais e de direito do uso do solo, que possam vir a contemplar, entre outras, iniciativas que não sejam agressivas ao Meio Ambiente ou que contribuam para o desenvolvimento ambientalmente sustentável.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Poderão ser apresentados projetos de lei dispondo sobre as seguintes alterações na área da administração tributária:\nI - atualização da planta genérica de valores do Município;\nII - revisão do Imposto Predial e Territorial Urbano, inclusive em suas alíquotas, forma de cálculo e condições de pagamento;\nIII - adequação das taxas pela prestação de serviços aos custos efetivos dos mesmos;\nIV - revisão e atualização da legislação sobre a contribuição de melhoria decorrente de obras públicas;\nV - revisão da legislação sobre o Imposto sobre Serviços de Qualquer Natureza;\nVI - revisão da legislação sobre o Imposto sobre a Transmissão Inter Vivos e de Bens Imóveis e de direitos reais sobre imóveis;\nVII - revisão da legislação sobre as taxas pelo exercício do poder de polícia administrativo;\nVIII - revisão das isenções dos tributos municipais, para manter o interesse público e a justiça fiscal;\nIX - concessão de incentivos fiscais ou outros mecanismos tributários que permitam o atendimento das diretrizes do artigo 9º desta lei.\nParágrafo único. Os projetos de lei que objetivem modificações no Imposto Predial e Territorial Urbano deverão explicitar todas as alterações em relação à legislação atual, de tal forma que seja possível calcular o impacto da medida no valor do tributo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Os projetos de lei que impliquem em redução de receita do exercício financeiro de 1999 deverão explicitar, em sua exposição de motivos, a estimativa da renúncia de receita que acarretam, bem como indicar as despesas, em idêntico montante, que serão anuladas automaticamente nos orçamentos do exercício referido.\n§ 1º Se o projeto de lei for apresentado durante o exercício financeiro de 1999, a indicação de despesas a serem anuladas deverá ser feita pela classificação funcional programática, até o nível de projetos e atividades.\n§ 2º Caso o projeto de lei seja apresentado antes do início de 1999 e após o encaminhamento da proposta orçamentária para 1999, a indicação de anulação de despesa deverá referir-se aos projetos e atividades ali descritos devendo, no momento oportuno, ser apresentada emenda ao projeto de lei do orçamento para supressão de tais despesas.\n§ 3º Em sendo apresentado o projeto de lei antes do encaminhamento da proposta orçamentária para 1999, a indicação de anulação de despesa deverá apontar os programas a sofrerem redução, devendo no momento oportuno ser apresentada emenda ao projeto de lei do orçamento para supressão de tais despesas, a nível de projetos e atividades.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O projeto de lei orçamentária poderá computar, na receita:\nI - operações de crédito autorizadas por lei específica, nos termos do artigo 7º, § 2º, da Lei Federal n. 4.320, de 17 de março de 1964;\nII - operações de crédito a serem autorizadas na própria lei orçamentária;\nIII - os efeitos de programas de securitização de recebíveis, de alienação de bens imóveis disponíveis e de incentivos de pagamento de débitos inscritos na dívida ativa do município.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A lei orçamentária anual poderá autorizar a realização de operações de crédito por antecipação de receita até o limite fixado pelo Senado Federal.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS DIRETRIZES DA DESPESA\nArt. 14. Constituem prioridades da Administração Pública Municipal:\nSERVIÇOS:\nI - Programas específicos de combate ao desemprego e suas conseqüências;\nII - Programas sociais com ênfase às áreas de Educação, Saúde e Bem-Estar, com destaque para:\na) assistência à educação escolar fundamental e pré-escolar;\nb) aplicação de recursos adicionais na manutenção e desenvolvimento do ensino fundamental e de educação infantil, visando compensar valores não aplicados em 1995 e 1996, conforme Lei n. 12.340, de 27 de maio de 1997;\nc) programas que atendam crianças e adolescentes em situação de rua, no âmbito da cidade;\nd) distribuição de merenda escolar e intensificação do Programa Leve-Leite;\ne) melhorias nos serviços de assistência à saúde e ações preventivas;\nf) manutenção do Programa de Atendimento à Saúde - PAS, e ampliação do Programa de Combate à AIDS;\ng) assistência à primeira infância;\nh) campanhas de prevenção e combate à Dengue e à Tuberculose;\nIII - Programas de contenção de despesas, com ênfase ao Programa de Desligamento Voluntário - PDV, de servidores, à redução de despesas com limpeza ambiental, locação de veículos, locação de imóveis e vigilância de próprios municipais;\nIV - Transportes Públicos:\na) recuperação e melhoria de corredores e terminais de ônibus;\nb) continuidade do programa de implantação de semáforos inteligentes;\nc) estudos e planejamentos com ênfase para a sinalização, operação, educação e infra-estrutura dos transportes públicos;\nd) reformulação e implantação do sistema de controle de táxis on line;\ne) fiscalização e policiamento de tráfego;\nf) implantação do Sistema de Controle de Tráfego, por área - CTA's;\nV - De caráter Geral:\na) na conservação da cidade, principalmente em:\n1 - coleta e destinação final do lixo;\n2 - varrição e lavagem de ruas;\n3 - desobstrução de bocas-de-lobo;\n4 - conservação de áreas verdes;\n5 - conservação de vias públicas, com ênfase ao programa de recapeamento e tapa-buracos;\n6 - conservação e manutenção da rede de iluminação pública;\n7 - desassoreamento de cursos d'água;\n8 - recuperação, manutenção e conservação de próprios municipais, com ênfase ao amplo programa de reformas de escolas e creches;\n9 - combate a sinistros;\n10 - reformas, recuperação e melhorias de equipamentos do Hospital do Servidor Público Municipal;\n11 - recuperação de encostas, com finalidade de diminuir áreas de risco na periferia, lançando mão, se necessário, de convênio de consultoria técnica com o IPT.\nINVESTIMENTOS:\nConstrução de terminais de ônibus, participação na construção do Rodoanel Metropolitano, implantação de corredores de ônibus, construção de escolas, construção de creches, construção de unidades de saúde, construção de moradias populares de interesse social (com destaque à continuidade do Projeto Cingapura, das Operações Interligadas, do Programa Guarapiranga e Billings, e do reassentamento do programa PROCAV), obras de infra-estrutura viária, incluindo pavimentação e recapeamento de vias, obras de canalização e retificação de córregos visando combater enchentes, com novo programa a ser financiado pelo BID, ampliação da rede de iluminação pública, projetos desportivos amadores, construção de postos para o Corpo de Bombeiros, continuidade do programa Veículo Leve sobre Pneus - Fura Fila, revitalização e recuperação do centro de São Paulo.\n§ 1º A proposta orçamentária atenderá, na medida do possível e com o envolvimento e a adesão dos órgãos municipais, aos requisitos básicos da Agenda 21 Local do Município, com a introdução de componentes ambientais, visando ao desenvolvimento sustentável, como um processo contínuo e permanente.\n§ 2º A arrecadação da Taxa de Combate a Sinistros será totalmente destinada a encargos de manutenção e de construção de Postos para o Corpo de Bombeiros.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A realização desses programas de investimentos obedecerá a seguinte ordem de prioridade:\nI - os investimentos em execução em 1998, cuja conclusão está prevista para 1999;\nII - os investimentos a serem iniciados e concluídos em 1999;\nIII - os investimentos em execução em 1998, cuja conclusão está prevista para após 1999;\nIV - os investimentos a serem iniciados em 1999, cuja conclusão está prevista para após 1999.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. O Executivo poderá encaminhar projetos de lei visando revisão do sistema de pessoal, particularmente do plano de cargos, carreiras e salários, incluindo:\nI - a concessão, absorção de vantagens e aumento de remuneração de servidores;\nII - a criação e a extinção de cargos públicos, bem como a criação, extinção e alteração da estrutura de carreiras;\nIII - provimento de cargos e contratações de emergência estritamente necessárias, respeitada a legislação municipal vigente.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. A criação ou ampliação de cargos atenderá aos seguintes requisitos:\nI - existência de prévia dotação orçamentária, suficiente para atender às projeções de despesa com pessoal e aos acréscimos dela decorrentes;\nII - inexistência de cargos, funções ou empregos públicos similares vagos e sem previsão de uso na Administração, ressalvada sua extinção ou transformação decorrente das medidas propostas;\nIII - resultar de ampliação decorrente de investimentos ou de expansão de serviços devidamente previstos na lei orçamentária anual.\nParágrafo único. Os projetos de lei de criação ou ampliação de cargos deverão demonstrar, em sua exposição de motivos, o atendimento aos requisitos de que trata este artigo, apresentando o efetivo acréscimo de despesas com pessoal.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. A proposta orçamentária do Tribunal de Contas do Município será encaminhada ao Executivo na forma, prazo e conteúdo estabelecidos por este Poder, devendo aquele órgão, concomitantemente, remeter, à Comissão de Finanças e Orçamento da Câmara Municipal, cópia da referida proposta, para elaboração de parecer sobre a matéria, a ser enviado ao Poder Executivo.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. As despesas com publicidade de interesse do Município restringir-se-ão aos gastos necessários à divulgação de investimentos e serviços públicos efetivamente realizados e de campanhas de natureza educativa ou preventiva, excluídas as despesas com a publicação de editais e outras legais.\nParágrafo único. Os recursos necessários às despesas referidas no caput deste artigo deverão onerar as seguintes dotações:\na) Publicações de Interesse do Município;\nb) Publicações de Editais e Outras Legais.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Os gastos relativos a construções de creches e de unidades de educação e saúde deverão ser discriminados em dotações individualizadas.\nParágrafo único. A Lei Orçamentária permitirá a realocação dos recursos de que trata o caput deste artigo desde que para o mesmo programa.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS DISPOSIÇÕES FINAIS\nArt. 21. No projeto de lei orçamentária, as receitas e despesas poderão ser orçadas segundo os preços vigentes em junho de 1998 ou segundo os preços correntes previstos para 1999.\n§ 1º Se orçadas a preços vigentes em junho de 1998, a lei orçamentária anual poderá estabelecer critérios de atualização das dotações orçamentárias a serem aplicados durante o exercício de 1999 de forma a manter o valor real dos projetos e atividades previstos no orçamento, tendo como limite o comportamento da receita.\n§ 2º Caso implementada a sistemática de atualização de que trata o parágrafo anterior, a justificativa para reajuste das dotações orçamentárias deverá discriminar a receita prevista em receita própria e receita de operações de crédito, detalhada a nível de alínea.\n§ 3º A atualização de que tratam os parágrafos anteriores deste artigo, se acolhida na lei orçamentária, ocorrerá observando-se idêntica proporção para cada projeto e atividade, assim como para os elementos de despesa a eles vinculados.\n§ 4º Para os efeitos desta lei, considera-se como receita própria o somatório das receitas correntes e de capital, com exceção das receitas de operações de crédito, de acordo com as definições dadas pela Lei Federal n. 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. O Executivo poderá organizar consultas à população, objetivando o levantamento das expectativas e das necessidades de cada bairro ou regional, com vistas à elaboração da proposta orçamentária.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. As emendas apresentadas ao projeto de lei orçamentária obedecerão o regulamento a ser baixado pela Comissão de Finanças e Orçamento da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Durante 1999, serão encaminhados detalhamento de eventuais alterações referentes ao demonstrativo de que trata o inciso V do artigo 2º desta lei.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12701",
+   "short": "Lei 12701/1998",
+   "title": "Lei nº 12.701, de 27/08/1998 (FIXA A MENOR REMUNERACAO BRUTA DOS SERVIDORES MUNICIPAIS, REAJUSTA OS VENCIMENTOS E SALARIOS, NA FORMA QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS. (PL26/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12701-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12701",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12701-de-27-de-agosto-de-1998",
+     "sha256": "989e343618105397725c9798c2c874a04c4b35b9b4ef5320e7eda1ebf0ead939",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.701 - DE 27 DE AGOSTO DE 1998\nFixa a menor remuneração bruta dos servidores municipais, reajusta os vencimentos e salários, na forma que especifica, e dá outras providências.\n(Projeto de Lei n. 26/98, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 11 de agosto de 1998, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica fixada em R$ 260,00 (duzentos e sessenta reais), a partir de 1º de julho de 1998, a menor remuneração bruta mensal a ser percebida pelos servidores municipais submetidos à jornada de 40 (quarenta) horas semanais de trabalho.\n§ 1º Aos servidores cuja remuneração bruta mensal seja inferior ao piso fixado no caput deste artigo, será concedido abono de valor correspondente à diferença entre a referida remuneração bruta e a importância de R$ 260,00 (duzentos e sessenta reais).\n§ 2º Para os servidores submetidos a jornadas de trabalho diversas daquela de que trata o caput deste artigo, a menor remuneração bruta será calculada proporcionalmente à jornada a que estiverem sujeitos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O abono de que trata o artigo anterior não se incorporará à remuneração do servidor para quaisquer efeitos, bem como sobre ele não incidirão:\nI - quaisquer vantagens de ordem pecuniária, inclusive o décimo terceiro salário; e\nII - os descontos relativos às contribuições devidas ao Instituto de Previdência Municipal de São Paulo - IPREM e ao Hospital do Servidor Público Municipal - HSPM.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os padrões de vencimentos, as funções gratificadas e os salários- família e esposa do funcionalismo municipal serão reajustados, a partir de 1º de julho de 1998 e de 1º de agosto de 1998, respectivamente, em 0,93% (noventa e três centésimos por cento).\nParágrafo único. O Executivo estabelecerá, mediante decreto, os novos valores dos padrões de vencimentos, das funções gratificadas e dos salários-família e esposa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As disposições constantes desta lei aplicam-se:\nI - aos proventos dos inativos;\nII - aos salários dos servidores regidos pelas Leis n. 9.160, de 3 de dezembro de 1980, n. 9.168, de 4 de dezembro de 1980, e n. 10.793, de 21 de dezembro de 1989;\nIII - às pensões normais e vitalícias pagas pela Prefeitura;\nIV - às pensões devidas pelo Instituto de Previdência Municipal de São Paulo - IPREM, aos beneficiários dos servidores de que trata esta lei, onerando, neste caso, as despesas, as dotações do orçamento da Autarquia, exceto quanto ao disposto no artigo 1º, cujo encargo financeiro será suportado pela Prefeitura do Município de São Paulo que, diante da comprovação das despesas, fará repasses mensais ao referido órgão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As disposições contidas nesta lei aplicam-se, no que couber:\nI - aos servidores, aos aposentados e aos pensionistas das Autarquias do Município de São Paulo;\nII - aos servidores da Câmara Municipal de São Paulo;\nIII - aos servidores do Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12702",
+   "short": "Lei 12702/1998",
+   "title": "Lei nº 12.702, de 27/08/1998 (DENOMINA AVENIDA FERNANDO DA CRUZ ALVES LOGRADOURO PUBLICO INOMINADO NO DISTRITO DE PARELHEIROS. (PL 830/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12702-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12702",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12702-de-27-de-agosto-de-1998",
+     "sha256": "71a9a4be815fc9c839e995cbb6e1c962383b48461b6c01f0cf036734c2a35850",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.702 - DE 27 DE AGOSTO DE 1998\nDenomina Avenida Fernando da Cruz Alves logradouro público inominado no Distrito de Parelheiros.\n(Projeto de Lei n. 830/96, do Vereador Edivaldo Estima - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Avenida Fernando da Cruz Alves o logradouro público inominado, trecho do logradouro conhecido por Estrada de Servidão, com início na Estrada de Parelheiros e término na confluência da Estrada de Servidão com a Rua Amado Benedito Vilas Boas, no Distrito de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12703",
+   "short": "Lei 12703/1998",
+   "title": "Lei nº 12.703, de 27/08/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO, SITUADO NO JARDIM PERI, E DA OUTRAS PROVIDENCIAS. (PL 1060/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12703-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12703",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12703-de-27-de-agosto-de-1998",
+     "sha256": "b4d9db57bad767504320a16add2f439825db98306653f111819e3d3184d0360c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.703 - DE 27 DE AGOSTO DE 1998\nDenomina logradouro público inominado, situado no Jardim Peri, e dá outras providências.\n(Projeto de Lei n. 1060/97, do Vereador Hanna Gharib - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Ana Luzia da Conceição o logradouro publico inominado, com início na Avenida Francisco Machado da Silva e término da Estrada conhecida por \"Da Sede\" (setor 127, quadra 226), no Jardim Peri, em Vila Nova Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12705",
+   "short": "Lei 12705/1998",
+   "title": "Lei nº 12.705, de 27/08/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12705-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12705",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12705-de-27-de-agosto-de-1998",
+     "sha256": "eb75912cbdf5a5fb87b647943588d55afb5624b5b12eaec0bf6bf13be3ab0d44",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.705 - DE 27 DE AGOSTO DE 1998\nDenomina Rua Professora Aparecida Relvas o logradouro público inominado, conhecido por Rua 3, no Distrito de Cidade Líder, e dá outras providências.\n(Projeto de Lei n. 1020/97, do Vereador Dito Salim - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Professora Aparecida Relvas o logradouro público inominado conhecido por Rua 3, com início no logradouro formado pelo primeiro trecho da Av. 1 e Rua 5 e término na Rua 1, no Distrito de Cidade Líder.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12706",
+   "short": "Lei 12706/1998",
+   "title": "Lei nº 12.706, de 27/08/1998 (DENOMINA RUA HERCULANO JOSE DOS SANTOS, LOGRADOURO PUBLICO LOCALIZADO NO BAIRRO PARQUE MORRO DOCE, DISTRITO DE ANHANGUERA. (PL 907/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12706-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12706",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12706-de-27-de-agosto-de-1998",
+     "sha256": "d79ea404dc97ad520c257bfdf79d06911e13a6f19684a15a6f339d29485108d9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.706 - DE 27 DE AGOSTO DE 1998\nDenomina Rua Herculano José dos Santos, logradouro público localizado no Bairro Parque Morro Doce, distrito de Anhanguera.\n(Projeto de Lei n. 907/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Herculano José dos Santos o logradouro público com início na Rua Felippo Sturba e término na Rua 18 (Cadlog 27.808-4), setor 202, Quadras 036, 034, 021 e 035, absorvendo trecho da Rua 19, Bairro Parque Morro Doce, Distrito de Anhanguera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12707",
+   "short": "Lei 12707/1998",
+   "title": "Lei nº 12.707, de 27/08/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA INACIO, E DA OUTRAS PROVIDENCIAS. (PL 948/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12707-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12707",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12707-de-27-de-agosto-de-1998",
+     "sha256": "a9310360a779cde5f7948735039dcf29b2d0e57e142f8f6c96e605b4fe436f41",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.707 - DE 27 DE AGOSTO DE 1998\nDenomina logradouro público inominado situado na Vila Inácio, e dá outras providências.\n(Projeto de Lei n. 948/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Antonio da Silva Santos, o logradouro público inominado, formado pelas praças de retorno 2 e 3 e Rua 3, com início na Viela A (Setor 187 - Quadra 078), na Vila Inácio, distrito de Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12708",
+   "short": "Lei 12708/1998",
+   "title": "Lei nº 12.708, de 27/08/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA BELA VISTA, E DA OUTRASPROVIDENCIAS. (PL 1021/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12708-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12708",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12708-de-27-de-agosto-de-1998",
+     "sha256": "5f745973de2ea97411acae4d0fff78a7a0b3d82257802b6b49aea8063b5c69d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.708 - DE 27 DE AGOSTO DE 1998\nDenomina logradouro público inominado situado na Bela Vista, e dá outras providências.\n(Projeto de Lei n. 1021/97, do Vereador Hanna Gharib - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Ana Maria Giffoni, o logradouro público inominado, CADLOG 44.196-1, sem saída, com início na Rua São Domingos, altura do número 215, setor 006, quadra 047, no bairro Bela Vista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12709",
+   "short": "Lei 12709/1998",
+   "title": "Lei nº 12.709, de 27/08/1998 (DENOMINA RUA VICENTE JOSE DOS SANTOS LOGRADOURO PUBLICO INOMINADO SITUADONO PARQUE MORRO DOCE, DISTRITO DE ANHANGUERA. (PL 858/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12709-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12709",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12709-de-27-de-agosto-de-1998",
+     "sha256": "3567386005a22f54cbe18793020dc0d86762d4b0f1476d97aeda890dfde5b0e3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.709 - DE 27 DE AGOSTO DE 1998\nDenomina Rua Vicente José dos Santos logradouro público inominado situado no Parque Morro Doce, Distrito de Anhanguera.\n(Projeto de Lei n. 858/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Vicente José dos Santos o logradouro público inominado, com início na Av. Felippo Sturba e término na Rua Quinze (Setor 202 - Quadras 033 e 036) localizado no Parque Morro Doce, Distrito de Anhanguera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12710",
+   "short": "Lei 12710/1998",
+   "title": "Lei nº 12.710, de 27/08/1998 (DENOMINA TRAVESSA ALFREDO JOSE MACIEL O LOGRADOURO PUBLICO INOMINADO COMINICIO NA RUA PROFESSOR JOSE LOURENCO, NA VILA ZATT, DISTRITO DE PIRITUBA. (PL 895/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12710-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12710",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12710-de-27-de-agosto-de-1998",
+     "sha256": "b8ff24c66032986c9d0518d4b01c0abdb683060c8a6ddfa7db885f390ccdfe86",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.710 - DE 27 DE AGOSTO DE 1998\nDenomina Travessa Alfredo José Maciel o logradouro público inominado com início na Rua Professor José Lourenço, na Vila Zatt, Distrito de Pirituba.\n(Projeto de Lei n. 895/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Alfredo José Maciel, o logradouro público inominado (CODLOG n. 77.255-0), com início na Rua Professor José Lourenço, na Vila Zatt - Distrito de Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12711",
+   "short": "Lei 12711/1998",
+   "title": "Lei nº 12.711, de 27/08/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA SAO ROQUE - DISTRITO DE CACHOEIRINHA. (PL 739/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12711-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12711",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12711-de-27-de-agosto-de-1998",
+     "sha256": "044ef83c495d6be5b8f5b9b172003d0ec8a2871d074bc500cb4f6af96a1b7a85",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.711 - DE 27 DE AGOSTO DE 1998\nDenomina logradouro público inominado situado na Vila São Roque - Distrito de Cachoeirinha.\n(Projeto de Lei n. 739/97, da Vereadora Maria Helena - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Maria Helena do Nascimento o logradouro público inominado situado no final da Rua Vitalina Moura, na Vila São Roque, Distrito de Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12713",
+   "short": "Lei 12713/1998",
+   "title": "Lei nº 12.713, de 27/08/1998 (DENOMINA PRACA DA EMBAIXADA NORDESTINA EM SAO PAULO LOGRADOURO PUBLICO INOMINADO NO DISTRITO DO BOM RETIRO. (PL 511/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12713-de-27-de-agosto-de-1998",
+   "first_law": "lei-1998-12713",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12713-de-27-de-agosto-de-1998",
+     "sha256": "cf20f78357d24c2bd75aab4aad2d66c25fc4cbe34ad2424900231541b371f9ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.713 - DE 27 DE AGOSTO DE 1998\nDenomina Praça da Embaixada Nordestina em São Paulo logradouro público inominado no distrito do Bom Retiro.\n(Projeto de Lei n. 511/97, do Vereador Vicente Viscome - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça da Embaixada Nordestina em São Paulo logradouro público inominado situado na confluência das Ruas Araújo Figueiredo e Neves de Carvalho, no bairro Várzea da Barra Funda, distrito do Bom Retiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12716",
+   "short": "Lei 12716/1998",
+   "title": "Lei nº 12.716, de 03/09/1998 (OFICIALIZA O HINO DO TATUAPE PARA MARCAR A VOZ DO BAIRRO DO TATUAPE COM TODA SUA TRADICAO. (PL 514/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12716-de-3-de-setembro-de-1998",
+   "first_law": "lei-1998-12716",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12716-de-3-de-setembro-de-1998",
+     "sha256": "03a445f47690b2a4ee2c2d34e806492fa939dbad258cc9ab025fafc61516255e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.716 - DE 3 DE SETEMBRO DE 1998\nOficializa o Hino do Tatuapé para marcar a voz do Bairro do Tatuapé com toda sua tradição.\n(Projeto de Lei n. 514/98, do Vereador José Índio Ferreira do Nascimento - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica oficializado o \"Hino do Tatuapé\" dos compositores José das Neves Estachio, autor da letra, e, José Ferreira de Abreu, autor da parte musical, para abrilhantar a presença do Bairro do Tatuapé, em todas as festividades que se fizer presente.\nParágrafo único - O \"Hino do Tatuapé\" deverá ser executado por Banda de Música ou cantado, no início de toda a solenidade que houver homenagem ao Bairro do Tatuapé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Passa a fazer parte integrante da presente lei a partitura musical e a respectiva letra do Hino do Tatuapé em anexos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação.\nAnexos integrantes à Lei n. 12.716, de 3 de setembro de 1998\nTATUAPÉ\n(HINO)\nLetra: José das Neves Eustachio\nMúsica: José Ferreira de Abreu\nPartitura musical\nLETRA DO HINO\nSalve, salve Tatuapé\nBairro obre tradição\nCoro-bis Te saudamos porque és líder\nDe uma vasta região\nOlaria e portos de areia\nDepois os templos da fé\nForam marcos do progresso\nPara o nosso Tatuapé\nSOLO Gigante da Zona LESTE\nOrgulho dos filhos teus\nTens passado e presente\nAbençoado por Deus\nCoro-bis: Salve, salve Tatuapé...\nPiqueri já foste um dia\nNessa tua trajetória\nHoje tu és Tatuapé\nSempre coberto de glória\nSOLO Tens esporte, tens cultura\nComércio, indústria, emoção\nE a nação corintiana\nTem aqui seu coração\nCoro-bis: Salve, salve Tatuapé...\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12717",
+   "short": "Lei 12717/1998",
+   "title": "Lei nº 12.717, de 04/09/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA CURUCA. (PL 867/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12717-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12717",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12717-de-4-de-setembro-de-1998",
+     "sha256": "d452225504a8431cad5eb8c81d517b9a44d309ebcf842de31b143a9f4fe3baab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.717 - DE 4 DE SETEMBRO DE 1998\nDenomina logradouro público inominado situado no Distrito de Vila Curuçá.\n(Projeto de Lei n. 867/97, do Vereador Armando Mellão Neto - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Antônio Ferreira de Souza, o logradouro público inominado compreendido pelas Ruas Cotinga, Furriel e Pedro de Campos Tourinho, em Vila Nova Curuçá - Distrito de Vila Curuçá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12719",
+   "short": "Lei 12719/1998",
+   "title": "Lei nº 12.719, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12719-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12719",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12719-de-4-de-setembro-de-1998",
+     "sha256": "fa8a67336dceb162372f48dff6e716d7b63d3915270ff2d125ab450c04d27ff3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.719 - DE 4 DE SETEMBRO DE 1998\nDenomina Travessa Monsenhor João Pheeney Camargo e Silva o logradouro público inominado localizado no Distrito do Ipiranga, e dá outras providências.\n(Projeto de Lei n. 1183/97, do Vereador Jorge Taba - PDT)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Monsenhor João Pheeney Camargo e Silva o logradouro público inominado, sem CADLOG, com início na Rua 1822, altura do número 183, situado no bairro do Ipiranga, Distrito do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12720",
+   "short": "Lei 12720/1998",
+   "title": "Lei nº 12.720, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12720-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12720",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12720-de-4-de-setembro-de-1998",
+     "sha256": "e5af03a765d575c9d069d261bac71af0d440881f5be36fef55a87f0f1b1f4d5a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.720 - DE 4 DE SETEMBRO DE 1998\nDenomina Rua José Montes da Silva, o logradouro sem denominação conhecido como Passagem 4, CADLOG 70357/5, localizado entre a Avenida Comendador Sant'Ana, CADLOG 17772/5 e Avenida Nuno Marques Pereira - CADLOG 73517/3, no Jardim Clarice, Distrito Capão Redondo.\n(Projeto de Lei n. 1089/97, do Vereador Mário Dias - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua José Montes da Silva, o logradouro sem denominação conhecido como Passagem 4, CADLOG 70357/5, localizado entre a Avenida Comendador Sant'Ana, CADLOG 17772/5 e Avenida Nuno Marques Pereira - CADLOG 73517/3, no Jardim Clarice, Distrito do Capão Redondo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12721",
+   "short": "Lei 12721/1998",
+   "title": "Lei nº 12.721, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12721-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12721",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12721-de-4-de-setembro-de-1998",
+     "sha256": "0719fd4ba9d7675c5c60baad8382f21e6b765e69cd575152cbfbee6093efeba3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.721 - DE 4 DE SETEMBRO DE 1998\nDenomina Travessa Aníbal Quirino Xavier, o logradouro público inominado conhecido por Rua Quatro, situado no Bairro Parada Quinze, Distrito de Itaquera, e dá outras providências.\n(Projeto de Lei n. 1191/97, do Vereador Dito Salim - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Travessa Aníbal Quirino Xavier, o logradouro público inominado, CADLOG 72.641-9, conhecido por Rua Quatro, com início na Rua Damásio Pinto e término na Rua Renzo Baldini, Bairro Parada Quinze, Distrito de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12724",
+   "short": "Lei 12724/1998",
+   "title": "Lei nº 12.724, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12724-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12724",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12724-de-4-de-setembro-de-1998",
+     "sha256": "cdb9c0f1cefb6f2a72e060df24befe495aab4179230a0b1b7e440b106183a852",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.724 - DE 4 DE SETEMBRO DE 1998\nFixa a menor remuneração bruta dos servidores da Secretaria da Câmara Municipal de São Paulo; reajusta os vencimentos e salários, na forma que especifica, e dá outras providências.\n(Projeto de Lei n. 536/98, da Mesa da Câmara)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 18 de agosto de 1998, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica fixada em R$ 260,00 (duzentos e sessenta reais), a partir de 1º de julho de 1998, a menor remuneração bruta mensal a ser percebida pelos servidores da Secretaria da Câmara Municipal de São Paulo submetidos à jornada de 40 (quarenta) horas semanais de trabalho.\nParágrafo único. Para os servidores submetidos à jornada de trabalho diversa daquela de que trata o caput deste artigo, a menor remuneração bruta será calculada proporcionalmente à jornada a que estiverem sujeitos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os padrões de vencimentos, as funções gratificadas e os salários-família e esposa dos servidores da Câmara serão reajustados, a partir de 1º de julho de 1998 e de 1º de agosto de 1998, respectivamente, em 0,93% (noventa e três centésimos por cento).\nParágrafo único. A Mesa da Câmara estabelecerá, conforme o caso, os novos valores dos padrões de vencimentos, das funções gratificadas e dos salários-família e esposa, mediante Ato.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As disposições constantes desta lei aplicam-se:\nI - aos proventos dos inativos;\nII - aos beneficiários de pensão vitalícia paga pela Câmara;\nIII - aos beneficiários de pensões deixadas por servidores da Câmara e devidas pelo Instituto de Previdência Municipal - IPREM, nas mesmas condições fixadas em lei municipal para os cargos análogos;\nIV - às pensões devidas pelo Instituto de Previdência Municipal de São Paulo - IPREM, aos beneficiários dos servidores de que trata esta lei, onerando, neste caso, as despesas, às dotações do orçamento da Autarquia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As disposições contidas nesta lei aplicam-se, no que couber, aos servidores, aos aposentados e aos pensionistas do Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12725",
+   "short": "Lei 12725/1998",
+   "title": "Lei nº 12.725, de 04/09/1998 (DENOMINA RUA JAYME COMPRI O LOGRADOURO PUBLICO INOMINADO CONHECIDO POR RUA TRES, LOCALIZADO NO JARDIM LIDER, DISTRITO DE JARAGUA. (PL 1092/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12725-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12725",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12725-de-4-de-setembro-de-1998",
+     "sha256": "f518f5a66ff16d1b4d036ed5e85a5ff6aabf6ee236ee1797a3ea6c67d0dcbd51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.725 - DE 4 DE SETEMBRO DE 1998\nDenomina Rua Jayme Compri o logradouro público inominado conhecido por rua três, localizado no Jardim Líder, Distrito de Jaraguá.\n(Projeto de Lei n. 1092/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Jayme Compri o logradouro público inominado conhecido por rua três, CADLOG n. 28.476-9, com início na Rua Rio Una e término na Rua Baltazar de Campos (setor 126, quadras 033 e 034), situado no Jardim Líder, Distrito de Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12726",
+   "short": "Lei 12726/1998",
+   "title": "Lei nº 12.726, de 04/09/1998 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA INACIO, PERUS, E DA OUTRAS PROVIDENCIAS. (PL 923/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12726-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12726",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12726-de-4-de-setembro-de-1998",
+     "sha256": "208ca2b50a037bac771a8f74274a8f99f8ccf5f4f00306251f25fc9f554dff3b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.726 - DE 4 DE SETEMBRO DE 1998\nDenomina logradouro público inominado situado na Vila Inácio, Perus, e dá outras providências.\n(Projeto de Lei n. 923/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Benedito Aparecido da Silva, o logradouro público inominado, conhecido por Rua Dois, paralela à Rua Mogeiro, com início na Rua Um (Setor 187 - Quadra 079), na Vila Inácio - Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12727",
+   "short": "Lei 12727/1998",
+   "title": "Lei nº 12.727, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12727-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12727",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12727-de-4-de-setembro-de-1998",
+     "sha256": "d66caaf8c15bd442af1fe2362e90b607933cf0b41d94b2792c81e3fd80d8dfa4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.727 - DE 4 DE SETEMBRO DE 1998\nFica denominado Travessa Rosa Apparecida Moraes o logradouro público inominado, no Bairro Jardim Cidade Pirituba, Distrito de Pirituba, e dá outras providências.\n(Projeto de Lei n. 888/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Rosa Apparecida Moraes o logradouro público inominado, conhecido por Viela 14, com início na Rua João Carvalhais e término na Rua Angelo Zanini, setor 125, quadras 051 e 054, no Bairro Jardim Cidade Pirituba, Distrito de Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1998-12728",
+   "short": "Lei 12728/1998",
+   "title": "Lei nº 12.728, de 04/09/1998",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12728-de-4-de-setembro-de-1998",
+   "first_law": "lei-1998-12728",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1998-09-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12728-de-4-de-setembro-de-1998",
+     "sha256": "8597772e48ae03a85ce29a301c74089681266d25f94f23b2ae187eb69951a17a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.728 - DE 4 DE SETEMBRO DE 1998\nDenomina Rua Manoel de Souza Pacheco o logradouro público inominado conhecido por Rua 36, localizado no Jardim Paulistano, Distrito da Freguesia do Ó.\n(Projeto de Lei n. 1163/97, do Vereador José Viviani Ferraz - PL)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Manoel de Souza Pacheco, o logradouro público inominado, conhecido por Rua 36, CADLOG 75.151-0, com início na Av. Elísio Teixeira Leite e término na Rua Aparecido de Taboado, Jardim Paulistano, Distrito da Freguesia do Ó.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

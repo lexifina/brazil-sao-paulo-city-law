@@ -1,0 +1,2436 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "44 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1997-12454": {
+   "label": "Lei nº 12.454, de 16/09/1997",
+   "title": "DENOMINA TRAVESSA FRANCISCO RUIZ O LOGRADOURO PUBLICO LOCALIZADO NA RUA EMILIO MALLET, NA ALTURA DO N. 454, DISTRITO DO TATUAPE. (PL 388/94)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12454-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12455": {
+   "label": "Lei nº 12.455, de 16/09/1997",
+   "title": "Denomina Praça Rotary Penha o logradouro delimitado pela Avenida Carvalho Pinto e pela Rua Amorim Diniz.",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12455-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12456": {
+   "label": "Lei nº 12.456, de 16/09/1997",
+   "title": "DENOMINA OLAVO MONTEIRO A PRACA SEM DENOMINACAO LOCALIZADA NA RUA CLAUDIO PTOLOMEU COM A RUA JEAN BAPTISTE D'ALEMBERT, NESTA CAPITAL. (PL 969/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12456-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12457": {
+   "label": "Lei nº 12.457, de 16/09/1997",
+   "title": "Denomina Angelo de Branco a viela sem denominação localizada na Rua Martins Pena, altura do n. 257, Quadra 18, Setor 30, Tatuapé, Capital.",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12457-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12458": {
+   "label": "Lei nº 12.458, de 16/09/1997",
+   "title": "DENOMINA AGENOR MUNARI A VIELA SEM DENOMINACAO, LOCALIZADA NA RUA PEDRO BELEGARDE, ALTURA DO N. 192, SETOR 54, QUADRA 29, NESTA CAPITAL. (PL 998/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12458-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12459": {
+   "label": "Lei nº 12.459, de 16/09/1997",
+   "title": "DENOMINA PRACA CELSO GABRIEL TAFURI O LOGRADOURO PUBLICO SEM DENOMINACAO LOCALIZADO NA CONFLUENCIA DA JULIO RINALDI COM A RUA MARCELO CARBONE, NO DISTRITO DA PENHA, E DA OUTRAS PROVIDENCIAS. (PL 1204/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12459-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12460": {
+   "label": "Lei nº 12.460, de 16/09/1997",
+   "title": "Denomina Urbaldo Rodrigues Perez a Praça localizada entre as ruas Fortuna de Minas e Costeira, AR/PE, Capital.",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12460-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12461": {
+   "label": "Lei nº 12.461, de 16/09/1997",
+   "title": "DENOMINA JOSE SAES A PRACA LOCALIZADA ENTRE AS RUAS FAUSTINO DA COSTA SANTOS, EMILIO DANTAS E UXI, JARDIM SANTA MARIA, NESTA CAPITAL. (PL 1347/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12461-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12462": {
+   "label": "Lei nº 12.462, de 16/09/1997",
+   "title": "DENOMINA MIGUEL ANTONICCI A PRACA LOCALIZADA ENTRE AS RUAS VAMPRE XAVIER E BADABUA, BAIRRO CANGAIBA, NESTA CAPITAL. (PL 1571/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12462-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12466": {
+   "label": "Lei nº 12.466, de 16/09/1997",
+   "title": "DENOMINA DE PRACA BENEDITO LACORTE, O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS: BAQUIA, ALVARO AVILA DE QUEIROZ E AV. ARICANDUVA. (PL 647/ 97)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12466-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12467": {
+   "label": "Lei nº 12.467, de 16/09/1997",
+   "title": "DISPOE SOBRE A INSTALACAO DE CENTROS EDUCACIONAIS E ESPORTIVOS EM AREAS REMANESCENTES DE DESAPROPRIACOES VIARIAS NO MUNICIPIO DE SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 204/96)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12467-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12474": {
+   "label": "Lei nº 12.474, de 16/09/1997",
+   "title": "DECLARA DE UTILIDADE PUBLICA A FEDERACAO DE APOSENTADOS E PENSIONISTAS DO ESTADO DE SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 571/97)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12474-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12475": {
+   "label": "Lei nº 12.475, de 16/09/1997",
+   "title": "DENOMINA CENTRO ESPORTIVO SITUADO NO DISTRITO DE CANGAIBA. (PL 573/97)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12475-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12476": {
+   "label": "Lei nº 12.476, de 18/09/1997",
+   "title": "AUTORIZA O EXECUTIVO A CONTRATAR EMPRESTIMO JUNTO A CAIXA ECONOMICA FEDERAL-CEF,DESTINADO A EXECUCAO DE OBRAS E SERVICOS DO PROGRAMA DE VERTICALIZACAOE URBANIZACAO DE FAVELAS-PROVER-PROJETO CINGAPURA E DO PROGRAMA DE CANALIZACAO DE CORREGOS E ABERTURA DE AVENIDAS DE FUNDO DE VALE-PROCAV.(PL 591/97)",
+   "kind": "law",
+   "enacted": "1997-09-18",
+   "published": "1997-09-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12476-de-18-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12478": {
+   "label": "Lei nº 12.478, de 25/09/1997",
+   "title": "DENOMINA TRAVESSA JOAO CASTILHO QUILLES, O LOGRADOURO INOMINADO (CADLOG 65.375-6), SITUADO NA MOOCA. (PL 27/97)",
+   "kind": "law",
+   "enacted": "1997-09-25",
+   "published": "1997-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12478-de-25-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12482": {
+   "label": "Lei nº 12.482, de 25/09/1997",
+   "title": "DENOMINA RUA ANTONIO SALOMAO PEDRO LOGRADOURO PUBLICO SEM DENOMINACAO SITUADO NO JARDIM JOBAR, CAMPO LIMPO. (PL 819/96)",
+   "kind": "law",
+   "enacted": "1997-09-25",
+   "published": "1997-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12482-de-25-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12485": {
+   "label": "Lei nº 12.485, de 25/09/1997",
+   "title": "REVOGA PARCIALMENTE O ATO N. 279, DE 23/12/1931, QUE DESINCORPORA DO DOMINIO PUBLICO PARTE DO LEITO DA TRAVESSA QUARAIM, ANTIGA BETOLDI, E DA OUTRAS PROVIDENCIAS. (PL 316/97)",
+   "kind": "law",
+   "enacted": "1997-09-25",
+   "published": "1997-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12485-de-25-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12489": {
+   "label": "Lei nº 12.489, de 25/09/1997",
+   "title": "Dispõe sobre o uso de espaço público para comércio de flores, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-09-25",
+   "published": "1997-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12489-de-25-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12490": {
+   "label": "Lei nº 12.490, de 03/10/1997",
+   "title": "Autoriza o Executivo a implantar Programa de Restrição ao Trânsito de Veículos Automotores no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-10-03",
+   "published": "1997-10-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12490-de-03-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12491": {
+   "label": "Lei nº 12.491, de 09/10/1997",
+   "title": "DISPOE SOBRE A CONCESSAO DE PRAZOS PARA PAGAMENTO DE CREDITOS TRIBUTARIOS ENAO TRIBUTARIOS, E DA OUTRAS PROVIDENCIAS. (PL 901/97)",
+   "kind": "law",
+   "enacted": "1997-10-09",
+   "published": "1997-10-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12491-de-9-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12494": {
+   "label": "Lei nº 12.494, de 10/10/1997",
+   "title": "TORNA OBRIGATORIO A CONCESSAO DE DIREITO AO DESCANSO DE 48(QUARENTA E OITO)HORAS, A TODOS OS FUNCIONARIOS PUBLICOS MUNICIPAIS QUE SE CANDIDATAREM A DOADOR DA MEDULA OSSEA, E DA OUTRAS PROVIDENCIAS. (PL 76/97)",
+   "kind": "law",
+   "enacted": "1997-10-10",
+   "published": "1997-10-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12494-de-10-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12497": {
+   "label": "Lei nº 12.497, de 10/10/1997",
+   "title": "DISPOE SOBRE A COMERCIALIZACAO E PRAZO DE VALIDADE PARA BOTIJOES DE GAS LIQUEFEITO DE PETROLEO NO MUNICIPIO DE SAO PAULO. (PL 484/96)",
+   "kind": "law",
+   "enacted": "1997-10-10",
+   "published": "1997-10-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12497-de-10-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12499": {
+   "label": "Lei nº 12.499, de 10/10/1997",
+   "title": "Altera a redação do § 2º do artigo 7º da Lei n. 11.315, de 21 de dezembro de 1992, que criou o Conselho Municipal da Pessoa Deficiente - CMPD, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-10-10",
+   "published": "1997-10-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12499-de-10-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12501": {
+   "label": "Lei nº 12.501, de 16/10/1997",
+   "title": "DENOMINA RUA FRANCISCO DE PAULA BONILHA, A RUA 8, NO FINAL DA RUA FRANCISCOMASCARENHAS NO BAIRRO DO MORRO GRANDE. (PL 114/97)",
+   "kind": "law",
+   "enacted": "1997-10-16",
+   "published": "1997-10-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12501-de-16-de-outubro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12507": {
+   "label": "Lei nº 12.507, de 04/11/1997",
+   "title": "DENOMINA VIELA LUIZ ANTONIO RODRIGUES DE FARIA O LOGRADOURO PUBLICO SEM DENOMINACAO, LOCALIZADO ENTRE OS NUMEROS 2334 E 2340 DA AVENIDA MONTEMAGNO. (PL 1162/95)",
+   "kind": "law",
+   "enacted": "1997-11-04",
+   "published": "1997-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12507-de-4-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12508": {
+   "label": "Lei nº 12.508, de 04/11/1997",
+   "title": "DENOMINA PRACA JOSE BORGES, A PRACA SEM DENOMINACAO, LOCALIZADA ENTRE A RUACOLONIAL DE IRAI COM A RUA WENCESLAU DE CAMPO, NO JARDIM MAGGI. (PL 62/97)",
+   "kind": "law",
+   "enacted": "1997-11-04",
+   "published": "1997-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12508-de-4-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12509": {
+   "label": "Lei nº 12.509, de 04/11/1997",
+   "title": "Denomina próprio municipal localizado no Jardim Pery.",
+   "kind": "law",
+   "enacted": "1997-11-04",
+   "published": "1997-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12509-de-4-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12510": {
+   "label": "Lei nº 12.510, de 04/11/1997",
+   "title": "DENOMINA \"PRACA FRANCISCO CAPATO\", A PRACA SEM DENOMINACAO - CODLOG 40.851-4, SITUADA NO DISTRITO DE PIRITUBA. (PL 349/97)",
+   "kind": "law",
+   "enacted": "1997-11-04",
+   "published": "1997-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12510-de-4-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12511": {
+   "label": "Lei nº 12.511, de 04/11/1997",
+   "title": "Altera dispositivos da Lei n. 11.545, de 7 de junho de 1994, que disciplina o uso de aparelhos de telefonia celular e congêneres no interior dos locais que especifica.",
+   "kind": "law",
+   "enacted": "1997-11-04",
+   "published": "1997-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12511-de-04-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12518": {
+   "label": "Lei nº 12.518, de 20/11/1997",
+   "title": "APROVA TRACADO DE FAIXA DE TERRENO ENTRE A RUA CARDEAL ARCOVERDE E A PRACA BENEDITO CALIXTO, NO DISTRITO DE CERQUEIRA CESAR; REVOGA A LEI N.4894, DE 12 DE JANEIRO DE 1956, E DA OUTRAS PROVIDENCIAS. (PL 640/96)",
+   "kind": "law",
+   "enacted": "1997-11-20",
+   "published": "1997-11-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12518-de-20-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12519": {
+   "label": "Lei nº 12.519, de 20/11/1997",
+   "title": "APROVA PLANO DE ABERTURA DE VIA, DESDE A RUA PROFESSOR ANTONIO MARIA MOURA ATE A ESTRADA DO M'BOI MIRIM, NO DISTRITO DO JARDIM SAO LUIS, E DA OUTRAS PROVIDENCIAS. (PL 363/97)",
+   "kind": "law",
+   "enacted": "1997-11-20",
+   "published": "1997-11-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12519-de-20-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12521": {
+   "label": "Lei nº 12.521, de 24/11/1997",
+   "title": "DENOMINA ANTONIO CALLADO, A ESCOLA MUNICIPAL DE EDUCACAO INFANTIL BAIRRO DOLIMAO.(PL 231/97)",
+   "kind": "law",
+   "enacted": "1997-11-24",
+   "published": "1997-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12521-de-24-de-novembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12524": {
+   "label": "Lei nº 12.524, de 01/12/1997",
+   "title": "Dispõe sobre a criação do Conselho Municipal e o Fundo Municipal de Assistência Social",
+   "kind": "law",
+   "enacted": "1997-12-01",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12524-de-01-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12525": {
+   "label": "Lei nº 12.525, de 01/12/1997",
+   "title": "AUTORIZA A EMPRESA MUNICIPAL DE URBANIZACAO - EMURB A REFINANCIAR DIVIDA COM O BANCO DO BRASIL S/A, E A PREFEITURA DO MUNICIPIO DE SAO PAULO A FIGURARCOMO INTERVENIENTE GARANTIDORA, E DA OUTRAS PROVIDENCIAS. (PL 478/97)",
+   "kind": "law",
+   "enacted": "1997-12-01",
+   "published": "1997-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12525-de-1-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12526": {
+   "label": "Lei nº 12.526, de 02/12/1997",
+   "title": "DENOMINA VEREADOR ALEX FREUA NETTO A ESCOLA MUNICIPAL DE EDUCACAO INFANTIL DO JARDIM GUARANI. (PL 306/97)",
+   "kind": "law",
+   "enacted": "1997-12-02",
+   "published": "1997-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12526-de-2-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12529": {
+   "label": "Lei nº 12.529, de 02/12/1997",
+   "title": "DISPOE SOBRE A CRIACAO DO GUIA DE SAUDE DA REDE PUBLICA MUNICIPAL DE SAUDE.(PL 615/97)",
+   "kind": "law",
+   "enacted": "1997-12-02",
+   "published": "1997-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12529-de-2-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12531": {
+   "label": "Lei nº 12.531, de 23/12/1997",
+   "title": "APROVA ABERTURA DE VIA E TRACADO DE FAIXAS DE TERRENO NO DISTRITO DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 823/96)",
+   "kind": "law",
+   "enacted": "1997-12-23",
+   "published": "1997-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12531-de-23-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12532": {
+   "label": "Lei nº 12.532, de 23/12/1997",
+   "title": "APROVA MELHORAMENTO VIARIO E SANITARIO NOS DISTRITOS DE ARICANDUVA, SAO MATEUS E SAPOPEMBA, E DA OUTRAS PROVIDENCIAS. (PL 732/95)",
+   "kind": "law",
+   "enacted": "1997-12-23",
+   "published": "1997-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12532-de-23-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12533": {
+   "label": "Lei nº 12.533, de 23/12/1997",
+   "title": "AUTORIZA O EXECUTIVO A CELEBRAR CONVENIO COM O MOZARTEUM BRASILEIRO - ASSOCIACAO CULTURAL, E DA OUTRAS PROVIDENCIAS. (PL 968/97)",
+   "kind": "law",
+   "enacted": "1997-12-23",
+   "published": "1997-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12533-de-23-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12534": {
+   "label": "Lei nº 12.534, de 23/12/1997",
+   "title": "APROVA PLANO DE MELHORAMENTO VIARIO NO DISTRITO DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 543/96)",
+   "kind": "law",
+   "enacted": "1997-12-23",
+   "published": "1997-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12534-de-23-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12535": {
+   "label": "Lei nº 12.535, de 24/12/1997",
+   "title": "DA NOVA REDACAO E ACRESCENTA PARAGRAFO UNICO AO ARTIGO 1. DA LEI N. 10741, DE 23/08/89, E DA OUTRAS PROVIDENCIAS. (PL 687/97)",
+   "kind": "law",
+   "enacted": "1997-12-24",
+   "published": "1997-12-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12535-de-24-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12536": {
+   "label": "Lei nº 12.536, de 24/12/1997",
+   "title": "DETERMINA QUE AS MOTOCICLETAS DAS EMPRESAS DE ENTREGAS EXPRESSAS DEVEM CONTER PLACA DE IDENTIFICACAO COM NOME E TELEFONE DA REFERIDA. (PL 658/97)",
+   "kind": "law",
+   "enacted": "1997-12-24",
+   "published": "1997-12-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12536-de-24-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12538": {
+   "label": "Lei nº 12.538, de 29/12/1997",
+   "title": "DENOMINA RUA AMERICO BIANCALANA O LOGRADOURO PUBLICO INOMINADO - CODLOG N. 70.405-9, SITUADO NO DISTRITO DE VILA MARIA. (PL 691/97)",
+   "kind": "law",
+   "enacted": "1997-12-29",
+   "published": "1997-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12538-de-29-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12539": {
+   "label": "Lei nº 12.539, de 29/12/1997",
+   "title": "DENOMINA PRACA CICERO JOSE SARAIVA O LOGRADOURO SEM DENOMINACAO, CONSTRUIDONA ESTRADA DE ITAPECERICA, CADLOG 09529/0, LOCALIZADO ENTRE A RUA CANDIDO DAS NEVES, CADLOG 12943/7 E A RUA JAGUAJIRA, CADLOG 09824/8, DISTRITO JARDIMSAO LUIZ. (PL 867/96)",
+   "kind": "law",
+   "enacted": "1997-12-29",
+   "published": "1997-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12539-de-29-de-dezembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1997-12454",
+   "short": "Lei 12454/1997",
+   "title": "Lei nº 12.454, de 16/09/1997 (DENOMINA TRAVESSA FRANCISCO RUIZ O LOGRADOURO PUBLICO LOCALIZADO NA RUA EMILIO MALLET, NA ALTURA DO N. 454, DISTRITO DO TATUAPE. (PL 388/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12454-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12454",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12454-de-16-de-setembro-de-1997",
+     "sha256": "eed1c9ce4b5e2676a3a1be06d68cc4e01130f45b8ce38e8c4a1971521f044165",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.454 - DE 16 DE SETEMBRO DE 1997\nDenomina Travessa Francisco Ruiz o logradouro público localizado na Rua Emílio Mallet, na altura do n. 454, Distrito do Tatuapé.\n(Projeto de Lei n. 388/94, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Francisco Ruiz o logradouro público localizado na Rua Emílio Mallet, altura do n. 454, Distrito do Tatuapé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12455",
+   "short": "Lei 12455/1997",
+   "title": "Lei nº 12.455, de 16/09/1997 (Denomina Praça Rotary Penha o logradouro delimitado pela Avenida Carvalho Pinto e pela Rua Amorim Diniz.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12455-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12455",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12455-de-16-de-setembro-de-1997",
+     "sha256": "392c293106709eb408f4e3659683ba8acc50d5131e36eded3811ec40235a3b21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.455 - DE 16 DE SETEMBRO DE 1997\nDenomina Praça Rotary Penha o logradouro delimitado pela Avenida Carvalho Pinto e pela Rua Amorim Diniz.\n(Projeto de Lei n. 844/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Rotary Penha o logradouro público, com CODLOG n. 47029-1, delimitado pela Avenida Carvalho Pinto e pela Rua Amorim Diniz.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por parte das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12456",
+   "short": "Lei 12456/1997",
+   "title": "Lei nº 12.456, de 16/09/1997 (DENOMINA OLAVO MONTEIRO A PRACA SEM DENOMINACAO LOCALIZADA NA RUA CLAUDIO PTOLOMEU COM A RUA JEAN BAPTISTE D'ALEMBERT, NESTA CAPITAL. (PL 969/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12456-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12456",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12456-de-16-de-setembro-de-1997",
+     "sha256": "624eca1647a471c7eed6fd8b85942995f195403756002ab2969b802bcaace53d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.456 - DE 16 DE SETEMBRO DE 1997\nDenomina Olavo Monteiro a praça sem denominação localizada na Rua Cláudio Ptolomeu com a Rua Jean Baptiste D'Alembert, nesta Capital.\n(Projeto de Lei n. 969/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Olavo Monteiro a praça sem denominação, localizada na Rua Cláudio Ptolomeu (CODLOG 05.059-8), com a Rua Jean Baptiste D'Alembert (CODLOG 10.028-5), Setor 142, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12457",
+   "short": "Lei 12457/1997",
+   "title": "Lei nº 12.457, de 16/09/1997 (Denomina Angelo de Branco a viela sem denominação localizada na Rua Martins Pena, altura do n. 257, Quadra 18, Setor 30, Tatuapé, Capital.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12457-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12457",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12457-de-16-de-setembro-de-1997",
+     "sha256": "781c89616397707a7da21f3b222a035fe920407ccadc0117923957bc3000ff69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.457 - DE 16 DE SETEMBRO DE 1997\nDenomina Angelo de Branco a viela sem denominação localizada na Rua Martins Pena, altura do n. 257, Quadra 18, Setor 30, Tatuapé, Capital.\n(Projeto de Lei n. 976/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Denomina Angelo de Branco a viela sem denominação, localizada na Rua Martins Pena, altura do n. 257, Quadro 18, Setor 30, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12458",
+   "short": "Lei 12458/1997",
+   "title": "Lei nº 12.458, de 16/09/1997 (DENOMINA AGENOR MUNARI A VIELA SEM DENOMINACAO, LOCALIZADA NA RUA PEDRO BELEGARDE, ALTURA DO N. 192, SETOR 54, QUADRA 29, NESTA CAPITAL. (PL 998/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12458-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12458",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12458-de-16-de-setembro-de-1997",
+     "sha256": "9053c89e4984ab987e20e90f5eb6edb899bc88e886d83669c8f0e0d54c595e51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.458 - DE 16 DE SETEMBRO DE 1997\nDenomina Agenor Munari a viela sem denominação, localizada na Rua Pedro Belegarde, altura do n. 192, Setor 54, Quadra 29, nesta Capital.\n(Projeto de Lei n. 998/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Agenor Munari a viela sem denominação, localizada na Rua Pedro Belegarde, altura do n. 192, Setor 54, Quadra 29, (CODLOG 15.882-8), nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12459",
+   "short": "Lei 12459/1997",
+   "title": "Lei nº 12.459, de 16/09/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12459-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12459",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12459-de-16-de-setembro-de-1997",
+     "sha256": "7d3ab0fc7d10b9f539c6627cc0e518e7c5124d46237f4e17680893c2e5ff373f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.459 - DE 16 DE SETEMBRO DE 1997\nDenomina Praça Celso Gabriel Tafuri o logradouro público sem denominação localizado na confluência da Júlio Rinaldi com a Rua Marcelo Carbone, no distrito da Penha, e dá outras providências.\n(Projeto de Lei n. 1204/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Celso Gabriel Tafuri o logradouro público sem denominação localizado na confluência das ruas Júlio Rinaldi (CODLOG 11.352-2)e Marcelo Carbone (CODLOG 24.378-7), no Distrito da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12460",
+   "short": "Lei 12460/1997",
+   "title": "Lei nº 12.460, de 16/09/1997 (Denomina Urbaldo Rodrigues Perez a Praça localizada entre as ruas Fortuna de Minas e Costeira, AR/PE, Capital.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12460-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12460",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12460-de-16-de-setembro-de-1997",
+     "sha256": "35cf61b9d3a6490f47818bf0ce40950af2bffd5635c54b987bd6e9ee3a752270",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.460 - DE 16 DE SETEMBRO DE 1997\nDenomina Urbaldo Rodrigues Perez a Praça localizada entre as ruas Fortuna de Minas e Costeira, AR/PE, Capital.\n(Projeto de Lei n. 1227/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Urbaldo Rodrigues Perez a Praça sem denominação, localizada entre as ruas Fortuna de Minas e Costeira, Vila Arisi, Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12461",
+   "short": "Lei 12461/1997",
+   "title": "Lei nº 12.461, de 16/09/1997 (DENOMINA JOSE SAES A PRACA LOCALIZADA ENTRE AS RUAS FAUSTINO DA COSTA SANTOS, EMILIO DANTAS E UXI, JARDIM SANTA MARIA, NESTA CAPITAL. (PL 1347/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12461-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12461",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12461-de-16-de-setembro-de-1997",
+     "sha256": "e38ef3f5d5266886a708d700b261114e3143befce225c1fc2506288f3c555b66",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.461 - DE 16 DE SETEMBRO DE 1997\nDenomina José Saes a Praça localizada entre as Ruas Faustino da Costa Santos, Emílio Dantas e Uxi, Jardim Santa Maria, nesta Capital.\n(Projeto de Lei n. 1347/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Denomina José Saes a Praça localizada entre as Ruas Faustino da Costa Santos (Codlog 20.646-6), Emílio Dantas (20.638-5) e Uxi (06.904-3), Jardim Santa Maria, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12462",
+   "short": "Lei 12462/1997",
+   "title": "Lei nº 12.462, de 16/09/1997 (DENOMINA MIGUEL ANTONICCI A PRACA LOCALIZADA ENTRE AS RUAS VAMPRE XAVIER E BADABUA, BAIRRO CANGAIBA, NESTA CAPITAL. (PL 1571/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12462-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12462",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12462-de-16-de-setembro-de-1997",
+     "sha256": "7b8aa7d6ee4d5b638056b88f08e4f982a35086c2ad3f1e2fe65d26af33b53a64",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.462 - DE 16 DE SETEMBRO DE 1997\nDenomina Miguel Antonicci a Praça localizada entre as ruas Vampré Xavier e Badabuã, Bairro Cangaíba, nesta Capital.\n(Projeto de Lei n. 1571/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Denomina Miguel Antonicci a Praça sem denominação, localizada entre as ruas Vampré Xavier (Codlog 24.381-7) e Badabuã (Cadlog 02.704-9), no bairro Cangaíba, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12466",
+   "short": "Lei 12466/1997",
+   "title": "Lei nº 12.466, de 16/09/1997 (DENOMINA DE PRACA BENEDITO LACORTE, O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS: BAQUIA, ALVARO AVILA DE QUEIROZ E AV. ARICANDUVA. (PL 647/ 97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12466-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12466",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12466-de-16-de-setembro-de-1997",
+     "sha256": "1738cd2f920b917309d5b156a55eb2f6833b60e8c4e0d7cf731e47a597a897e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.466 - DE 16 DE SETEMBRO DE 1997\nDenomina de Praça Benedito Lacorte, o espaço livre sem denominação, delimitado pelas Ruas: Baquiá, Alvaro Ávila de Queiroz e Av. Aricanduva.\n(Projeto de Lei n. 647/97, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado de Praça Benedito Lacorte, o espaço livre sem denominação, delimitado pelas Ruas: Baquiá, Alvaro Ávila de Queiroz e Av. Aricanduva - Vila Nova Manchester - AR MO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12467",
+   "short": "Lei 12467/1997",
+   "title": "Lei nº 12.467, de 16/09/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12467-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12467",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12467-de-16-de-setembro-de-1997",
+     "sha256": "bc9fb620667bb79b6a728f3a5bb5e2975533efade4ea8b476789fd442cea7282",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.467 - DE 16 DE SETEMBRO DE 1997\nDispõe sobre a instalação de Centros Educacionais e Esportivos em áreas remanescentes de desapropriações viárias no Município de São Paulo, e dá outras providências.\n(Projeto de Lei n. 204/96, do Vereador Nelo Rodolfo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 20 de agosto de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Toda área remanescente de desapropriação do sistema viário do Município de São Paulo deverá ser destinada prioritariamente à instalação de Centros Educacionais e Esportivos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A construção e instalação dos Centros Educacionais e Esportivos poderão ser executados com apoio da iniciativa privada através de Termo de Cooperação firmado junto ao Executivo Municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Gerenciamento dos Centros Educacionais e Esportivos será exercido pelo Executivo Municipal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Executivo no prazo de 30 (trinta) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas para a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12474",
+   "short": "Lei 12474/1997",
+   "title": "Lei nº 12.474, de 16/09/1997 (DECLARA DE UTILIDADE PUBLICA A FEDERACAO DE APOSENTADOS E PENSIONISTAS DO ESTADO DE SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 571/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12474-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12474",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12474-de-16-de-setembro-de-1997",
+     "sha256": "d1dbd4a3b3cc4b48cc65c2757825cf77a3adb91d927c971636c557eb913f1138",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.474 - DE 16 DE SETEMBRO DE 1997\nDeclara de utilidade pública a Federação de Aposentados e Pensionistas do Estado de São Paulo, e dá outras providências.\n(Projeto de Lei n. 571/97, do Vereador José Silva Amorim)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 20 de agosto de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Será declarada de utilidade pública a Federação de Aposentados e Pensionistas do Estado de São Paulo, desde que requeira ao Executivo Municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12475",
+   "short": "Lei 12475/1997",
+   "title": "Lei nº 12.475, de 16/09/1997 (DENOMINA CENTRO ESPORTIVO SITUADO NO DISTRITO DE CANGAIBA. (PL 573/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12475-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12475",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12475-de-16-de-setembro-de-1997",
+     "sha256": "4311b2c52e52ce7d01a5070ea16e95cf34b80cf67763f583bb6e78265bbc0d14",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.475 - DE 16 DE SETEMBRO DE 1997\nDenomina centro esportivo situado no Distrito de Cangaíba.\n(Projeto de Lei n. 573/97, do Vereador Luiz Paschoal)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 20 de agosto de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Centro Esportivo e Educacional Luiz Martinez\" o centro esportivo localizado na Avenida Governador Carvalho Pinto entre as Ruas São Florêncio e Tarumã, no Distrito de Cangaíba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12476",
+   "short": "Lei 12476/1997",
+   "title": "Lei nº 12.476, de 18/09/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12476-de-18-de-setembro-de-1997",
+   "first_law": "lei-1997-12476",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12476-de-18-de-setembro-de-1997",
+     "sha256": "0206130d0515f484d653f5c2d6e88c1818016a555854e66b605b7dd02a3a6485",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.476 - DE 18 DE SETEMBRO DE 1997\nAutoriza o Executivo a contratar empréstimo junto à Caixa Econômica Federal - CEF, destinado à execução de obras e serviços do Programa de Verticalização e Urbanização de Favelas - PROVER - Projeto Cingapura e do Programa de Canalização de Córregos e Abertura de Avenidas de Fundo de Vale - PROCAV, e dá outras providências.\n(Projeto de Lei n. 591/97, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 16 de setembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a contratar empréstimo até o limite de R$ 30.000.000,00 (trinta milhões de reais), junto à Caixa Econômica Federal - CEF, destinado à execução de obras e serviços do Programa de Verticalização e Urbanização de Favelas - PROVER - Projeto Cingapura e do Programa de Canalização de Córregos e Abertura de Avenidas de Fundo de Vale - PROCAV.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para garantia do empréstimo autorizado nesta lei e no artigo 4º, II, da Lei n. 12.287, de 30 de dezembro de 1996, poderá o Município vincular cotas do Imposto sobre Operações Relativas à Circulação de Mercadorias e Serviços - ICMS.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução da presente lei correrão por conta das dotações próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12478",
+   "short": "Lei 12478/1997",
+   "title": "Lei nº 12.478, de 25/09/1997 (DENOMINA TRAVESSA JOAO CASTILHO QUILLES, O LOGRADOURO INOMINADO (CADLOG 65.375-6), SITUADO NA MOOCA. (PL 27/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12478-de-25-de-setembro-de-1997",
+   "first_law": "lei-1997-12478",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12478-de-25-de-setembro-de-1997",
+     "sha256": "fe08dd58a858c5b1c248b8a3354e01a9f1f8b522a27dfc68cc2fd24a292a4e9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.478 - DE 25 DE SETEMBRO DE 1997\nDenomina Travessa João Castilho Quilles o logradouro inominado (Cadlog 65.375-6), situado na Móoca.\n(Projeto de Lei n. 27/97, do Vereador José Índio Ferreira do Nascimento)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso II do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa João Castilho Quilles o logradouro inominado (Cadlog 65.375-6), travessa da Rua Manuel Onha (Cadlog 12.737-0, setor 52, quadra 308), situado no Bairro da Móoca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12482",
+   "short": "Lei 12482/1997",
+   "title": "Lei nº 12.482, de 25/09/1997 (DENOMINA RUA ANTONIO SALOMAO PEDRO LOGRADOURO PUBLICO SEM DENOMINACAO SITUADO NO JARDIM JOBAR, CAMPO LIMPO. (PL 819/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12482-de-25-de-setembro-de-1997",
+   "first_law": "lei-1997-12482",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12482-de-25-de-setembro-de-1997",
+     "sha256": "a2501325f269cf20c9269d669e19a06c247b45ac8ffc63e8c72392810878321c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.482 - DE 25 DE SETEMBRO DE 1997\nDenomina Rua Antonio Salomão Pedro logradouro público sem denominação situado no Jardim Jobar, Campo Limpo.\n(Projeto de Lei n. 819/96, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso II do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua Antonio Salomão Pedro a rua sem denominação localizada entre as ruas Stela Costa, antiga Suíte Ibéria, e Canuto Luis de Nascimento, antiga Suítes Francesas, CADLOG 33.243-7, Setor Fiscal 165, Quadra 354, no Jardim Jobar, Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nLEI N. 12.482 - DE 25 DE SETEMBRO DE 1997\nDenomina Rua Antonio Salomão Pedro logradouro público sem denominação situado no Jardim Jobar, Campo Limpo.\n(Projeto de Lei n. 819/96, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso II do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\nArt. 1º - Fica denominada Rua Antonio Salomão Pedro a rua sem denominação localizada entre as ruas Stela Costa, antiga Suíte Ibéria, e Canuto Luis de Nascimento, antiga Suítes Francesas, CADLOG 33.243-7, Setor Fiscal 165, Quadra 354, no Jardim Jobar, Campo Limpo.\nArt. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nArt. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12485",
+   "short": "Lei 12485/1997",
+   "title": "Lei nº 12.485, de 25/09/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12485-de-25-de-setembro-de-1997",
+   "first_law": "lei-1997-12485",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12485-de-25-de-setembro-de-1997",
+     "sha256": "1d84d22ff3d39b7e2f66349dbb77328853e5ca6d3aaca26604e71133d6dbd3fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.485 - DE 25 DE SETEMBRO DE 1997\nRevoga parcialmente o Ato n. 279, de 23 de dezembro de 1931, que desincorpora do domínio público parte do leito da travessa Quaraim, antiga Betoldi, e dá outras providências.\n(Projeto de Lei n. 316/97, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o artigo 2º do Ato n. 279, de 23 de dezembro de 1931, que aprovou a abertura da Rua Licínio Cardoso, no trecho entre a Rua do Curtume e a Rua Guaicurus, no Distrito da Lapa, com largura de 8,00 (oito) metros e extensão aproximada de 115,00 (cento e quinze) metros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação.\nLEI N. 12.485 - DE 25 DE SETEMBRO DE 1997\nRevoga parcialmente o Ato n. 279, de 23 de dezembro de 1931, que desincorpora do domínio público parte do leito da travessa Quaraim, antiga Betoldi, e dá outras providências.\n(Projeto de Lei n. 316/97, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\nArt. 1º Fica revogado o artigo 2º do Ato n. 279, de 23 de dezembro de 1931, que aprovou a abertura da Rua Licínio Cardoso, no trecho entre a Rua do Curtume e a Rua Guaicurus, no Distrito da Lapa, com largura de 8,00 (oito) metros e extensão aproximada de 115,00 (cento e quinze) metros.\nArt. 2º Esta Lei entrará em vigor na data de sua publicação.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12489",
+   "short": "Lei 12489/1997",
+   "title": "Lei nº 12.489, de 25/09/1997 (Dispõe sobre o uso de espaço público para comércio de flores, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12489-de-25-de-setembro-de-1997",
+   "first_law": "lei-1997-12489",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12489-de-25-de-setembro-de-1997",
+     "sha256": "a2f9a857f45b566bd518ffa2aa85176d25650c9213fd51a503eb88e27997bb8e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.489 - DE 25 DE SETEMBRO DE 1997\nDispõe sobre o uso de espaço público para comércio de flores, e dá outras providências.\n(Projeto de Lei n. 425/97, do Vereador Henrique Pacheco)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 16 de setembro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A instalação dos quiosques destinados à comercialização de flores em logradouros públicos somente se dará, mediante permissão de uso, em locais previamente designados pela Prefeitura, na forma desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo definirá (VETADO) locais, ao longo das (VETADO) praças do Município, onde serão construídos quiosques destinados especificamente ao comércio, pela iniciativa privada, de flores em vaso e a granel.\n§ 1º A construção dos quiosques prevista no \"caput\" deste artigo caberá aos permissionários e deverão ser padronizados, assim como as formas de exposição dos vasos e das flores.\n§ 2º A padronização a que se refere o parágrafo anterior deverá respeitar a manutenção da livre circulação dos pedestres nas calçadas.\n§ 3º O Poder Público Municipal, na concessão das permissões a que se refere esta Lei dará preferência, sempre que possível, às entidades de caráter filantrópico e assistencial que desejarem se utilizar desses pontos de venda para financiamento de suas atividades.\n§ 4º Deverá ser obedecida uma distância mínima de 300 (trezentos) metros entre os quiosques ou floriculturas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12490",
+   "short": "Lei 12490/1997",
+   "title": "Lei nº 12.490, de 03/10/1997 (Autoriza o Executivo a implantar Programa de Restrição ao Trânsito de Veículos Automotores no Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12490-de-03-de-outubro-de-1997",
+   "first_law": "lei-1997-12490",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12490-de-03-de-outubro-de-1997",
+     "sha256": "757ff5902164900a5fe355313cd54f0c76d55089c52175446a477dca999312fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.490 - DE 3 DE OUTUBRO DE 1997\n(Projeto de Lei n. 747/97, do Executivo)\nAutoriza o Executivo a implantar Programa de Restrição ao Trânsito de Veículos Automotores no Município de São Paulo, e dá outras providências.\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 2 de outubro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a implantar, em caráter experimental, Programa de Restrição ao Trânsito de Veículos Automotores no Município de São Paulo, de conformidade com o estabelecido em regulamento.\n§ 1º A medida autorizada objetiva a melhoria das condições do trânsito, através da redução do número de veículos em circulação nas vias públicas, de 2ª às 6ª feiras, exceto feriados.\n§ 2º As normas regulamentadoras deverão definir os critérios adotados para a implantação da medida, bem como os meses, dias, horários e locais a serem alcançados, conforme o dígito final da placa de licenciamento.\n§ 3º Fica permitida a circulação de caminhões pelas vias que delimitam o Centro Expandido.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A restrição ao trânsito não se aplicará aos seguintes veículos:\nI - de transporte coletivo e de lotação devidamente autorizados a operar o serviço;\nII - motocicletas e similares;\nIII - táxis;\nIV - de transporte escolar;\nV - guinchos;\nVI - outros, empregados em serviços essenciais e de emergência, conforme definido em regulamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A inobservância da restrição objeto do programa de que trata esta Lei acarretará a aplicação da penalidade correspondente, prevista no Código Nacional de Trânsito - CNT.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Caberá ao Diretor do Departamento de Operação do Sistema Viário - DSV, da Secretaria Municipal de Transportes - SMT, fiscalizar, com a participação da Companhia de Engenharia de Tráfego - CET e do Comando de Policiamento de Trânsito - CPTran, o cumprimento da restrição imposta e aplicar a penalidade cabível.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica o Executivo autorizado a celebrar convênios com órgãos ou entidades federais, estaduais ou municipais, objetivando o pleno cumprimento das determinações desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Secretaria Municipal de Transportes - SMT, por meio do Departamento de Operação do Sistema Viário - DSV, fará publicar no \"Diário Oficial\" do Município, anualmente, relatório informativo apresentando os resultados técnicos obtidos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Decorrido o prazo de 6 (seis) meses, o Executivo, mediante avaliação técnica ou pesquisa à população, verificará a necessidade de dar continuidade, ser cancelado ou alterado o controle de restrição ao trânsito.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º No caso de ocorrências extraordinárias, a juízo do Poder Executivo, as restrições previstas nesta Lei, poderão sofrer alterações ou ser suspensas pelo prazo máximo de 180 (cento e oitenta) dias, conforme regulamentação do Executivo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Fica o Executivo autorizado a proceder entendimentos com o Governo Estadual e as prefeituras dos Municípios limitantes, no sentido de estabelecer um programa integrado de transportes coletivos na região metropolitana.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Executivo regulamentará esta Lei no prazo de 30 (trinta) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As despesas decorrentes da aplicação desta Lei correrão por conta das dotações próprias.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação, à exceção dos artigos que cuidam da aplicação de penalidades, que vigorarão a partir do 8º dia de sua vigência.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12491",
+   "short": "Lei 12491/1997",
+   "title": "Lei nº 12.491, de 09/10/1997 (DISPOE SOBRE A CONCESSAO DE PRAZOS PARA PAGAMENTO DE CREDITOS TRIBUTARIOS ENAO TRIBUTARIOS, E DA OUTRAS PROVIDENCIAS. (PL 901/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12491-de-9-de-outubro-de-1997",
+   "first_law": "lei-1997-12491",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12491-de-9-de-outubro-de-1997",
+     "sha256": "d688ce30d28ec047e1909c88d1fbc31280a1032e0cbc6ff1bae665371b7cb4a5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.491 - DE 9 DE OUTUBRO DE 1997\nDispõe sobre a concessão de prazos para pagamento de créditos tributários e não-tributários, e dá outras providências.\n(Projeto de Lei n. 901/97, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 9 de outubro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os créditos vencidos até a data da publicação desta Lei, inscritos ou não na Dívida Ativa, relativos aos tributos: Imposto sobre a Propriedade Predial e Territorial Urbana, Imposto sobre a Transmissão \"inter vivos\" de bens imóveis e de direitos a eles relativos, Imposto Sobre Serviços de Qualquer Natureza, Imposto Sobre Vendas a Varejo de Combustíveis Líquidos e Gasosos, Taxa de Conservação de Vias e Logradouros Públicos, Taxa de Limpeza Pública, Taxa de Combate a Sinistros, Taxa de Fiscalização de Localização, Instalação e Funcionamento, Taxa de Fiscalização de Anúncios, Taxa de Licença para Obras, Arruamentos e Loteamentos, Taxa de Licença para elevadores, monta-cargas, escadas rolantes e assemelhados, bem como os relativos à Contribuição de Melhoria e também aos decorrentes do descumprimento da legislação pertinente a esses tributos poderão ser pagos, no seu valor atualizado e acrescidos de juros, quando for o caso, com redução de 50% (cinqüenta por cento), de 40% (quarenta por cento) ou de 30% (trinta por cento) da penalidade pecuniária e da atualização monetária, desde que seu pagamento integral seja efetuado nos prazos de 30 (trinta) dias, de 45 (quarenta e cinco) dias ou de 60 (sessenta) dias, respectivamente, contados a partir do início da vigência desta Lei.\nParágrafo único. Ficam extintos os créditos inscritos na Dívida Ativa, relativos a ISS, Taxa de Fiscalização, Localização, Instalação e Funcionamento, Taxa de Fiscalização de Anúncios, IPTU, Taxa de Limpeza Pública, Taxa de Conservação de Vias e Logradouros Públicos, Taxa de Combate a Sinistros e Contribuição de Melhoria, cujo montante, por número de contribuinte, seja igual ou inferior a R$ 50,00 (cinqüenta reais), na data de início de vigência desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os créditos tributários, ainda não constituídos, poderão gozar dos benefícios, observados os requisitos a que se refere o artigo 1º desta Lei, desde que sejam objeto de denúncia espontânea do sujeito passivo da obrigação tributária, protocolada no prazo de 10 (dez) dias contados do início da vigência desta Lei.\nParágrafo único. O contribuinte deverá efetuar o pagamento do débito na forma e nos prazos fixados no artigo 1º desta Lei, contados a partir da data em que lhe for comunicada a decisão da aceitação da denúncia espontânea.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os créditos não-tributários, relativos a multas administrativas e preços públicos, vencidos até a data da publicação desta Lei, inscritos ou não na Dívida Ativa, poderão ser pagos com redução de 50% (cinqüenta por cento), 40% (quarenta por cento), ou de 30% (trinta por cento) da atualização monetária neles incidentes, desde que seu pagamento integral seja efetuado nos prazos de 30 (trinta) dias, de 45 (quarenta e cinco) dias, ou de 60 (sessenta) dias, respectivamente, contados a partir do início da vigência desta Lei.\nParágrafo único. Ficam excluídas dos benefícios desta Lei, as multas aplicadas aos proprietários de veículos, em decorrência de infrações de trânsito.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os créditos não-tributários não incluídos no artigo anterior, inscritos na Dívida Ativa, poderão ser pagos com redução de 50% (cinqüenta por cento), de 40% (quarenta por cento), ou de 30% (trinta por cento) da atualização monetária neles incidentes, desde que seu pagamento integral seja efetuado nos prazos de 30 (trinta) dias, de 45 (quarenta e cinco) dias, ou de 60 (sessenta) dias, respectivamente, contados a partir do início da vigência desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O saldo remanescente, decorrente de débitos em regime de parcelamento, poderá ser pago com os benefícios desta Lei, aplicáveis à espécie, desde que sejam observados todos os requisitos estabelecidos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Nas hipóteses de que tratam os artigos 1º, 3º e 4º, em havendo execução fiscal, sempre serão devidas custas, honorários advocatícios e despesas.\nParágrafo único. Os cálculos dos honorários serão objeto dos mesmos benefícios atribuídos ao respectivo crédito anistiado ou remitido.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Não serão restituídas, no todo ou em parte, quaisquer importâncias recolhidas aos cofres municipais, anteriormente à vigência desta Lei, exceto, quando couber, aquelas relativas a depósitos premonitórios administrativos, efetuados a título de garantia de instância.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Ficam excluídas dos benefícios desta Lei as importâncias anteriormente depositadas em execução fiscal, às quais deverão reverter aos cofres municipais na ocasião própria.\n§ 1º Ficam excluídos, também, dos benefícios desta Lei, os débitos objeto de decisão judicial, com trânsito em julgado, proferida em embargos à execução fiscal, mandado de segurança, ação anulatória de débito tributário, ação declaratória e ação de consignação em pagamento.\n§ 2º O disposto no \"caput\" deste artigo não se aplica aos depósitos judiciais efetuados a título de garantia de instância.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12494",
+   "short": "Lei 12494/1997",
+   "title": "Lei nº 12.494, de 10/10/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12494-de-10-de-outubro-de-1997",
+   "first_law": "lei-1997-12494",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12494-de-10-de-outubro-de-1997",
+     "sha256": "a1874a5f7ed1831cc182faef4fac87fb1d1cbffc9c2fbbf538b12dd49c1b7e62",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.494 - DE 10 DE OUTUBRO DE 1997\nTorna obrigatório a concessão de direito ao descanso de 48 (quarenta e oito) horas, a todos os funcionários públicos municipais que se candidatarem a doador da Medula óssea, e dá outras providências.\n(Projeto de Lei n. 76/97, do Vereador Wadih Mutran)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica obrigado a concessão de direito ao descanso de 48 (quarenta e oito) horas, a todos os funcionários públicos municipais que se candidatarem a doador da Medula óssea.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O período correspondente ao descanso, será o compreendido de 24 (vinte e quatro) horas para o ato de doação de sangue com o objetivo de se conhecer o HLA (antígenos leucocitários) do doador, e mais 24 (vinte e quatro) horas para o repouso do doador.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Todos os candidatos a doadores deverão ser registrados no Cadastro Nacional de Doadores Voluntários da Fundação Pró-Sangue.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O chefe encarregado por cada repartição pública municipal, será o responsável pela coordenação do pessoal, bem como pelo fornecimento de autorização ao funcionário que desejar ser candidato a doador de Medula óssea.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12497",
+   "short": "Lei 12497/1997",
+   "title": "Lei nº 12.497, de 10/10/1997 (DISPOE SOBRE A COMERCIALIZACAO E PRAZO DE VALIDADE PARA BOTIJOES DE GAS LIQUEFEITO DE PETROLEO NO MUNICIPIO DE SAO PAULO. (PL 484/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12497-de-10-de-outubro-de-1997",
+   "first_law": "lei-1997-12497",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12497-de-10-de-outubro-de-1997",
+     "sha256": "638086deac92ca9f0420c1aabc1959a8b67727071d5aea4284ba69048156ce28",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.497 - DE 10 DE OUTUBRO DE 1997\nDispõe sobre a comercialização e prazo de validade para botijões de gás liqüefeito de petróleo no Município de São Paulo.\n(Projeto de Lei n. 484/96, do Vereador José Mentor)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 16 de setembro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A comercialização de Gás Liqüefeito de Petróleo - GLP, de forma fracionada, no Município de São Paulo, só poderá ser feita em botijões que ostentem, de forma visível, no rótulo o nome da engarrafadora e a garantia de segurança quanto ao uso do botijão pelo consumidor.\nParágrafo único. O botijão comercializado com GLP deverá ter a mesma marca estampada, no corpo do botijão, no rótulo e no lacre que protege a válvula de segurança.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O prazo de validade para a comercialização de gás no Município de São Paulo deverá obedecer à Norma n. 8.865/95 da Associação Brasileira de Normas Técnicas - ABNT e a respectiva regulamentação a ser feita pelo Instituto Nacional de Metrologia - INMETRO e Departamento Nacional de Combustíveis - DNC sobre a matéria.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os botijões de gás (GLP) deverão trazer estampados em relevo o mês e o ano de sua fabricação.\nParágrafo único. É vedado o uso de código para indicar a data de fabricação nos botijões de gás (GLP).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os botijões de gás (GLP), atualmente comercializados, deverão passar por teste de qualificação e validação, cujo resultado deverá ser gravado nos próprios botijões indicando as seguintes informações:\na) data do teste;\nb) razão social da empresa que realizou o teste;\nc) termo de responsabilidade atestando a qualidade;\nd) validade do botijão de gás (GLP).\nParágrafo único. O teste de qualificação a que alude este artigo deverá ser realizado de acordo com as normas da Associação Brasileira de Normas Técnicas - ABNT, aplicáveis para vasilhame destinados à comercialização de GLP.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º É de responsabilidade da empresa engarrafadora a verificação da validade dos botijões de gás (GLP).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º É terminantemente proibida a comercialização, no Município, de botijões de gás que não ostentem, na forma estabelecida nesta Lei, a data de fabricação e, quando for o caso, do teste de validade e qualificação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A inobservância de qualquer das exigências contidas nesta Lei acarretará ao infrator a aplicação de multa correspondente a 1.000 (um mil) UFIRs por botijão de gás (GLP) irregular, além de sua apreensão.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12499",
+   "short": "Lei 12499/1997",
+   "title": "Lei nº 12.499, de 10/10/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12499-de-10-de-outubro-de-1997",
+   "first_law": "lei-1997-12499",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12499-de-10-de-outubro-de-1997",
+     "sha256": "c5d337690d9bdbd79252a912bb43cdf8f4f4495575c46918a9ba1644f9964058",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.499 - DE 10 DE OUTUBRO DE 1997\nAltera a redação do § 2º do artigo 7º da Lei n. 11.315, de 21 de dezembro de 1992, que criou o Conselho Municipal da Pessoa Deficiente - CMPD, e dá outras providências.\n(Projeto de Lei n. 267/97, do Vereador Ivo Morganti)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 16 de setembro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 2º do artigo 7º da Lei n. 11.315, de 21 de dezembro de 1992 passa a vigorar com a seguinte redação:\n\"§ 2º O mandato dos membros do Conselho será de 2 (dois) anos, permitida a recondução.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O disposto no artigo anterior só será aplicado a partir do próximo mandato dos membros a serem eleitos para compor o Conselho Municipal da Pessoa Deficiente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12501",
+   "short": "Lei 12501/1997",
+   "title": "Lei nº 12.501, de 16/10/1997 (DENOMINA RUA FRANCISCO DE PAULA BONILHA, A RUA 8, NO FINAL DA RUA FRANCISCOMASCARENHAS NO BAIRRO DO MORRO GRANDE. (PL 114/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12501-de-16-de-outubro-de-1997",
+   "first_law": "lei-1997-12501",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-10-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12501-de-16-de-outubro-de-1997",
+     "sha256": "ff9555d90784c86e00bcbd35b36fb495c4f804f9b62f598fc670083ebfe89cef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.501 - DE 16 DE OUTUBRO DE 1997\nDenomina Rua Francisco de Paula Bonilha, a Rua 8, no final da Rua Francisco Mascarenhas no Bairro do Morro Grande.\n(Projeto de Lei n. 114/97, do Vereador José Viviani Ferraz)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar Rua Francisco de Paula Bonilha, a Rua 8, no final da Rua Francisco Mascarenhas no Bairro do Morro Grande, Freguesia do Ó.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da implantação desta lei, correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12507",
+   "short": "Lei 12507/1997",
+   "title": "Lei nº 12.507, de 04/11/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12507-de-4-de-novembro-de-1997",
+   "first_law": "lei-1997-12507",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12507-de-4-de-novembro-de-1997",
+     "sha256": "2a6948a3af037b5d9fc3dfe456b1c91fcd809cb9009dd7e245d77aad7447393c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.507 - DE 4 DE NOVEMBRO DE 1997\nDenomina Viela Luiz Antônio Rodrigues de Faria o logradouro público sem denominação, localizado entre os números 2334 e 2340 da Avenida Montemagno.\n(Projeto de Lei n. 1162/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso II do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Viela Luiz Antônio Rodrigues de Faria o logradouro público sem denominação localizado entre os números 2334 e 2340 da Avenida Montemagno, Vila Formosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12508",
+   "short": "Lei 12508/1997",
+   "title": "Lei nº 12.508, de 04/11/1997 (DENOMINA PRACA JOSE BORGES, A PRACA SEM DENOMINACAO, LOCALIZADA ENTRE A RUACOLONIAL DE IRAI COM A RUA WENCESLAU DE CAMPO, NO JARDIM MAGGI. (PL 62/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12508-de-4-de-novembro-de-1997",
+   "first_law": "lei-1997-12508",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12508-de-4-de-novembro-de-1997",
+     "sha256": "3d83e6f5e25a91b98331cb0a51cec515cd2d214290677cdce7accb0180af2e25",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.508 - DE 4 DE NOVEMBRO DE 1997\nDenomina Praça José Borges, a Praça sem denominação, localizada entre a Rua Colonial de Irai com a Rua Wenceslau de Campo, no Jardim Maggi.\n(Projeto de Lei n. 062/97, do Vereador José Viviani Ferraz)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar Praça José Borges, a Praça sem denominação, localizada entre a Rua Colonial de Irai com a Rua Wenceslau de Campo, no Jardim Maggi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da implantação desta lei, correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12509",
+   "short": "Lei 12509/1997",
+   "title": "Lei nº 12.509, de 04/11/1997 (Denomina próprio municipal localizado no Jardim Pery.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12509-de-4-de-novembro-de-1997",
+   "first_law": "lei-1997-12509",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12509-de-4-de-novembro-de-1997",
+     "sha256": "a5c8e3b7c9c68093faf1303e2f1cdd0b849fd2c45a3ce48f8ca6e51791a0482b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.509 - DE 4 DE NOVEMBRO DE 1997\nDenomina próprio municipal localizado no Jardim Pery.\n(Projeto de Lei n. 214/97, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Creche Municipal Inácio de Lima Oliveira\" o equipamento público localizado na confluência da Rua Caetano Nogueira da Costa com a Rua Francisco Machado Silva, no Jardim Pery.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12510",
+   "short": "Lei 12510/1997",
+   "title": "Lei nº 12.510, de 04/11/1997 (DENOMINA \"PRACA FRANCISCO CAPATO\", A PRACA SEM DENOMINACAO - CODLOG 40.851-4, SITUADA NO DISTRITO DE PIRITUBA. (PL 349/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12510-de-4-de-novembro-de-1997",
+   "first_law": "lei-1997-12510",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12510-de-4-de-novembro-de-1997",
+     "sha256": "fb196968792aa70a292bd2e09d9d06f4202e5588b044a2bc452b45b874a4b39d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.510 - DE 4 DE NOVEMBRO DE 1997\nDenomina \"Praça Francisco Capato\", a Praça sem denominação - CODLOG 40.851-4, situada no Distrito de Pirituba.\n(Projeto de Lei n. 349/97, do Vereador Paulo Frange)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada \"Praça Francisco Capato\", a Praça sem denominação, CODLOG 40.851-4 - Setor/Quadra - 125-152 - Tipo C, tendo como ponto inicial na Rua Pico do Jaraguá, situada na Administração Regional de Pirituba/Jaraguá - AR/PJ, no Distrito de Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12511",
+   "short": "Lei 12511/1997",
+   "title": "Lei nº 12.511, de 04/11/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12511-de-04-de-novembro-de-1997",
+   "first_law": "lei-1997-12511",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12511-de-04-de-novembro-de-1997",
+     "sha256": "5ddbb17410c85d6bf6ff33a3953e8670c98f3b1a7480c9fd3033d6bffdd11709",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.511 - DE 4 DE NOVEMBRO DE 1997\n(Projeto de Lei n. 51/97, do Vereador Antonio Goulart)\nAltera dispositivos da Lei n. 11.545, de 7 de junho de 1994, que disciplina o uso de aparelhos de telefonia celular e congêneres no interior dos locais que especifica.\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 1º, da Lei n. 11.545, de 7 de junho de 1994, passa a ter a seguinte redação:\n\"Art. 1º É proibido efetuar e receber ligações de aparelhos de telefonia celular e congêneres no interior dos teatros, cinemas, casas de espetáculos e bibliotecas.\n§ 1º Nos hospitais, velórios e dependências das repartições públicas municipais será permitido o uso, desde que os referidos aparelhos sejam dotados de sinal de recepção de chamada tipo \"vibratório\".\n§ 2º Os portadores de aparelhos que não sejam dotados de sinal de recepção de chamada tipo \"vibratório\" deverão mantê-los desligados quando estiverem nos locais mencionados neste artigo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 2º e o artigo 3º, da Lei n. 11.545, de 7 de junho de 1994, passam a ter a seguinte redação:\n\"Art. 2º O descumprimento do disposto no artigo anterior sujeitará o infrator ao pagamento da multa de 200 UFIRs aplicada pela Municipalidade, sem prejuízo da retirada do infrator do recinto, o que far-se-á com auxílio de força policial, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os estabelecimentos mencionados no artigo 1º deverão afixar, em local de fácil visualização, aviso da proibição de que trata esta Lei, bem como das penalidades previstas aos infratores.\nParágrafo único. Os estabelecimentos que não atenderem ao disposto neste artigo não terão renovados seus alvarás de funcionamento pela Municipalidade, bem como os novos não terão autorização para funcionamento.\"\nArt. 3º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12518",
+   "short": "Lei 12518/1997",
+   "title": "Lei nº 12.518, de 20/11/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12518-de-20-de-novembro-de-1997",
+   "first_law": "lei-1997-12518",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12518-de-20-de-novembro-de-1997",
+     "sha256": "2e3aaeeb733da0cd70b9a33f282438299b35e2289ce7a641f1e9ed586dce5cc9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.518 - DE 20 DE NOVEMBRO DE 1997\nAprova traçado de faixa de terreno entre a Rua Cardeal Arcoverde e a Praça Benedito Calixto, no distrito de Cerqueira César; revoga a Lei n. 4.894, de 12 de janeiro de 1956, e dá outras providências.\n(Projeto de Lei n. 640/96, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 13 de novembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa n. 26.801-V-1211, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado traçado de faixa de terreno, entre a Rua Cardeal Arcoverde e a Praça Benedito Calixto, no distrito de Cerqueira César, com largura de 6,00 (seis) metros e extensão aproximada de 120,00 (cento e vinte) metros, destinada à abertura de viela sanitária ou à constituição de servidão \"non aedificandi\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Se a faixa de terreno a que se refere o artigo anterior for utilizada para abertura de viela sanitária, os lotes lindeiros, bem como as edificações neles eregidas, relativas a construções, reconstruções ou reformas, não poderão ter, para ela qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei n. 4.894, de 12 de janeiro de 1956.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12519",
+   "short": "Lei 12519/1997",
+   "title": "Lei nº 12.519, de 20/11/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12519-de-20-de-novembro-de-1997",
+   "first_law": "lei-1997-12519",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12519-de-20-de-novembro-de-1997",
+     "sha256": "e613c64b8c2cd12a391186d628d5c8edbf7a6afcae746c9a2118f03579f77919",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.519 - DE 20 DE NOVEMBRO DE 1997\nAprova plano de abertura de via, desde a Rua Professor Antonio Maria Moura até a Estrada de M'Boi Mirim, no distrito do Jardim São Luís, e dá outras providências.\n(Projeto de Lei n. 363/97, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa n. 26.812-F-732, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de abertura de via, desde a Rua Professor Antonio Maria Moura até a Estrada de M'Boi Mirim, distrito de Jardim São Luís, com largura de 10,00 metros e extensão aproximada de 171,00 metros.\nParágrafo único - Ficam igualmente aprovadas as concordâncias de alinhamentos constantes da planta referida no \"caput\" deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para os fins desta lei, os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12521",
+   "short": "Lei 12521/1997",
+   "title": "Lei nº 12.521, de 24/11/1997 (DENOMINA ANTONIO CALLADO, A ESCOLA MUNICIPAL DE EDUCACAO INFANTIL BAIRRO DOLIMAO.(PL 231/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12521-de-24-de-novembro-de-1997",
+   "first_law": "lei-1997-12521",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12521-de-24-de-novembro-de-1997",
+     "sha256": "0e28a4582a113fef2e660f2e98273aaf7bdffc80f4b69e006f9323c10193a431",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.521 - DE 24 DE NOVEMBRO DE 1997\nDenomina Antonio Callado, a Escola Municipal de Educação Infantil Bairro do Limão.\n(Projeto de Lei n. 231/97, do Vereador Alberto Hiar)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Antonio Callado a Escola Municipal de Educação Infantil Bairro do Limão, localizada à Rua Araguacema esquina com a Rua Padre Moura, sem número, Bairro do Limão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nLEI N. 12.521 - DE 24 DE NOVEMBRO DE 1997\nDenomina Antonio Callado, a Escola Municipal de Educação Infantil Bairro do Limão.\n(Projeto de Lei n. 231/97, do Vereador Alberto Hiar)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\nArt. 1º - Fica denominada Antonio Callado a Escola Municipal de Educação Infantil Bairro do Limão, localizada à Rua Araguacema esquina com a Rua Padre Moura, sem número, Bairro do Limão.\nArt. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nArt. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12524",
+   "short": "Lei 12524/1997",
+   "title": "Lei nº 12.524, de 01/12/1997 (Dispõe sobre a criação do Conselho Municipal e o Fundo Municipal de Assistência Social)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12524-de-01-de-dezembro-de-1997",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1997-12524"
+   ],
+   "versions": [
+    {
+     "from": "2021-07-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12524-de-01-de-dezembro-de-1997",
+     "sha256": "102fd4a8c6a443054f0d9a810461ce9b0f30abb28babeeb97e905f5ce7155699",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.524 - DE 1º DE DEZEMBRO DE 1997\nDispõe sobre a criação do Conselho Municipal e o Fundo Municipal de Assistência Social\n(Projeto de Lei n. 21/96, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 4 de novembro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Conselho Municipal da Assistência Social - COMAS, órgão colegiado do sistema descentralizado e participativo da assistência social no Município, com caráter deliberativo, normativo, fiscalizador e permanente de composição paritária entre governo e sociedade civil, vinculado à Secretaria Municipal da Família e Bem-Estar Social.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Conselho Municipal de Assistência Social observará os seguintes princípios e diretrizes básicas:\nI - a assistência social é direito do cidadão independentemente de contribuição à seguridade social;\nII - supremacia do atendimento às necessidades sociais sobre as exigências de rentabilidade econômica;\nIII - universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas públicas;\nIV - respeito à dignidade do cidadão, à sua autonomia e ao seu direito a benefícios e serviços de qualidade, bem como à convivência familiar e comunitária, vedando-se qualquer comprovação vexatória de necessidade;\nV - igualdade de direitos no acesso ao atendimento, sem discriminação de qualquer natureza, bem como a divulgação ampla dos benefícios, serviços, programas e projetos assistenciais e dos recursos oferecidos pelo poder público e dos critérios para sua concessão;\nVI - a organização da assistência social tem como diretrizes a descentralização político-administrativa, a participação da comunidade por meio de organizações representativas na formulação das políticas e controle das ações, e a primazia da responsabilidade do estado na condução da política de Assistência Social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Conselho Municipal da Assistência Social - COMAS - é composto de 18 (dezoito) membros e respectivos suplentes, eleitos, se da sociedade civil, indicados, se do governo e ambos nomeados pelo Prefeito, de acordo com a seguinte distribuição:\nI - 9 (nove) representantes dos órgãos do Poder Público especificados em decreto, cuja composição necessariamente terá:\na) 1 (um) representante da Secretaria Municipal de Assistência e Desenvolvimento Social - SMADS;\nb) 1 (um) representante da Secretaria Municipal da Saúde - SMS;\nc) 1 (um) representante da Secretaria Municipal de Educação - SME.\nII - 9 (nove) representantes da sociedade civil, dentre 3 (três) representantes dos usuários ou de organizações de usuários, 3 (três) das entidades e organizações de assistência social e 3 (três) dos trabalhadores do setor, escolhidos em foro próprio sob fiscalização do Ministério Público, e acordo com critérios estabelecidos em ato de convocação da eleição dos respectivos representantes da sociedade civil no Conselho Municipal de Assistência Social.\n§ 1º Os membros do Conselho Municipal de Assistência Social - COMAS, exercerão o mandato por 2 (dois) anos, permitida uma única reeleição.\n§ 2º O Conselho Municipal de Assistência Social - COMAS, é presidido por um de seus integrantes, eleito dentre seus membros, para mandato de 1 (um) ano permitida uma única recondução por igual período.\n§ 3º Os suplentes substituirão os respectivos titulares em seus impedimentos e, em caso de vacância, assumirão o cargo pelo restante do mandato.\n§ 4º O regimento interno especificará os requisitos exigidos dos membros do Conselho e seus suplentes, bem como os casos de impedimento decorrente da perda do mandato, de dispensa ou vacância.\n§ 5º O Conselho Municipal de Assistência Social - COMAS, contará com uma Secretaria Executiva, cuja estrutura será disciplinada pelo Poder Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete ao Conselho Municipal de Assistência Social:\nI - aprovar a Política Municipal de Assistência Social;\nII - normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social no âmbito municipal;\nIII - fixar normas para inscrição das entidades e organizações de assistência social no âmbito municipal;\nIV - inscrever as entidades e organizações de assistência social para fins de funcionamento incorporando parecer do Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA, no caso de entidades relativas à criança e ao adolescente;;\nV - fiscalizar as entidades e organizações de assistência social, na forma que dispuser seu regimento interno incorporando parecer do Conselho Tutelar no caso de entidades relativas à criança e ao adolescente;\nVI - regulamentar a concessão e o valor dos benefícios eventuais previstos no artigo 22 da Lei Federal n. 8.742, de 7 de dezembro de 1993, mediante critérios e prazos definidos pelo Conselho Nacional de Assistência Social - CNAS;\nVII - estabelecer critérios para destinação dos recursos financeiros para custeio do pagamento dos auxílios natalidade e funeral;\nVIII - orientar e controlar a administração do Fundo Municipal de Assistência Social;\nIX - estabelecer critérios para a transferência de recursos públicos ou subvenções às entidades prestadoras de serviços e demais organizações de assistência social atuantes no município;\nX - estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuais do Fundo Municipal de Assistência Social;\nXI - (VETADO);\nXII - definir e articular interinstitucionalmente os programas de assistência social, previstos no artigo 24 da Lei Federal n. 8.742/93, em concordância com seus princípios e objetivos;\nXIII - aprovar planos objetivando a celebração de convênios entre o Município e as entidades e organizações de Assistência Social;\nXIV - articular os programas de Assistência Social voltados ao idoso, aos inválidos e à integração da pessoa portadora de deficiência com o benefício da prestação continuada estabelecido no artigo 20 da LOAS (artigo 24, § 2º);\nXV - apreciar e aprovar a proposta orçamentária da Assistência Social a ser encaminhada pelas diversas secretarias e unidades orçamentárias;;\nXVI - acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados;\nXVII - convocar ordinariamente a cada 2 (dois) anos, ou extraordinariamente, por maioria absoluta de seus membros, a Conferência Municipal de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do sistema;\nXVIII - elaborar e aprovar seu regimento interno;\nXIX - divulgar no \"Diário Oficial\" do Município, todas as suas decisões, bem como as contas do Fundo Municipal de Assistência Social - FMAS, e os respectivos pareceres emitidos;\nXX - manter articulação com o Conselho Estadual de Assistência Social - CONSEAS, e com o Conselho Nacional de Assistência Social - CNAS;\nXXI - manter atualizado o cadastro único das entidades devidamente inscritas fornecendo o documento \"cadastro único municipal\" o qual será documento para obtenção de benefícios em nível municipal..\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Secretaria Municipal da Família e Bem-Estar Social é o órgão da Administração Pública Municipal responsável pela coordenação da Política Municipal de Assistência Social.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Compete à Secretaria Municipal da Família e Bem-Estar Social:\nI - coordenar e articular as ações no campo da assistência social;\nII - propor ao Conselho Municipal de Assistência Social - COMAS, a Política Municipal de Assistência Social, suas normas gerais, bem como os critérios de prioridade e elegibilidade, além de padrões de qualidade na prestação de benefícios, serviços, programas e projetos;\nIII - elaborar e encaminhar a proposta orçamentária da assistência social, em conjunto com as demais áreas da Seguridade Social;\nIV - encaminhar à apreciação do Conselho Municipal de Assistência Social - COMAS, relatórios trimestrais e anuais de atividades e de realização financeira dos recursos;\nV - prestar assessoramento técnico às entidades e organizações de assistência social;\nVI - formular políticas para a qualificação sistemática e continuada de recursos humanos no campo da assistência social;\nVII - desenvolver estudos e pesquisas para fundamentar as análises de necessidades e formulação de proposições para a área;\nVIII - coordenar e manter atualizado o sistema de cadastro de entidades e organizações de assistência social no âmbito municipal;\nIX - articular-se com os órgãos responsáveis pelas políticas de saúde e previdência social, bem como os demais responsáveis pelas políticas socioeconômicas setoriais, visando à elevação do patamar mínimo de atendimento às necessidades básicas;\nX - expedir os atos normativos necessários à gestão do Fundo Municipal de Assistência Social - FMAS, de acordo com as diretrizes estabelecidas pelo Conselho Municipal de Assistência Social - COMAS;\nXI - elaborar e submeter ao Conselho Municipal de Assistência Social - COMAS, os programas anuais e plurianuais de aplicação dos recursos do Fundo Municipal de Assistência Social - FMAS;\nXII - elaborar o plano municipal de Assistência Social de acordo com os princípios definidos na Política Municipal de Assistência Social;\nXIII - gerir o Fundo Municipal de Assistência Social, sob orientação e controle do Conselho Municipal de Assistência Social;\nXIV - operar os benefícios eventuais previstos no artigo 22 da Lei Federal n. 8.742/93 - auxílio por natalidade ou morte.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Fica criado o Fundo Municipal da Assistência Social - FMAS, vinculado à Secretaria do Bem-Estar Social, com a finalidade de proporcionar os meios financeiros para o desenvolvimento das políticas públicas na área da assistência social, bem como ao exercício das competências do Conselho Municipal da Assistência Social - COMAS.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Constituirão receitas do Fundo Municipal da Assistência Social (FMAS):\nI - dotação consignada anualmente no orçamento municipal e verbas adicionadas que a lei estabelecer no decurso do período;\nII - recursos provenientes dos Conselhos Estaduais e Nacional de Assistência Social;\nIII - doações, auxílios, contribuições e legados que lhe venham a ser destinados;\nIV - contribuições dos governos e organismos nacionais, estrangeiros e internacionais;\nV - rendas eventuais, inclusive as resultantes de depósitos e aplicações de capitais;\nVI - outros recursos que lhe forem destinados.\nDas Disposições Transitórias\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - O Poder Executivo Municipal terá prazo máximo de 60 (sessenta) dias, a partir da publicação desta lei, para convocar a eleição, nomear e dar posse ao Conselho Municipal de Assistência Social - COMAS.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O Poder Executivo Municipal disporá, no prazo de 45 (quarenta e cinco) dias, a contar da data da publicação desta lei, sobre a criação, regulamentação e funcionamento do Fundo Municipal de Assistência Social - FMAS, e sobre a extinção do Conselho Municipal de Auxílios e Subvenções.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - O Poder Executivo deverá, através de decreto, normatizar o processo de eleição dos representantes da sociedade civil no Conselho Municipal de Assistência Social.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Da sua instalação à aprovação do seu regimento interno, o Conselho Municipal de Assistência Social - COMAS, terá suas reuniões presididas pelo representante eleito entre seus membros.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O primeiro presidente do Conselho Municipal de Assistência Social - COMAS será eleito após a promulgação do seu regimento interno.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. A Secretaria Municipal da Família e Bem-Estar Social, no prazo de 90 (noventa) dias, a contar da nomeação dos membros do Conselho Municipal de Assistência Social - COMAS, proporá a Política Municipal de Assistência Social para a aprovação pelo Conselho.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação, revogam-se as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de março de 2001, 448º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nJOÃO SAYAD, Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 23 de março de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 12.524, de 01/12/1997 was altered by acts of 1 date(s), the latest 2021-07-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12525",
+   "short": "Lei 12525/1997",
+   "title": "Lei nº 12.525, de 01/12/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12525-de-1-de-dezembro-de-1997",
+   "first_law": "lei-1997-12525",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12525-de-1-de-dezembro-de-1997",
+     "sha256": "639b02ea989cc803fff1fb26a652f096db5f3257156f93dec3764df813bdc33b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.525 - DE 1 DE DEZEMBRO DE 1997\nAutoriza a Empresa Municipal de Urbanização - EMURB a refinanciar dívida com o Banco do Brasil S/A, e a Prefeitura do Município de São Paulo a figurar como interveniente garantidora, e dá outras providências.\n(Projeto de Lei n. 478/97, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber a Câmara Municipal, em sessão de 13 de novembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica a Empresa Municipal de Urbanização - EMURB autorizada a firmar, junto ao Banco do Brasil S/A, contrato de refinanciamento do saldo devedor referente ao contrato 88/0551-8, de 13 de setembro de 1988.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O saldo devedor, apurado em abril de 1994, equivalente a Cr$ 17.596.513.178,50 (dezessete bilhões, quinhentos e noventa e seis milhões, quinhentos e treze mil, cento e setenta e oito cruzeiros e cinqüenta centavos), deverá ser atualizado pela variação da TR e acrescido da taxa de juros de até 11,632% a. a. e pago em 52 (cinqüenta e dois) meses, sendo 4 (quatro) meses de carência, pelo sistema de amortização constante, com juros de até 1,2% a.m. e variação da taxa referencial TR.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Em garantia da operação, o Município de São Paulo comparecerá como Interveniente Garantidor, autorizando o Banco do Brasil S/A a compensar eventuais quantias inadimplentes com recursos provenientes das receitas e quotas a que se referem os artigos 158 e 159, inciso I, alínea \"b\" da Constituição Federal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Fica o Executivo obrigado a informar à Câmara Municipal de São Paulo, por meio de suas Comissões Permanentes de Administração Pública e de Finanças e Orçamento, as condições negociadas com o credor e os pagamentos efetuados em cada exercício financeiro, referentes ao Contrato 88/0551-8, de 13 de setembro de 1988.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12526",
+   "short": "Lei 12526/1997",
+   "title": "Lei nº 12.526, de 02/12/1997 (DENOMINA VEREADOR ALEX FREUA NETTO A ESCOLA MUNICIPAL DE EDUCACAO INFANTIL DO JARDIM GUARANI. (PL 306/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12526-de-2-de-dezembro-de-1997",
+   "first_law": "lei-1997-12526",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12526-de-2-de-dezembro-de-1997",
+     "sha256": "d084b9786aaa5ae74657993b1d5f021c65f742ad420eff01b76f8724c6a0a4a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.526 - DE 2 DE DEZEMBRO DE 1997\nDenomina Vereador Alex Freua Netto a Escola Municipal de Educação Infantil do Jardim Guarani.\n(Projeto de Lei n. 306/97, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Vereador Alex Freua Netto a Escola Municipal de Educação Infantil do Jardim Guarani, localizada à Rua Santana do Araçuaí s/nº, Distrito de Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12529",
+   "short": "Lei 12529/1997",
+   "title": "Lei nº 12.529, de 02/12/1997 (DISPOE SOBRE A CRIACAO DO GUIA DE SAUDE DA REDE PUBLICA MUNICIPAL DE SAUDE.(PL 615/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12529-de-2-de-dezembro-de-1997",
+   "first_law": "lei-1997-12529",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12529-de-2-de-dezembro-de-1997",
+     "sha256": "ace4c41203be7708eeb67695a5e8ba13b4ea3fc49687ca742ed43fad75e4b783",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.529 - DE 2 DE DEZEMBRO DE 1997\nDispõe sobre a criação do Guia de Saúde da Rede Pública Municipal de Saúde.\n(Projeto de Lei n. 615/97, do Vereador Adriano Diogo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 13 de novembro de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Compete à Secretaria Municipal da Saúde, a criação e divulgação do Guia de Saúde da Rede Municipal de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Guia de Saúde deverá conter, obrigatoriamente:\nI - Relação das Unidades Básicas de Saúde e Unidades do Plano de Atendimento à Saúde - PAS, com as seguintes informações:\na) horário de funcionamento dos serviços e do plantão diário;\nb) especialidades médicas, com identificação dos recursos humanos destinados para aquela unidade;\nc) lista de equipamentos e exames laboratoriais fornecidos pela unidade, com os horários respectivos de funcionamento.\nII - Relação dos hospitais e maternidades sob gestão da Secretaria Municipal da Saúde e sob gestão do Plano de Atendimento à Saúde - PAS, com as seguintes informações:\na) horário de funcionamento dos serviços;\nb) especialidades médicas, com identificação dos recursos humanos destinados para aquela unidade;\nc) número de leitos oferecidos pela unidade hospitalar.\nIII - Relação de outros serviços mantidos pela Secretaria Municipal da Saúde, com as seguintes informações:\na) horário de funcionamento dos serviços e do plantão diário;\nb) lista de programas desenvolvidos pela unidade;\nc) especialidades médicas e recursos humanos destinados para aquela unidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12531",
+   "short": "Lei 12531/1997",
+   "title": "Lei nº 12.531, de 23/12/1997 (APROVA ABERTURA DE VIA E TRACADO DE FAIXAS DE TERRENO NO DISTRITO DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 823/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12531-de-23-de-dezembro-de-1997",
+   "first_law": "lei-1997-12531",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12531-de-23-de-dezembro-de-1997",
+     "sha256": "ee611cc1c864938b4e805988a5013ac45613c7c7844bab71c6a8eae4ec86ed69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.531 - DE 23 DE DEZEMBRO DE 1997\nAprova abertura de via e traçado de faixas de terreno no Distrito do Butantã, e dá outras providências.\n(Projeto de Lei n. 823/96, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 4 de dezembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa n. 26.815-V-1354, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente a Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de melhoramento público no Distrito do Butantã, consistente no seguinte:\nI - Abertura de via no trecho compreendido entre a Rua Moncorvo Filho e a Avenida Vital Brasil, com largura de 18,00 metros e extensão aproximada de 130,00 metros;\nII - Traçado de faixa de terreno destinada à constituição de servidão \"non aedificandi\", contígua ao alinhamento leste da via prevista no inciso anterior, com largura variável de 17,00 a 23,00 metros e extensão aproximada de 122,00 metros;\nIII - Traçado de faixa de terreno destinada à constituição de servidão \"non aedificandi\", contígua ao alinhamento oeste da via prevista no inciso I deste artigo, com largura de 5,00 metros e extensão aproximada de 130,00 metros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Ficam igualmente aprovadas as concordâncias de alinhamentos constantes da planta referida no artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12532",
+   "short": "Lei 12532/1997",
+   "title": "Lei nº 12.532, de 23/12/1997 (APROVA MELHORAMENTO VIARIO E SANITARIO NOS DISTRITOS DE ARICANDUVA, SAO MATEUS E SAPOPEMBA, E DA OUTRAS PROVIDENCIAS. (PL 732/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12532-de-23-de-dezembro-de-1997",
+   "first_law": "lei-1997-12532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12532-de-23-de-dezembro-de-1997",
+     "sha256": "65d436733a16a6d2e739db1fcf89c592a23db7f133082cd4e37cd24926a5b96e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.532 - DE 23 DE DEZEMBRO DE 1997\nAprova melhoramento viário e sanitário nos distritos de Aricanduva, São Mateus e Sapopemba, e dá outras providências.\n(Projeto de Lei n. 732/95, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 4 de dezembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa n. 26.782-I-647, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de melhoramento nos distritos de Aricanduva, São Mateus e Sapopemba, consistente em traçado de faixa de terreno ao longo do Córrego Inhumas, no trecho situado entre a Avenida Aricanduva e a Rua Nova Brasília, numa extensão aproximada de 2.400,00 (dois mil e quatrocentos) metros e largura variável, com um mínimo de 33,00 (trinta e três) metros e um máximo de 70,00 (setenta) metros, destinada à implantação da canalização do referido córrego, de áreas de contenção das enchentes e à execução de vias marginais.\nParágrafo único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas na planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12533",
+   "short": "Lei 12533/1997",
+   "title": "Lei nº 12.533, de 23/12/1997 (AUTORIZA O EXECUTIVO A CELEBRAR CONVENIO COM O MOZARTEUM BRASILEIRO - ASSOCIACAO CULTURAL, E DA OUTRAS PROVIDENCIAS. (PL 968/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12533-de-23-de-dezembro-de-1997",
+   "first_law": "lei-1997-12533",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12533-de-23-de-dezembro-de-1997",
+     "sha256": "91878e8bf67824bbe5c7e4431b71fe1d737833086b33fed4544a31380adb53e7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.533 - DE 23 DE DEZEMBRO DE 1997\nAutoriza o Executivo a celebrar convênio com o Mozarteum Brasileiro - Associação Cultural, e dá outras providências.\n(Projeto de Lei n. 968/97, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 4 de dezembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a celebrar convênio - de acordo com o texto anexo, rubricado pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei - com o Mozarteum Brasileiro - Associação Cultural, destinando-lhe subvenção de R$ 497.000,00 (quatrocentos e noventa e sete mil reais), destinada a auxiliar o custeio e a realização das atividades da instituição no exercício de 1997, inclusive a temporada de concertos internacionais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A subvenção a que se refere o artigo anterior será paga em 08 (oito) parcelas mensais, iguais e sucessivas, a partir da promulgação desta lei, devendo a instituição prestar contas de sua aplicação, nos termos regulamentares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nTermo de Convênio que entre si celebram a PREFEITURA DO MUNICÍPIO DE SÃO PAULO e o MOZARTEUM BRASILEIRO - ASSOCIAÇÃO CULTURAL.\nAos dias do mês de 199 , de um lado a Prefeitura do Município de São Paulo, designada como PREFEITURA, representada, neste ato, pelo Prefeito, Doutor Celso Pitta, e de outro o Mozarteum Brasileiro - Associação Cultural, designada como MOZARTEUM, representada por sua Presidente Senhora Sabine Lovatelli, firmam o presente convênio, nos termos seguintes:\nCLÁUSULA PRIMEIRA\nO ajuste objetiva o desenvolvimento e a manutenção das atividades do MOZARTEUM, especialmente a realização de sua temporada de espetáculos.\nCLÁUSULA SEGUNDA\nA PREFEITURA concederá ao MOZARTEUM, para os fins indicados na Cláusula Primeira, subvenção no valor de R$ 497.000,00 (quatrocentos e noventa e sete mil reais), sendo o pagamento efetuado em 08 (oito) parcelas mensais, iguais e sucessivas, diretamente ao MOZARTEUM, observada a legislação vigente. Co-patrocínios pontuais poderão ser autorizados em processos próprios, utilizada a verba competente.\nSUBCLÁUSULA ÚNICA\nO primeiro pagamento será efetuado logo após a assinatura deste ajuste pelas partes e o registro da Nota de Empenho.\nCLÁUSULA TERCEIRA\nO ajuste vigorará pelo prazo correspondente ao respectivo crédito orçamentário. Para o próximo exercício poderá ser o ajuste renovado, a critério das partes, independentemente de nova lei, atualizando-se o valor da subvenção pelos índices adotados pela lei orçamentária.\nCLÁUSULA QUARTA\nAs prestações de contas, que deverão ser entregues até 31 de maio do ano seguinte ao do recebimento dos recursos, na forma regulamentar - vedado o pagamento de nova subvenção enquanto houver qualquer pendência com a instituição - serão sempre efetuadas diretamente pelo MOZARTEUM à PREFEITURA e ao E. TRIBUNAL DE CONTAS. O MOZARTEUM obriga-se, também, a apresentar à Comissão de Fiscalização de Convênios Culturais da Secretaria Municipal de Cultura relatórios mensais de suas atividades. A Comissão poderá pedir esclarecimento e novos subsídios, bem como acompanhar os eventos e atividades no local de sua realização.\nCLÁUSULA QUINTA\nO presente ajuste poderá ser denunciado a qualquer tempo, mediante simples comunicação epistolar. A denúncia, entretanto, para o MOZARTEUM, só produzirá efeitos no exercício seguinte ao da sua efetivação, não gerando direito a indenização, a qualquer título, salvo dolo ou malversação de recursos.\nCLÁUSULA SEXTA\nO Convênio poderá ser rescindido:\na) quando não tiver havido comprovação da boa e regular aplicação do recurso recebido, na forma da legislação aplicável, inclusive mediante procedimentos de fiscalização local, realizados periodicamente pela entidade ou sistema de controle interno da Administração Pública;\nb) quando verificado desvio de finalidade na aplicação dos recursos, atrasos não justificados no cumprimento das etapas ou fases programadas, práticas atentatórias aos princípios fundamentais da Administração Pública nas contratações e demais atos praticados na execução do Convênio, ou o inadimplemento do executor com relação a outras cláusulas conveniais básicas;\nc) quando o executor deixar de adotar as medidas saneadoras apontadas pelo partícipe repassador dos recursos ou por integrantes do respectivo sistema de controle interno.\nCLÁUSULA SÉTIMA\nNa hipótese de MOZARTEUM transferir sua sede desta Capital ou de não atender ao disposto na Cláusula Primeira, considerar-se-á imediatamente rescindido o Convênio, de pleno direito, independente de qualquer providência judicial ou extrajudicial, sem prejuízo de outras sanções previstas na legislação vigente.\nCLÁUSULA OITAVA\nOs saldos de recursos, enquanto não utilizados, serão obrigatoriamente aplicados em instituição financeira oficial.\nCLÁUSULA NONA\nAs receitas financeiras auferidas na forma da cláusula anterior serão obrigatoriamente computadas a crédito do Convênio e aplicadas, exclusivamente, no objeto de sua finalidade, devendo constar de demonstrativo específico, que integrará as prestações de contas do ajuste.\nCLÁUSULA DÉCIMA\nQuando da conclusão, denúncia, rescisão ou extinção do Convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à PREFEITURA, no prazo improrrogável de 30 (trinta) dias do evento, sob pena de imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente.\nCLÁUSULA DÉCIMA PRIMEIRA\nAs despesas com a execução deste Convênio correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nCLÁUSULA DÉCIMA SEGUNDA\nFica eleito o Foro desta Comarca, com expressa renúncia de qualquer outro, por mais especial ou privilegiado que seja ou venha a ser, para os procedimentos judiciais oriundos deste Termo.\nE por estarem assim ajustadas, lavrou-se este termo em quatro vias de igual teor, que vão assinadas pelas partes e testemunhas.\nSão Paulo, de de 199\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO\nMOZARTEUM BRASILEIRO - ASSOCIAÇÃO CULTURAL\nTESTEMUNHAS:\n1. _________________________\n2. _________________________\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12534",
+   "short": "Lei 12534/1997",
+   "title": "Lei nº 12.534, de 23/12/1997 (APROVA PLANO DE MELHORAMENTO VIARIO NO DISTRITO DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 543/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12534-de-23-de-dezembro-de-1997",
+   "first_law": "lei-1997-12534",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12534-de-23-de-dezembro-de-1997",
+     "sha256": "546ce1dfc5d34f7c8a703f1acc8d2bfeb55d9eeb9ec9cceb2628b7afc21cb9ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.534 - DE 23 DE DEZEMBRO DE 1997\nAprova plano de melhoramento viário no distrito do Butantã, e dá outras providências.\n(Projeto de Lei n. 543/96, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 4 de dezembro de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com as plantas anexas n. 26.802/1 e n. 26.802/5, E-454, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado plano de melhoramento viário consistente no alargamento e fixação de novo alinhamento no trecho da Avenida Magalhães de Castro, no distrito do Butantã, desde o final da Rua Henrique da Cunha até a Rua Itapé-Açu, numa extensão aproximada de 1.300,00 (hum mil e trezentos) metros.\nParágrafo único - Ficam igualmente aprovadas as concordâncias de alinhamentos constantes das plantas referidas no \"caput\" deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12535",
+   "short": "Lei 12535/1997",
+   "title": "Lei nº 12.535, de 24/12/1997 (DA NOVA REDACAO E ACRESCENTA PARAGRAFO UNICO AO ARTIGO 1. DA LEI N. 10741, DE 23/08/89, E DA OUTRAS PROVIDENCIAS. (PL 687/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12535-de-24-de-dezembro-de-1997",
+   "first_law": "lei-1997-12535",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12535-de-24-de-dezembro-de-1997",
+     "sha256": "d6f00739e1a5f16eb430fc2dae40b5c0cbb21e10ddf7a76954f68f8fe67c2236",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.535 - DE 24 DE DEZEMBRO DE 1997\nDá nova redação e acrescenta parágrafo único ao artigo 1º da Lei n. 10.741, de 23 de agosto de 1989, e dá outras providências.\n(Projeto de Lei n. 687/97, do Vereador Ivo Morganti)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 1º da Lei n. 10.741, de 23 de agosto de 1989, passa a vigorar com a seguinte redação:\n\"Art. 1º As leis municipais, ao serem sancionadas e promulgadas, deverão conter o nome e a sigla partidária do autor do projeto que deu origem à lei, ainda que o autor da propositura não esteja mais no exercício do mandato.\nParágrafo único. Por ocasião da sanção e promulgação de propositura de parlamentar ou ex-parlamentar, que não mais possua vínculo com qualquer agremiação político-partidária, deverá constar da lei a sigla à qual o Vereador estava filiado no momento da apresentação do projeto à Câmara.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12536",
+   "short": "Lei 12536/1997",
+   "title": "Lei nº 12.536, de 24/12/1997 (DETERMINA QUE AS MOTOCICLETAS DAS EMPRESAS DE ENTREGAS EXPRESSAS DEVEM CONTER PLACA DE IDENTIFICACAO COM NOME E TELEFONE DA REFERIDA. (PL 658/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12536-de-24-de-dezembro-de-1997",
+   "first_law": "lei-1997-12536",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12536-de-24-de-dezembro-de-1997",
+     "sha256": "e87dabf6e5bf0cb7802940718f98920c1d72d9d1fd71da82a27f37b89d0b8508",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.536 - DE 24 DE DEZEMBRO DE 1997\nDetermina que as motocicletas das empresas de entregas expressas devem conter placa de identificação com nome e telefone da referida.\n(Projeto de Lei n. 658/97, do Vereador Hanna Gharib - PPB)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As motocicletas das empresas de entregas expressas, de frota própria ou subcontratadas, devem conter placa de identificação contendo o nome e telefone da referida empresa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A placa de identificação deverá ser afixada na traseira da motocicleta, oferecendo condição técnica de visibilidade a distância, bem como a devida clareza da informação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A inobservância do disposto nesta Lei será punida com multa pecuniária no valor de 100 (cem) UFIRs, multa que dobrará de valor no caso de reincidências.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da aplicação desta Lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12538",
+   "short": "Lei 12538/1997",
+   "title": "Lei nº 12.538, de 29/12/1997 (DENOMINA RUA AMERICO BIANCALANA O LOGRADOURO PUBLICO INOMINADO - CODLOG N. 70.405-9, SITUADO NO DISTRITO DE VILA MARIA. (PL 691/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12538-de-29-de-dezembro-de-1997",
+   "first_law": "lei-1997-12538",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12538-de-29-de-dezembro-de-1997",
+     "sha256": "4cc9fea478890f70a6ede32d37d28ef03b8d5e3b30914250023bc1723aef24f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.538 - DE 29 DE DEZEMBRO DE 1997\nDenomina Praça Cícero José Saraiva o logradouro sem denominação, construído na Estrada de Itapecerica, Cadlog 09529/0, localizado entre a Rua Cândido das Neves, Cadlog 12943/7 e a Rua Jaguajira, Cadlog 09824/8, Distrito Jardim São Luiz.\n(Projeto de Lei n. 867/96, do Vereador Mário Dias - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Cícero José Saraiva o logradouro sem denominação, construído na Estrada de Itapecerica, Cadlog 09529/0, localizado entre a Rua Cândido das Neves, Cadlog 12943/7 e a Rua Jaguajira, Cadlog 09824/8, Distrito Jardim São Luiz.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12539",
+   "short": "Lei 12539/1997",
+   "title": "Lei nº 12.539, de 29/12/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12539-de-29-de-dezembro-de-1997",
+   "first_law": "lei-1997-12539",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12539-de-29-de-dezembro-de-1997",
+     "sha256": "0338141f5778b149e5ecf7a93f3c0c1b31a9ae8b290a673b8c9aa779a109d958",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.539 - DE 29 DE DEZEMBRO DE 1997\nDenomina Rua Américo Biancalana o logradouro público inominado - CODLOG n. 70.405-9, situado no Distrito de Vila Maria.\n(Projeto de Lei n. 691/97, do Vereador Wadih Mutran - PPB)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Américo Biancalana o logradouro público inominado - CODLOG n. 70.405-9, situado no Distrito de Vila Maria, com início na Rua Baracela e término aproximadamente a 150 metros do seu início, junto ao Córrego Cabuçu.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

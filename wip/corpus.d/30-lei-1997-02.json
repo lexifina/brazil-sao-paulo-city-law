@@ -1,0 +1,2704 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1997-12373": {
+   "label": "Lei nº 12.373, de 13/06/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DA SAUDE.(PL 184/97)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12373-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12374": {
+   "label": "Lei nº 12.374, de 13/06/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA CONFLUENCIA DA AV. BELARMINO FERREIRA COM AS RUAS FORTUNA DE MINAS E ARIANA, NA VILA ARISI, DISTRITO DE CIDADE LIDER, E DA OUTRAS PROVIDENCIAS.(PL 163/97)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12374-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12375": {
+   "label": "Lei nº 12.375, de 13/06/1997",
+   "title": "ALTERA A DENOMINACAO DA RUA AGASSIZ PARA RUA JOAQUIM DOS SANTOS ANDRADE.(PL142/97)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12375-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12378": {
+   "label": "Lei nº 12.378, de 13/06/1997",
+   "title": "DENOMINA PRACA DOUTOR HERACLITO CORREA DE FREITAS NETTO,O ESPACO LIVRE SITUADO NO DISTRITO DE VILA PRUDENTE.(PL 98/96)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12378-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12379": {
+   "label": "Lei nº 12.379, de 13/06/1997",
+   "title": "Dispõe sobre alterações na Lei n. 12.268, de 19 de dezembro de 1996.",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12379-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12381": {
+   "label": "Lei nº 12.381, de 13/06/1997",
+   "title": "ALTERA A DENOMINACAO DA EMEI JARDIM MIRIAM, PARA ESCOLA MUNICIPAL DE EDUCACAO INFANTIL \"AYRTON SENNA DA SILVA\".(PL 372/96)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12381-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12382": {
+   "label": "Lei nº 12.382, de 13/06/1997",
+   "title": "DISPOE SOBRE O TRANSPORTE COMERCIAL A GRANEL DE GARRAFAS, E DA OUTRAS PROVIDENCIAS.(PL 1207/95)",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12382-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12383": {
+   "label": "Lei nº 12.383, de 13/06/1997",
+   "title": "Altera a denominação do Cemitério do Brás para \"Cemitério da Quarta Parada\".",
+   "kind": "law",
+   "enacted": "1997-06-13",
+   "published": "1997-06-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12383-de-13-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12384": {
+   "label": "Lei nº 12.384, de 19/06/1997",
+   "title": "DENOMINA TRAVESSA ANTONIO CARLOS DE ASSIS O LOGRADOURO PUBLICO INOMINADO,LOCALIZADO NA RUA PEDRO BELLEGARDE,112 -MOC 91 -SETOR 054 -QUADRA -029 -CHACARA CALIFORNIA/AR-PE.(PL 510/95)",
+   "kind": "law",
+   "enacted": "1997-06-19",
+   "published": "1997-06-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12384-de-19-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12386": {
+   "label": "Lei nº 12.386, de 19/06/1997",
+   "title": "DENOMINA VIA DE PEDESTRE ZACHARIAS ELIAS O LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NO TATUAPE.(PL 604/94)",
+   "kind": "law",
+   "enacted": "1997-06-19",
+   "published": "1997-06-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12386-de-19-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12387": {
+   "label": "Lei nº 12.387, de 19/06/1997",
+   "title": "DENOMINA TRAVESSA OSCAR FRANCERA O LOGRADOURO SEM DENOMINACAO,SITUADO NA ALTURA DO NUMERO 229 DA RUA MARTINS PENA,NO TATUAPE.(PL 237/94)",
+   "kind": "law",
+   "enacted": "1997-06-19",
+   "published": "1997-06-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12387-de-19-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12389": {
+   "label": "Lei nº 12.389, de 19/06/1997",
+   "title": "DENOMINA RUA JOAO ALVES DE SENA O LOGRADOURO PUBLICO SITUADO NO JARDIM DA LARANJEIRA,GUAIANAZES.(PL 649/96)",
+   "kind": "law",
+   "enacted": "1997-06-19",
+   "published": "1997-06-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12389-de-19-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12391": {
+   "label": "Lei nº 12.391, de 19/06/1997",
+   "title": "DENOMINA VIELA EUGENIO MONTEIRO JUNIOR O LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA MARIANA.(PL 746/96)",
+   "kind": "law",
+   "enacted": "1997-06-19",
+   "published": "1997-06-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12391-de-19-de-junho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12396": {
+   "label": "Lei nº 12.396, de 02/07/1997",
+   "title": "Dispõe sobre a reorganização parcial do Quadro do Magistério Municipal; altera as Leis nºs. 11.229, de 26 de junho de 1992, e 11.434, de 12 de novembro de 1993; readequa as Escalas de Padrões de Vencimentos que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-07-02",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12396-de-2-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12398": {
+   "label": "Lei nº 12.398, de 03/07/1997",
+   "title": "AUTORIZA O EXECUTIVO A ALTERAR A DENOMINACAO DA RUA CAMPELO, DISTRITO DE TREMEMBE. (PL 679/93)",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12398-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12400": {
+   "label": "Lei nº 12.400, de 03/07/1997",
+   "title": "INSTITUI A CICLOVIA DA MOOCA, E DA OUTRAS PROVIDENCIAS. (PL 299/94)",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12400-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12402": {
+   "label": "Lei nº 12.402, de 03/07/1997",
+   "title": "Veda a comercialização de bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos no Município de São Paulo, especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12402-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12405": {
+   "label": "Lei nº 12.405, de 03/07/1997",
+   "title": "Dispõe sobre a instalação de cursos de Informática na rede municipal de ensino, alterando o Decreto n. 34.160, de 9 de maio de 1994.",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12405-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12406": {
+   "label": "Lei nº 12.406, de 03/07/1997",
+   "title": "Dispõe sobre o patrocínio de Centros Desportivos Municipais - CDM - balneários, minibalneários, escolas e centros educacionais do Município por empresas.",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12406-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12409": {
+   "label": "Lei nº 12.409, de 03/07/1997",
+   "title": "CONFERE A EMPG DO JARDIM GUANABARA A DENOMINACAO ESCOLA DE PRIMEIRO GRAU \"PROFESSOR FLORESTAN FERNANDES\".(PL 304/97)",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12409-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12411": {
+   "label": "Lei nº 12.411, de 03/07/1997",
+   "title": "DENOMINA \"PRACA BENEDICTO RAMOS RODRIGUES\" LOGRADOURO PUBLICO INOMINADO LOCALIZADO NO DISTRITO DE ERMELINO MATARAZZO, E DA OUTRAS PROVIDENCIAS. (PL 467/97)",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12411-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12412": {
+   "label": "Lei nº 12.412, de 03/07/1997",
+   "title": "DENOMINA PRACA CIDADE DE CHAVES A AREA INOMINADA LOCALIZADA NO BAIRRO DE VILA SUZANA, DISTRITO DO MORUMBI. (PL 411/97)",
+   "kind": "law",
+   "enacted": "1997-07-03",
+   "published": "1997-07-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12412-de-3-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12414": {
+   "label": "Lei nº 12.414, de 10/07/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO SITUADO NO SITIO DO MANDAQUI, DISTRITO DA CASA VERDE. (PL 426/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12414-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12415": {
+   "label": "Lei nº 12.415, de 10/07/1997",
+   "title": "DENOMINA TRAVESSA DINO ANTONIO MENOCHI, LOGRADOURO PUBLICO INOMINADO NA VILA SERRALHEIRO. (PL 657/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12415-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12416": {
+   "label": "Lei nº 12.416, de 10/07/1997",
+   "title": "DENOMINA RUA ENG. EDGARD FERREIRA DE BARROS JUNIOR, LOGRADOURO INOMINADO SITUADO NA FREGUESIA DO O. (PL 662/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12416-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12417": {
+   "label": "Lei nº 12.417, de 10/07/1997",
+   "title": "Denomina Rua Casa de Emaús a Rua 9 do Jardim Santa Cruz, localizada no Distrito de Santo Amaro.",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12417-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12418": {
+   "label": "Lei nº 12.418, de 10/07/1997",
+   "title": "DENOMINA MARIA DO CARMO DE FREITAS A TRAVESSA LOCALIZADA NA RUA SANA MUNDO,NO JARDIM ELIANA,NESTA CAPITAL.(PL 673/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12418-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12419": {
+   "label": "Lei nº 12.419, de 10/07/1997",
+   "title": "DENOMINA GILBERTO SILVA, A PRACA SEM DENOMINACAO, LOCALIZADA NA RUA ALBERTOFLORES E RUA MAR DE ESPANHA, NA VILA NHOCUNE, NESTA CAPITAL. (PL 675/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12419-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12420": {
+   "label": "Lei nº 12.420, de 10/07/1997",
+   "title": "DENOMINA MERCEDES GONCALVES VEIGA BUSINARI A TRAVESSA SEM DENOMINACAO, LOCALIZADA NA RUA SERRA DE BRAGANCA, ALTURA DO N.36, VILA GOMES CARDIM. (PL 728/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12420-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12422": {
+   "label": "Lei nº 12.422, de 10/07/1997",
+   "title": "Denomina Rua Antonio Alves Ribeiro o logradouro público situado no Jardim Etelvina, em Guaianazes.",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12422-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12423": {
+   "label": "Lei nº 12.423, de 10/07/1997",
+   "title": "DENOMINA RUA KATINGUELE O LOGRADOURO PUBLICO INOMINADO NO BAIRRO CHACARA DOSOL, DISTRITO DE CAPELA DO SOCORRO. (PL 681/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12423-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12424": {
+   "label": "Lei nº 12.424, de 10/07/1997",
+   "title": "DENOMINA CARLOS JOEL NELLI O BALNEARIO DO IPIRANGA. (PL 730/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12424-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12425": {
+   "label": "Lei nº 12.425, de 10/07/1997",
+   "title": "DENOMINA ALEXANDRE MARTINS MACHADO A PRACA LOCALIZADA NA RUA PEREIRA VERGUEIRO COM A RUA MACIEL MONTEIRO, NO BAIRRO DE ARTUR ALVIM, NESTA CAPITAL. (PL732/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12425-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12426": {
+   "label": "Lei nº 12.426, de 10/07/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA CUNHA - DISTRITO DE SAO LUCAS. (PL 784/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12426-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12427": {
+   "label": "Lei nº 12.427, de 10/07/1997",
+   "title": "DENOMINA RUA ANDRE BAGI, A RUA B, LOCALIZADA PARALELA A RUA MONTE AZUL PAULISTA, NA VILA SANTO ESTEVAM REIS. (PL 845/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12427-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12430": {
+   "label": "Lei nº 12.430, de 10/07/1997",
+   "title": "DENOMINA CARLOS MARCIANO THEODORO, A TRAVESSA PARTICULAR (CODLOG 68715-4, SETOR 100, QUADRA 102, AR-VP). (PL 1518/95)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12430-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12431": {
+   "label": "Lei nº 12.431, de 10/07/1997",
+   "title": "DENOMINA MINI-BALNEARIO IRMAOS PAOLILLO O PROPRIO MUNICIPAL CONHECIDO POR MINI-BALNEARIO DO JARDIM ALIANCA, NO DISTRITO DE JACANA. (PL 294/96)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12431-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12432": {
+   "label": "Lei nº 12.432, de 10/07/1997",
+   "title": "DA DENOMINACAO A PRACA SITUADA NO BAIRRO - CASA VERDE. (PL 529/97)",
+   "kind": "law",
+   "enacted": "1997-07-10",
+   "published": "1997-07-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12432-de-10-de-julho-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12435": {
+   "label": "Lei nº 12.435, de 27/08/1997",
+   "title": "Aprova plano de alargamento da Rua Itapaiuna, no distrito de Santo Amaro, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12435-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12436": {
+   "label": "Lei nº 12.436, de 27/08/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NO DISTRITO DE SANTO AMARO. (PL 695/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12436-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12437": {
+   "label": "Lei nº 12.437, de 27/08/1997",
+   "title": "DENOMINA VIA DE PEDESTRE INOMINADA SITUADA NO BAIRRO DA PENHA - DISTRITO DAPENHA. (PL 764/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12437-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12438": {
+   "label": "Lei nº 12.438, de 27/08/1997",
+   "title": "DENOMINA PRACA VEREADOR WALDEMAR TEIXEIRA PINTO O ESPACO LIVRE SEM DENOMINACAO SITUADO ENTRE A RUA DR. FAUSTO DE ALMEIDA PRADO PENTEADO E LINHA TRANSMISSORA DE ENERGIA. (PL 754/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12438-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12439": {
+   "label": "Lei nº 12.439, de 27/08/1997",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM HERCILIA - DISTRITODE VILA MATILDE, E DA OUTRAS PROVIDENCIAS. (PL 165/97)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12439-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12440": {
+   "label": "Lei nº 12.440, de 27/08/1997",
+   "title": "DENOMINA AVENIDA YOKINO OGAWA O LOGRADOURO PUBLICO CONHECIDO COMO AV. \"A\", COM INICIO NA ESTRADA DO CURUCUTU - SETOR 291, AR/CS. (PL 801/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12440-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12441": {
+   "label": "Lei nº 12.441, de 27/08/1997",
+   "title": "DENOMINA RUA EUZEBIO COGHI O LOGRADOURO PUBLICO CONHECIDO COMO ESTRADA DO ENGENHO VELHO (CADLOG 22517-7 SETOR 177)COM INICIO A RUA AMERICO COXA(AR/CS)E TERMINO NA ESTRADA DE PARELHEIROS. (PL 832/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12441-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12443": {
+   "label": "Lei nº 12.443, de 27/08/1997",
+   "title": "INSTITUI O \"PREMIO PRESTES MAIA DE URBANISMO\", E DA OUTRAS PROVIDENCIAS.(PL786/96)",
+   "kind": "law",
+   "enacted": "1997-08-27",
+   "published": "1997-08-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12443-de-27-de-agosto-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12447": {
+   "label": "Lei nº 12.447, de 03/09/1997",
+   "title": "DENOMINA TRAVESSA JOSE CARBONE O LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NA ALTURA DO N. 362, DA RUA MONGUBA, NO DISTRITO DE VILA CARRAO. (PL 831/95)",
+   "kind": "law",
+   "enacted": "1997-09-03",
+   "published": "1997-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12447-de-3-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12450": {
+   "label": "Lei nº 12.450, de 16/09/1997",
+   "title": "DESINCORPORA AREA DA CLASSE DOS BENS DE USO COMUM DO POVO; AUTORIZA SUA CONCESSAO A SOCIEDADE BENEFICENTE SANTO EXPEDITO, E DA OUTRAS PROVIDENCIAS. (PL 580/96)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12450-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12451": {
+   "label": "Lei nº 12.451, de 16/09/1997",
+   "title": "DENOMINA ANNITA PINACCI GONCALVES A PRACA LOCALIZADA ENTRE AS RUAS JOSE GIORDANO E MUSEU REAL, ARTUR ALVIM, CAPITAL. (PL 763/95)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12451-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1997-12452": {
+   "label": "Lei nº 12.452, de 16/09/1997",
+   "title": "DENOMINA PRACA FRANCISCO DO REGO MONTEIRO O LOGRADOURO PUBLICO INOMINADO SITUADO NO BAIRRO DO JABAQUARA. (PL 702/96)",
+   "kind": "law",
+   "enacted": "1997-09-16",
+   "published": "1997-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12452-de-16-de-setembro-de-1997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1997-12373",
+   "short": "Lei 12373/1997",
+   "title": "Lei nº 12.373, de 13/06/1997 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DA SAUDE.(PL 184/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12373-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12373",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12373-de-13-de-junho-de-1997",
+     "sha256": "b65ea235c64431c2bfede48ffcb3e9bc5df1061b93328c70d365dac06e08d2a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.373 - DE 13 DE JUNHO DE 1997\nDenomina logradouro público inominado situado no Distrito da Saúde.\n(Projeto de Lei n. 184/97, do Vereador Ivo Morganti)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Octavio Braga o logradouro público inominado delimitado pelas ruas Professor Souza Barros, Arapuã e o acesso à Avenida Ceci, situado no Planalto Paulista - Distrito da Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12374",
+   "short": "Lei 12374/1997",
+   "title": "Lei nº 12.374, de 13/06/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12374-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12374",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12374-de-13-de-junho-de-1997",
+     "sha256": "8b314d406a4ef23f5a337f1aff3ddfae86a7ee168ddc94efc0e7a1c0c24b4fee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.374 - DE 13 DE JUNHO DE 1997\nDenomina logradouro público inominado situado na confluência da Av. Belarmino Ferreira com as ruas Fortuna de Minas e Ariana, na Vila Arisi, Distrito de Cidade Líder, e dá outras providências.\n(Projeto de Lei n. 163/97, do Vereador Luiz Paschoal)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Soldado Edson Ribeiro de Siqueira o logradouro público inominado situado na confluência da Avenida Belarmino Ferreira com as ruas Fortuna de Minas e Ariana, na Vila Arisi, Distrito de Cidade Líder.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12375",
+   "short": "Lei 12375/1997",
+   "title": "Lei nº 12.375, de 13/06/1997 (ALTERA A DENOMINACAO DA RUA AGASSIZ PARA RUA JOAQUIM DOS SANTOS ANDRADE.(PL142/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12375-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12375",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12375-de-13-de-junho-de-1997",
+     "sha256": "563f3244372a25d0464127cb545c7d6711efef815c6befd86f93a64172aa595c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.375 - DE 13 DE JUNHO DE 1997\nAltera a denominação da Rua Agassiz para Rua Joaquim dos Santos Andrade.\n(Projeto de Lei n. 142/97, do Vereador José Amorim)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado de \"Rua Joaquim dos Santos Andrade\", o logradouro público com o nome de rua Agassiz, com ponto inicial na rua dos Carmelitas e término na rua do Carmo, Distrito da Sé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12378",
+   "short": "Lei 12378/1997",
+   "title": "Lei nº 12.378, de 13/06/1997 (DENOMINA PRACA DOUTOR HERACLITO CORREA DE FREITAS NETTO,O ESPACO LIVRE SITUADO NO DISTRITO DE VILA PRUDENTE.(PL 98/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12378-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12378",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12378-de-13-de-junho-de-1997",
+     "sha256": "e95b59150e77fe0dcd37ed4b72915d542f80f7d1ea6f2ac6137d8e9eb4d3ba20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.378 - DE 13 DE JUNHO DE 1997\nDenomina Praça Doutor Heráclito Corrêa de Freitas Netto, o espaço livre situado no Distrito de Vila Prudente.\n(Projeto de Lei n. 98/96, do Vereador Archibaldo Zancra)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça Doutor Heráclito Corrêa de Freitas Netto, o espaço livre sem denominação, situado no Distrito de Vila Prudente (Setor 044, Quadras 60-61-62-38), delimitado pelas Ruas Ituverava, Igarata e Ibitirama.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12379",
+   "short": "Lei 12379/1997",
+   "title": "Lei nº 12.379, de 13/06/1997 (Dispõe sobre alterações na Lei n. 12.268, de 19 de dezembro de 1996.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12379-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12379",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12379-de-13-de-junho-de-1997",
+     "sha256": "07c1a15920ce7fdce1c8e24c5aabd7192f236ec219e592d69290ef567628f6d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.379 - DE 13 DE JUNHO DE 1997\nDispõe sobre alterações na Lei n. 12.268, de 19 de dezembro de 1996.\n(Projeto de Lei n. 177/97, do Vereador Roberto Trípoli)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 3º do artigo 1º da Lei n. 12.268, de 19 de dezembro de 1996 passa a ter a seguinte redação:\n\"§ 3º Na execução desses serviços somente poderão ser usados produtos licenciados pela Divisão Nacional de Vigilância Sanitária do Ministério da Saúde e pelo Departamento de Defesa Animal da Secretaria de Defesa Agropecuária do Ministério de Agricultura e Abastecimento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O § 3º do artigo 2º da Lei n. 12.268, de 19 de dezembro de 1996 passa a ter a seguinte redação:\n\"§ 3º Para os fins desta Lei só terão validade os comprovantes fornecidos por empresas que possuírem os correspondentes registros, devidamente atualizados, na Secretaria de Saúde do Estado e em um dos seguintes Conselhos:\nI - Conselho Regional de Biologia;\nII - Conselho Regional de Engenharia, Arquitetura e Agronomia;\nIII - Conselho Regional de Medicina Veterinária; ou\nIV - Conselho Regional de Química.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12381",
+   "short": "Lei 12381/1997",
+   "title": "Lei nº 12.381, de 13/06/1997 (ALTERA A DENOMINACAO DA EMEI JARDIM MIRIAM, PARA ESCOLA MUNICIPAL DE EDUCACAO INFANTIL \"AYRTON SENNA DA SILVA\".(PL 372/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12381-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12381",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12381-de-13-de-junho-de-1997",
+     "sha256": "b78bd57b710aeb93911ceb990c0fe0443024185d7675668fd8f918f79c918a20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.381 - DE 13 DE JUNHO DE 1997\nAltera a denominação da EMEI Jardim Miriam, para Escola Municipal de Educação Infantil \"Ayrton Senna da Silva\".\n(Projeto de Lei n. 372/96, do Vereador Edivaldo Estima)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Escola Municipal de Educação Infantil \"Ayrton Senna da Silva\" a EMEI Jardim Miriam, subordinada à DREM-6.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12382",
+   "short": "Lei 12382/1997",
+   "title": "Lei nº 12.382, de 13/06/1997 (DISPOE SOBRE O TRANSPORTE COMERCIAL A GRANEL DE GARRAFAS, E DA OUTRAS PROVIDENCIAS.(PL 1207/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12382-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12382",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12382-de-13-de-junho-de-1997",
+     "sha256": "11e679865c74b3641366def052978669e4dd6d477acdc5559d864bf50dc1a378",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.382 - DE 13 DE JUNHO DE 1997\nDispõe sobre o transporte comercial a granel de garrafas, e dá outras providências.\n(Projeto de Lei n. 1.207/95, do Vereador Antonio de Paiva Monteiro Filho)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O transporte comercial a granel de garrafas, com quaisquer conteúdos ou vazias, somente poderá ser efetuado em caminhões com dispositivos técnicos que impeçam a queda de vasilhames do veículo, conforme a regulamentação desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O não-cumprimento do disposto nesta Lei acarretará multa ao infrator de 500 (quinhentas) Unidades Fiscais de Referência - UFIRs, dobrada na reincidência.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará o disposto nesta Lei no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas para a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12383",
+   "short": "Lei 12383/1997",
+   "title": "Lei nº 12.383, de 13/06/1997 (Altera a denominação do Cemitério do Brás para \"Cemitério da Quarta Parada\".)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12383-de-13-de-junho-de-1997",
+   "first_law": "lei-1997-12383",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12383-de-13-de-junho-de-1997",
+     "sha256": "86bcd926ef41c764546d234ed8690b6d218a8367852858bc411e6d6d65cd15bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.383 - DE 13 DE JUNHO DE 1997\nAltera a denominação do Cemitério do Brás para \"Cemitério da Quarta Parada\".\n(Projeto de Lei n. 484/94, do Vereador Vicente Viscome)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 15 de maio de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica alterada a denominação do Cemitério do Brás, localizado na confluência das avenidas Álvaro Ramos e Salim Farah Maluf e das ruas Tobias Barreto e David Zeiger, no bairro da Quarta Parada, para \"Cemitério da Quarta Parada\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor 180 (cento e oitenta) dias após sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12384",
+   "short": "Lei 12384/1997",
+   "title": "Lei nº 12.384, de 19/06/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12384-de-19-de-junho-de-1997",
+   "first_law": "lei-1997-12384",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12384-de-19-de-junho-de-1997",
+     "sha256": "48bf364c44a817bd3222dcaa217f9ccd1489fc7f0529abdbbb51e60bef2f916b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.384 - DE 19 DE JUNHO DE 1997\nDenomina Travessa Antonio Carlos de Assis o logradouro público inominado, localizado na Rua Pedro Bellegarde n. 112 - MOC 91 - Setor 054 - Quadra 029 - Chácara Califórnia/AR-PE.\n(Projeto de Lei n. 510/95, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Antonio Carlos de Assis o logradouro público inominado, localizado na Rua Pedro Bellegarde n. 112 - MOC 91 - Setor 054 - Quadra 029 - Chácara Califórnia/AR-PE.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12386",
+   "short": "Lei 12386/1997",
+   "title": "Lei nº 12.386, de 19/06/1997 (DENOMINA VIA DE PEDESTRE ZACHARIAS ELIAS O LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NO TATUAPE.(PL 604/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12386-de-19-de-junho-de-1997",
+   "first_law": "lei-1997-12386",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12386-de-19-de-junho-de-1997",
+     "sha256": "7095dbe79fa3f85de858b199127fe178e51493b44476cf0404ff4ec4609ca239",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.386 - DE 19 DE JUNHO DE 1997\nDenomina Via de Pedestre Zacharias Elias o logradouro público inominado, localizado no Tatuapé.\n(Projeto de Lei n. 604/94, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Via de Pedestre Zacharias Elias o logradouro público inominado, localizado na Rua Henrique Sertório, altura do n. 405, no Tatuapé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12387",
+   "short": "Lei 12387/1997",
+   "title": "Lei nº 12.387, de 19/06/1997 (DENOMINA TRAVESSA OSCAR FRANCERA O LOGRADOURO SEM DENOMINACAO,SITUADO NA ALTURA DO NUMERO 229 DA RUA MARTINS PENA,NO TATUAPE.(PL 237/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12387-de-19-de-junho-de-1997",
+   "first_law": "lei-1997-12387",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12387-de-19-de-junho-de-1997",
+     "sha256": "8ac547183f7605ef20fa97e543518b3e16a159b823f7f42419affbbff30ba1be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.387 - DE 19 DE JUNHO DE 1997\nDenomina Travessa Oscar Francera o logradouro sem denominação, situado na altura do número 229 da Rua Martins Pena, no Tatuapé.\n(Projeto de Lei n. 237/94, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Oscar Francera o logradouro sem denominação, situado na altura do número 229 da Rua Martins Pena, no Tatuapé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12389",
+   "short": "Lei 12389/1997",
+   "title": "Lei nº 12.389, de 19/06/1997 (DENOMINA RUA JOAO ALVES DE SENA O LOGRADOURO PUBLICO SITUADO NO JARDIM DA LARANJEIRA,GUAIANAZES.(PL 649/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12389-de-19-de-junho-de-1997",
+   "first_law": "lei-1997-12389",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12389-de-19-de-junho-de-1997",
+     "sha256": "d8ec21010d4e631a5f9d38426cd5089e3022416a303977f0305d1e5e07141358",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.389 - DE 19 DE JUNHO DE 1997\nDenomina Rua João Alves de Sena o logradouro público situado no Jardim da Laranjeira, Guaianazes.\n(Projeto de Lei n. 649/96, do Vereador Vicente Viscome)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua João Alves de Sena o logradouro público conhecido como Rua 9 (Nove), que tem início na Rua Bernardo Antunes Rolim, no Jardim da Laranjeira, Guaianazes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12391",
+   "short": "Lei 12391/1997",
+   "title": "Lei nº 12.391, de 19/06/1997 (DENOMINA VIELA EUGENIO MONTEIRO JUNIOR O LOGRADOURO PUBLICO INOMINADO SITUADO NO DISTRITO DE VILA MARIANA.(PL 746/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12391-de-19-de-junho-de-1997",
+   "first_law": "lei-1997-12391",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12391-de-19-de-junho-de-1997",
+     "sha256": "619d2102bc7cf6bea4c872ed07230eec2a92de0ffe5985dfe8140ebb9d5bfd03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.391 - DE 19 DE JUNHO DE 1997\nDenomina Viela Eugênio Monteiro Júnior o logradouro público inominado situado no Distrito de Vila Mariana.\n(Projeto de Lei n. 746/96, do Vereador Faria Lima)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Eugênio Monteiro Júnior o logradouro público inominado situado na Rua Tutóia, 795, no distrito de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12396",
+   "short": "Lei 12396/1997",
+   "title": "Lei nº 12.396, de 02/07/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12396-de-2-de-julho-de-1997",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1997-12396"
+   ],
+   "versions": [
+    {
+     "from": "2001-07-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12396-de-2-de-julho-de-1997",
+     "sha256": "7ad77faf46aea64ac98cf3045daa457051d9673d7355fa8c6f151c7f7af3efc1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.396 - DE 2 DE JULHO DE 1997\nDispõe sobre a reorganização parcial do Quadro do Magistério Municipal; altera as Leis ns. 11.229, de 26 de junho de 1992, e 11.434, de 12 de novembro de 1993; readequa as Escalas de Padrões de Vencimentos que especifica, e dá outras providências.\n(Projeto de Lei n. 456/97, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 17 de junho de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados, na Parte Permanente, Tabela III, PP-III, do Quadro dos Profissionais de Educação, e incluídos no Anexo I - Tabela \"B\" - Cargos de Provimento Efetivo do Quadro do Magistério Municipal, previsto na Lei n. 11.434, de 12 de novembro de 1993, os cargos de Professor Adjunto de Deficientes Auditivos e de Professor Titular de Deficientes Auditivos, constantes do Anexo I, parte integrante desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\nI -\na)\nb)\nc)\nd)\ne)\nII -\na)\n(1)\nb)\nc)\nd)\ne)\nIII -\na)\nb)\nc)\nParágrafo único.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam transformados em cargos de Professor Adjunto de Deficientes Auditivos ou de Professor Titular de Deficientes Auditivos, os cargos efetivos de Professor Adjunto ou Titular de Educação Infantil, Ensino Fundamental I e II, respectivamente, cujos titulares comprovem possuir habilitação específica de grau superior de graduação em Educação de Deficientes da Audiocomunicação, ou título de curso de aperfeiçoamento ou de especialização em Educação de Deficientes Auditivos, de nível médio.\n§ 1º A transformação de que trata este artigo dar-se-á mediante opção formulada pelo servidor, dentro do prazo de 60 (sessenta) dias, contados da data da publicação desta Lei.\n§ 2º Após a integração dos atuais titulares na nova situação, a quantidade de cargos transformados será acrescida ao número de cargos de Professor Adjunto de Deficientes Auditivos e de Professor Titular de Deficientes Auditivos, ora criados, conforme o caso.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Decreto do Executivo fixará o número definitivo de cargos de Professor Adjunto de Deficientes Auditivos e de Professor Titular de Deficientes Auditivos, bem como o número de cargos de Professor Adjunto e Titular de Educação Infantil, Ensino Fundamental I e II, após efetivadas as transformações previstas no artigo anterior.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Em decorrência das transformações a serem operadas, o tempo de permanência no cargo atual será considerado como de exercício no novo cargo, para todos os efeitos legais.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os Profissionais de Educação que tiverem seus cargos transformados na forma do artigo 3º desta Lei, manterão, na nova situação, o grau que detinham na situação anterior.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam incluídos no Anexo IV - Tabela \"A\" - Quadro do Magistério Municipal, previsto na Lei n. 11.434, de 12 de novembro de 1993, os cargos de Professor Adjunto de Deficientes Auditivos e de Professor Titular de Deficientes Auditivos, passando os mesmos a constar da relação dos cargos discriminados na Categoria 3 das Classes I e II, respectivamente, daquele anexo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Aplica-se aos integrantes do Quadro de Apoio à Educação o disposto nos artigos 80, 81 e 82 da Lei n. 11.229, de 26 de junho de 1992.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ficam incluídos, no artigo 93 da Lei n. 11.434, de 12 de novembro de 1993, os §§ 11 e 12 com a seguinte redação:\n\"Art. 93. ...............................\n§ 11 Os Profissionais de Educação docentes, aposentados ou pensionistas, que comprovarem haver exercido a efetiva regência de classe em jornada de 27 (vinte e sete) ou 24 (vinte e quatro) horas semanais, por período inferior ao estabelecido no parágrafo anterior deste artigo, terão incorporada aos seus proventos ou pensões a Jornada Especial Integral, na proporção de 1/10 (um décimo) por ano.\n§ 12 Na hipótese de aposentadoria por invalidez ou compulsória, o prazo previsto no § 10 deste artigo fica reduzido à metade.\"\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O ato de nomeação de candidatos habilitados em concursos para provimento, em caráter efetivo, de cargos dos Quadros dos Profissionais de Educação, fica condicionado à prévia escolha de local de exercício.\n§ 1º A convocação para escolha de local de exercício será feita por publicação no \"Diário Oficial\" do Município e obedecerá, rigorosamente, à ordem de classificação no respectivo concurso.\n§ 2º Sem prejuízo da publicação a que se refere o parágrafo anterior, a Secretaria Municipal de Educação enviará correspondência, com aviso de recebimento, aos candidatos habilitados, dando-lhes ciência da convocação.\n§ 3º O procedimento de escolha de local de exercício será disciplinado por ato do Secretário Municipal de Educação e deverá ocorrer no prazo de 15 (quinze) dias, contados da publicação da convocação, podendo ser prorrogado, por igual período, a critério da Administração.\n§ 4º O candidato convocado que não comparecer para a escolha a que se refere este artigo não será nomeado.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Compete ao Secretário Municipal de Educação dar posse aos candidatos nomeados para provimento efetivo dos cargos que compõem os Quadros dos Profissionais de Educação, observada a legislação aplicável à espécie.\nParágrafo único. A competência de que trata o \"caput\" deste artigo poderá ser delegada à autoridade hierarquicamente inferior, mediante Portaria do Secretário Municipal de Educação.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A posse de cargos dos Quadros dos Profissionais de Educação deverá se verificar no prazo de 15 (quinze) dias, contados da publicação oficial do ato de provimento.\n§ 1º O prazo previsto neste artigo poderá ser prorrogado, por igual período, a juízo da autoridade competente para dar posse.\n§ 2º O termo inicial do prazo para posse de funcionários em férias ou licença, exceto no caso de licença para tratar de interesse particular, será o da data em que voltar ao serviço.\n§ 3º Se a posse não se der dentro do prazo legal, o ato de provimento será tornado sem efeito.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O exercício de cargos dos Quadros dos Profissionais de Educação terá início no prazo de 15 (quinze) dias, contados da data da posse.\n§ 1º O prazo referido neste artigo poderá ser prorrogado por igual período, a juízo da autoridade competente para dar posse.\n§ 2º O funcionário que não entrar em exercício dentro do prazo será exonerado do cargo.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O artigo 7º das Disposições Estatutárias Transitórias da Lei n. 11.229, de 26 de junho de 1992, passa a vigorar com a seguinte redação:\n\"Art. 7º Somente poderão ser contratados Profissionais do Ensino pelo prazo máximo de 6 (seis) meses, para o desempenho das funções inerentes aos cargos de Professor Adjunto de Educação Infantil, de Ensino Fundamental I e II, de Ensino Médio e de Deficientes Auditivos, quando houver necessidade inadiável para o regular -funcionamento das unidades escolares.\n§ 1º A vedação contida no § 2º do artigo 3º da Lei n. 10.793, de 21 de dezembro de 1989, não se aplica aos contratados para as funções referidas no \"caput\" deste artigo, que poderão ser novamente contratados, sempre pelo prazo máximo de 6 (seis) meses.\n§ 2º Homologados os concursos públicos destinados ao provimento de cargos de Professor Adjunto, e publicada, no \"Diário Oficial\" do Município, a convocação para escolha de local de exercício, na forma do disposto na lei específica, poderão, em caráter excepcional, ser novamente contratados os Profissionais do Ensino com contratos em vigor, ao término destes, por uma única vez, pelo prazo máximo de 6 (seis) meses, desde que tal medida não acarrete o preterimento de candidatos aprovados nos respectivos concursos ou qualquer outro prejuízo.\"\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Aplica-se aos integrantes do Quadro de Apoio à Educação o disposto nos incisos III e V a XV do artigo 76 da Lei n. 11.229, de 26 de junho de 1992.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Fica mantida a função de Auxiliar de Direção, para exercício, junto à direção das Escolas Municipais de 1º Grau, de 1º e 2º Graus e de EMEDAs, sendo um por turno de funcionamento das unidades.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Os afastamentos aos quais se referem os incisos I, III e V do artigo 50 da Lei n. 11.229, de 26 de junho de 1992, serão considerados como de efetivo exercício, para todos os fins.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Para os efeitos da classificação para a escolha a que se refere o artigo 31 da Lei n. 11.229, de 26 de junho de 1992, o tempo de serviço no Magistério será valorado nos seguintes quesitos:\na) unidade escolar;\nb) Carreira do Magistério Municipal; e\nc) Magistério Municipal.\nParágrafo único. A contagem de tempo a que se referem os itens \"b\" e \"c\" do \"caput\" deste artigo não poderá ser concomitante.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. A alínea \"a\" do § 3º do artigo 53 da Lei n. 11.434, de 12 de novembro de 1993, passa a ter a seguinte redação:\n\"Art. 53. ..............................\n§ 3º ...............................\na) no outro cargo esteja submetido à Jornada Básica ou Jornada Especial Ampliada.\"\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Fica reaberto pelo prazo de 90 (noventa) dias, a partir da publicação desta Lei, a opção prevista no artigo 8º da Lei n. 11.434, de 12 de novembro de 1993.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. As Escalas de Padrões de Vencimentos dos Quadros dos Profissionais de Educação, compreendendo as referências, os graus e os valores constantes do Anexo II, a que se refere o artigo 6º da Lei n. 11.434, de 12 de novembro de 1993, devidamente reajustadas nos termos da legislação vigente, ficam readequadas, a partir de 1º de abril de 1997, de conformidade com o Anexo II, integrante desta Lei.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. As Escalas de Padrões de Vencimentos do Quadro do Magistério Municipal, compreendendo as referências, os graus e os valores constantes do Anexo II, Tabelas \"A\" e \"B\", a que se refere o artigo 23 da Lei n. 11.229, de 26 de junho de 1992, devidamente reajustadas nos termos da legislação vigente, ficam readequadas, a partir de 1º de abril de 1997, de conformidade com o Anexo III, integrante desta Lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. As demais vantagens pecuniárias percebidas pelos servidores dos Quadros dos Profissionais de Educação, que incidirem sobre as Escalas de Padrões de Vencimentos dos referidos Quadros, estabelecidas de acordo com as Leis ns. 11.229, de 26 de junho de 1992, e 11.434, de 12 de novembro de 1993, devidamente reajustadas nos termos da legislação vigente, passam a ser calculadas, nos mesmos percentuais e bases, sobre as escalas ora readequadas.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Aplicam-se aos aposentados e pensionistas as disposições contidas nesta Lei; no que couber.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. O encargo financeiro decorrente da extensão dos benefícios previstos nesta Lei às pensões concedidas pelo Instituto de Previdência Municipal de São Paulo - IPREM será suportado pela Prefeitura do Município de São Paulo que, diante da comprovação das despesas, realizará repasses mensais à Autarquia.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial o artigo 13 da Lei n. 11.434, de 12 de novembro de 1993.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 12.396, de 02/07/1997 was altered by acts of 1 date(s), the latest 2001-07-06."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12398",
+   "short": "Lei 12398/1997",
+   "title": "Lei nº 12.398, de 03/07/1997 (AUTORIZA O EXECUTIVO A ALTERAR A DENOMINACAO DA RUA CAMPELO, DISTRITO DE TREMEMBE. (PL 679/93))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12398-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12398",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12398-de-3-de-julho-de-1997",
+     "sha256": "4c88e7a951ed73b2681fc4370c56278346182bbe4ec4c4dea49057eb2ebb709b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.398 - DE 3 DE JULHO DE 1997\nAutoriza o Executivo a alterar a denominação da Rua Campelo, Distrito de Tremembé.\n(Projeto de Lei n. 679/93, do Vereador Cosme Lopes)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a alterar a denominação da Rua Campelo, CADLOG n. 12.514/8, Distrito de Tremembé, para Rua Thereza Conte Lima.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12400",
+   "short": "Lei 12400/1997",
+   "title": "Lei nº 12.400, de 03/07/1997 (INSTITUI A CICLOVIA DA MOOCA, E DA OUTRAS PROVIDENCIAS. (PL 299/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12400-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12400",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12400-de-3-de-julho-de-1997",
+     "sha256": "0ed0113cc19cbf92e919521dad60008eba3fbb410cfba1f5761e290c56d92ada",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.400 - DE 3 DE JULHO DE 1997\nInstitui a Ciclovia da Moóca, e dá outras providências.\n(Projeto de Lei n. 299/94, do Vereador Vicente Viscome)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Ciclovia da Moóca, para ser utilizada aos domingos e feriados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A ciclovia de que trata esta Lei consiste em faixa exclusiva para o tráfego de bicicletas na Avenida Cassandoca, esquina da Rua Fernando Falcão, continua pela Rua Itaqueri, Rua Sapucaia, Praça Barão do Tietê, Rua Guilherme Ellis e Avenida Cassandoca, até atingir o ponto inicial.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A presente Lei será regulamentada por decreto do Executivo, no prazo de 60 (sessenta) dias, a contar da data da sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12402",
+   "short": "Lei 12402/1997",
+   "title": "Lei nº 12.402, de 03/07/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12402-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12402",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12402-de-3-de-julho-de-1997",
+     "sha256": "04cbf0d39e03f86396f3dd87956dc8b5b1ef591ca622c58b00b219edcfccecbd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.402 - DE 3 DE JULHO DE 1997\nVeda a comercialização de bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos no Município de São Paulo, especifica, e dá outras providências.\n(Projeto de Lei n. 371/96, do Vereador Nelo Rodolfo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É vedada a comercialização de bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos do Município de São Paulo no período que antecede aos eventos esportivos, bem como durante os mesmos.\n§ 1º Será permitida a comercialização de cerveja somente ao final dos eventos.\n§ 2º É permitida a comercialização de bebidas não-alcoólicas antes, durante e após os eventos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comercialização de bebidas nos estádios e conjuntos poliesportivos deverá ser feita em copos descartáveis de material reciclável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A inobservância dos dispositivos desta Lei implicará o infrator em multa de 1.000 UFIRs (mil Unidades Fiscais de Referência) e no fechamento administrativo do estabelecimento comercial por 30 (trinta) dias, sendo em dobro nas reincidências.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12405",
+   "short": "Lei 12405/1997",
+   "title": "Lei nº 12.405, de 03/07/1997 (Dispõe sobre a instalação de cursos de Informática na rede municipal de ensino, alterando o Decreto n. 34.160, de 9 de maio de 1994.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12405-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12405",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12405-de-3-de-julho-de-1997",
+     "sha256": "f9c394f429974521ce07308136f012ada2ef47449496dca90bade0822ee3e3b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.405 - DE 3 DE JULHO DE 1997\n(Projeto de Lei n. 61/97, do Vereador Dalton Silvano)\nDispõe sobre a instalação de cursos de Informática na rede municipal de ensino, alterando o Decreto n. 34.160, de 9 de maio de 1994.\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Executivo Municipal fica autorizado a incluir no \"curriculum\" de todas as escolas da rede municipal de 1º e 2º graus, e ministrar cursos técnicos em Informática com a finalidade de possibilitar aos alunos mecanismos de apoio ao processo educacional e formação profissional.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A inclusão referida no \"caput\" será realizada de acordo com os procedimentos estabelecidos pelas legislações federal e estadual e ficará condicionada a disponibilidade de carga horária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Secretário Municipal de Educação se encarregará das normas e critérios de implementação dos cursos, bem como aquisição de equipamentos necessários.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Secretaria Municipal de Educação poderá firmar convênios com instituições da sociedade civil ou órgãos públicos municipais, estaduais e federais, inclusive o Ministério da Educação e Cultura, em consonância com as disposições legais vigentes, objetivando à instalação e manutenção dos cursos de Informática.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os professores serão Profissionais de Educação Docentes e terão as funções de Professores Orientadores de Informática Educativa, ficando subordinados diretamente ao Diretor da respectiva escola, devendo receber orientação normativa e apoio técnico da Diretoria de Orientação Técnica da Superintendência Municipal de Educação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará a presente Lei no prazo de 120 (cento e vinte) dias, contados a partir da data de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12406",
+   "short": "Lei 12406/1997",
+   "title": "Lei nº 12.406, de 03/07/1997 (Dispõe sobre o patrocínio de Centros Desportivos Municipais - CDM - balneários, minibalneários, escolas e centros educacionais do Município por empresas.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12406-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12406",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12406-de-3-de-julho-de-1997",
+     "sha256": "9c0400c663a372d62bbd36cfb42308cdf80c750b63ed8915db80d6e604add3e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.406 - DE 3 DE JULHO DE 1997\nDispõe sobre o patrocínio de Centros Desportivos Municipais - CDM - balneários, minibalneários, escolas e centros educacionais do Município por empresas.\n(Projeto de Lei n. 99/97, do Vereador Antonio Goulart)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Prefeitura do Município poderá firmar convênios com empresas particulares para o fornecimento de bens e serviços aos Centros Desportivos Municipais - CDM - balneários, minibalneários, escolas e centros educacionais do Município por empresas, em troca do direito de uso dos muros e fachadas desses prédios para exposição de publicidade comercial dessas empresas.\nParágrafo único. A exposição de publicidade referida no \"caput\", obedecerá à legislação aplicável.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os contratos serão firmados individualmente pelos diretores das unidades da rede de ensino e dos CDM, depois de processo regular de licitação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os bens e serviços fornecidos às escolas e CDM devem ser compatíveis com as finalidades dessas instituições, vedada a contratação com fabricantes de cigarros, bebidas alcoólicas e outros que possam prejudicar a formação física e intelectual dos freqüentadores.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Executivo regulamentará a presente Lei em 90 (noventa) dias, a partir da sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12409",
+   "short": "Lei 12409/1997",
+   "title": "Lei nº 12.409, de 03/07/1997 (CONFERE A EMPG DO JARDIM GUANABARA A DENOMINACAO ESCOLA DE PRIMEIRO GRAU \"PROFESSOR FLORESTAN FERNANDES\".(PL 304/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12409-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12409",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12409-de-3-de-julho-de-1997",
+     "sha256": "e78648d5ebf964b2426d8dad0a0861193db4a39fb2a3c60432de49f7d315703a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.409 - DE 3 DE JULHO DE 1997\nConfere à EMPG do Jardim Guanabara a denominação Escola de Primeiro Grau \"Professor Florestan Fernandes\".\n(Projeto de Lei n. 304/97, dos Vereadores Edivaldo Estima e Vicente Viscome)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - A EMPG do Jardim Guanabara, subordinada à DREM 6, situada na Avenida Marguerite Long, s/nº, passa a ter a denominação Escola Municipal de Primeiro Grau \"Florestan Fernandes\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12411",
+   "short": "Lei 12411/1997",
+   "title": "Lei nº 12.411, de 03/07/1997 (DENOMINA \"PRACA BENEDICTO RAMOS RODRIGUES\" LOGRADOURO PUBLICO INOMINADO LOCALIZADO NO DISTRITO DE ERMELINO MATARAZZO, E DA OUTRAS PROVIDENCIAS. (PL 467/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12411-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12411",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12411-de-3-de-julho-de-1997",
+     "sha256": "d667cab52c5cb7833ee5922172da9428e7e08e4796cd5bfc231191b348590c0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.411 - DE 3 DE JULHO DE 1997\nDenomina \"Praça Benedicto Ramos Rodrigues\" logradouro público inominado localizado no Distrito de Ermelino Matarazzo, e dá outras providências.\n(Projeto de Lei n. 467/97, do Vereador Luiz Paschoal)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber a Câmara Municipal, em sessão de 10 de junho de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Praça Benedicto Ramos Rodrigues\" o espaço público inominado localizado na confluência das Avenidas Boturussú e Milene Elias e da Rua Prof. Antonio de Castro Lopes, no Distrito de Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12412",
+   "short": "Lei 12412/1997",
+   "title": "Lei nº 12.412, de 03/07/1997 (DENOMINA PRACA CIDADE DE CHAVES A AREA INOMINADA LOCALIZADA NO BAIRRO DE VILA SUZANA, DISTRITO DO MORUMBI. (PL 411/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12412-de-3-de-julho-de-1997",
+   "first_law": "lei-1997-12412",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12412-de-3-de-julho-de-1997",
+     "sha256": "41a83321fe628e67b2e0915cf99bf87b15933b1a78663740956e05203d669f92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.412 - DE 3 DE JULHO DE 1997\nDenomina Praça Cidade de Chaves a área inominada localizada no Bairro de Vila Suzana, Distrito do Morumbi.\n(Projeto de Lei n. 411/97, do Vereador Pierre de Freitas)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber a Câmara Municipal, em sessão de 10 de julho de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça \"Cidade de Chaves\", a área inominada localizada no bairro da Vila Suzana, Distrito do Morumbi, localizada no encontro das ruas Oscar Monteiro de Barros com Dankmar Adler e Travessa Rondon do Pará.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12414",
+   "short": "Lei 12414/1997",
+   "title": "Lei nº 12.414, de 10/07/1997 (DENOMINA LOGRADOURO PUBLICO SITUADO NO SITIO DO MANDAQUI, DISTRITO DA CASA VERDE. (PL 426/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12414-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12414",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12414-de-10-de-julho-de-1997",
+     "sha256": "9deea0d8f3cc14583b253caf8f793b1c82f9f10a8e9f596a2607279c4185e4bf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.414 - DE 10 DE JULHO DE 1997\nDenomina logradouro público situado no Sítio do Mandaqui, Distrito da Casa Verde.\n(Projeto de Lei n. 426/96, do Vereador José Viviani Ferraz)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Cecílio Ferreira de Santana, o logradouro público inominado que tem início no número 725 da Rua Aburá e término em divisa de lote, situado no Sítio do Mandaqui - Distrito da Casa Verde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12415",
+   "short": "Lei 12415/1997",
+   "title": "Lei nº 12.415, de 10/07/1997 (DENOMINA TRAVESSA DINO ANTONIO MENOCHI, LOGRADOURO PUBLICO INOMINADO NA VILA SERRALHEIRO. (PL 657/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12415-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12415",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12415-de-10-de-julho-de-1997",
+     "sha256": "a41d96ff5b539ab8b25ee38fa8f1b152c1b317c69d90125b6b6a1800dcf19f94",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.415 - DE 10 DE JULHO DE 1997\nDenomina Travessa Dino Antonio Menochi, logradouro público inominado na Vila Serralheiro.\n(Projeto de Lei n. 657/96, do Vereador José Viviani Ferraz)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Dino Antonio Menochi o logradouro público inominado com início na Rua José Felix Alves Pacheco e Zwicker, na Vila Serralheiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12416",
+   "short": "Lei 12416/1997",
+   "title": "Lei nº 12.416, de 10/07/1997 (DENOMINA RUA ENG. EDGARD FERREIRA DE BARROS JUNIOR, LOGRADOURO INOMINADO SITUADO NA FREGUESIA DO O. (PL 662/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12416-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12416",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12416-de-10-de-julho-de-1997",
+     "sha256": "61d608d3c6d9775b61bd153a8f51613a59d561622e62441c9e99875b235d76bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.416 - DE 10 DE JULHO DE 1997\nDenomina Rua Eng. Edgard Ferreira de Barros Júnior, logradouro inominado situado na Freguesia do Ó.\n(Projeto de Lei n. 662/96, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Eng. Edgard Ferreira de Barros Júnior (CADLOG 28.371-1) o logradouro inominado, localizado entre a Av. Otaviano Alves de Lima e Rua da Balsa, situado na Freguesia do Ó, Setor Fiscal 104, Quadra 176.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12417",
+   "short": "Lei 12417/1997",
+   "title": "Lei nº 12.417, de 10/07/1997 (Denomina Rua Casa de Emaús a Rua 9 do Jardim Santa Cruz, localizada no Distrito de Santo Amaro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12417-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12417",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12417-de-10-de-julho-de-1997",
+     "sha256": "dc28edfa5d29b7c7340c4fecd1f91b95b1234971eed56858ef64198643b1b5df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.417 - DE 10 DE JULHO DE 1997\nDenomina Rua Casa de Emaús a Rua 9 do Jardim Santa Cruz, localizada no Distrito de Santo Amaro.\n(Projeto de Lei n. 668/96, do Vereador Ítalo Cardoso)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua Casa de Emaús, a Rua 9, do Jd. Santa Cruz, que se inicia na Rua Domingas Galleteri Blota, sendo paralela à Rua Laura dos Anjos Ramos, no Bairro da Pedreira, Distrito de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12418",
+   "short": "Lei 12418/1997",
+   "title": "Lei nº 12.418, de 10/07/1997 (DENOMINA MARIA DO CARMO DE FREITAS A TRAVESSA LOCALIZADA NA RUA SANA MUNDO,NO JARDIM ELIANA,NESTA CAPITAL.(PL 673/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12418-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12418",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12418-de-10-de-julho-de-1997",
+     "sha256": "b4ad5bb00522f6154a0c866c501937310c16e9710ad9af3b5e2bfb47b851b2c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.418 - DE 10 DE JULHO DE 1997\nDenomina Maria do Carmo de Freitas a travessa localizada na Rua Sana Mundo, no Jardim Eliana, nesta Capital.\n(Projeto de Lei n. 673/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Maria do Carmo de Freitas, a travessa sem denominação localizada na Rua Sana Mundo, (cadlog 78.935-6), no Jardim Eliana, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12419",
+   "short": "Lei 12419/1997",
+   "title": "Lei nº 12.419, de 10/07/1997 (DENOMINA GILBERTO SILVA, A PRACA SEM DENOMINACAO, LOCALIZADA NA RUA ALBERTOFLORES E RUA MAR DE ESPANHA, NA VILA NHOCUNE, NESTA CAPITAL. (PL 675/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12419-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12419",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12419-de-10-de-julho-de-1997",
+     "sha256": "c10d0b5fe95f7b9506ec6a6148d9c2c73ee46e0c030657cc64953af8cf8cb1f2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.419 - DE 10 DE JULHO DE 1997\nDenomina Gilberto Silva, a praça sem denominação, localizada na Rua Alberto Flores e Rua Mar de Espanha, na Vila Nhocuné, nesta Capital.\n(Projeto de Lei n. 675/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Gilberto Silva a praça sem denominação, localizada na Rua Alberto Flores, (cadlog 00516-9), e R. Mar de Espanha (cadlog 12830-9), na Vila Nhocuné, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12420",
+   "short": "Lei 12420/1997",
+   "title": "Lei nº 12.420, de 10/07/1997 (DENOMINA MERCEDES GONCALVES VEIGA BUSINARI A TRAVESSA SEM DENOMINACAO, LOCALIZADA NA RUA SERRA DE BRAGANCA, ALTURA DO N.36, VILA GOMES CARDIM. (PL 728/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12420-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12420",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12420-de-10-de-julho-de-1997",
+     "sha256": "95b76c3f508a276ae631fd87c4bccd6f21b32dba3641498823d7156fb0320909",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.420 - DE 10 DE JULHO DE 1997\nDenomina Mercedes Gonçalves Veiga Businari a travessa sem denominação, localizada na Rua Serra de Bragança, altura do n. 36, Vila Gomes Cardim.\n(Projeto de Lei n. 728/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Travessa Mercedes Gonçalves Veiga Businari, o logradouro público localizado na Rua Serra de Bragança (cadlog 18068-8), altura do n. 36, Vila Gomes Cardim, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12422",
+   "short": "Lei 12422/1997",
+   "title": "Lei nº 12.422, de 10/07/1997 (Denomina Rua Antonio Alves Ribeiro o logradouro público situado no Jardim Etelvina, em Guaianazes.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12422-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12422",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12422-de-10-de-julho-de-1997",
+     "sha256": "9fb126d29bb961fb6577c167281c6749fef52d14f9de8bf2da56fbe6b0d640ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.422 - DE 10 DE JULHO DE 1997\nDenomina Rua Antonio Alves Ribeiro o logradouro público situado no Jardim Etelvina, em Guaianazes.\n(Projeto de Lei n. 135/96, do Vereador Vicente Viscome)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Antonio Alves Ribeiro o logradouro público conhecido como Rua Vinte, com início na Rua Baltazar Barroso, no Jardim Etelvina, em Guaianazes (CADLOG n. 26.993-0).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12423",
+   "short": "Lei 12423/1997",
+   "title": "Lei nº 12.423, de 10/07/1997 (DENOMINA RUA KATINGUELE O LOGRADOURO PUBLICO INOMINADO NO BAIRRO CHACARA DOSOL, DISTRITO DE CAPELA DO SOCORRO. (PL 681/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12423-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12423",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12423-de-10-de-julho-de-1997",
+     "sha256": "b85baf8d0a0287d9c6840e41769844031ad6b193ac4ff772179845454141f202",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.423 - DE 10 DE JULHO DE 1997\nDenomina Rua Katinguelê o logradouro público inominado no Bairro Chácara do Sol, Distrito de Capela do Socorro.\n(Projeto de Lei n. 681/96, do Vereador Arselino Tatto)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Rua Katinguelê, o logradouro público conhecido por Rua \"3\", com CODLOG n. 42.810-8, localizado no Setor 268, Quadras 020 e 021, no Bairro Chácara do Sol, Distrito de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12424",
+   "short": "Lei 12424/1997",
+   "title": "Lei nº 12.424, de 10/07/1997 (DENOMINA CARLOS JOEL NELLI O BALNEARIO DO IPIRANGA. (PL 730/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12424-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12424",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12424-de-10-de-julho-de-1997",
+     "sha256": "148524508074c34444c4659f730bdb35a22e725d14ab658b893bbe8e76b7da73",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.424 - DE 10 DE JULHO DE 1997\nDenomina Carlos Joel Nelli o Balneário do Ipiranga.\n(Projeto de Lei n. 730/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Carlos Joel Nelli o Balneário do Ipiranga, vinculado à Secretaria Municipal de Esportes, Lazer e Recreação, situado na Praça Nami Jafet, n. 45, pertencente à Administração Regional do Ipiranga - AR/IP, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das verbas próprias do orçamento, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12425",
+   "short": "Lei 12425/1997",
+   "title": "Lei nº 12.425, de 10/07/1997 (DENOMINA ALEXANDRE MARTINS MACHADO A PRACA LOCALIZADA NA RUA PEREIRA VERGUEIRO COM A RUA MACIEL MONTEIRO, NO BAIRRO DE ARTUR ALVIM, NESTA CAPITAL. (PL732/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12425-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12425",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12425-de-10-de-julho-de-1997",
+     "sha256": "7e0c8e733999ebbbdfb6370dc95eec6b2b08fd3e34c98d67790f2261d42c8f7f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.425 - DE 10 DE JULHO DE 1997\nDenomina Alexandre Martins Machado a Praça localizada na Rua Pereira Vergueiro com a Rua Maciel Monteiro, no bairro de Artur Alvim, nesta Capital.\n(Projeto de Lei n. 732/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Alexandre Martins Machado a Praça localizada na Rua Pereira Vergueiro (cadlog 16.100-4) com a Rua Maciel Monteiro (cadlog 12.461-3), em Artur Alvim, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12426",
+   "short": "Lei 12426/1997",
+   "title": "Lei nº 12.426, de 10/07/1997 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA CUNHA - DISTRITO DE SAO LUCAS. (PL 784/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12426-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12426",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12426-de-10-de-julho-de-1997",
+     "sha256": "c6610e0d05cc3ab907a041c357c186db3de83d684c26b232fac696a27e09bee8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.426 - DE 10 DE JULHO DE 1997\nDenomina logradouro público inominado, situado na Vila Cunha - Distrito de São Lucas.\n(Projeto de Lei n. 784/96, do Vereador Archibaldo Zancra)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Vicente Sanchez Garrido, o logradouro público inominado - CODLOG 36.229-8 localizado na Vila Cunha Bueno - Distrito de São Lucas, nesta Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12427",
+   "short": "Lei 12427/1997",
+   "title": "Lei nº 12.427, de 10/07/1997 (DENOMINA RUA ANDRE BAGI, A RUA B, LOCALIZADA PARALELA A RUA MONTE AZUL PAULISTA, NA VILA SANTO ESTEVAM REIS. (PL 845/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12427-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12427",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12427-de-10-de-julho-de-1997",
+     "sha256": "ebc2c1b1c31ed0331f7052f306568bdb9684b0275a0f436b9e96eb10967ed600",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.427 - DE 10 DE JULHO DE 1997\nDenomina Rua André Bagi, a Rua B, localizada paralela à Rua Monte Azul Paulista, na Vila Santo Estevam Reis.\n(Projeto de Lei n. 845/96, do Vereador José Viviani Ferraz)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar Rua André Bagi, a Rua B, localizada paralela à Rua Monte Azul Paulista, na Vila Santo Estevam Reis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da implantação desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12430",
+   "short": "Lei 12430/1997",
+   "title": "Lei nº 12.430, de 10/07/1997 (DENOMINA CARLOS MARCIANO THEODORO, A TRAVESSA PARTICULAR (CODLOG 68715-4, SETOR 100, QUADRA 102, AR-VP). (PL 1518/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12430-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12430",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12430-de-10-de-julho-de-1997",
+     "sha256": "6df96df597458ef3d4eea28796abc9e9408f9a1c70a398d53e14b4b8797ce7e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.430 - DE 10 DE JULHO DE 1997\nDenomina Carlos Marciano Theodoro, a Travessa Particular (codlog 68715-4, setor 100, quadra 102, AR-VP).\n(Projeto de Lei n. 1518/95, do Vereador Archibaldo Zancra)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada de Carlos Marciano Theodoro, a Travessa Particular localizada no setor 100 - quadra 102. A referida Travessa inicia-se na Rua Itanhaém e finda na Rua Luiz Ignácio Anhaia Mello, sendo paralela às Ruas Torquato Tasso e Falchi Gianini, AR-VP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12431",
+   "short": "Lei 12431/1997",
+   "title": "Lei nº 12.431, de 10/07/1997 (DENOMINA MINI-BALNEARIO IRMAOS PAOLILLO O PROPRIO MUNICIPAL CONHECIDO POR MINI-BALNEARIO DO JARDIM ALIANCA, NO DISTRITO DE JACANA. (PL 294/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12431-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12431",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12431-de-10-de-julho-de-1997",
+     "sha256": "f5050c9901809c4ffc9e5ad8e1d80029766e7847294cf932958ce1ed002003c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.431 - DE 10 DE JULHO DE 1997\nDenomina Mini-Balneário Irmãos Paolillo o próprio municipal conhecido por Mini-Balneário do Jardim Aliança, no Distrito de Jacanã.\n(Projeto de Lei n. 294/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Mini-Balneário Irmãos Paolillo o próprio municipal conhecido por Mini-Balneário do Jardim Aliança, situado na Rua General Jerônimo Furtado, n. 751, no Distrito de Jacanã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12432",
+   "short": "Lei 12432/1997",
+   "title": "Lei nº 12.432, de 10/07/1997 (DA DENOMINACAO A PRACA SITUADA NO BAIRRO - CASA VERDE. (PL 529/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12432-de-10-de-julho-de-1997",
+   "first_law": "lei-1997-12432",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12432-de-10-de-julho-de-1997",
+     "sha256": "ba68687d4988d839dd80269f372cafa405935f6fa6bbd44b7dab58dbc32bdb81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.432 - DE 10 DE JULHO DE 1997\nDá denominação à praça situada no Bairro - Casa Verde.\n(Projeto de Lei n. 529/97, do Vereador Hanna Gharib)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar-se Praça Durval Privato a praça ainda sem nome situada no Bairro da Casa Verde, compreendida entre a Avenida Engº Caetano Álvares esquina com a Rua Antônio Antunes Maciel - São Paulo - SP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12435",
+   "short": "Lei 12435/1997",
+   "title": "Lei nº 12.435, de 27/08/1997 (Aprova plano de alargamento da Rua Itapaiuna, no distrito de Santo Amaro, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12435-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12435",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12435-de-27-de-agosto-de-1997",
+     "sha256": "0fa5fc37abddf5f2a2fa9bfbbab1c453e062fb77e3bd0a1335bfee7f306d7cd2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.435 - DE 27 DE AGOSTO DE 1997\nAprova plano de alargamento da Rua Itapaiuna, no distrito de Santo Amaro, e da outras providencias.\n(Projeto de Lei nº 853/96, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução nº 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.816-A-272, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de alargamento da Rua Itapaiuna, em Santo Amaro, desde 140,00 metros aquém da Rua José Ramón Urtiza até a Rua Deputado João Sussumu Hirata, numa extensão aproximada de 540,00 metros e largura de 30,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamento assinaladas na planta referida no \"caput\" deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12436",
+   "short": "Lei 12436/1997",
+   "title": "Lei nº 12.436, de 27/08/1997 (DENOMINA LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NO DISTRITO DE SANTO AMARO. (PL 695/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12436-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12436",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12436-de-27-de-agosto-de-1997",
+     "sha256": "04dbdecd3a8c1f047d85bf76d482b75fb2a8341436efc692d3ec42f3fe195217",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.436 - DE 27 DE AGOSTO DE 1997\nDenomina logradouro público inominado, localizado no Distrito de Santo Amaro.\n(Projeto de Lei n. 695/96, do Vereador Archibaldo Zancra)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Carlos Wamondes de Macedo o logradouro público inominado, situado no entroncamento da rua Joaquim dos Reis com a rua Adis Abeba, no Distrito de Santo Amaro, nesta capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12437",
+   "short": "Lei 12437/1997",
+   "title": "Lei nº 12.437, de 27/08/1997 (DENOMINA VIA DE PEDESTRE INOMINADA SITUADA NO BAIRRO DA PENHA - DISTRITO DAPENHA. (PL 764/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12437-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12437",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12437-de-27-de-agosto-de-1997",
+     "sha256": "9e88d36439742c34a0d40c86e319057097632b922f24dcb8a9a064146ff7a14b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.437 - DE 27 DE AGOSTO DE 1997\nDenomina via de pedestre inominada situada no Bairro da Penha - Distrito da Penha.\n(Projeto de Lei n. 764/96, do Vereador Antonio de Paiva Monteiro Filho)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Via de Pedestre Hugo Rossi o logradouro público inominado situado na altura do n. 494 da Rua Padre João, no Bairro da Penha - Distrito da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12438",
+   "short": "Lei 12438/1997",
+   "title": "Lei nº 12.438, de 27/08/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12438-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12438",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12438-de-27-de-agosto-de-1997",
+     "sha256": "437fafd0c22f786a50116a307fef5a34893a90e5d2c38fb87fa1747b65c5ce2d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.438 - DE 27 DE AGOSTO DE 1997\nDenomina Praça Vereador Waldemar Teixeira Pinto o espaço livre sem denominação situado entre a Rua Dr. Fausto de Almeida Prado Penteado e linha transmissora de energia.\n(Projeto de Lei n. 754/96, do Vereador Nelson Guimarães Proença)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Vereador Waldemar Teixeira Pinto o espaço livre sem denominação da quadra 4 do setor 300, compreendido entre a Rua Dr. Fausto de Almeida Prado Penteado, cadlog 65.149-4, e a linha transmissora de energia, AR-Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12439",
+   "short": "Lei 12439/1997",
+   "title": "Lei nº 12.439, de 27/08/1997 (DENOMINA LOGRADOURO PUBLICO INOMINADO SITUADO NO JARDIM HERCILIA - DISTRITODE VILA MATILDE, E DA OUTRAS PROVIDENCIAS. (PL 165/97))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12439-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12439",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12439-de-27-de-agosto-de-1997",
+     "sha256": "e1014f06b4c20983f4cc15f11d8046d6b928662f45ae27f77bb589a84d59b854",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.439 - DE 27 DE AGOSTO DE 1997\nDenomina logradouro público inominado situado no Jardim Hercília - Distrito de Vila Matilde, e dá outras providências.\n(Projeto de Lei n. 165/97, do Vereador Luiz Paschoal)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Comendador Manuel Alves de Morais, o logradouro público inominado situado na confluência da Rua São Turíbio e a Avenida Prof. Xavier de Lima.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12440",
+   "short": "Lei 12440/1997",
+   "title": "Lei nº 12.440, de 27/08/1997 (DENOMINA AVENIDA YOKINO OGAWA O LOGRADOURO PUBLICO CONHECIDO COMO AV. \"A\", COM INICIO NA ESTRADA DO CURUCUTU - SETOR 291, AR/CS. (PL 801/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12440-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12440",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12440-de-27-de-agosto-de-1997",
+     "sha256": "b0935d5383f5536ee7f6ef9d6085eb5b345c96db911d7634a509d5c5419ff123",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.440 - DE 27 DE AGOSTO DE 1997\nDenomina Avenida Yokino Ogawa o logradouro público conhecido como Av. \"A\", com início na Estrada do Curucutu - Setor 291, AR/CS.\n(Projeto de Lei n. 801/96, do Vereador Edivaldo Estima)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Avenida Yokino Ogawa o logradouro público conhecido como Avenida \"A\" (Cadlog 37499-7), sendo seu ponto inicial na Estrada do Curucutu, Setor 291, Jardim Santo Antonio - AR/CS.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12441",
+   "short": "Lei 12441/1997",
+   "title": "Lei nº 12.441, de 27/08/1997",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12441-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12441",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12441-de-27-de-agosto-de-1997",
+     "sha256": "015446ebea29d8cfc90637822d8a4cfd78bbd5a48d1a7d4b38bccc9989205256",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.441 - DE 27 DE AGOSTO DE 1997\nDenomina Rua Euzébio Coghi o logradouro público conhecido como Estrada do Engenho Velho (Cadlog 22517-7 Setor 177) com início à Rua Américo Coxa (AR/CS)\ne término na Estrada de Parelheiros.\n(Projeto de Lei n. 832/96, do Vereador Edivaldo Estima)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua Euzébio Coghi o logradouro público conhecido como Estrada do Engenho Velho (Cadlog 22517-7 Setor 177) sendo seu ponto inicial na Rua Américo Coxa e término na Estrada de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12443",
+   "short": "Lei 12443/1997",
+   "title": "Lei nº 12.443, de 27/08/1997 (INSTITUI O \"PREMIO PRESTES MAIA DE URBANISMO\", E DA OUTRAS PROVIDENCIAS.(PL786/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12443-de-27-de-agosto-de-1997",
+   "first_law": "lei-1997-12443",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-08-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12443-de-27-de-agosto-de-1997",
+     "sha256": "8437f1d043fd219db97b83fc15edbd3e425675b55dd317dd9f9fd38ff82ae0cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.443 - DE 27 DE AGOSTO DE 1997\nInstitui o \"Prêmio Prestes Maia de Urbanismo\", e dá outras providências.\n(Projeto de Lei n. 786/96, do Executivo)\nCelso Pitta, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o \"Prêmio Prestes Maia de Urbanismo\", a ser outorgado quadrienalmente a propostas elaboradas no campo do planejamento e da engenharia urbana, incluindo projetos de loteamentos e paisagismo, planos e projetos viários, de pontes, viadutos e túneis, bem como planos e projetos de sistemas de transporte público e de infra-estrutura urbana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Poderão concorrer ao prêmio arquitetos, engenheiros arquitetos e engenheiros civis em situação regular perante o Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA.\nParágrafo único. Serão admitidos trabalhos multidisciplinares sob a coordenação de profissional que representará a equipe.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os temas prioritários, a serem objeto das propostas, serão estabelecidos pela Secretaria Municipal do Planejamento - SEMPLA, juntamente com o edital detalhando as especificações técnicas pertinentes, mediante publicação no \"Diário Oficial\" do Município até o dia 31 de janeiro, a cada quatro anos, a partir do ano de 1997.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As propostas deverão referir-se ao território dentro dos limites do Município de São Paulo, e a sua entrega deverá ocorrer durante o mês de julho dos anos em que for outorgado o prêmio.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Na avaliação das propostas, serão considerados os seguintes critérios:\nI - importância da questão enfocada;\nII - criatividade na solução dos problemas urbanos;\nIII - integração ao espaço do entorno;\nIV - adequação às necessidades de ocupação e usos locais e regionais;\nV - aproveitamento dos materiais empregados e facilidade de manutenção.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Comissão de Avaliação será composta por 8 (oito) membros, arquitetos ou engenheiros arquitetos e engenheiros civis, de notório conhecimento do assunto, designados pelo Prefeito dentre servidores municipais ou por indicação das respectivas entidades e saber:\nI - 4 (quatro) representantes da Prefeitura do Município de São Paulo;\nII - 1 (um) representante da Escola Politécnica da Universidade de São Paulo;\nIII - 1 (um) representante da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo;\nIV - 1 (um) representante do Instituto de Arquitetos do Brasil - Seção de São Paulo;\nV - 1 (um) representante do Instituto de Engenharia.\nParágrafo único. O presidente da Comissão será eleito pelos seus membros.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As propostas deverão conter:\nI - justificativa, identificando os problemas específicos a serem solucionados dentro dos temas prioritários;\nII - integração do projeto com a área em que se insere e com o conjunto da cidade;\nIII - apresentação, quando for o caso, de esquemas, plantas, elevações, cortes, perspectivas, descrições e esclarecimentos complementares.\nParágrafo único. Os trabalhos, inclusive os textos escritos, deverão ser apresentados em, no máximo, 5 (cinco) pranchas rígidas com tamanho não superior a A1, fixado pela Associação Brasileira de Normas Técnicas - ABNT, devendo possibilitar a compreensão clara e precisa da proposta.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O prêmio a ser concedido ao trabalho escolhido pela Comissão de Avaliação e entregue em sessão solene, consistirá de diploma assinado pelo Prefeito e pelos membros da Comissão de Avaliação, e de quantia em dinheiro, a ser especificada em edital próprio.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O trabalho premiado e os demais trabalhos concorrentes serão expostos publicamente para apreciação dos munícipes.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A concessão do prêmio implicará a cessão à Prefeitura do Município de São Paulo dos direitos autorais e patrimoniais relativos às idéias contidas na proposta, podendo a Prefeitura, a seu critério, delas fazer uso através de seus órgãos técnicos. Art. 11. As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12447",
+   "short": "Lei 12447/1997",
+   "title": "Lei nº 12.447, de 03/09/1997 (DENOMINA TRAVESSA JOSE CARBONE O LOGRADOURO PUBLICO INOMINADO, LOCALIZADO NA ALTURA DO N. 362, DA RUA MONGUBA, NO DISTRITO DE VILA CARRAO. (PL 831/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12447-de-3-de-setembro-de-1997",
+   "first_law": "lei-1997-12447",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12447-de-3-de-setembro-de-1997",
+     "sha256": "2cc48ca52a9c6fa0d6aa8e5bc0505fb76d8f71992945171d3fe995ecdc5d55ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.447 - DE 3 DE SETEMBRO DE 1997\nDenomina Travessa José Carbone o logradouro público inominado, localizado na altura do n. 362, da Rua Mongubá, no distrito de Vila Carrão.\n(Projeto de Lei n. 831/95, do Vereador Emílio Meneghini)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 20 de agosto de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa José Carbone o logradouro público inominado, localizado na altura do n. 362, da Rua Mongubá, no distrito de Vila Carrão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12450",
+   "short": "Lei 12450/1997",
+   "title": "Lei nº 12.450, de 16/09/1997 (DESINCORPORA AREA DA CLASSE DOS BENS DE USO COMUM DO POVO; AUTORIZA SUA CONCESSAO A SOCIEDADE BENEFICENTE SANTO EXPEDITO, E DA OUTRAS PROVIDENCIAS. (PL 580/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12450-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12450",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12450-de-16-de-setembro-de-1997",
+     "sha256": "c9d0ae68a46b8b98877dd965dd3a1091335d61b9cc537f05b1709cf7dce90d95",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.450 - DE 16 DE SETEMBRO DE 1997\nDesincorpora área da classe dos bens de uso comum do povo; autoriza sua concessão à Sociedade Beneficente Santo Expedito, e dá outras providências.\n(Projeto de Lei n. 580/96, do Executivo)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 20 de agosto de 1997, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica desincorporada da classe de bens de uso comum do povo e incluída na dos bens dominiais do Município, a área municipal com cerca de 7.255,00 m2 (sete mil, duzentos e cinqüenta e cinco metros quadrados), situada à Rua Xavier de Brito, na Vila Diva, assinalada no \"croquis\" anexo, de n. 1.254, do Departamento Patrimonial.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Fica o Executivo autorizado a ceder, à Sociedade Beneficente Santo Expedito, mediante concessão de uso, a título gratuito e pelo prazo de 90 (noventa) anos, o uso da área referida no artigo anterior, para desenvolvimento das atividades assistenciais da entidade, voltadas ao atendimento de crianças carentes.\nParágrafo único - A área referida no \"caput\" deste artigo será descrita e caracterizada por ocasião da lavratura do instrumento de concessão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Do Termo de Concessão de Uso, a ser lavrado no Departamento Patrimonial, além das cláusulas usuais, deverá constar, com o objetivo de resguardar os interesses da Prefeitura, que a concessionária fica obrigada a:\na) não utilizar o imóvel para fim diverso do previsto no artigo 2º desta lei;\nb) não executar construções, benfeitorias ou reformas sem prévia e expressa aprovação das unidades técnicas da Prefeitura;\nc) responsabilizar-se pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, as obras de manutenção que se fizerem necessárias;\nd) não ceder ou transferir o imóvel a terceiros, seja a que título for, no todo ou em parte, tampouco permitir que terceiros se apossem do imóvel, dando imediato conhecimento à Prefeitura de qualquer turbação de posse que se venha a verificar;\ne) responder por eventuais tributos e por todas as despesas decorrentes da concessão de uso, inclusive as relativas à lavratura e registro do instrumento competente;\nf) responder, inclusive perante terceiros, por eventuais danos ou prejuízos resultantes das obras, serviços ou trabalhos que realizar no imóvel.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A Prefeitura terá direito de, a qualquer momento, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - A extinção ou dissolução da entidade concessionária, a alteração do destino da área, a inobservância das condições estabelecidas nesta lei ou das cláusulas do instrumento respectivo implicarão a rescisão de pleno direito da concessão, revertendo a área ao Município, incorporando-se ao patrimônio municipal as edificações e benfeitorias nela existentes, ainda que necessárias, independentemente de qualquer notificação ou aviso, sem direito de retenção ou qualquer pagamento ou indenização, seja a que título for, o mesmo ocorrendo uma vez findo o prazo da concessão.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12451",
+   "short": "Lei 12451/1997",
+   "title": "Lei nº 12.451, de 16/09/1997 (DENOMINA ANNITA PINACCI GONCALVES A PRACA LOCALIZADA ENTRE AS RUAS JOSE GIORDANO E MUSEU REAL, ARTUR ALVIM, CAPITAL. (PL 763/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12451-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12451",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12451-de-16-de-setembro-de-1997",
+     "sha256": "adc1c435f13ff0b66d4d86bc857a80f1d83a46e63305d77e494eb7c8b4069419",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.451 - DE 16 DE SETEMBRO DE 1997\nDenomina Annita Pinacci Gonçalves a Praça localizada entre as ruas José Giordano e Museu Real, Artur Alvim, Capital.\n(Projeto de Lei n. 763/95, do Vereador Toninho Paiva)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Denomina Annita Pinacci Gonçalves a Praça localizada entre as ruas José Giordano (Codlog 10.995-9) e Museu Real (Codlog 23.967-4), Artur Alvim, Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1997-12452",
+   "short": "Lei 12452/1997",
+   "title": "Lei nº 12.452, de 16/09/1997 (DENOMINA PRACA FRANCISCO DO REGO MONTEIRO O LOGRADOURO PUBLICO INOMINADO SITUADO NO BAIRRO DO JABAQUARA. (PL 702/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12452-de-16-de-setembro-de-1997",
+   "first_law": "lei-1997-12452",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12452-de-16-de-setembro-de-1997",
+     "sha256": "603db97c38982c96a8157af476c4f3104453373cf5303eeb4f0639b1f180a54b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.452 - DE 16 DE SETEMBRO DE 1997\nDenomina Praça Francisco do Rego Monteiro o logradouro público inominado situado no bairro do Jabaquara.\n(Projeto de Lei n. 702/96, do Vereador Paulo Roberto Faria Lima)\nCELSO PITTA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Francisco do Rego Monteiro o logradouro público sem denominação, localizado na confluência da Rua Hildebrando Siqueira com a Rua Marcelino Antonio Dutra, no bairro do Jabaquara.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
