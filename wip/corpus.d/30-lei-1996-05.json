@@ -1,0 +1,1587 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "31 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1996-12243": {
+   "label": "Lei nº 12.243, de 02/12/1996",
+   "title": "DENOMINA PRACA MANOEL NUNES DOS SANTOS, O ESPACO LIVRE, SEM DENOMINACAO, LOCALIZADO ENTRE A AVENIDA JOAO PAULO I (CADLOG 34.562-8) E AS RUAS SANTA ROSA DO VITERBO (CADLOG 17.416-5), GUAICARA (CADLOG 20.685-7) E MARIO MALDONADO (CADLOG 13.495-3), NA FREGUESIA DO O. (PL 304/96)",
+   "kind": "law",
+   "enacted": "1996-12-02",
+   "published": "1996-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12243-de-2-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12244": {
+   "label": "Lei nº 12.244, de 02/12/1996",
+   "title": "DENOMINA FENELON GUEDES PEREIRA, A PRACA SEM DENOMINACAO FORMADA PELA AREA REMANESCENTE DOS IMOVEIS DESAPROPRIADOS NO INICIO DAS RUAS ELISIO CORDEIRO DE SIQUEIRA E JOAQUIM DE OLIVEIRA FREITAS, NO JARDIM SANTO ELIAS, PIRITUBA,AR-PIRITUBA.(PL 738/96)",
+   "kind": "law",
+   "enacted": "1996-12-02",
+   "published": "1996-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12244-de-2-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12245": {
+   "label": "Lei nº 12.245, de 02/12/1996",
+   "title": "DENOMINA PRACA JOSE MIGUEL DOS SANTOS, O LOGRADOURO SEM DENOMINACAO, LOCALIZADO ENTRE A RUA ANGELO PARIZ FORNASA, CADLOG 00654/8 E RUA JOAO VITORINO DE SOUZA, CADLOG 69573/4 - VILA CRUZEIRO, DISTRITO DE SANTO AMARO.(PL 503/96)",
+   "kind": "law",
+   "enacted": "1996-12-02",
+   "published": "1996-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12245-de-2-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12246": {
+   "label": "Lei nº 12.246, de 02/12/1996",
+   "title": "DENOMINA BRENO CALDAS A PASSAGEM DOIS (CODLOG 68844-4) LOCALIZADA NO SETOR 121 - QUADRA 039 - CAMPO GRANDE - AR-SA.(PL 76/96)",
+   "kind": "law",
+   "enacted": "1996-12-02",
+   "published": "1996-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12246-de-2-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12247": {
+   "label": "Lei nº 12.247, de 02/12/1996",
+   "title": "DENOMINA VIELA MINORU YAMASAKI LOGRADOURO PUBLICO SITUADO NO JARDIM RINCAO,JARAGUA.(PL 1172/95)",
+   "kind": "law",
+   "enacted": "1996-12-02",
+   "published": "1996-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12247-de-2-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12248": {
+   "label": "Lei nº 12.248, de 11/12/1996",
+   "title": "REVOGA TOTALMENTE A LEI 7603, DE 16/03/1971; REVOGA PARCIALMENTE A LEI 7343,DE 09/09/1969;REVIGORA O ALINHAMENTO QUE ESPECIFICA,APROVADO PELA LEI 6981,DE 16/12/1966, E DA OUTRAS PROVIDENCIAS. (PL 1019/95)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12248-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12249": {
+   "label": "Lei nº 12.249, de 11/12/1996",
+   "title": "DISPOE SOBRE CONCESSAO DE CONTRIBUICAO AO MUSEU DE ARTE DE SAO PAULO ASSIS CHATEAUBRIAND-MASP, E DA OUTRAS PROVIDENCIAS. (PL 547/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12249-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12251": {
+   "label": "Lei nº 12.251, de 11/12/1996",
+   "title": "DISPOE SOBRE A CONCESSAO DE CONTRIBUICAO A FUNDACAO MARIA LUISA E OSCAR AMERICANO, E DA OUTRAS PROVIDENCIAS. (PL 433/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12251-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12252": {
+   "label": "Lei nº 12.252, de 11/12/1996",
+   "title": "DENOMINA VIELA ALDO CARPINELLI LOGRADOURO PUBLICO NO DISTRITO DA LAPA. (PL 133/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12252-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12253": {
+   "label": "Lei nº 12.253, de 11/12/1996",
+   "title": "DENOMINA GEORGE DE MESTRAL A VIELA SEM DENOMINACAO (CODLOG 32718-2) LOCALIZADA NO SETOR 120 - QUADRA 112 - CIDADE ADEMAR - AR/SA.(PL 72/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12253-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12254": {
+   "label": "Lei nº 12.254, de 11/12/1996",
+   "title": "DENOMINA DELIO JARDIM DE MATOS A RUA UM (CODLOG 34257-2) LOCALIZADA NO SET OR 125 - QUADRA 257 - CAMPO GRANDE - AR/SA.(PL 153/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12254-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12255": {
+   "label": "Lei nº 12.255, de 11/12/1996",
+   "title": "DENOMINA LOGRADOURO PUBLICO SITUADO NO JARDIM IMPERADOR - DISTRITO DE SAO MATEUS.(PL 696/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12255-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12259": {
+   "label": "Lei nº 12.259, de 11/12/1996",
+   "title": "DENOMINA LOGRADOURO PUBLICO INOMINADO, SITUADO NO DISTRITO DA SAUDE.(PL 828/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12259-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12260": {
+   "label": "Lei nº 12.260, de 11/12/1996",
+   "title": "Disciplina a utilização das calçadas situadas nas proximidades das faixas de pedestres, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12260-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12262": {
+   "label": "Lei nº 12.262, de 11/12/1996",
+   "title": "DENOMINA PRACA \"PEDROS\" O ESPACO LIVRE LOCALIZADO NO DISTRITO DE SANTO AMARO. (PL 499/96)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12262-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12264": {
+   "label": "Lei nº 12.264, de 11/12/1996",
+   "title": "Dispõe sobre a implantação de áreas de lazer no perímetro urbano da Capital, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12264-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12265": {
+   "label": "Lei nº 12.265, de 11/12/1996",
+   "title": "Proíbe a venda de bebidas alcoólicas pelos mercados, supermercados e hipermercados às crianças e adolescentes.",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12265-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12266": {
+   "label": "Lei nº 12.266, de 11/12/1996",
+   "title": "ALTERA A DENOMINACAO DA RUA CORGUINHO, CADLOG 73632-5, NO JARDIM ANALIA FRANCO, PARA RUA MAESTRO TOM JOBIM. (PL 613/94)",
+   "kind": "law",
+   "enacted": "1996-12-11",
+   "published": "1996-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12266-de-11-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12267": {
+   "label": "Lei nº 12.267, de 18/12/1996",
+   "title": "DA NOVA REDACAO AO ARTIGO 2. DA LEI 11799, DE 09/06/1995. (PL 579/96)",
+   "kind": "law",
+   "enacted": "1996-12-18",
+   "published": "1996-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12267-de-18-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12269": {
+   "label": "Lei nº 12.269, de 19/12/1996",
+   "title": "REVOGA EM TODOS OS SEUS TERMOS A LEI 11166, DE 20/03/1992 E PASSA A DENOMINAR-SE DOMINGOS AGNELLO O ESPACO LIVRE SEM DENOMINACAO, LOCALIZADO ENTRE AS RUAS CRISTIANOPOLIS E CHAMANTA. (PL 840/96)",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12269-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12272": {
+   "label": "Lei nº 12.272, de 19/12/1996",
+   "title": "Dispoe sobre a instalaçao obrigatoria de caixas receptoras de correspondencia em todas edificaçoes residenciais comerciais, industriais ou de serviços existentes no Municipio de Sao Paulo, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12272-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12276": {
+   "label": "Lei nº 12.276, de 19/12/1996",
+   "title": "DENOMINA RUA SEVERINO SOUTO MAIOR A RUA 1-E, LOCALIZADA NO CONJUNTO HABITACIONAL SANTA ETELVINA/TRES-A, SUBDISTRITO DE GUAIANAZES. (PL 606/94)",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12276-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12277": {
+   "label": "Lei nº 12.277, de 19/12/1996",
+   "title": "DENOMINA PRACA CIDADE DE LISBOA O ESPACO LIVRE SEM DENOMINACAO SITUADO NO JARDIM COLOMBO, SUBDISTRITO DO MORUMBI, AR-BUTANTA. (PL 1220/95)",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12277-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12278": {
+   "label": "Lei nº 12.278, de 19/12/1996",
+   "title": "DENOMINA PRACA CIDADE DO PORTO O ESPACO LIVRE SEM DENOMINACAO SITUADO NA VILA SUZANA, SUBDISTRITO DO MORUMBI, AR-BUTANTA. (PL 1222/95)",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12278-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12279": {
+   "label": "Lei nº 12.279, de 19/12/1996",
+   "title": "DENOMINA PRACA CLAUDIO KANO, A PRACA INOMINADA, COMPREENDIDA ENTRE AS RUAS PORTO ELIZABETH,DR. OSCAR FERNANDES MARTINS E LUIS PRIETO ROQUE, NO DISTRI TO DO JARDIM TERESA - INTERLAGOS. (PL 653/96)",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12279-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12280": {
+   "label": "Lei nº 12.280, de 19/12/1996",
+   "title": "Acrescenta §§ 4º, 5º e 6º ao artigo 2º da Lei n. 8.383, de 19 de abril de 1976.",
+   "kind": "law",
+   "enacted": "1996-12-19",
+   "published": "1996-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12280-de-19-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12282": {
+   "label": "Lei nº 12.282, de 26/12/1996",
+   "title": "DISPOE SOBRE NORMAS PARA O USO DOS MEIOS DE PUBLICIDADE NOS PERIODOS ELEITORAIS. (PL 510/96)",
+   "kind": "law",
+   "enacted": "1996-12-26",
+   "published": "1996-12-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12282-de-26-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12283": {
+   "label": "Lei nº 12.283, de 27/12/1996",
+   "title": "DENOMINA RUA PROFESSORA SURAIA AIDAR MENON O ACESSO A AV. ERMANO MARCHETTI,CADLOG 35221-7. (PL 852/96)",
+   "kind": "law",
+   "enacted": "1996-12-27",
+   "published": "1996-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12283-de-27-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12284": {
+   "label": "Lei nº 12.284, de 27/12/1996",
+   "title": "DENOMINA \"PRACA PROFESSORA EMIKO SATO COSTA\", CADLOG 47309-3, O ESPACO LIVRE, SEM DENOMINACAO, SITUADO NO DISTRITO SAPOPEMBA, AR-VILA PRUDENTE. (PL 851/96)",
+   "kind": "law",
+   "enacted": "1996-12-27",
+   "published": "1996-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12284-de-27-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12285": {
+   "label": "Lei nº 12.285, de 27/12/1996",
+   "title": "DISPOE SOBRE A OBRIGATORIEDADE DE PERMANENCIA ININTERRUPTA DE POLICIAIS NASESCOLAS MUNICIPAIS.(PL 1255/95)",
+   "kind": "law",
+   "enacted": "1996-12-27",
+   "published": "1996-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12285-de-27-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1996-12288": {
+   "label": "Lei nº 12.288, de 30/12/1996",
+   "title": "Altera a legislaçao relativa aos Impostos Predial e Territorial Urbano e as Taxas de Limpeza Publica, de Conservaçao de Vias e Logradouros Publicos e de Combate a Sinistros, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1996-12-30",
+   "published": "1996-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12288-de-30-de-dezembro-de-1996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1996-12243",
+   "short": "Lei 12243/1996",
+   "title": "Lei nº 12.243, de 02/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12243-de-2-de-dezembro-de-1996",
+   "first_law": "lei-1996-12243",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12243-de-2-de-dezembro-de-1996",
+     "sha256": "54954e12bee807115bd53a90b6ade89fa0248c3f69feb8dd2c396e93e45f9ed9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.243 - DE 2 DE DEZEMBRO DE 1996\nDenomina Praça Manoel Nunes dos Santos, o espaço livre, sem denominação, localizado entre a Av. João Paulo I (Cadlog 34.562-8) e as Ruas Santa Rosa do Viterbo (Cadlog 17.416-5), Guaiçará (Cadlog 20.685-7) e Mário Maldonado (Cadlog 13.495-3), na Freguesia do Ó.\n(Projeto de Lei n. 304/96, do Vereador José Viviani Ferraz)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça Manoel Nunes dos Santos, o espaço livre, sem denominação, localizado entre a Av. João Paulo I (Cadlog 34.562-8) e as Ruas Santa Rosa do Viterbo (Cadlog 17.416-5), Guaiçará (Cadlog 20.685-7) e Mário Maldonado (Cadlog 13.495-3), na Freguesia do Ó.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12244",
+   "short": "Lei 12244/1996",
+   "title": "Lei nº 12.244, de 02/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12244-de-2-de-dezembro-de-1996",
+   "first_law": "lei-1996-12244",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12244-de-2-de-dezembro-de-1996",
+     "sha256": "8d2292cf5eea35fec840ea37a3ea4042f658cc48f35600c1ba9a47f1c05107f4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.244 - DE 2 DE DEZEMBRO DE 1996\nDenomina Fenelon Guedes Pereira, a praça sem denominação formada pela área remanescente dos imóveis desapropriados no início das Ruas Elísio Cordeiro de Siqueira e Joaquim de Oliveira Freitas, no Jardim Santo Elias, Pirituba, AR-Pirituba.\n(Projeto de Lei n. 738/96, do Vereador Almir Guimarães)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça Fenelon Guedes Pereira, a praça sem denominação formada pela área remanescente dos imóveis desapropriados para as obras de abertura da passagem inferior da Via Anhanguera, no início das Ruas Elísio Cordeiro de Siqueira e Joaquim de Oliveira Freitas, no Jardim Santo Elias, Pirituba, AR-Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de verbas próprias do orçamento, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12245",
+   "short": "Lei 12245/1996",
+   "title": "Lei nº 12.245, de 02/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12245-de-2-de-dezembro-de-1996",
+   "first_law": "lei-1996-12245",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12245-de-2-de-dezembro-de-1996",
+     "sha256": "d50aa317c2abbc83349c13f56483799c6d093611d6da25463131eb2a9ed8a3cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.245 - DE 2 DE DEZEMBRO DE 1996\nDenomina Praça José Miguel dos Santos, o logradouro sem denominação, localizado entre a Rua Angelo Pariz Fornasa, CADLOG 00654/8 e Rua João Vitorino de Souza, CADLOG 69.573/4 - Vila Cruzeiro, Distrito de Santo Amaro.\n(Projeto de Lei n. 503/96, do Vereador Mário Dias)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Praça José Miguel dos Santos, o logradouro sem denominação, localizado entre a Rua Angelo Pariz Fornasa, CADLOG 00654/8 e Rua João Vitorino de Souza, CADLOG 69.573/4 - Vila Cruzeiro, Distrito de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12246",
+   "short": "Lei 12246/1996",
+   "title": "Lei nº 12.246, de 02/12/1996 (DENOMINA BRENO CALDAS A PASSAGEM DOIS (CODLOG 68844-4) LOCALIZADA NO SETOR 121 - QUADRA 039 - CAMPO GRANDE - AR-SA.(PL 76/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12246-de-2-de-dezembro-de-1996",
+   "first_law": "lei-1996-12246",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12246-de-2-de-dezembro-de-1996",
+     "sha256": "d7ef0475832737283d290fa9f20027a16f2b886a5c91056a2df8565a9ac3b3f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.246 - DE 2 DE DEZEMBRO DE 1996\nDenomina Breno Caldas a Passagem Dois (CODLOG 68.844-4) localizada no setor 121 - Quadra 039 - Campo Grande - AR-SA.\n(Projeto de Lei n. 076/96, do Vereador Mário Noda)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Breno Caldas o logradouro público conhecido como Passagem Dois (CODLOG 68.844-4), localizado no setor 121 - Quadra 039, sendo o seu ponto inicial na Av. Nossa Senhora do Sabará (CODLOG 14.743-5) e término na Passagem Um (CODLOG 68.818-5), Vila Campo Grande - AR-SA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12247",
+   "short": "Lei 12247/1996",
+   "title": "Lei nº 12.247, de 02/12/1996 (DENOMINA VIELA MINORU YAMASAKI LOGRADOURO PUBLICO SITUADO NO JARDIM RINCAO,JARAGUA.(PL 1172/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12247-de-2-de-dezembro-de-1996",
+   "first_law": "lei-1996-12247",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12247-de-2-de-dezembro-de-1996",
+     "sha256": "fd2e1b74e169dcb94749896b44354b6ecf184417953202053b8cec5267b899b6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.247 - DE 2 DE DEZEMBRO DE 1996\nDenomina Viela Minoru Yamasaki o logradouro público situado no Jardim Rincão, Jaraguá.\n(Projeto de Lei n. 1172/95, do Vereador Mário Noda)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Minoru Yamasaki o logradouro público conhecido como Viela Seis, localizado entre Estrada de Taipas (CODLOG 25.435-5) até Rua Arroio da Palma (CODLOG 70.994-8), no Jardim Rincão - Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12248",
+   "short": "Lei 12248/1996",
+   "title": "Lei nº 12.248, de 11/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12248-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12248",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12248-de-11-de-dezembro-de-1996",
+     "sha256": "628b82ad301997b1116a62e8489a1cc977e6a7585b55cbd12c126a0fa2a1ed1b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.248 - DE 11 DE DEZEMBRO DE 1996\nRevoga totalmente a Lei n. 7.603, de 16 de março de 1971; revoga parcialmente a Lei n. 7.343, de 9 de setembro de 1969; revigora o alinhamento que especifica, aprovado pela Lei n. 6.981, de 16 de dezembro de 1966, e dá outras providências.\n(Projeto de Lei n. 1019/95, do Executivo)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - De acordo com a planta anexa n. 26.784-B-112, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, ficam:\nI - Revogada, em todos os seus termos, a Lei n. 7.603, de 16 de março de 1971;\nII - Revogados os incisos III e IV do artigo 1º da Lei n. 7.343, de 9 de setembro de 1969;\nIII - Revigorado o alinhamento aprovado pela Lei n. 6.981, de 16 de dezembro de 1966, nos trechos modificados pelo inciso IV do artigo 1º da Lei n. 7.343, de 9 de setembro de 1981 e pela Lei n. 7.603, de 16 de março de 1971.\nParágrafo único - Ficam igualmente aprovadas as concordâncias de alinhamentos constantes da planta referida no \"caput\" deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12249",
+   "short": "Lei 12249/1996",
+   "title": "Lei nº 12.249, de 11/12/1996 (DISPOE SOBRE CONCESSAO DE CONTRIBUICAO AO MUSEU DE ARTE DE SAO PAULO ASSIS CHATEAUBRIAND-MASP, E DA OUTRAS PROVIDENCIAS. (PL 547/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12249-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12249",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12249-de-11-de-dezembro-de-1996",
+     "sha256": "3e76b983b1428d029c04d85c64d96af53605b9610092d597a1950b2e7644e677",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.249 - DE 11 DE DEZEMBRO DE 1996\nDispõe sobre concessão de contribuição ao Museu de Arte de São Paulo Assis Chateaubriand - MASP, e dá outras providências.\n(Projeto de Lei n. 547/96, do Executivo)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a conceder ao Museu de Arte de São Paulo Assis Chateaubriand - MASP, contribuição no valor de R$ 1.500.000,00 (hum milhão e quinhentos mil reais), a fim de possibilitar a execução de obras de restauração e reforma da sede da entidade, situada na Avenida Paulista n. 1.578, e da Galeria Prestes Maia.\n§ 1º - Do valor da contribuição a que se refere este artigo, R$ 1.000.000,00 (hum milhão de reais) serão destinados às obras a serem realizadas na sede da entidade e R$ 500.000,00 (quinhentos mil reais) às da Galeria Prestes Maia.\n§ 2º - O valor da contribuição será repassado ao Museu em 2 (duas) parcelas iguais, sendo que a segunda somente será liberada após a devida prestação de contas relativa à parcela anterior.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário e, neste caso, excluídas do limite fixado no artigo 18 da Lei n. 11.959, de 29 de dezembro de 1995.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12251",
+   "short": "Lei 12251/1996",
+   "title": "Lei nº 12.251, de 11/12/1996 (DISPOE SOBRE A CONCESSAO DE CONTRIBUICAO A FUNDACAO MARIA LUISA E OSCAR AMERICANO, E DA OUTRAS PROVIDENCIAS. (PL 433/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12251-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12251",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12251-de-11-de-dezembro-de-1996",
+     "sha256": "94b9fc4a7b49156c29e76c0a10d700554e07cc4c77e58d813f0a5629d642d577",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.251 - DE 11 DE DEZEMBRO DE 1996\nDispõe sobre a concessão de contribuição à Fundação Maria Luisa e Oscar Americano, e dá outras providências.\n(Projeto de Lei n. 433/96, do Executivo)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a conceder à Fundação Maria Luisa e Oscar Americano contribuição no valor de R$ 250.000,00 (duzentos e cinqüenta mil reais), para atendimento de encargos atuais da entidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário, e, neste caso, excluídas do limite fixado no artigo 19 da Lei n. 11.959, de 29 de dezembro de 1995.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12252",
+   "short": "Lei 12252/1996",
+   "title": "Lei nº 12.252, de 11/12/1996 (DENOMINA VIELA ALDO CARPINELLI LOGRADOURO PUBLICO NO DISTRITO DA LAPA. (PL 133/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12252-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12252",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12252-de-11-de-dezembro-de-1996",
+     "sha256": "dc387af746ef2b0473a47b616b916af60ca8db84a1b2d8c8b921085a06436184",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.252 - DE 11 DE DEZEMBRO DE 1996\nDenomina Viela Aldo Carpinelli logradouro público no Distrito da Lapa.\n(Projeto de Lei n. 133/96, do Vereador Bruno Feder)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Viela Aldo Carpinelli o logradouro público inominado localizado no Setor 023, Quadra 037, Codlog n. 78.138-0, com início na Rua Fáustolo, no Distrito da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12253",
+   "short": "Lei 12253/1996",
+   "title": "Lei nº 12.253, de 11/12/1996 (DENOMINA GEORGE DE MESTRAL A VIELA SEM DENOMINACAO (CODLOG 32718-2) LOCALIZADA NO SETOR 120 - QUADRA 112 - CIDADE ADEMAR - AR/SA.(PL 72/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12253-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12253",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12253-de-11-de-dezembro-de-1996",
+     "sha256": "748c6a411086ccc3fbfaec0286d0e52dde52ec5aa3bff97fa29145b6553eded5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.253 - DE 11 DE DEZEMBRO DE 1996\nDenomina George de Mestral a viela sem denominação (CODLOG 32.718-2) localizada no setor 120 - Quadra 112 - Cidade Ademar - AR/SA.\n(Projeto de Lei n. 72/96, do Vereador Mário Noda)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada George de Mestral a viela sem denominação (CODLOG 32.718-2) localizada no setor 120 - Quadra 112 - sendo o seu ponto inicial na Rua Tomás Teixeira (CODLOG 19.060-8) e término na Rua Inácio Taveira (CODLOG 18.758-5), Vila Constância - Cidade Ademar - AR/SA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12254",
+   "short": "Lei 12254/1996",
+   "title": "Lei nº 12.254, de 11/12/1996 (DENOMINA DELIO JARDIM DE MATOS A RUA UM (CODLOG 34257-2) LOCALIZADA NO SET OR 125 - QUADRA 257 - CAMPO GRANDE - AR/SA.(PL 153/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12254-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12254",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12254-de-11-de-dezembro-de-1996",
+     "sha256": "a6cfbe157abf26b7d136b902fb5371d5f2d06979761b05085a8ef07cf5a7c942",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.254 - DE 11 DE DEZEMBRO DE 1996\nDenomina Délio Jardim de Matos a Rua Um (CODLOG 34.257-2) localizada no Setor 125 - Quadra 257 - Campo Grande - AR/SA.\n(Projeto de Lei n. 153/96, do Vereador Mário Noda)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Délio Jardim de Matos o logradouro público conhecido como Rua Um (CODLOG 34.257-2), localizado no Setor 125 - Quadra 257, sendo o seu ponto inicial na Av. Marginal (CODLOG 16.326-0) e término na Rua Colastine (CODLOG 34.259-9), Jardim Ubirajara - Campo Grande - AR/SA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12255",
+   "short": "Lei 12255/1996",
+   "title": "Lei nº 12.255, de 11/12/1996 (DENOMINA LOGRADOURO PUBLICO SITUADO NO JARDIM IMPERADOR - DISTRITO DE SAO MATEUS.(PL 696/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12255-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12255",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12255-de-11-de-dezembro-de-1996",
+     "sha256": "4d6775d56b0e96a5fe08413c452e8b9f05644c59886e0fdf2207ac0d152c6e02",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.255 - DE 11 DE DEZEMBRO DE 1996\nDenomina logradouro público situado no Jardim Imperador - Distrito de São Mateus.\n(Projeto de Lei n. 696/96, do Vereador Adriano Diogo)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado Travessa Flor da Manhã, o logradouro público conhecido por Viela \"Onze\", localizado na altura do número 100 da Avenida Luis Pires de Minas, no Jardim Imperador - Distrito de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12259",
+   "short": "Lei 12259/1996",
+   "title": "Lei nº 12.259, de 11/12/1996 (DENOMINA LOGRADOURO PUBLICO INOMINADO, SITUADO NO DISTRITO DA SAUDE.(PL 828/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12259-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12259",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12259-de-11-de-dezembro-de-1996",
+     "sha256": "0fcb2f4eb52f9253aeb937c17bbc8057a28f503e87321c93df8bc6676fae9afa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.259 - DE 11 DE DEZEMBRO DE 1996\nDenomina logradouro público inominado, situado no Distrito da Saúde.\n(Projeto de Lei n. 828/96, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominado \"Praça Waldemar Marchetti\" o espaço livre, sem denominação, localizado na confluência da Avenida Miguel Stéfano com as Ruas Biobedas, Apotribu e Rua dos Alcatrazes, no Parque Imperial, Distrito da Saúde - AR-Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12260",
+   "short": "Lei 12260/1996",
+   "title": "Lei nº 12.260, de 11/12/1996 (Disciplina a utilização das calçadas situadas nas proximidades das faixas de pedestres, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12260-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12260",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12260-de-11-de-dezembro-de-1996",
+     "sha256": "e42bb61228ce4930ea99bb8124705e106090d1c7fc46c17795a1ec85ae0639d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.260 - DE 11 DE DEZEMBRO DE 1996\n(Projeto de Lei n. 735/96, do Vereador Wadih Mutran)\nDisciplina a utilização das calçadas situadas nas proximidades das faixas de pedestres, e dá outras providências.\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 2/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibida a utilização das calçadas, situadas nas proximidades das faixas de pedestres do Município de São Paulo, para o desenvolvimento de qualquer atividade, econômica ou não, inclusive prestação de serviços de qualquer natureza, devendo apenas ser utilizadas pelos pedestres.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento do disposto nesta Lei, implicará ao infrator a imposição de multa no valor de 400 (quatrocentas) UFIRs, sendo que na hipótese de reincidência o valor da multa será duplicado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo terá o prazo de 90 (noventa) dias para regulamentar esta Lei, contados da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12262",
+   "short": "Lei 12262/1996",
+   "title": "Lei nº 12.262, de 11/12/1996 (DENOMINA PRACA \"PEDROS\" O ESPACO LIVRE LOCALIZADO NO DISTRITO DE SANTO AMARO. (PL 499/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12262-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12262",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12262-de-11-de-dezembro-de-1996",
+     "sha256": "1c80337339dae6cff4b51be36be51b5c8ff0b13b1f970258051e01fd2a083693",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.262 - DE 11 DE DEZEMBRO DE 1996\nDenomina Praça \"Pedros\" o espaço livre localizado no Distrito de Santo Amaro.\n(Projeto de Lei n. 499/96, do Vereador Ítalo Cardoso)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça \"Pedros\" o espaço livre situado entre a Rua dos Coratis e Rua dos Badejos, no Balneário São Francisco, no Distrito de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12264",
+   "short": "Lei 12264/1996",
+   "title": "Lei nº 12.264, de 11/12/1996 (Dispõe sobre a implantação de áreas de lazer no perímetro urbano da Capital, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12264-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12264",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12264-de-11-de-dezembro-de-1996",
+     "sha256": "99db9067dc69f3ec44fd081f46c5b708e12cecbfec8d36c2d9b5b385cb68fccc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.264 - DE 11 DE DEZEMBRO DE 1996\nDispõe sobre a implantação de áreas de lazer no perímetro urbano da Capital, e dá outras providências.\n(Projeto de Lei n. 1.182/95, do Vereador Emílio Meneghini)\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Poderão ser implantadas no perímetro urbano da Capital áreas de lazer em vias públicas cujo trânsito de veículos seja de pequena intensidade, não oferecendo, por conseguinte, qualquer possibilidade de risco à integridade física dos munícipes que nelas transitem ou se disponham a praticar atividades físico-esportivas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As atividades físico-esportivas de que cuida a presente Lei só poderão ocorrer em determinado período do dia, ficando proibida a sua prática no leito carroçável da via pública fora desse período.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo municipal regulamentará a presente Lei no prazo de 120 (cento e vinte) dias de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas resultantes da execução da presente Lei correrão à conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12265",
+   "short": "Lei 12265/1996",
+   "title": "Lei nº 12.265, de 11/12/1996 (Proíbe a venda de bebidas alcoólicas pelos mercados, supermercados e hipermercados às crianças e adolescentes.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12265-de-11-de-dezembro-de-1996",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1996-12265"
+   ],
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12265-de-11-de-dezembro-de-1996",
+     "sha256": "bf9a06c18b6aa9bc74c5307096786f08909aeedf34fa249f52d85c9f2bb69927",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.265 DE 11 DE DEZEMBRO DE 1996\nProíbe a venda de bebidas alcoólicas pelos mercados, supermercados e hipermercados às crianças e adolescentes.\n(Projeto de Lei nº 618/95, do Vereador Alberto Hiar)\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são consideradas por lei.\nFaz saber que a Câmara Municipal, em sessão de 26 de novembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibida a venda de bebidas alcoólicas às crianças e adolescentes pelos mercados, hipermercados e casas noturnas de qualquer espécie.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento ao disposto nesta Lei acarretará ao estabelecimento infrator as seguintes penalidades:\nI - multa no valor de R$ 4.500,00 (quatro mil e quinhentos reais), elevada ao dobro, no caso de reincidência;\nII - cassação do alvará de funcionamento, na hipótese de sua terceira ocorrência.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias após sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução da presente Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 12.265, de 11/12/1996 was altered by acts of 1 date(s), the latest 1998-09-04."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12266",
+   "short": "Lei 12266/1996",
+   "title": "Lei nº 12.266, de 11/12/1996 (ALTERA A DENOMINACAO DA RUA CORGUINHO, CADLOG 73632-5, NO JARDIM ANALIA FRANCO, PARA RUA MAESTRO TOM JOBIM. (PL 613/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12266-de-11-de-dezembro-de-1996",
+   "first_law": "lei-1996-12266",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12266-de-11-de-dezembro-de-1996",
+     "sha256": "f31e4436c0e6478c3c79706c4d9538c4c4a59e78209a27f377ffd9e6151011b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.266 - DE 11 DE DEZEMBRO DE 1996\nAltera a denominação da Rua Corguinho, CADLOG 73.632-5, no Jardim Anália Franco, para Rua Maestro Tom Jobim.\n(Projeto de Lei n. 613/94, do Vereador Vicente Viscome)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - A Rua Corguinho, CADLOG 73.632-5, situada entre as Ruas José Oscar Abreu Sampaio, Professor João de Oliveira Torres e a Praça Marechal Rodrigues Ribas Júnior, no Jardim Anália Franco, passa a denominar-se Rua Maestro Tom Jobim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12267",
+   "short": "Lei 12267/1996",
+   "title": "Lei nº 12.267, de 18/12/1996 (DA NOVA REDACAO AO ARTIGO 2. DA LEI 11799, DE 09/06/1995. (PL 579/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12267-de-18-de-dezembro-de-1996",
+   "first_law": "lei-1996-12267",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12267-de-18-de-dezembro-de-1996",
+     "sha256": "555f6cae43d75631f767a22d6ffc736833b657860dd6989be97c834150ff78e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.267 - DE 18 DE DEZEMBRO DE 1996\nDá nova redação ao artigo 2º da Lei n. 11.799, de 9 de junho de 1995.\n(Projeto de Lei n. 579/96, do Executivo)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O artigo 2º da Lei n. 11.799, de 9 de junho de 1995, passa a vigorar com a seguinte redação:\n\"Art. 2º - As áreas referidas no artigo anterior, situadas entre as Ruas Tombadouro e Breves e as Avenidas Professor Rubens Gomes de Souza, Vicente Rao e Praça Martin Luther King, em Santo Amaro, ficam desincorporadas da classe dos bens de uso comum do povo e transferidas para a dos bens dominiais.\n§1º - As áreas referidas neste artigo, configuradas na planta anexa n. A-12.36800, do arquivo do Departamento Patrimonial, assim se caracterizam:\nI - Área I: delimitada pelo perímetro 9-10-11-12-13-9, de formato irregular, com cerca de 8.120,00 m2 (oito mil, cento e vinte metros quadrados);\nII - Área II: delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, de formato irregular, com cerca de 11.830,00 m2 (onze mil, oitocentos e trinta metros quadrados);\nIII - Área III: delimitada pelo perímetro 14-15-16-17-14, de formato irregular, com cerca de 9.260,00 m2 (nove mil, duzentos e sessenta metros quadrados);\nIV - Área IV: delimitada pelo perímetro 19-14-17-18-19, de formato irregular, com cerca de 1.740,00 m2 (hum mil, setecentos e quarenta metros quadrados), devendo o concessionário observar as exigências que o Poder Público fizer sobre a sua utilização;\nV - Área V: delimitada pelo perímetro 15-13-12-16-15, de formato irregular, com cerca de 2.400,00 m2 (dois mil e quatrocentos metros quadrados).\n§2º - As áreas mencionadas neste artigo serão descritas e detalhadas no Termo de Concessão.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12269",
+   "short": "Lei 12269/1996",
+   "title": "Lei nº 12.269, de 19/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12269-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12269",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12269-de-19-de-dezembro-de-1996",
+     "sha256": "e3e000a40c2d956290f27b54b3f33632874d8f1954dd37066f37c4122a7a6a36",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.269 - DE 19 DE DEZEMBRO DE 1996\nRevoga em todos os seus termos a Lei n. 11.166, de 20 de março de 1992 e passa a denominar-se Domingos Agnello o espaço livre sem denominação, localizado entre as Ruas Cristianópolis e Chamantá.\n(Projeto de Lei n. 840/96, do Vereador José Índio Ferreira do Nascimento)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a denominar-se Praça Domingos Agnello o espaço livre sem denominação, localizado entre as Ruas Cristianópolis, cadlog 05.508-5 e Chamantá, cadlog 04.847-0 - AR-MO (setor 52, entre as quadras 309/310/321/328.\nParágrafo único - A denominação dada ao espaço livre, conforme o \"caput\" do artigo 1º é em razão da revogação em todos os seus termos da Lei n. 11.166, de 20 de março de 1992, que denomina Domingos Agnello a praça sem nome, localizada no entroncamento das Avenidas Salim Farah Maluf e Professor Luiz Ignácio de Anhaia Mello, no Bairro da Móoca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução da presente lei correrão por conta das verbas do orçamento, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especificamente a Lei n. 11.166, de 20 de março de 1992.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12272",
+   "short": "Lei 12272/1996",
+   "title": "Lei nº 12.272, de 19/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12272-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12272",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12272-de-19-de-dezembro-de-1996",
+     "sha256": "796844051599155feeada53d5a0c914c07c34e04b17ee3caeaf90db908974527",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.272 - DE 19 DE DEZEMBRO DE 1996\nDispõe sobre a instalação obrigatória de caixas receptoras de correspondência em todas edificações residenciais, comerciais, industriais ou de serviços existentes no Município de São Paulo, e dá outras providências.\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica determinada a instalação obrigatória de caixas receptoras de correspondência em todas edificações residenciais, comerciais, industriais ou de serviços existentes no Município de São Paulo.\n§ 1º As edificações já existentes e em situação regular terão o prazo de 12 (doze) meses, a contar da publicação desta Lei, para o atendimento ao disposto no \"caput\" deste artigo.\n§ 2º A ausência da instalação de caixa receptora de correspondência nas novas edificações impedirá a regularização do imóvel, sendo que a liberação do respectivo alvará de funcionamento e/ou a entrega do \"habite-se\" só será possível através da comprovação da instalação do acessório obrigatório a que se refere o artigo 1º desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O desatendimento ao disposto na presente Lei implicará, além da sanção a que se refere o artigo anterior, em multa anual de 500 (quinhentas) Unidades Fiscais de Referência - UFIRs enquanto perdurar a infração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução da presente Lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12276",
+   "short": "Lei 12276/1996",
+   "title": "Lei nº 12.276, de 19/12/1996 (DENOMINA RUA SEVERINO SOUTO MAIOR A RUA 1-E, LOCALIZADA NO CONJUNTO HABITACIONAL SANTA ETELVINA/TRES-A, SUBDISTRITO DE GUAIANAZES. (PL 606/94))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12276-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12276",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12276-de-19-de-dezembro-de-1996",
+     "sha256": "aa44eeae013d84ad310b4fab5f79366aa673e9e596d23161df354891b12588f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.276 - DE 19 DE DEZEMBRO DE 1996\nDenomina Rua Severino Souto Maior a Rua 1-E, localizada no Conjunto Habitacional Santa Etelvina/Três-A, subdistrito de Guaianazes.\n(Projeto de Lei n. 606/94, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua Severino Souto Maior a Rua 1-E, localizada no Conjunto Habitacional Santa Etelvina/Três-A, com início à avenida conhecida como \"Dos Bancários\" e término na Rua 2-E, subdistrito de Guaianazes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12277",
+   "short": "Lei 12277/1996",
+   "title": "Lei nº 12.277, de 19/12/1996 (DENOMINA PRACA CIDADE DE LISBOA O ESPACO LIVRE SEM DENOMINACAO SITUADO NO JARDIM COLOMBO, SUBDISTRITO DO MORUMBI, AR-BUTANTA. (PL 1220/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12277-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12277",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12277-de-19-de-dezembro-de-1996",
+     "sha256": "1e5f5da00ed47a2d96af44c131be3424bceed6196607525fc189837b9bcbbc3c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.277 - DE 19 DE DEZEMBRO DE 1996\nDenomina Praça Cidade de Lisboa o espaço livre sem denominação situado no Jardim Colombo, subdistrito do Morumbi, AR-Butantã.\n(Projeto de Lei n. 1220/95, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça Cidade de Lisboa o espaço livre sem denominação localizado na Rua Nilza Medeiros Martins com a Rua Francisco Preto, Jardim Colombo, subdistrito do Morumbi - AR-Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12278",
+   "short": "Lei 12278/1996",
+   "title": "Lei nº 12.278, de 19/12/1996 (DENOMINA PRACA CIDADE DO PORTO O ESPACO LIVRE SEM DENOMINACAO SITUADO NA VILA SUZANA, SUBDISTRITO DO MORUMBI, AR-BUTANTA. (PL 1222/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12278-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12278",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12278-de-19-de-dezembro-de-1996",
+     "sha256": "61f9c9e7911e190aa43977aa461137771a0c04117170d5d65c330bdb6746561d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.278 - DE 19 DE DEZEMBRO DE 1996\nDenomina Praça Cidade do Porto o espaço livre sem denominação situado na Vila Suzana, subdistrito do Morumbi - AR-Butantã.\n(Projeto de Lei n. 1222/95, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça Cidade do Porto o espaço livre sem denominação localizado na esquina da Av. Dr. Guilherme Dumont Vilares com a Av. José Galante, Vila Suzana, subdistrito do Morumbi, AR-Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12279",
+   "short": "Lei 12279/1996",
+   "title": "Lei nº 12.279, de 19/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12279-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12279",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12279-de-19-de-dezembro-de-1996",
+     "sha256": "890a52f31d0847dc628fe112a0534cdcd063b34caaf1662a0f2b2bfc978fb4d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.279 - DE 19 DE DEZEMBRO DE 1996\nDenomina Praça Cláudio Kano, a praça inominada, compreendida entre as Ruas Porto Elizabeth, Dr. Oscar Fernandes Martins e Luis Prieto Roque, no Distrito do Jardim Teresa - Interlagos.\n(Projeto de Lei n. 653/96, do Vereador Jooji Hato)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Praça Cláudio Kano, a praça inominada, situada no Distrito do Jardim Teresa - Interlagos e que fica compreendida entre as Ruas Porto Elizabeth, Dr. Oscar Fernandes Martins e Luis Prieto Roque.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas decorrentes da aplicação desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12280",
+   "short": "Lei 12280/1996",
+   "title": "Lei nº 12.280, de 19/12/1996 (Acrescenta §§ 4º, 5º e 6º ao artigo 2º da Lei n. 8.383, de 19 de abril de 1976.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12280-de-19-de-dezembro-de-1996",
+   "first_law": "lei-1996-12280",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12280-de-19-de-dezembro-de-1996",
+     "sha256": "c589e7deaf56a1deea91852647771be0bbee9bc6f648adeec230e839826abbee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.280 - DE 19 DE DEZEMBRO DE 1996\nAcrescenta §§ 4º, 5º e 6º ao artigo 2º da Lei n. 8.383, de 19 de abril de 1976.\n(Projeto de Lei n. 317/95, do Vereador Brasil Vita)\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 2º da Lei n. 8.383, de 19 de abril de 1976, com a redação que lhe foi conferida pela Lei n. 11.172, de 7 de abril de 1992, fica acrescido dos §§ 4º, 5º e 6º, com a seguinte redação:\n\"Art. 2º ...................................\n§ 1º ...................................\n§ 2º ...................................\n§ 3º ...................................\n§ 4º A remoção e transporte de mortos por estrada de rodagem do Município, fora dos casos previstos no § 2º, acarretará aos infratores a apreensão do veículo, bem como de todo material de paramentação que se encontrar dentro do mesmo.\n§ 5º A apreensão prevista no parágrafo anterior somente se efetivará após a conclusão da remoção ou transporte que estiver sendo realizado.\n§ 6º A liberação do veículo e dos materiais apreendidos fica condicionada ao pagamento do valor da multa que será automaticamente imposta, correspondente a 2.383,04 (duas mil trezentas e oitenta e três e quatro centésimos) Unidades Fiscais de Referência - UFIRs.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente Lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12282",
+   "short": "Lei 12282/1996",
+   "title": "Lei nº 12.282, de 26/12/1996 (DISPOE SOBRE NORMAS PARA O USO DOS MEIOS DE PUBLICIDADE NOS PERIODOS ELEITORAIS. (PL 510/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12282-de-26-de-dezembro-de-1996",
+   "first_law": "lei-1996-12282",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12282-de-26-de-dezembro-de-1996",
+     "sha256": "c1637956c52951855ca40741e05d03cc51915274bd8736102f53895c3a096fd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.282 - DE 26 DE DEZEMBRO DE 1996\nDispõe sobre o uso dos meios de publicidade nos períodos eleitorais.\n(Projeto de Lei n. 510/96, do Vereador Miguel Colasuonno)\nBrasil Vita, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Nos períodos eleitorais, compreendidos entre a realização das convenções partidárias para a escolha dos candidatos e o término da campanha estabelecido pela Legislação Federal pertinente, os partidos e os candidatos poderão divulgar os nomes e os seus programas, nas vias e logradouros públicos, através de cartazes, faixas, placas, panfletos e quaisquer outros meios apropriados para fins publicitários, observadas as seguintes restrições:\na) o uso de cartazes, pintura e inscrição somente se afixados de forma que possam ser removidos sem danos para o local onde estiverem colocados;\nb) os panfletos e folhetos somente poderão ser distribuídos de mão em mão, sendo vedado atirá-los de veículos, aeronaves ou do alto de edifícios;\nc) as árvores, postes de sinalização de trânsito, monumentos, edifícios -públicos, cemitérios, caixas dos correios e cabines telefônicas não poderão ser utilizados de forma alguma para divulgações de caráter eleitoral.\n§ 1º Em bens particulares, é livre a fixação de propaganda eleitoral -desde que haja permissão dos respectivos proprietários.\n§ 2º Não são aplicáveis à propaganda eleitoral, nos períodos referidos no corpo deste artigo as proibições e penalidades previstas no artigo 23 da Lei n. 10.315, de 30 de abril de 1987, com as modificações introduzidas pela Lei n. 10.746, de 12 de setembro de 1989.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Encerrada a campanha eleitoral, os candidatos deverão promover a retirada da publicidade afixada, dentro do prazo de 15 (quinze) dias, contados da data de realização das eleições, sob pena da Prefeitura tomar essa providência diretamente, com o ressarcimento do respectivo custo pelos responsáveis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam canceladas as multas aplicadas aos partidos e aos seus candidatos a cargos eletivos, mesmo se registradas na Dívida Ativa do Município, quando referentes às respectivas campanhas eleitorais desenvolvidas em pleitos anteriores à data da entrada em vigor desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12283",
+   "short": "Lei 12283/1996",
+   "title": "Lei nº 12.283, de 27/12/1996 (DENOMINA RUA PROFESSORA SURAIA AIDAR MENON O ACESSO A AV. ERMANO MARCHETTI,CADLOG 35221-7. (PL 852/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12283-de-27-de-dezembro-de-1996",
+   "first_law": "lei-1996-12283",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12283-de-27-de-dezembro-de-1996",
+     "sha256": "660479e8908174e2dc420d06e6bb821c6cdd8941ad3aee00562a29d38240f9a7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.283 - DE 27 DE DEZEMBRO DE 1996\nDenomina Rua Professora Suraia Aidar Menon o acesso à Avenida Ermano Marchetti, Cadlog 35.221-7.\n(Projeto de Lei n. 852/96, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Rua Professora Suraia Aidar Menon o acesso à Avenida Ermano Marchetti, Cadlog 35.221-7, com início na Avenida Embaixador Macedo Soares e término na Avenida Ermano Marchetti, no Distrito da Lapa - Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12284",
+   "short": "Lei 12284/1996",
+   "title": "Lei nº 12.284, de 27/12/1996 (DENOMINA \"PRACA PROFESSORA EMIKO SATO COSTA\", CADLOG 47309-3, O ESPACO LIVRE, SEM DENOMINACAO, SITUADO NO DISTRITO SAPOPEMBA, AR-VILA PRUDENTE. (PL 851/96))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12284-de-27-de-dezembro-de-1996",
+   "first_law": "lei-1996-12284",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12284-de-27-de-dezembro-de-1996",
+     "sha256": "8ce61e89adeef2cc9236142aa04ba46d403843c22f4660fe13fe92d77d16d97f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.284 - DE 27 DE DEZEMBRO DE 1996\nDenomina \"Praça Professora Emiko Sato Costa\", Cadlog 47.309.3, o espaço livre, sem denominação, situado no Distrito Sapopemba - AR-Vila Prudente.\n(Projeto de Lei n. 851/96, do Vereador Dalmo Pessoa)\nPAULO MALUF, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que, nos termos do disposto no inciso I do artigo 84 da Resolução n. 02/91, a Câmara Municipal de São Paulo decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada \"Praça Professora Emiko Sato Costa\", Cadlog 47.309.3, o espaço livre, sem denominação, delimitado pela Avenida Professor Luiz Ignácio Anhaia Mello, Rua Manoel de Arruda Castanho e Rua Cel. Marques Santiago, Distrito Sapopemba - AR-Vila Prudente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12285",
+   "short": "Lei 12285/1996",
+   "title": "Lei nº 12.285, de 27/12/1996 (DISPOE SOBRE A OBRIGATORIEDADE DE PERMANENCIA ININTERRUPTA DE POLICIAIS NASESCOLAS MUNICIPAIS.(PL 1255/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12285-de-27-de-dezembro-de-1996",
+   "first_law": "lei-1996-12285",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12285-de-27-de-dezembro-de-1996",
+     "sha256": "1c9fc1359afdc5aca95f65cdba92f00a0988274225292fd98bddc7b62869ad0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N. 12.285 - DE 27 DE DEZEMBRO DE 1996\nDispõe sobre a obrigatoriedade de permanência ininterrupta de policiais nas escolas municipais.\n(Projeto de Lei n. 1.255/95, do Vereador Marcos Cintra)\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Executivo providenciará as medidas necessárias no sentido de promover a permanência na área interna de todas as escolas municipais de no mínimo 1 (um) policial da Guarda Civil Metropolitana.\nParágrafo único. A permanência nas escolas de que trata a presente Lei se dará no período de 24 horas, inclusive aos sábados, domingos e feriados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará a presente Lei no prazo de 90 (noventa) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1996-12288",
+   "short": "Lei 12288/1996",
+   "title": "Lei nº 12.288, de 30/12/1996",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12288-de-30-de-dezembro-de-1996",
+   "first_law": "lei-1996-12288",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1996-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-12288-de-30-de-dezembro-de-1996",
+     "sha256": "50fbb28950fd756324624583f7727a5d6b80459ae225296d8096b665ba8dc094",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 12.288 - DE 30 DE DEZEMBRO DE 1996\nAltera a legislação relativa aos Impostos Predial e Territorial Urbano e às Taxas de Limpeza Pública, de Conservação de Vias e Logradouros Públicos e de Combate a Sinistros, e dá outras providências.\n(Projeto de Lei nº 777/96, do Executivo)\nPaulo Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaz saber que a Câmara Municipal, em sessão de 27 de dezembro de 1996, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam isentos do Imposto Predial e Territorial Urbano e das Taxas de Conservação de Vias e Logradouros Públicos e de Limpeza Pública, no exercício de 1997, os imóveis construídos, utilizados exclusiva ou predominantemente como -residência, com área construída de até 90m2 (noventa metros quadrados) e padrões \"A\", \"B\" ou \"C\", dos Tipos 1 ou 2 da Tabela V, anexa à Lei n. 10.235, de 16 de dezembro de 1986, e cujo valor venal, em 1º de janeiro de 1997, seja igual ou inferior a 21.720 (vinte e um mil, setecentas e vinte) Unidades Fiscais de Referência - UFIRs.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para fins de lançamento do Imposto Predial, fica concedido, para o exercício de 1997, desconto de 21.720 (vinte um mil, setecentas e vinte) Unidades Fiscais de Referência - UFIRs sobre o valor venal de imóveis construídos, utilizados exclusiva ou predominantemente com residência, com área construída de até 90m2 (noventa metros quadrados), de padrões \"A\", \"B\" ou \"C\", dos Tipos 1 ou 2 da Tabela V, anexa à Lei n. 10.235, de 16 de dezembro de 1986, e cujo valor venal, em 1º de janeiro de 1997, seja superior a 21.720 (vinte e um mil e setecentas e vinte) Unidades Fiscais de Referência - UFIRs e inferior a 120.670 (cento e vinte mil, seiscentas e setenta) Unidades Fiscais de Referência - UFIRs.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O inciso I dos artigos 20 e 40 da Lei n. 6.989, de 29 de dezembro de 1966, com a redação que lhe foi conferida pela Lei n. 11.457, de 27 de dezembro de 1993, mantidos seus demais incisos e parágrafos, passa a vigorar com a seguinte redação:\n\"I - multa equivalente a 10% (dez por cento) do valor do imposto devido.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1997.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
