@@ -26,3 +26,18 @@ Repo created 18:04Z (br_scaffold.py, one API call), scaffold 0d54d19.
 - 2026-10-31T20:34:00Z: 30-lei-2020-01..06 PUBLISHed (build 1286 acts clean, letters 0, audit []). From now on: bash ../world-law/br_city_verify.sh <folder> after each year (also run by br_city_loop.sh).
 - ~20:56Z detached loop (world-law/br_city_loops_run.sh sp): each finished year -> br_city_verify.sh -> PUBLISH; when
   fetch PID 41236 exits after "1892 done" the claim is deleted, otherwise kept (check .cache/STOP first).
+
+## Restart (one command) — 2026-11-01
+`powershell -NoProfile -ExecutionPolicy Bypass -File ~\Documents\lexifina\scripts\world-law\br_city_resume.ps1`
+Idempotent: starts the fetch from cache (one process, >= 3 s, BelowNormal) unless the list is done, it is running, or the
+host has a STOP file (never removed by the script: check the host by hand first, log it in SCRAPING-LOG.md); starts the
+verify/publish loop (world-law/br_city_<sp|mc>.sh loop -> br_city_loop.sh) unless running. PIDs: fetch.pid, loop.pid.
+The loop publishes one year per run, newest first (.verified-years; a failing year goes to .failed-years and is skipped:
+retry by hand with `bash world-law/br_city_verify.sh <folder> <year>`). It deletes the claim only when the list is done.
+br_city_verify.sh holds a lock (.verify.lock) and builds outside scripts/ (%LOCALAPPDATA%/gitlaw-br-city/<slug>-<pid>).
+- Night 10-31/11-01: the fetch ran through 1992 (years-done 2026..1992), then stopped on a transient HTTP 500 on a
+  Detalhes page (06:30Z, lei-10959/1991); 09:06Z one check: 200, STOP moved to .cache/STOP.0630Z. The loop failed at
+  2019 (21:01Z): two verify runs shared .tmp-build (an earlier loop instance was still alive) -> build/check failures;
+  nothing bad was PUBLISHed (2019 parts stayed unpublished). Fixed with the lock + per-run build folder above.
+- 09:07Z resumed: fetch PID 48208 (--years 2024-1892, cached years pass without requests; resumes in 1991), loop PID 3008
+  draining 2019 -> 1992, one year per PUBLISH batch.
