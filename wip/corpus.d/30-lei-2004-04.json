@@ -1,0 +1,685 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "11 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2004-13930": {
+   "label": "Lei nº 13.930, de 19/11/2004",
+   "title": "DENOMINA EMEF JOAO DA SILVA A ESCOLA INOMINADA LOCALIZADA NA RUA CONQUISTA POPULAR - JARDIM LUCELIA - SUBPREFEITURA CAPELA DO SOCORRO. (PL 682/03)",
+   "kind": "law",
+   "enacted": "2004-11-19",
+   "published": "2004-11-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13930-de-19-de-novembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13932": {
+   "label": "Lei nº 13.932, de 23/11/2004",
+   "title": "DENOMINA EMEI PROF. JOSE LA TORRE O PROPRIO MUNICIPAL CONHECIDO POR EMEI JARDIM ALADIM, LOCALIZADO A RUA ANTONIO MARCONDES BOETA, 161, JARDIM ALADIM, DISTRITO DE PARELHEIROS, E DA OUTRAS PROVIDENCIAS. (PL 607/03)",
+   "kind": "law",
+   "enacted": "2004-11-23",
+   "published": "2004-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13932-de-23-de-novembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13934": {
+   "label": "Lei nº 13.934, de 26/11/2004",
+   "title": "APROVA TRACADO DE FAIXA DE TERRENO NO DISTRITO DO ITAIM BIBI E DA OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2004-11-26",
+   "published": "2004-11-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13934-de-26-de-novembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13935": {
+   "label": "Lei nº 13.935, de 13/12/2004",
+   "title": "MODIFICA PARCIALMENTE A LEI N. 13684, DE 19 DE NOVEMBRO DE 2003. (PL 35/04)",
+   "kind": "law",
+   "enacted": "2004-12-13",
+   "published": "2004-12-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13935-de-13-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13936": {
+   "label": "Lei nº 13.936, de 17/12/2004",
+   "title": "AUTORIZA O EXECUTIVO A DOAR PARA COHAB AREA DE PROPRIEDADE MUNICIPAL SITUADA NA RUA MARQUES DE SAO VICENTE, DISTRITO DE BARRA FUNDA, SUBPREFEITURA LAPA, BEM COMO TRANSFERIR IMOVEIS DE PROPRIEDADE DO FUNAPS, EXTINTO PELA LEI N. 11632 DE 22/07/94, NOS TERMOS DA LEI FEDERAL N. 6015/73. (PL69/04)",
+   "kind": "law",
+   "enacted": "2004-12-17",
+   "published": "2004-12-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13936-de-17-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13937": {
+   "label": "Lei nº 13.937, de 27/12/2004",
+   "title": "DENOMINA PRACA NESTOR PEDRO CORREIA ESPACO PUBLICO INOMINADO SITUADO NO JARDIM MARACANA, DISTRITO DE BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 263/03)",
+   "kind": "law",
+   "enacted": "2004-12-27",
+   "published": "2004-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13937-de-27-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13938": {
+   "label": "Lei nº 13.938, de 27/12/2004",
+   "title": "DISPOE SOBRE DESAFETACAO DE AREA MUNICIPAL SITUADA NA VILA NOVA CONCEICAO, SUBPREFEITURA DE VILA MARIANA; AUTORIZA SUA PERMUTA POR IMOVEIS DE PROPRIEDADE PARTICULAR SITUADOS NO JAGUARE, SUBPREFEITURA DO BUTANTA. (PL 515/04)",
+   "kind": "law",
+   "enacted": "2004-12-27",
+   "published": "2004-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13938-de-27-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13939": {
+   "label": "Lei nº 13.939, de 27/12/2004",
+   "title": "Prorroga por mais 365 (trezentos e sessenta e cinco) dias o prazo previsto no art. 21 da Lei nº 13.399, de 1º de agosto de 2002, para formalização, mediante lei, das novas estruturas organizacionais centrais e de outras medidas daí decorrentes que especifica.",
+   "kind": "law",
+   "enacted": "2004-12-27",
+   "published": "2004-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13939-de-27-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13940": {
+   "label": "Lei nº 13.940, de 27/12/2004",
+   "title": "AUTORIZA A DOACAO DE AREAS MUNICIPAIS. SITUADAS NA AVENIDA ZAKI NARCHI E NA AVENIDA OTAVIANO ALVES DE LIMA, A COMPANHIA METROPOLITANA DE HABITACAO DE SAO PAULO - COHAB-SP. (PL 579/04)",
+   "kind": "law",
+   "enacted": "2004-12-27",
+   "published": "2004-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13940-de-27-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2004-13941": {
+   "label": "Lei nº 13.941, de 28/12/2004",
+   "title": "Institui o Programa EDUCOM-Educomunicação pelas ondas do rádio, no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2004-12-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13941-de-28-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14669": {
+   "label": "Lei nº 14.669, de 14/01/2008",
+   "title": "Altera a estrutura e as atribuições das Autarquias Hospitalares Municipais Regionais; introduz modificações na Lei nº 13.271, de 4 de janeiro de 2002, e na Lei nº 14.132, de 24 de janeiro de 2006; dispõe sobre a denominação e a forma de provimento dos cargos em comissão que especifica; atribui competência à Procuradoria Geral do Município para representar judicialmente o Instituto de Previdência Municipal - IPREM.",
+   "kind": "law",
+   "enacted": "2008-01-14",
+   "published": "2004-01-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14669-de-14-de-janeiro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2004-13930",
+   "short": "Lei 13930/2004",
+   "title": "Lei nº 13.930, de 19/11/2004 (DENOMINA EMEF JOAO DA SILVA A ESCOLA INOMINADA LOCALIZADA NA RUA CONQUISTA POPULAR - JARDIM LUCELIA - SUBPREFEITURA CAPELA DO SOCORRO. (PL 682/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13930-de-19-de-novembro-de-2004",
+   "first_law": "lei-2004-13930",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-11-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13930-de-19-de-novembro-de-2004",
+     "sha256": "65e3df89c7f18a6ab96d832df2b62c07e772f1133a2f60dec3c29a2de82e5419",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.930, DE 19 DE NOVEMBRO DE 2004\n(Projeto de Lei nº 682/03, do Vereador Arselino Tatto - PT)\nDenomina EMEF João da Silva a escola inominada localizada na Rua Conquista Popular - Jardim Lucélia - Subprefeitura Capela do Socorro.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina EMEF João da Silva a escola inominada localizada na Rua Conquista Popular - Jardim Lucélia - Subprefeitura Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a execução desta lei correrão por conta de dotações financeiras próprias, consignadas no orçamento vigente e suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de novembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARIA APARECIDA PEREZ, Secretária Municipal de Educação\nPublicada na Secretaria do Governo Municipal, em 19 de novembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13932",
+   "short": "Lei 13932/2004",
+   "title": "Lei nº 13.932, de 23/11/2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13932-de-23-de-novembro-de-2004",
+   "first_law": "lei-2004-13932",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13932-de-23-de-novembro-de-2004",
+     "sha256": "96cd2e70ec70362760b051e69c270c4ca9f5a63ffcb456205831c59dba7062f8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.932, DE 23 DE NOVEMBRO DE 2004\n(Projeto de Lei nº 607/03, do Vereador Carlos Giannazi - PT)\nDenomina EMEI Prof. José La Torre o próprio municipal conhecido por EMEI Jardim Aladim, localizado à Rua Antônio Marcondes Boeta, 161, Jardim Aladim, Distrito de Parelheiros, e dá outras providências.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado EMEI Prof. José La Torre o próprio municipal conhecido por EMEI Jardim Aladim, localizado na Rua Antônio Marcondes Boeta, 161, Jardim Aladim, Distrito de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARIA APARECIDA PEREZ, Secretária Municipal de Educação\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13934",
+   "short": "Lei 13934/2004",
+   "title": "Lei nº 13.934, de 26/11/2004 (APROVA TRACADO DE FAIXA DE TERRENO NO DISTRITO DO ITAIM BIBI E DA OUTRAS PROVIDENCIAS.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13934-de-26-de-novembro-de-2004",
+   "first_law": "lei-2004-13934",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13934-de-26-de-novembro-de-2004",
+     "sha256": "08aadd4a356b8d19cd9a3e9492a95e9d3104f5f2af9c187cb861ec72799098b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.934, DE 26 DE NOVEMBRO DE 2004\n(Projeto de Lei nº 473/01, do Executivo)\nAprova traçado de faixa de terreno no distrito do Itaim Bibi e dá outras providências.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.860-T-1202, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pela Prefeita como parte integrante desta lei, fica aprovado o traçado de terreno destinado à instituição de servidão \"non aedificandi\" com largura de 3,00 metros e extensão aproximada de 50,00 metros, desde a Rua Silvio Vicente Carbone até a Rua Araçaiba, no distrito do Itaim Bibi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Se a faixa de terreno a que se refere o art. 1º for utilizada para abertura de viela sanitária, os lotes lindeiros, bem como as edificações neles erigidas, relativas a construções, reconstruções ou reformas, não poderão ter, para ela, qualquer modalidade de abertura ou acesso.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação ou instituição de servidão.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de novembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nRICARDO REZENDE GARCIA, Secretário de Infra-Estrutura Urbana - Substituto\nPublicada na Secretaria do Governo Municipal, em 26 de novembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13935",
+   "short": "Lei 13935/2004",
+   "title": "Lei nº 13.935, de 13/12/2004 (MODIFICA PARCIALMENTE A LEI N. 13684, DE 19 DE NOVEMBRO DE 2003. (PL 35/04))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13935-de-13-de-dezembro-de-2004",
+   "first_law": "lei-2004-13935",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13935-de-13-de-dezembro-de-2004",
+     "sha256": "990cf84c34c6eb3e58669904142fce74e2b37921d2e1206778443d9f3bdd8ddd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.935, DE 13 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 035/04, do Executivo)\nModifica parcialmente a Lei nº 13.684, de 19 de dezembro de 2003.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.889 - Classificação 1 - 600, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pela Prefeita como parte integrante desta lei, fica modificado o inciso III do art. 1º da Lei nº 13.684, de 19 de dezembro de 2003, no trecho compreendido entre o Córrego Pirajussara e a Avenida Dr. Guilherme Dumont Villares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam aprovadas as concordâncias de alinhamentos constantes da planta nº 26.889, mencionada no art. 1º desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nROBERTO LUIZ BORTOLOTTO, Secretário de Infra-Estrutura Urbana\nPublicada na Secretaria do Governo Municipal, em 13 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13936",
+   "short": "Lei 13936/2004",
+   "title": "Lei nº 13.936, de 17/12/2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13936-de-17-de-dezembro-de-2004",
+   "first_law": "lei-2004-13936",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13936-de-17-de-dezembro-de-2004",
+     "sha256": "4d3d19a7c8e04ed9f7143ab495a1e4ded6ca1b90ed06120c116d3d35cab0d1c3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.936, DE 17 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 069/04, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nAutoriza o Executivo a doar para a Companhia Metropolitana de Habitação de São Paulo área de propriedade municipal situada na Rua Marquês de São Vicente, Distrito de Barra Funda, Subprefeitura da Lapa, bem como transferir os imóveis de propriedade do Fundo de Atendimento à População Moradora em Habitação Subnormal - FUNAPS, extinto pela Lei nº 11.632, de 22 de julho de 1994, nos termos do art. 294 da Lei Federal nº 6.015/73.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a doar para a Companhia Metropolitana de Habitação de São Paulo - COHAB/SP área de propriedade municipal situada na Rua Marquês de São Vicente, Distrito de Barra Funda, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área referida no art. 1º, configurada na planta anexa A-13.519/00, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pela Prefeita como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-1, de formato irregular, com 19.766,82 m² (dezenove mil, setecentos e sessenta e seis metros e oitenta e dois decímetros quadrados), confrontando para quem de dentro da área olha para a Avenida Marquês de São Vicente. Frente: linha reta 12-13-14-15, assim parcelada: segmentos de reta 12-13, 13-14 e 14-15, medindo respectivamente 35,95 metros, 19,90 metros e 66,21 metros, todos confrontando com referida avenida. Lado direito: linha quebrada 15-16-17-18-19-1, assim parcelada: segmentos de reta 15-16, 16-17, 17-18, 18-19 e 19-1, medindo respectivamente 4,23 metros, 57,08 metros, 29,99 metros, 72,23 metros e 33,60 metros, o primeiro confrontando com a confluência da Avenida Marquês de São Vicente com a Rua James Holland e os demais confrontando com a Rua James Holland. Lado esquerdo: linha mista 3-4-5-6-7-8-9-10-11-12, assim parcelada: segmento de reta 3-4, medindo 21,04 metros, confrontando com a confluência da Avenida Dr. Abraão Ribeiro com a Rua do Bosque; segmentos de curvas 4-5, 5-6, 6-7, 7-8 e 8-9, todos confrontando com a Avenida Dr. Abraão Ribeiro, medindo respectivamente 25,30 metros, 39,95 metros, 32,70 metros, 8,10 metros e 8,77 metros; segmentos de curvas 9-10, 10-11 e 11-12, medindo respectivamente 16,91 metros, 6,14 metros e 24,93 metros, todos confrontando com a confluência das Avenidas Dr. Abraão Ribeiro e Marquês de São Vicente. Fundos: linha reta 1-2-3, parcelada nos segmentos de retas 1-2 e 2-3, medindo respectivamente 39,97 metros e 44,37 metros, ambos confrontando com a Rua do Bosque.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O valor da área transferida para a Companhia Metropolitana de Habitação de São Paulo - COHAB/SP de que trata esta lei, para efeitos fiscais e contábeis, será apurado no momento da doação para aquela Companhia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam transferidos os imóveis de propriedade do Fundo de Atendimento à População Moradora em Habitação Subnormal - FUNAPS, extinto pela Lei nº 11.632, de 22 de julho de 1994, para a Companhia Metropolitana de Habitação de São Paulo - COHAB/SP, que deverá promover as medidas necessárias para sua regularização fundiária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para fins contábeis, o valor dos imóveis referidos no artigo anterior será aquele apurado pelo Departamento Patrimonial da Secretaria de Negócios Jurídicos, não podendo ser inferior ao constante na planta genérica de valores.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARCOS QUEIROGA BARRETO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 17 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13937",
+   "short": "Lei 13937/2004",
+   "title": "Lei nº 13.937, de 27/12/2004 (DENOMINA PRACA NESTOR PEDRO CORREIA ESPACO PUBLICO INOMINADO SITUADO NO JARDIM MARACANA, DISTRITO DE BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL 263/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13937-de-27-de-dezembro-de-2004",
+   "first_law": "lei-2004-13937",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13937-de-27-de-dezembro-de-2004",
+     "sha256": "6f1d611f88d81440c74da1df572b3580ea1d225e3e8d45f6d8c3d5ae8284bbc0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.937, DE 27 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 263/03, do Vereador José Viviani Ferraz - PL)\nDenomina Praça Nestor Pedro Correia espaço público inominado situado no Jardim Maracanã, Distrito de Brasilândia, e dá outras providências.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Nestor Pedro Correia o espaço público localizado na confluência das ruas Catolândia e Itaberaba (setor 107 - quadra 352), no Jardim Maracanã, Distrito de Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARCOS QUEIROGA BARRETO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13938",
+   "short": "Lei 13938/2004",
+   "title": "Lei nº 13.938, de 27/12/2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13938-de-27-de-dezembro-de-2004",
+   "first_law": "lei-2004-13938",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13938-de-27-de-dezembro-de-2004",
+     "sha256": "5d42c31a282948d5a8474117b2677c4ed264cf7cf8d705e03b130bb3b9443078",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.938, DE 27 DE DSEZEMBRO DE 2004\n(Projeto de Lei nº 515/04, do Executivo)\nDispõe sobre desafetação de área municipal situada na Vila Nova Conceição, Subprefeitura de Vila Mariana; autoriza sua permuta por imóveis de propriedade particular situados no Jaguaré, Subprefeitura do Butantã.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica desincorporada da classe dos bens de uso especial e transferida para a classe dos bens dominiais a área municipal localizada no quadrilátero formado pelas Ruas Brás Cardoso, Domingos Leme, Domingos Fernandes e Jacques Félix, na Vila Nova Conceição, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o Executivo autorizado a permutar a área municipal referida no art. 1º desta lei, avaliada em novembro de 2004 em R$ 32.156.891,00 (trinta e dois milhões, cento e cinqüenta e seis mil e oitocentos e noventa e um reais), por imóveis de propriedade particular pertencentes à Pan American Estádios Ltda., correspondentes às áreas descritas nas matrículas nº 57.147, com 40.428,00 m² (quarenta mil e quatrocentos e vinte e oito metros quadrados), e nº 156.984, com 410.077,00 m² (quatrocentos e dez mil e setenta e sete metros quadrados), ambas do 18º C.R.I., avaliadas em novembro de 2004, respectivamente, em R$ 3.803.062,00 (três milhões, oitocentos e três mil e sessenta e dois reais) e R$ 32.931.743,00 (trinta e dois milhões, novecentos e trinta e um mil e setecentos e quarenta e três reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As áreas e os imóveis referidos no art. 2º desta lei, configurados nas plantas anexas A-13.895/00 e A-13.896/00, do arquivo do Departamento Patrimonial, rubricadas pelo Presidente da Câmara e pela Prefeita como partes integrantes desta lei, assim se caracterizam:\nI - planta A-13.895/00: área de propriedade municipal, delimitada pelo perímetro 1-5-12-18-1, de formato regular, com 8.965,80 m² (oito mil, novecentos e sessenta e cinco metros e oitenta decímetros quadrados), confrontando, para quem de dentro da área olha para a Rua Domingos Fernandes, pela frente, linha reta 1-5, medindo 99,90 metros, confrontando em toda a sua extensão com o leito da Rua Domingos Fernandes; pelo lado direito, linha reta 5-12, medindo 89,80 metros, confrontando em toda sua extensão com o leito da Rua Domingos Leme; pelo lado esquerdo, linha reta 18-1, medindo 90,00 metros, confrontando em toda sua extensão com o leito da Rua Jacques Félix; pelos fundos, linha reta 12-18, medindo 99,50 metros, confrontando em toda sua extensão com o leito da Rua Brás Cardoso;\nII - planta A-13.896/00: áreas de propriedade da Pan American Estádios Ltda.:\na) Área A: delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28- 29- 30- 31- 32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51- 52- 53- 54- 55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-72-73-74-1, de formato irregular, com 410.077,00 m² (quatrocentos e dez mil e setenta e sete metros quadrados), confrontando, para quem de dentro da área olha para a Rodovia Raposo Tavares, pela frente, linha 72-73-74-1-2-3-4-5-6, medindo 528,38 metros, confrontando no trecho 72-73-74-1-2 (102,74 metros) com o Córrego Itaim, confrontando no trecho 2-3-4-5 (295,75 metros) com a área das matrículas nº 137.716 e 137.717 do 18º C.R.I., e confrontando no trecho 5-6 (129,89 metros) com a faixa de domínio da Rodovia Raposo Tavares; pelo lado direito, linha 6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21- 22- 23- 24-25-26-27-28-29-30, medindo 971,45 metros, confrontando com os Lotes Fiscais 43 e 47, da Quadra 002, do Setor 186; pelo lado esquerdo, linha 70-71-72, medindo 373,20 metros, confrontando em toda a sua extensão com a área da matrícula nº 57.147 do 18º C.R.I. (Área C); pelos fundos, linha 30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54- 55- 56- 57-58-59-60-61-62-63-64-65-66-67-68-69-70, medindo 947,30 metros, confrontando em toda a sua extensão com o leito da Rua Candido Fontoura;\nb) Área C: delimitada pelo perímetro 70-77-78-79-80-81-82-83-84-85-86-87-89-90-91-92-93-94-95-96-97-98-99-100-101-102-103-104-105-106-107-108-109-110-111-112-72-71-70, de formato irregular, com 40.428,00 m² (quarenta mil e quatrocentos e vinte e oito metros quadrados), confrontando, para quem de dentro da área olha para a Rodovia Raposo Tavares, pela frente, linha 70-77-78-79-80-81-82-83-84-85-86-87-89, medindo 303,88 metros, confrontando em toda a extensão com o leito da Rua Candido Fontoura; pelo lado direito, linha 89-90-91-92-93-94-95-96-97-98-99-100-101-102-103-104-105, medindo 161,77 metros, confrontando com o Lote Fiscal 44, da Quadra 002, do Setor 186; pelo lado esquerdo, linha 70-71-72, medindo 373,20 metros, confrontando em toda a sua extensão com a área da matrícula nº 156.984 do 18º C.R.I. (Área C); pelos fundos, linha 105-106-107-108-109-110-111-112-72, medindo 128,11 metros, confrontando em toda a sua extensão com o Córrego Itaim.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os valores de que trata o art. 2º desta lei deverão ser atualizados pela Unidade competente da Municipalidade, por ocasião da formalização da permuta, ficando a Prefeitura dispensada do pagamento de eventual torna.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Municipalidade fica obrigada a respeitar e cumprir todas as cláusulas e condições estabelecidas no Contrato de Comodato firmado em 16 de julho de 2002 entre a Pan American Estádios Ltda. e a Pia Sociedade de São Paulo, pelo qual foi cedida à referida entidade parte da área objeto da matrícula nº 156.984 do 18º Cartório de Registro de Imóveis, com 60.000,00 m² (sessenta mil metros quadrados), por 99 (noventa e nove) anos, na qual estão instalados convento, capela, gráfica e casa de formação religiosa.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13939",
+   "short": "Lei 13939/2004",
+   "title": "Lei nº 13.939, de 27/12/2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13939-de-27-de-dezembro-de-2004",
+   "first_law": "lei-2004-13939",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13939-de-27-de-dezembro-de-2004",
+     "sha256": "e4a2dde69f852820282e3edd679c0c8d89e863e46afc7e7c65b7db9918213e38",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.939, DE 27 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 544/04, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nProrroga por mais 365 (trezentos e sessenta e cinco) dias o prazo previsto no art. 21 da Lei nº 13.399, de 1º de agosto de 2002, para formalização, mediante lei, das novas estruturas organizacionais centrais e de outras medidas daí decorrentes que especifica.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica prorrogado por mais 365 (trezentos e sessenta e cinco) dias, contados de 31 de dezembro de 2004, o prazo previsto no art. 21 da Lei nº 13.399, de 1º de agosto de 2002, para a formalização, mediante lei, das novas estruturas organizacionais centrais, com os respectivos quadros de cargos e funções, assim como as ações executivas sob suas respectivas competências, compatibilizando-as com as das Subprefeituras, de modo a evitar duplicidades.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nCARLOS ALBERTO ROLIM ZARATTINI, Secretário Municipal das Subprefeituras\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13940",
+   "short": "Lei 13940/2004",
+   "title": "Lei nº 13.940, de 27/12/2004",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13940-de-27-de-dezembro-de-2004",
+   "first_law": "lei-2004-13940",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13940-de-27-de-dezembro-de-2004",
+     "sha256": "be863347c8ea6cf398206a0ea545ae2a0ba31247a32087efd45fa5d53ad2b799",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.940, DE 27 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 579/04, do Executivo)\nAutoriza a doação de áreas municipais, situadas na Avenida Zaki Narchi e na Avenida Otaviano Alves de Lima, à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a doar, à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP, áreas de propriedade municipal situadas na Avenida Zaki Narchi e na Avenida Otaviano Alves de Lima, destinadas à implantação de conjunto habitacional.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As áreas referidas no art. 1º desta lei, configuradas nas plantas anexas A-7312/02 e A-5824/03, do arquivo do Departamento Patrimonial, rubricadas pelo Presidente da Câmara e pela Prefeita como parte integrante desta lei, assim se descrevem:\nI - Área 1: delimitada pelo perímetro A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-A, com 35.278,40m² (trinta e cinco mil, duzentos e setenta e oito metros e quarenta decímetros quadrados), parcela de área maior transcrita sob nº 117.218 no 15º Serviço de Registro de Imóveis da Capital, de formato irregular, confrontando para quem de dentro da área olha para Av. Zaki Narchi, pela frente, segmento misto A-B-C, medindo 152,33m, assim parcelado: segmento reto A-B, medindo 112,10m, confrontando com a Av. Zaki Narchi e segmento curvo B-C, medindo 40,23m, confrontando com a confluência dos logradouros Avenidas Zaki Narchi e Otto Baumgart; pela lateral esquerda, segmentos retos J-K-L-M-N-O-P-Q-A, em múltiplas direções, todos eles sobre a área municipal originada de expropriação, com somatória das medidas igual a 419,82m, assim segmentados: trecho J-K, medindo 5,33m, K-L, medindo 117,15m, L-M, medindo 16,14m, M-N, medindo 97,18m, N-O, medindo 69,09m, O-P, medindo 101,34m, P-Q, medindo 0,80m, e Q-A, medindo 12,79m; pela lateral direita, segmento de reta C-D, medindo 353,71m, sobre a área municipal originada de expropriação, confrontando com a Av. Otto Baumgart; pelos fundos, segmentos mistos D-E-F-G-H-I-J, medindo 116,58m, assim parcelados: trechos D-E, E-F e F-G, em segmentos retos, medindo, respectivamente, 3,05m, 2,43m e 13,53m, trecho G-H, segmento curvo medindo 65,50m, trecho H-I, segmento reto medindo 2,60m, e trecho I-J, segmento curvo medindo 29,47m;\nII - Área 2: delimitada pelo perímetro A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-A, com 14.320,00m² (quatorze mil e trezentos e vinte metros quadrados), de formato irregular, confrontando, para quem de dentro da área olha para a Av. Otaviano Alves de Lima, pela frente, linha reta A-B, medindo 83,50m, confrontando em toda a sua extensão com o leito da Av. Otaviano Alves de Lima; pelo lado direito, linha sinuosa B-C-D-E-F-G-H-I-J-K, medindo 185,50m, nos trechos: linha curva B-C, medindo 14,00m, linha curva C-D, medindo 25,00m, linha curva D-E, medindo 25,00m, linha curva E-F, medindo 26,00m, linha curva F-G, medindo 25,00m, linha curva G-H, medindo 20,00m, linha curva H-I, medindo 23,00m, linha curva I-J, medindo 20,00m, e linha reta J-K, medindo 7,50m, confrontando em toda a sua extensão com S/A Refinaria Paulista; pelo lado esquerdo, linha mista L-M-N-O-P-Q-A, medindo 277,50m, nos trechos: linha reta L-M, medindo 6,50m, linha reta M-N, medindo 20,00m, linha reta N-O, medindo 20,00m, e linha reta O-P, medindo 7,00m, todos confrontando com área municipal, linha curva P-Q, medindo 95,00m, e linha reta Q-A, medindo 129,00m, confrontando com o leito da Av. Alexandre Colares; pelos fundos, linha curva K-L, medindo 77,00m, confrontando em toda a sua extensão com o leito da Av. Manoel Monteiro de Araújo.\nParágrafo único. As áreas de que tratam os incisos I e II do \"caput\" deste artigo foram avaliadas em R$ 9.879.151,00 (nove milhões, oitocentos e setenta e nove mil e cento e cinqüenta e um reais) e R$ 7.194.273,00 (sete milhões, cento e noventa e quatro mil e duzentos e setenta e três reais), respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A donatária ficará obrigada a:\nI - implantar, nas áreas doandas, conjunto habitacional em conformidade com as diretrizes da legislação pertinente;\nII - arcar com todas as despesas oriundas da doação, inclusive as relativas à lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A extinção ou dissolução da donatária, a alteração do destino das áreas, bem como a inobservância das condições estabelecidas nesta lei ou nas cláusulas que constarem do instrumento de doação, implicarão a resolução de pleno direito da doação, revertendo ao domínio do Município e incorporando-se ao seu patrimônio todas as edificações, acessões e benfeitorias erigidas, ainda que necessárias, sem direito de retenção e independentemente de qualquer indenização, por parte da Municipalidade, seja a que título for.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica assegurado à Prefeitura o direito de fiscalizar o cumprimento das obrigações estatuídas por esta lei e pelo instrumento de doação, o qual deverá prever os encargos cometidos à donatária, os prazos a serem observados e a cláusula de reversão, em caso de inadimplemento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARCOS QUEIROGA BARRETO, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2004-13941",
+   "short": "Lei 13941/2004",
+   "title": "Lei nº 13.941, de 28/12/2004 (Institui o Programa EDUCOM-Educomunicação pelas ondas do rádio, no Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13941-de-28-de-dezembro-de-2004",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2004-13941"
+   ],
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13941-de-28-de-dezembro-de-2004",
+     "sha256": "ff1aead777abc91a132eba3d7cf30420f81effabbd9e653db005841f30803d33",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.941, DE 28 DE DEZEMBRO DE 2004\n(Projeto de Lei nº 556/02, do Vereador Carlos Neder - PT)\nInstitui o Programa EDUCOM-Educomunicação pelas ondas do rádio, no Município de São Paulo, e dá outras providências.\nMARTA SUPLICY, Prefeita do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa EDUCOM-Educomunicação pelas ondas do rádio, no âmbito da Administração Municipal.\n§ 1º Para os fins da presente lei, entende-se por educomunicação o conjunto dos procedimentos voltados ao planejamento e implementação de processos e recursos da comunicação e da informação, nos espaços destinados à educação e à cultura, sob a responsabilidade do Poder Público Municipal, inclusive no âmbito das Subprefeituras e demais Secretarias e órgãos envolvidos.\n§ 2º Visa o Programa instituído por esta lei ampliar as habilidades e competências no uso das tecnologias, de forma a favorecer a expressão de todos os membros da comunidade escolar, incluindo dirigentes, coordenadores, professores, alunos, ex-alunos e demais membros da comunidade do entorno.\n§ 3º O Programa de que trata esta lei e o conceito de educomunicação contemplam a análise crítica e o uso educativo-cultural, não apenas do rádio mas de todos os recursos da comunicação, garantindo-se, para tanto, uma gestão democrática de tais processos e recursos, de forma a facilitar a aprendizagem e o exercício pleno da cidadania.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os objetivos do Programa são:\nI - desenvolver e articular práticas de educomunicação, incluindo a radiodifusão restrita, a radiodifusão comunitária, bem como toda forma de veiculação midiática, de acordo com a legislação vigente, no âmbito da administração municipal;\nII - incentivar atividades de rádio e televisão comunitária em equipamentos públicos, nos termos da legislação vigente;\nIII - capacitar, em atividades de educomunicação, os dirigentes e coordenadores de escolas e equipamentos de cultura do Município, inclusive no âmbito das Subprefeituras e demais Secretarias e órgãos envolvidos, assim como professores, estudantes e demais membros da comunidade escolar;\nIV - incentivar atividades de educomunicação relacionadas à introdução dos recursos da comunicação e da informação nos espaços públicos e privados voltados à educação e à cultura;\nV - capacitar os servidores públicos municipais em atividades de educomunicação;\nVI - incorporar, na prática pedagógica, a relação da comunicação com os eixos temáticos previstos nos parâmetros curriculares;\nVII - apoiar a prática da educomunicação nas ações intersetoriais, em especial nas áreas de educação, cultura, saúde, esporte e meio ambiente, no âmbito das diversas Secretarias e órgãos municipais, bem como das Subprefeituras;\nVIII - desenvolver ações de cidadania no campo da educomunicação dirigidas a crianças e adolescentes;\nIX - aumentar o vínculo estabelecido entre os equipamentos públicos e a comunidade, nas ações de prevenção de violência e de promoção da paz, através do uso de recursos tecnológicos que facilitem a expressão e a comunicação.\nX - contribuir com o fortalecimento da educação pública de qualidade como um direito de todos os bebês, crianças, jovens e adultos m idade escolar;\nXI - promover o acesso a informações e outros conteúdos de mídia.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para implementar o Programa instituído por esta lei, caberá ao Poder Executivo a constituição de um Comitê Gestor, cuja composição e competências específicas serão definidas em decreto.\n§ 1º Fica assegurada a participação no Comitê Gestor das diversas Secretarias afetas ao programa, de representantes de universidades que desenvolvam pesquisas e práticas de educomunicação, de grêmios estudantis das escolas municipais e demais entidades representativas da comunidade escolar, do Sindicato dos Jornalistas, do Sindicato dos Radialistas e de entidades voltadas ao desenvolvimento da prática da comunicação educativa.\n§ 2º A composição do Comitê Gestor deverá observar a paridade entre a representação da sociedade civil com relação aos demais segmentos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica autorizado o aporte de recursos de instituições públicas ou privadas, interessadas em financiar o Programa EDUCOM-Educomunicação pelas ondas do rádio.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da aplicação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei será regulamentada no prazo de 60 (sessenta) dias, contados de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2004, 451º da fundação de São Paulo.\nMARTA SUPLICY, PREFEITA\nLUIZ TARCÍSIO TEIXEIRA FERREIRA, Secretário dos Negócios Jurídicos\nLUÍS CARLOS FERNANDES AFONSO, Secretário de Finanças e Desenvolvimento Econômico\nMARIA APARECIDA PEREZ, Secretária Municipal de Educação\nCELSO FRATESCHI, Secretário Municipal de Cultura\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2004.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.941, de 28/12/2004 was altered by acts of 1 date(s), the latest 2025-06-03."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14669",
+   "short": "Lei 14669/2008",
+   "title": "Lei nº 14.669, de 14/01/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14669-de-14-de-janeiro-de-2008",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2008-14669"
+   ],
+   "versions": [
+    {
+     "from": "2009-03-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14669-de-14-de-janeiro-de-2008",
+     "sha256": "83fed756d5b2c168417d5c17e6d7b174443212eee655cd80e98cdbc297e30b81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.669, DE 14 DE JANEIRO DE 2008\n(Projeto de Lei nº 642/07, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nAltera a estrutura e as atribuições das Autarquias Hospitalares Municipais Regionais; introduz modificações na Lei nº 13.271, de 4 de janeiro de 2002, e na Lei nº 14.132, de 24 de janeiro de 2006; dispõe sobre a denominação e a forma de provimento dos cargos em comissão que especifica; atribui competência à Procuradoria Geral do Município para representar judicialmente o Instituto de Previdência Municipal - IPREM.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. As Autarquias Hospitalares Municipais Regionais Norte e Centro-Oeste passam, respectivamente, a denominar-se Autarquia Hospitalar Municipal e Autarquia Municipal de Serviços Auxiliares de Saúde.\n§ 1º. Ficam extintas as Autarquias Hospitalares Municipais Regionais Sul, Leste e Sudeste.\n§ 2º. Observado o disposto no art. 2º desta lei, as atribuições, as unidades administrativas, o pessoal, os cargos em comissão, o patrimônio, o acervo documental e as dotações orçamentárias das autarquias referidas no § 1º ficam transferidas para a Autarquia Hospitalar Municipal.\n§ 3º. Ficam também transferidos para a Autarquia Hospitalar Municipal referida no \"caput\" deste artigo os hospitais e prontos-socorros que integram a Autarquia Municipal Regional Centro-Oeste, com as respectivas atribuições, unidades administrativas, pessoal, cargos em comissão, patrimônio, acervo documental e dotações orçamentárias.\n§ 4º. As Secretarias Municipais de Gestão e de Saúde supervisionarão o processo de inventário das autarquias e unidades ora transferidas, que ficará a cargo da Autarquia Hospitalar Municipal.\n§ 5º. No curso do processo de inventário e até a conclusão da transferência prevista nos §§ 2º e 3º, a continuidade da prestação dos serviços afetos às unidades transferidas ficará sob a supervisão da Autarquia Hospitalar Municipal.\n§ 6º. Os processos judiciais em que as autarquias referidas nos §§ 2º e 3º sejam partes, ativa ou passivamente, serão transferidos para a Autarquia Hospitalar Municipal, na qualidade de sucessora.\n§ 7º. A transferência das unidades de que trata este artigo será realizada mediante inventário de seus bens imóveis e de seu acervo físico, documental e material, bem como dos contratos e convênios, com a adoção, pela Autarquia Hospitalar Municipal, de providências dirigidas à manutenção e ao prosseguimento da prestação dos serviços a cargo dessas unidades, nos termos da legislação aplicável em cada caso.\n§ 8º. Os recursos e as receitas orçamentárias de qualquer natureza destinados às entidades ora extintas e às transferidas serão utilizados durante o processo de inventário na manutenção e financiamento das atividades e serviços prestados até a conclusão da transferência prevista nos §§ 2º e 3º.\n§ 9º. A Autarquia Municipal de Serviços Auxiliares de Saúde terá por atribuição a execução de atividades de apoio e disponibilização dos meios materiais e humanos necessários ao desenvolvimento das atividades inerentes, acessórias ou complementares à prestação de serviços da Secretaria Municipal da Saúde e da Autarquia Hospitalar Municipal, quaisquer que sejam, e sua estrutura organizacional será adequada a essa finalidade, mediante decreto.\n§ 10. O Poder Executivo poderá utilizar cargos em comissão, vagas de empregos, patrimônio e dotações orçamentárias não alocados nas atividades hospitalares finalísticas da Autarquia Hospital Municipal, para a implantação da Autarquia Municipal de Serviços Auxiliares de Saúde.\n§ 11. Os procedimentos de organização das Autarquias previstas no \"caput\" terão início imediato a partir da publicação desta lei, cabendo ao Executivo concluí-los no prazo de 180 (cento e oitenta) dias, mediante decreto, que estabelecerá as respectivas estruturas organizacionais. ;\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Competirá ao Poder Executivo firmar contrato de gestão na forma prevista na Lei nº 14.132, de 24 de janeiro de 2006, que dispõe sobre a qualificação de entidades sem fins lucrativos como organizações sociais, alterada pelo art. 7º da Lei nº 14.482, de 16 de julho de 2007, com o objetivo de absorver as atividades desempenhadas por unidades de saúde integrantes da estrutura organizacional da Autarquia Hospitalar Municipal a que se refere o art. 1º desta lei e da Secretaria Municipal da Saúde, a fim de assegurar a execução dessas atividades no âmbito territorial de forma integrada por organização social.\n§ 1º. Observadas as disposições deste artigo, caberá ao Poder Executivo, mediante Comunicado de Interesse Público, identificar as unidades de saúde cujas atividades serão objeto da parceria, bem como dispor sobre a realocação das respectivas unidades administrativas delas integrantes na Autarquia Hospitalar Municipal e Autarquia Municipal de Serviços Auxiliares de Saúde ou na Secretaria Municipal da Saúde, e, nas mesmas bases e condições, sobre:\nI - o aproveitamento dos empregados públicos e servidores que se encontrem prestando serviços nessas unidades;\nII - a extinção ou aproveitamento de cargos em comissão e vagas de emprego.\n§ 2º. As Secretarias Municipais de Gestão e de Saúde supervisionarão o processo de inventário dos bens imóveis, acervo físico, documental e material, bem como dos contratos e convênios das unidades de saúde cujas atividades forem absorvidas na forma do \"caput\" deste artigo.\n§ 3º. No curso do processo de inventário e até a assinatura do contrato de gestão, a continuidade da prestação dos serviços das unidades de saúde ficará sob a supervisão:\nI - da Secretaria Municipal da Saúde, à qual competirá a realização do processo de inventário para as unidades integrantes de sua estrutura organizacional, e\nII - da Autarquia Hospitalar Municipal, à qual competirá a realização do processo de inventário para as unidades integrantes de sua estrutura organizacional.\n§ 4º. Os recursos e as receitas orçamentárias destinadas às unidades de saúde serão utilizados durante o processo de inventário na manutenção e financiamento das atividades e serviços prestados até a assinatura do contrato de gestão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os arts. 10, 11, 12 e 19 da Lei nº 13.271, de 4 de janeiro de 2002, que dispõe sobre a descentralização das ações e serviços de saúde no Município de São Paulo, com a criação de entidades autárquicas hospitalares de regime especial, alterada pela Lei nº 13.861, de 29 de junho de 2004, passam a vigorar com as seguintes alterações:\n\"Art. 10. O Conselho Deliberativo e Fiscalizador da Autarquia terá as seguintes atribuições:\nI - aprovar a política geral de administração da autarquia;\nII - aprovar o relatório anual de gestão encaminhado pela Superintendência;\nIII - elaborar e aprovar seu Regimento Interno, observado o disposto no § 10 do art. 9º desta lei, dentro de 30 (trinta) dias a partir de sua constituição;\nIV - aprovar anualmente, nos prazos fixados no Regulamento, a proposta orçamentária da Autarquia, submetendo-a à aprovação do Secretário Municipal da Saúde;\nV - fiscalizar a execução orçamentária e aprovar, nos prazos fixados no Regulamento, a prestação de contas da Autarquia antes de seu encaminhamento aos órgãos de controle interno e externo, submetendo-a à aprovação do Conselho Municipal de Saúde e ao Secretário Municipal da Saúde;\nVI - mediante proposta do Superintendente:\na) manifestar-se sobre incentivos funcionais, com base em critérios de especificidade e complexidade de atribuições, produtividade, qualidade das ações em equipe, local de exercício, carga horária, riscos inerentes à profissão e a outros fatores determinados em lei;\nb) manifestar-se sobre programas de desenvolvimento e formação permanente do pessoal técnico, administrativo e de direção da Autarquia;\nc) deliberar sobre a alienação de bens patrimoniais móveis;\nd) manifestar-se sobre propostas de alteração da estrutura e funcionamento da autarquia;\ne) manifestar-se sobre sanções disciplinares aplicadas aos servidores da Autarquia;\nVII - formular sugestões à Superintendência, no tocante ao aperfeiçoamento dos serviços da entidade;\nVIII - manifestar-se sobre outros assuntos que lhe forem submetidos, a pedido do Superintendente ou a pedido de um terço dos membros do Conselho Deliberativo e Fiscalizador.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Superintendente será nomeado, em comissão, pelo Prefeito, dentre profissionais Médicos, com curso de Administração Hospitalar ou Administração de Serviços de Saúde ou Administração em Saúde Pública.\n§ 1º. O indicado deverá apresentar memorial do qual constem informações curriculares, relacionando todas as empresas das quais tenha participado.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. ......................................................................\nII - elaborar e submeter o Plano Anual de Trabalho, o Plano Plurianual de Investimentos e o Plano Diretor de Recursos Humanos à aprovação do Secretário Municipal da Saúde;\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. À Seção Jurídica compete a execução do serviço jurídico das unidades que compõem a respectiva Autarquia, cabendo-lhe processar os feitos disciplinares e oficiar nos processos administrativos, na forma prevista na legislação vigente.\nArt. 4º. Durante o procedimento de organização das Autarquias previsto no § 11 do art. 1º desta lei, deverá ser publicado, trimestralmente, pela Secretaria Municipal da Saúde, relatório das etapas concluídas, informando as unidades já transferidas e a movimentação dos servidores com a indicação dos respectivos cargos e empregos públicos.\nArt. 5º. No procedimento de organização e implantação da Autarquia Hospitalar Municipal e da Autarquia Municipal de Serviços Auxiliares de Saúde, 25% (vinte e cinco por cento) dos cargos em comissão de direção e assessoramento das atuais Autarquias Hospitalares Municipais Regionais Sul, Leste e Sudeste serão, gradativamente, tornados vagos, permanecendo nessa condição até ulterior aproveitamento, na forma que dispuser lei específica.\nArt. 6º. A defesa judicial e extrajudicial da Autarquia Hospitalar Municipal e da Autarquia Municipal de Serviços Auxiliares de Saúde referidas no artigo 1º desta lei ficará a cargo da Procuradoria Geral do Município de São Paulo.\nArt. 7º. O artigo 16 da Lei nº 14.132, de 2006, passa a vigorar acrescido de § 4º, com a seguinte redação:\nArt. 16. ............................................................\n§ 4º. O afastamento de que trata este artigo dar-se-á sem prejuízo dos direitos e demais vantagens do respectivo cargo ou função, computando-se o tempo em que o servidor estiver afastado, integralmente, para todos os efeitos legais.\nArt. 8º. A Lei nº 14.132, de 2006, passa a vigorar acrescida do artigo 16-A, com a seguinte redação:\nArt. 16-A. O Poder Executivo disciplinará em decreto o aproveitamento dos servidores em exercício nas unidades de saúde cujos serviços serão executados por Organizações Sociais mediante contrato de gestão.\nArt. 9º. Ficam alteradas a denominação e a forma de provimento dos cargos em comissão a seguir discriminados, constantes do Quadro Específico de Cargos de Provimento em Comissão de que trata o Decreto nº 45.751, de 4 de março de 2005, na seguinte conformidade:\nI - 4 (quatro) cargos de Coordenador, Ref. DAS-15, de livre provimento em comissão, dentre profissionais da área da saúde, para Assessor Especial, Ref. DAS-15, de livre provimento em comissão pelo Prefeito;\nII - 1 (um) cargo de Diretor de Divisão Técnica, Ref. DAS-12, de livre provimento em comissão pelo Prefeito, dentre funcionários públicos da área da saúde, portadores de diploma de nível universitário, com curso de Saúde Pública, para Assessor Técnico, Ref. DAS-12, de livre provimento em comissão pelo Prefeito;\nIII - 1 (um) cargo de Diretor Adjunto, Ref. DAS-12, de livre provimento pelo Prefeito, dentre servidores municipais portadores de diploma de Médico, graduados em Saúde Pública, para Assessor Técnico, Ref. DAS-12, de livre provimento em comissão pelo Prefeito.\nArt. 10. Compete à Procuradoria Geral do Município - PGM representar o Instituto de Previdência Municipal de São Paulo - IPREM em Juízo, ativa e passivamente.\nParágrafo único. Em decorrência do disposto no \"caput\", fica o contencioso judicial do Instituto de Previdência Municipal de São Paulo transferido para a Procuradoria Geral do Município, à qual caberá distribuir os feitos entre os seus Departamentos Judicial e Fiscal, de acordo com a natureza das matérias neles versadas.\nArt. 11. O Procurador titular de cargo integrante dos Quadros do Instituto de Previdência Municipal de São Paulo que não tenha optado pela transferência para o Quadro da Procuradoria Geral do Município, nos termos do artigo 1º da Lei nº 13.552, de 7 de abril de 2003, será afastado por ato do Superintendente, sem prejuízo das vantagens e direitos inerentes à carreira, para a Procuradoria Geral do Município.\nArt. 12. O disposto nos arts. 10 e 11 desta lei entrará em vigor no prazo de 60 (sessenta) dias, contados da data de sua publicação.\nArt. 13. As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\nArt. 14. Ressalvado o disposto no seu art. 12, esta lei entrará em vigor na data de sua publicação, revogados o § 5º do art. 20, o parágrafo único do art. 23 e o Anexo III, todos da Lei nº 13.271, de 2002, bem como o § 3º do art. 3º da Lei nº 13.552, de 2003.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 14 de janeiro de 2008, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 14 de janeiro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.669, de 14/01/2008 was altered by acts of 3 date(s), the latest 2009-03-10."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
