@@ -1,0 +1,1945 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "34 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2014-16066": {
+   "label": "Lei nº 16.066, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Semana de Confraternização e de Valorização da Vida e da Paz das Crianças e dos Jovens na rede municipal de ensino.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16066-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16067": {
+   "label": "Lei nº 16.067, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia de Klezmer - Festival Internacional de música judaica, a ser comemorado no dia 4 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16067-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16068": {
+   "label": "Lei nº 16.068, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Mês do Ativismo pela não Violência contra a Mulher, a ser comemorado anualmente no mês de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16068-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16069": {
+   "label": "Lei nº 16.069, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Semana Municipal da Comunidade Adventista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16069-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16070": {
+   "label": "Lei nº 16.070, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Funk, a ser comemorado anualmente no dia 07 de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16070-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16071": {
+   "label": "Lei nº 16.071, de 04/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cidadão Palmeirense, a ser comemorado anualmente no dia 25 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-04",
+   "published": "2014-09-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16071-de-04-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16072": {
+   "label": "Lei nº 16.072, de 16/09/2014",
+   "title": "Denomina Praça Gabriel Gimenez o logradouro público inominado localizado na confluência da Rua Aristides Malheiros com a Rua Professor Benedito Alarico de C. Borelli - Parque São Domingos, Subprefeitura de Pirituba/Jaraguá.",
+   "kind": "law",
+   "enacted": "2014-09-16",
+   "published": "2014-09-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16072-de-16-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16073": {
+   "label": "Lei nº 16.073, de 19/09/2014",
+   "title": "Fica revogado o inciso I, do § 2°, do art. 1° da Lei n° 15.944, de 23 de dezembro de 2013, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-19",
+   "published": "2014-09-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16073-de-19-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16074": {
+   "label": "Lei nº 16.074, de 22/09/2014",
+   "title": "Denomina Rua Francisca Espósito Tonetti o logradouro inominado com início na Rua Mário Lago e término a aproximadamente 230 metros além do seu início em balão de retorno (Setor 67  Quadra 473), situado no Distrito do Tremembé, Subprefeitura do Jaçanã/Tremembé.",
+   "kind": "law",
+   "enacted": "2014-09-22",
+   "published": "2014-09-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16074-de-22-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16075": {
+   "label": "Lei nº 16.075, de 25/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Feirante, a ser comemorado anualmente no dia 25 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-25",
+   "published": "2014-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16075-de-25-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16076": {
+   "label": "Lei nº 16.076, de 25/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa de São José do Belém no Calendário de Eventos da Cidade de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-25",
+   "published": "2014-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16076-de-25-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16077": {
+   "label": "Lei nº 16.077, de 25/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Viva Rock, a ser comemorado anualmente no dia 13 de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-25",
+   "published": "2014-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16077-de-25-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16078": {
+   "label": "Lei nº 16.078, de 25/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a semana municipal de conscientização da necessidade de convivência harmônica dos habitantes de condomínios horizontais e edilícios, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-25",
+   "published": "2014-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16078-de-25-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16079": {
+   "label": "Lei nº 16.079, de 25/09/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Marcha para Jesus em Perus, a ser comemorado, anualmente, no dia 15 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-09-25",
+   "published": "2014-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16079-de-25-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16080": {
+   "label": "Lei nº 16.080, de 30/09/2014",
+   "title": "Dispõe sobre o reajustamento da Escala de Padrões de Vencimentos e fixa o valor da menor remuneração bruta mensal a ser paga aos servidores públicos municipais do Quadro da Guarda Civil Metropolitana.",
+   "kind": "law",
+   "enacted": "2014-09-30",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16080-de-30-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16081": {
+   "label": "Lei nº 16.081, de 30/09/2014",
+   "title": "Institui a Diária Especial por Atividade Complementar (DEAC), aplicável aos servidores integrantes do Quadro da Guarda Civil Metropolitana, nas condições que especifica.",
+   "kind": "law",
+   "enacted": "2014-09-30",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16081-de-30-de-setembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16082": {
+   "label": "Lei nº 16.082, de 01/10/2014",
+   "title": "Denomina Travessa Floripes Coelho de Souza o logradouro público inominado que começa na Avenida João Barreto de Menezes, altura do nº 906, e termina aproximadamente a 50 (cinquenta) metros além do início, (Setor 89  Quadra 158), situada no Distrito do Jabaquara, Subprefeitura do Jabaquara, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-10-01",
+   "published": "2014-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16082-de-1-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16083": {
+   "label": "Lei nº 16.083, de 01/10/2014",
+   "title": "Denomina Praça Maria Josephina Porta Pires parte do espaço livre identificado como 21M no croqui nº 101.482-A de Sempla/DGPI, delimitado pelas ruas Olavo Egídio de Souza Aranha e Barra de Santa Rosa (Setor 130  Quadras 178 e 307), localizado no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-10-01",
+   "published": "2014-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16083-de-1-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16084": {
+   "label": "Lei nº 16.084, de 01/10/2014",
+   "title": "Denomina Passarela Francisco Gotthilf a passarela que interliga as duas pistas da Avenida São Gabriel sobre a saída norte do túnel Takeharu Akagawa (Setor 16  Quadras 106 e 107), localizada no Distrito do Itaim Bibi e Jardim Paulista, Subprefeitura Pinheiros.",
+   "kind": "law",
+   "enacted": "2014-10-01",
+   "published": "2014-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16084-de-1-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16085": {
+   "label": "Lei nº 16.085, de 03/10/2014",
+   "title": "Institui no Município de São Paulo a Virada da Saúde, a ser realizada na semana do dia 7 de abril - Dia Mundial da Saúde.",
+   "kind": "law",
+   "enacted": "2014-10-03",
+   "published": "2014-10-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16085-de-3-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16086": {
+   "label": "Lei nº 16.086, de 06/10/2014",
+   "title": "Denomina Praça José Rodrigues Gatto o logradouro inominado situado na Rua Elisa Pedroso, esquina com a Rua Braz Baltazar da Silveira na Vila Nova Perus, Bairro de Perus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-10-06",
+   "published": "2014-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16086-de-6-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16087": {
+   "label": "Lei nº 16.087, de 06/10/2014",
+   "title": "Denomina Praça Sebastião Balani a praça inominada localizada na confluência da Rua Caroba do Campo com a Rua Júlio Vergueiro, Vila Curuçá, Itaim Paulista (Setor 139  Quadra 26), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-10-06",
+   "published": "2014-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16087-de-6-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16088": {
+   "label": "Lei nº 16.088, de 22/10/2014",
+   "title": "Institui o Teste de Avaliação Ortopédica da Coluna Vertebral – Teste do Minuto, na forma que especifica.",
+   "kind": "law",
+   "enacted": "2014-10-22",
+   "published": "2014-10-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16088-de-22-de-outubro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16089": {
+   "label": "Lei nº 16.089, de 25/11/2014",
+   "title": "Denomina Praça Francisco Domingues Azanha o espaço livre delimitado pela Avenida Edu Chaves, Rua Itamonte e a rua sem nome (Setor 66 – Quadra 76), localizado no Distrito do Jaçanã, Subprefeitura Jaçanã/Tremembé, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-11-25",
+   "published": "2014-11-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16089-de-25-de-novembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16090": {
+   "label": "Lei nº 16.090, de 25/11/2014",
+   "title": "Dispõe sobre a denominação do teatro do CEU Vila Rubi – Jornalista Alexandre Kadunc, que passa a se chamar Teatro Augusto Boal.",
+   "kind": "law",
+   "enacted": "2014-11-25",
+   "published": "2014-11-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16090-de-25-de-novembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16091": {
+   "label": "Lei nº 16.091, de 25/11/2014",
+   "title": "Denomina Ponte Fábio Lazzari a via elevada sobre o Rio Tietê, que perfaz a ligação entre a pista expressa da Marginal do Tietê (Setor 73 canteiro central) e a Rua Pietro Giannoccaro (Setor 18 – Quadra 100), situada nos Distritos do Bom Retiro e Santana, Subprefeitura da Sé e de Santana/Tucuruvi.",
+   "kind": "law",
+   "enacted": "2014-11-25",
+   "published": "2014-11-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16091-de-25-de-novembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16092": {
+   "label": "Lei nº 16.092, de 27/11/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Virada Católica no Calendário de Eventos da Cidade de São Paulo, a ser comemorado anualmente no mês de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-11-27",
+   "published": "2014-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16092-de-27-de-novembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16093": {
+   "label": "Lei nº 16.093, de 27/11/2014",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Global do Empreendedorismo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-11-27",
+   "published": "2014-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16093-de-27-de-novembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16094": {
+   "label": "Lei nº 16.094, de 05/12/2014",
+   "title": "Denomina Praça Raimundo Pereira da Silva o logradouro público inominado localizado em frente ao nº 100 da Rua Dr. Carlos de Resende Enout (Setor 173 – Quadras 271 e 272), localizado no Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-12-05",
+   "published": "2014-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16094-de-05-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16095": {
+   "label": "Lei nº 16.095, de 16/12/2014",
+   "title": "Autoriza a concessão administrativa de uso de imóvel municipal situado na Rua Tenente Miguel Délia, s/n°, Distrito de São Miguel, ao Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.",
+   "kind": "law",
+   "enacted": "2014-12-16",
+   "published": "2014-12-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16095-de-16-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16096": {
+   "label": "Lei nº 16.096, de 16/12/2014",
+   "title": "Denomina o espaço público inominado Praça Margaret Kazuko Yamanishi, situado no Distrito da Saúde, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-12-16",
+   "published": "2014-12-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16096-de-16-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16097": {
+   "label": "Lei nº 16.097, de 29/12/2014",
+   "title": "Institui o Programa de Parcelamento Incentivado de 2014 – PPI 2014; introduz alterações nas Leis nº 14.800, de 25 de junho de 2008, nº 13.701, de 24 de dezembro de 2003, nº 8.424, de 18 de agosto de 1976, e nº 13.207, de 9 de novembro de 2001.",
+   "kind": "law",
+   "enacted": "2014-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16097-de-29-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16098": {
+   "label": "Lei nº 16.098, de 29/12/2014",
+   "title": "Concede remissão dos créditos tributários do Imposto Predial e Territorial Urbano – IPTU do exercício de 2014 nos casos que especifica e estabelece procedimentos relativos a esse imposto, em face do reconhecimento da constitucionalidade da Lei nº 15.889, de 5 de novembro de 2013, e dá outras providências; confere nova redação ao art. 10 da Lei nº 11.154, de 30 de dezembro de 1991, que dispõe sobre o Imposto sobre Transmissão de Bens “Inter Vivos”, a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como a cessão de direitos à sua aquisição – ITBI-IV.",
+   "kind": "law",
+   "enacted": "2014-12-29",
+   "published": "2014-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16098-de-29-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2014-16099": {
+   "label": "Lei nº 16.099, de 30/12/2014",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2015.",
+   "kind": "law",
+   "enacted": "2014-12-30",
+   "published": "2014-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16099-de-30-de-dezembro-de-2014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2014-16066",
+   "short": "Lei 16066/2014",
+   "title": "Lei nº 16.066, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16066-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16066",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16066-de-04-de-setembro-de-2014",
+     "sha256": "d597d9c1df77ce9ee8248b25801d5a98dd5e487f9c909217ff6ad5c70661251a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.066 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 747/13)(VEREADOR CONTE LOPES - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Semana de Confraternização e de Valorização da Vida e da Paz das Crianças e dos Jovens na rede municipal de ensino.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"na semana em que recair o dia 10 de setembro: a Semana Municipal de Confraternização e de Valorização da Vida e da Paz das Crianças e dos Jovens, na rede municipal de ensino, visando à promoção de atividades objetivando a reflexão e divulgação sobre o tema.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16067",
+   "short": "Lei 16067/2014",
+   "title": "Lei nº 16.067, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16067-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16067",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16067-de-04-de-setembro-de-2014",
+     "sha256": "c606e0e79fdfb59a0a1f6a43f991be43b9d42d9a0ce73861f6d1f6d7bcd8c1dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.067 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 849/13)(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia de Klezmer - Festival Internacional de música judaica, a ser comemorado no dia 4 de novembro, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 4 de novembro:\no Dia de Klezmer, a ser comemorado anualmente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16068",
+   "short": "Lei 16068/2014",
+   "title": "Lei nº 16.068, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16068-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16068",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16068-de-04-de-setembro-de-2014",
+     "sha256": "a40ba590a301572ace3a31cae5da1fb745b2015ea5bd4cf76f530b57e4f22db6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.068 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 869/13)(VEREADORA NOEMI NONATO - PROS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Mês do Ativismo pela não Violência contra a Mulher, a ser comemorado anualmente no mês de novembro, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Mês do Ativismo pela não Violência contra a Mulher, em que poderão ser intensificadas campanhas, palestras, programas, planos, projetos, debates, ações educativas e demais iniciativas voltadas para o combate à violência contra a mulher.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16069",
+   "short": "Lei 16069/2014",
+   "title": "Lei nº 16.069, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16069-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16069",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16069-de-04-de-setembro-de-2014",
+     "sha256": "520b3e517fd2a4bd61afc564683f7db52f0869e3bdaeeaeef7d2eeb1d9d9ed7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.069 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 884/13)(VEREADOR REIS - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Semana Municipal da Comunidade Adventista, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"a Semana Municipal da Comunidade Adventista;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16070",
+   "short": "Lei 16070/2014",
+   "title": "Lei nº 16.070, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16070-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16070",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16070-de-04-de-setembro-de-2014",
+     "sha256": "cad968f14162ed82dc165c05df6cb88b1cbe1b051ae5a6c67d29c79b9a3b630e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.070 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 882/13)(VEREADOR REIS - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Funk, a ser comemorado anualmente no dia 07 de julho, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"dia 07 de julho: Dia do Funk.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16071",
+   "short": "Lei 16071/2014",
+   "title": "Lei nº 16.071, de 04/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16071-de-04-de-setembro-de-2014",
+   "first_law": "lei-2014-16071",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16071-de-04-de-setembro-de-2014",
+     "sha256": "7d37b5bc8f32d9f92e2e67860a276ff58b3ab9684fd34864c3b26be444104e0d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.071 DE 04 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 874/13)(VEREADOR NELO RODOLFO - PMDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cidadão Palmeirense, a ser comemorado anualmente no dia 25 de agosto, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o inciso CLXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, acrescentando-se uma alínea, com a seguinte redação:\n\"Dia do Cidadão Palmeirense;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16072",
+   "short": "Lei 16072/2014",
+   "title": "Lei nº 16.072, de 16/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16072-de-16-de-setembro-de-2014",
+   "first_law": "lei-2014-16072",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16072-de-16-de-setembro-de-2014",
+     "sha256": "962e69dc5c8a879436904fb45d7ce2d76d88982ecdf680fff53c892056724635",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.072, DE 16 DE SETEMBRO DE 2014\n(Projeto de Lei nº 473/12, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Gabriel Gimenez o logradouro público inominado localizado na confluência da Rua Aristides Malheiros com a Rua Professor Benedito Alarico de C. Borelli - Parque São Domingos, Subprefeitura de Pirituba/Jaraguá.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Gabriel Gimenez o logradouro público inominado localizado na confluência da Rua Aristides Malheiros (CADLOG 022047) com a Rua Professor Benedito Alarico de C. Borelli (CADLOG 031461), Setor 78, Quadra 223, no Parque São Domingos, Subprefeitura de Pirituba/Jaraguá, no município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente propositura encontra amparo legal na Lei nº 14.454, de 27 de junho de 2007, Capítulo II, que disciplina sobre a denominação das vias e logradouros públicos municipais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da implantação desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de setembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 16 de setembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16073",
+   "short": "Lei 16073/2014",
+   "title": "Lei nº 16.073, de 19/09/2014 (Fica revogado o inciso I, do § 2°, do art. 1° da Lei n° 15.944, de 23 de dezembro de 2013, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16073-de-19-de-setembro-de-2014",
+   "first_law": "lei-2014-16073",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16073-de-19-de-setembro-de-2014",
+     "sha256": "64d4304ede1a30a938ed7eeeedefa1217270d480ea9e33d75656f22a81ff89a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.073, DE 19 DE SETEMBRO DE 2014\n(Projeto de Lei nº 198/14, dos Vereadores Ricardo Nunes - PMDB, Alfredinho - PT, Andrea Matarazzo - PSDB, Ari Friedenbach - PROS, Arselino Tatto - PT, Atílio Francisco - PRB, Aurélio Nomura - PSDB, Calvo - PMDB, Claudinho de Souza - PSDB, Coronel Telhada - PSDB, Dalton Silvano - PV, David Soares - PSD, Eduardo Tuma - PSDB, Eliseu Gabriel - PSB, Floriano Pesaro - PSDB, George Hato - PMDB, Gilson Barreto - PSDB, Jean Madeira - PRB, José Police Neto - PSD, Laércio Benko - PHS, Mario Covas Neto - PSDB, Milton Leite - DEMOCRATAS, Natalini - PV, Nelo Rodolfo - PMDB, Netinho de Paula - PCdoB, Noemi Nonato - PROS, Patrícia Bezerra - PSDB, Paulo Frange - PTB, Pr. Edemilson Chaves - PP, Ricardo Young - PPS, Sandra Tadeu - DEMOCRATAS, Toninho Paiva - PR e Toninho Vespoli - PSOL)\nFica revogado o inciso I, do § 2°, do art. 1° da Lei n° 15.944, de 23 de dezembro de 2013, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° Fica revogado o inciso I, do § 2°, do art. 1° da Lei n° 15.944, de 23 de dezembro de 2013.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de setembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 19 de setembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16074",
+   "short": "Lei 16074/2014",
+   "title": "Lei nº 16.074, de 22/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16074-de-22-de-setembro-de-2014",
+   "first_law": "lei-2014-16074",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16074-de-22-de-setembro-de-2014",
+     "sha256": "de71f44e300a6d5a23532e4df8b2a9a9fa53ee13b6a6f4a0f61e93fd2a478465",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.074, DE 22 DE SETEMBRO DE 2014\n(Projeto de Lei nº 676/13, do Vereador Nelo Rodolfo  PMDB)\nDenomina Rua Francisca Espósito Tonetti o logradouro inominado com início na Rua Mário Lago e término a aproximadamente 230 metros além do seu início em balão de retorno (Setor 67  Quadra 473), situado no Distrito do Tremembé, Subprefeitura do Jaçanã/Tremembé.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Francisca Espósito Tonetti o logradouro inominado com início na Rua Mário Lago e término a aproximadamente 230 metros além do seu início em balão de retorno (Setor 67  Quadra 473), situado no Distrito do Tremembé, Subprefeitura do Jaçanã/Tremembé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de setembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 22 de setembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16075",
+   "short": "Lei 16075/2014",
+   "title": "Lei nº 16.075, de 25/09/2014 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Feirante, a ser comemorado anualmente no dia 25 de agosto, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16075-de-25-de-setembro-de-2014",
+   "first_law": "lei-2014-16075",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16075-de-25-de-setembro-de-2014",
+     "sha256": "aad6cf15d7c5e74d2987e33a487727dc1f8faf79ee243a3ce3798f55688ca6ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.075 DE 25 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 25/14)(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Feirante, a ser comemorado anualmente no dia 25 de agosto, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"25 de agosto: Dia do Feirante;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16076",
+   "short": "Lei 16076/2014",
+   "title": "Lei nº 16.076, de 25/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16076-de-25-de-setembro-de-2014",
+   "first_law": "lei-2014-16076",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16076-de-25-de-setembro-de-2014",
+     "sha256": "ff85a0cbffe4f6e9da625fdf630ad66bee8e1e1ce9fed826852f3e58a6ec6580",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.076 DE 25 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 104/14)(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa de São José do Belém no Calendário de Eventos da Cidade de São Paulo, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"19 de março - Festa de São José do Belém, a ser comemorada anualmente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16077",
+   "short": "Lei 16077/2014",
+   "title": "Lei nº 16.077, de 25/09/2014 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Viva Rock, a ser comemorado anualmente no dia 13 de julho, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16077-de-25-de-setembro-de-2014",
+   "first_law": "lei-2014-16077",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16077-de-25-de-setembro-de-2014",
+     "sha256": "d988dbaeed544a59fbef21e2e19f0fe5d364a0a6b31989bc46b47cb10992ba46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.077 DE 25 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 744/13)(VEREADOR LAÉRCIO BENKO - PHS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Viva Rock, a ser comemorado anualmente no dia 13 de julho, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a Lei nº 14.485/2007, para incluir no inciso CXXXIV do art. 7º a seguinte data:\n\"13 de julho: o Dia do Viva Rock;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16078",
+   "short": "Lei 16078/2014",
+   "title": "Lei nº 16.078, de 25/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16078-de-25-de-setembro-de-2014",
+   "first_law": "lei-2014-16078",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16078-de-25-de-setembro-de-2014",
+     "sha256": "089b06ccf26f22bf92b199511ec902cdab12d9569c49ab55d8387503b3f5402e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.078 DE 25 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 613/13)(VEREADOR CALVO - PMDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a semana municipal de conscientização da necessidade de convivência harmônica dos habitantes de condomínios horizontais e edilícios, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"4ª semana no mês de novembro: a semana municipal de conscientização da necessidade de convivência harmônica dos habitantes de condomínios horizontais e edilícios, pautada no respeito mútuo entre os condôminos e destes em relação às funções institucionais dos Síndicos e Subsíndicos;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16079",
+   "short": "Lei 16079/2014",
+   "title": "Lei nº 16.079, de 25/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16079-de-25-de-setembro-de-2014",
+   "first_law": "lei-2014-16079",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16079-de-25-de-setembro-de-2014",
+     "sha256": "029b19ead57e70e078cdab366c1b3cc8f6a24836dd96662b186e6cc14571e04f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.079 DE 25 DE SETEMBRO DE 2014\n(PROJETO DE LEI Nº 900/13)(VEREADOR EDUARDO TUMA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Marcha para Jesus em Perus, a ser comemorado, anualmente, no dia 15 de novembro, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CCLXIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º ...\nCCLXIV - ...\no Dia da Marcha para Jesus em Perus;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 26 de setembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 26 de setembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16080",
+   "short": "Lei 16080/2014",
+   "title": "Lei nº 16.080, de 30/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16080-de-30-de-setembro-de-2014",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2014-16080"
+   ],
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16080-de-30-de-setembro-de-2014",
+     "sha256": "ef2ad8ae4dd38481d1322878f4d62008a83ce368f3085efd06bc9d7cb37fa216",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.080, DE 30 DE SETEMBRO DE 2014\n(Projeto de Lei nº 286/14, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre o reajustamento da Escala de Padrões de Vencimentos e fixa o valor da menor remuneração bruta mensal a ser paga aos servidores públicos municipais do Quadro da Guarda Civil Metropolitana.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DO REAJUSTE DA ESCALA DE PADRÕES DE VENCIMENTOS DOS CARGOS DO QUADRO DA GUARDA CIVIL METROPOLITANA\nArt. 1º A Escala de Padrões de Vencimentos dos cargos do Quadro da Guarda Civil Metropolitana - QGC, instituída pela Lei nº 13.768, de 26 de janeiro de 2004, fica reajustada na seguinte conformidade:\nI - 5% (cinco por cento), a partir de 1º de maio de 2014;\nII - 10,23% (dez inteiros e vinte e três centésimos por cento), sobre a Escala de Padrões de Vencimentos devidamente reajustada nos termos do inciso I do \"caput\" deste artigo ou a que vier substituí-la, a partir de 1º de maio de 2016.\n§ 1º Ficam reajustados, nos mesmos percentuais estabelecidos neste artigo:\nI - a Escala de Valores das Funções Gratificadas do Quadro da Guarda Civil Metropolitana, instituída pelo art. 4º da Lei nº 15.365, de 25 de março de 2011;\nII - a Escala de Padrões de Vencimentos dos cargos do Quadro dos Profissionais da Guarda Civil Metropolitana - QPG, instituída pela Lei nº 11.715, de 3 de janeiro de 1995;\nIII - os salários dos servidores admitidos nos termos da Lei nº 9.160, de 3 de dezembro de 1980, para a função de Guarda Civil Metropolitano;\nIV - os respectivos proventos dos aposentados, as pensões e os legados, aos quais se aplica a garantia constitucional da paridade;\nV - as vantagens pecuniárias devidas aos servidores abrangidos por este artigo, em cujas legislações específicas haja previsão de reajustes setoriais.\n§ 2º O Executivo divulgará, mediante decreto específico, os novos valores das Escalas de Padrões de Vencimentos e das Funções Gratificadas decorrentes dos reajustes previstos neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO VALOR DA MENOR REMUNERAÇÃO BRUTA MENSAL DOS SERVIDORES DA GUARDA CIVIL METROPOLITANA\nArt. 2º A menor remuneração bruta mensal dos servidores do Quadro Técnico dos Profissionais da Guarda Civil Metropolitana - QTG, optantes ou não pelo plano de carreira instituído pela Lei nº 16.239, de 2015, não poderá ser inferior a:\nI - R$ 2.180,00 (dois mil, cento e oitenta reais), a partir de 1º de outubro de 2018;\nII - R$ 1.521,45 (mil quinhentos e vinte e um reais e quarenta e cinco centavos), a partir de 1º de janeiro de 2015;\nIII - R$ 1.656,00 (mil seiscentos e cinquenta e seis reais), a partir de 1º de maio de 2016.\nParágrafo único. Sempre que a remuneração bruta mensal do servidor for inferior ao valor ora fixado, será concedido abono suplementar correspondente à diferença entre a respectiva remuneração bruta e a importância prevista neste artigo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os efeitos do art. 2º desta lei, considera-se remuneração bruta mensal o somatório de todos os valores percebidos pelo servidor, em caráter permanente, tais como os vencimentos, o salário, as vantagens pecuniárias, fixas e variáveis, inclusive os adicionais, as gratificações, os prêmios, as vantagens pessoais de qualquer natureza e as fixadas para o cargo em caráter permanente, excluindo-se:\nI - o abono de permanência em serviço;\nII - o prêmio de desempenho em segurança urbana;\nIII - a gratificação pelo exercício de função em regiões estratégicas para a segurança urbana;\nIV - o terço de férias e seu adiantamento;\nV - o décimo terceiro salário e seu adiantamento;\nVI - a ajuda de custo;\nVII - o auxílio acidentário;\nVIII - o auxílio-doença;\nIX - o auxílio-refeição;\nX - o auxílio-transporte;\nXI - a gratificação de difícil acesso;\nXII - a gratificação por tarefas especiais;\nXIII - as horas suplementares de trabalho e outras remunerações de idêntica natureza;\nXIV - o salário-esposa;\nXV - o salário-família;\nXVI - o vale-alimentação;\nXVII - parcelas indenizatórias previstas em lei.\nXVIII - a gratificação pelo exercício de atividade de motorista de viatura operacional;\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O abono suplementar de que trata o parágrafo único do art. 2º desta lei não se incorporará ou se tornará permanente na remuneração do servidor em nenhuma hipótese, bem como sobre ele não incidirá vantagem alguma a que faça jus o servidor, vedada, assim, sua utilização, sob qualquer forma, para cálculo simultâneo que importe acréscimo de outra vantagem pecuniária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Sobre o abono suplementar não incidirá a contribuição social ao Regime Próprio de Previdência Social do Município de São Paulo - RPPS.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As disposições deste capítulo aplicam-se, nas mesmas bases e condições:\nI - aos servidores admitidos nos termos da Lei nº 9.160, de 1980, para a função de Guarda Civil Metropolitano;\nII - aos respectivos proventos dos aposentados, legados ou pensões, observada a proporcionalidade do cálculo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS DISPOSIÇÕES FINAIS\nArt. 7º Ficam absorvidos nos valores das Escalas de Padrões de Vencimentos devidamente atualizadas nos termos do art. 1º e nos valores fixados nos incisos I a III do \"caput\" do art. 2º, ambos desta lei, os eventuais reajustes concedidos aos servidores municipais nos exercícios de 2014 a 2016 em cumprimento ao disposto nos arts. 1º e 2º da Lei nº 13.303, de 18 de janeiro de 2002.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2014.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.080, de 30/09/2014 was altered by acts of 2 date(s), the latest 2018-12-20."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16081",
+   "short": "Lei 16081/2014",
+   "title": "Lei nº 16.081, de 30/09/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16081-de-30-de-setembro-de-2014",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2014-16081"
+   ],
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16081-de-30-de-setembro-de-2014",
+     "sha256": "a2c8e3fab71840d805247985fd203e259711a9517c53460e68b594ff589fc9fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.081, DE 30 DE SETEMBRO DE 2014\n(Projeto de Lei nº 310/14, do Executivo)\nInstitui a Diária Especial por Atividade Complementar (DEAC), aplicável aos servidores integrantes do Quadro da Guarda Civil Metropolitana, nas condições que especifica.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Diária Especial por Atividade Complementar (DEAC), aplicável aos servidores integrantes do Quadro da Guarda Civil Metropolitana em exercício na Secretaria Municipal de Segurança Urbana.\n§ 1º A DEAC corresponde ao exercício de 8 (oito) horas contínuas de atividade operacional ou de interesse da administração, fora da jornada normal de trabalho a que está submetido o servidor, observado o limite mensal de, no máximo, 10 (dez) diárias.\n§ 2º O exercício da atividade operacional ou de interesse da administração a que se refere o § 1º deste artigo é facultativo, independentemente da área de atuação do servidor.\n§ 3º As atividades de interesse da administração referenciadas no § 1º deste artigo serão regulamentadas por decreto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para fins de cálculo e pagamento da Diária Especial por Atividade Complementar - DEAC, o valor de cada hora de DEAC será calculado pela aplicação de coeficientes sobre a Unidade Fiscal do Estado de São Paulo - UFESP, instituída pelo art. 113 da Lei Estadual nº 6.374, de 1º de março de 1989, na seguinte conformidade:\nI - 1,2 (um inteiro e dois décimos de inteiro), aplicável aos integrantes dos níveis I e II do Quadro Técnico de Profissionais da Guarda Civil Metropolitana - QTG, instituído pela Lei nº 16.239, de 19 de julho de 2015, aos integrantes do Quadro Técnico dos Profissionais da Guarda Civil Metropolitana - NQTG, instituído pela Lei nº 17.812, de 9 de junho de 2022, bem como para os Guardas Civis Metropolitanos não optantes pelo QTG ou NQTG;\nII - 1,44 (um inteiro e quarenta e quatro centésimos de inteiro), aplicáveis aos integrantes dos níveis III e IV do Quadro Técnico de Profissionais da Guarda Civil Metropolitana - QTG, instituído pela Lei nº 16.239, de 19 de julho de 2015, e aos integrantes do Quadro Técnico dos Profissionais da Guarda Civil Metropolitana - NQTG, instituído pela Lei nº 17.812, de 9 de junho de 2022.\n§ 1º O pagamento da DEAC será efetivado até o segundo mês subsequente ao da atividade complementar realizada, observado o limite de dias trabalhados no mês.\n§ 2º O valor previsto no caput deste artigo poderá ser atualizado por decreto, anualmente, mediante disponibilidade orçamentária e até o limite da variação, no período, do Índice de Preços ao Consumidor - IPC FIPE, ou outro índice que vier a substituí-lo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A DEAC tem natureza indenizatória e não será incorporada aos vencimentos para nenhum efeito, bem como não será considerada para cálculo de quaisquer vantagens pecuniárias e sobre ela não incidirão os descontos previdenciários e os demais descontos decorrentes da natureza da verba.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º No período em que o servidor estiver exercendo a atividade operacional ou de interesse da administração, fora da sua jornada normal de trabalho, nos termos desta Lei, não fará jus à percepção do auxílio-refeição instituído pela Lei nº 12.858, de 18 de junho de 1999.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A continuidade do turno de serviço a que está sujeito o servidor em decorrência da rotina operacional não ensejará o pagamento da DEAC instituída por esta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O servidor não poderá exercer a atividade operacional complementar a que se refere esta lei nas hipóteses de afastamento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As atividades e critérios a que serão submetidos os servidores, para fins de concessão da DEAC, serão estabelecidos por portaria da Secretaria Municipal de Segurança Urbana.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A realização da DEAC fica condicionada à autorização anual do Prefeito, observada a disponibilidade orçamentária e financeira, bem como ouvida, previamente, a Secretaria Municipal do Planejamento, Orçamento e Gestão.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As despesas decorrentes da execução desta lei correrão por conta das dotações próprias consignadas no orçamento vigente.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2014.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.081, de 30/09/2014 was altered by acts of 4 date(s), the latest 2023-12-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16082",
+   "short": "Lei 16082/2014",
+   "title": "Lei nº 16.082, de 01/10/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16082-de-1-de-outubro-de-2014",
+   "first_law": "lei-2014-16082",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16082-de-1-de-outubro-de-2014",
+     "sha256": "51e2d77fd3ddad3216021c488e689de7702d1fce9caa5163dabcadd8b3360e7b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.082, DE 1º DE OUTUBRO DE 2014\n(Projeto de Lei nº 291/13, do Vereador Abou Anni  PV)\nDenomina Travessa Floripes Coelho de Souza o logradouro público inominado que começa na Avenida João Barreto de Menezes, altura do nº 906, e termina aproximadamente a 50 (cinquenta) metros além do início, (Setor 89  Quadra 158), situada no Distrito do Jabaquara, Subprefeitura do Jabaquara, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Floripes Coelho de Souza o logradouro público inominado que começa na Avenida João Barreto de Menezes, altura do nº 906, e termina aproximadamente a 50 (cinquenta) metros além do início, (Setor 89  Quadra 158), situada no Distrito do Jabaquara, Subprefeitura do Jabaquara.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16083",
+   "short": "Lei 16083/2014",
+   "title": "Lei nº 16.083, de 01/10/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16083-de-1-de-outubro-de-2014",
+   "first_law": "lei-2014-16083",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16083-de-1-de-outubro-de-2014",
+     "sha256": "37cdaec7c544d0b7a4f86f39e90165924ec87fcfcace865857d1852df985be07",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.083, DE 1º DE OUTUBRO DE 2014\n(Projeto de Lei nº 580/13, da Vereadora Noemi Nonato  PROS)\nDenomina Praça Maria Josephina Porta Pires parte do espaço livre identificado como 21M no croqui nº 101.482-A de Sempla/DGPI, delimitado pelas ruas Olavo Egídio de Souza Aranha e Barra de Santa Rosa (Setor 130  Quadras 178 e 307), localizado no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Maria Josephina Porta Pires parte do espaço livre identificado como 21M no croqui nº 101.482-A de Sempla/DGPI, delimitado pelas ruas Olavo Egídio de Souza Aranha e Barra de Santa Rosa (Setor 130  Quadras 178 e 307), localizado no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16084",
+   "short": "Lei 16084/2014",
+   "title": "Lei nº 16.084, de 01/10/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16084-de-1-de-outubro-de-2014",
+   "first_law": "lei-2014-16084",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16084-de-1-de-outubro-de-2014",
+     "sha256": "6e8ddf3aef3b2a951ba7c5956ca7ead7e566c5eca55f7388e297bb66e242b8c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.084, DE 1º DE OUTUBRO DE 2014\n(Projeto de Lei nº 720/13, Vereador Floriano Pesaro - PSDB)\nDenomina Passarela Francisco Gotthilf a passarela que interliga as duas pistas da Avenida São Gabriel sobre a saída norte do túnel Takeharu Akagawa (Setor 16  Quadras 106 e 107), localizada no Distrito do Itaim Bibi e Jardim Paulista, Subprefeitura Pinheiros.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Passarela Francisco Gotthilf a passarela que interliga as duas pistas da Avenida São Gabriel sobre a saída norte do túnel Takeharu Akagawa (Setor 16  Quadras 106 e 107), localizada no Distrito do ltaim Bibi e Jardim Paulista, Subprefeitura Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16085",
+   "short": "Lei 16085/2014",
+   "title": "Lei nº 16.085, de 03/10/2014 (Institui no Município de São Paulo a Virada da Saúde, a ser realizada na semana do dia 7 de abril - Dia Mundial da Saúde.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16085-de-3-de-outubro-de-2014",
+   "first_law": "lei-2014-16085",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16085-de-3-de-outubro-de-2014",
+     "sha256": "b0b82d5fed8f2d784582c7e89ebee1796e2320b10acbfc55c332f220b66ed096",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.085, DE 3 DE OUTUBRO DE 2014\n(Projeto de Lei nº 26/09, do Vereador Paulo Frange - PTB)\nInstitui no Município de São Paulo a Virada da Saúde, a ser realizada na semana do dia 7 de abril - Dia Mundial da Saúde.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no Município de São Paulo a Virada da Saúde, programa de educação em saúde preventiva e desenvolvimento de ações organizadas pelo Poder Público, entidades da sociedade civil e da iniciativa privada, a ser realizada na semana do dia 7 de abril - Dia Mundial da Saúde, norteado pelos seguintes princípios e diretrizes:\nI - desenvolvimento de ações programáticas nas áreas de assistência, educação e vigilância em saúde;\nII - utilização dos recursos humanos, materiais e físicos que se encontram sob a gestão da Rede de Saúde do Município;\nIII - divulgação da rede de recursos humanos, materiais e físicos que se encontram sob a gestão da Rede de Saúde do Município;\nIV - regionalização dos serviços de saúde do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Virada da Saúde será constituída das seguintes áreas e medidas de atuação:\nI - educação em saúde, com seminários, debates e campanhas de prevenção à saúde em todas as Subprefeituras da Cidade;\nII - assistência à saúde, com atendimento clínico, realização de exames laboratoriais e de diagnóstico por imagem;\nIII - programação de mutirões específicos para diagnóstico e tratamento de patologias com grande demanda e de baixa permanência hospitalar;\nIV - vigilância em saúde com ênfase ao levantamento de dados epidemiológicos e campanha preventiva diferenciada;\nV - estabelecimento de parcerias com objetivo de integrar os serviços prestados pelas redes municipal e estadual de saúde com a rede privada de serviços, filantrópica ou não;\nVI - promoção de parcerias com entidades da sociedade civil que se dedicam à área da saúde ou que se interessarem pela promoção de atividades de saúde em parceria com o Município de São Paulo na Virada da Saúde;\nVII - envolvimento de organizações sociais e parceiros do Município na Virada da Saúde, buscando contemplar o maior número de atendimento à população;\nVIII  (VETADO)\nIX  (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Secretaria Municipal de Saúde outorgará aos parceiros na Virada da Saúde um certificado de participação, permitindo-lhes a utilização na sua divulgação institucional.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 3 de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16086",
+   "short": "Lei 16086/2014",
+   "title": "Lei nº 16.086, de 06/10/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16086-de-6-de-outubro-de-2014",
+   "first_law": "lei-2014-16086",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16086-de-6-de-outubro-de-2014",
+     "sha256": "4e156f37243849dc09eed97e9441a64bfa9d0d87d61c52b61f7dd5ad055451aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.086, DE 6 DE OUTUBRO DE 2014\nProjeto de Lei nº 473/13, do Vereador José Américo  PT)\nDenomina Praça José Rodrigues Gatto o logradouro inominado situado na Rua Elisa Pedroso, esquina com a Rua Braz Baltazar da Silveira na Vila Nova Perus, Bairro de Perus, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Rodrigues Gatto o logradouro inominado situado na Rua Elisa Pedroso, esquina com a Rua Braz Baltazar da Silveira (Setor 187  Quadra 217), localizado no Distrito de Perus, Subprefeitura de Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da implantação desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16087",
+   "short": "Lei 16087/2014",
+   "title": "Lei nº 16.087, de 06/10/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16087-de-6-de-outubro-de-2014",
+   "first_law": "lei-2014-16087",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16087-de-6-de-outubro-de-2014",
+     "sha256": "54aba20530d5f0f436bb6df83436b1881bd577fbc4cec9cbf0df40e252b9fb50",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.087, DE 6 DE OUTUBRO DE 2014\n(Projeto de Lei nº 549/13, do Vereador Abou Anni  PV)\nDenomina Praça Sebastião Balani a praça inominada localizada na confluência da Rua Caroba do Campo com a Rua Júlio Vergueiro, Vila Curuçá, Itaim Paulista (Setor 139  Quadra 26), e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Sebastião Balani a praça inominada localizada na confluência da Rua Caroba do Campo com a Rua Júlio Vergueiro, Vila Curuçá, Itaim Paulista (Setor 139  Quadra 26).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16088",
+   "short": "Lei 16088/2014",
+   "title": "Lei nº 16.088, de 22/10/2014 (Institui o Teste de Avaliação Ortopédica da Coluna Vertebral – Teste do Minuto, na forma que especifica.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16088-de-22-de-outubro-de-2014",
+   "first_law": "lei-2014-16088",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16088-de-22-de-outubro-de-2014",
+     "sha256": "f24613fe71bdedd419828a801e8d98792691606e1c7052332c77a65e60754dbd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.088, DE 22 DE OUTUBRO DE 2014\n(Projeto de Lei nº 392/09, da Vereadora Noemi Nonato - PROS)\nInstitui o Teste de Avaliação Ortopédica da Coluna Vertebral - Teste do Minuto, na forma que especifica.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de setembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Teste de Avaliação Ortopédica da Coluna Vertebral - Teste do Minuto, a ser realizado no decorrer do ano letivo, em alunos do ensino fundamental, pela ação conjunta dos profissionais da saúde e da educação, tendo por objetivo detectar possíveis problemas de coluna e eventual encaminhamento do aluno aos serviços fornecidos pela Rede Municipal de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de outubro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 22 de outubro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16089",
+   "short": "Lei 16089/2014",
+   "title": "Lei nº 16.089, de 25/11/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16089-de-25-de-novembro-de-2014",
+   "first_law": "lei-2014-16089",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16089-de-25-de-novembro-de-2014",
+     "sha256": "af2739b40dc0502bbb7c0eed31bbc89f93cffaac12ee2fcabfd3669cb4fc4e51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.089, DE 25 DE NOVEMBRO DE 2014\n(Projeto de Lei nº 563/13, do Vereador Wadih Mutran - PP)\nDenomina Praça Francisco Domingues Azanha o espaço livre delimitado pela Avenida Edu Chaves, Rua Itamonte e a rua sem nome (Setor 66 - Quadra 76), localizado no Distrito do Jaçanã, Subprefeitura Jaçanã/Tremembé, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Francisco Domingues Azanha o espaço livre delimitado pela Avenida Edu Chaves, Rua Itamonte e a rua sem nome (Setor 66 - Quadra 76), localizado no Distrito do Jaçanã, Subprefeitura Jaçanã/Tremembé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de novembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 25 de novembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16090",
+   "short": "Lei 16090/2014",
+   "title": "Lei nº 16.090, de 25/11/2014 (Dispõe sobre a denominação do teatro do CEU Vila Rubi – Jornalista Alexandre Kadunc, que passa a se chamar Teatro Augusto Boal.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16090-de-25-de-novembro-de-2014",
+   "first_law": "lei-2014-16090",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16090-de-25-de-novembro-de-2014",
+     "sha256": "1c181fa9c4146e4db6ae88fa3a1e633647545da5fd8288a10a9db7f0b1eea53d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.090, DE 25 DE NOVEMBRO DE 2014\n(Projeto de Lei nº 758/13, do Vereador Goulart - PSD)\nDispõe sobre a denominação do teatro do CEU Vila Rubi - Jornalista Alexandre Kadunc, que passa a se chamar Teatro Augusto Boal.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Teatro Augusto Boal o teatro do Centro Educacional Unificado - CEU Vila Rubi - Alexandre Kadunc.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de novembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 25 de novembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16091",
+   "short": "Lei 16091/2014",
+   "title": "Lei nº 16.091, de 25/11/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16091-de-25-de-novembro-de-2014",
+   "first_law": "lei-2014-16091",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16091-de-25-de-novembro-de-2014",
+     "sha256": "fb4e2a1449c6ec19c060fcabcc92acac9b286ced1808cb8f9c2cd398cd227bd8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.091, DE 25 DE NOVEMBRO DE 2014\n(Projeto de Lei nº 851/13, do Vereador Toninho Paiva - PR)\nDenomina Ponte Fábio Lazzari a via elevada sobre o Rio Tietê, que perfaz a ligação entre a pista expressa da Marginal do Tietê (Setor 73 canteiro central) e a Rua Pietro Giannoccaro (Setor 18 - Quadra 100), situada nos Distritos do Bom Retiro e Santana, Subprefeitura da Sé e de Santana/Tucuruvi.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Ponte Fábio Lazzari a via elevada sobre o Rio Tietê, que perfaz a ligação entre a pista expressa da Marginal do Tietê (Setor 73 canteiro central) e a Rua Pietro Giannoccaro (Setor 18 - Quadra 100), situada nos Distritos do Bom Retiro e Santana, Subprefeitura da Sé e de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de novembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 25 de novembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16092",
+   "short": "Lei 16092/2014",
+   "title": "Lei nº 16.092, de 27/11/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16092-de-27-de-novembro-de-2014",
+   "first_law": "lei-2014-16092",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16092-de-27-de-novembro-de-2014",
+     "sha256": "0f9fecc679a5a02af3730bc6b487b46dc30373a49f1f5b2249f0b465ebdb36fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.092 DE 27 DE NOVEMBRO DE 2014\n(PROJETO DE LEI Nº 910/13)(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Virada Católica no Calendário de Eventos da Cidade de São Paulo, a ser comemorado anualmente no mês de setembro, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"último sábado do mês de setembro: Virada Católica, a ser comemorada anualmente, com início às 12 horas e término às 12 horas seguintes do domingo;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 1º de dezembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 1º de dezembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16093",
+   "short": "Lei 16093/2014",
+   "title": "Lei nº 16.093, de 27/11/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16093-de-27-de-novembro-de-2014",
+   "first_law": "lei-2014-16093",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16093-de-27-de-novembro-de-2014",
+     "sha256": "7a433dfa4c99a9ff6a19d5fc3064a119d539e274917f4cea9c21850c77a29556",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.093 DE 27 DE NOVEMBRO DE 2014\n(PROJETO DE LEI Nº 276/14)(VEREADOR RICARDO YOUNG - PPS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Global do Empreendedorismo, e dá outras providências.\nJosé Américo, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Terceira semana do mês de novembro: Semana Global do Empreendedorismo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 1º de dezembro de 2014.\nJOSÉ AMÉRICO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 1º de dezembro de 2014.\nKAREN LIMA VIEIRA, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16094",
+   "short": "Lei 16094/2014",
+   "title": "Lei nº 16.094, de 05/12/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16094-de-05-de-dezembro-de-2014",
+   "first_law": "lei-2014-16094",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16094-de-05-de-dezembro-de-2014",
+     "sha256": "f639b94d28b37bb04c70781d8af8fbd037496d678380307689f6bf64298727c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.094, DE 5 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 866/13, do Vereador Alfredinho - PT)\nDenomina Praça Raimundo Pereira da Silva o logradouro público inominado localizado em frente ao nº 100 da Rua Dr. Carlos de Resende Enout (Setor 173 - Quadras 271 e 272), localizado no Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.\nNADIA CAMPEÃO, Vice-Prefeita, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Raimundo Pereira da Silva o logradouro público inominado localizado em frente ao nº 100 da Rua Dr. Carlos de Resende Enout (Setor 173 - Quadras 271 e 272), localizado no Distrito de Pedreira, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2014, 461º da fundação de São Paulo.\nNADIA CAMPEÃO, Prefeita em Exercício\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2014\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16095",
+   "short": "Lei 16095/2014",
+   "title": "Lei nº 16.095, de 16/12/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16095-de-16-de-dezembro-de-2014",
+   "first_law": "lei-2014-16095",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16095-de-16-de-dezembro-de-2014",
+     "sha256": "5bb79187275b8603be723f5757e6670741432192a7174f2cd43f3d5d790877ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.095, DE 16 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 201/14, do Executivo)\nAutoriza a concessão administrativa de uso de imóvel municipal situado na Rua Tenente Miguel Délia, s/n°, Distrito de São Miguel, ao Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de dezembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a ceder ao Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, mediante concessão administrativa, independentemente de concorrência, pelo prazo de 99 (noventa e nove) anos, o uso do imóvel municipal situado na Rua Tenente Miguel Délia, s/n°, Distrito de São Miguel, para a implantação de unidade educacional profissionalizante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel referido no art. 1° desta lei, consistente em terreno e edificação, configurado na planta anexa DGPI-00.321_00, do arquivo do Departamento de Gestão do Patrimônio Imobiliário, rubricada pelo Prefeito e pelo Presidente da Câmara como parte integrante desta lei, delimitado pelo perímetro 1-2-3-4-1, de formato irregular, com 2.861,00m² (dois mil oitocentos e sessenta e um metros quadrados), assim se descreve, para quem de dentro da área olha para a Rua Tenente Miguel Délia, pela frente: linha reta 1-2, medindo 62,20m, confrontando com a Rua Tenente Miguel Délia; pelo lado direito: linha reta 2-3, medindo 45,00m, confrontando com lotes da quadra 444 do setor 112; pelo lado esquerdo: linha reta 4-1, medindo 47,00m, confrontando com lotes da quadra 444 do setor 112; pelos fundos: linha reta 3-4, medindo 62,20m, confrontando com área ocupada, não titulada.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das condições que forem exigidas por ocasião da assinatura do instrumento de concessão, no sentido de salvaguardar os interesses municipais, fica o concessionário obrigado a:\nI - não executar edificações e benfeitorias sem a prévia e expressa aprovação dos órgãos municipais competentes;\nII - instalar, na unidade educacional profissionalizante, os cursos técnicos;\nIII - regularizar a construção edificada no imóvel objeto da concessão.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A ocorrência de qualquer das seguintes hipóteses implicará a resolução de pleno direito da concessão de uso:\nI - extinção ou dissolução do concessionário;\nII - alteração do destino do imóvel;\nIII - inobservância das condições estatuídas nesta lei ou nas cláusulas que constarem do instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica assegurado à Prefeitura o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estatuídas nesta lei e no instrumento de concessão, o qual deverá prever os correspondentes encargos, os prazos de sua observância e a cláusula de rescisão, para o caso de inadimplemento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Findo o prazo estabelecido no art. 1° desta lei, bem como na ocorrência de qualquer hipótese prevista em seu art. 4°, o imóvel será restituído ao Município, incorporando-se ao seu patrimônio todas as benfeitorias nele construídas, ainda que necessárias, independentemente de indenização, seja a que título for.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de dezembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 16 de dezembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16096",
+   "short": "Lei 16096/2014",
+   "title": "Lei nº 16.096, de 16/12/2014 (Denomina o espaço público inominado Praça Margaret Kazuko Yamanishi, situado no Distrito da Saúde, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16096-de-16-de-dezembro-de-2014",
+   "first_law": "lei-2014-16096",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16096-de-16-de-dezembro-de-2014",
+     "sha256": "33933c24e7575e5684121e857359785e2ad220582c1ce7072dded1346953a95a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.096, DE 16 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 88/14, do Vereador Aurélio Nomura - PSDB)\nDenomina o espaço público inominado Praça Margaret Kazuko Yamanishi, situado no Distrito da Saúde, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de dezembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Margaret Kazuko Yamanishi o espaço público sem denominação situado entre a confluência da Rua Luís Góis, Avenida Senador Casemiro da Rocha e o final da Rua Domingos de Morais com o trecho inicial da Avenida Jabaquara, área da quadra 43, do setor 45, no Distrito da Saúde, Subprefeitura da Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de dezembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 16 de dezembro de 2014.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16097",
+   "short": "Lei 16097/2014",
+   "title": "Lei nº 16.097, de 29/12/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16097-de-29-de-dezembro-de-2014",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2014-16097"
+   ],
+   "versions": [
+    {
+     "from": "2017-11-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16097-de-29-de-dezembro-de-2014",
+     "sha256": "8d467675ec3440de8709f78458395e1f5af221d12cdb017fa837cfd3b245d11d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.097, DE 29 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 384/14, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nInstitui o Programa de Parcelamento Incentivado de 2014 - PPI 2014; introduz alterações nas Leis nº 14.800, de 25 de junho de 2008, nº 13.701, de 24 de dezembro de 2003, nº 8.424, de 18 de agosto de 1976, e nº 13.207, de 9 de novembro de 2001.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## PROGRAMA DE PARCELAMENTO INCENTIVADO DE 2014 - PPI 2014\nArt. 1º Fica instituído o Programa de Parcelamento Incentivado de 2014 - PPI 2014, destinado a promover a regularização dos débitos referidos nesta lei, decorrentes de créditos tributários e não tributários, constituídos ou não, inclusive os inscritos em Dívida Ativa, ajuizados ou a ajuizar, em razão de fatos geradores ocorridos até 31 de dezembro de 2013.\n§ 1º Os créditos tributários referentes a multas por descumprimento de obrigação acessória somente poderão ser incluídos no PPI 2014 caso tenham sido lançados até 31 de dezembro de 2013.\n§ 2º Não poderão ser incluídos no PPI 2014 os débitos referentes:\nI - a infrações à legislação de trânsito;\nII - a obrigações de natureza contratual;\nIII - a indenizações devidas ao Município de São Paulo por dano causado ao seu patrimônio.\n§ 3º Poderão ser incluídos no PPI 2014 eventuais saldos de parcelamentos em andamento, excetuados os originários de parcelamentos celebrados na conformidade da Lei nº 13.092, de 7 de dezembro de 2000, e da Lei nº 14.129, de 11 de janeiro de 2006, e atualizações posteriores.\n§ 4º O PPI 2014 será administrado pela Secretaria Municipal de Finanças e Desenvolvimento Econômico, ouvida a Procuradoria Geral do Município, sempre que necessário, e observado o disposto em regulamento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O ingresso no PPI 2014 dar-se-á por opção do sujeito passivo, mediante requerimento, conforme dispuser o regulamento.\n§ 1º Os créditos tributários e não tributários incluídos no PPI 2014 serão consolidados tendo por base a data da formalização do pedido de ingresso.\n§ 2º Poderão ser incluídos os créditos tributários e não tributários constituídos até a data da formalização do pedido de ingresso, inclusive os excluídos de parcelamentos anteriores, observado o disposto no \"caput\" do art. 1º desta lei.\n§ 3º Os créditos tributários e não tributários ainda não constituídos, incluídos por opção do sujeito passivo, serão declarados na data da formalização do pedido de ingresso, ressalvada a hipótese prevista no § 1º do art. 1º desta lei.\n§ 4º O ingresso impõe ao sujeito passivo, pessoa jurídica, a autorização de débito automático das parcelas em conta corrente mantida em instituição bancária cadastrada pelo Município, excetuada a modalidade prevista no § 9º deste artigo.\n§ 5º Excepcionalmente, no caso de sujeitos passivos que não mantenham, justificadamente, conta corrente em instituição bancária cadastrada pelo Município, a Secretaria Municipal de Finanças e Desenvolvimento Econômico poderá afastar a exigência do § 4º deste artigo.\n§ 6º Quando o sujeito passivo interessado em aderir ao PPI 2014 for pessoa física, poderá ser exigida autorização de débito automático do valor correspondente às parcelas subsequentes à primeira em conta corrente mantida em instituição financeira previamente cadastrada pelo Município.\n§ 7º A formalização do pedido de ingresso no PPI 2014 poderá ser efetuada até o último dia útil do terceiro mês subsequente à publicação do regulamento desta lei.\n§ 8º O Poder Executivo poderá reabrir, até o final do exercício de 2015, mediante decreto, o prazo para formalização do pedido de ingresso no referido Programa.\n§ 9º A Administração Tributária poderá enviar ao sujeito passivo, conforme dispuser o regulamento, correspondência que contenha os débitos tributários consolidados, tendo por base a data da publicação do regulamento, com as opções de parcelamento previstas no art. 5º desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A formalização do pedido de ingresso no PPI 2014 implica o reconhecimento dos débitos nele incluídos, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, nos autos judiciais respectivos, e da desistência de eventuais impugnações, defesas e recursos interpostos no âmbito administrativo, além da comprovação de recolhimento de ônus da sucumbência porventura devidos, conforme dispuser o regulamento.\n§ 1º Verificando-se a hipótese de desistência dos embargos à execução fiscal, o devedor concordará com a suspensão do processo de execução, pelo prazo do parcelamento a que se obrigou, obedecendo-se ao estabelecido no art. 792 do Código de Processo Civil.\n§ 2º No caso do § 1º deste artigo, liquidado o parcelamento nos termos desta lei, o Município informará o fato ao juízo da execução fiscal e requererá a sua extinção com fundamento no art. 794, inciso I, do Código de Processo Civil.\n§ 3º Os depósitos judiciais efetivados em garantia do juízo somente poderão ser levantados para pagamento do débito, calculado na conformidade dos arts. 4º e 5º desta lei, permanecendo no Programa o saldo do débito que eventualmente remanescer, nos termos do regulamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Sobre os débitos a serem incluídos no PPI 2014 incidirão atualização monetária e juros de mora até a data da formalização do pedido de ingresso, nos termos da legislação aplicável.\n§ 1º Para os débitos inscritos em Dívida Ativa, incidirão também custas, despesas processuais e honorários advocatícios devidos em razão do procedimento de cobrança da Dívida Ativa, nos termos da legislação aplicável.\n§ 2º Para fins de consolidação, o débito será considerado integralmente vencido na data da primeira prestação ou da parcela única não paga.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Sobre os débitos consolidados na forma do art. 4º desta lei serão concedidos descontos diferenciados, na seguinte conformidade:\nI - relativamente ao débito tributário:\na) redução de 85% (oitenta e cinco por cento) do valor dos juros de mora e de 75% (setenta e cinco por cento) da multa, na hipótese de pagamento em parcela única;\nb) redução de 60% (sessenta por cento) do valor dos juros de mora e de 50% (cinquenta por cento) da multa, na hipótese de pagamento parcelado;\nII - relativamente ao débito não tributário:\na) redução de 85% (oitenta e cinco por cento) do valor dos encargos moratórios incidentes sobre o débito principal, na hipótese de pagamento em parcela única;\nb) redução de 60% (sessenta por cento) do valor atualizado dos encargos moratórios incidentes sobre o débito principal, na hipótese de pagamento parcelado.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O montante que resultar dos descontos concedidos na forma do art. 5º desta lei ficará automaticamente quitado, com a consequente anistia da dívida por ele representada, para todos os fins e efeitos de direito, em proveito do devedor, no caso de quitação do débito consolidado incluído no PPI 2014.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O sujeito passivo poderá proceder ao pagamento do débito consolidado incluído no PPI 2014, com os descontos concedidos na conformidade do art. 5º desta lei:\nI - em parcela única; ou\nII - em até 120 (cento e vinte) parcelas mensais, iguais e sucessivas, hipótese em que o valor de cada parcela, por ocasião do pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC, acumulada mensalmente, calculados a partir do mês subsequente ao da formalização até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado.\n§ 1º Nenhuma parcela poderá ser inferior a:\nI - R$ 40,00 (quarenta reais) para as pessoas físicas;\nII - R$ 200,00 (duzentos reais) para as pessoas jurídicas.\n§ 2º Em caso de pagamento parcelado, o valor das custas devidas ao Estado deverá ser recolhido integralmente, juntamente com a primeira parcela.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O vencimento da primeira parcela ou da parcela única dar-se-á no último dia útil da quinzena subsequente à da formalização do pedido de ingresso no PPI 2014 e as demais no último dia útil dos meses subsequentes.\nParágrafo único. O pagamento da parcela fora do prazo legal implicará cobrança da multa moratória de 0,33% (trinta e três centésimos por cento), por dia de atraso, sobre o valor da parcela devida e não paga, até o limite de 20% (vinte por cento), acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O ingresso no PPI 2014 impõe ao sujeito passivo a aceitação plena e irretratável de todas as condições estabelecidas nesta lei e constitui confissão irrevogável e irretratável da dívida relativa aos débitos nele incluídos, com reconhecimento expresso da certeza e liquidez do crédito correspondente, produzindo os efeitos previstos no art. 174, parágrafo único, do Código Tributário Nacional e no art. 202, inciso VI, do Código Civil.\n§ 1º A homologação do ingresso no PPI 2014 dar-se-á no momento do pagamento da parcela única ou da primeira parcela.\n§ 2º O não pagamento da parcela única ou da primeira parcela em até 60 (sessenta) dias do seu vencimento implica o cancelamento do parcelamento, sem prejuízo dos efeitos da formalização previstos no art. 3º desta lei.\n§ 3º O ingresso e a permanência no PPI 2014 impõem ao sujeito passivo, ainda, o pagamento regular das obrigações municipais, tributárias e não tributárias, com vencimento posterior à data de homologação de que trata o § 1º deste artigo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O sujeito passivo será excluído do PPI 2014, sem notificação prévia, diante da ocorrência de uma das seguintes hipóteses:\nI - inobservância de qualquer das exigências estabelecidas nesta lei, em especial do disposto no § 3º de seu art. 9º;\nII - estar em atraso há mais de 90 (noventa) dias com o pagamento de qualquer parcela, inclusive a referente a eventual saldo residual do parcelamento;\nIII - não comprovação, perante a Administração Tributária, da desistência de que trata o art. 3º desta lei, no prazo de 60 (sessenta) dias, contado da data de homologação do ingresso no Programa;\nIV - decretação de falência ou extinção pela liquidação da pessoa jurídica;\nV - cisão da pessoa jurídica, exceto se a sociedade nova oriunda da cisão ou aquela que incorporar a parte do patrimônio assumir solidariamente com a cindida as obrigações do PPI 2014.\n§ 1º A exclusão do sujeito passivo do PPI 2014 implica a perda de todos os benefícios desta lei, acarretando a exigibilidade dos débitos originais, com os acréscimos previstos na legislação municipal, descontados os valores pagos, e a imediata inscrição dos valores remanescentes na Dívida Ativa, ajuizamento ou prosseguimento da execução fiscal, efetivação do protesto extrajudicial do título executivo e adoção de todas as demais medidas legais de cobrança do crédito colocadas à disposição do Município credor.\n§ 2º O PPI 2014 não configura a novação prevista no art. 360, inciso I, do Código Civil.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Não serão restituídas, no todo ou em parte, com fundamento nas disposições desta lei, quaisquer importâncias recolhidas anteriormente ao início de sua vigência.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## OUTRAS DISPOSIÇÕES\nArt. 12. Fica o Poder Executivo autorizado a instituir autoridade certificadora digital, para fins de emissão de documentos fiscais exigidos pela legislação tributária municipal, conforme dispuser o regulamento.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O \"caput\" do art. 1º da Lei nº 14.800, de 25 de junho de 2008, passa a vigorar com a seguinte redação:\n\"Art. 1º Fica a Procuradoria Geral do Município autorizada a não ajuizar ações ou execuções fiscais de débitos tributários e não tributários de valores consolidados iguais ou inferiores a R$ 1.500,00 (mil e quinhentos reais).\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Ficam isentas do pagamento do Imposto sobre Serviços de Qualquer Natureza - ISS, a partir de 1º de janeiro de 2015, as cooperativas cujos cooperados se dediquem às atividades culturais, quando prestarem os serviços descritos nos subitens 12.01, 12.02, 12.03, 12.07, 12.12 e 12.15 da lista do \"caput\" do art. 1º da Lei nº 13.701, de 24 de dezembro de 2003, com as alterações posteriores.\n§ 1º Quando as cooperativas a que se refere o \"caput\" deste artigo prestarem os serviços previstos nos subitens 8.02 e 12.13 da lista do \"caput\" do art. 1º da Lei nº 13.701, de 2003, farão jus à isenção de 60% (sessenta por cento) do ISS devido, observada, em cada período de competência, a alíquota efetiva mínima de 2% (dois por cento).\n§ 2º A isenção de que trata o \"caput\" deste artigo não exime as cooperativas do cumprimento das demais obrigações acessórias previstas na legislação municipal.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. O § 1º do art. 12 da Lei nº 8.424, de 18 de agosto de 1976, com a alteração da Lei nº 10.839, de 20 de fevereiro de 1990, passa a vigorar com a seguinte redação:\n\"Art. 12. ............................................................\n§ 1º Excepcionalmente, a Prefeitura poderá conceder isenção integral do pagamento da tarifa aos estudantes do Ensino Fundamental, Médio e Superior, bem como de cursos preparatórios ao vestibular de ingresso no Ensino Superior.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. (artigo declarado inconstitucional pela ADI nº 2056179-95.2015.8.26.0000\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O art. 14-A da Lei nº 13.701, de 24 de dezembro de 2003, com alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 14-A. Quando forem prestados os serviços descritos no subitem 21.01 da lista do \"caput\" do art. 1º, o imposto será calculado sobre o preço do serviço deduzido das parcelas correspondentes:\nI - à receita do Estado, em decorrência do processamento da arrecadação e respectiva fiscalização;\nII - à contribuição à Carteira de Previdência das Serventias não Oficializadas da Justiça do Estado;\nIII - ao valor da compensação dos atos gratuitos do Registro Civil das Pessoas Naturais e à complementação da receita mínima das serventias deficitárias;\nIV - ao valor destinado ao Fundo Especial de Despesa do Tribunal de Justiça, em decorrência da fiscalização dos serviços;\nV - ao valor da Contribuição de Solidariedade para as Santas Casas de Misericórdia do Estado de São Paulo.\" (NR)\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Em relação aos fatos geradores ocorridos até 31 de março de 2009, com respeito aos serviços previstos no subitem 21.01 da lista do \"caput\" do art. 1º da Lei nº 13.701, de 24 de dezembro de 2003, aplica-se, em todos os casos, o regime disposto no inciso I, do \"caput\" do art. 15, da Lei nº 13.701, de 2003, até então em vigor.\nParágrafo único. Ficam excluídos os créditos tributários constituídos em desacordo com a interpretação dada no \"caput\".\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. O imposto sobre os serviços previstos no subitem 21.01 da lista do \"caput\" do art. 1º da Lei nº 13.701, de 24 de dezembro de 2003, somente incide sobre os atos que tenham sido efetivamente remunerados pelos usuários dos serviços, não incidindo sobre atos praticados gratuitamente por força de lei, em favor da cidadania.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Esta lei entrará em vigor na data de sua publicação, produzindo efeitos, quanto ao disposto nos arts. 1º a 11, a partir de sua regulamentação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2014.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.097, de 29/12/2014 was altered by acts of 1 date(s), the latest 2017-11-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16098",
+   "short": "Lei 16098/2014",
+   "title": "Lei nº 16.098, de 29/12/2014",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16098-de-29-de-dezembro-de-2014",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2014-16098"
+   ],
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16098-de-29-de-dezembro-de-2014",
+     "sha256": "2c3f0281ea2ba076b16a69fbe2aefc7203d76f68567c2557df92dfc088e79000",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.098, DE 29 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 538/14, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConcede remissão dos créditos tributários do Imposto Predial e Territorial Urbano - IPTU do exercício de 2014 nos casos que especifica e estabelece procedimentos relativos a esse imposto, em face do reconhecimento da constitucionalidade da Lei nº 15.889, de 5 de novembro de 2013, e dá outras providências; confere nova redação ao art. 10 da Lei nº 11.154, de 30 de dezembro de 1991, que dispõe sobre o Imposto sobre Transmissão de Bens \"Inter Vivos\", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como a cessão de direitos à sua aquisição - ITBI-IV.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam remitidos os créditos tributários do Imposto Predial e Territorial Urbano - IPTU do exercício de 2014, relativos à diferença entre o valor devido pela aplicação da Lei nº 15.889, de 5 de novembro de 2013, e o calculado em conformidade com o Decreto nº 54.731, de 27 de dezembro de 2013.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Quando o valor devido pela aplicação da Lei nº 15.889, de 2013, for inferior ao recolhido pelo contribuinte para o lançamento realizado em conformidade com o Decreto nº 54.731, de 2013, a diferença favorável ao sujeito passivo será atualizada e utilizada para compensação dos valores referentes ao IPTU devido, nos exercícios de 2015 e 2016, conforme dispuser o regulamento.\nParágrafo único. O regulamento disciplinará, também, a restituição dos valores que não puderem ser compensados na forma do \"caput\" deste artigo, que deverá ocorrer até o final do exercício de 2016, desde que devidamente requerida até 30 de junho de 2016.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para fatos geradores ocorridos no exercício de 2015, a diferença nominal a que se refere o art. 9º da Lei nº 15.889, de 2013, será apurada sobre o valor calculado para o exercício de 2014 em conformidade com o Decreto nº 54.731, de 2013.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O limite de valor venal estipulado no art. 1º da Lei nº 11.614, de 13 de julho de 1994, com a redação da Lei nº 15.889, de 2013, será aplicado somente a partir do exercício de 2015.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Caberá à Secretaria Municipal de Finanças e Desenvolvimento Econômico a adoção das providências para o cumprimento do disposto nesta lei, podendo efetuar as notificações, se necessárias, preferencialmente por edital, dispensando-se a obrigatoriedade de aplicação do § 2º do art. 10 da Lei nº 14.107, de 12 de dezembro de 2005.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O art. 10 da Lei nº 11.154, de 30 de dezembro de 1991, com as alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 10. ............................................................\nI - ............................................................................\nb) pela aplicação da alíquota de 3% (três por cento) sobre o valor restante;\nII - nas demais transmissões, pela alíquota de 3% (três por cento).\n..........................................................................\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2014\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.098, de 29/12/2014 was altered by acts of 1 date(s), the latest 2015-05-05."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-16099",
+   "short": "Lei 16099/2014",
+   "title": "Lei nº 16.099, de 30/12/2014 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2015.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16099-de-30-de-dezembro-de-2014",
+   "first_law": "lei-2014-16099",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16099-de-30-de-dezembro-de-2014",
+     "sha256": "6cdfa882504f9403b0385a9a234c10b5b9f3387aeb180a8e63aa58367ed9e78c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.099, DE 30 DE DEZEMBRO DE 2014\n(Projeto de Lei nº 467/14, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2015.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 2014, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2015, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta;\nII - o Orçamento de Investimentos das Empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2015.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º O Orçamento Fiscal dos Poderes do Município, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta, para o exercício de 2015, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 51.393.748.121,00 (cinquenta e um bilhões, trezentos e noventa e três milhões, setecentos e quarenta e oito mil e cento e vinte um reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A receita total do Orçamento Fiscal, a ser realizada de acordo com a legislação em vigor, está orçada segundo as seguintes estimativas:\nVer Tabela I (Anexo)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nVer Tabela II (Anexo)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º A despesa total das empresas, nela incluída a de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2015, está fixada em R$ 5.613.815.848,00 (cinco bilhões, seiscentos e treze milhões, oitocentos e quinze mil, oitocentos e quarenta e oito reais), com a seguinte distribuição:\nVer Tabela III (Anexo)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º Fica o Executivo autorizado a contratar operações de crédito no País e no Exterior, expressamente previstas em lei aprovada pelo Legislativo Municipal, observado o disposto na Constituição Federal, nas resoluções do Senado Federal que disciplinam o endividamento dos Municípios, na Lei Orgânica do Município de São Paulo e nas leis autorizativas das operações de crédito.\n§ 1º As taxas de juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas aplicáveis à matéria.\n§ 2º Os orçamentos do Município consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas a amortização, juros e demais encargos decorrentes das operações de crédito autorizadas nos termos do \"caput\" deste artigo.\n§ 3º Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Município, ficando a Secretaria Municipal de Planejamento, Orçamento e Gestão autorizada a adotar as providências que se façam necessárias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para assegurar o pagamento integral de operações de crédito contratadas com a Caixa Econômica Federal - CEF, Banco do Brasil - BB e com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, fica o Executivo autorizado a ceder ou dar em garantia, por qualquer forma em direito admitida, os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Município na arrecadação da União, bem como das suas receitas próprias, na forma do disposto, respectivamente, no art. 159, inciso I, alíneas \"b\" e \"d\", e no art. 158, ambos da Constituição Federal.\nParágrafo único. A cessão ou constituição de garantia em favor da CEF, do BB e do BNDES deverá atender às condições usualmente praticadas por aquelas instituições financeiras, incluindo, dentre outras, as seguintes prescrições:\nI - caráter irrevogável e irretratável;\nII - cessão dos direitos e créditos a título \"pro solvendo\", ficando a quitação condicionada ao efetivo recebimento dos valores cedidos pelo credor;\nIII - sub-rogação automática da vinculação em garantia ou da cessão sobre os direitos e créditos que venham a substituir os impostos previstos no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, no caso de sua extinção, assim como em relação aos novos fundos que sejam criados em substituição;\nIV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos dados em garantia, até o montante necessário ao pagamento integral das parcelas da dívida vencidas e não pagas, incluindo os respectivos acessórios, no caso de inadimplemento do Município;\nV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos que tenham sido objeto de cessão, na data de vencimento das parcelas da dívida de responsabilidade do Município, até o limite do valor devido, incluindo os respectivos acessórios.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As operações de crédito externas com instituições financeiras internacionais, dentre elas o Banco lnteramericano de Desenvolvimento - BID e o Banco Mundial, serão garantidas pela União Federal.\n§ 1º Para obter as garantias da União, visando às contratações de operações de crédito externas, fica o Executivo autorizado a prestar contragarantias ao Tesouro Nacional.\n§ 2º As contragarantias de que trata o § 1º deste artigo compreendem a cessão de:\nI - direitos e créditos relativos a cotas ou parcelas da participação do Município na arrecadação da União, na forma do disposto no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, ou resultantes de tais cotas ou parcelas transferíveis de acordo com os preceitos da Constituição Federal;\nII - receitas próprias do Município previstas no art. 158 da Constituição Federal, nos termos do § 4º de seu art. 167.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Nos termos do disposto no inciso III do § 1º do art. 8º da Medida Provisória nº 2.185-35, de 24 de agosto de 2001, na redação conferida pela Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\nParágrafo único. O Executivo poderá oferecer garantias para consecução do disposto no \"caput\" deste artigo, aplicando-se, no que couber, o disposto no art. 7º desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Poder Executivo autorizado a efetuar aditamento ao Contrato de Confissão, Consolidação, Promessa de Assunção e Refinanciamento de Dívidas celebrado com a União em 3 de maio de 2000, ao amparo da Medida Provisória nº 2.185-35, para a inclusão das alterações e benefícios previstos na Lei Complementar nº 148, de 25 de novembro de 2014.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Adicionais Suplementares\nArt. 11. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares por decreto, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, para a Administração Direta, Indireta e seus Fundos Especiais, até o limite de 12% (doze por cento) do total da despesa fixada no art. 2º desta lei, criando, se necessário, elementos de despesa e fontes de recurso dentro de cada projeto, atividade ou operação especial.\nParágrafo único. Fica excluída da autorização de que trata o \"caput\" deste artigo a abertura de créditos adicionais suplementares que tenham como fonte dotações das Subprefeituras para suplementação de outros órgãos que não a própria Subprefeitura, exceto com autorização legislativa específica, ou mediante requerimento do Vereador autor da emenda que reforçou ação ou a incluiu.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Ficam excluídos do limite estabelecido no art. 11 desta lei os créditos adicionais suplementares:\nI - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinados a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nIV - destinados a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal nº 4.320, de 1964;\nV - destinados a suprir insuficiências nas dotações das funções Educação, Assistência Social, Saúde, Habitação e Saneamento;\nVI - com remanejamento de recursos entre órgãos da Administração Direta e Indireta;\nVII - abertos com recursos de operações de crédito autorizadas e/ou contratadas durante o exercício;\nVIII - abertos com recursos provenientes de emendas parlamentares estaduais ou federais;\nIX - abertos com recursos provenientes do Orçamento do Estado de São Paulo para cobertura de quaisquer despesas, em especial na área de mananciais.\n§ 1º A abertura de créditos adicionais suplementares será feita mediante a edição de decretos do Poder Executivo, devidamente justificados.\n§ 2º Os recursos destinados ao pagamento do grupo de natureza de despesa de pessoal poderão ser remanejados para outras despesas, desde que, comprovadamente, os eventos que subsidiaram a previsão da despesa de pessoal não se concretizem.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a remanejar recursos entre despesas de mesmo grupo alocadas em atividades, projetos e operações especiais de um mesmo programa, sem onerar o limite estabelecido no art. 11 desta lei.\nParágrafo único. Fica a critério do Poder Executivo autorizar a abertura de créditos adicionais suplementares, mediante portaria dos respectivos Titulares dos Órgãos, exclusivamente para os casos em que o elemento de despesa a ser suplementado ou anulado seja da mesma modalidade de aplicação e fonte, com a devida justificativa.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares à conta de excesso de arrecadação de receitas específicas e vinculadas a determinada finalidade, nos termos do art. 43 da Lei Federal nº 4.320, de 1964, e do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Ficam a Mesa da Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizados a suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 11 desta lei, as dotações dos respectivos Órgãos, desde que os recursos sejam provenientes de anulação total ou parcial de suas dotações orçamentárias, conforme estabelece o inciso II do art. 27 da Lei Orgânica do Município de São Paulo, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto ou atividade.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Ficam as entidades da Administração Indireta autorizadas, por ato próprio, a abrir créditos adicionais suplementares em suas dotações, respeitado o limite estabelecido no art. 11 desta lei, calculado sobre o valor consignado, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto, atividade ou operação especial.\n§ 1º Aplicam-se, no que couber, a cada entidade, as disposições previstas nos arts. 12 e 13 desta lei.\n§ 2º Os pedidos de adequação orçamentária a que se refere o \"caput\" deste artigo deverão ser analisados pelas Secretarias às quais estejam vinculadas e ratificadas pela Secretaria Municipal de Planejamento, Orçamento e Gestão.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 17. Para efeito do disposto no art. 9º da Lei Complementar Federal nº 101, de 2000, serão preservadas, prioritariamente, as dotações das áreas de Educação, Saúde, Habitação, Transporte e Assistência Social.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Os compromissos assumidos pelas unidades deverão se limitar aos recursos orçamentários disponibilizados, em especial àqueles de natureza continuada e às prioridades identificadas no Programa de Metas instituído pelo art. 69-A da Lei Orgânica do Município de São Paulo.\n§ 1º As ações do Programa de Metas deverão ser priorizadas e sistematicamente acompanhadas de modo a garantir o uso dos recursos disponíveis efetivamente necessários à sua execução.\n§ 2º Eventuais despesas realizadas sem a devida cobertura orçamentária deverão ser objeto de apuração de responsabilidade.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os órgãos responsáveis por entidades da Administração Indireta deverão acompanhar efetivamente as respectivas atividades e, em especial, coordenar o uso dos recursos autorizados nesta lei.\nParágrafo único. As entidades da Administração Indireta, incluindo as Fundações, as empresas públicas e as sociedades de economia mista, publicarão, no respectivo sítio na internet, em até 30 (trinta) dias, as receitas e despesas do mês anterior de forma detalhada.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Durante a execução orçamentária, mediante controle interno, deverão ser identificados e avaliados os componentes de custos das ações, para dimensionar se os recursos orçamentários disponíveis comportarão eventual expansão ou geração de novas despesas.\n§ 1º Sempre que cabível deverá ser verificada a possibilidade de financiamento por outras fontes em complemento aos recursos do Tesouro Municipal.\n§ 2º O recurso correspondente às outras fontes que não as do Tesouro Municipal deverá ser aplicado plenamente, com o acompanhamento e orientação das áreas centrais de orçamento, de finanças e dos negócios jurídicos, quando necessário, minimizando-se eventuais restituições.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Para o ano de 2014, as metas fiscais de resultados primário e nominal, que compõem o Demonstrativo III - Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores do Anexo III - Metas Fiscais, prevalecem sobre as metas fixadas pela Lei nº 15.841, de 17 de julho de 2013, alteradas pela Lei nº 16.047, de 18 de julho de 2014.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Esta lei entrará em vigor em 1º de janeiro de 2015, retroagindo a 1º de janeiro de 2014 os efeitos do disposto no art. 24.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2014, 461º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2014.\n***O.B.S.: Os anexos desta Lei serão publicados na íntegra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

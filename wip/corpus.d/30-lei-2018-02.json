@@ -1,0 +1,2769 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2018-16833": {
+   "label": "Lei nº 16.833, de 07/02/2018",
+   "title": "Cria o Parque Municipal do Minhocão e prevê a desativação gradativa do Elevado João Goulart.",
+   "kind": "law",
+   "enacted": "2018-02-07",
+   "published": "2018-02-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16833-de-7-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16834": {
+   "label": "Lei nº 16.834, de 08/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, que consolida a Legislação Municipal referente a datas comemorativas, eventos e feriados do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-08",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16834-de-8-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16835": {
+   "label": "Lei nº 16.835, de 07/02/2018",
+   "title": "Altera a Lei nº 15.199, de 18 de junho de 2010, que dispõe sobre a afixação obrigatória, nos locais e nas condições que estabelece, da lista de medicamentos disponíveis na rede pública municipal de saúde.",
+   "kind": "law",
+   "enacted": "2018-02-07",
+   "published": "2018-02-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16835-de-7-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16836": {
+   "label": "Lei nº 16.836, de 08/02/2018",
+   "title": "Estabelece Diretrizes da Política Municipal de Apoio ao Cooperativismo.",
+   "kind": "law",
+   "enacted": "2018-02-08",
+   "published": "2018-02-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16836-de-8-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16837": {
+   "label": "Lei nº 16.837, de 08/02/2018",
+   "title": "Dispõe sobre a obrigatoriedade de disponibilização de cadeira infantil nos estabelecimento.",
+   "kind": "law",
+   "enacted": "2018-02-08",
+   "published": "2018-02-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16837-de-8-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16838": {
+   "label": "Lei nº 16.838, de 08/02/2018",
+   "title": "Altera as disposições previstas no parágrafo único do art. 6º da Lei nº 14.029, de 13 de julho de 2005, e no § 2º do art. 21 da Lei nº 14.141, de 27 de março de 2006, para dar poderes ao advogado constituído de autenticar cópias reprográficas de documentos, nos casos que especifica.",
+   "kind": "law",
+   "enacted": "2018-02-08",
+   "published": "2018-02-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16838-de-8-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16839": {
+   "label": "Lei nº 16.839, de 08/02/2018",
+   "title": "Dispõe sobre a informatização do cartão de vacinação.",
+   "kind": "law",
+   "enacted": "2018-02-08",
+   "published": "2018-02-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16839-de-8-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16840": {
+   "label": "Lei nº 16.840, de 09/02/2018",
+   "title": "Denomina Praça João Ferreira de Barbacena o logradouro que especifica, localizado no Distrito de São Lucas, Prefeitura Regional de Vila Prudente.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16840-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16841": {
+   "label": "Lei nº 16.841, de 09/02/2018",
+   "title": "Dispõe sobre a obrigatoriedade de os equipamentos culturais municipais, sob a gestão direta da Secretaria Municipal de Cultura, contarem com programação contínua, nos dias e horários que especifica.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16841-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16842": {
+   "label": "Lei nº 16.842, de 09/02/2018",
+   "title": "Denomina o Centro Cultural da Penha como Centro Cultural da Penha – Marília Pêra, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16842-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16843": {
+   "label": "Lei nº 16.843, de 09/02/2018",
+   "title": "Denomina Travessa das Aves o logradouro que especifica, localizado no Distrito do Grajaú, Prefeitura Regional de Capela do Socorro.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16843-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16844": {
+   "label": "Lei nº 16.844, de 09/02/2018",
+   "title": "Denomina Praça Antônio Spessotto o espaço livre localizado no Distrito de Vila Jacuí, Prefeitura Regional de São Miguel Paulista.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16844-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16845": {
+   "label": "Lei nº 16.845, de 09/02/2018",
+   "title": "Denomina Praça Marisa Uzzum o espaço livre que especifica, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16845-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16846": {
+   "label": "Lei nº 16.846, de 09/02/2018",
+   "title": "Altera a denominação do Viaduto 31 de Março para Viaduto Therezinha Zerbini, localizado no Distrito da Sé, Prefeitura Regional da Sé.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16846-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16847": {
+   "label": "Lei nº 16.847, de 09/02/2018",
+   "title": "Denomina Rua Gilberto Gomes da Mota o logradouro que especifica, localizado no Distrito de Itaquera, Prefeitura Regional de Itaquera.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16847-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16848": {
+   "label": "Lei nº 16.848, de 09/02/2018",
+   "title": "Denomina Praça Pedro Francisco Bezerra o espaço livre que especifica, localizado no Distrito de Pedreira, Prefeitura Regional de Cidade Ademar.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16848-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16849": {
+   "label": "Lei nº 16.849, de 09/02/2018",
+   "title": "Denomina Praça Dona Fihica Sales o logradouro público inominado localizado no Distrito da Vila Curuçá, Prefeitura Regional do Itaim Paulista.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16849-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16850": {
+   "label": "Lei nº 16.850, de 09/02/2018",
+   "title": "Denomina Viaduto Ben Abraham o espaço viário inominado ligando a Avenida Marginal Tietê à Avenida Airton Pretini.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16850-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16851": {
+   "label": "Lei nº 16.851, de 09/02/2018",
+   "title": "Denomina Praça Imperatriz Thereza Christina Maria o logradouro inominado que especifica, situado no Distrito de M’Boi Mirim.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16851-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16852": {
+   "label": "Lei nº 16.852, de 09/02/2018",
+   "title": "Denomina Praça Shinichi Hasunuma o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16852-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16853": {
+   "label": "Lei nº 16.853, de 09/02/2018",
+   "title": "Denomina Praça Márcio Ribeiro Benini o espaço livre que especifica, localizado no Distrito de Cangaíba, Prefeitura Regional da Penha.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16853-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16854": {
+   "label": "Lei nº 16.854, de 09/02/2018",
+   "title": "Denomina Praça Moacyr Barbosa o espaço livre que especifica, localizado no Distrito do Ipiranga, Prefeitura Regional do Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16854-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16855": {
+   "label": "Lei nº 16.855, de 09/02/2018",
+   "title": "Denomina Praça Antonio Augusto de Azevedo Filho o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16855-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16856": {
+   "label": "Lei nº 16.856, de 09/02/2018",
+   "title": "Denomina Praça Pastora Gerusa Maria de Sousa o logradouro que especifica, localizado no Distrito de Vila Curuçá, Prefeitura Regional do Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16856-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16857": {
+   "label": "Lei nº 16.857, de 09/02/2018",
+   "title": "Denomina Praça Nei Caetano de Andrade a área verde que especifica, localizada no Distrito de Lajeado, Prefeitura Regional de Guaianases, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16857-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16858": {
+   "label": "Lei nº 16.858, de 09/02/2018",
+   "title": "Denomina Praça Dr. Fuad Kassab o espaço livre que especifica, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16858-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16859": {
+   "label": "Lei nº 16.859, de 09/02/2018",
+   "title": "Denomina Centro de Esportes Radicais José Wilton Oliveira “Drac” o equipamento público que especifica, localizado no Distrito do Bom Retiro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16859-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16860": {
+   "label": "Lei nº 16.860, de 09/02/2018",
+   "title": "Institui a Política Municipal de Proteção à Saúde Bucal da Pessoa Hospitalizada, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-09",
+   "published": "2018-02-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16860-de-9-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16861": {
+   "label": "Lei nº 16.861, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia do Cuidador Profissional de Idosos, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16861-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16862": {
+   "label": "Lei nº 16.862, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Camareira, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16862-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16863": {
+   "label": "Lei nº 16.863, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do 1º Culto Evangélico no Brasil, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16863-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16864": {
+   "label": "Lei nº 16.864, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Paróquia Nossa Senhora Aparecida em Moema, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16864-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16865": {
+   "label": "Lei nº 16.865, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o aniversário da Cohab Padre José de Anchieta – Cohab I, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16865-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16866": {
+   "label": "Lei nº 16.866, de 15/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Festival Internacional de Música do Centro Universitário Adventista de São Paulo – MUNASP.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16866-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16867": {
+   "label": "Lei nº 16.867, de 15/02/2018",
+   "title": "Institui como Política Pública o Programa GEPAD – Programa de prevenção ao uso indevido de drogas nas escolas no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16867-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16868": {
+   "label": "Lei nº 16.868, de 15/02/2018",
+   "title": "Altera dispositivos da Lei nº 16.212, de 10 de junho de 2015, que dispõe sobre a gestão participativa das praças do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16868-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16869": {
+   "label": "Lei nº 16.869, de 15/02/2018",
+   "title": "Dispõe sobre a instalação de bituqueiras nas testadas de imóveis no âmbito do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16869-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16870": {
+   "label": "Lei nº 16.870, de 15/02/2018",
+   "title": "Dispõe sobre as normas de segurança e de manutenção em brinquedos de parques infantis localizados em áreas de uso coletivo, públicas ou privadas.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16870-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16871": {
+   "label": "Lei nº 16.871, de 15/02/2018",
+   "title": "Altera dispositivos da Lei nº 13.478, de 30 de dezembro de 2002, e da Lei nº 15.244, de 26 de julho de 2010, para estabelecer mecanismos de denúncia sobre o descarte irregular de resíduos e respectivas sanções no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-02-15",
+   "published": "2018-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16871-de-15-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16872": {
+   "label": "Lei nº 16.872, de 16/02/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Celíaco, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-16",
+   "published": "2018-02-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16872-de-16-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16873": {
+   "label": "Lei nº 16.873, de 22/02/2018",
+   "title": "Reconhece e regulamenta a instalação de Comitês de Prevenção e Solução de Disputas em contratos administrativos continuados celebrados pela Prefeitura de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-02-22",
+   "published": "2018-02-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16873-de-22-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16874": {
+   "label": "Lei nº 16.874, de 22/02/2018",
+   "title": "Cria o Programa Municipal de Incentivo às Comunidades de Samba na Cidade de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-02-22",
+   "published": "2018-02-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16874-de-22-de-fevereiro-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16875": {
+   "label": "Lei nº 16.875, de 13/03/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Encenação da Paixão de Cristo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-13",
+   "published": "2018-03-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16875-de-13-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16876": {
+   "label": "Lei nº 16.876, de 27/03/2018",
+   "title": "Denomina Praça Antonio Galdi o espaço livre que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16876-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16877": {
+   "label": "Lei nº 16.877, de 27/03/2018",
+   "title": "Denomina Praça Coronel Adilson Moraes o espaço livre que especifica, localizado no Distrito de Tremembé, Prefeitura Regional de Jaçanã/Tremembé, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16877-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16878": {
+   "label": "Lei nº 16.878, de 27/03/2018",
+   "title": "Denomina Praça Judith Kardos Klotzel o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16878-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16879": {
+   "label": "Lei nº 16.879, de 27/03/2018",
+   "title": "Denomina Praça Comendador Antonio Alonso Gutierrez o espaço livre que especifica, localizado no Distrito da Penha, Prefeitura Regional da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16879-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16880": {
+   "label": "Lei nº 16.880, de 27/03/2018",
+   "title": "Denomina Praça Vito Mastrorosa o espaço livre que especifica, localizado no Distrito de Santana, Prefeitura Regional de Santana/Tucuruvi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16880-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16881": {
+   "label": "Lei nº 16.881, de 27/03/2018",
+   "title": "Estabelece diretrizes para o Programa de Terapia Floral, prática complementar ao bem-estar e à saúde, no âmbito do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2018-03-27",
+   "published": "2018-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16881-de-27-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-16882": {
+   "label": "Lei nº 16.882, de 28/03/2018",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Luta Internacional das Mulheres, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-03-28",
+   "published": "2018-04-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16882-de-28-de-marco-de-2018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2018-16833",
+   "short": "Lei 16833/2018",
+   "title": "Lei nº 16.833, de 07/02/2018 (Cria o Parque Municipal do Minhocão e prevê a desativação gradativa do Elevado João Goulart.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16833-de-7-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16833",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16833-de-7-de-fevereiro-de-2018",
+     "sha256": "e958b49996191991f74cbf048c8822651d3e7bd152b75bf5b5deab6fcd60ea69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.833, DE 7 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 10/14, dos Vereadores José Police Neto - PSD, Eduardo Matarazzo Suplicy - PT, George Hato - PMDB, Goulart - PSD, Nabil Bonduki - PT, Ricardo Young - REDE, Sâmia Bonfim - PSOL e Toninho Vespoli - PSOL)\nCria o Parque Municipal do Minhocão e prevê a desativação gradativa do Elevado João Goulart.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 13 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Parque Municipal Minhocão na área do Elevado João Goulart.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A implantação do Parque Minhocão será gradativa, com o progressivo aumento da restrição de tráfego, conforme o seguinte cronograma:\nI - em até 30 dias a partir da sanção da lei: estender o fechamento para o trânsito aos sábados, domingos e feriados;\nII - em até 90 dias a partir da sanção da lei: restringir o horário de funcionamento para tráfego de veículos motorizados nos dias úteis para o horário das 7h às 20h;\nIII - (VETADO)\nParágrafo único. Fica o Executivo autorizado a realizar projetos pilotos para avaliação dos impactos, em períodos inferiores aos previstos no cronograma.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Público Municipal, na forma da legislação vigente, incentivará atividades culturais, esportivas e de lazer no Elevado João Goulart, por parte da comunidade e de entidades da sociedade civil, assim como garantir as adequadas condições de segurança no local durante os horários de fechamento ao tráfego de veículos, bem como desenvolverá ações de sustentabilidade destinadas a preservar e ampliar a área verde no local.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete ao Poder Executivo apresentar Projeto de Intervenção Urbana - PIU, por decreto ou por lei específica, considerando as particularidades locais, e também:\nI - a gestão democrática e participativa, nos termos da legislação em vigor, das etapas de elaboração, implantação, execução e avaliação do PIU, escutado o Conselho Municipal de Política Urbana - CMPU;\nII - as seguintes hipóteses de destinação da área previstas no parágrafo único do art. 375 do Plano Diretor Estratégico do Município:\na) a transformação parcial em parque;\nb) a transformação integral em parque;\nc) (VETADO)\nIII - a adoção de instrumentos urbanísticos de controle e captura da valorização imobiliária decorrente das intervenções promovidas pelo Poder Público na área de impacto desta lei.\nParágrafo único. O PIU será apresentado em até 720 (setecentos e vinte) dias contados da entrada em vigor desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Parque Minhocão terá gestão democrática e participativa mediante conselho gestor, bem como controle social popular.\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 7 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16834",
+   "short": "Lei 16834/2018",
+   "title": "Lei nº 16.834, de 08/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16834-de-8-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16834",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16834-de-8-de-fevereiro-de-2018",
+     "sha256": "1a5bd6594b5261dc54a799e413b31f6c7047a3c3a0cc8f348d7c4b7e99f7dbd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.834 DE 08 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 525/17)\n(VEREADOR MARIO COVAS NETO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, que consolida a Legislação Municipal referente a datas comemorativas, eventos e feriados do Município de São Paulo, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\" - 26 de setembro:\nDia do Surdo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a alínea \"a\" do inciso CCXIII da Lei nº 14.485, de 19 de julho de 2007.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16835",
+   "short": "Lei 16835/2018",
+   "title": "Lei nº 16.835, de 07/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16835-de-7-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16835",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16835-de-7-de-fevereiro-de-2018",
+     "sha256": "333e591515d3f29b6bfe3851e0c70b093349f895eeeb8127dfcf2c439a306b42",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.835, DE 8 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 163/17, do Vereador Camilo Cristófaro - PSB)\nAltera a Lei nº 15.199, de 18 de junho de 2010, que dispõe sobre a afixação obrigatória, nos locais e nas condições que estabelece, da lista de medicamentos disponíveis na rede pública municipal de saúde, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 15.199, de 18 de junho de 2010, passa a vigorar com a seguinte redação, acrescido do § 2º, renumerado o parágrafo único como § 1º:\n\"Art. 1º Todas as unidades da rede pública municipal de saúde que distribuem medicamentos à população em geral, especialmente as unidades de Assistência Médica Ambulatorial - AMA, ficam obrigadas a instalar em suas dependências um painel informativo da Relação Municipal de Medicamentos disponíveis para entrega imediata aos usuários.\n§ 1º O painel informativo de que trata o \"caput\" deverá ser afixado em local de fácil visualização, preferencialmente na entrada da respectiva unidade de saúde, e deverá exibir os nomes dos medicamentos de forma legível.\n§ 2º As informações deverão ser atualizadas toda vez que ocorrer alteração na lista de medicamentos ou na sua disponibilidade para retirada no local.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente lei será regulamentada pelo Executivo no prazo de 90 (noventa) dias, contados da sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 8 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16836",
+   "short": "Lei 16836/2018",
+   "title": "Lei nº 16.836, de 08/02/2018 (Estabelece Diretrizes da Política Municipal de Apoio ao Cooperativismo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16836-de-8-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16836",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16836-de-8-de-fevereiro-de-2018",
+     "sha256": "7022fe3fd5643bbc3f75be282b909b93da70ae1db20cffbd1c2a09d417a9a130",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.836, DE 8 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 354/14, dos Vereadores Aurélio Nomura - PSDB e Ricardo Nunes - PMDB)\nEstabelece Diretrizes da Política Municipal de Apoio ao Cooperativismo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam estabelecidas as Diretrizes para a Política Municipal de Apoio ao Cooperativismo, que consiste no conjunto de ações voltadas ao incentivo de atividades cooperativistas e de seu desenvolvimento no Município de São Paulo.\nParágrafo único. É considerada sociedade cooperativa, para efeitos desta lei, aquela regularmente registrada nos órgãos competentes, conforme legislação federal e estadual pertinentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São diretrizes da Política Municipal de Apoio ao Cooperativismo:\nI - incentivar a forma cooperativa de organização social, econômica e cultural nos diversos ramos de atuação, com base nos princípios gerais do cooperativismo e da legislação vigente;\nII - estimular as atividades cooperativas já existentes no Município, bem como buscar a formação de grupos interessados em constituir novas cooperativas;\nIII - propiciar maior capacitação dos cidadãos pretendentes ou associados das cooperativas;\nIV - divulgar as políticas governamentais em prol do setor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para efetivar a Política Municipal de Apoio ao Cooperativismo, o Poder Público Municipal poderá:\nI - apoiar a criação de instrumentos e mecanismos que estimulem o desenvolvimento da atividade cooperativista;\nII - colaborar na prestação de assistência técnica e educativa às cooperativas sediadas no Município;\nIII - desenvolver instrumentos de intercâmbio que facilitem a troca de informações entre as cooperativas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará no que couber a presente lei no prazo de 90 (noventa) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A execução da presente lei correrá por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 8 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16837",
+   "short": "Lei 16837/2018",
+   "title": "Lei nº 16.837, de 08/02/2018 (Dispõe sobre a obrigatoriedade de disponibilização de cadeira infantil nos estabelecimento.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16837-de-8-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16837",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16837-de-8-de-fevereiro-de-2018",
+     "sha256": "b1af3b9c8593bc132d3c0998d2765381955f4a314110583c9611fd82ab769aa5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.837, DE 8 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 384/16, do Vereador Claudinho De Souza - PSDB)\nDispõe sobre a obrigatoriedade de disponibilização de cadeira infantil nos estabelecimentos que especifica.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É obrigatória a disponibilização de cadeira infantil aos clientes em restaurantes, lanchonetes e estabelecimentos congêneres que sirvam refeições ou lanches.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As cadeiras infantis deverão estar em conformidade com os padrões definidos pelas normas editadas pela Associação Brasileira de Normas Técnicas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Decreto regulamentar do Executivo definirá as subcategorias de uso que se enquadram nas atividades constantes do art. 1º desta lei, bem como a quantidade mínima de cadeiras a ser disponibilizada.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O não cumprimento das disposições desta lei e de seu decreto regulamentar ensejará ao estabelecimento infrator a aplicação das seguintes penalidades:\nI - advertência;\nII - multa no valor de R$ 1.000,00 (mil reais);\nIII - na reincidência, a multa em dobro.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 8 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16838",
+   "short": "Lei 16838/2018",
+   "title": "Lei nº 16.838, de 08/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16838-de-8-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16838",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16838-de-8-de-fevereiro-de-2018",
+     "sha256": "0e2b1536621bad282dfef3fbecb29dfac02a050711eec8c36f056cd58ead9e1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.838, DE 8 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 476/17, dos Vereadores Caio Miranda Carneiro - PSB e Janaína Lima - NOVO)\nAltera as disposições previstas no parágrafo único do art. 6º da Lei nº 14.029, de 13 de julho de 2005, e no § 2º do art. 21 da Lei nº 14.141, de 27 de março de 2006, para dar poderes ao advogado constituído de autenticar cópias reprográficas de documentos, nos casos que especifica.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o parágrafo único do art. 6º da Lei nº 14.029, de 13 de julho de 2005, que passa a ter a seguinte redação:\n\"Art. 6º ......................................................\nParágrafo único. A autenticação dos documentos necessários à prestação do serviço será feita pelo próprio agente público, à vista dos originais apresentados pelo usuário, ou pelo advogado constituído, vedada a exigência de reconhecimento de firma, salvo em caso de dúvida de autenticidade.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica alterado o § 2º do art. 21 da Lei nº 14.141, de 27 de março de 2006, que passa a ter a seguinte redação:\n\"Art. 21. .....................................................\n§ 2º A autenticação de documentos exigidos em cópia poderá ser feita pelo órgão administrativo e pelo advogado constituído.\n...................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 8 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16839",
+   "short": "Lei 16839/2018",
+   "title": "Lei nº 16.839, de 08/02/2018 (Dispõe sobre a informatização do cartão de vacinação.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16839-de-8-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16839",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16839-de-8-de-fevereiro-de-2018",
+     "sha256": "99fff9154ace21947964729605efb3a97ff54ca166480abfbebf3024c86dd06e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.839, DE 8 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 563/17, do Vereador Conte Lopes - PP)\nDispõe sobre a informatização do cartão de vacinação.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º VETADO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os dados referentes à vacinação deverão ser salvos eletronicamente em um banco de dados, por qualquer Unidade de Saúde, com acesso na rede mundial de computadores - internet.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É de responsabilidade da Secretaria Municipal da Saúde a criação de infraestrutura necessária para a informatização do sistema de vacinação.\nParágrafo único. Cabe à Secretaria Municipal da Saúde a criação do banco de dados para o armazenamento das informações sobre a vacinação, constando os dados básicos sobre crianças ou cidadãos que vierem a ser vacinados, e o treinamento para que os profissionais possam manter esse banco de dados atualizado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor 30 dias após sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 8 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16840",
+   "short": "Lei 16840/2018",
+   "title": "Lei nº 16.840, de 09/02/2018 (Denomina Praça João Ferreira de Barbacena o logradouro que especifica, localizado no Distrito de São Lucas, Prefeitura Regional de Vila Prudente.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16840-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16840",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16840-de-9-de-fevereiro-de-2018",
+     "sha256": "182069c5357911693283d8a4d9c48f1f6b74a40a2d453b9083dfb13587ef1756",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.840, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 13/16, da Vereadora Edir Sales - PSD)\nDenomina Praça João Ferreira de Barbacena o logradouro que especifica, localizado no Distrito de São Lucas, Prefeitura Regional de Vila Prudente, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça João Ferreira de Barbacena o logradouro livre inominado existente como entroncamento entre a Rua Fernando Weyne, altura do nº 30, com a Rua Arnaldo Pedroso D'Horta (Setor 118 - Quadra F086), localizado no Distrito de São Lucas, Prefeitura Regional de Vila Prudente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16841",
+   "short": "Lei 16841/2018",
+   "title": "Lei nº 16.841, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16841-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16841",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16841-de-9-de-fevereiro-de-2018",
+     "sha256": "9f97e94d10ffaab1e3769aa65a3fd4c8d0d20f104fdd5082c248e017db5cf928",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.841, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 61/17, da Vereadora Adriana Ramalho - PSDB)\nDispõe sobre a obrigatoriedade de os equipamentos culturais municipais, sob a gestão direta da Secretaria Municipal de Cultura, contarem com programação contínua, nos dias e horários que especifica.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Público Municipal, por meio da Secretaria Municipal de Cultura, deverá implantar, promover e manter a programação nos equipamentos culturais sob sua gestão direta, com horário de funcionamento a partir das 8h e até às 22h, de segunda a sábado.\n§ 1º Os equipamentos abaixo relacionados deverão manter sua programação mínima, conforme disposto no \"caput\" deste artigo:\nI - bibliotecas;\nII - casas de cultura;\nIII - centros culturais;\nIV - espaços de cultura;\nV - espaços museológicos.\n§ 2º Os equipamentos culturais e os espaços qualificados destinados à apresentação de espetáculos e produções artísticas ficam dispensados de seguir os horários previstos no \"caput\" deste artigo.\n§ 3º As atividades artísticas e culturais oferecidas nos Centros Educacionais Unificados - CEUs deverão seguir, na medida do possível, os horários previstos no \"caput\" deste artigo, de modo a não comprometer as atividades educacionais ministradas aos alunos.\n§ 4º A programação ampliada desenvolvida nos equipamentos culturais deverá contemplar as características locais e regionais, tais como:\nI - compatibilidade com as demandas do entorno;\nII - público frequentador.\n§ 5º O não atendimento ao disposto no \"caput\" deste artigo deverá ser justificado e divulgado pela Secretaria Municipal de Cultura.\n§ 6º Nos domingos, os equipamentos de que trata este artigo terão horários de funcionamento diferenciados definidos por ato próprio da Secretaria Municipal de Cultura.\n§ 7º Os equipamentos de que trata este artigo poderão permanecer fechados 1 (um) dia por semana para manutenção.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16842",
+   "short": "Lei 16842/2018",
+   "title": "Lei nº 16.842, de 09/02/2018 (Denomina o Centro Cultural da Penha como Centro Cultural da Penha – Marília Pêra, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16842-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16842",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16842-de-9-de-fevereiro-de-2018",
+     "sha256": "63437363d5193085b66e6a36b1229cf2606b400f0a68d786a83bec5a380c9286",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.842, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 68/16, do Vereador Natalini - PV)\nDenomina o Centro Cultural da Penha como Centro Cultural da Penha - Marília Pêra, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Centro Cultural da Penha, situado no Largo do Rosário, 20, bairro de mesmo nome, passa a ser denominado Centro Cultural da Penha - Marília Pêra.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo promoverá alterações em placas, portais na Internet e outras providências decorrentes da alteração de nome e instalará imagem e exposição-memorial sobre a atriz no local.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da publicação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16843",
+   "short": "Lei 16843/2018",
+   "title": "Lei nº 16.843, de 09/02/2018 (Denomina Travessa das Aves o logradouro que especifica, localizado no Distrito do Grajaú, Prefeitura Regional de Capela do Socorro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16843-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16843",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16843-de-9-de-fevereiro-de-2018",
+     "sha256": "675aa5e236317aff7b9554d154cac5be1d219754fa0698bf3eb0749f9b40b085",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.843, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 95/17, do Vereador Arselino Tatto - PT)\nDenomina Travessa das Aves o logradouro que especifica, localizado no Distrito do Grajaú, Prefeitura Regional de Capela do Socorro, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa das Aves o logradouro identificado como Viela \"A\" na planta AU 3655, com início na Rua Rio São Lourenço, entre a Avenida Paulo Guilguer Reimberg e o Caminho conhecido como Sem Denominação e término na Rua Rio São Nicolau, situado no Setor 267, Quadra 2, localizado no Distrito do Grajaú, Prefeitura Regional de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16844",
+   "short": "Lei 16844/2018",
+   "title": "Lei nº 16.844, de 09/02/2018 (Denomina Praça Antônio Spessotto o espaço livre localizado no Distrito de Vila Jacuí, Prefeitura Regional de São Miguel Paulista.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16844-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16844",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16844-de-9-de-fevereiro-de-2018",
+     "sha256": "9eb34296673000e7cbfdd090cde324417f8266c9ae4479d36d5ac569a7cbeed7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.844, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 104/16, do Vereador Ricardo Teixeira - PROS)\nDenomina Praça Antônio Spessotto o espaço livre localizado no Distrito de Vila Jacuí, Prefeitura Regional de São Miguel Paulista, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antônio Spessotto o espaço livre delimitado pelas ruas Frei Fidélis Mota, Serra do Itaqueri e Pico da Neblina, situado no Setor 131, Quadra M004, localizado no Distrito de Vila Jacuí, Prefeitura Regional de São Miguel Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16845",
+   "short": "Lei 16845/2018",
+   "title": "Lei nº 16.845, de 09/02/2018 (Denomina Praça Marisa Uzzum o espaço livre que especifica, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16845-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16845",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16845-de-9-de-fevereiro-de-2018",
+     "sha256": "f0af6c89115e7154b922bada9edda97eaa2645d6023f4bfa67b1d5c5080726d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.845, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 136/17, da Vereadora Edir Sales - PSD)\nDenomina Praça Marisa Uzzum o espaço livre que especifica, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Marisa Uzzum o espaço livre 1M do croqui patrimonial nº 100.456, delimitado pela Rua Helena Silva Teixeira, por divisa de loteamento e por lotes particulares, situado no Setor 51, Quadra 66, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16846",
+   "short": "Lei 16846/2018",
+   "title": "Lei nº 16.846, de 09/02/2018 (Altera a denominação do Viaduto 31 de Março para Viaduto Therezinha Zerbini, localizado no Distrito da Sé, Prefeitura Regional da Sé.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16846-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16846",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16846-de-9-de-fevereiro-de-2018",
+     "sha256": "f2d55c15b2a17b230d63ed854f9bca3849b903621623e478cf53d0274d54988f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.846, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 196/17, da Vereadora Adriana Ramalho - PSDB)\nAltera a denominação do Viaduto 31 de Março para Viaduto Therezinha Zerbini, localizado no Distrito da Sé, Prefeitura Regional da Sé, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação do Viaduto 31 de Março para Viaduto Therezinha Zerbini, Codlog 23.101-0, situado sobre o canal do Rio Tamanduateí, no Setor 3, com duas alças de acesso, sendo uma com início na Rua Frederico Alvarenga, Quadra 76, e outra com início na Avenida Pref. Passos, Quadras 11 e 12, e término nas ruas da Figueira e Azevedo Júnior, Quadra 21, localizado no Distrito da Sé, Prefeitura Regional da Sé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16847",
+   "short": "Lei 16847/2018",
+   "title": "Lei nº 16.847, de 09/02/2018 (Denomina Rua Gilberto Gomes da Mota o logradouro que especifica, localizado no Distrito de Itaquera, Prefeitura Regional de Itaquera.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16847-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16847",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16847-de-9-de-fevereiro-de-2018",
+     "sha256": "600c450a97b4bc176ef235ed179394851eff869b047684c1e7ac2b0ef245b819",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.847, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 228/17, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDenomina Rua Gilberto Gomes da Mota o logradouro que especifica, localizado no Distrito de Itaquera, Prefeitura Regional de Itaquera, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Gilberto Gomes da Mota o logradouro com início na Avenida Jacu-Pêssego/Nova Trabalhadores e término na Avenida Pires do Rio, situado no Setor 114, Quadra 376, localizado no Distrito de Itaquera, Prefeitura Regional de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16848",
+   "short": "Lei 16848/2018",
+   "title": "Lei nº 16.848, de 09/02/2018 (Denomina Praça Pedro Francisco Bezerra o espaço livre que especifica, localizado no Distrito de Pedreira, Prefeitura Regional de Cidade Ademar.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16848-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16848",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16848-de-9-de-fevereiro-de-2018",
+     "sha256": "93ee12b5885105854490e3e019f204fead02912999875376cb17ca549ba897c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.848, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 290/17, do Vereador Alfredinho - PT)\nDenomina Praça Pedro Francisco Bezerra o espaço livre que especifica, localizado no Distrito de Pedreira, Prefeitura Regional de Cidade Ademar, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Pedro Francisco Bezerra o espaço livre 2M do croqui patrimonial nº 101.856, delimitado pela Avenida das Garoupas e pela Represa Billings, situado no Setor 161, Quadra 38, entre os prolongamentos das ruas dos Saburus e dos Robalos, localizado no Distrito de Pedreira, Prefeitura Regional de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16849",
+   "short": "Lei 16849/2018",
+   "title": "Lei nº 16.849, de 09/02/2018 (Denomina Praça Dona Fihica Sales o logradouro público inominado localizado no Distrito da Vila Curuçá, Prefeitura Regional do Itaim Paulista.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16849-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16849",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16849-de-9-de-fevereiro-de-2018",
+     "sha256": "d6e992a3f69e68041ce91be0cd449e1ab4920f6a6f459fb96ca9ab901c09e302",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.849, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 327/17, da Vereadora Rute Costa - PSD)\nDenomina Praça Dona Fihica Sales o logradouro público inominado localizado no Distrito da Vila Curuçá, Prefeitura Regional do Itaim Paulista, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dona Fihica Sales o espaço livre 6M do croqui patrimonial nº 105.724, delimitado pelas ruas Sete Estrelas, Crescente e pelo lote 31 de propriedade da Eletropaulo, localizado no Setor 135, Quadra 352, situado no Distrito da Vila Curuçá, Prefeitura Regional do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16850",
+   "short": "Lei 16850/2018",
+   "title": "Lei nº 16.850, de 09/02/2018 (Denomina Viaduto Ben Abraham o espaço viário inominado ligando a Avenida Marginal Tietê à Avenida Airton Pretini.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16850-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16850",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16850-de-9-de-fevereiro-de-2018",
+     "sha256": "125e27ff263f27ed07686ec0f579b52bce91721e968e4c038ec3c2c1278e196e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.850, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 343/16, do Vereador Natalini - PV)\nDenomina Viaduto Ben Abraham o espaço viário inominado ligando a Avenida Marginal Tietê à Avenida Airton Pretini e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viaduto Ben Abraham o espaço viário inominado ligando a Avenida Marginal Tietê à Avenida Airton Pretini, Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16851",
+   "short": "Lei 16851/2018",
+   "title": "Lei nº 16.851, de 09/02/2018 (Denomina Praça Imperatriz Thereza Christina Maria o logradouro inominado que especifica, situado no Distrito de M’Boi Mirim.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16851-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16851",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16851-de-9-de-fevereiro-de-2018",
+     "sha256": "90b4ecc01e8f3a1ccadc2edbcc2465b6ef2de3b4dbc23922b34d96c0a360bd32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.851, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 420/16, do Vereador David Soares - DEMOCRATAS)\nDenomina Praça Imperatriz Thereza Christina Maria o logradouro inominado que especifica, situado no Distrito de M'Boi Mirim, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Imperatriz Thereza Christina Maria o espaço livre M 004 do Setor 103, delimitado pela Avenida Guido Caloi, Ponte João Dias e Alça de Acesso sem denominação entre a Avenida Guido Caloi e a Ponte João Dias, no Distrito de Jardim São Luís, Prefeitura Regional de M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16852",
+   "short": "Lei 16852/2018",
+   "title": "Lei nº 16.852, de 09/02/2018 (Denomina Praça Shinichi Hasunuma o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16852-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16852",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16852-de-9-de-fevereiro-de-2018",
+     "sha256": "84c34d0916f93b459de35071d58a0d9dd667ae56d946f9aa58dd694776613eb7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.852, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 432/17, do Vereador Aurélio Nomura - PSDB)\nDenomina Praça Shinichi Hasunuma o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Shinichi Hasunuma o espaço livre delimitado pela Avenida Brigadeiro Faria Lima, Rua Padre Garcia Velho e por lotes particulares, localizado no Setor 83, Quadra 21, situado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros. Será acrescentado sob a denominação principal o título de \"Fundador da Shuyodan do Brasil\" como esclarecimento da escolha do homenageado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16853",
+   "short": "Lei 16853/2018",
+   "title": "Lei nº 16.853, de 09/02/2018 (Denomina Praça Márcio Ribeiro Benini o espaço livre que especifica, localizado no Distrito de Cangaíba, Prefeitura Regional da Penha.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16853-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16853",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16853-de-9-de-fevereiro-de-2018",
+     "sha256": "83f41485dfc95be6c5736fe4807b2b6f9e6d34f4c34b5488d12ae7f56805c23a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.853, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 440/16, do Vereador Natalini - PV)\nDenomina Praça Márcio Ribeiro Benini o espaço livre que especifica, localizado no Distrito de Cangaíba, Prefeitura Regional da Penha, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Márcio Ribeiro Benini o espaço livre delimitado pelas avenidas Guarulhos e Gabriela Mistral, situado no Setor 60, Quadra 23 e Setor 62, Quadra 234, localizado no Distrito de Cangaíba, Prefeitura Regional da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16854",
+   "short": "Lei 16854/2018",
+   "title": "Lei nº 16.854, de 09/02/2018 (Denomina Praça Moacyr Barbosa o espaço livre que especifica, localizado no Distrito do Ipiranga, Prefeitura Regional do Ipiranga, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16854-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16854",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16854-de-9-de-fevereiro-de-2018",
+     "sha256": "49976b9e699bd422ec7081a83419afafccd48fa7907683383c8ca27ad870efa5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.854, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 473/16, do Vereador Dalton Silvano - DEMOCRATAS)\nDenomina Praça Moacyr Barbosa o espaço livre que especifica, localizado no Distrito do Ipiranga, Prefeitura Regional do Ipiranga, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Moacyr Barbosa o espaço livre delimitado pelas ruas do Manifesto, Silva Bueno e Leais Paulistanos, situado no Setor 40, Quadras 13 e 220, localizado no Distrito do Ipiranga, Prefeitura Regional do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16855",
+   "short": "Lei 16855/2018",
+   "title": "Lei nº 16.855, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16855-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16855",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16855-de-9-de-fevereiro-de-2018",
+     "sha256": "b173faf4812845df8d6a0489081aa57b8645fffdbedc32b69b40908f58f68ec7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.855, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 529/17, do Vereador Aurélio Nomura - PSDB)\nDenomina Praça Antonio Augusto de Azevedo Filho o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antonio Augusto de Azevedo Filho o espaço livre 10M do croqui patrimonial nº 102.468, delimitado pelas ruas Polônia, Sófia e por lotes particulares, localizado no Setor 15, Quadra 86, situado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16856",
+   "short": "Lei 16856/2018",
+   "title": "Lei nº 16.856, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16856-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16856",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16856-de-9-de-fevereiro-de-2018",
+     "sha256": "cadd6677cff19296d4719fd3eaf210ad94fc8475265e216317d529a330978b37",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.856, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 555/17, do Vereador Rinaldi Digilio - PRB)\nDenomina Praça Pastora Gerusa Maria de Sousa o logradouro que especifica, localizado no Distrito de Vila Curuçá, Prefeitura Regional do Itaim Paulista, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Pastora Gerusa Maria de Sousa a área remanescente do espaço livre 3 do croqui patrimonial nº 100.124, delimitada pelas ruas Fred Astaire, Diogo Garcia Martins e áreas utilizadas por equipamentos institucionais da PMSP e do Estado de São Paulo, localizada na Quadra 32, Setor 134, Distrito de Vila Curuçá, Prefeitura Regional de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16857",
+   "short": "Lei 16857/2018",
+   "title": "Lei nº 16.857, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16857-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16857",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16857-de-9-de-fevereiro-de-2018",
+     "sha256": "2f7ed37fc246c7ac6216fa62f061782266b7be05cc31e4c503a95baefa4e3f55",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.857, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 594/16, do Vereador Senival Moura - PT)\nDenomina Praça Nei Caetano de Andrade a área verde que especifica, localizada no Distrito de Lajeado, Prefeitura Regional de Guaianases, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Nei Caetano de Andrade a área verde 1M do croqui patrimonial nº 106.918, delimitada pelas ruas Antônio Petrica, Irauçuba e por lotes particulares, situada no Setor 115, Quadra 282, localizada no Distrito de Lajeado, Prefeitura Regional de Guaianases.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16858",
+   "short": "Lei 16858/2018",
+   "title": "Lei nº 16.858, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16858-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16858",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16858-de-9-de-fevereiro-de-2018",
+     "sha256": "71d795166900c701d28b46396cc09986325471f7c15160f23903c2dfb548e8e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.858, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 600/16, da Vereadora Edir Sales - PSD)\nDenomina Praça Dr. Fuad Kassab o espaço livre que especifica, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dr. Fuad Kassab o espaço livre 8M do croqui patrimonial nº 100.456, delimitado pelas ruas Dra. Esmeralda Mendes Policene, das Verbenas e Saruma, e por lotes particulares, situado no Setor 51, Quadra 34, localizado no Distrito de Vila Prudente, Prefeitura Regional de Vila Prudente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16859",
+   "short": "Lei 16859/2018",
+   "title": "Lei nº 16.859, de 09/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16859-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16859",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16859-de-9-de-fevereiro-de-2018",
+     "sha256": "c02691c529ee62a6242d83e505d411a3916c2834ebfc52824ddd5f4ab9e9ab5f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.859, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 779/17, do Vereador Caio Miranda Carneiro - PSB)\nDenomina Centro de Esportes Radicais José Wilton Oliveira \"Drac\" o equipamento público que especifica, localizado no Distrito do Bom Retiro, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Centro de Esportes Radicais José Wilton Oliveira \"Drac\" o equipamento público localizado à Avenida Presidente Castelo Branco nº 5700, no Distrito do Bom Retiro, Prefeitura Regional da Sé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16860",
+   "short": "Lei 16860/2018",
+   "title": "Lei nº 16.860, de 09/02/2018 (Institui a Política Municipal de Proteção à Saúde Bucal da Pessoa Hospitalizada, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16860-de-9-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16860",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16860-de-9-de-fevereiro-de-2018",
+     "sha256": "cc8f71b6a45c9c3fa7467f3f92d1fb7b6c399f9a77eb05d9d297b0f6a61c20ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.860, DE 9 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 584/16, do Vereador Natalini - PV)\nInstitui a Política Municipal de Proteção à Saúde Bucal da Pessoa Hospitalizada, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Executivo, conforme disponibilidade orçamentária, envidará esforços para que seja instituída a Política Municipal de Proteção à Saúde Bucal da Pessoa Hospitalizada, inclusive nas Unidades de Terapia Intensiva.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As ações de saúde para viabilizar a política instituída no art. 1º desta lei serão desenvolvidas no âmbito do Sistema Único de Saúde - SUS, com o apoio de especialistas, e terão como objetivos:\nI - oferecer às pessoas hospitalizadas tratamento de saúde bucal adequado às suas necessidades;\nII - (VETADO)\nIII - (VETADO)\nIV - absorver novas técnicas e procedimentos que possibilitem melhoria na qualidade de vida das pessoas hospitalizadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 9 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16861",
+   "short": "Lei 16861/2018",
+   "title": "Lei nº 16.861, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16861-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16861",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16861-de-15-de-fevereiro-de-2018",
+     "sha256": "27de3891b3caaf40c50e10b7d12f25aba21fda15ffe24551eff3fcf4ce47d168",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.861 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 137/17)\n(VEREADORA SANDRA TADEU - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia do Cuidador Profissional de Idosos, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia do Cuidador Profissional de Idosos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16862",
+   "short": "Lei 16862/2018",
+   "title": "Lei nº 16.862, de 15/02/2018 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Camareira, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16862-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16862",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16862-de-15-de-fevereiro-de-2018",
+     "sha256": "5ee7b0271ecd76c0b97367065a5fde3c23f5f62e4650325f4525599473cdacab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.862 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 335/16)\n(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Camareira, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia da Camareira.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16863",
+   "short": "Lei 16863/2018",
+   "title": "Lei nº 16.863, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16863-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16863",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16863-de-15-de-fevereiro-de-2018",
+     "sha256": "3c3076e0977f82f1b1df309802abaf69989b27ab0195d6fc8c0883825a8701f8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.863 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 360/17)\n(VEREADOR DAVID SOARES - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do 1º Culto Evangélico no Brasil, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 10 de março: Dia do 1º Culto Evangélico no Brasil, com o objetivo de trazer à memória a afirmação da fé, em meio aos conflitos da humanidade.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16864",
+   "short": "Lei 16864/2018",
+   "title": "Lei nº 16.864, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16864-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16864",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16864-de-15-de-fevereiro-de-2018",
+     "sha256": "0a1e2d925865ecd6039ada97f040192422c64ab70b38b0668ee6357ebf673290",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.864 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 512/17)\n(VEREADOR CLAUDINHO DE SOUZA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia da Paróquia Nossa Senhora Aparecida em Moema, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCXXVI - 12 de outubro:\nDia da Paróquia Nossa Senhora Aparecida em Moema.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16865",
+   "short": "Lei 16865/2018",
+   "title": "Lei nº 16.865, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16865-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16865",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16865-de-15-de-fevereiro-de-2018",
+     "sha256": "e3d68f487a95dc14c17a5799752a1b561db0cb1a3af23fd4d6a25200afb63a99",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.865 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 528/17)\n(VEREADOR GILSON BARRETO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o aniversário da Cohab Padre José de Anchieta - Cohab I, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCLXI - 10 de novembro:\no aniversário da Cohab Padre José de Anchieta - Cohab I.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16866",
+   "short": "Lei 16866/2018",
+   "title": "Lei nº 16.866, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16866-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16866",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16866-de-15-de-fevereiro-de-2018",
+     "sha256": "48d67dc92bfbea06a6f73fb4af6398a9865b2dc60f8bca17c7720f33c3f74de5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.866 DE 15 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 769/17)\n(VEREADORES CAIO MIRANDA CARNEIRO - PSB E EDUARDO TUMA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Festival Internacional de Música do Centro Universitário Adventista de São Paulo - MUNASP.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"e) o Festival Internacional de Música do Centro Universitário Adventista de São Paulo - MUNASP.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16867",
+   "short": "Lei 16867/2018",
+   "title": "Lei nº 16.867, de 15/02/2018 (Institui como Política Pública o Programa GEPAD – Programa de prevenção ao uso indevido de drogas nas escolas no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16867-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16867",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16867-de-15-de-fevereiro-de-2018",
+     "sha256": "42901bdb1fbcf5875f0794ef69d356de513cff6bff9153e46e9998ee5a4c3e14",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.867, DE 15 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 52/17, dos Vereadores Ota - PSB e Janaina Lima - NOVO)\nInstitui como Política Pública o Programa GEPAD - Programa de prevenção ao uso indevido de drogas nas escolas no Município de São Paulo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de São Paulo o Programa GEPAD - Programa de prevenção ao uso indevido de drogas nas escolas, vinculado à Secretaria Municipal de Segurança Urbana e à Secretaria Municipal de Educação, com a finalidade de promover, nas escolas e na sociedade em geral, ações voltadas à prevenção ao uso indevido de drogas, à promoção da cidadania e à disseminação da cultura da paz.\nParágrafo único. O programa de que trata o \"caput\" deste artigo será executado pela Secretaria Municipal de Direitos Humanos e Cidadania, em parceria com a Guarda Civil Metropolitana e em consonância aos ditames da Secretaria Municipal de Segurança Urbana, da Secretaria Municipal de Educação e experiências e tratados internacionais na área.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Constituem atividades do Programa GEPAD - Programa de prevenção ao uso indevido de drogas nas escolas:\nI - promoção de capacitação para professores e demais educadores como multiplicadores de prevenção primária ao uso indevido de drogas;\nII - promoção de palestras de sensibilização para pais e demais responsáveis pelos alunos a respeito da prevenção ao uso indevido de drogas;\nIII - promoção de palestras para crianças, adolescentes e jovens com o propósito de esclarecer as consequências da utilização das drogas lícitas e ilícitas;\nIV - realização de parcerias para garantir a sustentabilidade, ampliação e aperfeiçoamento das atividades desenvolvidas;\nV - capacitação de profissionais de instituições públicas e privadas e outros cidadãos como multiplicadores de prevenção primária ao uso indevido de drogas;\nVI - a participação dos seus integrantes em cursos e outras atividades que possam contribuir para melhorar e manter sempre atualizado o conhecimento desses profissionais;\nVII - realização de atividades artísticas, culturais e desportivas no âmbito escolar para prevenção de drogas e promoção de cultura de paz e garantia de direitos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos do Programa GEPAD - Programa de prevenção ao uso indevido de drogas nas escolas:\nI - desenvolver um sistema de prevenção à violência e a promoção do esclarecimento sobre o uso indevido de drogas e sua disseminação entre crianças, adolescentes e jovens;\nII - ampliar a integração entre a Guarda Civil Metropolitana e a comunidade em geral;\nIII - desenvolver habilidades nos operadores de segurança e profissionais de educação de prevenir a utilização de drogas lícitas e ilícitas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16868",
+   "short": "Lei 16868/2018",
+   "title": "Lei nº 16.868, de 15/02/2018 (Altera dispositivos da Lei nº 16.212, de 10 de junho de 2015, que dispõe sobre a gestão participativa das praças do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16868-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16868",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16868-de-15-de-fevereiro-de-2018",
+     "sha256": "effabee9de44ce6bd98f5c7868baf214400c080ee7125269316ab86d1917c412",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.868, DE 15 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 192/17, do Vereador Caio Miranda Carneiro - PSB)\nAltera dispositivos da Lei nº 16.212, de 10 de junho de 2015, que dispõe sobre a gestão participativa das praças do Município de São Paulo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso V do \"caput\", bem como o § 2º do art. 12 da Lei nº 16.212, de 10 de junho de 2015, acrescido do § 3º, passam a ter a seguinte redação:\n\"Art. 12. ...............................................\nV - plantio de árvores, inclusive frutíferas, arbustos e vegetação herbácea;\n§ 1º ..............................................................\n§ 2º A conservação de praças poderá ser delegada, ainda que parcialmente, a terceiros, mediante termos de cooperação, nos termos da legislação vigente.\n§ 3º As informações de contato dos responsáveis pela manutenção e conservação das praças deverão constar de placa informativa, a ser fixada em local visível, na própria praça.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os incisos III, V, VI, VII e XII do art. 15 da Lei nº 16.212, de 10 de junho de 2015, acrescido dos incisos XIII, XIV, XV e XVI, passam a ter a seguinte redação:\n\"Art. 15. ...............................................\nIII - equipamentos para exercícios físicos e práticas desportivas não formais;\nV - áreas de estar com mesas para jogos e piqueniques e pontos para armação de redes de descanso;\nVI - ponto para ligação de água e luz, bem como para sinal de internet sem fio;\nVII - estacionamento para bicicletas e armários tipo guarda-volumes;\nXII - guaritas e demais equipamentos de segurança;\nXIII - espaço da melhor idade, com atividades e equipamentos específicos para idosos;\nXIV - área para uso de comércio e serviços, mediante o respectivo termo de permissão;\nXV - equipamentos de apoio às atividades de zeladoria;\nXVI - espaço fechado destinado para cães, também conhecido como parcão.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O art. 16 da Lei nº 16.212, de 10 de junho de 2015, passa a ter a seguinte redação:\n\"Art. 16. As praças, quando couber, poderão ter cisternas e banheiros, inclusive com sistemas de captação de águas pluviais e biodigestores, ou secos, dentro dos princípios da permacultura urbana, a critério da respectiva Prefeitura Regional, ouvido o comitê de usuários, quando existir.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O art. 23 da Lei nº 16.212, de 10 de junho de 2015, fica acrescido de parágrafo único, com a seguinte redação:\n\"Art. 23. ...............................................\nParágrafo único. Fica o Executivo autorizado a receber do permissionário contrapartida em bens e serviços, devidamente quantificados e avaliados, a serem destinados à mesma praça em que instalado o respectivo comércio ou serviço, objeto do termo de permissão de uso.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16869",
+   "short": "Lei 16869/2018",
+   "title": "Lei nº 16.869, de 15/02/2018 (Dispõe sobre a instalação de bituqueiras nas testadas de imóveis no âmbito do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16869-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16869",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16869-de-15-de-fevereiro-de-2018",
+     "sha256": "fbbcd2b12d0d9dab65a58f2685bc43a37ed6096c40e2627cdeea3d0c70230d0f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.869, DE 15 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 289/14, do Vereador Eliseu Gabriel - PSB)\nDispõe sobre a instalação de bituqueiras nas testadas de imóveis no âmbito do Município de São Paulo.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os restaurantes, bares, lanchonetes e afins, bem como os estabelecimentos de ensino superior deverão disponibilizar bituqueiras na testada de seus imóveis em número suficiente para o atendimento dos fumantes que utilizam o estabelecimento.\n§ 1º As bituqueiras deverão ser removíveis, não obstruir a faixa livre da calçada destinada à circulação de pedestres e ficar disponíveis apenas no período de funcionamento do estabelecimento.\n§ 2º As bituqueiras não poderão ter publicidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos de que trata o art. 1º deverão manter limpo o passeio público, observando as disposições da Lei nº 13.478, de 30 de dezembro de 2002, em especial seus arts. 154, 155, 158 e 162, bem como da Lei nº 15.442, de 9 de setembro de 2011.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O não cumprimento das disposições desta lei e de seu decreto regulamentar ensejará a aplicação aos infratores das penalidades previstas nas Leis nº 13.478, de 2002, nº 14.223, de 26 de setembro de 2006, e nº 15.442, de 2011.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Executivo regulamentará as disposições desta lei no prazo de 90 (noventa) dias, a contar de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16870",
+   "short": "Lei 16870/2018",
+   "title": "Lei nº 16.870, de 15/02/2018 (Dispõe sobre as normas de segurança e de manutenção em brinquedos de parques infantis localizados em áreas de uso coletivo, públicas ou privadas.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16870-de-15-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16870",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16870-de-15-de-fevereiro-de-2018",
+     "sha256": "4c9584e0464ec0f477a3ebec4a67257d1f5657bd1a4b2273f1ddc1fcd8a37af4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.870, DE 15 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 404/16, do Vereador Aurélio Nomura - PSDB)\nDispõe sobre as normas de segurança e de manutenção em brinquedos de parques infantis localizados em áreas de uso coletivo, públicas ou privadas, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os parques infantis localizados em áreas de uso coletivo devem ser construídos e mantidos em conformidade com as determinações da Associação Brasileira de Normas Técnicas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O estabelecimento que descumprir a presente lei será multado em R$ 1.000,00 (mil reais) e, em caso de reincidência, a multa terá o valor de R$ 2.000,00 (dois mil reais) a cada reincidência.\nParágrafo único. A multa de que trata o \"caput\" deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os estabelecimentos públicos que contenham parques infantis deverão ser adequados aos termos desta lei gradualmente, com observância do disposto na Lei Complementar Federal nº 101/00.\nParágrafo único. Os parques infantis localizados em áreas públicas têm como responsável pela vistoria o órgão competente da administração pública.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A execução da presente lei correrá por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo regulamentará a presente lei em até 90 (noventa) dias após a sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16871",
+   "short": "Lei 16871/2018",
+   "title": "Lei nº 16.871, de 15/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16871-de-15-de-fevereiro-de-2018",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2018-16871"
+   ],
+   "versions": [
+    {
+     "from": "2018-09-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16871-de-15-de-fevereiro-de-2018",
+     "sha256": "f6bce61c1b3a141711664bc8ffd9fe8d44c24e21128f46376476d4ffbf4916d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.871, DE 15 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 785/17, do Vereador Camilo Cristófaro - PSB)\nAltera dispositivos da Lei nº 13.478, de 30 de dezembro de 2002, e da Lei nº 15.244, de 26 de julho de 2010, para estabelecer mecanismos de denúncia sobre o descarte irregular de resíduos e respectivas sanções no Município de São Paulo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 126 da Lei nº 13.478, de 30 de dezembro de 2002, passa a vigorar acrescido do inciso IV, com a seguinte redação:\n\"Art. 126. ..............................................\nIV - não ter sido autuado por transporte ou descarte irregular de resíduos sólidos de qualquer natureza.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criados os §§ 2º, 3º e 4º no art. 130 da Lei nº 13.478, de 30 de dezembro de 2002, renumerando-se seu parágrafo único como § 1º, com a seguinte redação:\n\"Art. 130. ..............................................\n§ 1º ..............................................................\n§ 2º O transporte de resíduos sólidos deverá ser realizado por veículo apropriado, devidamente identificado com a capacidade máxima e sua finalidade.\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n\"Art. 135. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica criado o parágrafo único do art. 153 da Lei nº 13.478, de 30 de dezembro de 2002, com a seguinte redação:\n\"Art. 153. ..............................................\nParágrafo único. Aplica-se ao munícipe-usuário o disposto nos §§ 1º e 2º do art. 130 desta lei.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O art. 1º da Lei nº 15.244, de 26 de julho de 2010, passa a vigorar com a seguinte redação:\n\"Art. 1º O valor da multa aplicável à infração prevista no art. 161 e seu parágrafo único da Lei nº 13.478, de 30 de dezembro de 2002, que dispõe sobre a organização do Sistema de Limpeza Urbana do Município de São Paulo, constante de seu Anexo VI, passa a ser de R$ 15.520,00 (quinze mil, quinhentos e vinte reais), dobrado em caso de reincidência.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º É assegurado ao munícipe o direito de apresentar denúncias sobre o descarte irregular de resíduos no âmbito do Município de São Paulo, conforme regulamentação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo regulamentará a presente lei no prazo de 90 (noventa) dias, contados da sua publicação, bem como estabelecerá mecanismo para direcionamento e apuração das denúncias apresentadas pelos munícipes.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de fevereiro de 2018.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.871, de 15/02/2018 was altered by acts of 1 date(s), the latest 2018-09-10."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16872",
+   "short": "Lei 16872/2018",
+   "title": "Lei nº 16.872, de 16/02/2018 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Celíaco, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16872-de-16-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16872",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16872-de-16-de-fevereiro-de-2018",
+     "sha256": "d0c0c9377801c93e25715c63b61c98cc9574fe053032df34b771b602cfd32cab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.872 DE 16 DE FEVEREIRO DE 2018\n(PROJETO DE LEI Nº 542/15)\n(VEREADOR RICARDO TEIXEIRA - PROS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Celíaco, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"dia 31 de agosto: Dia do Celíaco, tendo como objetivos divulgar e dar visibilidade e informações sobre a doença celíaca; promover a discussão sobre a condição celíaca com foco na saúde e qualidade de vida; mostrar a gravidade da doença celíaca e a urgência de se criarem políticas públicas de proteção e estratégias; mobilizar pessoas, instituições, gestores e a sociedade para discutirem acerca das necessidades alimentares especiais; estimular, entre os profissionais de saúde, o debate sobre a doença celíaca e as desordens relacionadas ao consumo de glúten; garantir a realização de palestras, seminários, manifestações artísticas, cursos, promoção dos eventos e demais incentivos, sempre visando à conscientização e informação dos cidadãos sobre o tema; e ampliar as medidas de inclusão social do cidadão celíaco.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 13.349, de 15 de maio de 2002.\nCâmara Municipal de São Paulo, 16 de fevereiro de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de fevereiro de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16873",
+   "short": "Lei 16873/2018",
+   "title": "Lei nº 16.873, de 22/02/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16873-de-22-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16873",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16873-de-22-de-fevereiro-de-2018",
+     "sha256": "47c56aa39afcbb397430953560d14f2a988de099b1f6e02705dad7389b33cafa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.873, DE 22 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 577/17, do Vereador Caio Miranda Carneiro - PSB)\nReconhece e regulamenta a instalação de Comitês de Prevenção e Solução de Disputas em contratos administrativos continuados celebrados pela Prefeitura de São Paulo.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os Comitês de Prevenção e Solução de Disputas para dirimir conflitos relativos a direitos patrimoniais disponíveis em contratos continuados da Administração Direta e Indireta do Município de São Paulo observarão as disposições desta lei e deverão, quando aplicáveis, estar previstos, respectivamente, no edital e contrato.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Comitê de Prevenção e Solução de Disputas poderá ter natureza revisora, adjudicativa ou híbrida, conforme os incisos deste artigo, a depender dos poderes que lhe forem outorgados pelo contrato administrativo de obra celebrado:\nI - ao Comitê por Revisão é conferido o poder de emitir recomendações não vinculantes às partes em litígio;\nII - ao Comitê por Adjudicação é conferido o poder de emitir decisões contratualmente vinculantes às partes em litígio; e\nIII - o Comitê Híbrido poderá tanto recomendar quanto decidir sobre os conflitos, cabendo à parte requerente estabelecer a sua competência revisora ou adjudicativa.\nParágrafo único. As decisões emitidas pelos Comitês com poderes de adjudicação poderão ser submetidas à jurisdição judicial ou arbitral em caso de inconformidade de uma das partes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Reportando-se o edital de licitação ou contrato às regras de alguma instituição especializada, o Comitê será instituído e processado de acordo com as regras de tal instituição, podendo-se, igualmente, definir em anexo contratual a regulamentação própria para a instalação e processamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os valores a serem desembolsados pelo órgão contratante para pagamento de honorários dos membros do Comitê deverão compor o orçamento da contratação, sendo certo que ao contratado privado caberá o pagamento da integralidade dos custos atinentes à instalação e manutenção do Comitê, enquanto competirá ao órgão contratante reembolsá-lo da metade de tais custos, após aprovação das medições previstas no contrato.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os procedimentos atinentes ao Comitê deverão observar a legalidade e o princípio da publicidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Comitê será composto por três pessoas capazes e de confiança das partes, sendo, preferencialmente, dois engenheiros e um advogado.\n§ 1º Competirá ao órgão ou ente público contratante, em conjunto com a entidade contratada, indicar os membros que comporão o Comitê.\n§ 2º O Comitê entrará em funcionamento quando estiver regularmente constituído por meio da assinatura do respectivo Termo de Compromisso pelas partes e membros, o que deverá ocorrer em até 30 (trinta) dias contados da celebração do contrato administrativo.\n§ 3º No desempenho de suas funções, os membros do Comitê deverão proceder com imparcialidade, independência, competência e diligência.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Estão impedidos de funcionar como membros do Comitê as pessoas que tenham, com as partes ou com o litígio que lhes for submetido, algumas das relações que caracterizam os casos de impedimento ou suspeição de juízes, aplicando-se-lhes, no que couber, os mesmos deveres e responsabilidades, conforme previsto no Código de Processo Civil.\nParágrafo único. As pessoas indicadas para funcionar como membro do Comitê têm o dever de revelar, antes da aceitação da função, qualquer fato que denote dúvida justificada quanto à sua imparcialidade e independência.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os membros do Comitê, quando no exercício de suas funções ou em razão delas, ficam equiparados aos funcionários públicos, para os efeitos da legislação penal.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As disposições desta lei serão regulamentadas por decreto do Poder Executivo Municipal em 90 (noventa) dias.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 22 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16874",
+   "short": "Lei 16874/2018",
+   "title": "Lei nº 16.874, de 22/02/2018 (Cria o Programa Municipal de Incentivo às Comunidades de Samba na Cidade de São Paulo e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16874-de-22-de-fevereiro-de-2018",
+   "first_law": "lei-2018-16874",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16874-de-22-de-fevereiro-de-2018",
+     "sha256": "ae9dd7a7343b85593bec99fca8c95ee274106c0da8682e2ba21fe601ef66e304",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.874, DE 22 DE FEVEREIRO DE 2018\n(Projeto de Lei nº 311/16, dos Vereadores Alfredinho - PT, Fábio Riva - PSDB e Milton Leite - DEMOCRATAS)\nCria o Programa Municipal de Incentivo às Comunidades de Samba na Cidade de São Paulo e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Municipal de Incentivo às Comunidades de Samba na Cidade de São Paulo, com a finalidade de coordenar e desenvolver atividades que valorizem as comunidades de samba no Município, elevando o seu nível cultural, profissional, social e econômico, bem como desenvolver e promovê-las como instrumento cultural, de trabalho e empreendedorismo, de forma direta e indireta.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa Municipal de Incentivo às Rodas de Samba promoverá:\nI - a capacitação de músicos, comunidades de samba na Cidade de São Paulo e seus parceiros, por meio de cursos, oficinas, seminários e demais ações educativas que auxiliem os sambistas no aprimoramento do trabalho cultural, bem como na instrução e formação para o empreendedorismo;\nII - a realização de feiras e exposições que visem à produção, reprodução e exibição de projetos realizados pelas comunidades de samba na Cidade de São Paulo e seus parceiros;\nIII - o incentivo à integração de iniciativas às comunidades de samba e seus parceiros, com atenção especial à troca de experiências e aprimoramento de gestão de processos e produtos;\nIV - o mapeamento das comunidades de samba na Cidade de São Paulo, por meio de estudos técnicos e do cadastro de músicos e grupos em sistema próprio, visando à elaboração de políticas públicas para o setor;\nV - métodos de formação ao empreendedorismo, com a formalização de artistas e grupos, promovendo o empreendedorismo e estimulando sua participação em associações e cooperativas, como forma de melhorar a gestão do processo de produção cultural;\nVI - a criação da Rede Municipal das Comunidades de Samba, a fim de possibilitar a troca de experiências, intercâmbios, desenvolvimento de negócios solidários para o fortalecimento social e cultural deste segmento;\nVII - o desenvolvimento de estratégias e ações para o fortalecimento e crescimento das iniciativas produtivas no universo da economia criativa, economia solidária e do cooperativismo;\nVIII - o acesso ao microcrédito e às ações de fomento visando ao desenvolvimento do trabalho das comunidades de samba e o empreendedorismo da cultural local.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Cabem ao Executivo Municipal o cadastro e a inscrição das comunidades de samba, nos termos do art. 2º, inciso IV, atestando ainda a sua apresentação habitual e contínua.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Sem prejuízo do disposto no art. 5º, o Programa Municipal de Incentivo às Comunidades de Samba na Cidade de São Paulo poderá vincular-se e receber recursos provenientes de Fundos Municipais existentes ou a serem criados.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n§ 5º (VETADO)\n§ 6º (VETADO)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Para efeitos desta lei, consideram-se comunidades de samba:\nI - as entidades, personificadas em associações, ONGs, OSCIPs e cooperativas de direito privado, que tenham como objetivo o desenvolvimento da cultura do samba e da comunidade local, com atuação comprovada contínua e ininterrupta de 2 (dois) anos;\nII - as comunidades de samba, sem personificação jurídica, representadas por pessoas físicas em número nunca inferior a 5 (cinco) e nunca superior a 15 (quinze) pessoas, com atuação comprovada contínua e ininterrupta de 2 (dois) anos no desenvolvimento da cultura do samba e da comunidade local.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Para efeitos desta lei, consideram-se parceiros das comunidades de samba:\nI - as microempresas que tenham atuação comprovada na venda, divulgação, promoção, produção de produtos das comunidades de samba, bem como de outros bens consumíveis nas apresentações culturais;\nII - os microempreendedores individuais que tenham atuação comprovada na venda, divulgação, promoção, produção de produtos das comunidades de samba, bem como de outros bens consumíveis nas apresentações culturais;\nIII - as pessoas físicas que tenham atuação comprovada na venda, divulgação, promoção, produção de produtos das comunidades de samba, bem como de outros bens consumíveis nas apresentações culturais.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. (VETADO)\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n§ 5º (VETADO)\n§ 6º (VETADO)\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n§ 5º (VETADO)\n§ 6º (VETADO)\n§ 7º (VETADO)\n§ 8º (VETADO)\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. (VETADO)\n§ 1º (VETADO)\n§ 2º(VETADO)\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. (VETADO)\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. (VETADO)\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. (VETADO)\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. (VETADO)\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. (VETADO)\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. (VETADO)\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. (VETADO)\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. Esta lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de fevereiro de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO , Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 22 de fevereiro de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16875",
+   "short": "Lei 16875/2018",
+   "title": "Lei nº 16.875, de 13/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16875-de-13-de-marco-de-2018",
+   "first_law": "lei-2018-16875",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16875-de-13-de-marco-de-2018",
+     "sha256": "38cf4297fde1cb443f1a94b7cb2bb7930c27fa2664bbde01bb4a8f78458ffa7f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.875, DE 13 DE MARÇO DE 2018\n(Projeto de Lei nº 234/17, da Vereadora Edir Sales - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Encenação da Paixão de Cristo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- a Encenação da Paixão de Cristo, realizada anualmente durante a sexta-feira santa, conforme calendário anual, com apresentação teatral realística da história bíblica paixão de Cristo, organizada pela Igreja São Carlos Borromeu de Vila Prudente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 13 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16876",
+   "short": "Lei 16876/2018",
+   "title": "Lei nº 16.876, de 27/03/2018 (Denomina Praça Antonio Galdi o espaço livre que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16876-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16876",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16876-de-27-de-marco-de-2018",
+     "sha256": "da970f7dc418a4dff846f15e19feb9c17cc3ca50803cf09beba8d0eb70e30858",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.876, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 27/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Antonio Galdi o espaço livre que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antonio Galdi o espaço livre delimitado pela Rua Rumaica, Avenida Ricardo Medina Filho e por lotes particulares, situado no Setor 24, Quadra 39, localizado no Distrito da Lapa, Prefeitura Regional da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16877",
+   "short": "Lei 16877/2018",
+   "title": "Lei nº 16.877, de 27/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16877-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16877",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16877-de-27-de-marco-de-2018",
+     "sha256": "57304f1a18ace270cdd021014b001ce4cff446343b5fdbc946f195e694e9cfb0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.877, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 144/17, do Vereador Mario Covas Neto - PSDB)\nDenomina Praça Coronel Adilson Moraes o espaço livre que especifica, localizado no Distrito de Tremembé, Prefeitura Regional de Jaçanã/Tremembé, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Coronel Adilson Moraes o espaço livre 8M do croqui patrimonial nº 102.465, delimitado pelas ruas José Pires de Oliveira Dias, Dr. Lauro Costa e por lotes particulares, localizado no Setor 67, Quadra 503, situado no Distrito de Tremembé, Prefeitura Regional de Jaçanã/Tremembé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16878",
+   "short": "Lei 16878/2018",
+   "title": "Lei nº 16.878, de 27/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16878-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16878",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16878-de-27-de-marco-de-2018",
+     "sha256": "62aa8df71bb36f4f8647222998bc296cd2c1fa2cd5da35ec3e75eb53d27a6bb8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.878, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 164/17, dos Vereadores Mario Covas Neto - PSDB e Natalini - PV)\nDenomina Praça Judith Kardos Klotzel o espaço livre que especifica, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Judith Kardos Klotzel o espaço livre delimitado pelas ruas Bélgica, Rússia e por lotes particulares, situado no Setor 16, Quadra 33, localizado no Distrito de Pinheiros, Prefeitura Regional de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16879",
+   "short": "Lei 16879/2018",
+   "title": "Lei nº 16.879, de 27/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16879-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16879",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16879-de-27-de-marco-de-2018",
+     "sha256": "7bd621c1608bd943f8e1883529f42a961eeb026b332956b58e973c0b2bf47338",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.879, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 521/16, do Vereador Toninho Paiva - PR)\nDenomina Praça Comendador Antonio Alonso Gutierrez o espaço livre que especifica, localizado no Distrito da Penha, Prefeitura Regional da Penha, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Comendador Antonio Alonso Gutierrez o espaço livre 1M do croqui patrimonial nº 106.059, delimitado pelas ruas Maria Carlota, Celina e por lotes particulares, situado no Setor 58, Quadra 20, localizado no Distrito da Penha, Prefeitura Regional da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16880",
+   "short": "Lei 16880/2018",
+   "title": "Lei nº 16.880, de 27/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16880-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16880",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16880-de-27-de-marco-de-2018",
+     "sha256": "484bfb0575f0e1d5d4609dc9c5647251f0773294dcfa7c5e649925345e0642dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.880, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 523/16, do Vereador Toninho Paiva - PR)\nDenomina Praça Vito Mastrorosa o espaço livre que especifica, localizado no Distrito de Santana, Prefeitura Regional de Santana/Tucuruvi, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Vito Mastrorosa o espaço livre delimitado pela Rua Paineira do Campo e Avenida Voluntários da Pátria, situado no Setor 73, Quadra 161, localizado no Distrito de Santana, Prefeitura Regional de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16881",
+   "short": "Lei 16881/2018",
+   "title": "Lei nº 16.881, de 27/03/2018 (Estabelece diretrizes para o Programa de Terapia Floral, prática complementar ao bem-estar e à saúde, no âmbito do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16881-de-27-de-marco-de-2018",
+   "first_law": "lei-2018-16881",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16881-de-27-de-marco-de-2018",
+     "sha256": "9efcc64bc53eb5f3889202ba32e0677282c7f3bb2de214018b3fe6ca145557c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.881, DE 27 DE MARÇO DE 2018\n(Projeto de Lei nº 382/13, do Vereador Aurélio Nomura - PSDB)\nEstabelece diretrizes para o Programa de Terapia Floral, prática complementar ao bem-estar e à saúde, no âmbito do Município de São Paulo.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de março de 2018, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam estabelecidas as diretrizes para o Programa de Terapia Floral, prática complementar ao bem-estar e à saúde no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As diretrizes ora instituídas pela presente lei têm como principais objetivos, dentre outros:\nI - a promoção da saúde e do bem-estar, assim como a prevenção de doenças, através de práticas que utilizam as essências florais;\nII - divulgação da Terapia Floral aos profissionais de saúde do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para o disposto nesta lei, o Poder Executivo poderá celebrar convênios com entidades de Terapia Floral.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente lei, no que couber, no prazo máximo de 90 (noventa) dias, contados da data da publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2018, 465º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nORLANDO LINDORIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 27 de março de 2018.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-16882",
+   "short": "Lei 16882/2018",
+   "title": "Lei nº 16.882, de 28/03/2018",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16882-de-28-de-marco-de-2018",
+   "first_law": "lei-2018-16882",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-04-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16882-de-28-de-marco-de-2018",
+     "sha256": "d96d1568d29dbfc25b46c448189d9574939108b8f3ac3df8344138937dcf2f89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.882 DE 28 DE MARÇO DE 2018\n(PROJETO DE LEI Nº 117/17)\n(VEREADORA SÂMIA BOMFIM - PSOL)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Mês da Luta Internacional das Mulheres, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Mês da Luta Internacional das Mulheres.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2018.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2018.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

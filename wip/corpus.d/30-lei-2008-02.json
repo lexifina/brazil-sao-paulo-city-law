@@ -1,0 +1,2759 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2008-14724": {
+   "label": "Lei nº 14.724, de 15/05/2008",
+   "title": "Dispõe sobre a obrigatoriedade de fornecimento gratuito de água potável pelas danceterias, salões de dança e estabelecimentos similares aos seus freqüentadores.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14724-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14725": {
+   "label": "Lei nº 14.725, de 15/05/2008",
+   "title": "Institui, no âmbito do Município de São Paulo, o Programa de Vacinação Domiciliar de Idosos, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14725-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14726": {
+   "label": "Lei nº 14.726, de 15/05/2008",
+   "title": "Estabelece normas para repressão a comercialização e ao consumo de bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos no município de São Paulo, em eventos esportivos profissionais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14726-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14727": {
+   "label": "Lei nº 14.727, de 15/05/2008",
+   "title": "Institui, no âmbito do Município de São Paulo, o programa \"Movimentando a Terceira Idade\", e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14727-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14728": {
+   "label": "Lei nº 14.728, de 15/05/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa Junina do Escadão, a ser comemorada anualmente nos últimos dois finais de semana do mês de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14728-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14729": {
+   "label": "Lei nº 14.729, de 15/05/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cantor Gospel, a ser comemorado anualmente no dia 27 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-15",
+   "published": "2008-05-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14729-de-15-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14731": {
+   "label": "Lei nº 14.731, de 20/05/2008",
+   "title": "INSTITUI A FEIRA MUNICIPAL DE ECONOMIA SOLIDARIA-ECOSOL E AS FEIRAS REGIONAIS DE ECONOMIA SOLIDARIA DAS SUBPREFEITURAS-ECOSOL REGIONAIS, NO MUNICIPIO DE SAO PAULO E DA OUTRAS PROVIDENCIAS.(PL 748/02).",
+   "kind": "law",
+   "enacted": "2008-05-20",
+   "published": "2008-05-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14731-de-20-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14732": {
+   "label": "Lei nº 14.732, de 28/05/2008",
+   "title": "Dispõe sobre a obrigatoriedade de instalação de selo de garantia nas embalagens de alimentos para pronta entrega no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14732-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14733": {
+   "label": "Lei nº 14.733, de 28/05/2008",
+   "title": "DENOMINA UNIDADE BASICA DE SAUDE JACANA - DR. SEBASTIAO GABRIEL SAYAGO DE LAET A UNIDADE BASICA DE SAUDE JACANA. (PL 494/06)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14733-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14734": {
+   "label": "Lei nº 14.734, de 28/05/2008",
+   "title": "DENOMINA PRACA AUGUSTO BRAZ O ESPACO LIVRE DELIMITADO PELA RUA AMADEU PAGNANELLI, SITUADO NO DISTRITO DO RIO PEQUENO, SUBPREFEITURA DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (476/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14734-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14735": {
+   "label": "Lei nº 14.735, de 28/05/2008",
+   "title": "DENOMINA PRACA EDSON DA SILVA O ESPACO LIVRE LOCALIZADO ENTRE AS RUAS FREI LUIS BELTRAO E BENJAMIM VILL (SETOR 165 - QUADRA 250), DISTRITO DO JARDIM SAO LUIS, SUBPREFEITURA DE M'BOI MIRIM, E DA OUTRAS PROVIDENCIAS. (494/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14735-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14736": {
+   "label": "Lei nº 14.736, de 28/05/2008",
+   "title": "DENOMINA PRACA ANTONIO BENEDITO ESCAME O ESPACO LIVRE SEM DENOMINACAO DELIMITADO PELAS AVENIDAS ENGENHO NOVO E RIACHO DOS MACHADOS E PELA RUA LANHOSO, NO DISTRITO DE SAO MATEUS, SUBPREFEITURA DE SAO MATEUS. (PL 509/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14736-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14737": {
+   "label": "Lei nº 14.737, de 28/05/2008",
+   "title": "DENOMINA TRAVESSA ANA ROSA MOREIRA DA SILVA A RUA PARTICULAR \"E\", QUE COMECA NA RUA SAO JOAO DO CARIRI E TERMINA A APROXIMADAMENTE 54 METROS ALEM DE SEU INICIO, SITUADA NO DISTRITO DE ITAQUERA, SUBPREFEITURA DE ITAQUERA, E DA OUTRAS PROVIDENCIAS. (PL 536/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14737-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14738": {
+   "label": "Lei nº 14.738, de 28/05/2008",
+   "title": "DENOMINA PRACA OLGA ZADRA O ESPACO LIVRE DELIMITADO PELA AVENIDA LUIZ IGNACIO ANHAIA MELLO E PELAS RUAS DR. MORAES DO REGO E FRANCISCO POLITO, SITUADO NO DISTRITO DE VILA PRUDENTE, SUBPREFEITURA DE VILA PRUDENTE/SAPOPEMBA, E DA OUTRAS PROVIDENCIAS. (PL 548/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14738-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14739": {
+   "label": "Lei nº 14.739, de 28/05/2008",
+   "title": "DENOMINA RUA DURVALINA ALEXANDRE MACHADO A RUA CONHECIDA COMO RUA UM PARTICULAR, SITUADA NA TRAVESSA DA RUA MALMEQUER DO CAMPO, NO BAIRRO GLEBA DO PESSEGO, ITAQUERA, E DA OUTRAS PROVIDENCIAS. (PL 575/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14739-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14740": {
+   "label": "Lei nº 14.740, de 28/05/2008",
+   "title": "DENOMINA PRACA JOSE SILVA CAMPOS O ESPACO LIVRE SEM DENOMINACAO DELIMITADO PELAS RUAS HUMBERTO DE QUEIROS, HERIBALDO SICILIANO, ABILIO MARQUES E TRAVESSA DOMENICO RONCONI (SETOR 88 - QUADRA 204), DISTRITO DO CAMPO GRANDE, SUBPREFEITURA DE SANTO AMARO, E DA OUTRAS PROVIDENCIAS. (PL 592/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14740-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14741": {
+   "label": "Lei nº 14.741, de 28/05/2008",
+   "title": "DENOMINA PRACA MOLEQUE TRAVESSO O ESPACO LIVRE DELIMITADO PELAS RUAS RAIA EITAUCU, DISTRITO DE SAPOPEMBA, SUBPREFEITURA DE VILA PRUDENTE/SAPOPEMBA, E DA OUTRAS PROVIDENCIAS. (PL 596/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14741-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14742": {
+   "label": "Lei nº 14.742, de 28/05/2008",
+   "title": "DENOMINA PRACA BENEDITO PASCHETI O ESPACO PUBLICO INOMINADO SITUADO ENTRE AAS RUAS ROBESPIERRE DE MELO E BERNARDO DE SOUSA, DISTRITO DE VILA JACUI,SUBPREFEITURA DE SAO MIGUEL, E DA OUTRAS PROVIDENCIAS. (PL 599/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14742-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14743": {
+   "label": "Lei nº 14.743, de 28/05/2008",
+   "title": "DENOMINA PRACA ANNIBAL DO NASCIMENTO O ESPACO LIVRE LOCALIZADO NA CONFLUENCIA DA AVENIDA INAJAR DE SOUZA COM A RUA GUARATAIA, DISTRITO DO LIMAO, SUBPREFEITURA DA CASA VERDE/CACHOEIRINHA, E DA OUTRAS PROVIDENCIAS. (PL 601/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14743-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14744": {
+   "label": "Lei nº 14.744, de 28/05/2008",
+   "title": "DENOMINA TRAVESSA MARIA DA CONCEICAO SILVA A TRAVESSA PARTICULAR SEM DENOMINACAO QUE COMECA NA RUA PUBLIO PIMENTEL E TERMINA APROXIMADAMENTE 82 (OITENTA E DOIS) METROS ALEM DO SEU INICIO, NO DISTRITO DE CIDADE ADEMAR, SUBPREFEITURA DE CIDADE ADEMAR, E DA OUTRAS PROVIDENCIAS. (PL 611/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14744-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14745": {
+   "label": "Lei nº 14.745, de 28/05/2008",
+   "title": "DENOMINA PRACA ZE KETI O ESPACO LIVRE DELIMITADO PELA CONFLUENCIA DA RUA MARIO NOGUEIRA COM A RUA FREI FIDELIS MOTA, DISTRITO DE VILA JACUI, SUBPREFEITURA DE SAO MIGUEL PAULISTA, E DA OUTRAS PROVIDENCIAS. (PL 620/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14745-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14746": {
+   "label": "Lei nº 14.746, de 28/05/2008",
+   "title": "DENOMINA PRACA TENENTE OSCAR PEREIRA MONTEIRO OS ESPACOS LIVRES \"2M\" E \"6M\" SEM DENOMINACAO, DELIMITADOS PELAS RUAS AMBROSINA NUNES FERREIRA, JOSE FILIPE DA SILVA, BRASILIANO BARCELOS E LUIS TOSTA NUNES, NO DISTRITO DO RIO PEQUENO, SUBPREFEITURA DO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 654/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14746-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14747": {
+   "label": "Lei nº 14.747, de 28/05/2008",
+   "title": "DENOMINA TRAVESSA OSWALDO MAZETI A VIELA 1,QUE COMECA NA TRAVESSA PARTICULAR SEM DENOMINACAO ENTRE A AVENIDA ANGELO CRISTIANINI E O LOGRADOURO FORMADO PELAS VIELAS 1 E 2 E TERMINA APROXIMADAMENTE 50 M ALEM DO SEU INICIO,LOCALIZADA NA SUBPREFEITURA CIDADE ADEMAR,E DA OUTRAS PROVIDENCIAS. (PL 668/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14747-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14748": {
+   "label": "Lei nº 14.748, de 28/05/2008",
+   "title": "DENOMINA TRAVESSA MANOEL TEIXEIRA DE OLIVEIRA A VIELA S/ DENOMINACAO QUE COMECA NA TVP S/ DENOMINACAO(78.041-3),ENTRE O LOGRADOURO FORMADO PELAS VIELAS 1 E 2 (76.709-3)E DIVISA DE LOTES,TERMINANDO APROXIMADAMENTE A 50 M ALEM DO INICIO,SUBPREFEITURA CIDADE ADEMAR,E DA OUTRAS PROVIDENCIAS. (PL 669/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14748-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14749": {
+   "label": "Lei nº 14.749, de 28/05/2008",
+   "title": "DENOMINA PRACA ZILKA SALABERRY O ESPACO LIVRE SEM NOME, DELIMITADO PELA RUA BAIA DOS PASSAROS E POR LOTES PARTICULARES, SITUADO NO DISTRITO DO JACANA, SUBPREFEITURA DO TREMEMBE/JACANA, E DA OUTRAS PROVIDENCIAS. (PL 726/07)",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14749-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14750": {
+   "label": "Lei nº 14.750, de 28/05/2008",
+   "title": "Dispõe sobre a criação do Parque Municipal de Paraisópolis e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14750-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14751": {
+   "label": "Lei nº 14.751, de 28/05/2008",
+   "title": "Dispõe sobre a implantação de Programa de Restrição ao Trânsito de Veículos Automotores Pesados, do tipo caminhão, no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2008-05-28",
+   "published": "2008-05-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14751-de-28-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14752": {
+   "label": "Lei nº 14.752, de 29/05/2008",
+   "title": "Altera a Lei nº 13.478, de 30 de dezembro de 2002, que dispõe sobre a organização do Sistema de Limpeza Urbana do Município de São Paulo, para majorar a pena de multa prevista em seu Anexo VI para o inciso IV de seu art. 169, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-29",
+   "published": "2008-01-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14752-de-29-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14753": {
+   "label": "Lei nº 14.753, de 29/05/2008",
+   "title": "Inclui os arts. 4º-A e 4º-B na Lei nº 12.363, de 13 de junho de 1997, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-29",
+   "published": "2008-05-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14753-de-29-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14754": {
+   "label": "Lei nº 14.754, de 29/05/2008",
+   "title": "DENOMINA PRACA ANTONIO DONIZETTI RISSO O ESPACO LIVRE DELIMITADO PELAS RUASCONFEDERACAO DOS TAMOIOS, FELIPA GAGO, BARROS PENTEADO, OSCAR MULLER E CUB AS DE MENDONCA, DISTRITO DO IGUATEMI, SUBPREFEITURA DE SAO MATHEUS, E DA OUTRAS PROVIDENCIAS. (PL N. 428/07)",
+   "kind": "law",
+   "enacted": "2008-05-29",
+   "published": "2008-05-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14754-de-29-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14755": {
+   "label": "Lei nº 14.755, de 29/05/2008",
+   "title": "DENOMINA PRACA SANDRA BREA ESPACO LIVRE DELIMITADO, CONFLUENCIA DA RUA JORGE TIBIRICA COM A RUA MANUEL DE MORAIS, NO SETOR 042, QUADRA 061, NO DISTRITO DE VILA MARIANA, SUBPREFEITURA DE VILA MARIANA, E DA OUTRAS PROVIDENCIAS(PL N.621/07)",
+   "kind": "law",
+   "enacted": "2008-05-29",
+   "published": "2008-05-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14755-de-29-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14756": {
+   "label": "Lei nº 14.756, de 29/05/2008",
+   "title": "Cria o Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-05-29",
+   "published": "2008-05-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14756-de-29-de-maio-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14757": {
+   "label": "Lei nº 14.757, de 04/06/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Municipal da Pessoa com Deficiência e Mobilidade Reduzida, a ser realizada anualmente de 21 a 28 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-04",
+   "published": "2008-06-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14757-de-04-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14758": {
+   "label": "Lei nº 14.758, de 03/06/2008",
+   "title": "INSTITUI A CAMPANHA PERMANENTE DE EDUCACAO POSTURAL NAS ESCOLAS DE ENSINO FUNDAMENTAL NO MUNICIPIO E DA OUTRAS PROVIDENCIAS. (PL 326/06)",
+   "kind": "law",
+   "enacted": "2008-06-03",
+   "published": "2008-06-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14758-de-3-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14759": {
+   "label": "Lei nº 14.759, de 03/06/2008",
+   "title": "Dispõe sobre a criação do Programa Municipal de Prevenção e Combate à Cisticercose, a ser implantado em todas as escolas e creches do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-03",
+   "published": "2008-06-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14759-de-3-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14760": {
+   "label": "Lei nº 14.760, de 05/06/2008",
+   "title": "DISPOE SOBRE CONCESSAO ADMINISTRATIVA DE USO, AO GOVERNO DO ESTADO DE SAO PAULO, DE IMOVEL MUNICIPAL SITUADO NA RUA AFONSO PENA, DISTRITO DO BOM RETIRO, E DA OUTRAS PROVIDENCIAS.(PL 165/08)",
+   "kind": "law",
+   "enacted": "2008-06-05",
+   "published": "2008-06-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14760-de-5-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14761": {
+   "label": "Lei nº 14.761, de 05/06/2008",
+   "title": "Dispõe sobre a fixação de placa informativa, em estabelecimentos que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-05",
+   "published": "2008-06-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14761-de-5-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14762": {
+   "label": "Lei nº 14.762, de 09/06/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Carnaval de Rua de Guaianases, a ser realizado anualmente na terça-feira de carnaval, a partir das 18 h, na Rua Salvador Gianetti, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-09",
+   "published": "2008-06-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14762-de-09-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14763": {
+   "label": "Lei nº 14.763, de 16/06/2008",
+   "title": "Denomina CEU Butantã - Professora Elizabeth Gaspar Tunala o Centro Educacional Unificado, localizado à Avenida Engenheiro Antônio Eiras Garcia, 1700/1870, Jardim Esmeralda, Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-16",
+   "published": "2008-06-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14763-de-16-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14764": {
+   "label": "Lei nº 14.764, de 18/06/2008",
+   "title": "Denomina Praça Lions Alto da Mooca o logradouro público localizado na Rua do Oratório, altura do nº 2753, codlog 15.034-7, esquina com a Rua Silva Coutinho, codlog 18.175-7 - Alto da Mooca.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14764-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14765": {
+   "label": "Lei nº 14.765, de 18/06/2008",
+   "title": "CONFERE DENOMINACAO AO CENTRO DE ATENCAO PSICOSSOCIAL PARA ADULTOS JACANA/TREMEMBE.(PL 423/06)",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14765-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14766": {
+   "label": "Lei nº 14.766, de 18/06/2008",
+   "title": "Dispõe sobre a proibição do transporte de botijões de gás ou quaisquer outros recipientes contendo material ou líquidos inflamáveis em motocicletas e ciclomotores e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14766-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14767": {
+   "label": "Lei nº 14.767, de 18/06/2008",
+   "title": "Denomina Travessa Cícero Moura dos Santos a viela 12, que começa na Rua Aparecida de Minas e termina na Rua Alto Sucuriú, Distrito da Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14767-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14768": {
+   "label": "Lei nº 14.768, de 18/06/2008",
+   "title": "Denomina Unidade Básica de Saúde/Assistência Médica Ambulatorial Massagista Mário Américo, localizada no bairro do Imirim, Zona Norte do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14768-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14769": {
+   "label": "Lei nº 14.769, de 18/06/2008",
+   "title": "Denomina Praça Manoel Francisco Espíndola o espaço livre delimitado pela Avenida Professor Luiz Ignácio de Anhaia Mello, Rua Coelho Neto e a faixa de transmissão de energia elétrica, situado no Distrito da Vila Prudente, Subprefeitura de Vila Prudente/Sapopemba, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14769-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14770": {
+   "label": "Lei nº 14.770, de 18/06/2008",
+   "title": "DENOMINA CENTRO DE EDUCACAO INFANTIL MARTA TERESINHA GODINHO O CENTRO DE EDUCACAO INFANTIL INOMINADO, LOCALIZADO NA RUA BATUIRA DO CAMPO, 49, DISTRITO DE ERMELINO MATARAZZO, E DA OUTRAS PROVIDENCIAS.(PL 487/07)",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14770-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14771": {
+   "label": "Lei nº 14.771, de 18/06/2008",
+   "title": "DENOMINA TRAVESSA SALVATRICE SALEMI DI MARTINO A TRAVESSA COM INICIO NA AVENIDA AIRTON PRETINI E TERMINO A APROXIMADAMENTE 50 METROS ALEM DA RUA RUI GOMES DE ALMEIDA, SITUADA NO DISTRITO DA PENHA, SUBPREFEITURA DA PENHA, E DA OUTRAS PROVIDENCIAS.(PL 590/07)",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14771-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14772": {
+   "label": "Lei nº 14.772, de 18/06/2008",
+   "title": "Denomina Travessa Emília de Jesus Mazeti o logradouro formado pelas vielas \"1\" e \"2\", que começa na travessa particular sem denominação (codlog 78.041-3) e termina na Rua Maria Balades Correa, situado no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14772-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14773": {
+   "label": "Lei nº 14.773, de 18/06/2008",
+   "title": "Denomina Travessa Luiz Mazeti a travessa particular sem denominação (codlog 78.041-3) que começa na Avenida Ângelo Cristianini, altura do nº 715, e termina a aproximadamente 110 metros além do seu início, situada no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14773-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14774": {
+   "label": "Lei nº 14.774, de 18/06/2008",
+   "title": "Denomina Praça Maria Hecilda Campos Salgado o espaço livre delimitado pela Avenida José Maria Whitaker e a Alameda dos Guaicanãs, que confronta com o lote 0033 do Setor 45 - Quadra 338, situado no Distrito da Saúde, Subprefeitura da Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-06-18",
+   "published": "2008-06-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14774-de-18-de-junho-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2008-14724",
+   "short": "Lei 14724/2008",
+   "title": "Lei nº 14.724, de 15/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14724-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14724",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14724-de-15-de-maio-de-2008",
+     "sha256": "519a70bc86f10e2d3955478999ccd290166be42689620954b7e9a8a16e9502d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.724, DE 15 DE MAIO DE 2008\n(Projeto de Lei nº 327/05, dos Vereadores Soninha - PPS e Paulo Teixeira - PT)\nDispõe sobre a obrigatoriedade de fornecimento gratuito de água potável pelas danceterias, salões de dança e estabelecimentos similares aos seus freqüentadores.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam as danceterias, salões de dança e estabelecimentos similares obrigados a instalar, em suas dependências, em local sinalizado e de fácil acesso, bebedouros de água potável para consumo gratuito dos freqüentadores.\nParágrafo único. O número de bebedouros a ser instalado será proporcional à lotação do estabelecimento, conforme regulamentação a ser feita pelo Poder Executivo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos com lotação superior a 500 (quinhentas) pessoas, calculada de acordo com a Lei nº 11.228, de 25 de junho de 1992, deverão dispor de local e equipamentos adequados para a prestação de primeiros socorros aos freqüentadores.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A emissão de novas licenças de funcionamento, bem como a renovação das licenças já emitidas para os estabelecimentos de que trata o art. 1º, ficarão sujeitas ao atendimento das disposições desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo deverá regulamentar a presente lei, no prazo de 60 (sessenta) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 15 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14725",
+   "short": "Lei 14725/2008",
+   "title": "Lei nº 14.725, de 15/05/2008 (Institui, no âmbito do Município de São Paulo, o Programa de Vacinação Domiciliar de Idosos, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14725-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14725",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14725-de-15-de-maio-de-2008",
+     "sha256": "243a7c1aa8bb3664d72064998e5b998de447bc747a1e7463d75d86dc42e57ffb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.725, DE 15 DE MAIO DE 2008\n(Projeto de Lei nº 353/07, do Vereador Jorge Borges - PP)\nInstitui, no âmbito do Município de São Paulo, o Programa de Vacinação Domiciliar de Idosos, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Programa de Vacinação Domiciliar de Idosos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O programa instituído no art. 1º desta lei será destinado a cidadãos e cidadãs com 60 (sessenta) anos ou mais, nos termos desta lei, que solicitem, por si mesmos, por familiares ou terceiros por eles responsáveis, a aplicação das vacinas nesta lei especificadas no seu próprio domicílio.\nParágrafo único. O direito a que se refere o \"caput\" deste artigo aplica-se exclusivamente aos idosos que comprovadamente estejam impossibilitados de se deslocar até os locais de vacinação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São as seguintes vacinas a serem aplicadas dentro do programa de que trata esta lei:\nI - vacina contra gripe (influenza);\nII - vacina contra pneumonia (pneumococo);\nIII - vacina contra difteria e tétano (dupla adulto - dt);\nIV - vacinas tornadas obrigatórias, eventualmente, por força de lei;\nV - doses de reforço, inclusive de outros tipos de vacina, quando for o caso.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O programa instituído nesta lei poderá ocorrer durante todo o ano, mas sua realização será executada prioritariamente durante o outono ou no período de campanha de vacinação de idosos fixado pelo Poder Público.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei será regulamentada pelo Poder Executivo, no que couber, no prazo máximo de 60 (sessenta) dias, contado de sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 15 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14726",
+   "short": "Lei 14726/2008",
+   "title": "Lei nº 14.726, de 15/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14726-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14726",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14726-de-15-de-maio-de-2008",
+     "sha256": "721a32fad6d544cf8f8e9a423012ccd1aebaf990bf7cfc62738220380850c356",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.726, DE 15 DE MAIO DE 2008\n(Projeto de Lei nº 425/07, do Vereador Ricardo Teixeira - PSDB)\nEstabelece normas para repressão a comercialização e ao consumo de bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos no município de São Paulo, em eventos esportivos profissionais e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É vedado preparar, vender, expor à venda, oferecer, servir, transportar, trazer consigo, guardar, entregar a consumo ou fornecer, ainda que gratuitamente, bebidas alcoólicas nos estádios de futebol e conjuntos poliesportivos no Município de São Paulo no período de 2 horas antes e 1 hora depois dos eventos esportivos profissionais.\n§ 1º (VETADO)\n§ 2º É permitida a comercialização de bebidas não-alcoólicas antes, durante e após os eventos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comercialização de bebidas nos estádios e conjuntos poliesportivos deverá ser feita em copos descartáveis de material reciclável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento ao disposto na presente lei implicará na imposição de multa de R$ 1.000,00 (mil reais), dobrada na reincidência, sendo que, em ocorrendo a terceira ocorrência, será o comerciante penalizado com a cassação do Alvará de Funcionamento e respectiva lacração, ou ainda revogação do TPU (Termo de Permissão de Uso), conforme o caso.\n§ 1º A multa prevista no \"caput\" deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n§ 2º A referida cassação a que se refere o \"caput\" do artigo será precedida de processo administrativo, com direito ao contraditório e a ampla defesa, não podendo tal procedimento ultrapassar o prazo de 30 (trinta) dias de sua instauração.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Aquele que de forma informal cometer qualquer das condutas tipificadas no \"caput\" do art. 1º terá a mercadoria apreendida, devendo ser restituída posteriormente, desde que se comprove a licitude e respectiva propriedade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Executivo regulamentará a presente lei, no que couber, no prazo de 30 (trinta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor 30 (trinta) dias após a sua publicação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 15 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14727",
+   "short": "Lei 14727/2008",
+   "title": "Lei nº 14.727, de 15/05/2008 (Institui, no âmbito do Município de São Paulo, o programa \"Movimentando a Terceira Idade\", e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14727-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14727",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14727-de-15-de-maio-de-2008",
+     "sha256": "901d7a5a32ceca6e93f25459b0e540872e4cdab433fdca8f9662c242c1f53cc3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.727, DE 15 DE MAIO DE 2008\n(Projeto de Lei nº 521/07, do Vereador Ushitaro Kamia - DEMOCRATAS)\nInstitui, no âmbito do Município de São Paulo, o programa \"Movimentando a Terceira Idade\", e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, nos termos fixados nesta lei, o programa \"Movimentando a Terceira Idade\", a ser coordenado pelo Poder Público, mas aberto ao apoio de organizações não-governamentais e da iniciativa privada, e voltado para o incentivo a práticas de atividade física nos equipamentos sob a coordenação da Secretaria de Saúde do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Todos os responsáveis pelos equipamentos de saúde poderão organizar estas atividades dentro do espaço de sua unidade, em outro equipamento público ou em área pública ou privada de seu entorno.\nParágrafo único. Fica o Poder Público Municipal autorizado a criar, manter e ampliar permanentemente uma rede de contratos e convênios com outras esferas de governo, com entidades particulares e com empresas privadas, de modo a assegurar de modo permanente e crescente as vantagens estabelecidas neste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\nV - (VETADO)\nVI - (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei será regulamentada pelo Poder Executivo, no que couber, no prazo máximo de 60 (sessenta) dias, contado de sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 15 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14728",
+   "short": "Lei 14728/2008",
+   "title": "Lei nº 14.728, de 15/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14728-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14728",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14728-de-15-de-maio-de-2008",
+     "sha256": "e9460a95aa3f7abac985420fd6b053d20f76588dfe87ab54cce47d226bfe4fde",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.728 DE 15 DE MAIO DE 2008\n(PROJETO DE LEI Nº 843/07)(VEREADOR SENIVAL MOURA - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa Junina do Escadão, a ser comemorada anualmente nos últimos dois finais de semana do mês de junho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso CXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa Junina do Escadão, festa tradicional que acontece na Rua Professor João de L. Paiva Filho, no Bairro de Guaianases, a ser comemorada anualmente nos últimos dois finais de semana do mês de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias, contados de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 19 de maio de 2008.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 19 de maio de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14729",
+   "short": "Lei 14729/2008",
+   "title": "Lei nº 14.729, de 15/05/2008 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cantor Gospel, a ser comemorado anualmente no dia 27 de agosto, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14729-de-15-de-maio-de-2008",
+   "first_law": "lei-2008-14729",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14729-de-15-de-maio-de-2008",
+     "sha256": "7dd58bcb90bb038386950a8691c2f55c732f5b2663e135d00504eb5d2418e7ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.729 DE 15 DE MAIO DE 2008\n(PROJETO DE LEI Nº 858/07)(VEREADORA NOEMI NONATO - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cantor Gospel, a ser comemorado anualmente no dia 27 de agosto, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso CLXX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cantor Gospel, a ser comemorado anualmente no dia 27 de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias, contados de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 19 de maio de 2008.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 19 de maio de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14731",
+   "short": "Lei 14731/2008",
+   "title": "Lei nº 14.731, de 20/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14731-de-20-de-maio-de-2008",
+   "first_law": "lei-2008-14731",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14731-de-20-de-maio-de-2008",
+     "sha256": "7970cf3aa212e9b03b7131616ec87063a1c7f83a79367b441afd942a021cd4c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.731, DE 20 DE MAIO DE 2008\n(Projeto de Lei nº 748/02, do Vereador Carlos Neder - PT)\nInstitui a Feira Municipal de Economia Solidária - ECOSOL e as Feiras Regionais de Economia Solidária das Subprefeituras - ECOSOL REGIONAIS, no Município de São Paulo e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Feira Municipal de Economia Solidária - ECOSOL, no Município de São Paulo, com o objetivo de estimular, divulgar e propiciar a comercialização e troca de bens, produtos e serviços que se originam de empreendimentos econômicos solidários.\nParágrafo único. Para efeito desta lei, entende-se por empreendimentos econômicos solidários as organizações:\na) coletivas e que atuam no âmbito das ações de economia solidária, incluindo organizações suprafamiliares, singulares e complexas, tais como associações, cooperativas, empresas autogestionárias, grupos de produção, clubes de trocas, redes e centrais;\nb) cujos participantes ou sócios são trabalhadores dos meios urbano e rural e que exercem coletivamente a gestão das atividades e dos resultados alcançados;\nc) permanentes, incluindo os empreendimento que estão em funcionamento e aqueles em processo de implantação, com o grupo de participantes constituído e as atividades econômicas definidas;\nd) com diversos graus de formalização, ainda que nesse estágio de incubação prevaleça a existência real sobre o registro legal; e\ne) que realizem atividades econômicas de produção de bens, de prestação de serviços, de fundos de crédito (cooperativas de crédito e fundos rotativos populares), de comercialização (compra, venda e troca de insumos, produtos e serviços) e de consumo solidário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam instituídas as Feiras de Economia Solidária das Subprefeituras do Município de São Paulo - ECOSOL REGIONAIS, com o objetivo de estimular, divulgar e propiciar a comercialização e troca de bens, produtos e serviços que se originam de empreendimentos econômicos solidários, no âmbito de cada Subprefeitura do Município de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os objetivos da Feira Municipal de Economia Solidária e das Feiras de Economia Solidária das Subprefeituras são:\nI - estimular as iniciativas de economia solidária no âmbito do Município e de cada Subprefeitura;\nII - divulgar as iniciativas de economia solidária no âmbito do Município e de cada Subprefeitura;\nIII - propiciar espaços para comercialização e troca de bens, produtos e serviços produzidos por empreendimentos econômicos solidários;\nIV - propiciar espaços para a divulgação dos programas públicos municipais destinados à geração de emprego, trabalho e renda, desenvolvimento loco-regional, fornecimento de microcrédito, incubação de empreendimentos econômicos solidários, recuperação de empresas e condomínios de coletivos de trabalhadores, inclusão de trabalhadores em empreendimentos econômicos solidários e intermediação de negócios;\nV - propiciar espaços para a divulgação das atividades das entidades de apoio, assessoria e fomento à economia solidária e outras organizações não-governamentais que atuam em economia solidária;\nVI - propiciar espaços para a realização de feiras de clubes de trocas;\nVII - garantir a difusão dos conceitos, princípios e fundamentos da economia solidária na sociedade.\nParágrafo único. Para efeito desta lei, são consideradas entidades de apoio, assessoria e fomento à economia solidária aquelas organizações que desenvolvem ações nas várias modalidades de apoio direto junto aos empreendimentos econômicos solidários, tais como capacitação, assessoria, incubação, assistência técnica, apoio organizativo e acompanhamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica assegurada a participação de representantes do Poder Público Municipal na Comissão Organizadora da Feira Municipal de Economia Solidária e das Feiras de Economia Solidária das Subprefeituras.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Na Comissão Organizadora das respectivas feiras fica assegurada a participação de representantes de entidades da sociedade civil, de empreendimentos econômicos solidários, de redes locais de economia solidária, de entidades de apoio, assessoria e fomento à economia solidária, de incubadoras tecnológicas, de escolas técnicas, de universidades, de igrejas, de sindicatos, de centrais sindicais e de parlamentares organizados em fóruns de economia solidária.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Fica facultada à Comissão Organizadora da Feira Municipal de Economia Solidária e das Feiras de Economia Solidária das Subprefeituras a autorização para participação de iniciativas de economia solidária de outros municípios nos eventos mencionados.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A Feira Municipal de Economia Solidária passa a compor o Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Poder Executivo Municipal propiciará o apoio logístico para a organização, instalação e divulgação da Feira Municipal de Economia Solidária e das Feiras de Economia Solidária das Subprefeituras.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Poder Executivo Municipal poderá receber o aporte de recursos de instituições públicas ou privadas interessadas em financiar as referidas Feiras.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. (VETADO)\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. As despesas decorrentes da aplicação da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta lei será regulamentada no prazo de 60 dias, contados da sua publicação.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 20 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14732",
+   "short": "Lei 14732/2008",
+   "title": "Lei nº 14.732, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14732-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14732",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14732-de-28-de-maio-de-2008",
+     "sha256": "c6699f17d6dee45e16e5c3e147cffae227c624c36941ffefa2e10f3fb0d3e851",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.732, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 249/05, do Vereador Claudinho - PSDB)\nDispõe sobre a obrigatoriedade de instalação de selo de garantia nas embalagens de alimentos para pronta entrega no Município de São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam as pizzarias, restaurantes e demais empresas que fazem entrega de alimentos para consumo imediato obrigadas a usarem selo de garantia ou lacre destrutível nas embalagens de entrega.\n§ 1º O selo de garantia ou lacre destrutível de que trata o \"caput\" deste artigo é aquele que não pode ser removido, é o lacre inviolável.\n§ 2º O selo de garantia ou lacre destrutível deve conter a informação que se o lacre estiver violado, o produto deverá ser devolvido.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Aos infratores desta lei será aplicada a multa de R$ 500,00 (quinhentos reais), dobrada em caso de reincidência, devendo este valor ser reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes desta lei correrão por conta das dotações consignadas no orçamento, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14733",
+   "short": "Lei 14733/2008",
+   "title": "Lei nº 14.733, de 28/05/2008 (DENOMINA UNIDADE BASICA DE SAUDE JACANA - DR. SEBASTIAO GABRIEL SAYAGO DE LAET A UNIDADE BASICA DE SAUDE JACANA. (PL 494/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14733-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14733",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14733-de-28-de-maio-de-2008",
+     "sha256": "1e6c50d2c81d52e6108559bb2f47962c484ee26cea89366096182bef30186de2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.733, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 494/06, do Vereador Ushitaro Kamia - DEM)\nDenomina Unidade Básica de Saúde Jaçanã - Dr. Sebastião Gabriel Sayago de Laet a Unidade Básica de Saúde Jaçanã.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Unidade Básica de Saúde Jaçanã - Dr. Sebastião Gabriel Sayago de Laet a Unidade Básica de Saúde Jaçanã, situada na Rua São Geraldino, 222, bairro de Vila Constança, Subprefeitura de Tremembé/Jaçanã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14734",
+   "short": "Lei 14734/2008",
+   "title": "Lei nº 14.734, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14734-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14734",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14734-de-28-de-maio-de-2008",
+     "sha256": "9d5599d97cff3107bd62d94c81e67e33b367e9d037996e9846efeff899622f46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.734, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 476/07, do Vereador Donato - PT)\nDenomina Praça Augusto Braz o espaço livre delimitado pela Rua Amadeu Pagnanelli, situado no Distrito do Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Augusto Braz o espaço livre delimitado pela Rua Amadeu Pagnanelli (Setor 101 - Quadras 92, 542 e 613), situado no Distrito do Rio Pequeno, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14735",
+   "short": "Lei 14735/2008",
+   "title": "Lei nº 14.735, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14735-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14735",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14735-de-28-de-maio-de-2008",
+     "sha256": "7bc511eb3b3dade6752ef47ed3fceb9cb3c347e04c5f300dcc32ae475594149e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.735, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 494/07, do Vereador Carlos Neder - PT)\nDenomina Praça Edson da Silva o espaço livre localizado entre as ruas Frei Luís Beltrão e Benjamim Vill (Setor 165 - Quadra 250), Distrito do Jardim São Luís, Subprefeitura de M'Boi Mirim, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Edson da Silva o espaço livre localizado entre as ruas Frei Luís Beltrão e Benjamim Vill (Setor 165 - Quadra 250), Distrito do Jardim São Luís, Subprefeitura de M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14736",
+   "short": "Lei 14736/2008",
+   "title": "Lei nº 14.736, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14736-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14736",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14736-de-28-de-maio-de-2008",
+     "sha256": "88b235f5110a227bae40b13ae93a20e5e36346328248b71e5209129a77771aed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.736, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 509/07, do Vereador Adilson Amadeu - PTB)\nDenomina Praça Antonio Benedito Escame o espaço livre sem denominação delimitado pelas avenidas Engenho Novo e Riacho dos Machados e pela Rua Lanhoso, no Distrito de São Mateus, Subprefeitura de São Mateus.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Praça Antonio Benedito Escame o espaço livre sem denominação delimitado pelas avenidas Engenho Novo e Riacho dos Machados e pela Rua Lanhoso (Setor 149 - Quadras 174, 184, 226 e 227), no Distrito de São Mateus, Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14737",
+   "short": "Lei 14737/2008",
+   "title": "Lei nº 14.737, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14737-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14737",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14737-de-28-de-maio-de-2008",
+     "sha256": "44829ed7d2669f9fa88f5228093ea2297512972cc3aa6ef30e2ebc8e7498d296",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.737, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 536/07, do Vereador Cláudio Prado - PDT)\nDenomina Travessa Ana Rosa Moreira da Silva a rua particular \"E\", que começa na Rua São João do Cariri e termina a aproximadamente 54 metros além de seu início, situada no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Ana Rosa Moreira da Silva a rua particular \"E\", que começa na Rua São João do Cariri e termina a aproximadamente 54 metros além de seu início (Setor 114 - Quadra 298), situada no Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14738",
+   "short": "Lei 14738/2008",
+   "title": "Lei nº 14.738, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14738-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14738",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14738-de-28-de-maio-de-2008",
+     "sha256": "e0ad40bcabecd16e625aed115ed28fc7458df203100e98984d8aebd84ccf27cc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.738, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 548/07, do Vereador Adilson Amadeu - PTB)\nDenomina Praça Olga Zadra o espaço livre delimitado pela Avenida Luiz Ignácio Anhaia Mello e pelas ruas Dr. Moraes do Rego e Francisco Polito, situado no Distrito de Vila Prudente, Subprefeitura de Vila Prudente/Sapopemba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Olga Zadra o espaço livre delimitado pela Avenida Luiz Ignácio Anhaia Mello e pelas ruas Dr. Moraes do Rego e Francisco Polito (Setor 100 - Quadra 106), situado no Distrito de Vila Prudente, Subprefeitura de Vila Prudente/Sapopemba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14739",
+   "short": "Lei 14739/2008",
+   "title": "Lei nº 14.739, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14739-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14739",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14739-de-28-de-maio-de-2008",
+     "sha256": "dc97266b4bfbee061512cbcab154edb9bbc3793584e7d84c588bd7c09fe1eb08",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.739, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 575/07, do Vereador Adolfo Quintas - PSDB)\nDenomina Rua Durvalina Alexandre Machado a rua conhecida como Rua Um Particular, situada na Travessa da Rua Malmequer do Campo, no bairro Gleba do Pêssego, Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Durvalina Alexandre Machado a rua conhecida como Rua Um Particular, situada na Travessa da Rua Malmequer do Campo, no bairro Gleba do Pêssego, Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14740",
+   "short": "Lei 14740/2008",
+   "title": "Lei nº 14.740, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14740-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14740",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14740-de-28-de-maio-de-2008",
+     "sha256": "ac3897dc14cc0f50664eba7be50e53279b73c0a22c9eb9b3d1d3935d8c2f5e80",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.740, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 592/07, do Vereador Natalini - PSDB)\nDenomina Praça José Silva Campos o espaço livre sem denominação delimitado pelas ruas Humberto de Queirós, Heribaldo Siciliano, Abílio Marques e Travessa Domenico Ronconi (Setor 88 - Quadra 204), Distrito do Campo Grande, Subprefeitura de Santo Amaro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Silva Campos o espaço livre sem denominação delimitado pelas ruas Humberto de Queirós, Heribaldo Siciliano, Abílio Marques e Travessa Domenico Ronconi (Setor 88 - Quadra 204), Distrito do Campo Grande, Subprefeitura de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14741",
+   "short": "Lei 14741/2008",
+   "title": "Lei nº 14.741, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14741-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14741",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14741-de-28-de-maio-de-2008",
+     "sha256": "f9168ed457511a17c5cb12b8c0e91edb638c6f663b0710dfa2188be21c36a7d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.741, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 596/07, do Vereador João Antonio - PT)\nDenomina Praça Moleque Travesso o espaço livre delimitado pelas ruas Raia e Itauçu, Distrito de Sapopemba, Subprefeitura de Vila Prudente/Sapopemba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Moleque Travesso o espaço livre delimitado pelas ruas Raia e Itauçu (Setor 154 - Quadras 111 e 119), Distrito de Sapopemba, Subprefeitura de Vila Prudente/Sapopemba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14742",
+   "short": "Lei 14742/2008",
+   "title": "Lei nº 14.742, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14742-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14742",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14742-de-28-de-maio-de-2008",
+     "sha256": "e7be33ad73ac1dbbc95cc14ce3f4c25c03df25a41f5b179a7e7e7b5d19c96096",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.742, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 599/07, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Benedito Pascheti o espaço público inominado situado entre as ruas Robespierre de Melo e Bernardo de Sousa, Distrito de Vila Jacuí, Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Praça Benedito Pascheti o espaço público inominado situado entre as ruas Robespierre de Melo e Bernardo de Sousa (Setor 112 - Quadra 325), Distrito de Vila Jacuí, Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14743",
+   "short": "Lei 14743/2008",
+   "title": "Lei nº 14.743, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14743-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14743",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14743-de-28-de-maio-de-2008",
+     "sha256": "fcbf64b7b14e1894f5cdc117c5e8ad63471d2058b31149cac66e0480c985c4f7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.743, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 601/07, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Annibal do Nascimento o espaço livre localizado na confluência da Avenida Inajar de Souza com a Rua Guarataia, Distrito do Limão, Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Annibal do Nascimento o espaço livre localizado na confluência da Avenida Inajar de Souza com a Rua Guarataia, Distrito do Limão, Subprefeitura da Casa Verde/Cachoeirinha (Setor 76 - Quadra 317).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14744",
+   "short": "Lei 14744/2008",
+   "title": "Lei nº 14.744, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14744-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14744",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14744-de-28-de-maio-de-2008",
+     "sha256": "e52a92393284e6e2106cb310359d006b8e878532b4d47578563a61ca8f6c8a82",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.744, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 611/07, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Travessa Maria da Conceição Silva a Travessa Particular sem denominação que começa na Rua Públio Pimentel e termina aproximadamente 82 (oitenta e dois) metros além do seu início, no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Maria da Conceição Silva a Travessa Particular sem denominação que começa na Rua Públio Pimentel e termina aproximadamente 82 (oitenta e dois) metros além do seu início, no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar (CADLOG 59.188-2).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14745",
+   "short": "Lei 14745/2008",
+   "title": "Lei nº 14.745, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14745-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14745",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14745-de-28-de-maio-de-2008",
+     "sha256": "e912cf68b949c7fc7045299523bbf371a7ec2a03f8b959a67aa6517ea9549781",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.745, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 620/07, do Vereador Russomanno - PP)\nDenomina Praça Zé Kéti o espaço livre delimitado pela confluência da Rua Mário Nogueira com a Rua Frei Fidelis Mota, Distrito de Vila Jacuí, Subprefeitura de São Miguel Paulista, e dá providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Zé Kéti o espaço livre delimitado pela confluência da Rua Mário Nogueira com a Rua Frei Fidelis Mota (Setor 112 - Quadras 306 e 307), Distrito de Vila Jacuí, Subprefeitura de São Miguel Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14746",
+   "short": "Lei 14746/2008",
+   "title": "Lei nº 14.746, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14746-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14746",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14746-de-28-de-maio-de-2008",
+     "sha256": "50e5e19499d7604681854eafa9884e9341a942ce720291f3c44368860a3f34e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.746, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 654/07, do Vereador Aurélio Miguel - PR)\nDenomina Praça Tenente Oscar Pereira Monteiro os espaços livres \"2M\" e \"6M\" sem denominação, delimitados pelas ruas Ambrosina Nunes Ferreira, José Filipe da Silva, Brasiliano Barcelos e Luís Tosta Nunes, no Distrito do Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Tenente Oscar Pereira Monteiro o conjunto dos espaços livres \"2M\" e \"6M\", sem denominação, delimitados pelas ruas Ambrosina Nunes Ferreira, José Filipe da Silva, Brasiliano Barcelos e Luís Tosta Nunes (Setor 159 - Quadra 77 e Setor 160 - Quadra 242), no Distrito do Rio Pequeno, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14747",
+   "short": "Lei 14747/2008",
+   "title": "Lei nº 14.747, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14747-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14747",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14747-de-28-de-maio-de-2008",
+     "sha256": "3f8e97ad4c75993f960192479c157b22136be3ecef7f2e7c3ed56e23c910dcd3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.747, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 668/07, do Vereador Abou Anni - PV)\nDenomina Travessa Oswaldo Mazeti a viela 1, que começa na travessa particular sem denominação entre a Avenida Ângelo Cristianini e o logradouro formado pelas vielas 1 e 2 e termina aproximadamente 50 metros além do seu início, localizada no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Oswaldo Mazeti a viela 1, que começa na travessa particular sem denominação (Codlog 78.041-3) entre a Avenida Ângelo Cristianini e o logradouro formado pelas vielas 1 e 2 (Codlog 76.709-3) e termina aproximadamente 50 metros além do seu início (Setor 172 - Quadra 65), situada no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14748",
+   "short": "Lei 14748/2008",
+   "title": "Lei nº 14.748, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14748-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14748",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14748-de-28-de-maio-de-2008",
+     "sha256": "090bef8cbb65d9cf0556e172ed508f35784387e8f02695bc0c10d565e277ab8a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.748, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 669/07, do Vereador Abou Anni - PV)\nDenomina Travessa Manoel Teixeira de Oliveira a viela sem denominação que começa na TVP sem denominação (78.041-3), entre o logradouro formado pelas Vielas 1 e 2 (76.709-3) e divisa de lotes, terminando aproximadamente a cinqüenta metros além de seu início, no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Manoel Teixeira de Oliveira a viela sem denominação que começa na TVP sem denominação (78.041-3), entre o logradouro formado pelas Vielas 1 e 2 (76.709-3) e divisa de lotes, terminando aproximadamente a cinqüenta metros além de seu início (Setor 172 - Quadra 65), no Distrito de Cidade Ademar, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14749",
+   "short": "Lei 14749/2008",
+   "title": "Lei nº 14.749, de 28/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14749-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14749",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14749-de-28-de-maio-de-2008",
+     "sha256": "aa91adf915f012ca8c01ebb3b117ea92c9f69a867fe947fd24baf2d5945c7b5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.749, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 726/07, do Vereador Russomanno - PP)\nDenomina Praça Zilka Salaberry o espaço livre sem nome, delimitado pela Rua Baía dos Pássaros e por lotes particulares, situado no Distrito do Jaçanã, Subprefeitura do Tremembé/Jaçanã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Zilka Salaberry o espaço livre sem nome, delimitado pela Rua Baía dos Pássaros e por lotes particulares (Setor 66 - Quadra 315), situado no Distrito do Jaçanã, Subprefeitura do Tremembé/Jaçanã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14750",
+   "short": "Lei 14750/2008",
+   "title": "Lei nº 14.750, de 28/05/2008 (Dispõe sobre a criação do Parque Municipal de Paraisópolis e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14750-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14750",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14750-de-28-de-maio-de-2008",
+     "sha256": "cec12e4b6428bf47a9fd675b56631c22c32c0226f02008367e789a27be42118a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.750, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 75/08, do Vereador José Rolim - PSDB)\nDispõe sobre a criação do Parque Municipal de Paraisópolis e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Parque Municipal de Paraisópolis, situado na área pública localizada na Rua Silveira Sampaio com a Rua David Pimentel, no Distrito de Campo Limpo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo regulamentará a presente lei no prazo de 30 (trinta) dias, contados a partir de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14751",
+   "short": "Lei 14751/2008",
+   "title": "Lei nº 14.751, de 28/05/2008 (Dispõe sobre a implantação de Programa de Restrição ao Trânsito de Veículos Automotores Pesados, do tipo caminhão, no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14751-de-28-de-maio-de-2008",
+   "first_law": "lei-2008-14751",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14751-de-28-de-maio-de-2008",
+     "sha256": "67278fe5d442512be757247a0fadcc067876eed659776503300c02bdc6f7bc2a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.751, DE 28 DE MAIO DE 2008\n(Projeto de Lei nº 148/08, dos Vereadores Jooji Hato - PMDB e Myryam Athie - PDT)\nDispõe sobre a implantação de Programa de Restrição ao Trânsito de Veículos Automotores Pesados, do tipo caminhão, no Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica implantado, em caráter experimental, o Programa de Restrição ao Trânsito de Veículos Automotores Pesados, do tipo caminhão, no Município de São Paulo.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A restrição ao trânsito não se aplicará aos seguintes veículos pesados do tipo caminhão:\nI - guinchos;\nII - outros, empregados em serviços essenciais e de emergência, conforme definido em regulamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A inobservância da restrição objeto do programa de que trata esta lei acarretará a aplicação da penalidade correspondente, prevista no Código Nacional de Trânsito - CNT.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Caberá ao Diretor do Departamento de Operação do Sistema Viário - DSV, da Secretaria Municipal de Transportes - SMT, fiscalizar, com a participação da Companhia de Engenharia de Tráfego - CET e do Comando de Policiamento de Trânsito - CPTran, o cumprimento da restrição imposta e aplicar a penalidade cabível.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Poderá ocorrer celebração de convênios com órgãos ou entidades federais, estaduais ou municipais, objetivando o pleno cumprimento das determinações desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os resultados técnicos obtidos deverão ser publicados anualmente no Diário Oficial.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Decorrido o prazo de 6 (seis) meses, o Executivo, mediante avaliação técnica ou pesquisa à população, verificará a necessidade de dar continuidade, ser cancelado ou alterado o presente controle de restrição ao trânsito de veículos automotores pesados, do tipo caminhão.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º No caso de ocorrências extraordinárias, a juízo do Poder Executivo, as restrições previstas nesta lei poderão sofrer alterações ou ser suspensas pelo prazo máximo de 180 (cento e oitenta) dias, conforme regulamentação do Executivo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Executivo regulamentará esta lei no prazo de 30 (trinta) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As despesas decorrentes da aplicação desta lei correrão por conta das dotações próprias.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14752",
+   "short": "Lei 14752/2008",
+   "title": "Lei nº 14.752, de 29/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14752-de-29-de-maio-de-2008",
+   "first_law": "lei-2008-14752",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-01-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14752-de-29-de-maio-de-2008",
+     "sha256": "c785fdb7cd81433bdbfd931f6da1b73014a5869cc6ee2cbcfac638d3cbcc92dd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.752, DE 29 DE MAIO DE 2008\n(Projeto de Lei nº 249/06, do Vereador Aurélio Nomura - PV)\nAltera a Lei nº 13.478, de 30 de dezembro de 2002, que dispõe sobre a organização do Sistema de Limpeza Urbana do Município de São Paulo, para majorar a pena de multa prevista em seu Anexo VI para o inciso IV de seu art. 169, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O valor da pena de multa prevista no Anexo VI da Lei nº 13.478, de 30 de dezembro de 2002, para o inciso IV de seu art. 169, passa a ser de R$ 250,00 (duzentos e cinqüenta reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14753",
+   "short": "Lei 14753/2008",
+   "title": "Lei nº 14.753, de 29/05/2008 (Inclui os arts. 4º-A e 4º-B na Lei nº 12.363, de 13 de junho de 1997, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14753-de-29-de-maio-de-2008",
+   "first_law": "lei-2008-14753",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14753-de-29-de-maio-de-2008",
+     "sha256": "3d5150a6e81dbf763dba94e89b2560b8cb87110919a8e18f5e12cd35d572f470",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.753, DE 29 DE MAIO DE 2008\n(Projeto de Lei nº 696/06, do Vereador Claudinho - PSDB)\nInclui os arts. 4º-A e 4º-B na Lei nº 12.363, de 13 de junho de 1997, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam incluídos os arts. 4º-A e 4º-B na Lei nº 12.363, de 13 de junho de 1997, com a seguinte redação:\n\"Art. 4º-A. Aos infratores desta lei será aplicada a multa de R$ 500,00 (quinhentos reais), dobrada em caso de reincidência, devendo este valor ser reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0004-b": {
+       "label": "Art. 4º-B",
+       "kind": "article",
+       "text": "Art. 4º-B. Os estabelecimentos terão prazo de 90 (noventa) dias, contados a partir da publicação da presente lei, para adequarem seus cardápios.\"\nArt. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nArt. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14754",
+   "short": "Lei 14754/2008",
+   "title": "Lei nº 14.754, de 29/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14754-de-29-de-maio-de-2008",
+   "first_law": "lei-2008-14754",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14754-de-29-de-maio-de-2008",
+     "sha256": "d3554800c48e378e2b4d82625a882ac77e14f1cabecd96f4a476d6d7d5796eb0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.754, DE 29 DE MAIO DE 2008\n(Projeto de Lei nº 428/07, do Vereador Carlos Alberto Bezerra Jr. - PSDB)\nDenomina Praça Antonio Donizetti Risso o espaço livre delimitado pelas ruas Confederação dos Tamoios, Felipa Gago, Barros Penteado, Oscar Muller e Cubas de Mendonça, Distrito do Iguatemi, Subprefeitura de São Mateus, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Praça Antonio Donizetti Risso o espaço livre delimitado pelas ruas Confederação dos Tamoios, Felipa Gago, Barros Penteado, Oscar Muller e Cubas de Mendonça (Setor 194 - Quadras 82, 156, 157, 158, 159, 160 e 163), excetuando-se a área ocupada pela EMEF Profª Dirce Genésio dos Santos, situado no Distrito do Iguatemi, Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14755",
+   "short": "Lei 14755/2008",
+   "title": "Lei nº 14.755, de 29/05/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14755-de-29-de-maio-de-2008",
+   "first_law": "lei-2008-14755",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14755-de-29-de-maio-de-2008",
+     "sha256": "fb4b0a8e1d82280679c8fb352930c102c6e746f4e35b3cb77f27eefda5f05307",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.755, DE 29 DE MAIO DE 2008\n(Projeto de Lei nº 621/07, do Vereador Russomanno - PP)\nDenomina Praça Sandra Bréa espaço livre delimitado, confluência da Rua Jorge Tibiriçá com a Rua Manuel de Morais, no Setor 042, Quadra 061, no Distrito de Vila Mariana, Subprefeitura de Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Sandra Bréa espaço livre delimitado, confluência da Rua Jorge Tibiriçá com a Rua Manuel de Morais, no Setor 042, Quadra 061, Distrito de Vila Mariana, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14756",
+   "short": "Lei 14756/2008",
+   "title": "Lei nº 14.756, de 29/05/2008 (Cria o Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14756-de-29-de-maio-de-2008",
+   "first_law": "lei-2008-14756",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-05-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14756-de-29-de-maio-de-2008",
+     "sha256": "132ed876687f2e803e2b6e5ed1b9eed1ee4eb8bb78949eade7bcd875f5abb465",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.756, DE 29 DE MAIO DE 2008\n(Projeto de Lei nº 297/05, do Vereador Farhat - PTB)\nCria o Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de abril de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo destina-se a reunir, catalogar, conservar, estudar, interpretar e expor documentos, objetos, materiais históricos, literários, artísticos, fotográficos, gastronômicos, ou qualquer forma de expressão que contribua para a preservação, divulgação e valorização desses meios de comunicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para sede do Museu, a administração poderá designar local específico, desde que suas instalações sejam adequadas para este fim.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Poderão concorrer para formação e implantação do Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo associações, pessoas jurídicas e físicas que tenham ligações com o meio televisivo ou quem queira contribuir de qualquer forma para a sua implantação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para a consecução dos seus objetivos, o Museu do Rádio, da Televisão e novas Mídias da Cidade de São Paulo poderá, além de suas missões funcionais, também:\nI - constituir centro de estudos e pesquisas com intuito de formar acervo do Museu que focalizem assunto de suas finalidades;\nII - formar banco de dados destinado a registrar e manter à disposição de interessados acerca do acervo existente no Museu;\nIII - realizar conferências científicas e educativas, palestras e demonstrações a respeito do desenvolvimento da televisão na Cidade de São Paulo;\nIV - incentivar e promover a publicação de teses, monografias, revistas e impressos de divulgação popular inerentes aos objetivos básicos do Museu, através de um Centro Editorial;\nV - programar exposições e mostras especializadas que focalizem assuntos de suas finalidades;\nVI - celebrar convênios e acordos com entidades congêneres, públicas ou privadas, nacionais ou internacionais; e\nVII - instalar e desenvolver biblioteca, discoteca, videoteca e cinemateca especializadas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão, também, por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de maio de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de maio de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14757",
+   "short": "Lei 14757/2008",
+   "title": "Lei nº 14.757, de 04/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14757-de-04-de-junho-de-2008",
+   "first_law": "lei-2008-14757",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14757-de-04-de-junho-de-2008",
+     "sha256": "ab5ce671954da235ea4794d8d17ed770402367969f563f7e4850a78c4eb50c59",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.757 DE 30 DE MAIO DE 2008\n(PROJETO DE LEI Nº 273/07)(VEREADORA CLAUDETE ALVES - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Municipal da Pessoa com Deficiência e Mobilidade Reduzida, a ser realizada anualmente de 21 a 28 de agosto, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CLXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, incluindo a Semana Municipal da Pessoa com Deficiência e Mobilidade Reduzida, a ser realizada anualmente de 21 a 28 de agosto, com os seguintes objetivos: estimular ações educativas, relativas às especificidades deste segmento; promover debates sobre políticas públicas voltadas à atenção integral da pessoa com deficiência e mobilidade reduzida; apoiar os portadores de necessidades especiais e seus familiares e mantenedores; sensibilizar todos os setores da sociedade para que compreendam e se solidarizem com os portadores de necessidades especiais, combatendo qualquer forma de discriminação e informar os avanços técnico-científicos relacionados à educação e inclusão social dos portadores de necessidades especiais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 02 de junho de 2008.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 02 de junho de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14758",
+   "short": "Lei 14758/2008",
+   "title": "Lei nº 14.758, de 03/06/2008 (INSTITUI A CAMPANHA PERMANENTE DE EDUCACAO POSTURAL NAS ESCOLAS DE ENSINO FUNDAMENTAL NO MUNICIPIO E DA OUTRAS PROVIDENCIAS. (PL 326/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14758-de-3-de-junho-de-2008",
+   "first_law": "lei-2008-14758",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14758-de-3-de-junho-de-2008",
+     "sha256": "085b4ed6f60403adcec3b8add528efc8c6873693eb70ccd50035e04fcc317c2d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.758, DE 3 DE JUNHO DE 2008\n(Projeto de Lei nº 326/06, do Vereador Russomanno - PP)\nInstitui a Campanha Permanente de Educação Postural nas Escolas de Ensino Fundamental no Município e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Permanente de Educação Postural nas Escolas de Ensino Fundamental no Município.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo poderá estabelecer parcerias e convênios com entidades públicas e privadas, pessoas físicas e jurídicas, que atuem ou tenham comprometimento com a questão da educação postural, desde que cadastradas nos órgãos competentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 3 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14759",
+   "short": "Lei 14759/2008",
+   "title": "Lei nº 14.759, de 03/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14759-de-3-de-junho-de-2008",
+   "first_law": "lei-2008-14759",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14759-de-3-de-junho-de-2008",
+     "sha256": "665ee4e42fb388a8a42f94c2173317d4713013cf55a72d90360a6dc417cbad48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.759, DE 3 DE JUNHO DE 2008\n(Projeto de Lei nº 684/06, da Vereadora Myryam Athie - PDT)\nDispõe sobre a criação do Programa Municipal de Prevenção e Combate à Cisticercose, a ser implantado em todas as escolas e creches do Município de São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de São Paulo o Programa Municipal de Prevenção e Combate à Cisticercose, a ser implantado em todas as escolas e creches do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa consiste em demonstrar às crianças e adolescentes os cuidados simples de como evitar a contaminação da tênia suína, podendo levar a quadros convulsivos e epilepsia.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão pelas dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 3 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14760",
+   "short": "Lei 14760/2008",
+   "title": "Lei nº 14.760, de 05/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14760-de-5-de-junho-de-2008",
+   "first_law": "lei-2008-14760",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14760-de-5-de-junho-de-2008",
+     "sha256": "3b05847a7c0b15962f8e6fdc9244c28c5a0c02cf846ad5a0764eb451716a206e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.760, DE 5 DE JUNHO DE 2008\n(Projeto de Lei nº 165/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre concessão administrativa de uso, ao Governo do Estado de São Paulo, de imóvel municipal situado na Rua Afonso Pena, Distrito do Bom Retiro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de maio de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a conceder ao Governo do Estado de São Paulo, por intermédio da Secretaria da Segurança Pública, o uso do imóvel de propriedade municipal situado na Rua Afonso Pena, esquina com a Rua Ribeiro de Lima, a título gratuito, independentemente de concorrência pública, nos termos do disposto no art. 114, § 2º, da Lei Orgânica do Município de São Paulo, e pelo prazo de 50 (cinqüenta) anos, prorrogáveis por igual período, para o fim específico de implantação da nova sede do Centro de Operações da Polícia Militar do Estado de São Paulo - COPOM.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no art. 1º, configurada na planta anexa A-14.708/01 do arquivo do Departamento Patrimonial, rubricada pelo Prefeito e pelo Presidente da Câmara como parte integrante desta lei, delimitada pelo perímetro 1-6-7-8-9-4-5-1, de formato irregular, com 3.335,37 m² (três mil, trezentos e trinta e cinco metros e trinta e sete decímetros quadrados), assim se descreve, para quem de dentro da área olha para a Rua Afonso Pena: pela frente, linha 1-6, medindo 61,22 m, confrontando com o alinhamento da Rua Afonso Pena; pelo lado direito, linha 6-7-8-9, medindo 58,44 m, formada pelos segmentos de reta 6-7, medindo 38,73 m, 7-8, medindo 8,00 m, e 8-9, medindo 11,71 m, confrontando em toda a extensão com área municipal; pelo lado esquerdo, linha 4-5-1, medindo 51,51 m, formada pelos segmentos de reta 4-5, medindo 47,86 m, confrontando com a Rua Ribeiro de Lima, e 5-1, medindo 3,65 m, na confluência das Ruas Ribeiro de Lima e Afonso Pena; pelos fundos, linha reta 4-9, medindo 71,80 m, confrontando com o Lote Fiscal nº 4, da Quadra Fiscal 63 do Setor 18.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Além de outras obrigações que forem exigidas pela Prefeitura por ocasião da lavratura do instrumento de concessão de uso, na salvaguarda dos interesses municipais, fica o concessionário obrigado a:\nI - não utilizar a área para fins diversos do estabelecido no art. 1º desta lei, bem como não cedê-la, no todo ou em parte, a terceiros, seja a que título for;\nII - não realizar quaisquer obras ou benfeitorias, sem prévia aprovação dos órgãos técnicos da Prefeitura, devendo o projeto atender às restrições de uso e ocupação do solo previstas nas Leis nº 13.430, de 13 de setembro de 2002, e nº 13.885, de 25 de agosto de 2004, e demais normas edilícias pertinentes;\nIII - apresentar para aprovação dos órgãos técnicos da Prefeitura, no prazo máximo de 6 (seis) meses, a partir da lavratura do competente instrumento de concessão de uso, os projetos e memoriais da edificação a ser executada;\nIV - zelar pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, as obras, inclusive de manutenção, que se fizerem necessárias;\nV - arcar com todas as despesas decorrentes da concessão de uso prevista nesta lei, inclusive as relativas à lavratura e registro do competente instrumento;\nVI - afixar e manter, no acesso ao imóvel e em lugar de perfeita visibilidade, placa informativa sobre a propriedade do bem e as condições de sua ocupação, nos termos da Lei nº 13.239, de 10 de dezembro de 2001, e respectiva regulamentação;\nVII - não permitir que terceiros se apossem do imóvel, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verificar.\nParágrafo único. A reforma ou alteração da edificação existente no local, tombada pelo Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo - CONPRESP, fica sujeita à expressa autorização daquele Conselho, devendo o concessionário apresentar o respectivo projeto arquitetônico, sem prejuízo da aprovação pelos demais órgãos competentes da Prefeitura.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Prefeitura terá o direito de, a qualquer tempo, fiscalizar as obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Prefeitura não será responsável, inclusive perante terceiros, por quaisquer prejuízos decorrentes da execução de obras, serviços e trabalhos a cargo do concessionário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A alteração do destino do imóvel, o inadimplemento de qualquer prazo fixado, a inobservância das condições e obrigações estatuídas nesta lei ou nas cláusulas que constarem do instrumento de concessão, implicarão a automática rescisão da concessão, revertendo o imóvel ao Município e incorporando-se ao seu patrimônio as edificações e benfeitorias nele executadas, ainda que necessárias, sem direito de retenção e independentemente de pagamento ou indenização, seja a que título for, o mesmo ocorrendo findo o prazo da concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 5 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14761",
+   "short": "Lei 14761/2008",
+   "title": "Lei nº 14.761, de 05/06/2008 (Dispõe sobre a fixação de placa informativa, em estabelecimentos que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14761-de-5-de-junho-de-2008",
+   "first_law": "lei-2008-14761",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14761-de-5-de-junho-de-2008",
+     "sha256": "a59327767024738cc630002802ff8211b8017bdb4da245e4872b4e98c6575f0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.761, DE 5 DE JUNHO DE 2008\n(Projeto de Lei nº 058/07, do Vereador Aurélio Nomura - PV)\nDispõe sobre a fixação de placa informativa, em estabelecimentos que especifica, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam obrigados clínicas, consultórios, prontos-socorros e hospitais veterinários; estabelecimentos especializados no comércio de produtos, medicamentos e alimentos para animais, conhecidos como pet-shops; estabelecimentos de banho e tosa de animais, a manter em local visível ao público placa com os seguintes dizeres:\nÉ crime praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos (Lei Federal 9.605/98, art. 32).\nDenuncie:\n156 - Prefeitura do Município de São Paulo\n190 - Polícia Militar/Polícia Ambiental\n0800-618080 - Linha Verde do IBAMA.\nParágrafo único. A placa deverá ter as dimensões mínimas de 50 (cinqüenta) centímetros por 50 (cinqüenta) centímetros, com diagramação a ser definida na regulamentação desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O estabelecimento que for autuado por descumprimento do disposto nesta lei receberá advertência por escrito, com fixação de prazo de 15 (quinze) dias para regularização, e multa de R$ 500,00 (quinhentos reais), se a irregularidade persistir após decorrido o prazo dado na advertência.\nParágrafo único. O valor da multa deverá ser reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo (IPCA), apurado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), acumulada no exercício anterior, e, no caso da extinção deste índice, será adotado outro criado por legislação federal que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os valores recolhidos a partir da multa serão destinados, exclusivamente, ao Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável - FEMA, para aplicação em projetos voltados à preservação da fauna.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 5 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14762",
+   "short": "Lei 14762/2008",
+   "title": "Lei nº 14.762, de 09/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14762-de-09-de-junho-de-2008",
+   "first_law": "lei-2008-14762",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14762-de-09-de-junho-de-2008",
+     "sha256": "0c0ef358e1a99bb7c33cb4006dec5a2304dbcd3381484610550b8dba26442577",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.762 DE 09 DE JUNHO DE 2008\n(PROJETO DE LEI Nº 455/07)(VEREADOR JOOJI HATO - PMDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Carnaval de Rua de Guaianases, a ser realizado anualmente na terça-feira de carnaval, a partir das 18 h, na Rua Salvador Gianetti, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso XXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Carnaval de Rua de Guaianases, a ser realizado anualmente na terça-feira de carnaval, a partir das 18 h, na Rua Salvador Gianetti, com a participação voluntária no desfile de Grupos Carnavalescos e Escolas de Samba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 11 de junho de 2008.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de junho de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14763",
+   "short": "Lei 14763/2008",
+   "title": "Lei nº 14.763, de 16/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14763-de-16-de-junho-de-2008",
+   "first_law": "lei-2008-14763",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14763-de-16-de-junho-de-2008",
+     "sha256": "37e1f77d24d8bee7b8673a9cc16a9de1d381f6db50efbace0675a8f1df79ed83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.763, DE 16 DE JUNHO DE 2008\n(Projeto de Lei nº 741/07, do Vereador Aurélio Miguel - PR)\nDenomina CEU Butantã - Professora Elizabeth Gaspar Tunala o Centro Educacional Unificado, localizado à Avenida Engenheiro Antônio Eiras Garcia, 1700/1870, Jardim Esmeralda, Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de maio de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado CEU Butantã - Professora Elizabeth Gaspar Tunala o Centro Educacional Unificado, localizado à Avenida Antônio Eiras Garcia, 1700/1870, Jardim Esmeralda, Rio Pequeno, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A presente lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 16 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14764",
+   "short": "Lei 14764/2008",
+   "title": "Lei nº 14.764, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14764-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14764",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14764-de-18-de-junho-de-2008",
+     "sha256": "ce40bac705052471d0389336c81cd347ff454d9c652cd504eac5605270f7f647",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.764, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 552/05, do Vereador Paulo Frange - PTB)\nDenomina Praça Lions Alto da Mooca o logradouro público localizado na Rua do Oratório, altura do nº 2753, codlog 15.034-7, esquina com a Rua Silva Coutinho, codlog 18.175-7 - Alto da Mooca.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Lions Alto da Mooca o logradouro público localizado na Rua do Oratório, altura do nº 2753, codlog 15.034-7, esquina com a Rua Silva Coutinho, codlog 18.175-7 - Alto da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14765",
+   "short": "Lei 14765/2008",
+   "title": "Lei nº 14.765, de 18/06/2008 (CONFERE DENOMINACAO AO CENTRO DE ATENCAO PSICOSSOCIAL PARA ADULTOS JACANA/TREMEMBE.(PL 423/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14765-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14765",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14765-de-18-de-junho-de-2008",
+     "sha256": "f454bc3e26a8b51266c641f47d7084d4655c797e21c3bd3c0c3235b968b152dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.765, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 423/06, da Vereadora Soninha - PPS)\nConfere denominação ao Centro de Atenção Psicossocial para Adultos Jaçanã/Tremembé.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a denominar-se Centro de Atenção Psicossocial para Adultos Jaçanã/Tremembé - Dr. Leonídio Galvão dos Santos o Centro de Atenção Psicossocial para Adultos Jaçanã/Tremembé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14766",
+   "short": "Lei 14766/2008",
+   "title": "Lei nº 14.766, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14766-de-18-de-junho-de-2008",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2008-14766"
+   ],
+   "versions": [
+    {
+     "from": "2018-06-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14766-de-18-de-junho-de-2008",
+     "sha256": "d21b9cb5455e6a5f06759bf4f9070f5aaf2a48f1b7794318b52fb68a7d52d0ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.766, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 46/07, da Vereadora Marta Costa - DEM)\nDispõe sobre a proibição do transporte de botijões de gás ou quaisquer outros recipientes contendo material ou líquidos inflamáveis em motocicletas e ciclomotores e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibida no Município de São Paulo a utilização de motocicletas para a prestação do serviço de transporte de passageiros (moto-táxi), bem como para o transporte de material inflamável ou que possa pôr em risco a segurança do munícipe.\n§ 1º O descumprimento do disposto nesta lei implicará ao infrator a imposição de multa no valor de R$ 1.000,00 (mil reais), sendo que em caso de reincidência a motocicleta será apreendida pelo órgão competente.\n§ 2º O valor da multa de que trata o § 1º deste artigo será atualizado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementares se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará esta lei, no que couber, no prazo máximo de 60 (sessenta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.766, de 18/06/2008 was altered by acts of 1 date(s), the latest 2018-06-05."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14767",
+   "short": "Lei 14767/2008",
+   "title": "Lei nº 14.767, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14767-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14767",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14767-de-18-de-junho-de-2008",
+     "sha256": "aa1e08aab7bcd76f0419f96af81c903029629322ceb2f1f76b2f851589919b45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.767, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 407/07, do Vereador Claudinho - PSDB)\nDenomina Travessa Cícero Moura dos Santos a viela 12, que começa na Rua Aparecida de Minas e termina na Rua Alto Sucuriú, Distrito da Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Cícero Moura dos Santos a viela 12, que começa na Rua Aparecida de Minas e termina na Rua Alto Sucuriú (Setor 127 - Quadra 206), Distrito da Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo Municipal regulamentará a presente lei no prazo de 90 (noventa) dias, a contar da data de publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14768",
+   "short": "Lei 14768/2008",
+   "title": "Lei nº 14.768, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14768-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14768",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14768-de-18-de-junho-de-2008",
+     "sha256": "03c284f7985e888ab073cfbe22c1d7ce3141ab0188b2cde222742e47ca896e1b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.768, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 466/07, do Vereador Claudinho - PSDB)\nDenomina Unidade Básica de Saúde/Assistência Médica Ambulatorial Massagista Mário Américo, localizada no bairro do Imirim, Zona Norte do Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Unidade Básica de Saúde/Assistência Médica Ambulatorial Massagista Mário Américo a atual Unidade Básica de Saúde Sítio Mandaqui, localizada na Rua Oscar de Moura Lacerda, 231, Imirim - Coordenadoria de Saúde da Zona Norte.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo Municipal regulamentará a presente lei no prazo de 60 (sessenta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14769",
+   "short": "Lei 14769/2008",
+   "title": "Lei nº 14.769, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14769-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14769",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14769-de-18-de-junho-de-2008",
+     "sha256": "a3e466c6df246ba0724b7a05de63b6455f9d602d7a55428ac469efd999dd5140",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.769, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 471/07, do Vereador Chico Macena - PT)\nDenomina Praça Manoel Francisco Espíndola o espaço livre delimitado pela Avenida Professor Luiz Ignácio de Anhaia Mello, Rua Coelho Neto e a faixa de transmissão de energia elétrica, situado no Distrito da Vila Prudente, Subprefeitura de Vila Prudente/Sapopemba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manoel Francisco Espíndola o espaço livre delimitado pela Avenida Professor Luiz Ignácio de Anhaia Mello, Rua Coelho Neto e a faixa de transmissão de energia elétrica (Setor 44 - Quadra 17), situado no Distrito da Vila Prudente, Subprefeitura de Vila Prudente/Sapopemba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14770",
+   "short": "Lei 14770/2008",
+   "title": "Lei nº 14.770, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14770-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14770",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14770-de-18-de-junho-de-2008",
+     "sha256": "30f530c52a884c36453f7d5ff1133acfeb97123ef61fc851b02ec0d28be51d1f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.770, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 487/07, do Vereador Natalini - PSDB)\nDenomina Centro de Educação Infantil Marta Teresinha Godinho o Centro de Educação Infantil inominado, localizado na Rua Batuíra do Campo, 49, Distrito de Ermelino Matarazzo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Centro de Educação Infantil Marta Teresinha Godinho o Centro de Educação Infantil inominado, localizado na Rua Batuíra do Campo, 49, Bairro Jardim Keralux, Distrito de Ermelino Matarazzo, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14771",
+   "short": "Lei 14771/2008",
+   "title": "Lei nº 14.771, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14771-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14771",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14771-de-18-de-junho-de-2008",
+     "sha256": "0411f978cff42000adc857f9e2d0538bde0d3068f101c47feaac7dcd9bb21b68",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.771, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 590/07, do Vereador Ademir da Guia - PR)\nDenomina Travessa Salvatrice Salemi di Martino a travessa com início na Avenida Airton Pretini e término a aproximadamente 50 metros além da Rua Rui Gomes de Almeida, situada no Distrito da Penha, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Salvatrice Salemi di Martino a travessa com início na Avenida Airton Pretini e término a aproximadamente 50 metros além da Rua Rui Gomes de Almeida (Setor 062 - Quadras 179, 180, 185 e 186), situada no Distrito da Penha, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14772",
+   "short": "Lei 14772/2008",
+   "title": "Lei nº 14.772, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14772-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14772",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14772-de-18-de-junho-de-2008",
+     "sha256": "5496194c9f9ad5f0d108cd2e9705d7dba23988e18abefa88c1d5cfcb29d0de00",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.772, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 666/07, do Vereador Abou Anni - PV)\nDenomina Travessa Emília de Jesus Mazeti o logradouro formado pelas vielas \"1\" e \"2\", que começa na travessa particular sem denominação (codlog 78.041-3) e termina na Rua Maria Balades Correa, situado no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Emília de Jesus Mazeti o logradouro formado pelas vielas \"1\" e \"2\" (codlog 76.709-3), que começa na travessa particular sem denominação (codlog 78.041-3) e termina na Rua Maria Balades Correa (Setor 172 - Quadra 65), situado no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14773",
+   "short": "Lei 14773/2008",
+   "title": "Lei nº 14.773, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14773-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14773",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14773-de-18-de-junho-de-2008",
+     "sha256": "7052df77fdc6ddb22be0045b5747b064dcf220144fe29b769d91595bad1f2dbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.773, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 667/07, do Vereador Abou Anni - PV)\nDenomina Travessa Luiz Mazeti a travessa particular sem denominação (codlog 78.041-3) que começa na Avenida Ângelo Cristianini, altura do nº 715, e termina a aproximadamente 110 metros além do seu início, situada no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Luiz Mazeti a travessa particular sem denominação (codlog 78.041-3) que começa na Avenida Ângelo Cristianini, altura do nº 715, e termina a aproximadamente 110 metros além do seu início (Setor 172 - Quadra 65), situada no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14774",
+   "short": "Lei 14774/2008",
+   "title": "Lei nº 14.774, de 18/06/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14774-de-18-de-junho-de-2008",
+   "first_law": "lei-2008-14774",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14774-de-18-de-junho-de-2008",
+     "sha256": "21039b4e4f9b6dde5c0cbc91f7390e130032230ed7a9f1ce5514c7eae245b7ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.774, DE 18 DE JUNHO DE 2008\n(Projeto de Lei nº 674/07, do Vereador Roberto Tripoli - PV)\nDenomina Praça Maria Hecilda Campos Salgado o espaço livre delimitado pela Avenida José Maria Whitaker e a Alameda dos Guaicanãs, que confronta com o lote 0033 do Setor 45 - Quadra 338, situado no Distrito da Saúde, Subprefeitura da Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Hecilda Campos Salgado o espaço livre delimitado pela Avenida José Maria Whitaker e a Alameda dos Guaicanãs, que confronta com o lote 0033 do Setor 45 - Quadra 338, situado no Distrito da Saúde, Subprefeitura da Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de junho de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 18 de junho de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

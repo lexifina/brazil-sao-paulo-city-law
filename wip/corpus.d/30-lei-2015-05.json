@@ -1,0 +1,2158 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "36 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2015-16303": {
+   "label": "Lei nº 16.303, de 09/11/2015",
+   "title": "Altera a redação dos incisos I, II e III do art. 1º da Lei nº 15.715, de 17 de abril de 2013, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-09",
+   "published": "2015-11-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16303-de-09-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16304": {
+   "label": "Lei nº 16.304, de 10/11/2015",
+   "title": "Denomina Centro Educacional Unificado Sapopemba – Dora Mancini o Centro Educacional Unificado localizado no Jardim Sapopemba, Subprefeitura Sapopemba, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-10",
+   "published": "2015-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16304-de-10-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16305": {
+   "label": "Lei nº 16.305, de 10/11/2015",
+   "title": "Denomina Mercado Municipal de Santo Amaro – Professora Adozinda Caracciolo de Azevedo Kuhlmann o próprio municipal localizado na Rua Padre José de Anchieta nº 953, no Bairro de Santo Amaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-10",
+   "published": "2015-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16305-de-10-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16306": {
+   "label": "Lei nº 16.306, de 10/11/2015",
+   "title": "Denomina Hospital Municipal Gilson de Cássia Marques de Carvalho o hospital municipal localizado na Av. Santa Catarina nº 2.785, distrito de Jabaquara, e dá outras providências",
+   "kind": "law",
+   "enacted": "2015-11-10",
+   "published": "2015-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16306-de-10-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16307": {
+   "label": "Lei nº 16.307, de 10/11/2015",
+   "title": "Altera a denominação da UBS Cidade Tiradentes I, localizada na Avenida dos Têxteis número 512, no Distrito de Cidade Tiradentes, para UBS Cidade Tiradentes – Luís Maranhão e dá outras providências",
+   "kind": "law",
+   "enacted": "2015-11-10",
+   "published": "2015-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16307-de-10-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16308": {
+   "label": "Lei nº 16.308, de 10/11/2015",
+   "title": "Altera a denominação do Viaduto Antártica para Viaduto Antártica – Oberdan Cattani, e dá outras providências",
+   "kind": "law",
+   "enacted": "2015-11-10",
+   "published": "2015-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16308-de-10-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16309": {
+   "label": "Lei nº 16.309, de 12/11/2015",
+   "title": "Dispõe sobre a concessão de abono anual aos servidores do TCMSP, no mês de dezembro.",
+   "kind": "law",
+   "enacted": "2015-11-12",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16309-de-12-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16310": {
+   "label": "Lei nº 16.310, de 11/11/2015",
+   "title": "Altera a Lei nº 16.243/2015, que trata do prontuário eletrônico de saúde.",
+   "kind": "law",
+   "enacted": "2015-11-11",
+   "published": "2015-11-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16310-de-11-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16311": {
+   "label": "Lei nº 16.311, de 12/11/2015",
+   "title": "Dispõe sobre a atividade de fretamento no âmbito do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2015-11-12",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16311-de-12-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16312": {
+   "label": "Lei nº 16.312, de 17/11/2015",
+   "title": "Dispõe sobre a obrigatoriedade de manutenção de uma brigada profissional, composta por bombeiros civis, nos estabelecimentos que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-17",
+   "published": "2015-11-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16312-de-17-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16314": {
+   "label": "Lei nº 16.314, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa de Santo Antônio do Pari, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16314-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16315": {
+   "label": "Lei nº 16.315, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Festa de San Gennaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16315-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16316": {
+   "label": "Lei nº 16.316, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Divino Encontro História, Cultura e Tradição, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16316-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16317": {
+   "label": "Lei nº 16.317, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Sertanejo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16317-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16318": {
+   "label": "Lei nº 16.318, de 24/11/2015",
+   "title": "Acresce alínea ao inciso CCXLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal da Participação Popular, a ser realizada na semana do dia 05 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16318-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16319": {
+   "label": "Lei nº 16.319, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa de Rua de São Vito Mártir, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16319-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16320": {
+   "label": "Lei nº 16.320, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Mês do Agosto Dourado, a ser realizado anualmente no mês de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16320-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16321": {
+   "label": "Lei nº 16.321, de 24/11/2015",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o 1º de Maio da CUT (Central Única dos Trabalhadores) no Parque das Árvores, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-11-24",
+   "published": "2015-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16321-de-24-de-novembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16322": {
+   "label": "Lei nº 16.322, de 01/12/2015",
+   "title": "Denomina Praça Major Sandro Moretti Silva Andrade o espaço livre que especifica, localizado no Distrito de Vila Sônia, Subprefeitura Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-01",
+   "published": "2015-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16322-de-01-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16323": {
+   "label": "Lei nº 16.323, de 02/12/2015",
+   "title": "Denomina Passarela Remédios Domingues Calandriello o logradouro público inominado que especifica no Distrito Sacomã, Subprefeitura do Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-02",
+   "published": "2015-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16323-de-02-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16324": {
+   "label": "Lei nº 16.324, de 02/12/2015",
+   "title": "Denomina como Praça José Simões Costa o espaço público inominado situado no Bairro de Vila Palmeiras, Subprefeitura da Freguesia do Ó/Brasilândia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-02",
+   "published": "2015-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16324-de-02-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16326": {
+   "label": "Lei nº 16.326, de 15/12/2015",
+   "title": "Denomina Praça Professor Amaro de Abreu Filho o espaço livre delimitado pela Rua Ibirarema e pelas avenidas Botuquara e Professor Abraão de Morais (Setor 309 – Quadra 42), localizado no Distrito da Saúde, Subprefeitura Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16326-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16327": {
+   "label": "Lei nº 16.327, de 15/12/2015",
+   "title": "Denomina Travessa Nelson Soares o logradouro inominado, localizado no Distrito do Carrão, Subprefeitura do Aricanduva/Formosa/Carrão, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16327-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16328": {
+   "label": "Lei nº 16.328, de 15/12/2015",
+   "title": "Denomina Praça Diácono José Pereira Lopes o logradouro público inominado que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16328-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16329": {
+   "label": "Lei nº 16.329, de 15/12/2015",
+   "title": "Denomina Travessa Sergio Pinheiro a viela sem denominação, localizada no Distrito de Santana, Subprefeitura de Santana/Tucuruvi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16329-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16330": {
+   "label": "Lei nº 16.330, de 15/12/2015",
+   "title": "Denomina Praça João Chile o espaço livre situado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16330-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16331": {
+   "label": "Lei nº 16.331, de 15/12/2015",
+   "title": "Denomina Praça Roque Orlando de Deus o espaço livre que especifica situado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-15",
+   "published": "2015-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16331-de-15-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16332": {
+   "label": "Lei nº 16.332, de 18/12/2015",
+   "title": "Introduz alterações na legislação tributária municipal relativa ao processo administrativo fiscal, ao Domicílio Eletrônico do Cidadão Paulistano – DEC e a isenções e descontos do Imposto Predial, conferindo nova redação ao § 1º do art. 50 da Lei nº 14.107, de 12 de dezembro de 2005; ao “caput” do art. 41 da Lei nº 15.406, de 08 de julho de 2011, e inserindo parágrafo único ao art. 8º da Lei nº 15.889, de 05 de novembro de 2013.",
+   "kind": "law",
+   "enacted": "2015-12-18",
+   "published": "2015-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16332-de-18-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16333": {
+   "label": "Lei nº 16.333, de 18/12/2015",
+   "title": "Institui o Plano Municipal do Livro, Leitura, Literatura e Biblioteca (PMLLLB) do Município de São Paulo, com o fim de assegurar a todos o acesso ao livro, à leitura e à literatura.",
+   "kind": "law",
+   "enacted": "2015-12-18",
+   "published": "2015-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16333-de-18-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16334": {
+   "label": "Lei nº 16.334, de 30/12/2015",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2016.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16334-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16335": {
+   "label": "Lei nº 16.335, de 30/12/2015",
+   "title": "Institui o Programa Municipal São Paulo Afroempreendedor, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16335-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16336": {
+   "label": "Lei nº 16.336, de 30/12/2015",
+   "title": "Dispõe sobre a criação do Programa de Incentivo à Doação de Leite Materno “Quem doa leite materno doa vida”, e fixa outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16336-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16337": {
+   "label": "Lei nº 16.337, de 30/12/2015",
+   "title": "Institui o Serviço de Atendimento Especial – Serviço Atende, no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16337-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16340": {
+   "label": "Lei nº 16.340, de 30/12/2015",
+   "title": "Cria o Programa Selo Igualdade Racial, para promover ações afirmativas de promoção da igualdade racial no âmbito da iniciativa privada no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16340-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16341": {
+   "label": "Lei nº 16.341, de 30/12/2015",
+   "title": "Institui o Programa Municipal de Prevenção ao Alcoolismo entre Mulheres, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16341-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2015-16342": {
+   "label": "Lei nº 16.342, de 30/12/2015",
+   "title": "Institui o Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-30",
+   "published": "2015-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16342-de-30-de-dezembro-de-2015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2015-16303",
+   "short": "Lei 16303/2015",
+   "title": "Lei nº 16.303, de 09/11/2015 (Altera a redação dos incisos I, II e III do art. 1º da Lei nº 15.715, de 17 de abril de 2013, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16303-de-09-de-novembro-de-2015",
+   "first_law": "lei-2015-16303",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16303-de-09-de-novembro-de-2015",
+     "sha256": "5d5ae44b0a6834fd8645c184b0a9adcb608df785f02d91ff057d10c49a279dce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.303, DE 9 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 544/15, da Mesa da Câmara)\nAltera a redação dos incisos I, II e III do art. 1º da Lei nº 15.715, de 17 de abril de 2013, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os incisos I, II e III do art. 1º da Lei nº 15.715, de 17 de abril de 2013, passam a exibir a seguinte redação:\n\"Art. 1º ......................................................\nI - Nível III - Guarda Civil Metropolitano - Inspetor, no valor correspondente a 31,80% do QPL 22;\nII - Nível II - Guarda Civil Metropolitano - Classe Distinta e Subinspetor, no valor correspondente a 31,80% do QPL 16;\nIII - Nível I - Guarda Civil Metropolitano 1ª Classe, 2ª Classe, 3ª Classe e Classe Especial, no valor correspondente a 25,38% do QPL 15.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da publicação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 9 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16304",
+   "short": "Lei 16304/2015",
+   "title": "Lei nº 16.304, de 10/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16304-de-10-de-novembro-de-2015",
+   "first_law": "lei-2015-16304",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16304-de-10-de-novembro-de-2015",
+     "sha256": "3e78bdb7d9c167f745749711da367e2aca8d3fd20b1148bc6dfb5dff98f8f80e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.304, DE 10 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 416/14, da Vereadora Juliana Cardoso - PT)\nDenomina Centro Educacional Unificado Sapopemba - Dora Mancini o Centro Educacional Unificado localizado no Jardim Sapopemba, Subprefeitura Sapopemba, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação do Centro Educacional Unificado Sapopemba, situado na Rua Manuel Quirino de Mattos s/nº, Bairro Jardim Sapopemba, CEP 03969-000, Distrito Sapopemba - Setor 04, DRE São Mateus, Subprefeitura Sapopemba, para Centro Educacional Unificado Sapopemba - Dora Mancini.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2015\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16305",
+   "short": "Lei 16305/2015",
+   "title": "Lei nº 16.305, de 10/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16305-de-10-de-novembro-de-2015",
+   "first_law": "lei-2015-16305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16305-de-10-de-novembro-de-2015",
+     "sha256": "abf4d03d3887de0e273ef869393bd3a2b8d0855823eadc83003683f210667ca8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.305, DE 10 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 462/14, do Vereador Natalini - PV)\nDenomina Mercado Municipal de Santo Amaro - Professora Adozinda Caracciolo de Azevedo Kuhlmann o próprio municipal localizado na Rua Padre José de Anchieta nº 953, no Bairro de Santo Amaro, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Mercado Municipal de Santo Amaro - Professora Adozinda Caracciolo de Azevedo Kuhlmann o próprio municipal localizado na Rua Padre José de Anchieta nº 953, no Bairro de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16306",
+   "short": "Lei 16306/2015",
+   "title": "Lei nº 16.306, de 10/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16306-de-10-de-novembro-de-2015",
+   "first_law": "lei-2015-16306",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16306-de-10-de-novembro-de-2015",
+     "sha256": "94702dbba9336fb89da35dd535a0d6ddd5c7b58a2f359dbd933d83ad750d254e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.306, DE 10 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 502/14, do Vereador Nabil Bonduki - PT)\nDenomina Hospital Municipal Gilson de Cássia Marques de Carvalho o hospital municipal localizado na Av. Santa Catarina nº 2.785, distrito de Jabaquara, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Hospital Municipal Gilson de Cássia Marques de Carvalho o hospital municipal localizado na Av. Santa Catarina nº 2.785, distrito de Jabaquara.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16307",
+   "short": "Lei 16307/2015",
+   "title": "Lei nº 16.307, de 10/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16307-de-10-de-novembro-de-2015",
+   "first_law": "lei-2015-16307",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16307-de-10-de-novembro-de-2015",
+     "sha256": "9356e92bd06fee129dceb2edfcff4d3ff41f38cc1fa6209965acf5cf5b1ecf77",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.307, DE 10 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 531/14, do Vereador Antonio Donato - PT)\nAltera a denominação da UBS Cidade Tiradentes I, localizada na Avenida dos Têxteis número 512, no Distrito de Cidade Tiradentes, para UBS Cidade Tiradentes - Luís Maranhão e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da UBS Cidade Tiradentes I, localizada na Avenida dos Têxteis número 512, Subprefeitura de Cidade Tiradentes, para UBS Cidade Tiradentes - Luís Maranhão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2015\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16308",
+   "short": "Lei 16308/2015",
+   "title": "Lei nº 16.308, de 10/11/2015 (Altera a denominação do Viaduto Antártica para Viaduto Antártica – Oberdan Cattani, e dá outras providências)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16308-de-10-de-novembro-de-2015",
+   "first_law": "lei-2015-16308",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16308-de-10-de-novembro-de-2015",
+     "sha256": "851bd596f0f3c71e5953fc9a8d903af0b4191993b687ebef5e91a9b4237c256c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.308, DE 10 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 342/14, do Vereador Nelo Rodolfo - PMDB)\nAltera a denominação do Viaduto Antártica para Viaduto Antártica - Oberdan Cattani, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação do Viaduto Antártica para Viaduto Antártica - Oberdan Cattani, CODLOG 29.035-1, a obra de arte que começa na Avenida Antártica (Setor 021, altura da Praça Tomas Morus, e Setor 22 - Quadra 95) e termina na Praça Luiz Carlos Mesquita (Setor 197 - Quadras 43 e 44), no Distrito da Barra Funda, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16309",
+   "short": "Lei 16309/2015",
+   "title": "Lei nº 16.309, de 12/11/2015 (Dispõe sobre a concessão de abono anual aos servidores do TCMSP, no mês de dezembro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16309-de-12-de-novembro-de-2015",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2015-16309"
+   ],
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16309-de-12-de-novembro-de-2015",
+     "sha256": "4570d6b59b43cb6511251f462dec23876b0b058fff99cbac302a4f32842c0ff4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.309 DE 12 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 177/15) (TRIBUNAL DE CONTAS DO MUNICÍPIO DE SÃO PAULO)\nDispõe sobre a concessão de abono anual aos servidores do TCMSP, no mês de dezembro.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído abono anual, que poderá ser concedido aos servidores do Tribunal de Contas do Município de São Paulo, ativos, inativos, pensionistas e comissionados, no mês de dezembro, a critério da Administração do Tribunal.\nParágrafo único. O abono de que trata esta lei poderá ser concedido em cada exercício desde que haja disponibilidade orçamentária e financeira.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O valor do abono será fixado em Resolução, anualmente, e não poderá ultrapassar o valor correspondente ao QTC-02, da Tabela de Vencimentos Básicos, que integra o Anexo V da Lei nº 13.877, de 23 de julho de 2004.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O abono não se incorporará, para quaisquer efeitos, aos vencimentos, salários e proventos, bem como sobre ele não incidirá vantagem alguma a que faça jus o servidor, vedada, assim, sua utilização, sob qualquer forma, para cálculo simultâneo que importe em acréscimo de outra vantagem pecuniária, não se somando aos vencimentos a que faz jus o servidor no mês de dezembro para fins de estabelecimento do limite de vencimentos de que trata o inciso XI do art. 37 da Constituição Federal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Sobre o valor do abono não incidirão os descontos relativos às contribuições devidas ao Regime Próprio de Previdência Social dos Servidores Públicos do Município de São Paulo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 13 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 13 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.309, de 12/11/2015 was altered by acts of 1 date(s), the latest 2022-09-22."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16310",
+   "short": "Lei 16310/2015",
+   "title": "Lei nº 16.310, de 11/11/2015 (Altera a Lei nº 16.243/2015, que trata do prontuário eletrônico de saúde.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16310-de-11-de-novembro-de-2015",
+   "first_law": "lei-2015-16310",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16310-de-11-de-novembro-de-2015",
+     "sha256": "8ca3242486c2ae509f9430e67db63ea5ca1833c94e92fd00e87d98f551570600",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.310, DE 11 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 456/15, do Vereador Valdecir Cabrabom - PTB)\nAltera a Lei nº 16.243/2015, que trata do prontuário eletrônico de saúde.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa o art. 1º da Lei nº 16.243/2015 a ter a seguinte redação:\n\"Art. 1º Fica instituído, na rede de saúde do Município de São Paulo, o Prontuário Eletrônico do Paciente - PEP, com a finalidade de aprimorar os meios de registro individual de paciente, bem como o armazenamento e acesso a informações assistenciais de saúde.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Passa o art. 3º da Lei nº 16.243/2015 a ter a seguinte redação:\n\"Art. 3º A Prefeitura, através do decreto regulamentador, determinará qual o órgão que deverá adotar as medidas destinadas à implementação do disposto nesta lei, podendo, se necessário, baixar normas complementares voltadas a essa finalidade.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 11 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16311",
+   "short": "Lei 16311/2015",
+   "title": "Lei nº 16.311, de 12/11/2015 (Dispõe sobre a atividade de fretamento no âmbito do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16311-de-12-de-novembro-de-2015",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2015-16311"
+   ],
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16311-de-12-de-novembro-de-2015",
+     "sha256": "e911f79a339270a5ea05a40ab5d2b771d039eed80732d36b4a3888f47f848ba5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.311, DE 12 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 587/13, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a atividade de fretamento no âmbito do Município de São Paulo.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O transporte coletivo privado de passageiros na modalidade fretamento, no âmbito do Município de São Paulo, obedecerá ao disposto nesta lei.\n§ 1º Considera-se fretamento a atividade econômica privada de transporte coletivo, restrita a segmento específico e predeterminado de passageiros, que não se sujeita a obrigações de universalização, continuidade e modicidade tarifária, atributos do Transporte Coletivo Público de Passageiros, classificada da seguinte forma:\nI - de âmbito municipal: é a atividade de transporte coletivo privado com origem e destino dentro dos limites do Município de São Paulo, prestado rotineiramente ou não;\nII - de âmbito intermunicipal: é a atividade de transporte coletivo privado em que o Município de São Paulo figura, em qualquer hipótese, como localidade de referência dos trajetos, seja como destino, origem ou rota de passagem.\n§ 2º Os veículos que, na atividade de fretamento, necessitem utilizar as vias do Município como passagem não estão sujeitos às disposições desta lei, desde que não acessem a área restrita ao seu trânsito e não utilizem as vias para o estacionamento, o embarque e o desembarque de passageiros.\n§ 3º A atividade de fretamento deverá ser realizada por ônibus, micro-ônibus ou veículos mistos, com capacidade superior a 9 (nove) pessoas.\n§ 4º Os veículos que desempenham a atividade de fretamento deverão cumprir as disposições do Programa de Controle da Poluição do Ar por Veículos Automotores - PROCONVE, nos termos da regulamentação expedida pelo Conselho Nacional do Meio Ambiente - CONAMA.\n§ 5º As empresas concessionárias ou permissionárias de serviço público de transporte coletivo ficam proibidas de utilizarem suas frotas, inclusive a reserva técnica, na atividade de fretamento, sob pena de aplicação de multa e apreensão do veículo pela fiscalização municipal, nos termos desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os efeitos desta lei, considera-se:\nI - transporte contínuo de passageiros: aquele realizado de forma sistemática, com a mesma origem e destino e, basicamente, o mesmo grupo de usuários;\nII - transporte eventual de passageiros: aquele realizado com diferentes origens e destinos e/ou diferentes grupos de usuários.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## Seção I\n## Das Condições para o Exercício da Atividade de Fretamento\nArt. 3º As atividades de fretamento somente poderão ser desempenhadas no Município de São Paulo por pessoas jurídicas que possuam Termo de Autorização - TA, expedido pela Secretaria Municipal de Transportes - SMT.\n§ 1º O Termo de Autorização - TA será fornecido às operadoras que apresentarem os seguintes documentos:\nI - ato constitutivo, devidamente registrado nos órgãos competentes;\nII - inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ;\nIII - inscrição no Cadastro de Contribuintes Mobiliários - CCM do Município em que estiver localizada a sua sede;\nIV - prova da regularidade fiscal perante as Fazendas Federal, Estadual e Municipal;\nV - prova da regularidade perante o Instituto Nacional do Seguro Social - INSS e o Fundo de Garantia por Tempo de Serviço - FGTS;\nVI - comprovação de frota operacional de, no mínimo, 2 (dois) veículos;\nVII - requerimento em formulário específico a ser estabelecido pela Secretaria Municipal de Transportes - SMT.\n§ 2º O Termo de Autorização - TA poderá ser fornecido de maneira simplificada às operadoras sediadas fora da Região Metropolitana de São Paulo - RMSP e que realizam transporte eventual de passageiros, na forma definida pela Secretaria Municipal de Transportes - SMT.\n§ 3º O Termo de Autorização - TA terá validade de 2 (dois) anos, podendo ser renovado sucessivamente, preenchidas as condições previstas nesta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para cada veículo que desempenhar a atividade, as operadoras deverão requerer o respectivo Certificado de Vínculo ao Serviço - CVS, apresentando os seguintes documentos:\nI - Certificado de Propriedade do Veículo - CRV em nome da operadora ou como arrendatária no caso de arrendamento mercantil ou leasing;\nII - Certificado de Registro e Licenciamento do Veículo - CRLV;\nIII - comprovante de aprovação em vistoria técnica, nos termos da regulamentação em vigor;\nIV - comprovante de regularidade perante o Programa de Inspeção e Manutenção de Veículos em Uso - I/M-SP, nos termos da regulamentação em vigor;\nV - comprovante de recolhimento do Seguro Obrigatório por Danos Pessoais Causados por Veículos Automotores de Via Terrestre - DPVAT, no código 3;\nVI - apólice de seguro de responsabilidade civil para danos corporais, materiais e morais a passageiros e terceiros, no valor mínimo de:\na) R$ 700.000,00 (setecentos mil reais) para veículos mistos e micro-ônibus;\nb) R$ 1.000.000,00 (um milhão de reais) para ônibus;\nVII - comprovante da idade máxima do veículo de:\na) 15 (quinze) anos, no caso de veículos mistos e micro-ônibus;\nb) 15 (quinze) anos, no caso de ônibus;\nVIII - comprovação do atendimento à legislação federal, estadual e municipal sobre acessibilidade das pessoas com deficiência ou mobilidade reduzida.\n§ 1º Os valores das apólices tratadas no inciso VI do \"caput\" deste artigo deverão ser atualizados anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n§ 2º O Certificado de Vínculo ao Serviço - CVS terá validade de 1 (um) ano, podendo ser renovado sucessivamente, preenchidas as condições previstas nesta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A operadora na atividade de fretamento deverá:\nI - afixar, na parte externa do veículo, o número de identificação de seu Termo de Autorização - TA, na forma a ser estabelecida pela Secretaria Municipal de Transportes - SMT;\nII - manter, sob a guarda do motorista, os seguintes documentos:\na) cópia simples do Termo de Autorização - TA ou do Termo de Autorização Simplificado - TAS;\nb) Certificado de Vínculo ao Serviço - CVS;\nc) plano de operação do veículo, nos casos previstos em regulamentação a ser expedida pela Secretaria Municipal de Transportes - SMT;\nd) resumo ou extrato do contrato de prestação de serviços e/ou nota fiscal da atividade;\ne) lista completa de passageiros ou outra forma de sua identificação que comprove o vínculo com o contratante;\nf) Carteira Nacional de Habilitação - CNH, na categoria profissional \"D\" ou \"E\", do condutor do veículo com anotação de autorização para o transporte coletivo de passageiros.\nParágrafo único. Os documentos previstos na alínea \"d\" do inciso II do \"caput\" deste artigo serão objeto de regulamentação por ato da Secretaria Municipal de Transportes - SMT.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Nos veículos destinados ao exercício da atividade de fretamento é vedado o transporte de passageiros em pé, devendo ser respeitada a capacidade original de lotação de passageiros sentados do veículo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Trânsito de Veículos de Fretamento no Município de São Paulo\nArt. 7º As restrições e as condições especiais para o trânsito dos veículos que exercem a atividade de fretamento serão objeto de regulamentação por ato da Secretaria Municipal de Transportes - SMT.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Não serão permitidos o embarque e o desembarque de passageiros dos veículos de fretamento em pontos de parada, estações de transferência ou terminais do Sistema de Transporte Coletivo Urbano de Passageiros, salvo naqueles autorizados pela Secretaria Municipal de Transportes - SMT.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º É vedado o uso de vias e logradouros públicos para o estacionamento dos veículos que desempenham a atividade de fretamento, cabendo à operadora dispor de local próprio para tal finalidade.\nParágrafo único. Em caráter excepcional e transitório, desde que não se comprometa a fluidez do trânsito e o desempenho do serviço de transporte coletivo público de passageiros, bem como não cause transtornos à vizinhança, a Secretaria Municipal de Transportes poderá autorizar, após análise técnica, o uso de vias e logradouros públicos para o estacionamento de veículos de fretamento, mediante edição de ato específico.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## Seção III\n## Das Penalidades Aplicáveis\nArt. 10. O descumprimento das disposições constantes desta lei e das demais normas regulamentares sujeitará as operadoras às seguintes sanções, aplicadas isolada ou cumulativamente:\nI - advertência escrita;\nII - multa;\nIII - retenção, remoção ou apreensão do veículo;\nIV - cassação do Certificado de Vínculo ao Serviço - CVS;\nV - cassação do Termo de Autorização - TA.\nParágrafo único. A aplicação das penalidades previstas neste artigo será disciplinada por decreto do Executivo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. De acordo com a gravidade, as infrações serão classificadas nos seguintes grupos:\nI - grupo A: falhas leves que não afetam o serviço ou a segurança dos usuários;\nII - grupo B: infrações de natureza média, por desobediência a determinações do Poder Público ou por descumprimento dos parâmetros operacionais estabelecidos que não afetam a segurança dos usuários;\nIII - grupo C: infrações de natureza grave, por desobediência a determinações do Poder Público que possam afetar a segurança dos usuários;\nIV - grupo D: infrações de natureza gravíssima, por atitudes ou situações que coloquem em risco a segurança dos usuários.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Para efeito de aplicação das sanções, as multas ficam assim definidas:\nI - infração do Grupo A (leve): multa no valor de R$ 180,00 (cento e oitenta reais), aplicada em dobro no caso de reincidência;\nII - infração do Grupo B (média): multa no valor de R$ 360,00 (trezentos e sessenta reais), aplicada em dobro no caso de reincidência;\nIII - infração do Grupo C (grave): multa no valor de R$ 540,00 (quinhentos e quarenta reais), aplicada em dobro no caso de reincidência;\nIV - infração do Grupo D (gravíssima): multa no valor de R$ 720,00 (setecentos e vinte reais), aplicada em dobro no caso de reincidência.\n§ 1º Os valores das multas de que trata este artigo deverão ser corrigidos anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n§ 2º Considera-se reincidência o cometimento da mesma infração no prazo de até 180 (cento e oitenta) dias, contados da data da primeira autuação.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A execução da atividade de fretamento sem autorização da Prefeitura será caracterizada como serviço clandestino, sujeitando o infrator às seguintes penalidades, aplicadas isolada ou cumulativamente:\nI - apreensão e remoção do veículo;\nII - aplicação de multa no valor de R$ 3.400,00 (três mil e quatrocentos reais).\n§ 1º O infrator estará sujeito ao pagamento dos preços públicos referentes à remoção e estadia do veículo.\n§ 2º A multa prevista no inciso II do \"caput\" deste artigo será aplicada em dobro em caso de reincidência, ocorrida no prazo de até 180 (cento e oitenta) dias, contados da data da autuação.\n§ 3º O valor da multa prevista no inciso II do \"caput\" deste artigo deverá ser atualizado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n§ 4º Fica a Prefeitura autorizada a reter o veículo até o pagamento dos valores referidos no § 1º deste artigo.\n§ 5º Os veículos apreendidos há mais de 90 (noventa) dias, em razão de sua utilização para o transporte clandestino de passageiros e não retirados por seus proprietários, serão leiloados nos termos da regulamentação vigente.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Executivo expedirá ato normativo para disciplinar o procedimento de aplicação de penalidades e os respectivos enquadramentos, devendo observar, necessariamente, a notificação prévia, a fim de garantir o contraditório e a ampla defesa.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A aplicação das sanções previstas nesta lei não exclui a possibilidade de adoção das medidas administrativas e a aplicação de outras sanções decorrentes da infração às restrições ao trânsito de veículos que exerçam a atividade de fretamento, das regras referentes ao embarque e desembarque de passageiros, do estacionamento de veículos e das demais normas de trânsito previstas no Código de Trânsito Brasileiro - CTB.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Das penalidades aplicadas caberá recurso, em 1ª instância, à Comissão especialmente designada para este fim, nomeada por ato do Secretário Municipal de Transportes.\nParágrafo único. O prazo para interposição do recurso de que trata o \"caput\" deste artigo será de 30 (trinta) dias, contados da notificação da penalidade aplicada.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Da decisão proferida pela Comissão prevista no art. 16 desta lei caberá recurso, em 2ª instância, ao Secretário Municipal de Transportes.\nParágrafo único. O Secretário Municipal de Transportes poderá delegar a competência instituída no \"caput\" deste artigo.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## Seção IV\n## Das Disposições Finais\nArt. 18. A Comissão de Acompanhamento da Regulamentação do Fretamento - CAREF, órgão de caráter consultivo vinculado à Secretaria Municipal de Transportes - SMT, criada pela Lei nº 14.971, de 25 de agosto de 2009, será composta por representantes da Administração Pública e de entidades representativas dos operadores e dos usuários dos veículos que exercem a atividade de fretamento, na forma a ser definida em decreto do Executivo, com a competência para acompanhar o desenvolvimento da atividade de fretamento, apreciar e emitir parecer sobre solicitações de entidades e usuários vinculados ao serviço, bem como exercer outras atribuições correlatas.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. A fiscalização do cumprimento das obrigações previstas nesta lei e nas demais normas aplicáveis será feita, no âmbito da respectiva competência, pela Secretaria Municipal de Transportes - SMT, pelo Departamento de Transportes Públicos - DTP, pelo Departamento de Operação do Sistema Viário - DSV, pela São Paulo Transporte S.A. - SPTrans e pela Companhia de Engenharia de Tráfego - CET.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. As atuais prestadoras de serviços de fretamento no Município de São Paulo deverão se adaptar às disposições constantes dos arts. 3º a 6º desta lei no prazo de 90 (noventa) dias, contados da data de sua publicação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. As disposições desta lei não se aplicam ao transporte escolar regular, regido por normas específicas.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Ficam canceladas todas as multas e suas respectivas reincidências, correspondentes ao período de agosto de 2009 e dezembro de 2013, aplicadas com base no art. 15, § 1º, III, da Lei nº 14.971/09.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. O Poder Executivo regulamentará esta lei no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Esta lei entrará em vigor na data de sua publicação, revogada a Lei nº 14.971, de 25 de agosto de 2009.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 2015.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.311, de 12/11/2015 was altered by acts of 1 date(s), the latest 2026-07-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16312",
+   "short": "Lei 16312/2015",
+   "title": "Lei nº 16.312, de 17/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16312-de-17-de-novembro-de-2015",
+   "first_law": "lei-2015-16312",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16312-de-17-de-novembro-de-2015",
+     "sha256": "80ed45614b8e6f5d55a0ed5f85806a88824f7b49c1a95b4371faaccf986ff80e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.312, DE 17 DE NOVEMBRO DE 2015\n(Projeto de Lei nº 494/12, do Vereador Eliseu Gabriel - PSB)\nDispõe sobre a obrigatoriedade de manutenção de uma brigada profissional, composta por bombeiros civis, nos estabelecimentos que menciona, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de outubro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no âmbito do Município de São Paulo, a obrigatoriedade de manutenção de equipes de brigada profissional, composta por bombeiro civil, nos estabelecimentos que esta lei menciona.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos a que se refere o art. 1º são:\nI - shopping center;\nII - casa de shows e espetáculos;\nIII - hipermercado;\nIV - grandes lojas de departamentos;\nV - campus universitário;\nVI - qualquer estabelecimento de reunião pública educacional ou eventos em área pública ou privada que receba grande concentração de pessoas, em número acima de 1.000 (mil) ou com circulação média de 1.500 (mil e quinhentas) pessoas por dia;\nVII - demais edificações ou plantas cuja ocupação ou uso exija a presença de bombeiro civil, conforme Legislação Estadual de Proteção contra Incêndios do Corpo de Bombeiros da Polícia Militar do Estado de São Paulo.\n§ 1º Para os fins do disposto nesta lei, considera-se:\nI - shopping center: empreendimento empresarial, com reunião de lojas comerciais, restaurantes, cinemas, em um só conjunto arquitetônico;\nII - casa de shows e espetáculos: empreendimento destinado à realização de shows artísticos e/ou apresentação de peças teatrais e de reuniões públicas, em local cuja capacidade de lotação seja igual ou superior a 500 (quinhentas) pessoas;\nIII - hipermercado: supermercado grande, que, além dos produtos tradicionais, venda outros como eletrodomésticos e roupas;\nIV - campus universitário: conjunto de faculdades e/ou escolas para especialização profissional e científica, instalado em imóvel com área superior a 3.000m² (três mil metros quadrados).\n§ 2º No caso de hipermercados ou de outro estabelecimento mencionado nesta lei que seja associado a shopping center, a unidade de combate a incêndio poderá ser única, atendendo o shopping center e o estabelecimento associado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Cada brigada profissional deverá ser estruturada do seguinte modo:\nI - recurso de pessoal: a equipe de bombeiro civil contratada deverá atender aos termos da legislação estadual vigente e NBR 14.608/ABNT e, em locais onde haja frequência de pessoas do sexo feminino, pelo menos um membro da equipe deverá ser do sexo feminino;\nII - recursos materiais obrigatórios:\na) (VETADO)\nb) (VETADO)\nc) materiais para inspeções preventivas e ações de resgate em locais de difícil acesso inerente aos riscos de cada planta;\nd) kit completo de primeiros socorros para ações de suporte básico de vida, incluindo o desfibrilador nos casos em que a lei exija;\ne) (VETADO)\nf) (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º No caso de descumprimento aos termos desta lei, o estabelecimento estará sujeito à multa no valor de R$ 5.000,00 (cinco mil reais), atualizado anualmente com base no Índice Geral de Preços - Mercado - IGP-M ou, em sua falta, em outro índice de referência.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor no prazo de 180 (cento e oitenta) dias, contados da data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de novembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nWEBER SUTTI, Secretário do Governo Municipal - Substituto\nPublicada na Secretaria do Governo Municipal, em 17 de novembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16314",
+   "short": "Lei 16314/2015",
+   "title": "Lei nº 16.314, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16314-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16314",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16314-de-24-de-novembro-de-2015",
+     "sha256": "5b83eeea4bef97377a729fd72ca2d8e51cf5a21e195f704947566462bfc6b06b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.314 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 112/15)(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa de Santo Antônio do Pari, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Festa de Santo Antônio do Pari.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16315",
+   "short": "Lei 16315/2015",
+   "title": "Lei nº 16.315, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16315-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16315",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16315-de-24-de-novembro-de-2015",
+     "sha256": "ec150a4883e695e9be97add2e2218406e8deb0f74345610cf2df8290c96b242a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.315 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 113/15)(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo a Festa de San Gennaro, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, renumerando-se os demais, com a seguinte redação:\n\"19 de setembro: a Festa de San Gennaro, a ser comemorada anualmente durante o mês de setembro, com as tradições festivas que reúnem missas solenes, novenas, carreata, procissão luminosa e outras atividades religiosas, além de sua própria e tradicional gastronomia.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16316",
+   "short": "Lei 16316/2015",
+   "title": "Lei nº 16.316, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16316-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16316",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16316-de-24-de-novembro-de-2015",
+     "sha256": "c431179a01249f22d717a846c6686e47df3a061b6758e14ea934d39e22a6a1fc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.316 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 174/15)(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Divino Encontro História, Cultura e Tradição, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"primeiro final de semana de novembro: Divino Encontro História, Cultura e Tradição.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16317",
+   "short": "Lei 16317/2015",
+   "title": "Lei nº 16.317, de 24/11/2015 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Sertanejo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16317-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16317",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16317-de-24-de-novembro-de-2015",
+     "sha256": "3afc298f139243cdd07a13a1c979ac904547db8da45d95eb26e0a8740c787347",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.317 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 199/15)(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Sertanejo, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia do Sertanejo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16318",
+   "short": "Lei 16318/2015",
+   "title": "Lei nº 16.318, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16318-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16318",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16318-de-24-de-novembro-de-2015",
+     "sha256": "110944f10b7d6700778f3c4f21c375ba26ddeb8fec08bb77a0c85449a084a584",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.318 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 913/13)(VEREADOR JAIR TATTO - PT)\nAcresce alínea ao inciso CCXLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Semana Municipal da Participação Popular, a ser realizada na semana do dia 05 de outubro, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso CCXLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"a Semana Municipal da Participação Popular e da Cidadania, que poderá contar com a participação dos Poderes Executivo e Legislativo, dos Conselhos e Associações Municipais e da população interessada na organização de palestras, seminários, campanhas educativas e congressos que tenham como temática a participação popular e os diversos mecanismos de controle social, sendo facultada a divulgação das realizações e ações dos Conselhos Municipais com o objetivo de favorecer o conhecimento e reconhecimento do valor da participação popular pela sociedade paulistana.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16319",
+   "short": "Lei 16319/2015",
+   "title": "Lei nº 16.319, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16319-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16319",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16319-de-24-de-novembro-de-2015",
+     "sha256": "9cbc8d36acbab9cb2cac669a7d054f6456fc34e27c239d2c2e57562ef923a3a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.319 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 158/15)(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa de Rua de São Vito Mártir, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Festa de Rua de São Vito Mártir.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16320",
+   "short": "Lei 16320/2015",
+   "title": "Lei nº 16.320, de 24/11/2015 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Mês do Agosto Dourado, a ser realizado anualmente no mês de agosto, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16320-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16320",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16320-de-24-de-novembro-de-2015",
+     "sha256": "e12623146832bd2bdb7a0a3cb5e7ecc8313b9051880145080c2753e950e91ebd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.320 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 175/15)(VEREADOR AURÉLIO NOMURA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Mês do Agosto Dourado, a ser realizado anualmente no mês de agosto, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Mês do Agosto Dourado, com o objetivo de sensibilizar sobre a importância do aleitamento materno, mediante a organização e participação voluntária de profissionais da saúde e população interessada, incentivando-se a instalação de iluminação cor dourada na parte externa dos prédios públicos, dentre outros de relevante importância e grande fluxo de pessoas, bem como a utilização do laço dourado como símbolo da campanha.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16321",
+   "short": "Lei 16321/2015",
+   "title": "Lei nº 16.321, de 24/11/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16321-de-24-de-novembro-de-2015",
+   "first_law": "lei-2015-16321",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16321-de-24-de-novembro-de-2015",
+     "sha256": "8027327623c8396217b27d0cb44e596b13cecc121e7ebbeeb6661a50e7eb64be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.321 DE 24 DE NOVEMBRO DE 2015\n(PROJETO DE LEI Nº 340/15) (VEREADOR ALFREDINHO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o 1º de Maio da CUT (Central Única dos Trabalhadores) no Parque das Árvores, e dá outras providências.\nAntonio Donato, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"1º de Maio da CUT (Central Única dos Trabalhadores) no Parque das Árvores.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de novembro de 2015.\nANTONIO DONATO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de novembro de 2015.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16322",
+   "short": "Lei 16322/2015",
+   "title": "Lei nº 16.322, de 01/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16322-de-01-de-dezembro-de-2015",
+   "first_law": "lei-2015-16322",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16322-de-01-de-dezembro-de-2015",
+     "sha256": "f8978533dbc3e52d76388838440188c18530d39a3aa0c49eb172eab0a81c94dd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.322, DE 1º DE DEZEMBRO DE 2015\n(Projeto de Lei nº 158/14, dos Vereadores Coronel Telhada - PSDB, Andrea Matarazzo - PSDB, Aurélio Nomura - PSDB, Claudinho de Souza - PSDB, Eduardo Tuma - PSDB, Gilson Barreto - PSDB e Mario Covas Neto - PSDB)\nDenomina Praça Major Sandro Moretti Silva Andrade o espaço livre que especifica, localizado no Distrito de Vila Sônia, Subprefeitura Butantã, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Major Sandro Moretti Silva Andrade o espaço livre delimitado pelas ruas Joaquim Maciel Filho, Ibiraporã, Dr. Luís Ulhoa Cintra, Luís Ramos Figueira e Paschoal Graziano (Setor 171 - Quadras 68 e 241 e Setor 123 - Quadra 27), localizado no Distrito de Vila Sônia, Subprefeitura Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 1º de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16323",
+   "short": "Lei 16323/2015",
+   "title": "Lei nº 16.323, de 02/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16323-de-02-de-dezembro-de-2015",
+   "first_law": "lei-2015-16323",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16323-de-02-de-dezembro-de-2015",
+     "sha256": "aee4ef8b5c4ea7099589d5ff011e42aab819e631d51e2ab2197aec47adf13058",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.323, DE 2 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 11/15, do Vereador Toninho Paiva - PR)\nDenomina Passarela Remédios Domingues Calandriello o logradouro público inominado que especifica no Distrito Sacomã, Subprefeitura do Ipiranga, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Passarela Remédios Domingues Calandriello o logradouro inominado destinado a deslocamento exclusivo de pedestres, situado sobre a Via Anchieta, entre a Rua Américo Samarone e Estrada das Lágrimas (Setor 43 - Quadra 193 e Setor 50 - Quadras 129 e 130), Distrito Sacomã, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16324",
+   "short": "Lei 16324/2015",
+   "title": "Lei nº 16.324, de 02/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16324-de-02-de-dezembro-de-2015",
+   "first_law": "lei-2015-16324",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16324-de-02-de-dezembro-de-2015",
+     "sha256": "f476aef2705765feea0c7f185b39e9052353567f10b54b036bec51c853f8f1e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.324, DE 2 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 459/14, do Vereador Claudinho de Souza - PSDB)\nDenomina como Praça José Simões Costa o espaço público inominado situado no Bairro de Vila Palmeiras, Subprefeitura da Freguesia do Ó/Brasilândia, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Simões Costa o espaço público sem denominação localizado na confluência da Rua Bartolomeu Faria (Cadlog 02925-4) e Rua Antônio de Couros (Cadlog 01665-9), Setor 76 - Quadra 120, no Bairro de Vila Palmeiras, Subprefeitura da Freguesia do Ó/Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16326",
+   "short": "Lei 16326/2015",
+   "title": "Lei nº 16.326, de 15/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16326-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16326",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16326-de-15-de-dezembro-de-2015",
+     "sha256": "44ebc5719da7f98a6cfeb815a13b93dacecb7c3011e7272fbd2fc3a081076c51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.326, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 721/13, do Vereador Marquito - PTB)\nDenomina Praça Professor Amaro de Abreu Filho o espaço livre delimitado pela Rua Ibirarema e pelas avenidas Botuquara e Professor Abraão de Morais (Setor 309 - Quadra 42), localizado no Distrito da Saúde, Subprefeitura Vila Mariana, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Professor Amaro de Abreu Filho o espaço livre delimitado pela Rua Ibirarema e pelas avenidas Botuquara e Professor Abraão de Morais (Setor 309 - Quadra 42), localizado no Distrito da Saúde, Subprefeitura Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16327",
+   "short": "Lei 16327/2015",
+   "title": "Lei nº 16.327, de 15/12/2015 (Denomina Travessa Nelson Soares o logradouro inominado, localizado no Distrito do Carrão, Subprefeitura do Aricanduva/Formosa/Carrão, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16327-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16327",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16327-de-15-de-dezembro-de-2015",
+     "sha256": "bc8a0e1687e616fc3ef33ef686a536164589c6e54d36c9b9b25cdbe2c195e599",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.327, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 447/14, do Vereador Ota - PROS)\nDenomina Travessa Nelson Soares o logradouro inominado, localizado no Distrito do Carrão, Subprefeitura do Aricanduva/Formosa/Carrão, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Nelson Soares o logradouro que começa na altura do número 167 da Rua Francisca de Paula e termina a aproximadamente 45 metros além do seu início, em balão de retorno (Setor 116 - Quadra 538), situado no Distrito do Carrão, Subprefeitura do Aricanduva/Formosa/Carrão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16328",
+   "short": "Lei 16328/2015",
+   "title": "Lei nº 16.328, de 15/12/2015 (Denomina Praça Diácono José Pereira Lopes o logradouro público inominado que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16328-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16328",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16328-de-15-de-dezembro-de-2015",
+     "sha256": "aa806fe5f15e1da367a278d6d5b9cb1d2cb08108737564a08b0d8b433ecf2d42",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.328, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 491/14, do Vereador Ota - PROS)\nDenomina Praça Diácono José Pereira Lopes o logradouro público inominado que especifica, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Diácono José Pereira Lopes o logradouro público inominado localizado na esquina da Rua Marquês de Olinda com a Rua Salvador Simões, no Bairro Vila Dom Pedro I - Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16329",
+   "short": "Lei 16329/2015",
+   "title": "Lei nº 16.329, de 15/12/2015 (Denomina Travessa Sergio Pinheiro a viela sem denominação, localizada no Distrito de Santana, Subprefeitura de Santana/Tucuruvi, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16329-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16329",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16329-de-15-de-dezembro-de-2015",
+     "sha256": "390e3d1b61a8da71e711498ded5c15540a55aa2be8c31a9e1047ba646185225c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.329, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 198/15, do Vereador Nelo Rodolfo - PMDB)\nDenomina Travessa Sergio Pinheiro a viela sem denominação, localizada no Distrito de Santana, Subprefeitura de Santana/Tucuruvi, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Sergio Pinheiro a viela sem denominação, que começa na Rua João Pizarro Gabizo e termina na Rua Vitória Perpétua, no Setor 69 - Quadras 205 e 206, localizado no Distrito de Santana, Subprefeitura de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16330",
+   "short": "Lei 16330/2015",
+   "title": "Lei nº 16.330, de 15/12/2015 (Denomina Praça João Chile o espaço livre situado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16330-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16330",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16330-de-15-de-dezembro-de-2015",
+     "sha256": "cbf8432f7c9d452bd29334bdec4060db3f8ef6bc9e83eb5ae6c47a94b8ac9638",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.330, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 341/15, do Vereador Natalini - PV)\nDenomina Praça João Chile o espaço livre situado no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça João Chile o espaço livre delimitado pela Rua Mutu-Poranga, lotes particulares e divisa com o Setor 110, localizado no Setor 60, Quadras 334, 335 e 336, situado no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16331",
+   "short": "Lei 16331/2015",
+   "title": "Lei nº 16.331, de 15/12/2015 (Denomina Praça Roque Orlando de Deus o espaço livre que especifica situado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16331-de-15-de-dezembro-de-2015",
+   "first_law": "lei-2015-16331",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16331-de-15-de-dezembro-de-2015",
+     "sha256": "66fd1aef391f5c4951739bb06fa47ea3b0cf513e3d1c38bb6eef61be4010edd7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.331, DE 15 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 409/15, do Vereador Reis - PT)\nDenomina Praça Roque Orlando de Deus o espaço livre que especifica situado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 24 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Roque Orlando de Deus o espaço livre, delimitado pelas ruas Nelson Brissac, Caio Gracco da Silva Prado, do prolongamento sem denominação da Avenida Padre Adolfo Kolping e do prolongamento sem denominação da Rua Curumim, localizado no Setor 168, Quadras 133, 243 e Setor 169, Quadras 145 e 156, situado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 15 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16332",
+   "short": "Lei 16332/2015",
+   "title": "Lei nº 16.332, de 18/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16332-de-18-de-dezembro-de-2015",
+   "first_law": "lei-2015-16332",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16332-de-18-de-dezembro-de-2015",
+     "sha256": "15d9e8c075accdc4174f39ed48742ed58700c5e13fb0ff0b5549a85217ab3f19",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.332, DE 18 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 247/15, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nIntroduz alterações na legislação tributária municipal relativa ao processo administrativo fiscal, ao Domicílio Eletrônico do Cidadão Paulistano - DEC e a isenções e descontos do Imposto Predial, conferindo nova redação ao § 1º do art. 50 da Lei nº 14.107, de 12 de dezembro de 2005; ao \"caput\" do art. 41 da Lei nº 15.406, de 08 de julho de 2011, e inserindo parágrafo único ao art. 8º da Lei nº 15.889, de 05 de novembro de 2013.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de dezembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do art. 50 da Lei nº 14.107, de 12 de dezembro de 2005, passa a vigorar com a seguinte redação:\n\"Art. 50. .....................................................\n§ 1º O pedido de reforma deverá ser formulado pelo Representante Fiscal, no prazo de 15 (quinze) dias, contados da data de recebimento dos autos pela Chefia da Representação Fiscal, e dirigido ao Presidente do Conselho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os arts. 41 e 46 da Lei nº 15.406, de 08 de julho de 2011, passam a vigorar com a seguinte redação:\n\"Art. 41. Fica instituída a comunicação eletrônica entre a Secretaria Municipal de Finanças e Desenvolvimento Econômico e o sujeito passivo dos tributos municipais por meio do Domicílio Eletrônico do Cidadão Paulistano - DEC, sendo obrigatório o credenciamento mediante uso de assinatura eletrônica, observadas a forma, condições e prazos previstos em regulamento, para:\nI - as pessoas jurídicas;\nII - os condomínios edilícios residenciais e comerciais;\nIII - os delegatários de serviço público que prestam serviços notariais e de registro;\nIV - os advogados regularmente constituídos nos processos e expedientes administrativos;\nV - o empresário individual a que se refere o art. 966 do Código Civil, não enquadrado como Microempreendedor Individual.\n§ 3º Para as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006, e para o empresário individual a que se refere o inciso V do \"caput\" deste artigo, que não possuam certificado digital, o credenciamento será efetuado por meio de código de acesso, na forma que dispuser a Secretaria Municipal de Finanças e Desenvolvimento Econômico.\"\n\"Art. 46. ...............................................................\nParágrafo único. Poderão ser realizados por meio do DEC, a critério da Secretaria Municipal de Finanças e Desenvolvimento Econômico:\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O art. 8º da Lei nº 15.889, de 05 de novembro de 2013, passa a vigorar com a seguinte redação:\n\"Art. 8º ......................................................\nParágrafo único. Para os efeitos do \"caput\" deste art. será considerado:\nI - o imóvel do qual resultar maior valor de isenção ou desconto;\nII - somente o possuidor, quando constarem do Cadastro Imobiliário Fiscal os nomes do proprietário e do possuidor.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16333",
+   "short": "Lei 16333/2015",
+   "title": "Lei nº 16.333, de 18/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16333-de-18-de-dezembro-de-2015",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2015-16333"
+   ],
+   "versions": [
+    {
+     "from": "2017-07-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16333-de-18-de-dezembro-de-2015",
+     "sha256": "5613bf2d1ece0df49f7749c787d7eda0a60bf0247284b8d12ff3b8a680b77a2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.333, DE 18 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 168/10, do Vereador Antonio Donato - PT)\nInstitui o Plano Municipal do Livro, Leitura, Literatura e Biblioteca (PMLLLB) do Município de São Paulo, com o fim de assegurar a todos o acesso ao livro, à leitura e à literatura.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Plano Municipal do Livro, Leitura, Literatura e Biblioteca (PMLLLB) do Município de São Paulo, com o fim de assegurar a todos o acesso ao livro, à leitura e à literatura.\n§ 1º Caberá ao Poder Público Municipal a articulação e a mobilização de recursos, programas e estratégias intersetoriais e a implementação dos compromissos assumidos neste Plano em parceria com a sociedade civil.\n§ 2º A gestão ficará a cargo da Secretaria Municipal de Educação e da Secretaria Municipal de Cultura, sem prejuízo da participação de outras secretarias e órgãos municipais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A implementação do Plano Municipal do Livro, Leitura, Literatura e Biblioteca (PMLLLB) do Município de São Paulo será orientada por documento anexo elaborado pelo Grupo de Trabalho (GT) do PMLLLB com base em um processo participativo, democrático e popular, por intermédio de metas a serem alcançadas a curto, médio e longo prazo.\nParágrafo único. Para os fins desta lei e de seu anexo, entende-se por:\nI - curto prazo, o período de seis meses a um ano;\nII - médio prazo, o período de um ano a quatro anos;\nIII - longo prazo, o período de quatro a dez anos.\nDOS PRINCÍPIOS\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O PMLLLB de São Paulo tem como princípios fundamentais:\nI - a democratização do acesso ao livro, à leitura, à literatura e à informação como um direito do cidadão;\nII - a formação de leitores e mediadores no Município;\nIII - a valorização institucional da leitura e incremento de seu valor simbólico;\nIV - o desenvolvimento sustentável da economia do livro e o estímulo à capilarização da indústria e do mercado editorial na cidade;\nV - o reconhecimento à literatura como direito humano, a compreensão de sua natureza formativa e o incentivo à imaginação, à criação e à educação literária;\nVI - a garantia da acessibilidade ao livro, à leitura, à literatura e aos espaços a eles dedicados, em todas as suas acepções: atitudinal, arquitetônica, comunicacional, instrumental, metodológica e programática;\nVII - a consideração da pessoa com deficiência em todas as atividades desenvolvidas;\nVIII - o estímulo à produção literária;\nIX - a preservação do patrimônio literário, bibliográfico e documental do Município;\nX - o estímulo à bibliodiversidade, em todas as suas formas;\nXI - a defesa e a promoção da diversidade cultural, de gênero, étnico-racial, política e de pensamento;\nXII - o reconhecimento às tradições escritas e orais;\nXIII - a leitura e a escrita como meios fundamentais de produção, reflexão e difusão da cultura, da informação e do conhecimento;\nXIV - a integração entre as secretarias e órgãos municipais para a implementação do PMLLLB;\nXV - a interação com as políticas nacional (PNLL), estadual e municipal voltadas ao livro e à leitura.\nDOS OBJETIVOS\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º São objetivos do PMLLLB:\nI - estabelecer políticas públicas claras para o livro, a leitura, a literatura e as bibliotecas e garantir recursos para sua implementação;\nII - assegurar o acesso aos livros e a inclusão de todos;\nIII - promover a integração entre escolas, bibliotecas e outros espaços dedicados ao livro, à leitura e à literatura;\nIV - desenvolver e apoiar a criação, o conhecimento e a reflexão sobre a literatura;\nV - debater e promover a bibliodiversidade;\nVI - estimular a formação de mediadores;\nVII - apoiar o desenvolvimento da economia sustentável do livro, da escrita à edição e circulação;\nVIII - tornar São Paulo uma cidade leitora de expressiva produção literária, com políticas concretas e equipamentos condizentes e presentes em todas as regiões;\nIX - promover e fomentar a literatura não hegemônica, a literatura marginal periférica e a literatura de mulheres, negros e LGBT.\nDAS METAS\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para assegurar os compromissos e as metas assinaladas no anexo desta lei, a Secretaria Municipal de Educação e a Secretaria Municipal de Cultura deverão revisar seus programas atuais, bem como estabelecer novos programas e ações, no prazo máximo de um ano, sem prejuízo da continuidade dos programas existentes, nos seguintes eixos:\nI - democratização do acesso;\nII - fomento à leitura e à formação de mediadores;\nIII - valorização institucional da leitura e incremento de seu valor simbólico;\nIV - desenvolvimento da economia do livro;\nV - literatura.\nParágrafo único. Os programas e as ações elaboradas nos termos do \"caput\" deste artigo deverão respeitar, no que couber, os prazos estabelecidos no anexo desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A fim de acompanhar a gestão do PMLLLB e de promover a análise, a supervisão, o acompanhamento e a avaliação de sua implementação, estabelece-se que:\nI - a Secretaria Municipal de Educação e a Secretaria Municipal de Cultura apresentarão à sociedade um relatório semestral sobre a implementação do PMLLLB, que inclua um balanço de cumprimento de metas do PMLLLB, e promoverão consulta pública e debate sobre o tema;\nII - a Prefeitura, em parceria com a sociedade civil, promoverá, pelo menos uma vez por ano, um Encontro Municipal sobre o desenvolvimento do PMLLLB;\nIII - (VETADO)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O acompanhamento do Plano será feito por membros de um Conselho Municipal, formado por representantes da Secretaria Municipal de Educação, da Secretaria Municipal de Cultura, da Câmara Municipal e por majoritariamente membros da sociedade civil, tais como professores, escritores, editores, bibliotecários, críticos literários, livreiros, representantes de pessoas com deficiência, saraus, centros de pesquisa e universidades.\nParágrafo único. São competências deste Conselho, além daquelas estabelecidas em regimento interno:\nI - no que compete a este Plano, opinar sobre a formulação do orçamento das secretarias municipais e acompanhar sua execução;\nII - opinar e fiscalizar a utilização de recursos para a implementação do PMLLLB;\nIII - promover discussões, articular demandas regionais e setoriais e buscar devolutivas àquelas instâncias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Prefeitura de São Paulo assegurará recursos orçamentários específicos nas Secretarias Municipais de Cultura e Educação, para programas, projetos, ações e outras iniciativas previstas no PMLLLB, suplementando, se necessário, por meio do Fundo Municipal de Cultura.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2015.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.333, de 18/12/2015 was altered by acts of 1 date(s), the latest 2017-07-21."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16334",
+   "short": "Lei 16334/2015",
+   "title": "Lei nº 16.334, de 30/12/2015 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2016.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16334-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16334",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16334-de-30-de-dezembro-de-2015",
+     "sha256": "77dba07398a4ba13df706ff9e9a741c2f4282f8035d86e3a083445bfcefd35d9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.334, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 538/15, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2016.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 21 de dezembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2016, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta;\nII - o Orçamento de Investimentos das Empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2016.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º O Orçamento Fiscal dos Poderes do Município, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta, para o exercício de 2016, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 54.407.300.347,00 (cinquenta e quatro bilhões, quatrocentos e sete milhões, trezentos mil e trezentos e quarenta e sete reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A receita total do Orçamento Fiscal, a ser realizada de acordo com a legislação em vigor, está orçada segundo as seguintes estimativas:\nValor (em R$)\nRECEITAS CORRENTES46.284.059.761\nReceita Tributária23.447.700.314\nReceita de Contribuições1.768.763.808\nReceita Patrimonial995.384.760\nReceita de Serviços530.238.056\nTransferências Correntes16.862.159.046\nOutras Receitas Correntes2.851.265.364\nRecursos Arrecadados em Exercícios Anteriores (RAEA)89.933.210\nReceitas de Contribuições Intraorçamentárias1.945.632.135\nReceita Patrimonial Intraorçamentária561.000\nReceita de Serviços Intraorçamentária12.623.921\nDeduções da Receita Tributária(140.000.000)\nDeduções de Transferências Correntes(2.027.362.783)\nDeduções de Outras Receitas Correntes(52.839.070)\nRECEITAS DE CAPITAL8.123.240.586\nOperações de Crédito101.980.200\nAlienação de Bens763.086.311\nAmortização de Empréstimo105.994.768\nTransferências de Capital3.884.757.021\nOutras Receitas de Capital3.169.380.886\nTransferências de Capital - Intraorçamentárias98.041.400\nTOTAL DA RECEITA54.407.300.347\nParágrafo único. Foram considerados Recursos Arrecadados de Exercícios Anteriores - RAEA, de acordo com o que dispõe a Portaria Conjunta STN/SOF nº 2, de 10 de dezembro de 2014, exclusivamente para atender necessidades específicas de recursos vinculados, conforme explicitado no anexo Demonstrativo de Aplicação de Recursos Arrecadados em Exercícios Anteriores.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nPODER LEGISLATIVO/ADMINISTRAÇÃO DIRETA\n09 Câmara Municipal de São Paulo570.714.000\n76 Fundo da CMSP6.289.000\n10 Tribunal de Contas do Município de São Paulo235.785.000\n77 Fundo do TCMSP2.950.000\nTOTAL815.738.000\nPODER EXECUTIVO/ADMINISTRAÇÃO DIRETA\n11 Secretaria do Governo Municipal411.645.874\n12 Secretaria Municipal de Coordenação das Subprefeituras685.290.224\n13 Secretaria Municipal de Gestão251.858.428\n14 Secretaria Municipal de Habitação749.416.037\n16 Secretaria Municipal de Educação11.096.151.037\n17 Secretaria Municipal de Finanças e Desenvolvimento Econômico471.734.100\n19 Secretaria Municipal de Esportes, Lazer e Recreação586.006.560\n20 Secretaria Municipal de Transportes2.248.510.385\n21 Secretaria Municipal dos Negócios Jurídicos248.633.687\n22 Secretaria Municipal de Infraestrutura Urbana e Obras1.828.582.666\n23 Secretaria Municipal de Serviços69.690.675\n24 Secretaria Municipal de Assistência e Desenvolvimento Social203.437.962\n25 Secretaria Municipal de Cultura501.025.834\n27 Secretaria Municipal do Verde e do Meio Ambiente169.270.706\n28 Encargos Gerais do Município7.087.995.429\n30 Secretaria Munic. de Desenvolvimento, Trabalho e Empreendedorismo156.197.370\n31 Secretaria Municipal de Relações Internacionais e Federativas9.149.971\n32 Controladoria Geral do Município41.171.655\n34 Secretaria Municipal de Direitos Humanos e Cidadania83.306.832\n36 Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida 21.685.961\n37 Secretaria Municipal de Desenvolvimento Urbano1.659.042.435\n38 Secretaria Municipal de Segurança Urbana498.225.882\n39 Secretaria Municipal de Promoção da Igualdade Racial28.685.037\n40 Secretaria Municipal de Relações Governamentais33.247.055\n41 Subprefeitura Perus32.172.103\n42 Subprefeitura Pirituba/Jaraguá43.325.429\n43 Subprefeitura Freguesia/Brasilândia38.918.548\n44 Subprefeitura Casa Verde/Cachoeirinha33.700.034\n45 Subprefeitura Santana/Tucuruvi38.856.699\n46 Subprefeitura Jaçanã/Tremembé36.605.107\n47 Subprefeitura Vila Maria/Vila Guilherme38.889.432\n48 Subprefeitura Lapa38.321.505\n49 Subprefeitura Sé75.415.513\n50 Subprefeitura Butantã48.933.915\n51 Subprefeitura Pinheiros39.642.122\n52 Subprefeitura Vila Mariana36.295.324\n53 Subprefeitura Ipiranga45.780.827\n54 Subprefeitura Santo Amaro40.118.013\n55 Subprefeitura Jabaquara32.227.663\n56 Subprefeitura Cidade Ademar39.870.208\n57 Subprefeitura Campo Limpo54.780.051\n58 Subprefeitura M´Boi Mirim49.225.817\n59 Subprefeitura Capela do Socorro50.730.280\n60 Subprefeitura Parelheiros37.075.215\n61 Subprefeitura Penha49.397.348\n62 Subprefeitura Ermelino Matarazzo32.919.917\n63 Subprefeitura São Miguel47.874.295\n64 Subprefeitura Itaim Paulista40.023.575\n65 Subprefeitura Mooca47.366.377\n66 Subprefeitura Aricanduva/Formosa/Carrão41.845.856\n67 Subprefeitura Itaquera47.743.123\n68 Subprefeitura Guaianases45.121.420\n69 Subprefeitura Vila Prudente33.592.027\n70 Subprefeitura São Mateus59.377.637\n71 Subprefeitura Cidade Tiradentes32.895.617\n72 Subprefeitura de Sapopemba27.347.488\n74 Secretaria Municipal de Comunicação e Informação Social20.811.702\n78 Secretaria Municipal de Licenciamento71.877.059\n79 Secretaria Municipal de Políticas para as Mulheres22.179.438\n75 Fundo Municipal de Parques2.000\n84 Fundo Municipal de Saúde7.677.738.415\n86 Fundo Municipal de Saneamento Ambiental e Infraestrutura367.500.000\n87 Fundo Municipal de Desenvolvimento de Trânsito1.067.194.410\n88 Fundo de Preservação do Patrimônio Histórico e Cultural463.480\n89 Fundo Municipal de Esportes, Lazer e Recreação2.584.398\n90 Fundo Municipal dos Direitos da Criança e do Adolescente126.517.320\n93 Fundo Municipal de Assistência Social1.154.025.525\n94 Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável109.226.540\n95 Fundo Especial de Promoção de Atividades Culturais780.000\n96 Fundo Municipal de Turismo1.000\n97 Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano2.330.000\n98 Fundo de Desenvolvimento Urbano305.868.000\n99 Fundo Municipal de Iluminação Pública541.143.817\nTOTAL41.966.593.391\nPODER EXECUTIVO/ADMINISTRAÇÃO INDIRETA\n01 Autarquia Hospitalar Municipal1.484.901.755\n02 Hospital do Servidor Público Municipal7.154.611.720\n03 Instituto de Previdência Municipal de São Paulo109.226.540\n04 Serviço Funerário do Município de São Paulo179.500.000\n80 Fundação Paulistana de Educação e Tecnologia29.217.904\n81 Autoridade Mun. de Limp. Urbana/Fundo Mun. de Limp. Urbana1.967.968.877\n83 Comapanhia Metropolitana de Habitação de São Paulo261.805.337\n85 Fundação Theatro Municipal de São Paulo121.151.883\n91 Fundo Municipal de Habitação116.750.895\nTOTAL11.624.968.956\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º A despesa total das empresas, nela incluída a de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2016, está fixada em R$ 4.330.929.620,00 (quatro bilhões, trezentos e trinta milhões, novecentos e vinte e nove mil e seiscentos e vinte reais), com a seguinte distribuição:\nEMPRESASValor (R$)\nCompanhia de Engenharia de Tráfego1.106.015.764\nCia. São Paulo de Desenvolvimento e Mobilização de Ativos - SPDA 2.563.000\nSão Paulo Negócios - SP Negócios10.592.199\nEmpresa de Tecnol. da Informação e Comunicação - PRODAM332.958.641\nSão Paulo Urbanismo - SP Urbanismo139.822.822\nSão Paulo Obras - SP Obras71.038.120\nSão Paulo Transporte S/A - SPTrans2.303.150.918\nSão Paulo Turismo S/A - SPTuris321.527.474\nCia. Paulistana de Securitização - SP Securitização701.000\nEmpresa de Cinema e Audiovisual de São Paulo - SP Cine42.559.682\nTOTAL4.330.929.620\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º Fica o Executivo autorizado a contratar operações de crédito no País e no Exterior, desde que expressamente previstas em lei autorizativa específica aprovada pelo Legislativo Municipal, observado o disposto na Constituição Federal, nas resoluções do Senado Federal que disciplinam o endividamento dos Municípios, na Lei Orgânica do Município de São Paulo e nas leis autorizativas das operações de crédito.\n§ 1º As taxas de juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas aplicáveis à matéria.\n§ 2º Os orçamentos do Município consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas a amortização, juros e demais encargos decorrentes das operações de crédito autorizadas nos termos do \"caput\" deste artigo.\n§ 3º Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Município, ficando a Secretaria Municipal de Finanças e Desenvolvimento Econômico autorizada a adotar as providências que se façam necessárias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A contratação de qualquer empréstimo dependerá de autorização legislativa específica, ainda que anteriormente autorizada.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Para assegurar o pagamento integral de operações de crédito contratadas com a Caixa Econômica Federal - CEF, Banco do Brasil - BB e com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, fica o Executivo autorizado a ceder ou dar em garantia, por qualquer forma em direito admitida, os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Município na arrecadação da União, bem como das suas receitas próprias, na forma do disposto, respectivamente, no art. 159, inciso I, alíneas \"b\" e \"d\", e no art. 158, ambos da Constituição Federal.\nParágrafo único. A cessão ou constituição de garantia em favor da CEF, do BB e do BNDES deverá atender às condições usualmente praticadas por aquelas instituições financeiras, incluindo, dentre outras, as seguintes prescrições:\nI - caráter irrevogável e irretratável;\nII - cessão dos direitos e créditos a título \"pro solvendo\", ficando a quitação condicionada ao efetivo recebimento dos valores cedidos pelo credor;\nIII - sub-rogação automática da vinculação em garantia ou da cessão sobre os direitos e créditos que venham a substituir os impostos previstos no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, no caso de sua extinção, assim como em relação aos novos fundos que sejam criados em substituição;\nIV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos dados em garantia, até o montante necessário ao pagamento integral das parcelas da dívida vencidas e não pagas, incluindo os respectivos acessórios, no caso de inadimplemento do Município;\nV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos que tenham sido objeto de cessão, na data de vencimento das parcelas da dívida de responsabilidade do Município, até o limite do valor devido, incluindo os respectivos acessórios.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As operações de crédito externas com instituições financeiras internacionais, dentre elas o Banco lnteramericano de Desenvolvimento - BID e o Banco Mundial, serão garantidas pela União Federal.\n§ 1º Para obter as garantias da União, visando às contratações de operações de crédito externas, fica o Executivo autorizado a prestar contragarantias ao Tesouro Nacional.\n§ 2º As contragarantias de que trata o § 1º deste artigo compreendem a cessão de:\nI - direitos e créditos relativos a cotas ou parcelas da participação do Município na arrecadação da União, na forma do disposto no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, ou resultantes de tais cotas ou parcelas transferíveis de acordo com os preceitos da Constituição Federal;\nII - receitas próprias do Município previstas no art. 158 da Constituição Federal, nos termos do § 4º de seu art. 167.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Nos termos do disposto no inciso III do § 1º do art. 8º da Medida Provisória nº 2185-35, de 24 de agosto de 2001, na redação conferida pela Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\nParágrafo único. O Executivo poderá oferecer garantias para consecução do disposto no \"caput\" deste artigo, aplicando-se, no que couber, o disposto no art. 8º desta lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Fica o Poder Executivo autorizado a efetuar aditamento ao Contrato de Confissão, Consolidação, Promessa de Assunção e Refinanciamento de Dívidas celebrado com a União em 3 de maio de 2000, ao amparo da Medida Provisória nº 2.185-35, para a inclusão das alterações e benefícios previstos na Lei Complementar nº 148, de 25 de novembro de 2014, com as alterações introduzidas pela Lei Complementar nº 151, de 5 de agosto de 2015.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Fica o Poder Executivo autorizado a firmar com a União Programa de Acompanhamento Fiscal, sob a gestão do Ministério da Fazenda, previsto no art. 5º da Lei Complementar nº 148, de 25 de novembro de 2014, com as alterações introduzidas pela Lei Complementar nº 151, de 5 de agosto de 2015, assumir os compromissos previstos no seu § 1º e adotar as medidas necessárias à implementação do Programa.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Adicionais Suplementares\nArt. 13. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares por decreto, devidamente justificados, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, para a Administração Direta, Indireta e seus Fundos Especiais, até o limite de 11% (onze por cento) do total da despesa fixada no art. 2º desta lei, criando, se necessário, elementos de despesa e fontes de recurso dentro de cada projeto, atividade ou operação especial.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Ficam excluídos do limite estabelecido no art. 13 desta lei os créditos adicionais suplementares:\nI - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinados a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nIV - destinados a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal nº 4.320, de 1964;\nV - destinados a suprir insuficiências nas dotações das funções Educação, Assistência Social, Saúde, Habitação e Saneamento;\nVI - com remanejamento de recursos entre órgãos da Administração Direta e Indireta;\nVII - abertos com recursos de operações de crédito autorizadas e/ou contratadas durante o exercício;\nVIII - abertos com recursos provenientes de emendas parlamentares estaduais ou federais;\nIX - abertos com recursos provenientes do Orçamento do Estado de São Paulo para cobertura de quaisquer despesas, em especial na área de mananciais.\nParágrafo único. Os recursos destinados ao pagamento do grupo de natureza de despesa de pessoal poderão ser remanejados para outras despesas, desde que, comprovadamente, os eventos que subsidiaram a previsão da despesa de pessoal não se concretizem.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a remanejar recursos entre despesas de mesmo grupo alocadas em atividades, projetos e operações especiais de um mesmo programa, sem onerar o limite estabelecido no art. 13 desta lei.\nParágrafo único. Fica a critério do Poder Executivo autorizar a abertura de créditos adicionais suplementares, mediante portaria dos respectivos Titulares dos Órgãos, exclusivamente para os casos em que o elemento de despesa a ser suplementado ou anulado seja da mesma atividade, modalidade de aplicação e fonte, com a devida justificativa.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares à conta de excesso de arrecadação ou superávit financeiro de receitas específicas e vinculadas a determinada finalidade, nos termos do art. 43 da Lei Federal nº 4.320, de 1964, e do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Ficam a Mesa da Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizados a suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 13 desta lei, as dotações dos respectivos Órgãos, desde que os recursos sejam provenientes de anulação total ou parcial de suas dotações orçamentárias, conforme estabelece o inciso II do art. 27 da Lei Orgânica do Município de São Paulo, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto ou atividade.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Ficam as entidades da Administração Indireta autorizadas, por ato próprio, a abrir créditos adicionais suplementares em suas dotações, respeitado o limite estabelecido no art. 13 desta lei, calculado sobre o valor consignado, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto, atividade ou operação especial.\n§ 1º Aplicam-se, no que couber, a cada entidade, as disposições previstas nos arts. 14 e 15 desta lei.\n§ 2º Os pedidos de adequação orçamentária a que se refere o \"caput\" deste artigo deverão ser analisados pelas Secretarias às quais estejam vinculadas e ratificadas pela Secretaria Municipal de Finanças e Desenvolvimento Econômico.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 19. Para efeito do disposto no art. 9º da Lei Complementar Federal nº 101, de 2000, e art. 34 da Lei nº 16.241, de 31 de julho de 2015, serão preservadas, prioritariamente, as dotações das áreas de Educação, Saúde, Habitação, Transporte e Assistência Social.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Os compromissos assumidos pelas unidades deverão se limitar aos recursos orçamentários disponibilizados, em especial àqueles de natureza continuada e às prioridades identificadas no Programa de Metas instituído pelo art. 69-A da Lei Orgânica do Município de São Paulo.\n§ 1º As ações do Programa de Metas deverão ser priorizadas e sistematicamente acompanhadas de modo a garantir o uso dos recursos disponíveis efetivamente necessários à sua execução.\n§ 2º Eventuais despesas realizadas sem a devida cobertura orçamentária deverão ser objeto de apuração de responsabilidade.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Os órgãos responsáveis por entidades da Administração Indireta deverão acompanhar efetivamente as respectivas atividades e, em especial, coordenar o uso dos recursos autorizados nesta lei.\nParágrafo único. As entidades da Administração Indireta, incluindo as fundações, as empresas públicas e as sociedades de economia mista, publicarão, no respectivo sítio na internet, em até 30 (trinta) dias, as receitas e despesas do mês anterior de forma detalhada.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Para cumprir o Programa de Trabalho estabelecido nesta lei, os órgãos orçamentários da Administração Direta e Indireta poderão delegar competência entre si por meio de Nota de Transferência.\n§ 1º A unidade cedente permanecerá responsável pelo mérito do Programa de Trabalho e a unidade executora pela respectiva execução orçamentária, com base nas normas de licitação em vigor.\n§ 2º A transferência financeira na modalidade de aplicação 91 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social, também poderá ser utilizada, mediante despacho decisório do titular do órgão cedente, declarando expressamente a delegação.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. Durante a execução orçamentária, mediante controle interno, deverão ser identificados e avaliados os componentes de custos das ações, para dimensionar se os recursos orçamentários disponíveis comportarão eventual expansão ou geração de novas despesas.\n§ 1º Sempre que cabível deverá ser verificada a possibilidade de financiamento por outras fontes em complemento aos recursos do Tesouro Municipal.\n§ 2º O recurso correspondente às outras fontes que não as do Tesouro Municipal deverá ser aplicado plenamente, com o acompanhamento e orientação das áreas centrais de orçamento, de finanças e dos negócios jurídicos, quando necessário, minimizando-se eventuais restituições.\n§ 3º A execução das despesas orçadas com base em Recursos Arrecadados em Exercícios Anteriores - RAEA, nos termos do parágrafo único do art. 3º desta lei, fica condicionada à confirmação da respectiva disponibilidade financeira.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. (VETADO)\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Para o ano de 2015, as metas fiscais de resultados primário e nominal, que compõem o Demonstrativo III - Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores do Anexo III - Metas Fiscais, prevalecem sobre as metas fixadas pela Lei nº 16.047, de 18 de julho de 2014, alteradas pela Lei nº 16.241, de 2015.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Esta lei entrará em vigor em 1º de janeiro de 2016, retroagindo a 1º de janeiro de 2015 os efeitos do disposto no art. 27.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16335",
+   "short": "Lei 16335/2015",
+   "title": "Lei nº 16.335, de 30/12/2015 (Institui o Programa Municipal São Paulo Afroempreendedor, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16335-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16335",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16335-de-30-de-dezembro-de-2015",
+     "sha256": "ab0950ae6e160d141d2d6334027ee64d08fe567a26e3d9c0713fa706ae5db791",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.335, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 505/13, do Vereador Alfredinho - PT)\nInstitui o Programa Municipal São Paulo Afroempreendedor, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Municipal São Paulo Afroempreendedor, com os seguintes objetivos:\nI - desenvolver estratégias e ações para o fortalecimento e desenvolvimento dos empreendedores negros;\nII - desenvolver estratégias e ações para promover o empreendedorismo negro e de grupos e comunidades tradicionais de matrizes africanas na cidade de São Paulo, nos segmentos cultural, artístico, turístico, estético e identitário;\nIII - promover e fortalecer o empreendedorismo nas comunidades quilombolas, comunidades tradicionais e de terreiros;\nIV - promover ações que desenvolvam a conscientização e a mobilização da população afrodescendente que visem à igualdade de participação no mercado de trabalho;\nV - criar a Rede Municipal de Micro e Pequenos Afroempreendedores, a fim de possibilitar a troca de experiências, intercâmbios, desenvolvimento de negócios solidários para o fortalecimento econômico deste segmento;\nVI - desenvolver estratégias e ações para o fortalecimento e crescimento das iniciativas produtivas no universo da economia criativa, economia solidária e do cooperativismo.\nParágrafo único. Para os fins desta lei, entende-se por afroempreendedor os pequenos e microempresários negros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo deverá criar a Comissão Especial de Apoio ao Afroempreendedor, composta por representantes de secretarias municipais e representantes de entidades da sociedade civil que tenham dentre os seus objetivos estatutários afinidade com os temas abordados pelo Programa criado por esta lei.\n§ 1º É obrigatória a participação na Comissão Especial de Apoio ao Afroempreendedor de ao menos um representante da Secretaria Municipal de Promoção da Igualdade Racial, da Secretaria Municipal do Desenvolvimento, Trabalho e Empreendedorismo e da Secretaria Municipal de Políticas para as Mulheres, sem prejuízo da participação de representantes de outras secretarias municipais, à conveniência do Chefe do Poder Executivo.\n§ 2º Esta Comissão Especial deverá reunir-se periodicamente e será responsável por traçar metas, organizar e acompanhar o cumprimento dos objetivos do Programa Municipal São Paulo Afroempreendedor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos deste Programa, poderão ser celebrados convênios, ajustes e parcerias com pessoas físicas, jurídicas de direito público e privado, nacionais, estrangeiras ou internacionais, cujos objetivos tenham afinidade com os temas abrangidos pelo Programa Municipal São Paulo Afroempreendedor.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta lei no prazo de 90 (noventa) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16336",
+   "short": "Lei 16336/2015",
+   "title": "Lei nº 16.336, de 30/12/2015 (Dispõe sobre a criação do Programa de Incentivo à Doação de Leite Materno “Quem doa leite materno doa vida”, e fixa outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16336-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16336",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16336-de-30-de-dezembro-de-2015",
+     "sha256": "09ab0b81f23195d563b870b2e3d66527a4df2df30517fba38e08589470d4309a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.336, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 363/11, dos Vereadores David Soares - PSD e Souza Santos - PSD)\nDispõe sobre a criação do Programa de Incentivo à Doação de Leite Materno \"Quem doa leite materno doa vida\", e fixa outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no município de São Paulo o Programa de Incentivo à Doação de Leite Materno denominado \"Quem doa leite materno doa vida\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Incentivo à Doação de Leite Materno terá como objetivos fundamentais o incentivo à doação de leite humano materno e a expansão da coleta de leite materno criada pela Lei Municipal nº 13.296, de 15 de janeiro de 2002.\nParágrafo único. O Programa \"Quem doa leite materno doa vida\" será implementado por campanha publicitária educativa, que deverá expor a necessidade da doação de leite materno ao Banco de Leite Humano da municipalidade e enfatizar que a disponibilização de leite humano para recém-nascidos prematuros ou de baixo peso é essencial na garantia da vida, crescimento e desenvolvimento saudável a essas crianças.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Programa de Incentivo à Doação de Leite Materno tem caráter permanente, devendo os órgãos competentes responsáveis por sua execução aprimorá-lo, torná-lo dinâmico e de fácil entendimento pelo público.\nParágrafo único. A campanha educativa deverá incentivar a doação de leite materno, com dados e informações dos locais do Banco de Leite Humano, contemplando o disposto no art. 7º, CCXLIII, da Lei nº 14.485, de 19 de julho de 2007.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16337",
+   "short": "Lei 16337/2015",
+   "title": "Lei nº 16.337, de 30/12/2015 (Institui o Serviço de Atendimento Especial – Serviço Atende, no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16337-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16337",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16337-de-30-de-dezembro-de-2015",
+     "sha256": "b4a8b700b9833d5fc2cdbe93b8a9dcdb364d7fa9e3827afb376faa65c73e9041",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.337, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 564/14, do Vereador Senival Moura - PT)\nInstitui o Serviço de Atendimento Especial - Serviço Atende, no Município de São Paulo.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Serviço de Atendimento Especial - Serviço Atende, destinado a transportar gratuitamente pessoas que não possuem condições de mobilidade e acessibilidade autônoma aos meios de transportes convencionais ou que possuam grandes restrições ao acesso e uso de equipamentos e mobiliários urbanos, com:\nI - deficiência física, temporária ou permanente;\nII - transtornos do espectro do autismo;\nIII - surdocegueira.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Serviço Atende integrará o Sistema de Transporte Coletivo de Passageiros do Município de São Paulo e sua regulamentação, execução, organização, controle e fiscalização caberão à Secretaria Municipal de Transportes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O transporte será feito por veículos do tipo van, similares ou táxis, devidamente adaptados para o transporte confortável e seguro de seus usuários e seus acompanhantes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Serviço Atende disponibilizará a seus usuários as seguintes modalidades de atendimento:\nI - atendimento regular: transporte realizado através de uma programação de viagens fixas e regulares;\nII - atendimento eventual: transporte para viagens esporádicas, para fins específicos;\nIII - atendimento a eventos: transporte nos finais de semana e feriados, a fim de promover a inclusão e interação social e cultural de pessoas com deficiência.\nParágrafo único. Os limites e regras de utilização serão definidos em regulamento, que englobará as três modalidades de atendimento previstas no \"caput\" deste artigo, podendo ser incluídas novas modalidades.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A origem e o destino das viagens dos usuários deverão estar localizados dentro dos limites geográficos do Município de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Qualquer alteração relativa à ampliação ou adequação do Serviço Atende ficará a cargo da Secretaria Municipal de Transportes e da São Paulo Transportes, assegurada a participação da Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida e do Conselho Municipal da Pessoa com Deficiência.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Poder Executivo regulamentará esta lei em 30 dias, contados da data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16340",
+   "short": "Lei 16340/2015",
+   "title": "Lei nº 16.340, de 30/12/2015",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16340-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16340",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16340-de-30-de-dezembro-de-2015",
+     "sha256": "3ce4503d326a37086418d3c8e7a3d2391552100976b89eb24db5081611b291ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.340, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 218/14, do Vereador Reis - PT)\nCria o Programa Selo Igualdade Racial, para promover ações afirmativas de promoção da igualdade racial no âmbito da iniciativa privada no Município de São Paulo, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Selo Igualdade Racial, para promover as ações afirmativas específicas da iniciativa privada, inclusive da rede conveniada, concessionária ou contratada do Poder Público municipal, que estabeleça em suas empresas a porcentagem mínima de cotas a afrodescendentes, disposta na Lei nº 15.939, de 2013.\n§ 1º Somente será concedido o Selo de que trata o \"caput\" se atendida a porcentagem mínima de cotas a afrodescendentes, negras e negros, de 20% (vinte por cento) das vagas.\n§ 2º A porcentagem mínima poderá ser referente somente ao pessoal empenhado na execução dos contratos, convênios e concessões com o Poder Público municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os objetivos do Programa são:\nI - incentivar iniciativas de empresas que busquem aplicar política de cotas raciais a seus funcionários e empregados;\nII - contribuir com a paz social, a liberdade e a igualdade material de oportunidades;\nIII - promover a igualdade racial e a reparação histórica aos afrodescendentes;\nIV - mitigar e paulatinamente eliminar o preconceito e a discriminação racial da sociedade paulistana e brasileira.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Selo Igualdade Racial deverá ser emitido pela Secretaria Municipal de Promoção da Igualdade Racial, podendo envolver análise de documentos, auditorias e/ou inspeções na empresa, análise de serviços e verificação de discriminações no ambiente de trabalho, com o objetivo de avaliar a conformidade da política de igualdade racial e sua manutenção.\n§ 1º O Selo deverá ter validade anual e sofrer reavaliação periódica, observados os mesmos critérios.\n§ 2º As informações do Selo estarão sujeitas a auditoria pública, e este poderá perder a validade se sofrer advertência, multa ou outra penalidade, durante todo o período de regularização.\n§ 3º Emitido o Selo, a Secretaria Municipal de Promoção da Igualdade Racial disponibilizará em seu sítio eletrônico relação completa das empresas certificadas e dará ampla publicidade nos meios disponíveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º É vedada a concessão do Selo às empresas que não estejam:\nI - regularmente instaladas no Município de São Paulo;\nII - em regularidade com a Receita Federal;\nIII - em conformidade com as legislações municipal, estadual, federal e internacional, vigentes para o exercício de suas atividades econômicas; e\nIV - condenadas em última instância pela Justiça brasileira por trabalho escravo e/ou infantil.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Executivo regulamentará a presente lei no prazo de 90 (noventa) dias após sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário, devendo as revisões futuras destinar recursos específicos para o seu fiel cumprimento.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Ficam revogadas todas as disposições em contrário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16341",
+   "short": "Lei 16341/2015",
+   "title": "Lei nº 16.341, de 30/12/2015 (Institui o Programa Municipal de Prevenção ao Alcoolismo entre Mulheres, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16341-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16341",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16341-de-30-de-dezembro-de-2015",
+     "sha256": "05644bdc11a6db22c267a1be3bfa5500eb2fb48cee743da66d0af7b4f7eb23d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.341, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 231/13, do Vereador Ota - PROS)\nInstitui o Programa Municipal de Prevenção ao Alcoolismo entre Mulheres, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Programa Municipal de Prevenção ao Alcoolismo entre Mulheres.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei tem por objetivo proceder à execução de um conjunto de normas e ações que contribuam de modo eficaz para a redução do consumo de bebida alcoólica entre as mulheres, buscando inibir a ingestão excessiva que, entre outras consequências, causa graves riscos à saúde, sendo considerada bebida alcoólica para os efeitos desta lei toda bebida potável com qualquer teor de álcool.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ao longo de cada ano, serão desenvolvidos palestras e seminários sobre o alcoolismo, dirigidos ao público objeto desta lei, além de distribuição de material informativo, folhetos e montagem de quiosques para panfletagem e orientação em locais próximos a boates, bares, restaurantes, danceterias, clubes e congêneres, e ainda em locais e dias de eventos musicais e esportivos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Após a execução de qualquer das políticas públicas objeto desta lei, caso sejam identificadas pessoas que queiram se submeter a tratamento contra o vício, poderão estas ser encaminhadas a qualquer um dos CAPS - Centros de Atenção Psicossocial da cidade de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para execução da presente lei e realização das atividades nela previstas, além da participação das Secretarias Municipais da Saúde, Assistência Social e Políticas para as Mulheres, o Poder Público poderá realizar convênios e parcerias com outros entes governamentais e entidades não governamentais.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-16342",
+   "short": "Lei 16342/2015",
+   "title": "Lei nº 16.342, de 30/12/2015 (Institui o Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16342-de-30-de-dezembro-de-2015",
+   "first_law": "lei-2015-16342",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16342-de-30-de-dezembro-de-2015",
+     "sha256": "ae17824b01e047a0db27cce023d067d9c8026ce7a973e132f80a2c0f377c57aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.342, DE 30 DE DEZEMBRO DE 2015\n(Projeto de Lei nº 328/09, do Vereador Paulo Frange - PTB)\nInstitui o Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de novembro de 2015, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono deverá ser desenvolvido e acompanhado pela Secretaria Municipal da Saúde, com a finalidade de divulgar nos diversos segmentos da sociedade a prevenção, o diagnóstico e seu tratamento.\nParágrafo único. A Secretaria Municipal da Saúde deverá instituir a linha de cuidados para manejo de pacientes com distúrbios respiratórios do sono.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Rede Pública de Saúde deverá prover os recursos e condições para as seguintes ações específicas do Programa:\nI - estabelecer protocolo de atendimento, diagnóstico e tratamento dos distúrbios respiratórios do sono;\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a consecução dos objetivos do Programa de Atendimento a Pessoas com Distúrbios Respiratórios do Sono, a Prefeitura Municipal de São Paulo poderá celebrar convênios e/ou instrumentos de parcerias com pessoas jurídicas de direito público ou privado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará a presente lei no prazo de até 180 (cento e oitenta) dias após a publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de dezembro de 2015, 462º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de dezembro de 2015.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

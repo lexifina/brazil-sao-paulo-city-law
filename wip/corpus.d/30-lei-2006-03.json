@@ -1,0 +1,549 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2006",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "5 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2006-14254": {
+   "label": "Lei nº 14.254, de 28/12/2006",
+   "title": "Dispõe sobre a ampliação das bolsas-treinamento e a revalorização das bolsas-auxílio previstas na Lei nº 13.392, de 17 de julho de 2002.",
+   "kind": "law",
+   "enacted": "2006-12-28",
+   "published": "2006-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14254-de-28-de-dezembro-de-2006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2006-14255": {
+   "label": "Lei nº 14.255, de 28/12/2006",
+   "title": "Dispõe sobre o Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2006-12-28",
+   "published": "2006-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14255-de-28-de-dezembro-de-2006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2006-14256": {
+   "label": "Lei nº 14.256, de 29/12/2006",
+   "title": "Institui o Parcelamento Administrativo de Débitos Tributários - PAT no Município de São Paulo e altera a legislação tributária municipal que especifica, bem como dispositivos das Leis nº 8.645, de 21 de novembro de 1977, nº 14.094, de 6 de dezembro de 2005, nº 14.096, de 8 de dezembro de 2005, nº 14.107, de 12 de dezembro de 2005, e nº 14.133, de 24 de janeiro de 2006, e dá providências correlatas.",
+   "kind": "law",
+   "enacted": "2006-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14256-de-29-de-dezembro-de-2006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2006-14257": {
+   "label": "Lei nº 14.257, de 29/12/2006",
+   "title": "Confere nova redação aos arts. 1º, 4º e 5º da Lei nº 11.716, de 3 de janeiro de 1995, alterada pelas Leis n° 13.493, de 7 de janeiro de 2003, e n° 13.652, de 25 de setembro de 2003, e dá providências correlatas.",
+   "kind": "law",
+   "enacted": "2006-12-29",
+   "published": "2006-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14257-de-29-de-dezembro-de-2006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2006-14258": {
+   "label": "Lei nº 14.258, de 29/12/2006",
+   "title": "ESTIMA A RECEITA E FIXA A DESPESA DO MUNICIPIO DE SAO PAULO PARA O EXERCICIO DE 2007 (PROJETO DE LEI 551/06). OBS.: ORCAMENTO ANUAL PUBLICADO EM SUPLEMENTO NO DOC 15/02/02 - CADERNO UNICO.",
+   "kind": "law",
+   "enacted": "2006-12-29",
+   "published": "2006-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14258-de-29-de-dezembro-de-2006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2006-14254",
+   "short": "Lei 14254/2006",
+   "title": "Lei nº 14.254, de 28/12/2006 (Dispõe sobre a ampliação das bolsas-treinamento e a revalorização das bolsas-auxílio previstas na Lei nº 13.392, de 17 de julho de 2002.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14254-de-28-de-dezembro-de-2006",
+   "first_law": "lei-2006-14254",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14254-de-28-de-dezembro-de-2006",
+     "sha256": "bac7e36e6644479b96956d7307cdb9248d464e5d1d6bca9e01d22877b821b843",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.254, DE 28 DE DEZEMBRO DE 2006\n(Projeto de Lei nº 596/06, do Executivo)\nDispõe sobre a ampliação das bolsas-treinamento e a revalorização das bolsas-auxílio previstas na Lei nº 13.392, de 17 de julho de 2002.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Os arts. 1º, 2º e 7º da Lei nº 13.392, de 17 de julho de 2002. passam a vigorar com a seguinte redação:\nArt. 1º. A Prefeitura do Município de São Paulo concederá, anualmente, até 6.000 (seis mil) bolsas-treinamento a estudantes regularmente matriculados em estabelecimentos de ensino superior, e até 300 (trezentas) a estudantes de ensino médio, a título de oportunidade de estágio de complementação educacional.\n§ 1º. O Executivo poderá ampliar em até 100% (cem por cento) o número de bolsas-treinamento estabelecido no \"caput\" deste artigo, para estudantes regularmente matriculados em estabelecimentos de ensino superior, a título de oportunidade de estágio a ser proporcionado exclusivamente em programas e projetos especiais da Secretaria Municipal de Educação.\n§ 2º. As vagas de estágio resultantes da ampliação de que trata o § 1º deste artigo ficarão alocadas na Secretaria Municipal de Educação e serão geridas pela respectiva Coordenação Setorial de Estágio, em consonância com as diretrizes estabelecidas pela Secretaria Municipal de Gestão para o Sistema de Estágios da Prefeitura do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A cada bolsa-treinamento corresponderá uma bolsa-auxílio, cujo valor fica fixado na seguinte conformidade:\nI - para o estudante regularmente matriculado em estabelecimento de ensino superior, em 100% (cem por cento) do valor da referência de vencimento M-1, constante da Tabela \"A\", Jornada de 30 (trinta) horas de trabalho semanais - J-30, prevista no Anexo II a que se refere o art. 7º da Lei nº 13.748, de 16 de janeiro de 2004, atualizado na conformidade da legislação específica;\nII - para o estudante regularmente matriculado em estabelecimento de ensino médio, em 70% (setenta por cento) da referência de vencimento M-1, constante da Tabela \"A\", Jornada de 30 (trinta) horas de trabalho semanais - J-30, prevista no Anexo II a que se refere o art. 7º da Lei nº 13.748, de 16 de janeiro de 2004, atualizado na conformidade da legislação específica.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Serão celebrados convênios entre a Prefeitura do Município de São Paulo e as instituições de ensino para a concessão de bolsas-treinamento, com prazo de vigência de, no máximo, 5 (cinco) anos.\n§ 1º. A celebração dos convênios referidos no \"caput\" compete:\nI - à Secretaria Municipal de Gestão, em se tratando das bolsas-treinamento previstas no \"caput\" do art. 1º;\nII - à Secretaria Municipal de Educação, em se tratando das bolsas-treinamento previstas no § 1º do art. 1º, observadas as diretrizes estabelecidas pela Secretaria Municipal de Gestão para o credenciamento das instituições de ensino.\n§ 2º. A competência de que trata este artigo poderá ser delegada.\nArt. 2º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\nArt. 3º. Esta lei entrará em vigor na data da sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2006, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2006.\nSTELA GOLDENSTEIN, Respondendo pelo cargo de Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2006-14255",
+   "short": "Lei 14255/2006",
+   "title": "Lei nº 14.255, de 28/12/2006 (Dispõe sobre o Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14255-de-28-de-dezembro-de-2006",
+   "first_law": "lei-2006-14255",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14255-de-28-de-dezembro-de-2006",
+     "sha256": "95ea7a5c315872694e89940d88ffc6bfac080e2b0ec17c741ca4cd53563aaa7c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.255, DE 28 DE DEZEMBRO DE 2006\n(Projeto de Lei nº 698/06, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre o Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM no Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM, instituído no Município de São Paulo pela Lei nº 12.651, de 6 de maio de 1998, alterada pelas Leis nº 13.265, de 2 de janeiro de 2002, e nº 13.788, de 13 de fevereiro de 2004, passa a ser regido pelas disposições previstas nesta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM tem os seguintes objetivos:\nI - assegurar a melhoria das condições de vida do grupo familiar, por meio da concessão de benefício pecuniário;\nII - promover o acesso do grupo familiar à rede socioassistencial do território do Município;\nIII - estimular a freqüência escolar;\nIV - fortalecer os vínculos familiares e a convivência comunitária.\nParágrafo único. O Poder Executivo Municipal, por meio de uma comissão a ser designada, articulará e integrará as políticas sociais municipais e de outros níveis de governo para oferecer atendimento às famílias beneficiárias do Programa, objetivando o desenvolvimento de ações, programas e atividades destinadas ao atendimento integral à família, à criança e ao adolescente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. À Secretaria Municipal de Assistência e Desenvolvimento Social caberá a gestão do Programa, no que se refere a sua coordenação, orientação, acompanhamento e avaliação, devendo estabelecer em portaria específica procedimentos e normas de seleção, controle e acompanhamento unificados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Para participar do Programa, as famílias deverão preencher os seguintes critérios:\nI - ser residentes e domiciliadas no Município de São Paulo há, no mínimo, 2 (dois) anos, na data do cadastramento;\nII - ter renda familiar bruta \"per capita\" mensal inferior ou igual a R$ 175,00 (cento e setenta e cinco reais);\nIII - ter filhos e/ou dependentes, sendo pelo menos um deles com idade inferior a 16 (dezesseis) anos;\nIV - terem os filhos e/ou dependentes idade entre 6 (seis) e 15 (quinze) anos, matriculados em escola, com freqüência igual ou superior a 85% (oitenta e cinco por cento);\nV - possuir carteira de vacinação atualizada dos filhos e/ou dependentes menores de 7 (sete) anos.\n§ 1º. Considera-se família a unidade nuclear, eventualmente ampliada por outros indivíduos que com ela tenham ou não laços de parentesco, que forme um grupo doméstico vivendo sob o mesmo teto, mantendo-se pela contribuição de seus membros, em relação de interdependência.\n§ 2º. Considera-se dependente aquele que assim for definido por lei ou por decisão judicial.\n§ 3º. Considera-se renda familiar bruta mensal o resultado obtido mensalmente pela soma dos rendimentos monetários advindos do trabalho, auferidos por todos os membros da família que tenham idade igual ou superior a 16 (dezesseis) anos completos, bem como de benefícios previdenciários e de outros provenientes de programas de complementação de renda instituídos em âmbito federal ou estadual, ou mantidos por instituições não-governamentais.\n§ 4º. O controle das condições para permanência no Programa de que trata esta lei ficará a cargo das Secretarias Municipais afins.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A aferição da renda familiar e dos demais requisitos para a concessão ou prorrogação do benefício será realizada quando do cadastramento inicial da família ou em qualquer fase do Programa, a critério da coordenação deste.\nParágrafo único. Os cadastros das famílias beneficiárias do Programa e a documentação comprobatória das informações deles constantes serão mantidos pelo Município de São Paulo por prazo fixado em normatização específica.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM consistirá na complementação mensal da renda familiar através da concessão de benefício no valor de até R$ 140,00 (cento e quarenta reais) para famílias que tenham apenas 1 (um) filho ou dependente, de até R$ 170,00 (cento e setenta reais) para famílias que tenham 2 (dois) filhos ou dependentes e de até R$ 200,00 (duzentos reais) para as famílias que tenham 3 (três) ou mais filhos ou dependentes, atendidos os critérios estabelecidos no art. 4º desta lei.\n§ 1º. Considerando o caráter complementar do Programa, serão descontados os valores porventura recebidos concomitantemente de programas de complementação de renda familiar, instituídos pelo Governo Federal ou Estadual, ou por instituições não-governamentais.\n§ 2º. O pagamento do benefício será feito mediante crédito bancário, em nome do responsável legal cadastrado no Programa.\n§ 3º. Os recursos não movimentados pelos respectivos beneficiários no prazo de 90 (noventa) dias, contados da data do depósito, serão transferidos pelo agente de crédito para a conta corrente do Programa.\n§ 4º. Nas hipóteses de falecimento do responsável legal pela família, de sua efetiva separação desta, quer de fato, quer judicial, e da perda do poder familiar ou da guarda dos filhos e/ou dependentes, em razão de cumprimento de decisão judicial, o sucessor ou o novo responsável deverá comunicar imediatamente o fato à coordenação do Programa, para as alterações necessárias no procedimento de pagamento do benefício.\n§ 5º. Havendo impedimento temporário, de qualquer natureza, do responsável legal pela família beneficiária, será aceita procuração por instrumento particular por ele outorgada, com firma reconhecida, conferindo a outro membro da família, maior e capaz, poderes específicos para receber o benefício, por prazo expressamente determinado e enquanto perdurar o impedimento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Os valores dos benefícios e o valor referencial para efeito de ingresso no Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM, previstos nos arts. 4º e 6º desta lei, poderão ser majorados a qualquer tempo pelo Poder Executivo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O pagamento do benefício será automaticamente interrompido se verificada a inobservância, a qualquer tempo, dos requisitos estabelecidos no art. 4º desta lei ou quando esgotado o prazo de permanência da família no Programa fixado no art. 10.\nParágrafo único. O benefício poderá ser novamente requerido quando o atendimento aos requisitos previstos no art. 4º desta lei for restabelecido, respeitado o limite máximo definido no art. 10.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Fica o Poder Executivo autorizado a celebrar ajustes com quaisquer entidades de direito público ou privado, visando ao acompanhamento, execução, avaliação e fiscalização do Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM, bem como para o desenvolvimento de suas atividades e dos demais programas a ele vinculados.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A complementação de renda das famílias constitui apoio financeiro temporário e será concedido pelo prazo de até 24 (vinte e quatro) meses, prorrogáveis mediante avaliação de resultados, a cargo da coordenação do Programa.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Poder Executivo poderá excepcionar o cumprimento dos critérios de que trata o art. 4º desta lei, nos casos de calamidade pública ou de situação de emergência reconhecidos pela Administração Municipal, para fins de concessão do benefício tratado no art. 6º, em caráter provisório, respeitados os limites orçamentários e financeiros.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM contará com uma Comissão de Apoio e Controle Social, presidida pelo Secretário Municipal de Assistência e Desenvolvimento Social e constituída por titulares ou representantes de órgãos governamentais e não-governamentais.\n§ 1º. A Comissão mencionada no \"caput\" deste artigo terá por atribuições o contínuo acompanhamento, a avaliação e a formulação de sugestões visando ao aprimoramento do Programa.\n§ 2º. A composição da Comissão será estabelecida em decreto, sendo suas atividades consideradas serviço público relevante, pelas quais seus membros não perceberão nenhuma remuneração.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Será excluída do Programa, pelo prazo de 2 (dois) anos, ou por 5 (cinco) anos, se reincidente, a família cujo responsável prestar declaração falsa ou usar de qualquer outro meio ilícito para a obtenção de vantagens.\n§ 1º. Sem prejuízo das sanções penais cabíveis, o beneficiário que gozar ilicitamente do auxílio será obrigado a efetuar o ressarcimento integral da importância recebida indevidamente, corrigida na forma disposta na legislação municipal aplicável.\n§ 2º. Ao servidor público ou agente de entidade conveniada ou parceira que concorra para a concessão ilícita do benefício, aplica-se, sem prejuízo das sanções civis, penais e administrativas cabíveis, multa equivalente ao dobro dos rendimentos ilegalmente pagos, corrigidos na forma prevista na legislação municipal pertinente.\n§ 3º. A restituição de parcela indevidamente recebida, relativa à participação financeira da União ou do Governo Estadual, obedecerá às normas estabelecidas em regulamento expedido pelo órgão federal ou estadual competente.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias, contados da data de sua publicação, especialmente no que se refere ao estabelecimento de critérios para a priorização do ingresso no Programa de Garantia de Renda Familiar Mínima Municipal - PGRFMM.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A adequação dos valores dos benefícios atualmente pagos ocorrerá quando da realização da próxima atualização cadastral, nos termos do cronograma a ser estabelecido pela coordenação do Programa.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nParágrafo único. O Poder Executivo deverá compatibilizar a quantidade de benefícios concedidos com as dotações orçamentárias existentes.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Esta lei entrará em vigor na data de sua publicação, revogadas as Leis nº 12.651, de 6 de maio de 1998, nº 13.265, de 2 de janeiro de 2002, e nº 13.788, de 13 de fevereiro de 2004.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2006, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2006.\nSTELA GOLDENSTEIN, Respondendo pelo cargo de Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2006-14256",
+   "short": "Lei 14256/2006",
+   "title": "Lei nº 14.256, de 29/12/2006",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14256-de-29-de-dezembro-de-2006",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2006-14256"
+   ],
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14256-de-29-de-dezembro-de-2006",
+     "sha256": "905d6d43ec848ed45eaa05a964e1f84128160f337816164306a83553857767dd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.256, DE 29 DE DEZEMBRO DE 2006\n(Projeto de Lei nº 552/06, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nInstitui o Parcelamento Administrativo de Débitos Tributários - PAT no Município de São Paulo e altera a legislação tributária municipal que especifica, bem como dispositivos das Leis nº 8.645, de 21 de novembro de 1977, nº 14.094, de 6 de dezembro de 2005, nº 14.096, de 8 de dezembro de 2005, nº 14.107, de 12 de dezembro de 2005, e nº 14.133, de 24 de janeiro de 2006, e dá providências correlatas.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## PARCELAMENTO ADMINISTRATIVO DE DÉBITOS TRIBUTÁRIOS - PAT\nArt. 1º. Fica instituído o Parcelamento Administrativo de Débitos Tributários - PAT, destinado ao pagamento de débitos tributários, constituídos ou não, não inscritos na dívida ativa, relativos aos tributos administrados pela Secretaria Municipal de Finanças.\n§ 1º. Podem ser incluídos no PAT os débitos tributários:\nI - espontaneamente confessados ou declarados pelo sujeito passivo;\nII - originários de Autos de Infração e Intimação já lavrados.\nIII - relativos ao Imposto Predial e Territorial Urbano - IPTU, inclusive os decorrentes de análise da Declaração Tributária de Conclusão de Obra - DTCO, desde que o débito de IPTU seja referente a exercício(s) anterior(es) ao do lançamento.\n§ 2º. Os débitos relativos ao Imposto sobre Transmissão \"Inter Vivos\", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos à sua aquisição - ITBI-IV, somente poderão ser incluídos no PAT quando constituídos pela Administração.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O pedido de ingresso no PAT dar-se-á por opção do sujeito passivo, mediante requerimento, conforme dispuser o regulamento.\n§ 1º. Os débitos tributários incluídos no parcelamento serão consolidados tendo por base a data da formalização do pedido de ingresso no PAT.\n§ 2º. Os débitos tributários não constituídos, incluídos no parcelamento por opção do sujeito passivo, serão declarados na data da formalização do pedido de ingresso no PAT.\n§ 3º. O Secretário Municipal de Finanças poderá fixar, por contribuinte, o número máximo de parcelamentos em aberto.\n§ 4º A Administração Tributária poderá enviar ao sujeito passivo, na forma estabelecida por ato do Secretário Municipal da Fazenda, correspondência que contenha os débitos tributários consolidados, com as opções de desconto previstas no art. 4º desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A formalização do pedido de ingresso no PAT implica o reconhecimento dos débitos tributários nele incluídos e a desistência automática de eventuais impugnações e recursos apresentados no âmbito administrativo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Caso o sujeito passivo formalize o pedido de ingresso no PAT, reconhecendo a procedência do Auto de Infração e Intimação ou das Notificações de Lançamento do IPTU, o valor das multas será reduzido em:\nI - 30% (trinta por cento), se a formalização ocorrer no prazo para apresentação da impugnação; ou\nII - 15% (quinze por cento), se a formalização ocorrer no curso da análise da impugnação ou no prazo para apresentação do recurso ordinário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Sobre os débitos tributários incluídos no parcelamento incidirão atualização monetária e juros de mora, na conformidade da legislação vigente, até a data da formalização do pedido de ingresso no PAT.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Para definição do número máximo de parcelas, serão considerados os seguintes parâmetros:\nI - até R$ 3.000,00 (três mil reais) de débitos tributários incluídos no PAT: até 18 (dezoito) parcelas;\nII - de R$ 3.000,01 (três mil reais e um centavo) a R$ 10.000,00 (dez mil reais) de débitos tributários incluídos no PAT: até 24 (vinte e quatro) parcelas;\nIII - de R$ 10.000,01 (dez mil reais e um centavo) a R$ 30.000,00 (trinta mil reais) de débitos tributários incluídos no PAT: até 36 (trinta e seis) parcelas;\nIV - de R$ 30.000,01 (trinta mil reais e um centavo) a R$ 50.000,00 (cinqüenta mil reais) de débitos tributários incluídos no PAT: até 48 (quarenta e oito) parcelas;\nV - a partir de R$ 50.000,01 (cinqüenta mil reais e um centavo) de débitos tributários incluídos no PAT: até 60 (sessenta) parcelas.\n§ 1º. O sujeito passivo procederá ao pagamento dos débitos tributários incluídos no PAT em parcelas mensais, iguais e sucessivas, sendo que o valor de cada parcela, por ocasião do seu pagamento, será acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC, mensalmente acumulada, calculados a partir do mês subseqüente ao da formalização até o mês anterior ao do pagamento, e de 1% (um por cento) sobre o valor principal, relativamente ao mês em que o pagamento estiver sendo efetuado.\n§ 2º. Nenhuma parcela poderá ser inferior a:\nI - R$ 100,00 (cem reais) para pessoas físicas;\nII - R$ 500,00 (quinhentos reais) para pessoas jurídicas.\n§ 3º. Os valores tratados nos incisos I a V do \"caput\" e no § 2º, todos deste artigo, serão atualizados na forma do disposto no art. 2º e parágrafo único da Lei nº 13.105, de 29 de dezembro de 2000.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O vencimento da primeira parcela dar-se-á no último dia útil da quinzena subseqüente à da formalização do pedido de ingresso no PAT e as demais no último dia útil dos meses subseqüentes.\n§ 1º. Caso o sujeito passivo queira antecipar o recolhimento de parcela vincenda, deverá fazê-lo na ordem decrescente das parcelas ainda remanescentes.\n§ 2º. O pagamento da parcela fora do prazo legal implicará cobrança da multa moratória de 0,33% (trinta e três centésimos por cento), por dia de atraso sobre o valor da parcela devida e não paga, até o limite de 20% (vinte por cento), acrescido de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O titular da firma individual e os sócios das empresas por cotas de responsabilidade limitada respondem solidariamente, com seus bens pessoais, pelos débitos incluídos no PAT.\nParágrafo único. Os acionistas controladores, os administradores, os gerentes e os diretores respondem solidariamente e subsidiariamente, com seus bens pessoais, quanto ao inadimplemento das obrigações incluídas no PAT.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Para os débitos tributários parcelados na forma desta lei, superiores ao valor a ser fixado pelo Secretário Municipal de Finanças, será exigida garantia bancária ou hipotecária que corresponda, no mínimo, ao valor do débito tributário consolidado, conforme dispuser o regulamento.\n§ 1º. Só poderá ser oferecido, como garantia hipotecária, imóvel localizado no Estado de São Paulo, que ficará sujeito a avaliação, conforme dispuser o regulamento, exceto quando localizado no Município de São Paulo, hipótese em que a garantia corresponderá ao seu valor venal.\n§ 2º. A garantia bancária deverá ser oferecida por instituição estabelecida no Município de São Paulo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O ingresso no PAT impõe ao sujeito passivo a aceitação plena e irretratável de todas as condições estabelecidas neste capítulo e constitui confissão irrevogável e irretratável da dívida relativa aos débitos tributários nele incluídos, com reconhecimento expresso da certeza e liquidez do crédito correspondente, produzindo os efeitos previstos no art. 174, parágrafo único, do Código Tributário Nacional e no art. 202, inciso VI, do Código Civil.\n§ 1º. A homologação do ingresso no PAT dar-se-á no momento do pagamento da primeira parcela.\n§ 2º. O ingresso no PAT impõe ao sujeito passivo, ainda, a autorização para débito automático das parcelas em conta-corrente mantida por aquele em instituição bancária cadastrada pelo Município.\n§ 3º. Excepcionalmente, no caso de sujeitos passivos que não mantenham, justificadamente, conta-corrente em instituição bancária cadastrada pelo Município, a Secretaria Municipal de Finanças poderá afastar a exigência prevista no § 2º deste artigo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O sujeito passivo será excluído do PAT, sem notificação prévia, diante da ocorrência de uma das seguintes hipóteses:\nI - inobservância de qualquer das exigências estabelecidas neste capítulo;\nII - estar inadimplente por mais de 90 (noventa) dias com o pagamento de 3 (três) parcelas, consecutivas ou não, observado o disposto no § 4º deste artigo;\nIII - decretação de falência ou extinção pela liquidação da pessoa jurídica, nos termos da Lei nº 11.101, de 09 de fevereiro de 2005.\nIV - estar inadimplente há mais de 90 (noventa) dias com o pagamento de qualquer parcela, contados a partir do primeiro dia útil após a data de vencimento da última parcela, observado o disposto no § 4º deste artigo;\nV - estar inadimplente há mais de 90 (noventa) dias com o pagamento de eventual saldo residual do parcelamento, contados a partir do primeiro dia útil após a data de vencimento desse saldo, observado o disposto no § 4º deste artigo.\n§ 1º. Caso o sujeito passivo seja excluído do PAT, sobre o débito tributário incluído no parcelamento incidirá a multa original sem os descontos concedidos nos termos do art. 4º desta lei.\n§ 2º. O débito tributário excluído do parcelamento não será objeto de novo PAT, implicando a imediata inscrição do saldo devedor em dívida ativa.\n§ 3º. O PAT não configura a novação prevista no art. 360, inciso I, do Código Civil.\n§ 4º Ocorrendo as hipóteses previstas nos incisos II, IV ou V do caput deste artigo, o sujeito passivo não será excluído do PAT se o saldo devedor remanescente do parcelamento for integralmente pago até o último dia útil do mês subsequente à ocorrência de qualquer dessas hipóteses.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A expedição da certidão prevista no art. 206 do Código Tributário Nacional somente ocorrerá após a homologação do ingresso no PAT e desde que não haja parcela vencida não paga.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Quando o PAT incluir débitos do ITBI, não serão lavrados, registrados, inscritos ou averbados pelos notários, oficiais de Registro de Imóveis, ou seus prepostos, os atos e termos relacionados à transmissão de bens imóveis ou de direitos a eles relativos, sem o pagamento integral do referido acordo de parcelamento.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A exclusão do PAT, pela ocorrência das hipóteses previstas no art. 11 desta lei, não implicará a restituição das quantias pagas.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU\nArt. 16. Os arts. 14 e 34 da Lei nº 6.989, de 29 de dezembro de 1966, passam a vigorar com a seguinte redação:\n\"Art. 14. ............................................................\nParágrafo único. Considera-se ocorrido o fato gerador em 1º de janeiro do ano a que corresponda o lançamento, que se prestará somente à constituição do crédito tributário, vedada qualquer outra finalidade.\"\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. ......................................................................\nParágrafo único. Considera-se ocorrido o fato gerador em 1º de janeiro do ano a que corresponda o lançamento, que se prestará somente à constituição do crédito tributário, vedada qualquer outra finalidade.\"\nArt. 17. Os arts. 19 e 39 da Lei nº 6.989, de 29 de dezembro de 1966, passam a vigorar com a seguinte redação:\n\"Art. 19. ............................................................\n§ 3º. Será concedido desconto de até 8,5% (oito e meio por cento) sobre o Imposto que for pago de uma só vez, até o vencimento normal da primeira prestação.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39. ......................................................................\n§ 3º. Será concedido desconto de até 8,5% (oito e meio por cento) sobre o Imposto que for pago de uma só vez, até o vencimento normal da primeira prestação.\"\nArt. 18. O art. 12 da Lei nº 10.235, de 16 de dezembro de 1986, passa a vigorar com a seguinte redação:\n\"Art. 12. A área construída bruta será obtida por meio das seguintes medições da situação fática do imóvel:\nI - nas áreas cobertas, pelas medidas de seus contornos externos das paredes ou pilares;\nII - nas áreas pavimentadas descobertas de terraços, sacadas, quadras esportivas, helipontos e heliportos, pelas medidas de seus contornos externos;\nIII - nas coberturas de postos de serviços e assemelhados, pelas medidas de sua projeção vertical sobre o terreno;\nIV - nas piscinas, pelas medidas dos contornos internos de suas paredes.\nParágrafo único. Quando a área construída bruta for representada por número que contenha fração de metro quadrado, será feito o arredondamento para a unidade imediatamente superior.\"\nArt. 19. O art. 1° da Lei nº 11.338, de 30 de dezembro de 1992, passa a vigorar com a seguinte redação:\n\"Art. 1º. Fica concedida isenção de Imposto Territorial Urbano incidente sobre o excesso de área conforme considerado no art. 9° da Lei nº 10.235, de 16 de dezembro de 1986, referente a imóveis situados na área de proteção aos mananciais, definida nas Leis Estaduais nº 898, de 18 de dezembro de 1975, e nº 1.172, de 17 de novembro de 1976, bem como a imóveis localizados na Zona Especial de Preservação Ambiental - ZEPAM, situados na Macrozona de Estruturação e Qualificação Urbana definida na Lei nº 13.430, de 13 de setembro de 2002.\n§ 1º. (VETADO)\n§ 2º. (VETADO)\n§ 3º. (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\n§ 4º. (VETADO)\nI - (VETADO)\nII - (VETADO)\na) (VETADO)\nb) (VETADO)\nc) (VETADO)\n§ 5º. (VETADO)\"\nArt. 20. O art. 30 da Lei nº 14.125, de 29 de dezembro de 2005, passa a vigorar com a seguinte redação:\n\"Art. 30. O proprietário de lote fiscal resultante de área maior já desdobrada, englobada ou remembrada, em situação de débito, inscrito ou não na dívida ativa, perante a Municipalidade, não responderá solidariamente pelo débito da área maior, tornando-se responsável apenas pela parte da dívida correspondente à sua fração.\"\nArt. 21. Os créditos tributários relativos ao Imposto Predial incidente sobre os imóveis utilizados habitualmente para prática de turfe, não serão passíveis de remissão, exceto por lei específica.\nArt. 22. O Imposto Predial dos imóveis utilizados habitualmente para prática de turfe, acompanhará, na falta de lei específica, a legislação pertinente ao IPTU.\nArt. 23. Fica o Executivo autorizado a encaminhar legislação específica para imóveis utilizados habitualmente para prática de turfe para o exercício de 2007.\nArt. 24.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## IMPOSTO SOBRE A TRANSMISSÃO \"INTER VIVOS\", A QUALQUER TÍTULO, POR ATO ONEROSO, DE BENS IMÓVEIS, POR NATUREZA OU ACESSÃO FÍSICA, E DIREITOS REAIS SOBRE IMÓVEIS, BEM COMO CESSÃO DE DIREITOS À SUA AQUISIÇÃO - ITBI-IV\n## Art. 25. Os arts. 7º, 9º, 16, 19, 21 e 23 da Lei nº 11.154, de 30 de dezembro de 1991, passam a vigorar com a seguinte redação:\n## \"Art. 7º. Para fins de lançamento do Imposto, a base de cálculo é o valor venal dos bens ou direitos transmitidos, assim considerado o valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado.\n## § 1º. Não serão abatidas do valor venal quaisquer dívidas que onerem o imóvel transmitido.\n## § 2º. Nas cessões de direitos à aquisição, o valor ainda não pago pelo cedente será deduzido da base de cálculo.\n## Art. 9º. O valor da base de cálculo será reduzido:\n## Art. 16. Observado o disposto no art. 15 desta lei, a falta de recolhimento ou o recolhimento a menor do Imposto, pelo sujeito passivo, nos prazos previstos em lei ou regulamento, ficam acrescidos de:\n## I - multa moratória, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso, sobre o valor do Imposto, até o limite de 20% (vinte por cento), desde que não iniciado o procedimento fiscal;\n## § 3º. A multa a que se refere o \"caput\" deste artigo será calculada a partir do primeiro dia subseqüente ao do vencimento do prazo previsto para o recolhimento do Imposto até o dia em que ocorrer o efetivo pagamento.\n## § 4º. A multa não recolhida poderá ser lançada de ofício, conjunta ou isoladamente, no caso de não-recolhimento do Imposto com esse acréscimo.\n## Art. 19. Para lavratura, registro, inscrição, averbação e demais atos relacionados à transmissão de imóveis ou de direitos a eles relativos, ficam obrigados os notários, oficiais de Registro de Imóveis ou seus prepostos a:\n## I - verificar a existência da prova do recolhimento do Imposto ou do reconhecimento administrativo da não-incidência, da imunidade ou da concessão de isenção;\n## II - verificar, por meio de certidão emitida pela Administração Tributária, a inexistência de débitos de IPTU referentes ao imóvel transacionado até a data da operação.\n## Art. 21. ......................................................................\n## I - R$ 200,00 (duzentos reais), por item descumprido, pela infração ao disposto no parágrafo único do art. 11 desta lei;\n## II - R$ 5.000,00 (cinco mil reais), por item descumprido, pela infração ao disposto nos arts. 19 e 20 desta lei.\n## Parágrafo único. As importâncias fixas previstas neste artigo serão atualizadas na forma do disposto no art. 2º e parágrafo único da Lei nº 13.105, de 29 de dezembro de 2000.\n## Art. 23. Apurada qualquer infração à legislação relativa a este imposto, será efetuado lançamento complementar e/ou Auto de Infração e Intimação.\n## § 1º. Caso o contribuinte ou o autuado reconheça a procedência do Auto de Infração e Intimação, efetuando o pagamento das importâncias exigidas, dentro do prazo para apresentação de defesa, o valor das multas será reduzido em 50% (cinqüenta por cento).\n## § 2º. Caso reconheça a procedência do Auto de Infração e Intimação, efetuando o pagamento das importâncias exigidas, no curso da análise da impugnação ou no prazo para interposição de recurso ordinário, o valor das multas será reduzido em 25% (vinte e cinco por cento).\"\n## Art. 26. A Lei nº 11.154, de 30 de dezembro de 1991, passa a vigorar acrescida dos arts. 7º-A e 7º-B, com a seguinte redação:\n## \"Art. 7º-A. A Secretaria Municipal de Finanças tornará públicos os valores venais atualizados dos imóveis inscritos no Cadastro Imobiliário Fiscal do Município de São Paulo.\n## Parágrafo único. A Secretaria Municipal de Finanças deverá estabelecer a forma de publicação dos valores venais a que se refere o \"caput\" deste artigo.\n## Art. 7º-B. Caso não concorde com a base de cálculo do imposto divulgada pela Secretaria Municipal de Finanças, nos termos de regulamentação própria, o contribuinte poderá requerer avaliação especial do imóvel, apresentando os dados da transação e os fundamentos do pedido, na forma prevista em portaria da Secretaria Municipal de Finanças, que poderá, inclusive, viabilizar a formulação do pedido por meio eletrônico.\"\n## Art. 27. O art. 3º da Lei nº 13.402, de 5 de agosto de 2002, passa a vigorar com a seguinte redação:\n## \"Art. 3º .............................................................\n## § 4º. As importâncias fixas previstas neste artigo serão atualizadas na forma do disposto no art. 2º e parágrafo único da Lei nº 13.105, de 29 de dezembro de 2000.\"\n## CAPÍTULO IV\n## DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISS\n## Seção I\n## Da Nota Fiscal Eletrônica de Serviços - NF-e\n## Art. 28. O art. 2º da Lei nº 14.097, de 8 de dezembro de 2005, passa a vigorar com a seguinte redação:\n## \"Art. 2º. ............................................................\n## § 1º. ..........................................................................\n## III - 7,5% (sete e meio por cento) para os condomínios edilícios residenciais ou comerciais, na forma do regulamento.\n## § 3º. ..........................................................................\n## I - os órgãos da administração pública direta da União, dos Estados e do Município de São Paulo, bem como suas autarquias, fundações, empresas públicas, sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, pelos Estados ou pelo Município, exceto as instituições financeiras e assemelhadas;\n## Art. 29. O Imposto sobre Serviços de Qualquer Natureza - ISS não pago ou pago a menor, relativo às Notas Fiscais Eletrônicas de Serviços - NF-e emitidas, será enviado para inscrição em dívida ativa do Município com os acréscimos legais devidos, na forma do regulamento.\n## § 1º. O disposto no \"caput\" deste artigo aplica-se também ao ISS não pago ou pago a menor pelo responsável tributário.\n## § 2º Quando da emissão da Nota Fiscal de Serviços Eletrônica - NFS-e, o tomador ou intermediário responsável tributário será notificado pela Administração Tributária da obrigatoriedade do aceite, na forma do § 3º deste artigo.\n## § 3º O tomador ou intermediário do serviço quando responsável tributário deverá manifestar o aceite expresso da Nota Fiscal de Serviços Eletrônica - NFS-e e, na falta deste, a Administração Tributária considerará o aceite tácito na forma, condições e prazos estabelecidos em regulamento.\n## § 4º. A Administração Tributária poderá efetuar cobrança amigável do valor apurado, previamente à inscrição em dívida ativa do Município.\n## § 5º A Administração Tributária poderá utilizar comunicação eletrônica para, no âmbito do Programa da Nota Fiscal Paulistana, dentre outras finalidades:\n## I - cientificar o contribuinte de quaisquer tipos de atos administrativos;\n## II - encaminhar notificações e intimações;\n## III - expedir avisos em geral.\n## Seção II\n## Das Demais Disposições do ISS\n## Art. 30. Os arts. 14 e 18 da Lei nº 13.476, de 30 de dezembro de 2002, com as alterações posteriores, passam a vigorar com a seguinte redação:\n## \"Art. 14. ............................................................\n## XIV - infração relativa à inscrição, em cadastro simplificado, dos prestadores de serviços que emitem nota fiscal ou outro documento fiscal equivalente, autorizado por outro Município ou pelo Distrito Federal para tomadores estabelecidos no Município de São Paulo: multa de R$ 50,00 (cinqüenta reais), por documento fiscal recebido de prestador de serviços não inscrito, aos tomadores que deixarem de inscrever, em cadastro simplificado, prestadores de serviços que emitem nota fiscal ou outro documento fiscal equivalente, autorizado por outro Município ou pelo Distrito Federal, na conformidade do que dispõe o regulamento;\n## XV - infrações relativas à apresentação das declarações de instituições financeiras e assemelhadas que devam conter os dados referentes aos serviços prestados, às informações relativas às contas contábeis e à natureza das operações realizadas e ao valor do Imposto:\n## a) multa de R$ 2.000,00 (dois mil reais), por declaração, aos que a apresentarem fora do prazo estabelecido em regulamento;\n## b) multa de R$ 5.000,00 (cinco mil reais), por declaração, aos que deixarem de apresentá-la;\n## XVI - infrações relativas à Nota Fiscal Eletrônica de Serviços - NF-e:\n## a) multa equivalente a 50% (cinqüenta por cento) do valor do Imposto devido, observada a imposição mínima de R$ 932,10 (novecentos e trinta e dois reais e dez centavos), aos prestadores de serviços que, obrigados à emissão de NF-e, deixarem de solicitar a autorização para emiti-la, na conformidade do regulamento;\n## b) aos prestadores de serviços que substituírem RPS por NF-e após o prazo regulamentar, multa de 20% (vinte por cento) do valor do Imposto devido, observada a imposição mínima de R$ 62,14 (sessenta e dois reais e quatorze centavos), por documento substituído fora do prazo;\n## c) aos prestadores de serviços que, em determinado mês, substituírem um ou mais RPS por NF-e após o prazo regulamentar, multa de R$ 62,14 (sessenta e dois reais e quatorze centavos) no respectivo mês, nos casos em que não houver Imposto a ser recolhido;\n## XVII - infrações relativas ao fornecimento de informações referentes à utilização de cartões de crédito ou débito e congêneres em estabelecimentos prestadores de serviços localizados no Município de São Paulo:\n## a) multa de R$ 5.000,00 (cinco mil reais), por mês, às pessoas jurídicas administradoras de cartão de crédito ou débito e congêneres que deixarem de apresentar, na conformidade do regulamento, as informações relativas à utilização de cartões de crédito ou débito e congêneres em estabelecimentos prestadores de serviços localizados no Município de São Paulo;\n## b) multa de R$ 2.500,00 (dois mil e quinhentos reais), por mês, às pessoas jurídicas administradoras de cartão de crédito ou débito e congêneres que apresentarem fora do prazo estabelecido em regulamento, ou o fizerem com dados inexatos ou incompletos, as informações relativas à utilização de cartões de crédito ou débito e congêneres em estabelecimentos prestadores de serviços localizados no Município de São Paulo;\n## XVIII - infrações para as quais não haja penalidade específica prevista na legislação do Imposto: multa de R$ 62,14 (sessenta e dois reais e quatorze centavos).\n## § 3º. Aplica-se o disposto no inciso X do \"caput\" deste artigo às declarações apresentadas pelas instituições financeiras e assemelhadas.\n## Art. 18. Se o autuado reconhecer a procedência do Auto de Infração e Intimação, efetuando o pagamento das importâncias exigidas, no curso da análise da impugnação, ou no prazo para apresentação de recurso ordinário, o valor das multas será reduzido em 25% (vinte e cinco por cento)\"\n## Art. 31. Os arts. 9º, 9º-A, 13, 14 e 16 da Lei nº 13.701, de 24 de dezembro de 2003, com as alterações posteriores, passam a vigorar com a seguinte redação:\n## \"Art. 9º. ............................................................\n## VIII - as empresas de aviação, quando tomarem ou intermediarem os serviços aeroportuários, utilização de aeroporto, movimentação de passageiros, armazenagem de qualquer natureza, capatazia, movimentação de aeronaves, serviços de apoio aeroportuários, serviços acessórios, movimentação de mercadorias, logística e congêneres, a elas prestados dentro do território do Município de São Paulo;\n## IX - as sociedades que explorem serviços de planos de medicina de grupo ou individual e convênios ou de outros planos de saúde, quando tomarem ou intermediarem serviços:\n## a) dos quais resultem remunerações ou comissões, por elas pagas a seus agentes, corretores ou intermediários estabelecidos no Município de São Paulo, pelos agenciamentos, corretagens ou intermediações de planos ou convênios;\n## b) de hospitais, clínicas, laboratórios de análises, de patologia, de eletricidade médica, ambulatórios, pronto-socorros, casas de saúde e de recuperação, bancos de sangue, de pele, de olhos, de sêmen e congêneres, a elas prestados por prestadores de serviços estabelecidos no Município de São Paulo;\n## Art. 9º-A. O prestador de serviços que emitir nota fiscal ou outro documento fiscal equivalente autorizado por outro Município ou pelo Distrito Federal, para tomador estabelecido no Município de São Paulo, referente aos serviços descritos nos itens 1, 2, 3 (exceto o subitem 3.04), 4 a 6, 8 a 10, 13 a 15, 17 (exceto os subitens 17.05 e 17.09), 18, 19 e 21 a 40, bem como nos subitens 7.01, 7.03, 7.06, 7.07, 7.08, 7.13, 7.18, 7.19, 7.20, 11.03 e 12.13, todos constantes da lista do \"caput\" do art. 1° desta lei, fica obrigado a proceder à sua inscrição em cadastro da Secretaria Municipal de Finanças, conforme dispuser o regulamento.\n## § 5º. A Secretaria Municipal de Finanças poderá permitir que os tomadores de serviços sejam responsáveis pela inscrição, em Cadastro Simplificado, dos prestadores de serviços tratados no § 4º.\n## Art. 13. ......................................................................\n## II - a empresa administradora de sorteios na modalidade bingo, quando contratada para executar as atividades correspondentes aos sorteios e exploração da casa de bingo.\n## Art. 14. ......................................................................\n## § 10. (VETADO)\n## Art. 16. O valor do Imposto será calculado aplicando-se à base de cálculo a alíquota de:\n## I - 2,0% (dois por cento) para os serviços previstos:\n## a) nos itens 4 e 5 e nos subitens 1.04, 1.05, 2.01, 6.04, 8.01, 11.02, 11.03, 12.01, 12.03, 12.05, 13.04, 15.09, 17.05 e 17.09 da lista do \"caput\" do art. 1º;\n## b) no subitem 7.10 da lista do \"caput\" do art. 1º relacionados a limpeza, manutenção e conservação de imóveis (inclusive fossas);\n## c) no subitem 10.01 da lista do \"caput\" do art. 1º relacionados a corretagem de seguros;\n## d) no subitem 12.07 da lista do \"caput\" do art. 1º relacionados a balé, danças, óperas, concertos e recitais;\n## e) no subitem 12.11 da lista do \"caput\" do art. 1º relacionados à venda de ingressos do Grande Prêmio Brasil de Fórmula 1;\n## f) no subitem 16.01 da lista do \"caput\" do art. 1º relacionados ao transporte público de passageiros realizado pela Companhia do Metropolitano de São Paulo - METRÔ, bem como aqueles relacionados ao transporte de escolares e transporte por táxi (inclusive frota);\n## g) no subitem 14.01 da lista do \"caput\" do art. 1º relacionados às atividades desenvolvidas por sapateiros remendões que trabalhem individualmente e por conta própria;\n## h) nos subitens 7.10, 7.11, 11.02, 14.01, 14.09, 17.02 e 37.01 da lista do \"caput\" do art. 1º relacionados, respectivamente, às atividades desenvolvidas pelas seguintes pessoas físicas não estabelecidas: desentupidor de esgotos e fossas e faxineiro, jardineiro, guarda-noturno e vigilante, afiador de utensílios domésticos, afinador de instrumentos musicais e engraxate, alfaiate e costureiro, datilógrafo, músico e artista circense;\n## II - 2,5% (dois e meio por cento) para o serviço descrito no subitem 15.01 da lista do \"caput\" do art. 1º relacionado à administração de fundos quaisquer;\n## III - 5,0% (cinco por cento) para os demais serviços descritos na lista do \"caput\" do art. 1º.\"\n## Art. 32. A Administração Tributária poderá exigir declaração das instituições responsáveis por transações efetuadas com cartão de crédito, cartão de débito, cartão pré-pago, cartão pós-pago e similares, bem como por transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo e demais instrumentos de pagamento eletrônicos, em estabelecimentos credenciados, quando estes forem prestadores de serviços localizados no Município de São Paulo.\n## § 1º As instituições referidas no caput deste artigo prestarão informações sobre as transações nele descritas, efetuadas por estabelecimento credenciado quando prestador de serviço, compreendendo inclusive os montantes globais destes estabelecimentos.\n## § 2º Para os efeitos desta Lei, considera-se instituição responsável pelas transações referidas no caput deste artigo, em relação aos estabelecimentos prestadores credenciados, a pessoa jurídica responsável pela administração da rede de estabelecimentos, bem como pela captura e transmissão das transações efetuadas com cartão de crédito, cartão de débito, cartão pré-pago, cartão pós-pago e similares, transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo e demais instrumentos de pagamento eletrônicos.\n## § 3º O regulamento disporá sobre as condições necessárias ao cumprimento da obrigação de que trata este artigo, podendo atribuir a disciplina e detalhamento a ato do Secretário Municipal da Fazenda.\n## Art. 33. As instituições financeiras e assemelhadas, obrigadas à entrega de declaração, poderão efetuar a compensação quando ocorrer pagamento indevido ou a maior do Imposto Sobre Serviços de Qualquer Natureza - ISS, na conformidade do que dispuser o regulamento.\n## Art. 34. Os bilhetes, ingressos ou entradas utilizados pelos contribuintes do Imposto para permitir o acesso do público ao local do evento, inclusive os gratuitos, de emissão obrigatória pelos prestadores de serviços de diversões públicas, são considerados documentos fiscais para os efeitos da legislação tributária do Município, e somente poderão ser comercializados ou distribuídos se autorizados previamente pela Secretaria Municipal de Finanças, conforme dispuser o regulamento.\n## Parágrafo único. A comercialização ou distribuição de bilhetes, ingressos ou entradas, sem a prévia autorização, equivale à não-emissão de documentos fiscais, sujeitando o infrator às disposições sobre infrações e penalidades previstas na legislação tributária do Município.\n## CAPÍTULO V\n## DA TAXA DE FISCALIZAÇÃO DE ESTABELECIMENTOS - TFE\n## Art. 35. O art. 26 da Lei nº 13.477, de 30 de dezembro de 2002, passa a vigorar com a seguinte redação:\n## \"Art. 26. ............................................................\n## IV - os profissionais autônomos que desenvolvam atividade que não exija formação específica.\"\n## Art. 36. A descrição do item 19-A, da Seção 1 - Atividades Permanentes da tabela anexa à Lei nº 13.477, de 30 de dezembro de 2002, acrescido pelo art. 23 da Lei nº 14.125, de 29 de dezembro de 2005, passa a vigorar com a seguinte redação:\n## Torres, antenas e demais instalações de Estação Rádio-Base (ERB) de Serviços de Comunicação Móvel Celular e Especializada.\n## CAPÍTULO VI\n## DA CONTRIBUIÇÃO PARA CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP\n## Art. 37. O art. 4º da Lei nº 13.479, de 30 de dezembro de 2002, passa a vigorar com a seguinte redação:\n## \"Art. 4º. ............................................................\n## § 1°. No caso de pré-venda de energia elétrica, denominada de sistema \"cashpower\", o valor da Contribuição será lançado pela Secretaria Municipal de Finanças, devendo ser recolhido pelo contribuinte, na conformidade do que dispuser o regulamento.\n## § 2º. O valor da Contribuição será reajustado anualmente pelo mesmo índice utilizado para o reajuste da tarifa de energia elétrica.\"\n## CAPÍTULO VII\n## DO PROCESSO ADMINISTRATIVO FISCAL E DO CONSELHO MUNICIPAL DE TRIBUTOS\n## Art. 38. Os arts. 27, 33, 36, 43, 46, 48, 49, 50, 67 e 68 da Lei nº 14.107, de 12 de dezembro de 2005, passam a vigorar com a seguinte redação:\n## \"Art. 27. ............................................................\n## IV - a decisão que puser fim ao processo fiscal, nos termos do art. 35 desta lei.\n## Art. 33. O sujeito passivo poderá efetuar o recolhimento parcial da obrigação tributária, quando lançada por meio de notificação de lançamento ou de auto de infração, enquanto não inscrito o crédito na dívida ativa, na forma estabelecida por Regulamento.\n## Parágrafo único. Caso o sujeito passivo efetue o recolhimento parcial do tributo na forma do \"caput\" deste artigo, fará jus ao desconto legal proporcional da multa em cada fase do processo, acompanhado do pagamento proporcional da respectiva multa moratória e demais acréscimos legais.\n## Art. 36. O contribuinte poderá impugnar a exigência fiscal, independentemente do prévio depósito, mediante petição escrita, instruída com os documentos comprobatórios necessários, no prazo de:\n## I - tratando-se de crédito constituído por auto de infração, 30 (trinta) dias, contados da intimação do auto;\n## II - tratando-se de crédito constituído por notificação de lançamento, 90 (noventa) dias, contados da data de vencimento normal da 1ª (primeira) prestação, ou da parcela única.\n## Parágrafo único. A petição de que trata o \"caput\" poderá ser feita por meio eletrônico, conforme dispuser regulamentação específica.\nArt. 43. ......................................................................\n§ 1º. O recorrente deverá efetuar depósito administrativo em dinheiro de valor equivalente a 30% (trinta por cento) do saldo devedor da exigência fiscal definida no auto de infração ou na notificação de lançamento.\n§ 2º. Sendo o recurso ordinário desacompanhado do depósito administrativo a que se refere o § 1º deste artigo, a autoridade recorrida o indeferirá de plano.\n§ 3º. Do despacho de não-seguimento do recurso cabe um único pedido de reconsideração, no prazo de 15 (quinze) dias, contados da data da intimação da decisão, dirigido à mesma autoridade julgadora, versando exclusivamente sobre a existência ou integralidade do depósito.\n§ 4º. O valor de que trata o § 1º deste artigo será acrescido de juros e correção monetária, calculados até a data do depósito administrativo, nos termos da legislação própria.\n§ 5º. Provido o recurso e após o encerramento da instância administrativa, a quantia excedente depositada será devolvida ao sujeito passivo, corrigida monetariamente de acordo com os índices oficiais adotados para atualização dos débitos fiscais.\n§ 6º. Não sendo provido o recurso, a quantia depositada converter-se-á em renda, após o encerramento da instância administrativa, exigindo-se a parcela não depositada.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46. O relator, sempre que julgar conveniente, poderá solicitar, dos órgãos da Administração Municipal e dos contribuintes, as providências, diligências e informações necessárias ao esclarecimento da questão, na forma estabelecida no Regimento Interno.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48. ......................................................................\n§ 3º. A decisão contrária à Fazenda Municipal deverá ser objeto de intimação pessoal do Chefe da Representação Fiscal e estará sujeita a pedido de reforma, com efeito suspensivo, nos termos do art. 50 desta lei.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49. ......................................................................\n§ 6º. Admitido o recurso, o sujeito passivo ou o Representante Fiscal, conforme o caso, terá o prazo de 30 (trinta) dias, contados da respectiva intimação, para apresentar contra-razões.\n§ 8º. Não poderá servir de paradigma a decisão de Câmara Julgadora que tenha sido reformada pelas Câmaras Reunidas.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50. ......................................................................\n§ 1º. O pedido de reforma deverá ser formulado pelo Representante Fiscal, no prazo de 30 (trinta) dias, contados da data da sessão de julgamento que proferiu a decisão reformanda, e dirigido ao Presidente do Conselho.\n§ 2º. Formulado o pedido de reforma, o Presidente do Conselho determinará a intimação do sujeito passivo para que se manifeste no prazo de 30 (trinta) dias.\n§ 3º. Findo esse prazo, com ou sem a manifestação do sujeito passivo, o processo será distribuído na forma estabelecida no Regimento Interno e apreciado pelas Câmaras Reunidas.\n§ 4º. O extrato da decisão da Câmara Julgadora somente será publicado pela Secretaria do Conselho após decorrido o prazo previsto no § 1º deste artigo e desde que não tenha sido interposto pedido de reforma da decisão.\n§ 5º. Decorrido o prazo previsto no § 1º deste artigo sem que tenha havido a interposição do pedido de reforma da decisão, a Secretaria do Conselho intimará as partes para eventual interposição de recurso de revisão.\n"
+      },
+      "art-0067": {
+       "label": "Art. 67",
+       "kind": "article",
+       "text": "Art. 67. ......................................................................\nIV - interpor recurso de revisão;\n"
+      },
+      "art-0068": {
+       "label": "Art. 68",
+       "kind": "article",
+       "text": "Art. 68. ......................................................................\n§ 1º. Aos Representantes Fiscais aplica-se o disposto nos §§ 4º e 5º do art. 55 e nos arts. 57, 58 e 59, todos desta lei.\nArt. 39. Ficam transferidos, das Câmaras Julgadoras Efetivas e Suplementares do Conselho Municipal de Tributos para a Representação Fiscal, do Conselho Municipal de Tributos, os 6 (seis) cargos de Representante Fiscal, Ref. PFC-02, de livre provimento em comissão pelo Prefeito, dentre integrantes da carreira de Auditor-Fiscal Tributário Municipal, constantes do Anexo II, Tabela \"A\", integrante da Lei nº 14.107, de 2005.\nArt. 40. Ficam criados 4 (quatro) cargos de Representante Fiscal, Ref. PFC-02, de livre provimento em comissão pelo Prefeito, dentre integrantes da carreira de Auditor-Fiscal Tributário Municipal, com lotação na Representação Fiscal, do Conselho Municipal de Tributos, passando a compor o Anexo II, Tabela \"A\", integrante da Lei nº 14.107, de 2005.\nCAPÍTULO VIII\nDO \"CRÉDITO CARBONO\"\nArt. 41. Fica o Executivo autorizado a alienar quaisquer créditos, certificados já emitidos ou a serem emitidos, resultantes de projetos de mitigação de gases que causam o efeito estufa na atmosfera, no âmbito do Protocolo de Kyoto e outros regimes, nacionais e internacionais, conforme legislação em vigor.\nCAPÍTULO IX\nDAS DISPOSIÇÕES TRANSITÓRIAS\nArt. 42. Os pedidos de parcelamento formulados nos termos da Lei nº 13.402, de 5 de agosto de 2002, e do Decreto nº 36.171, de 25 de junho de 1996, não deferidos até a data da publicação do regulamento do Parcelamento Administrativo de Débitos Tributários ora criado, deixarão de ser apreciados, sem prejuízo de o sujeito passivo optar pelo ingresso no PAT.\n§ 1º. O sujeito passivo que vier a ter seu pedido de parcelamento não apreciado nos termos do \"caput\" terá direito ao desconto sobre o valor das multas e à manutenção do valor da parcela mínima, na conformidade da legislação anterior, caso ingresse no programa no prazo de 90 (noventa) dias, contados da data da publicação do regulamento do PAT.\n§ 2º. Os parcelamentos deferidos anteriormente à data da publicação do regulamento do PAT serão regidos pela legislação vigente por ocasião de seu deferimento.\nArt. 43. Para os Autos de Infração e Intimação relativos à confissão de débito, lavrados até a data da publicação desta lei, não serão concedidos os descontos sobre as multas, nos termos do art. 4º.\nArt. 44. O contribuinte que deixou de substituir Recibo Provisório de Serviços - RPS por Nota Fiscal Eletrônica - NF-e, até a data da publicação desta lei, poderá efetuar a devida substituição, sem a cominação da multa prevista em lei pela não-emissão de documento fiscal, desde que o faça no prazo de 30 (trinta) dias, contados da publicação desta lei.\nCAPÍTULO X\nDAS DISPOSIÇÕES FINAIS\nArt. 45. O art. 19 da Lei nº 8.645, de 21 de novembro de 1977, alterado por legislação posterior, passa a vigorar com a seguinte redação:\n\"Art. 19. A Gratificação de Produtividade Fiscal integrará os proventos da inatividade, nos casos de aposentadoria, disponibilidade ou instituição da pensão, após 5 (cinco) anos de recebimento, da seguinte forma:\nI - com relação à parcela de contribuição individual para as atividades da Administração Tributária, a que se refere o inciso I do art. 18, pela média aritmética das 60 (sessenta) maiores pontuações percebidas durante todo o tempo na carreira, multiplicada, para efeito de aposentadoria, disponibilidade ou instituição de pensão, pelo valor do ponto definido no inciso I do art. 18;\nII - com relação à parcela de contribuição ao cumprimento de metas de resultado global, a que se refere o inciso II do art. 18, pela média aritmética das 60 (sessenta) maiores pontuações percebidas durante todo o tempo na carreira, multiplicada, para efeito de aposentadoria, disponibilidade ou instituição de pensão, pelo valor do ponto definido no inciso II do art. 18.\n§ 1º. Nos casos de falecimento, disponibilidade ou aposentadoria por invalidez ou compulsória, sem que o Auditor-Fiscal Tributário Municipal tenha completado 60 (sessenta) meses de percepção da parcela da Gratificação de Produtividade Fiscal referente à contribuição individual, esta incorporar-se-á aos seus proventos ou à pensão, pela média aritmética simples de todas as pontuações percebidas até o mês imediatamente anterior à aposentadoria, disponibilidade ou instituição de pensão, multiplicada pela proporção equivalente a 1/60 (um sessenta avos) para cada mês de percepção realizada.\n§ 4º. Nos casos de falecimento, disponibilidade ou aposentadoria por invalidez ou compulsória, sem que o Auditor-Fiscal Tributário Municipal tenha completado 60 (sessenta) meses de percepção da parcela da Gratificação de Produtividade Fiscal referente à contribuição pelo cumprimento de metas de resultado global, esta incorporar-se-á aos seus proventos ou à pensão, pela média aritmética simples de todas as pontuações percebidas até o mês imediatamente anterior à aposentadoria, disponibilidade ou instituição de pensão, multiplicada pela proporção equivalente a 1/60 (um sessenta avos) para cada mês de percepção realizada.\"\nArt. 46. O art. 17 da Lei nº 8.645, de 1977, com a redação conferida pelo art. 21 da Lei n° 14.133, de 24 de janeiro de 2006, passa a vigorar acrescido de § 4°, com a seguinte redação:\n\"Art. 17. ............................................................\n§ 4º. O Auditor-Fiscal Tributário Municipal não perderá a Gratificação de Produtividade Fiscal quando estiver afastado do serviço em razão de:\nI - licenças para tratamento da própria saúde, pelo prazo concedido pelo órgão competente;\nII - licenças por motivo de doença do cônjuge e de parentes até segundo grau, quando verificada, em inspeção médica, ser indispensável a sua assistência pessoal, impossível de ser prestada simultaneamente com o exercício do cargo;\nIII - licença paternidade;\nIV - licença-adoção.\"\nArt. 47. O art. 3º da Lei nº 14.094, de 6 de dezembro de 2005, passa a vigorar com a seguinte redação:\n\"Art. 3º..............................................................\nV - expedição de autos de licença de funcionamento e de novos alvarás de funcionamento.\nArt. 48. O art. 2º da Lei nº 14.096, de 8 de dezembro de 2005, passa a vigorar com a seguinte redação:\n\"Art. 2º .............................................................\n§ 1º. ..........................................................................\nI - concessão, pelo Poder Público e em favor do investidor, de Certificados de Incentivo ao Desenvolvimento, com valor de até:\nArt. 49. Ficam remitidos os créditos tributários, inscritos ou não em dívida ativa, relativos ao Imposto Sobre Serviços de Qualquer Natureza - ISS, à Taxa de Fiscalização de Anúncios - TFA e à Taxa de Fiscalização de Localização, Instalação e Funcionamento - TLIF, bem como anistiadas as infrações relacionadas à falta de recolhimento de tais tributos incidentes sobre os fatos geradores ocorridos em 1999 e lançados por meio de Notificação-Recibo, desde que o valor do crédito, por notificação, atualizado até a data da publicação desta lei, não seja superior a R$ 1.200,00 (mil e duzentos reais), vedada a restituição de importâncias recolhidas a esse título.\nArt. 50. Ficam revogados: a alínea \"l\" do inciso II do art. 18 e a alínea \"g\" do art. 38, bem como o art. 61, todos da Lei nº 6.989, de 29 de dezembro de 1966; a Lei nº 8.118, de 11 de setembro de 1974; a Lei nº 8.973, de 19 de setembro de 1979; o art. 1º da Lei nº 9.156, de 26 de novembro de 1980; a Lei nº 9.503, de 5 de julho de 1982; a Lei nº 10.515, de 11 de maio de 1988; o art. 11 da Lei nº 10.570, de 6 de julho de 1988; o art. 1º da Lei nº 10.698, de 9 de dezembro de 1988; os §§ 3º, 4º e 5º do art. 7º e o art. 8º da Lei nº 11.154, de 30 de dezembro de 1991; a Lei nº 11.483, de 1º de março de 1994; o art. 2º da Lei nº 11.856, de 30 de agosto de 1995; a Lei nº 12.122, de 5 de julho de 1996; a Lei nº 12.250, de 11 de dezembro de 1996; a Lei nº 12.286, de 27 de dezembro de 1996; a Lei nº 12.655, de 6 de maio de 1998; a Lei nº 13.102, de 8 de dezembro de 2000; os arts. 6º, 7º e 8º da Lei nº 13.402, de 5 de agosto de 2002; os §§ 1º e 2º do art. 17 da Lei nº 13.476, de 30 de dezembro de 2002; os arts. 83, 139 e 250, bem como os incisos II e III do art. 103, todos da Lei nº 13.478, de 30 de dezembro de 2002; a Lei nº 13.781, de 11 de fevereiro de 2004; e o art. 38 da Lei nº 14.107, de 12 de dezembro de 2005.\nArt. 51. Esta lei produzirá efeitos:\nI - a partir da publicação do decreto que regulamentar o Parcelamento Administrativo de Débitos Tributários - PAT, quanto ao disposto no seu capítulo I;\nII - a partir do primeiro dia do exercício seguinte ao de sua publicação, quanto ao seu art. 31, no que diz respeito especificamente às novas redações conferidas ao inciso VIII do art. 9º e ao inciso II do art. 13, ambos da Lei nº 13.701, de 24 de dezembro de 2003; à revogação das isenções do ISS e do IPTU; e ao seu art. 32, observado o disposto na alínea \"c\" do inciso III do art. 150 da Constituição Federal.\nArt. 52. Observado o disposto no seu art. 51, esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2006, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2006.\nCLÓVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.256, de 29/12/2006 was altered by acts of 7 date(s), the latest 2025-06-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2006-14257",
+   "short": "Lei 14257/2006",
+   "title": "Lei nº 14.257, de 29/12/2006",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14257-de-29-de-dezembro-de-2006",
+   "first_law": "lei-2006-14257",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14257-de-29-de-dezembro-de-2006",
+     "sha256": "36f5d66864558853919ab1e7c2880354b216fdeb41f9e0357b7c6fe5e8efb98b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.257, DE 29 DE DEZEMBRO DE 2006\n(Projeto de Lei nº 706/06, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConfere nova redação aos arts. 1º, 4º e 5º da Lei nº 11.716, de 3 de janeiro de 1995, alterada pelas Leis n° 13.493, de 7 de janeiro de 2003, e n° 13.652, de 25 de setembro de 2003, e dá providências correlatas.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O \"caput\" e os §§ 3° e 4° do art. 1º, o art. 4° e o \"caput\" do art. 5°, todos da Lei nº 11.716, de 3 de janeiro de 1995, alterada pelas Leis n° 13.493, de 7 de janeiro de 2003, e n° 13.652, de 25 de setembro de 2003, passam a vigorar com a seguinte redação:\nArt. 1º. A partir da publicação desta lei, os ocupantes de cargos ou funções do Quadro dos Profissionais da Saúde e empregados públicos das Autarquias Hospitalares Municipais Regionais, cujos empregos correspondam aos cargos que integram o Quadro dos Profissionais da Saúde, em regime de plantão nas unidades municipais de saúde, observado o disposto no art. 2º, farão jus a gratificações especiais de regime de plantão, fixadas conforme disposto no Anexo I integrante desta lei, na seguinte conformidade:\nI - (VETADO)\nII - (VETADO)\n§ 3º. Para os efeitos desta lei, consideram-se unidades municipais de saúde todos os equipamentos pertencentes à Secretaria Municipal da Saúde que prestam atendimento direto à população, inclusive as unidades municipalizadas.\n§ 4º. Os Grupos I e II constantes das Tabelas \"A\", \"B\", \"C\" e \"D\" integrantes do Anexo I serão definidos pelo titular da Secretaria Municipal da Saúde segundo a complexidade operacional das unidades municipais de saúde.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Observadas as condições previstas no § 1º deste artigo, os servidores a seguir mencionados poderão prestar, além de sua jornada básica de trabalho, plantões extras de 12 (doze) horas consecutivas de trabalho, a serem cumpridos durante a semana, nos finais de semana, feriados ou pontos facultativos municipais:\nI - ocupantes de cargos ou funções do Quadro dos Profissionais da Saúde e empregados públicos das Autarquias Hospitalares Municipais Regionais, cujos empregos correspondam aos cargos que integram o Quadro dos Profissionais da Saúde;\nII - ocupantes de cargo, função ou emprego público de Assistente de Gestão de Políticas Públicas da Administração Direta e das Autarquias Hospitalares Municipais Regionais;\nIII - ocupantes de cargo, função ou emprego público de Assistente Social da Administração Direta e das Autarquias Hospitalares Municipais Regionais.\nParágrafo único. O cumprimento de plantões extras está condicionado à observância das seguintes regras:\nI - convocação do Secretário Municipal da Saúde ou dos Superintendentes das Autarquias Hospitalares Municipais Regionais, conforme o caso, com anuência do servidor;\nII - desempenho exclusivo nas unidades municipais de saúde definidas no § 3º do art. 1º desta lei;\nIII - compatibilidade de horário com a jornada básica ou especial a que está sujeito o servidor, observados os intervalos de descanso necessários;\nIV - limite máximo de 8 (oito) plantões extras por mês, por servidor.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Pelo cumprimento do plantão extra de que trata o art. 4º desta lei, será devida gratificação especial nas bases e percentuais fixados nas Tabelas \"A\" e \"B\" do Anexo III, de acordo com o enquadramento nos Grupos referidos no § 4º do art. 1º.\nArt. 2º. Os critérios para fixação do número de plantões extras e para definição das unidades municipais de saúde que os comportarão serão estabelecidos em portaria do Secretário Municipal da Saúde, observada a disponibilidade orçamentário-financeira, nos termos da legislação pertinente.\nParágrafo único. O Secretário Municipal da Saúde definirá, mensalmente, em portaria, o número de plantões extras, por categoria profissional e respectivas unidades municipais de saúde, de acordo com as exigências e necessidades de seu funcionamento e do interesse público envolvido.\nArt. 3º. Poderão cumprir os plantões de que tratam os arts. 1º e 4º da Lei nº 11.716, de 1995, na redação conferida por esta lei:\nI - os servidores públicos do Estado de São Paulo cedidos ao Município de São Paulo, no âmbito do Sistema Único de Saúde - SUS, que exerçam cargo ou função correspondentes:\na) aos constantes do Quadro dos Profissionais da Saúde;\nb) ao de Assistente de Gestão de Políticas Públicas;\nc) ao de Assistente Social;\nII - aos servidores contratados nos termos da Lei nº 10.793, de 21 de dezembro de 1989, e alterações subseqüentes, lotados nas unidades de saúde definidas no § 3º do art. 1º da Lei nº 11.716, de 1995, com a redação conferida por esta lei.\nArt. 4º. As gratificações de que tratam os arts. 1º e 4º da Lei nº 11.716, de 1995, poderão ser incluídas na base de contribuição para o Regime Próprio de Previdência Social do Município de São Paulo, instituída pela Lei nº 13.973, de 12 de maio de 2005, por opção expressa do servidor, na forma do § 2º de seu art. 1º.\nParágrafo único. Na hipótese de que trata este artigo, a inclusão das gratificações nos benefícios de aposentadoria e pensão será feita na forma do § 3º do art. 1º da Lei nº 13.973, de 2005, e, na ocasião da fixação da parcela, o respectivo cálculo será proporcional ao tempo mínimo de contribuição para a aposentadoria voluntária.\nArt. 5º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta lei entrará em vigor na data de sua publicação, revogado o Anexo II referido no inciso II do art. 1º da Lei nº 11.716, de 1995, na sua redação original.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2006, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2006.\nCLÓVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nOBS: QUADRO ANEXO I...III, TABELA A, B, C E D; VIDE DOC 30/12/06- PÁGS 5\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2006-14258",
+   "short": "Lei 14258/2006",
+   "title": "Lei nº 14.258, de 29/12/2006",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14258-de-29-de-dezembro-de-2006",
+   "first_law": "lei-2006-14258",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14258-de-29-de-dezembro-de-2006",
+     "sha256": "515bd4aeba4045802f631837fedb2b1e7cb4d5120d8a9a0565b75f83678c7773",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.258, DE 29 DE DEZEMBRO DE 2006\n(Projeto de Lei nº 551/06, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2007.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2007, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, órgãos e entidades da Administração Direta e Indireta e de seus Fundos Especiais;\nII - o Orçamento de Investimentos das Empresas.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2007.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal\nArt. 2º. O Orçamento Fiscal dos Poderes do Município, seus Fundos Especiais, órgãos e entidades da Administração Direta e Indireta para o exercício de 2007, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 21.512.767.223,00 (vinte e um bilhões, quinhentos e doze milhões, setecentos e sessenta e sete mil e duzentos e vinte e três reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A receita total do Orçamento Fiscal, a ser realizada de acordo com a legislação em vigor, está orçada segundo as seguintes estimativas:\nRECEITAS CORRENTES 19.936.868.823,00\nReceita Tributária 9.203.175.600,00\nReceita de Contribuições 1.589.364.223,00\nReceita Patrimonial 658.747.700,00\nReceita Industrial 520.700,00\nReceitas de Serviços 231.728.200,00\nTransferências Correntes 7.434.052.800,00\nOutras Receitas Correntes 1.363.782.200,00\nDeduções de Transferências Correntes (544.502.600,00)\nRECEITAS DE CAPITAL 1.575.898.400,00\nOperações de Crédito 284.426.700,00\nAlienação de Bens 300.942.200,00\nAmortização de Empréstimos 4.141.200,00\nTransferências de Capital 709.105.300,00\nOutras Receitas de Capital 277.283.000,00\nTOTAL DA RECEITA R$ 21.512.767.223,00\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nÓrgão/Descrição R$\nPODER LEGISLATIVO - ADMINISTRAÇÃO DIRETA\n09 Câmara Municipal 278.232.198\n10 Tribunal de Contas 104.511.000\nPODER EXECUTIVO - ADMINISTRAÇÃO DIRETA\n11 Secretaria do Governo Municipal 271.966.665\n12 Secretaria Municipal de Coordenação das Subprefeituras 313.565.437\n13 Secretaria Municipal de Planejamento 35.828.146\n14 Secretaria Municipal de Habitação 626.071.937\n15 Secretaria Municipal de Gestão 569.021.390\n16 Secretaria Municipal de Educação 3.451.265.832\n17 Secretaria Municipal de Finanças 218.141.375\n18 Secretaria Municipal da Saúde/Fundo Municipal de Saúde 2.918.647.838\n19 Secretaria Municipal de Esportes, Lazer e Recreação 93.771.410\n20 Secretaria Municipal de Transportes 1.473.777.721\n21 Secretaria Municipal dos Negócios Jurídicos 105.830.497\n22 Secretaria Municipal de Infra-Estrutura Urbana e Obras 507.294.469\n23 Secretaria Municipal de Serviços 856.599.598\n24 Secretaria Municipal de Assistência e Desenvolvimento Social 302.797.946\n25 Secretaria Municipal de Cultura 233.984.850\n27 Secretaria Municipal do Verde e do Meio Ambiente 128.517.072\n28 Encargos Gerais do Município 4.318.693.548\n30 Secretaria Municipal do Trabalho 59.824.319\n31 Secretaria Municipal de Relações Internacionais 8.184.980\n32 Ouvidoria Geral do Município de São Paulo 3.098.566\n34 Secretaria Especial para Participação e Parceria 49.329.056\n36 Secretaria Especial da Pessoa com Deficiência e Mobilidade Reduzida 7.815.763\n41 Subprefeitura Perus 20.165.849\n42 Subprefeitura Pirituba 26.484.285\n43 Subprefeitura Freguesia/Brasilândia 25.607.397\n44 Subprefeitura Casa Verde/Cachoeirinha 20.975.739\n45 Subprefeitura Santana/Tucuruvi 26.242.579\n46 Subprefeitura Jaçanã/Tremembé 22.670.102\n47 Subprefeitura Vila Maria/Vila Guilherme 33.093.865\n48 Subprefeitura Lapa 25.429.817\n49 Subprefeitura Sé 137.877.544\n50 Subprefeitura Butantã 28.131.539\n51 Subprefeitura Pinheiros 24.971.005\n52 Subprefeitura Vila Mariana 26.258.469\n53 Subprefeitura Ipiranga 27.411.611\n54 Subprefeitura Santo Amaro 28.193.003\n55 Subprefeitura Jabaquara 21.790.833\n56 Subprefeitura Cidade Ademar 19.326.702\n57 Subprefeitura Campo Limpo 29.023.573\n58 Subprefeitura M´Boi Mirim 23.195.911\n59 Subprefeitura Capela do Socorro 25.058.714\n60 Subprefeitura Parelheiros 14.975.028\n61 Subprefeitura Penha 28.656.323\n62 Subprefeitura Ermelino Matarazzo 17.963.378\n63 Subprefeitura São Miguel 26.628.895\n64 Subprefeitura Itaim Paulista 20.661.903\n65 Subprefeitura Moóca 28.227.215\n66 Subprefeitura Aricanduva/Formosa/Carrão 23.774.523\n67 Subprefeitura Itaquera 29.259.867\n68 Subprefeitura Guaianases 23.952.210\n69 Subprefeitura Vila Prudente/Sapopemba 28.673.996\n70 Subprefeitura São Mateus 22.654.607\n71 Subprefeitura Cidade Tiradentes 17.971.890\n88 Fundo de Preservação do Patrimônio Histórico e Cultural 20.000\n89 Fundo Municipal de Esportes, Lazer e Recreação 95.000\n90 Fundo Municipal dos Direitos da Criança e do Adolescente 67.740.000\n91 Fundo Municipal de Habitação 51.880.500\n93 Fundo Municipal de Assistência Social 253.870.786\n94 Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável 32.720.500\n95 Fundo Especial de Promoção de Atividades Culturais 9.396.200\n96 Fundo Municipal de Turismo 1.425.000\n97 Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano 218.500\n98 Fundo de Desenvolvimento Urbano 158.470.000\n99 Fundo Municipal de Iluminação Pública 233.236.410\nPODER EXECUTIVO - ADMINISTRAÇÃO INDIRETA\n01 Autarquia Hospitalar Municipal Regional Norte 117.951.000\n02 Hospital do Servidor Público Municipal 134.432.000\n03 Instituto da Previdência Municipal de São Paulo 2.143.032.440\n04 Serviço Funerário do Município de São Paulo 101.909.000\n05 Autarquia Hospitalar Municipal Regional Leste 129.689.793\n06 Autarquia Hospitalar Municipal Regional Sudeste 67.379.000\n07 Autarquia Hospitalar Municipal Regional Sul 90.872.000\n08 Autarquia Hospitalar Municipal Regional Centro-Oeste 89.533.250\n80 Fundação Paulistana de Educação e Tecnologia 4.216.035\n81 Autoridade Municipal de Limpeza Urbana/Fundo Munic.de Limpeza Urbana 1.000\n82 Fundação Catavento 10.655.000\nReserva de Contingência 1.943.824\nTotal 21.512.767.223\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Os recursos estimados por Autarquia, Fundação e Prefeitura Municipal de São Paulo são os constantes dos Quadros e Tabelas do Anexo A desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 6º. A despesa total das empresas, nela incluídas as de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2007, está fixada em R$ 2.471.674.889,00 (dois bilhões, quatrocentos e setenta e um milhões, seiscentos e setenta e quatro mil e oitocentos e oitenta e nove reais), com a seguinte distribuição:\nEmpresas R$\nSão Paulo Turismo S/A - SPTuris 107.510.049\nCompanhia Metropolitana de Habitação de São Paulo - COHAB-SP 233.384.361\nCompanhia de Engenharia de Tráfego - CET 482.917.130\nEmpresa de Tecnologia da Informação e Comunicação - PRODAM 139.733.756\nEmpresa Municipal de Urbanização - EMURB 630.190.481\nSão Paulo Transporte S/A - SPTrans 877.939.112\nTotal 2.471.674.889\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operações de Crédito\nArt. 7º. Fica o Executivo autorizado a contratar operações de crédito com organismos nacionais e internacionais:\nI - até o limite de US$ 16.700.000 (dezesseis milhões e setecentos mil dólares americanos), para desenvolver, no âmbito do Município de São Paulo, o Programa Nacional de Apoio à Gestão Administrativa e Fiscal - PNAFM;\nII - até o limite de R$ 436.361.603,00 (quatrocentos e trinta e seis milhões, trezentos e sessenta e um mil e seiscentos e três reais), para desenvolver a 3ª etapa do Programa Prioritário dos Investimentos de Transportes do Município de São Paulo.\n§ 1º. Os prazos de amortização, carência, os prazos financeiros e outras condições de vencimento e liquidação da operação de crédito a ser contratada obedecerão às normas vigentes estabelecidas pelos órgãos gestores dos programas e pelas autoridades monetárias federais.\n§ 2º. Em garantia aos empréstimos a serem contratados com organismos nacionais, fica autorizada a vinculação de cotas do Imposto sobre Operações Relativas à Circulação de Mercadorias e Serviços - ICMS.\n§ 3º. Nos empréstimos a serem contratados com organismos internacionais, em contragarantia à garantia da União, fica autorizada a vinculação das cotas de repartição constitucional previstas nos arts. 158 e 159 da Constituição Federal, complementadas pelas receitas tributárias estabelecidas em seu art. 156, nos termos do § 4º de seu art. 167, bem como outras garantias em direito admitidas.\n§ 4º. O montante de que trata o inciso II deste artigo será atualizado até as datas das respectivas contratações das operações de crédito.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Nos termos do disposto no art. 10 da Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Suplementares\nArt. 9º. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares por meio de decretos, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, para a Administração Direta, Indireta e seus Fundos Municipais, até o limite de 15% (quinze por cento) do total da despesa fixada no art. 4° desta lei, criando, se necessário, elementos de despesa e fontes de recurso dentro de cada projeto ou atividade.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Ficam excluídos do limite do art. 9º desta lei os créditos adicionais suplementares:\nI - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal n° 1.763, de 16 de janeiro de 1980;\nII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinados a suprir insuficiências nas dotações referentes ao pagamento de precatórios judiciais;\nIV - destinados às adequações orçamentárias necessárias à implementação do fundo que vier a substituir o FUNDEF;\nV - destinados a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nVI - destinados a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal n° 4.320, de 17 de março de 1964;\nVII - destinados a suprir insuficiências nas dotações orçamentárias à conta de recursos vinculados, conforme o art. 8°, parágrafo único, da Lei Complementar n° 101, de 4 de maio de 2000;\nVIII - destinados à transposição de recursos entre dotações das funções Educação, Assistência Social, Saúde e Habitação;\nIX - destinados às adequações orçamentárias necessárias à instalação da Autoridade Municipal de Limpeza Urbana - AMLURB.\n§ 1º. A abertura de créditos adicionais suplementares será feita mediante a edição de decretos do Poder Executivo, devidamente justificados.\n§ 2º. Os recursos destinados a despesa de pessoal poderão ser remanejados para outras despesas, no último quadrimestre do exercício, desde que comprovado que os eventos que subsidiaram a previsão da despesa de pessoal não se concretizarão.\n§ 3º. O disposto no inciso IV do \"caput\" deste artigo aplica-se também no caso de prorrogação do FUNDEF.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a remanejar recursos, no âmbito de cada órgão, entre elementos do mesmo grupo de despesa e entre atividades e projetos de um mesmo programa, sem onerar o limite estabelecido no art. 9º desta lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Ficam as Autarquias e Fundações autorizadas, por ato próprio, a abrir créditos adicionais suplementares em suas dotações, respeitado o limite estabelecido no art. 9º desta lei calculado sobre o valor consignado, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto ou atividade.\n§ 1º. Aplicam-se, no que couber, a cada Autarquia e Fundação, as exclusões de que trata o art. 9º desta lei.\n§ 2º. Os pedidos de adequação orçamentária a que se refere o § 1º deste artigo deverão ser analisados pelas secretarias às quais as autarquias e fundações estão vinculadas e ratificados pela Secretaria Municipal de Planejamento.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Para efeito do que dispõe o art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, serão preservadas, prioritariamente, as dotações das áreas de educação, saúde, habitação e assistência social.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. (VETADO)\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. (VETADO)\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## Seção V\n## Disposições Finais\nArt. 16. Fica o Poder Executivo autorizado a criar dotação orçamentária para a implementação da Autoridade Municipal de Limpeza Urbana, nos termos da Lei n° 13.478, de 30 de dezembro de 2002, e alterações posteriores.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Fica o Poder Executivo autorizado a criar e adequar dotações orçamentárias para a implementação do fundo que vier a substituir o FUNDEF, de acordo com a legislação federal.\nParágrafo único. O disposto no \"caput\" aplica-se também no caso de prorrogação do FUNDEF.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Os recursos oriundos da alienação de crédito de carbono, no Município de São Paulo, destinados ao Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável, criado pela Lei nº 13.155, de 29 de junho de 2001, deverão ser utilizados preferencialmente na região de execução dos projetos ambientais de mitigação de carbono.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Esta lei entrará em vigor em 1° de janeiro de 2007.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2006, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2006.\nCLÓVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n***OBS: Os Anexos desta lei serão publicados na íntegra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

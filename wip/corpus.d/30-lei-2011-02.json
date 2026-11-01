@@ -1,0 +1,2782 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2011-15426": {
+   "label": "Lei nº 15.426, de 26/08/2011",
+   "title": "Institui, no âmbito do Município de São Paulo, o Programa de Prevenção e Combate às Doenças Renais Crônicas (DRC), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-08-26",
+   "published": "2011-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15426-de-26-de-agosto-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15427": {
+   "label": "Lei nº 15.427, de 26/08/2011",
+   "title": "Dispõe sobre Cursos de Capacitação Profissional para munícipes, aos sábados e domingos.",
+   "kind": "law",
+   "enacted": "2011-08-26",
+   "published": "2011-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15427-de-26-de-agosto-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15429": {
+   "label": "Lei nº 15.429, de 26/08/2011",
+   "title": "Dispõe sobre a restrição do uso de telefone móvel no interior das agências bancárias e similares no Município de São Paulo, na forma que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-08-26",
+   "published": "2011-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15429-de-26-de-agosto-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15431": {
+   "label": "Lei nº 15.431, de 02/09/2011",
+   "title": "Dispõe sobre o Programa Automotivo de Responsabilidade Ambiental e institui o Selo Roda Verde no âmbito do município de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-02",
+   "published": "2011-09-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15431-de-02-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15432": {
+   "label": "Lei nº 15.432, de 02/09/2011",
+   "title": "Denomina Praça Comendador Irineu Tadakazu Egute o espaço livre inominado delimitado pela Avenida Mercedes e Rua Sacadura Cabral, Distrito da Lapa, Subprefeitura da Lapa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-02",
+   "published": "2011-09-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15432-de-2-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15433": {
+   "label": "Lei nº 15.433, de 02/09/2011",
+   "title": "Denomina CEI Dr. Eduardo de Campos Rosmaninho o Centro de Educação Infantil localizado na Rua Dom Bernardo Nogueira nº 921, Bairro de Vila Gumercindo, Distrito Cursino, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-02",
+   "published": "2011-09-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15433-de-2-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15434": {
+   "label": "Lei nº 15.434, de 02/09/2011",
+   "title": "Denomina Praça Sebastião Januário o espaço livre público inominado delimitado pelas Ruas Amacás e Apeaçu, situado no Distrito de Campo Limpo, na Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-02",
+   "published": "2011-09-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15434-de-2-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15435": {
+   "label": "Lei nº 15.435, de 02/09/2011",
+   "title": "Denomina Praça Jane Meire dos Santos o espaço livre público inominado localizado no cruzamento da Avenida Kemel Addas e Rua Desembargador Isnard dos Reis, situado no Distrito do Itaim Paulista, Subprefeitura Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-02",
+   "published": "2011-09-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15435-de-2-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15436": {
+   "label": "Lei nº 15.436, de 05/09/2011",
+   "title": "Denomina Escola Municipal de Ensino Fundamental Professor José Francisco Cavalcante a escola municipal de ensino fundamental situada na Rua Tajal, s/nº, Bairro Conjunto Habitacional Jardim São Bento, Distrito de Capão Redondo, vinculada à Diretoria Regional de Educação de Campo Limpo, da Secretaria Municipal de Educação, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-05",
+   "published": "2011-09-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15436-de-5-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15437": {
+   "label": "Lei nº 15.437, de 05/09/2011",
+   "title": "Denomina Praça Jurema Patella de Castro o espaço livre delimitado pela Rua Oscar Freire, Avenida Dr. Arnaldo e lotes particulares, situado no Distrito de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-05",
+   "published": "2011-09-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15437-de-5-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15438": {
+   "label": "Lei nº 15.438, de 06/09/2011",
+   "title": "Denomina Praça Teiiti Suzuki o espaço livre delimitado pela Avenida Brasil, Rua Dr. David Campista e Rua Dr. João Pinheiro, Distrito do Jardim Paulista, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-06",
+   "published": "2011-09-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15438-de-6-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15439": {
+   "label": "Lei nº 15.439, de 06/09/2011",
+   "title": "Denomina Praça Maria Godoy Cabral o remanescente do espaço livre delimitado pelas Ruas Raul Valença, Jocelyn Santos, José Balangio e por viela sem denominação, situado no Distrito de Arthur Alvim, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-06",
+   "published": "2011-09-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15439-de-6-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15440": {
+   "label": "Lei nº 15.440, de 06/09/2011",
+   "title": "Denomina Praça Profª Jacyra do Carmo Curado o logradouro público inominado situado entre a Rua Nossa Senhora da Lapa e a Rua Faustolo, no Distrito da Lapa, Subprefeitura da Lapa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-06",
+   "published": "2011-09-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15440-de-6-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15441": {
+   "label": "Lei nº 15.441, de 06/09/2011",
+   "title": "Denomina Terminal Jornalista Victor Civita o Terminal de Integração localizado na Rua Capri, Distrito de Pinheiros, no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-06",
+   "published": "2011-09-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15441-de-6-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15442": {
+   "label": "Lei nº 15.442, de 09/09/2011",
+   "title": "Dispõe sobre a limpeza de imóveis, o fechamento de terrenos não edificados e a construção e manutenção de passeios, bem como cria o Disque-Calçadas; revoga as Leis nº 10.508, de 4 de maio de 1988, e nº 12.993, de 24 de maio de 2000, o art. 167 e o correspondente item constante do Anexo VI da Lei nº 13.478, de 30 de dezembro de 2002.",
+   "kind": "law",
+   "enacted": "2011-09-09",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15442-de-09-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15443": {
+   "label": "Lei nº 15.443, de 09/09/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos a Feira de Arte, Artesanato, Antiguidades, Gastronomia, Cultura e Lazer da Praça da Liberdade, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-09",
+   "published": "2011-09-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15443-de-09-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15447": {
+   "label": "Lei nº 15.447, de 26/09/2011",
+   "title": "Dispõe sobre o Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-26",
+   "published": "2011-09-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15447-de-26-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15448": {
+   "label": "Lei nº 15.448, de 27/09/2011",
+   "title": "Dispõe sobre a transferência das permissões de uso outorgadas nos termos da Lei nº 5.062, de 18 de outubro de 1956, alterada pela Lei nº 8.146, de 7 de novembro de 1974, para instalação de barracas ou bancas destinadas à venda de flores.",
+   "kind": "law",
+   "enacted": "2011-09-27",
+   "published": "2011-09-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15448-de-27-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15449": {
+   "label": "Lei nº 15.449, de 27/09/2011",
+   "title": "Denomina Rua Maria do Carmo da Silva a rua inominada, localizada entre as Ruas São Jorge e Chico Mendes, na Vila Santana do Agreste, no Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-27",
+   "published": "2011-09-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15449-de-27-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15450": {
+   "label": "Lei nº 15.450, de 27/09/2011",
+   "title": "Denomina Travessa Edmilson Barreto Mendes o logradouro público conhecido como Viela 18, que começa na Rua Doutor Mário Scaff e termina na Rua Clóvis Monteiro C. Júnior, situado no Distrito de São Mateus, Subprefeitura São Mateus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-27",
+   "published": "2011-09-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15450-de-27-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15451": {
+   "label": "Lei nº 15.451, de 27/09/2011",
+   "title": "Denomina Praça Willian Calixto da Costa o espaço livre público inominado localizado na confluência da Rua Ariá com a Rua Hicavo, situado no Distrito do Jardim São Luiz, Subprefeitura M'Boi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-09-27",
+   "published": "2011-09-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15451-de-27-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15452": {
+   "label": "Lei nº 15.452, de 28/09/2011",
+   "title": "Institui o Programa Permanente de Esclarecimentos e Incentivo à Cremação.",
+   "kind": "law",
+   "enacted": "2011-09-28",
+   "published": "2011-09-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15452-de-28-de-setembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15453": {
+   "label": "Lei nº 15.453, de 04/10/2011",
+   "title": "Dispõe sobre a alteração das formas de provimento dos empregos públicos que especifica, da Escola Técnica de Saúde Pública Prof. Makiguti, da Fundação Paulistana de Educação e Tecnologia.",
+   "kind": "law",
+   "enacted": "2011-10-04",
+   "published": "2011-10-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15453-de-4-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15454": {
+   "label": "Lei nº 15.454, de 06/10/2011",
+   "title": "Denomina Praça Lourenço Duarte o remanescente de espaço livre, delimitado pela Rua Antonia Xavier de Souza e por lotes particulares, situado no Distrito do Limão, na Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15454-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15455": {
+   "label": "Lei nº 15.455, de 06/10/2011",
+   "title": "Denomina Praça Preá o espaço livre público inominado localizado entre as Ruas Jacques Danon e Orlando Pellicci, no Distrito Cidade Líder, na Subprefeitura Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15455-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15457": {
+   "label": "Lei nº 15.457, de 06/10/2011",
+   "title": "Denomina Praça Centenário do Cangaíba o espaço livre público inominado delimitado pelas Ruas General Quintela, Mara Nobre, Astrogildo Cintra, pela viela \"2\", por lotes particulares e por área institucional, situado no Distrito do Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15457-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15458": {
+   "label": "Lei nº 15.458, de 06/10/2011",
+   "title": "Denomina Centro de Educação Infantil Professora Maria do Carmo Pazos Fernandez - MADU o Centro de Educação Infantil Parque Sabará, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15458-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15459": {
+   "label": "Lei nº 15.459, de 06/10/2011",
+   "title": "Denomina Antonio de Paiva Monteiro o viaduto que interliga as Ruas Catiguá e Engenheiro Balém, transpondo a Avenida Salim Farah Maluf, localizado no Distrito do Tatuapé, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15459-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15460": {
+   "label": "Lei nº 15.460, de 06/10/2011",
+   "title": "Denomina Praça Ivo Casagrande o espaço livre público inominado delimitado pelas Ruas Antônio Fontana e Franco Leoni, situado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15460-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15461": {
+   "label": "Lei nº 15.461, de 06/10/2011",
+   "title": "Denomina Praça Maria do Carmo Rodrigues o espaço livre público inominado delimitado pelas Ruas Guajajara e Uari, situado no Distrito do Grajaú, Subprefeitura da Capela do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-06",
+   "published": "2011-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15461-de-6-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15462": {
+   "label": "Lei nº 15.462, de 10/10/2011",
+   "title": "Denomina Praça Amantino Cardoso de Moraes o espaço livre público inominado delimitado pela Avenida Assis Ribeiro e Rua Belém Santos, Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-10",
+   "published": "2011-10-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15462-de-10-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15463": {
+   "label": "Lei nº 15.463, de 11/10/2011",
+   "title": "Dispõe sobre a obrigatoriedade da execução também do Hino Nacional do País visitante, representado por equipe esportiva nas competições em nosso Município e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-11",
+   "published": "2011-10-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15463-de-11-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15464": {
+   "label": "Lei nº 15.464, de 11/10/2011",
+   "title": "Dispõe sobre a aquisição, pelos órgãos da administração direta e indireta do Município de São Paulo, de papéis com certificação que comprove que a madeira utilizada na sua fabricação é oriunda de plano de manejo florestal sustentável devidamente aprovado pelo órgão ambiental competente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-11",
+   "published": "2011-10-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15464-de-11-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15465": {
+   "label": "Lei nº 15.465, de 18/10/2011",
+   "title": "Dispõe sobre a outorga e a gestão de concessão, visando a criação, confecção, instalação e manutenção de relógios eletrônicos digitais de tempo, temperatura, qualidade do ar e outras informações institucionais, bem como de abrigos de parada de transporte público de passageiros e de totens indicativos de parada de ônibus, com exploração publicitária.",
+   "kind": "law",
+   "enacted": "2011-10-18",
+   "published": "2011-10-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15465-de-18-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15466": {
+   "label": "Lei nº 15.466, de 18/10/2011",
+   "title": "Altera a redação dos arts. 2º, 3º, 4º, inciso VIII (VETADO) da Lei nº 14.668, de 14 de janeiro de 2008, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-18",
+   "published": "2011-10-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15466-de-18-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15468": {
+   "label": "Lei nº 15.468, de 20/10/2011",
+   "title": "Dispõe sobre a disponibilização de informações sobre o zoneamento no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-20",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15468-de-20-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15469": {
+   "label": "Lei nº 15.469, de 25/10/2011",
+   "title": "Denomina Praça Ioli Abílio o espaço livre público inominado delimitado pelas Ruas da Safra e dos Mutirantes, localizado no Distrito do Capão Redondo, Subprefeitura Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-25",
+   "published": "2011-10-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15469-de-25-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15470": {
+   "label": "Lei nº 15.470, de 27/10/2011",
+   "title": "Acresce art. 8º-A e inciso IV (VETADO) ao art. 12 da Lei nº 10.365, de 22 de setembro de 1987, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-10-27",
+   "published": "2011-10-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15470-de-27-de-outubro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15472": {
+   "label": "Lei nº 15.472, de 01/11/2011",
+   "title": "Denomina Praça Benedicto Arthur Sampaio o espaço livre público inominado situado na confluência da Avenida Amarílis e Rua das Açucenas, no Distrito do Morumbi, Subprefeitura do Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-01",
+   "published": "2011-11-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15472-de-1-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15473": {
+   "label": "Lei nº 15.473, de 04/11/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Corretor de Seguros, a ser comemorado anualmente no dia 12 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-04",
+   "published": "2011-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15473-de-04-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15474": {
+   "label": "Lei nº 15.474, de 04/11/2011",
+   "title": "Altera a redação do inciso LXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-04",
+   "published": "2011-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15474-de-04-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15475": {
+   "label": "Lei nº 15.475, de 04/11/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa do Bairro Parque Paulistano, a ser comemorada anualmente no terceiro final de semana de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-04",
+   "published": "2011-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15475-de-04-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15476": {
+   "label": "Lei nº 15.476, de 04/11/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Médico Veterinário, a ser comemorado anualmente no dia 09 de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-04",
+   "published": "2011-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15476-de-04-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15477": {
+   "label": "Lei nº 15.477, de 04/11/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de São Judas Tadeu, a ser comemorado anualmente no dia 28 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-04",
+   "published": "2011-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15477-de-04-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15478": {
+   "label": "Lei nº 15.478, de 08/11/2011",
+   "title": "Denomina Escola Municipal de Educação Infantil Professora Josefa Nicacio Araujo a Escola Municipal de Ensino Fundamental Professora Josefa Nicacio Araujo a Escola Municipal de Ensino Fundamental Itaim A, criada pelo Decreto nº 50.267, de 27 de novembro de 2008.",
+   "kind": "law",
+   "enacted": "2011-11-08",
+   "published": "2011-11-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15478-de-8-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15479": {
+   "label": "Lei nº 15.479, de 23/11/2011",
+   "title": "Denomina Praça Maria Anunciada Torres Batista a área verde pública inominada delimitada pelas Ruas Luís Élson e Herculano José dos Santos, situada no Distrito de Anhanguera, Subprefeitura de Perus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-23",
+   "published": "2011-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15479-de-23-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15480": {
+   "label": "Lei nº 15.480, de 23/11/2011",
+   "title": "Denomina Praça Manuel Marcos Senra Azevedo o espaço livre público inominado delimitado pela Avenida Onze de Junho e Rua Haberbeck Brandão, Distrito de Moema, Subprefeitura Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-23",
+   "published": "2011-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15480-de-23-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15481": {
+   "label": "Lei nº 15.481, de 23/11/2011",
+   "title": "Denomina Praça Manoel Cassimiro Borges o espaço livre público inominado delimitado pelas Ruas Frei Fidélis Mota, Serra do Itaqueri e Pico da Neblina, situado no Distrito de Vila Jacuí, Subprefeitura São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-23",
+   "published": "2011-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15481-de-23-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15482": {
+   "label": "Lei nº 15.482, de 23/11/2011",
+   "title": "Denomina Travessa Nathanael Nunes Barreto o logradouro público inominado conhecido por viela \"um\", que começa na Rua Tibúrcio de Sousa e termina na Rua Luís de Araújo Coura, situado no Distrito do Itaim Paulista, Subprefeitura do Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-23",
+   "published": "2011-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15482-de-23-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15484": {
+   "label": "Lei nº 15.484, de 28/11/2011",
+   "title": "Denomina Praça GCM Davi Damião dos Santos o espaço livre sem denominação, situado na Avenida dos Têxteis, no Bairro Cidade Tiradentes, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-11-28",
+   "published": "2011-11-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15484-de-28-de-novembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2011-15426",
+   "short": "Lei 15426/2011",
+   "title": "Lei nº 15.426, de 26/08/2011 (Institui, no âmbito do Município de São Paulo, o Programa de Prevenção e Combate às Doenças Renais Crônicas (DRC), e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15426-de-26-de-agosto-de-2011",
+   "first_law": "lei-2011-15426",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15426-de-26-de-agosto-de-2011",
+     "sha256": "9da2643b9e2d5487ce94de45e266de7fad7753997a1a6392c42a588bb295d51a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.426, DE 26 DE AGOSTO DE 2011\n(Projeto de Lei nº 532/07, do Vereador Natalini)\nInstitui, no âmbito do Município de São Paulo, o Programa de Prevenção e Combate às Doenças Renais Crônicas (DRC), e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Programa de Prevenção e Combate às Doenças Renais Crônicas (DRC).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O programa instituído no art. 1º desta lei será desenvolvido no âmbito da Rede Pública Municipal de Saúde, priorizando a Atenção Básica como porta de entrada do Sistema Único de Saúde, com apoio de especialistas, de Sociedades Médicas Científicas, de representantes de associações de portadores de Doenças Renais Crônicas (DRC) e terá como objetivo:\nI - promover estratégias para a prevenção, o diagnóstico precoce e tratamento das Doenças Renais Crônicas na rede básica de saúde do Município de São Paulo, articulando-as com os programas de hipertensão arterial e diabetes mellitus;\nII - implementar no Sistema Integrado de Gestão de Atendimento (SIGA SAÚDE) o módulo de atendimento, com o adequado registro de morbidade;\nIII - organizar um sistema de capacitação de profissionais da Rede Pública Municipal de Saúde, particularmente, de equipes de Saúde da Família, médicos clínicos gerais, nefrologistas, nutricionistas, psicólogos e de enfermeiros especializados, por meio de cursos, treinamentos, seminários e estágios para atendimento, diagnóstico e tratamento da população com risco de Doenças Renais Crônicas e das doenças correlacionadas: hipertensão arterial, diabetes mellitus e doenças cardiovasculares, cálculo renal, infecções urinárias e outras patologias;\nIV - acompanhar as ações programáticas, em especial as referentes à hipertensão e ao diabetes junto à rede básica de saúde, com referência à coleta oportuna dos exames laboratoriais de sangue e urina (urina I, creatinina, depuração de creatinina, proteinúria ou microalbuminúria) necessários para avaliar a função renal, possibilitando intervenções que impeçam a instalação deste agravo ou retardem sua evolução;\nV - otimizar as relações entre as áreas médicas públicas e privadas de modo a possibilitar a mais ampla troca de informações, inclusive, dos profissionais de saúde entre si e com os pacientes, para o combate ao problema e a ampliação da qualidade de vida para os seus portadores e respectivos familiares;\nVI - incluir, nos inquéritos populacionais realizados no Município de São Paulo e nas pesquisas junto aos serviços da rede básica, o tema da Doença Renal Crônica, permitindo a produção de conhecimento sobre este agravo e fornecendo subsídios adicionais ao Gestor de Saúde para tomada de decisão;\nVII - desenvolver campanhas de esclarecimento da população sobre a DRC, especialmente, sobre sintomas, tratamento e sobre os locais de atendimento para informação e encaminhamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As campanhas de esclarecimento sobre a DRC (Doenças Renais Crônicas) deverão ser empreendidas através das seguintes iniciativas, dentre outras possíveis:\nI - elaboração de cadernos técnicos para profissionais da rede pública de saúde;\nII - criação de cartilhas e folhetos explicativos para a população em geral;\nIII - campanhas em locais públicos de grande circulação ou campanhas focadas em públicos específicos;\nIV - divulgação dos endereços das unidades de atendimento para informação, encaminhamento e tratamento através dos meios de comunicação de ampla divulgação e circulação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público poderá buscar apoio em outras instituições para desenvolver o Programa de Conscientização para uma melhor oportunidade e qualidade de vida das pessoas com problema de DRC e suas consequências.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei será regulamentada pelo Poder Executivo, no que couber, no prazo máximo de 60 (sessenta) dias, contado de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 26 de agosto de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15427",
+   "short": "Lei 15427/2011",
+   "title": "Lei nº 15.427, de 26/08/2011 (Dispõe sobre Cursos de Capacitação Profissional para munícipes, aos sábados e domingos.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15427-de-26-de-agosto-de-2011",
+   "first_law": "lei-2011-15427",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15427-de-26-de-agosto-de-2011",
+     "sha256": "627dac44a8fac777a9032a2e94ce6eeed79f3e4f512682dd08261fadfbe2ea48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.427, DE 26 DE AGOSTO DE 2011\n(Projeto de Lei nº 554/09, do Vereador Cláudio Prado - PDT)\nDispõe sobre Cursos de Capacitação Profissional para munícipes, aos sábados e domingos.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos Cursos de Capacitação Profissional, a serem oferecidos pelo Poder Público Municipal aos sábados e domingos, destinados às pessoas residentes no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os cursos de capacitação profissional de que trata esta lei deverão ser escolhidos diante da necessidade exigida pelo mercado de trabalho na cidade.\nParágrafo único. Fica a Secretaria Municipal de Desenvolvimento Econômico e do Trabalho incumbida de verificar quais as reais necessidades citadas no \"caput\" deste artigo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins do disposto no art. 2º desta lei, o Poder Executivo poderá celebrar parcerias e convênios com entidades públicas ou privadas, conforme preceitua a legislação pertinente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os cursos de capacitação profissional serão oferecidos gratuitamente aos interessados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os cursos de capacitação profissional a serem ministrados bem como a estrutura técnica e especificações serão objeto de regulamentação por parte do Poder Executivo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 26 de agosto de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15429",
+   "short": "Lei 15429/2011",
+   "title": "Lei nº 15.429, de 26/08/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15429-de-26-de-agosto-de-2011",
+   "first_law": "lei-2011-15429",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15429-de-26-de-agosto-de-2011",
+     "sha256": "8ca85dd1ebbdf72d6553634a18994de0773615591efcaffa4e5d951a358301d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.429, DE 26 DE AGOSTO DE 2011\n(Projeto de Lei nº 132/10, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDispõe sobre a restrição do uso de telefone móvel no interior das agências bancárias e similares no Município de São Paulo, na forma que especifica, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica restrita a utilização de telefone móvel no interior das agências bancárias e postos bancários, bem como nas áreas destinadas aos caixas eletrônicos e de similares, especificamente nos espaços de movimentação financeira, durante o atendimento a clientes.\n§ 1º A utilização de que trata o \"caput\" deste artigo diz respeito a fazer ou receber ligações, bem como receber mensagens de voz e de texto.\n§ 2º As agências bancárias e organizações similares, como menciona o art. 1º, deverão afixar cópias desta lei nos espaços de circulação dos clientes para conhecimento dos interessados, bem como placas informativas, em pontos visíveis, quanto à área de restrição do uso de telefone móvel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A não observância ao disposto no art. 1º desta lei acarretará a aplicação de multa às agências bancárias no valor de R$ 2.500,00 (dois mil e quinhentos reais) e, em caso de reincidência, multa no valor de R$ 5.000,00 (cinco mil reais), atualizada de acordo com o Índice de Preços ao Consumidor Amplo - IPCA, do Instituto Brasileiro de Geografia e Estatística - IBGE, ou outro que vier a substituí-lo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de agosto de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 26 de agosto de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15431",
+   "short": "Lei 15431/2011",
+   "title": "Lei nº 15.431, de 02/09/2011 (Dispõe sobre o Programa Automotivo de Responsabilidade Ambiental e institui o Selo Roda Verde no âmbito do município de São Paulo e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15431-de-02-de-setembro-de-2011",
+   "first_law": "lei-2011-15431",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15431-de-02-de-setembro-de-2011",
+     "sha256": "9de6f120ad45d23dd91f8edd143b2ac138352ee4877daf4669db944032959eef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.431, DE 2 DE SETEMBRO DE 2011\n(Projeto de Lei nº 24/09, do Vereador Adilson Amadeu - PTB)\nDispõe sobre o Programa Automotivo de Responsabilidade Ambiental e institui o Selo Roda Verde no âmbito do município de São Paulo e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 2 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos no âmbito do Município de São Paulo o Programa Automotivo de Responsabilidade Ambiental e o Selo Roda Verde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa visa fomentar e identificar empresas ambientalmente responsáveis, ligadas ao ramo de venda e revenda de automóveis instaladas no Município preocupadas em neutralizar ou compensar os efeitos gerados pela poluição de seus produtos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Entendem-se como empresa do ramo, para efeito desta lei, as concessionárias, agências, lojas, consórcios e locadoras.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A empresa interessada em participar do respectivo programa deverá se comprometer a plantar exemplares arbóreos na região da Subprefeitura onde está instalada, em número proporcional às emissões potenciais dos automóveis vendidos, durante um período a ser fixado pelo Executivo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Será concedida à empresa participante o Selo Roda Verde, o qual poderá ser veiculado em suas peças publicitárias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A indicação de espécies arbóreas a serem plantadas no âmbito do programa deverá obedecer à lista fixada pelo órgão ambiental municipal competente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O local de plantio e os procedimentos para sua execução deverão obedecer ao Manual de Arborização, publicado pela Secretaria Municipal do Verde e do Meio Ambiente.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A empresa participante do programa deverá realizar a manutenção dos exemplares arbóreos plantados pelo período de dois anos, efetuando o seu replantio, quando necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A manutenção do selo pela empresa será renovado periodicamente, diante da comprovação do plantio de exemplares arbóreos em número correspondente ao determinado de acordo com o estabelecido pelo art. 4º, bem como da manutenção estabelecida na forma do art. 8º.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Executivo regulamentará a presente lei, no que couber, no prazo de 90 (noventa) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15432",
+   "short": "Lei 15432/2011",
+   "title": "Lei nº 15.432, de 02/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15432-de-2-de-setembro-de-2011",
+   "first_law": "lei-2011-15432",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15432-de-2-de-setembro-de-2011",
+     "sha256": "8d041a5161df8b234a871919eb1eabc2dcce19858362bba1a07ecaeb45cac3c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.432, DE 2 DE SETEMBRO DE 2011\n(Projeto de Lei nº 456/08, do Vereador Aurélio Nomura - PV)\nDenomina Praça Comendador Irineu Tadakazu Egute o espaço livre inominado delimitado pela Avenida Mercedes e Rua Sacadura Cabral, Distrito da Lapa, Subprefeitura da Lapa, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Comendador Irineu Tadakazu Egute o espaço livre inominado delimitado pela Avenida Mercedes e Rua Sacadura Cabral (Setor 80 - Quadra 12 e Setor 98 - Quadra 58), Distrito da Lapa, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15433",
+   "short": "Lei 15433/2011",
+   "title": "Lei nº 15.433, de 02/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15433-de-2-de-setembro-de-2011",
+   "first_law": "lei-2011-15433",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15433-de-2-de-setembro-de-2011",
+     "sha256": "2c665fb131f116acc9a1d4d5662864c65e10218d07ab97242446bcef73720cd7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.433, DE 2 DE SETEMBRO DE 2011\n(Projeto de Lei nº 36/10, do Vereador Domingos Dissei - DEMOCRATAS)\nDenomina CEI Dr. Eduardo de Campos Rosmaninho o Centro de Educação Infantil localizado na Rua Dom Bernardo Nogueira nº 921, Bairro de Vila Gumercindo, Distrito Cursino, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado CEI Dr. Eduardo de Campos Rosmaninho o Centro de Educação Infantil criado pelo Decreto nº 40.193, de 27 de dezembro de 2000, vinculado à Diretoria Regional de Educação do Ipiranga, Subprefeitura do Ipiranga, localizado na Rua Dom Bernardo Nogueira nº 921, Bairro de Vila Gumercindo, Distrito Cursino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15434",
+   "short": "Lei 15434/2011",
+   "title": "Lei nº 15.434, de 02/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15434-de-2-de-setembro-de-2011",
+   "first_law": "lei-2011-15434",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15434-de-2-de-setembro-de-2011",
+     "sha256": "faed08bdda75c4ad5cd05f8115d69e019316269dd8b2dd7a685c5698ade36124",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.434, DE 2 DE SETEMBRO DE 2011\n(Projeto de Lei nº 276/10, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Sebastião Januário o espaço livre público inominado delimitado pelas Ruas Amacás e Apeaçu, situado no Distrito de Campo Limpo, na Subprefeitura de Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Sebastião Januário o espaço livre público inominado delimitado pelas Ruas Amacás e Apeaçu (Setor 168 - Quadra 72), situado no Distrito de Campo Limpo, na Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15435",
+   "short": "Lei 15435/2011",
+   "title": "Lei nº 15.435, de 02/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15435-de-2-de-setembro-de-2011",
+   "first_law": "lei-2011-15435",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15435-de-2-de-setembro-de-2011",
+     "sha256": "53cea3c0d6c44f0b54a9304ed857bfb8aa453490b6d3f04a5a834317be0d9081",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.435, DE 2 DE SETEMBRO DE 2011\n(Projeto de Lei nº 466/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Jane Meire dos Santos o espaço livre público inominado localizado no cruzamento da Avenida Kemel Addas e Rua Desembargador Isnard dos Reis, situado no Distrito do Itaim Paulista, Subprefeitura Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Jane Meire dos Santos o espaço livre público inominado localizado no cruzamento da Avenida Kemel Addas e Rua Desembargador Isnard dos Reis (Setor 229 - Quadra 64), situado no Distrito do Itaim Paulista, Subprefeitura Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15436",
+   "short": "Lei 15436/2011",
+   "title": "Lei nº 15.436, de 05/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15436-de-5-de-setembro-de-2011",
+   "first_law": "lei-2011-15436",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15436-de-5-de-setembro-de-2011",
+     "sha256": "4363dc477b04083045def9b7b61e370a7ba00f0087b39cbcb1f432d1b4299974",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.436, DE 5 DE SETEMBRO DE 2011\n(Projeto de Lei nº 93/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Escola Municipal de Ensino Fundamental Professor José Francisco Cavalcante a escola municipal de ensino fundamental situada na Rua Tajal, s/nº, Bairro Conjunto Habitacional Jardim São Bento, Distrito de Capão Redondo, vinculada à Diretoria Regional de Educação de Campo Limpo, da Secretaria Municipal de Educação, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Escola Municipal de Ensino Fundamental Professor José Francisco Cavalcante a escola municipal de ensino fundamental situada na Rua Tajal, s/nº, Bairro Conjunto Habitacional Jardim São Bento, Distrito de Capão Redondo, criada pelo Decreto nº 50.267, de 27 de novembro de 2008, vinculada à Diretoria Regional de Educação de Campo Limpo, da Secretaria Municipal de Educação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15437",
+   "short": "Lei 15437/2011",
+   "title": "Lei nº 15.437, de 05/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15437-de-5-de-setembro-de-2011",
+   "first_law": "lei-2011-15437",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15437-de-5-de-setembro-de-2011",
+     "sha256": "9225051e468e28a4c23755654db4d2df090f21e83004f562da3bd9bf6e094260",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.437, DE 5 DE SETEMBRO DE 2011\n(Projeto de Lei nº 394/10, do Vereador Paulo Frange - PTB)\nDenomina Praça Jurema Patella de Castro o espaço livre delimitado pela Rua Oscar Freire, Avenida Dr. Arnaldo e lotes particulares, situado no Distrito de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Jurema Patella de Castro o espaço livre delimitado pela Rua Oscar Freire, Avenida Dr. Arnaldo e lotes particulares (Setor 11  Quadra 71), situado no Distrito de Pinheiros, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15438",
+   "short": "Lei 15438/2011",
+   "title": "Lei nº 15.438, de 06/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15438-de-6-de-setembro-de-2011",
+   "first_law": "lei-2011-15438",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15438-de-6-de-setembro-de-2011",
+     "sha256": "aa6344b674a9ed7ce9ae50d23230f6ae617ed2c36f7668b8080cfbe036279b0c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.438, DE 6 DE SETEMBRO DE 2011\n(Projeto de Lei nº 311/08, do Vereador Aurélio Nomura - PV)\nDenomina Praça Teiiti Suzuki o espaço livre delimitado pela Avenida Brasil, Rua Dr. David Campista e Rua Dr. João Pinheiro, Distrito do Jardim Paulista, Subprefeitura de Pinheiros, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Teiiti Suzuki o espaço livre delimitado pela Avenida Brasil, Rua Dr. David Campista e Rua Dr. João Pinheiro (Setor 14 - Quadra 79), Distrito do Jardim Paulista, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15439",
+   "short": "Lei 15439/2011",
+   "title": "Lei nº 15.439, de 06/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15439-de-6-de-setembro-de-2011",
+   "first_law": "lei-2011-15439",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15439-de-6-de-setembro-de-2011",
+     "sha256": "dc1f2aea9085d5e03262bf5fa6674e208eaf1392963fa287d2b4e9213b0a12cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.439, DE 6 DE SETEMBRO DE 2011\n(Projeto de Lei nº 408/10, do Vereador Toninho Paiva - PR)\nDenomina Praça Maria Godoy Cabral o remanescente do espaço livre delimitado pelas Ruas Raul Valença, Jocelyn Santos, José Balangio e por viela sem denominação, situado no Distrito de Arthur Alvim, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Godoy Cabral o remanescente do espaço livre 2 representado no croqui de Patr nº 102.321 e delimitado pelas Ruas Raul Valença, Jocelyn Santos, José Balangio e por viela sem denominação (Setor 143 - Quadra 61), situado no Distrito de Arthur Alvim, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15440",
+   "short": "Lei 15440/2011",
+   "title": "Lei nº 15.440, de 06/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15440-de-6-de-setembro-de-2011",
+   "first_law": "lei-2011-15440",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15440-de-6-de-setembro-de-2011",
+     "sha256": "439fa46647d2950ec356e47a41bfa2b4a19f80d413d962285a6e6e4b8f372974",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.440, DE 6 DE SETEMBRO DE 2011\n(Projeto de Lei nº 465/08, do Vereador Aurélio Nomura - PV)\nDenomina Praça Profª Jacyra do Carmo Curado o logradouro público inominado situado entre a Rua Nossa Senhora da Lapa e a Rua Faustolo, no Distrito da Lapa, Subprefeitura da Lapa, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Profª Jacyra do Carmo Curado o logradouro público inominado situado entre a Rua Nossa Senhora da Lapa e a Rua Faustolo (Setor 23 - Quadras 15 e 29), no Distrito da Lapa, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15441",
+   "short": "Lei 15441/2011",
+   "title": "Lei nº 15.441, de 06/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15441-de-6-de-setembro-de-2011",
+   "first_law": "lei-2011-15441",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15441-de-6-de-setembro-de-2011",
+     "sha256": "cfa20e9614f37b3ac05bb009f92ba9b0ceb2ca983423bda5b8d68f5937070f70",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.441, DE 6 DE SETEMBRO DE 2011\n(Projeto de Lei nº 90/2010, do Vereador Claudio Fonseca - PPS)\nDenomina Terminal Jornalista Victor Civita o Terminal de Integração localizado na Rua Capri, Distrito de Pinheiros, no Município de São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Terminal Jornalista Victor Civita o Terminal de Integração localizado na Rua Capri, Distrito de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15442",
+   "short": "Lei 15442/2011",
+   "title": "Lei nº 15.442, de 09/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15442-de-09-de-setembro-de-2011",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2011-15442"
+   ],
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15442-de-09-de-setembro-de-2011",
+     "sha256": "b4c180513f48e009c78df6dcf6e5993a1e34a16dfdb4cf7a59fbe6a79f584bea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.442, DE 9 DE SETEMBRO DE 2011\n(Projeto de Lei nº 409/10, do Vereador Domingos Dissei - DEMOCRATAS)\nDispõe sobre a limpeza de imóveis, o fechamento de terrenos não edificados e a construção e manutenção de passeios, bem como cria o Disque-Calçadas; revoga as Leis nº 10.508, de 4 de maio de 1988, e nº 12.993, de 24 de maio de 2000, o art. 167 e o correspondente item constante do Anexo VI da Lei nº 13.478, de 30 de dezembro de 2002.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA LIMPEZA DE IMÓVEIS\nArt. 1º Os responsáveis por imóveis, edificados ou não, lindeiros a vias ou logradouros públicos, são obrigados a mantê-los limpos, capinados e drenados, respondendo, em qualquer situação, pela sua utilização como depósito de lixo, detritos ou resíduos de qualquer espécie ou natureza.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO FECHAMENTO DE TERRENOS\nArt. 2º Os responsáveis por terrenos não edificados, com frente para vias ou logradouros públicos dotados de pavimentação ou de guias e sarjetas, são obrigados a executar, manter e conservar gradil, muro ou outro tipo adequado de fecho nos respectivos alinhamentos, observadas as regras a serem fixadas por meio de decreto.\n§ 1º O fechamento de que trata o \"caput\" deste artigo poderá ser metálico, de pedra, de concreto ou de alvenaria revestida, devendo ter altura de 1,20m (um metro e vinte centímetros) em relação ao nível do logradouro e ser provido de portão.\n§ 2º O fechamento poderá ter altura superior a 1,20m (um metro e vinte centímetros) desde que, a partir dessa medida, sejam executados com, no mínimo 50% (cinquenta por cento) de sua superfície uniformemente vazada, de forma a possibilitar a total visão do terreno.\n§ 3º O Executivo poderá alterar as características do fechamento, por meio de decreto, em função da evolução da técnica das construções, dos materiais e das tendências sociais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Quando o terreno pertencer a loteamento aprovado, fica concedido, para cumprimento do disposto neste artigo, o prazo de 12 (doze) meses, contados a partir da data da expedição do Termo de Verificação de Execução de Obras.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A execução do fechamento depende de Comunicação, prevista no item 3.3 do Código de Obras e Edificações, aprovado pela Lei nº 11.228, de 26 de junho de 1992, e de Alvará de Alinhamento e Nivelamento, a serem requeridos, pelo responsável, na Subprefeitura competente, nos termos da legislação vigente.\nParágrafo único. Ressalvadas as hipóteses previstas em lei, o Alvará de Alinhamento e Nivelamento poderá ser dispensado, a critério da Administração Municipal, nos casos de imóveis que acompanhem os alinhamentos e nivelamentos existentes, excluídos os casos de fechamentos com características de muro de arrimo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Administração Municipal poderá dispensar a execução de gradil, muro ou fecho, por impossibilidade ou dificuldade para a execução das obras, nos seguintes casos:\nI - os terrenos apresentarem acentuado desnível em relação ao leito dos logradouros;\nII - existir curso d'água ou acidente geográfico junto ao alinhamento ou nele interferindo.\nParágrafo único. Os terrenos com Alvará de Autorização, Aprovação ou Execução em vigor ficam dispensados da execução de gradil, muro ou fecho desde que instalados, nos alinhamentos ou sobre o passeio, os tapumes exigidos pela legislação que trata da execução das obras.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para os efeitos desta lei, considera-se inexistente o gradil, muro ou fecho cuja construção, reconstrução ou preservação esteja em desacordo com as regras e padrões técnicos estabelecidos na normatização específica.\nParágrafo único. Não se enquadram na definição prevista no \"caput\" deste artigo os fechamentos executados, até a data da publicação desta lei, de acordo com a legislação vigente à época de sua execução e mantidos em bom estado de conservação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DOS PASSEIOS PÚBLICOS\nArt. 7º Os responsáveis por imóveis, edificados ou não, lindeiros a vias ou logradouros públicos dotados de guias e sarjetas, são obrigados a executar, manter e conservar os respectivos passeios na extensão correspondente à sua testada, na conformidade da normatização específica expedida pelo Executivo.\n§ 1º Ficam excluídos da obrigação de execução dos passeios, prevista no \"caput\" deste artigo, os responsáveis por imóveis localizados nas vias integrantes:\nI - do Plano de Pavimentação Urbana Comunitária - PPUC, instituído pela Lei nº 10.558, de 17 de junho de 1988;\nII - das rotas definidas, mediante decreto, nos termos do disposto no art. 2º da Lei nº 14.675, de 23 de janeiro de 2008, que instituiu o Plano Emergencial de Calçadas - PEC;\nIII - da Rede Viária Estrutural dos tipos N1, N2 e N3, a teor dos §§1º e 3º do art. 6º da Lei nº 13.885, de 25 de agosto de 2004.\n§ 2º Para os efeitos desta lei, o passeio será considerado:\nI - inexistente, quando executado em desconformidade com as normas técnicas vigentes à época de sua construção ou reconstrução;\nII - em mau estado de manutenção e conservação, quando apresentar buracos, ondulações, desníveis não exigidos pela natureza do logradouro ou obstáculos que impeçam a circulação livre e segura dos pedestres, bem como execução de reparos em desacordo com o aspecto estético ou harmônico do passeio existente.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A instalação de mobiliário urbano nos passeios, tais como telefones públicos, caixas de correio e lixeiras, não poderá bloquear, obstruir ou dificultar o acesso de veículos, o livre acesso e circulação de pedestres, em especial das pessoas com deficiência, ou a visibilidade dos pedestres e motoristas, na confluência das vias, observada a normatização específica expedida pelo Executivo, sob pena de aplicação da multa prevista no Anexo Único integrante desta lei.\nParágrafo único. Qualquer que seja a largura do passeio deverá ser respeitada a faixa livre mínima de 1,20m (um metro e vinte centímetros), destinada exclusivamente a livre circulação de pedestres.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Aplicam-se aos passeios, no que couber, o disposto no art. 3º e no \"caput\" do art. 5º desta lei, relativo a prazo e dispensa para o cumprimento da obrigação de executar, manter e conservar os passeios.\n§ 1º No caso de passeio em mau estado de manutenção e conservação em decorrência da existência de espécie arbórea, o responsável ficará dispensado do cumprimento da obrigação prevista no \"caput\" do art. 7º desta lei até que o corte ou a supressão seja providenciado pela Administração Municipal, nos termos da legislação vigente.\n§ 2º A partir do corte ou supressão da espécie arbórea, o responsável terá o prazo de 30 (trinta) dias para providenciar a regularização do passeio público.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS RESPONSABILIDADES, PROCEDIMENTOS E PENALIDADES\nArt. 10. Consideram-se responsáveis pelas obras e serviços previstos nos arts. 1º a 7º desta lei:\nI - o proprietário, o titular do domínio útil ou da nua propriedade, o condomínio ou o possuidor do imóvel, a qualquer título, ressalvadas as hipóteses previstas no § 1º do art. 7º desta lei;\nII - a União, o Estado, o Município e os órgãos e entidades da respectiva Administração Indireta, quanto aos próprios de seu domínio, posse, guarda ou administração.\n§ 1º O Município reparará os danos que causar às obras e serviços de que trata esta lei quando da realização dos melhoramentos públicos de sua responsabilidade.\n§ 2º As permissionárias do uso das vias públicas para a implantação de equipamentos de infraestrutura urbana destinados à prestação de serviços públicos e privados repararão os danos causados aos passeios públicos na conformidade do disposto em legislação específica.\n§ 3º Os responsáveis referidos no inciso I do \"caput\" deste artigo serão solidariamente responsáveis pela regularidade dos imóveis nos termos das disposições desta lei, bem como pelas penalidades decorrentes do seu descumprimento.\n"
+      },
+      "art-0010-a": {
+       "label": "Art. 10-A",
+       "kind": "article",
+       "text": "Art. 10-A. Previamente à aplicação das penalidades previstas no presente diploma legal, o responsável receberá uma Notificação Orientativa nos termos definidos em Lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O descumprimento das disposições desta lei acarretará a lavratura, por irregularidade constatada, de autos de multa e de intimação para regularizar a limpeza, o fechamento ou o passeio, conforme o caso, no prazo improrrogável de 60 (sessenta) dias.\nParágrafo único. O prazo estabelecido no \"caput\" deste artigo ficará reduzido a 20 (vinte) dias nos casos das irregularidades previstas no art. 8º desta lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Os autos de multa e de intimação serão dirigidos ao responsável ou seu representante legal, assim considerados o mandatário, o administrador ou o gerente, pessoalmente ou por via postal com aviso de recebimento, no endereço constante do Cadastro Imobiliário Fiscal, nos termos da Lei nº 10.208, de 5 de dezembro de 1986.\n§ 1º Presumir-se-á o recebimento dos autos de multa e de intimação quando encaminhados ao endereço constante do Cadastro Imobiliário Fiscal.\n§ 2º A multa e a intimação serão objeto de publicação por edital no Diário Oficial da Cidade.\n§ 3º O prazo para atendimento da intimação será contado em dias corridos, a partir da data da publicação do edital, excluído o dia do início e incluído o dia do fim.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O responsável fica obrigado a comunicar, diretamente à Prefeitura do Município de São Paulo, que as irregularidades constatadas foram sanadas, até o termo final do prazo para atendimento da intimação.\nParágrafo único. A comunicação poderá ser feita nas Praças de Atendimento das Subprefeituras, pelo Portal da Prefeitura do Município de São Paulo na Internet ou por outro meio eletrônico disponibilizado pelo Executivo, mediante regulamentação.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Na hipótese do não atendimento da intimação nos prazos estabelecidos no art. 11 desta lei, nova multa será aplicada por irregularidade constatada.\n§ 1º A multa prevista no \"caput\" deste artigo será renovada a cada 60 (sessenta) dias até que haja a comunicação do saneamento da irregularidade ou a constatação da regularização pela Administração Municipal.\n§ 2º A regularização da limpeza, fechamento ou passeio, devidamente comunicada à Subprefeitura competente, tornará sem efeito a multa que tenha sido aplicada, nos termos desta lei, nos 60 (sessenta) dias antecedentes à comunicação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Os valores das multas previstas nos arts. 8º, 11, 14 e § 1º do art. 20 desta lei serão os constantes do Anexo Único integrante desta lei.\nParágrafo único. Os valores das multas serão atualizadas anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Contra a aplicação das multas previstas nos arts. 8º, 11, 14, § 1º do art. 19 e §§ 1º e 3º do art. 20 desta lei, caberá a apresentação de defesa, com efeito suspensivo, dirigida ao Supervisor de Fiscalização da Subprefeitura, no prazo de 60 (sessenta) dias, contados a partir da data de publicação do edital referido no § 2º do art. 12 desta lei, excluído o dia do início e incluído o dia do vencimento.\n§ 1º Contra o despacho decisório que desacolher a defesa, caberá recurso, com efeito suspensivo, dirigido ao Subprefeito, no prazo de 30 (trinta) dias contados da data da publicação da decisão no Diário Oficial da Cidade, excluído o dia do início e incluído o dia do fim.\n§ 2º A defesa e o recurso poderão ser apresentados nas Praças de Atendimento das Subprefeituras, pelo Portal da Prefeitura do Município de São Paulo na Internet, ou por outro meio eletrônico, disponibilizado pelo Executivo, mediante regulamentação.\n§ 3º A decisão do recurso encerra a instância administrativa.\n§ 4º O infrator ficará obrigado a realizar o pagamento do valor da multa corrigido, sob pena de cobrança judicial, quando:\nI - a defesa for indeferida e não tenha sido apresentado recurso em tempo hábil;\nII - o recurso for indeferido.(NR)\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. A Prefeitura poderá, a seu critério, executar as obras e serviços não realizados nos prazos estipulados, cobrando dos responsáveis omissos o custo apropriado, sem prejuízo da aplicação da multa cabível, juros, eventuais acréscimos legais e demais despesas advindas de sua exigibilidade e cobrança.\nParágrafo único. O valor pago a título de multa poderá ser deduzido do débito referente à realização de obras e serviços pela Prefeitura, mencionado no \"caput\", até o limite do valor deste débito, vedada a restituição do valor excedente da multa.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. A Prefeitura poderá efetuar a apreensão e a remoção do mobiliário urbano, caso a irregularidade prevista no art. 8º desta lei perdure por mais de 60 (sessenta) dias.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA ABERTURA DE GÁRGULAS, DO REBAIXAMENTO E CHANFRAMENTO DE GUIAS E DAS TRAVESSIAS SINALIZADAS PARA PEDESTRES\nArt. 19. A abertura de gárgulas sob o passeio, para escoamento de águas pluviais, o chanframento de guias, e o rebaixamento de guias, para acesso de veículos, serão executados pela Prefeitura, mediante requerimento do interessado e pagamento dos preços devidos, os quais serão calculados com base nos custos unitários dos respectivos serviços e atualizados em consonância com a legislação vigente.\n§ 1º As pessoas físicas ou jurídicas que realizarem os serviços de que trata o \"caput\" deste artigo 19 incorrerão em multa correspondente ao triplo do valor do preço do serviço, atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n§ 2º Se a Prefeitura, por qualquer motivo, necessitar refazer ou reparar os serviços executados clandestinamente, o infrator, além da multa prevista no \"caput\" deste artigo, responderá pelo preço correspondente ao refazimento ou reparo e, se for o caso, pelo valor das guias danificadas ou que não puderem ser aproveitadas.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. A Prefeitura providenciará, sob sua responsabilidade, o rebaixamento da parte dos passeios necessária ao acesso de pedestres, nas travessias sinalizadas e nos canteiros centrais das vias públicas.\n§ 1º Fica vedada a instalação dos mobiliários urbanos de que trata o art. 8º desta lei junto a rebaixamento vinculado às travessias sinalizadas, sob pena de multa constante do Anexo Único integrante desta lei.\n§ 2º O mobiliário existente, que prejudique o acesso de pedestres ou dificulte a sua visibilidade ou de motoristas, será removido pela Prefeitura ou, por sua determinação, pelo órgão responsável.\n§ 3º O descumprimento ao disposto no \"caput\" deste artigo acarretará ao infrator multa no valor de R$ 1.000,00, atualizado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n§ 4º Se a PMSP, por qualquer motivo necessitar refazer ou reparar os serviços executados clandestinamente, o infrator, além da multa correspondente, responderá pelo preço do refazimento ou reparo e, se for o caso, pelas guias danificadas ou que não puderem ser aproveitadas.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DISPOSIÇÕES FINAIS\nArt. 21. O Executivo criará um Disque-Calçadas, disponibilizando o respectivo número de telefone para atendimento das reclamações e prestações de informações.\nParágrafo único. Para a finalidade prevista no \"caput\" deste artigo, poderá também ser disponibilizado atendimento eletrônico.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. O Executivo poderá disponibilizar orientação técnica aos munícipes para auxiliar no cumprimento do disposto nesta lei.\n§ 1º As informações previstas no \"caput\" deste artigo também poderão ser disponibilizadas por meio eletrônico.\n"
+      },
+      "art-0022-a": {
+       "label": "Art. 22-A",
+       "kind": "article",
+       "text": "Art. 22-A. A Prefeitura poderá realizar ampla campanha educativa, utilizando-se dos diversos meios de comunicação de massa, a fim de conscientizar a população sobre as exigências legais, os meios de fiscalização, as penalidades previstas e destacará, sobretudo, a importância de garantir condições ideais de mobilidade humana na Cidade.\n§ 1º A Prefeitura poderá distribuir a todos os munícipes, por meio do cadastro do IPTU, cartilha simplificada sobre as responsabilidades instituídas por esta lei e as orientações técnicas e legais para o conserto, manutenção e adequação das calçadas.\n§ 2º Com o objetivo de promover uma fiscalização com caráter pedagógico, deverão constar do auto de infração a indicação sobre a localização e a descrição clara das irregularidades constatadas.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. A Administração Municipal poderá celebrar contratos com empresas privadas, com vista à prestação de serviços de apoio operacional para a fiscalização, bem como para a execução das obras e serviços tratados nesta lei, nos termos do seu art. 17.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. O Executivo regulamentará esta lei no prazo de 120 (cento e vinte) dias contados da data de sua publicação.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Esta lei entrará em vigor na data de sua publicação, revogadas as Leis nº 10.508, de 4 de maio de 1988, e nº 12.993, de 24 de maio de 2000, bem como o art. 167 e o correspondente item constante do Anexo VI da Lei nº 13.478, de 30 de dezembro de 2002.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 9 de setembro de 2011.\nAnexo Único a que se refere o art.15 da Lei nº 15.442, de 9 de setembro de 2011\nNatureza da irregularidadeDispositivos violadosMulta\na) falta de limpezaArt. 1ºR$ 4,00 (quatro reais) para cada metro quadrado ou fração da área total do terreno\nb) fechamento inexistenteArts. 2º e 6ºR$ 200,00 (duzentos reais) por metro linear de testada do imóvel\nc-1) passeio inexistenteArtigo 7º e respectivo § 2ºR$ 300,00 (trezentos reais) por metro linear de testada do imóvel\nc-2) passeio inexistenteArt. 7º e respectivo § 2ºR$ 300,00 (trezentos reais) por metro linear do trecho que se apresenta em mau estado de manutenção e conservação\nd) mobiliário urbano no passeio, bloqueando, obstruindo ou dificultando o acesso de veículos, o acesso e a circulação dos pedestres ou a visibilidade dos motoristas e pedestresArt. 8º § 1º do art. 20R$ 300,00 (trezentos reais) por equipamento\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 15.442, de 09/09/2011 was altered by acts of 5 date(s), the latest 2022-08-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15443",
+   "short": "Lei 15443/2011",
+   "title": "Lei nº 15.443, de 09/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15443-de-09-de-setembro-de-2011",
+   "first_law": "lei-2011-15443",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15443-de-09-de-setembro-de-2011",
+     "sha256": "4f67af74e7b426dcdc3343c10655ab131eb795f753d2ff3f5813970629b85e81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.443 DE 09 DE SETEMBRO DE 2011\n(PROJETO DE LEI Nº 579/08)(VEREADOR AURÉLIO NOMURA - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos a Feira de Arte, Artesanato, Antiguidades, Gastronomia, Cultura e Lazer da Praça da Liberdade, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CLXXII do art. 7º, da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º Constituem datas comemorativas e eventos anuais do Município de São Paulo, devendo ser inseridos no Calendário de Eventos da Cidade de São Paulo de que trata o Capítulo I desta lei:\nCLXXII - primeiro sábado e domingo de agosto: o Dia da Feira de Arte, Artesanato, Antiguidades, Gastronomia, Cultura e Lazer da Praça da Liberdade.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da aplicação da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 12 de setembro de 2011.\nO Presidente, José Police Neto\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 12 de setembro de 2011.\nA Secretária Geral Parlamentar, Adela Duarte Alvarez\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15447",
+   "short": "Lei 15447/2011",
+   "title": "Lei nº 15.447, de 26/09/2011 (Dispõe sobre o Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15447-de-26-de-setembro-de-2011",
+   "first_law": "lei-2011-15447",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15447-de-26-de-setembro-de-2011",
+     "sha256": "4cee6c0ef51a9df447082d5a37627b4c15e8ea15ed6f7d7bb6e31a0c25ef4a28",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.447, DE 26 DE SETEMBRO DE 2011\n(Projeto de Lei nº 98/11, do Vereador Paulo Frange - PTB)\nDispõe sobre o Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei tem por objetivo perenizar, desde que observado o disposto no art. 167, inciso I, da Constituição Federal, o Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM, instituído pela Portaria municipal nº 1.170, de 13 de junho de 2008.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os efeitos do Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM, define-se como:\nI - atenção domiciliar: o termo genérico que envolve ações de promoção à saúde, prevenção, tratamento de doenças e reabilitação desenvolvidas em domicílio;\nII - assistência domiciliar: o conjunto de atividades de caráter ambulatorial, programadas e continuadas desenvolvidas em domicílio;\nIII - internação domiciliar: o conjunto de atividades prestadas no domicílio, caracterizadas pela atenção em tempo integral ao paciente com quadro clínico mais complexo e com necessidade de tecnologia especializada.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM desenvolverá suas atividades objetivando:\nI - contribuir para a otimização de leitos hospitalares, reduzindo o tempo de permanência e aumentando a rotatividade dos leitos clínicos e cirúrgicos;\nII - desospitalizar em tempo adequado os pacientes com perfil de internação hospitalar;\nIII - evitar hospitalização desnecessária;\nIV - reduzir taxas de reinternações;\nV - minimizar riscos de infecção hospitalar;\nVI - intensificar os períodos livres de intercorrências hospitalares em pacientes crônicos;\nVII - prevenir as complicações no domicílio;\nVIII - permitir melhores condições para a reintegração no grupo familiar ou de apoio;\nIX - humanizar o tratamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O gerenciamento e o planejamento das ações do Programa de que trata esta lei serão estabelecidos pelo competente órgão do Executivo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM é destinado a pacientes moradores no Município de São Paulo, de todas as idades, admitidos segundo critérios de elegibilidade objetivos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM será implementado gradativamente nas Unidades Hospitalares e em outros estabelecimentos de saúde do Município de São Paulo, obedecendo prioridades que incluem disponibilidade de recursos necessários previstos para cada equipamento de saúde, área geográfica contemplando as várias regionais de saúde e interação com os programas existentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Público Municipal, na execução do Programa Hospital Domiciliar de Atendimento e Internação Domiciliar no Município de São Paulo - PROHDOM poderá utilizar-se dos serviços privados, preferencialmente sem fins lucrativos, na forma e condições permitidos na lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário e observado o disposto no art. 167, inciso I, da Constituição Federal.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 26 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15448",
+   "short": "Lei 15448/2011",
+   "title": "Lei nº 15.448, de 27/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15448-de-27-de-setembro-de-2011",
+   "first_law": "lei-2011-15448",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15448-de-27-de-setembro-de-2011",
+     "sha256": "729828c6d0ca73a114c474b239eefa957ec80119cc2f9475281304ffb10e8256",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.448, DE 27 DE SETEMBRO DE 2011\n(Projeto de Lei nº 218/08, dos Vereadores Antonio Carlos Rodrigues - PR e José Police Neto)\nDispõe sobre a transferência das permissões de uso outorgadas nos termos da Lei nº 5.062, de 18 de outubro de 1956, alterada pela Lei nº 8.146, de 7 de novembro de 1974, para instalação de barracas ou bancas destinadas à venda de flores.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 1º de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Administração Municipal poderá, a seu critério, autorizar a transferência das permissões de uso para instalação de barracas ou bancas destinadas à venda de flores, que tenham sido outorgadas nos termos da Lei nº 5.062, de 18 de outubro de 1956, alterada pela Lei nº 8.146, de 7 de novembro de 1974, para quem atenda as exigências legais e regulamentares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No caso de falecimento, aposentadoria ou invalidez dos atuais permissionários, a transferência das permissões de uso de que trata esta lei poderá ser autorizada para os respectivos herdeiros, na ordem de sucessão legítima estabelecida no art. 1.829 do Código Civil Brasileiro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta lei no prazo de 120 (cento de vinte) dias contados da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 27 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15449",
+   "short": "Lei 15449/2011",
+   "title": "Lei nº 15.449, de 27/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15449-de-27-de-setembro-de-2011",
+   "first_law": "lei-2011-15449",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15449-de-27-de-setembro-de-2011",
+     "sha256": "0a5e796049734cc14902e5f9b2d7c92ec0423280c398d7e3affde8f04062fd40",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.449, DE 27 DE SETEMBRO DE 2011\n(Projeto de Lei nº 483/08, do Vereador José Ferreira-Zelão - PT)\nDenomina Rua Maria do Carmo da Silva a rua inominada, localizada entre as Ruas São Jorge e Chico Mendes, na Vila Santana do Agreste, no Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Maria do Carmo da Silva a rua inominada, localizada entre as Ruas São Jorge e Chico Mendes, na Vila Santana do Agreste, no Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a execução desta lei correrão por conta de dotações financeiras próprias, consignadas no orçamento vigente e suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 27 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15450",
+   "short": "Lei 15450/2011",
+   "title": "Lei nº 15.450, de 27/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15450-de-27-de-setembro-de-2011",
+   "first_law": "lei-2011-15450",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15450-de-27-de-setembro-de-2011",
+     "sha256": "6734d2877c6ac727ea77f20d356864eda2b96509dc78a78d90a3966885b2402c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.450, DE 27 DE SETEMBRO DE 2011\n(Projeto de Lei nº 473/10, da Vereadora Sandra Tadeu - DEMOCRATAS)\nDenomina Travessa Edmilson Barreto Mendes o logradouro público conhecido como Viela 18, que começa na Rua Doutor Mário Scaff e termina na Rua Clóvis Monteiro C. Júnior, situado no Distrito de São Mateus, Subprefeitura São Mateus, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Edmilson Barreto Mendes o logradouro público conhecido como Viela 18, CODLOG 64.088-3, que começa na Rua Doutor Mário Scaff e termina na Rua Clóvis Monteiro C. Júnior (Setor 149 - Quadras 263 e 268), situado no Distrito de São Mateus, Subprefeitura São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 27 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15451",
+   "short": "Lei 15451/2011",
+   "title": "Lei nº 15.451, de 27/09/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15451-de-27-de-setembro-de-2011",
+   "first_law": "lei-2011-15451",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15451-de-27-de-setembro-de-2011",
+     "sha256": "d4a1ec789a5b237644424d189354e78ccc5359e54ba927774df0449bea2abbbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.451, DE 27 DE SETEMBRO DE 2011\n(Projeto de Lei nº 514/10, do Vereador Atílio Francisco - PRB)\nDenomina Praça Willian Calixto da Costa o espaço livre público inominado localizado na confluência da Rua Ariá com a Rua Hicavo, situado no Distrito do Jardim São Luiz, Subprefeitura M'Boi Mirim, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Willian Calixto da Costa o espaço livre público inominado localizado na confluência da Rua Ariá com a Rua Hicavo (Setor 94 - Quadra 241), situado no Distrito do Jardim São Luiz, Subprefeitura M'Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 27 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15452",
+   "short": "Lei 15452/2011",
+   "title": "Lei nº 15.452, de 28/09/2011 (Institui o Programa Permanente de Esclarecimentos e Incentivo à Cremação.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15452-de-28-de-setembro-de-2011",
+   "first_law": "lei-2011-15452",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15452-de-28-de-setembro-de-2011",
+     "sha256": "f6c84dadb2590bfbdffbfc70a9746113688b8124c2a38f166e0c2ed77e348062",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.452, DE 28 DE SETEMBRO DE 2011\n(Projeto de Lei nº 328/10, do Vereador Jamil Murad - PC do B)\nInstitui o Programa Permanente de Esclarecimentos e Incentivo à Cremação.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de agosto de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Permanente de Esclarecimentos e Incentivo à Cremação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa Permanente de Esclarecimentos e Incentivo à Cremação objeto desta lei consiste na edição e distribuição gratuita em todos os necrotérios dos hospitais da rede pública municipal, bem como no serviço funerário do município de cartilha incentivando a adoção da cremação em substituição ao sepultamento.\n§ 1º Além da cartilha, o sítio, bem como outras publicações do Executivo Municipal deverão manter matéria alusiva ao Programa ora instituído.\n§ 2º O Executivo poderá fazer campanhas publicitárias esclarecedoras e periódicas no rádio, TV e demais meios de comunicação sobre o alcance dos benefícios do Programa Permanente de Esclarecimentos e Incentivo à Cremação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O material impresso deverá conter de forma didática esclarecimentos sobre a cremação, contendo ainda o seguinte:\nI - relação das agências do serviço funerário;\nII - relação dos documentos necessários à realização da cremação;\nIII - (VETADO)\nIV - endereço do(s) crematório(s);\nV - tabela de preços das modalidades cremação e sepultamento;\nVI - descrição do processo de cremação;\nVII - vantagens socioambientais do processo da cremação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de setembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de setembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15453",
+   "short": "Lei 15453/2011",
+   "title": "Lei nº 15.453, de 04/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15453-de-4-de-outubro-de-2011",
+   "first_law": "lei-2011-15453",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15453-de-4-de-outubro-de-2011",
+     "sha256": "1b7721489b2184ac23444330bac2bab785f0b7bcb58d35d128ed57856aa95607",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.453, DE 4 DE OUTUBRO DE 2011\n(Projeto de Lei nº 43/11, do Executivo)\nDispõe sobre a alteração das formas de provimento dos empregos públicos que especifica, da Escola Técnica de Saúde Pública Prof. Makiguti, da Fundação Paulistana de Educação e Tecnologia.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam alteradas as formas de provimento dos empregos públicos de Professor de Ensino Técnico e de Professor de Ensino Médio, da Escola Técnica de Saúde Pública Prof. Makiguti, da Fundação Paulistana de Educação e Tecnologia, constantes do Anexo II da Lei nº 13.865, de 1º de julho de 2004, na conformidade do disposto na coluna \"Situação Nova\" do Anexo Único desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 4 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15454",
+   "short": "Lei 15454/2011",
+   "title": "Lei nº 15.454, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15454-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15454",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15454-de-6-de-outubro-de-2011",
+     "sha256": "69aedbb040fd32a0002c62ea20a2c0b7c2a7125dd8a1991cce75985117195714",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.454, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 103/10, do Vereador Claudio Fonseca - PPS)\nDenomina Praça Lourenço Duarte o remanescente de espaço livre, delimitado pela Rua Antonia Xavier de Souza e por lotes particulares, situado no Distrito do Limão, na Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Lourenço Duarte o remanescente de espaço livre da planta AU 02/2619/82, delimitado pela Rua Antonia Xavier de Souza e por lotes particulares (Setor 76 - Quadra 751), situado no Distrito do Limão, na Subprefeitura da Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15455",
+   "short": "Lei 15455/2011",
+   "title": "Lei nº 15.455, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15455-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15455",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15455-de-6-de-outubro-de-2011",
+     "sha256": "337e94fa2c17ded93aa77b760677f3be2256bd5846eb6058724506b5ed47b528",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.455, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 368/10, do Vereador Jose Ferreira-Zelão - PT)\nDenomina Praça Preá o espaço livre público inominado localizado entre as Ruas Jacques Danon e Orlando Pellicci, no Distrito Cidade Líder, na Subprefeitura Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Preá o espaço livre público inominado localizado entre as Ruas Jacques Danon e Orlando Pellicci (Setor 147 - Quadra 332), no Distrito Cidade Líder, na Subprefeitura Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15457",
+   "short": "Lei 15457/2011",
+   "title": "Lei nº 15.457, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15457-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15457",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15457-de-6-de-outubro-de-2011",
+     "sha256": "09fdb19bb50aa43f0de9170f9382d620a45aa96f366f6e34b499e6a163ece1a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.457, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 421/10, do Vereador Natalini - PV)\nDenomina Praça Centenário do Cangaíba o espaço livre público inominado delimitado pelas Ruas General Quintela, Mara Nobre, Astrogildo Cintra, pela viela \"2\", por lotes particulares e por área institucional, situado no Distrito do Cangaíba, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Centenário do Cangaíba o espaço livre público inominado delimitado pelas Ruas General Quintela, Mara Nobre, Astrogildo Cintra, pela viela \"2\", por lotes particulares e por área institucional (Setor 110 - Quadra 46), situado no Distrito do Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15458",
+   "short": "Lei 15458/2011",
+   "title": "Lei nº 15.458, de 06/10/2011 (Denomina Centro de Educação Infantil Professora Maria do Carmo Pazos Fernandez - MADU o Centro de Educação Infantil Parque Sabará, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15458-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15458",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15458-de-6-de-outubro-de-2011",
+     "sha256": "3c85a62857f06cd8998379c271836bdfdf84e6193c6bc7d711ba84da9c05f3bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.458, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 434/10, do Vereador Claudio Fonseca - PPS)\nDenomina Centro de Educação Infantil Professora Maria do Carmo Pazos Fernandez - MADU o Centro de Educação Infantil Parque Sabará, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Centro de Educação Infantil Professora Maria do Carmo Pazos Fernandez - MADU o Centro de Educação Infantil Parque Sabará, criado pelo Decreto nº 32.368, de 01/10/1992, vinculado à Diretoria Regional de Educação de Santo Amaro, da Secretaria Municipal de Educação, situado na Rua José da Fonseca Nadaes nº 400, Bairro Jardim Sabará, Distrito de Campo Grande.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15459",
+   "short": "Lei 15459/2011",
+   "title": "Lei nº 15.459, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15459-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15459",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15459-de-6-de-outubro-de-2011",
+     "sha256": "c7f13f5de88be54718b3aa98923efebbab6277ffe19ebb51dacf553d3f91006e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.459, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 460/10, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Antonio de Paiva Monteiro o viaduto que interliga as Ruas Catiguá e Engenheiro Balém, transpondo a Avenida Salim Farah Maluf, localizado no Distrito do Tatuapé, Subprefeitura da Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Antonio de Paiva Monteiro o viaduto que interliga as Ruas Catiguá e Engenheiro Balém, transpondo a Avenida Salim Farah Maluf, localizado no Distrito do Tatuapé, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 12.346, de 28 de maio de 1997.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15460",
+   "short": "Lei 15460/2011",
+   "title": "Lei nº 15.460, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15460-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15460",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15460-de-6-de-outubro-de-2011",
+     "sha256": "28a64cf89ccbf32188e3078c8d76e59dd89bdbacda0f2fbdf4ba2c29ebd6d57d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.460, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 465/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Ivo Casagrande o espaço livre público inominado delimitado pelas Ruas Antônio Fontana e Franco Leoni, situado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Ivo Casagrande o espaço livre público inominado delimitado pelas Ruas Antônio Fontana e Franco Leoni (Setor 138 - Quadra 350), situado no Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15461",
+   "short": "Lei 15461/2011",
+   "title": "Lei nº 15.461, de 06/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15461-de-6-de-outubro-de-2011",
+   "first_law": "lei-2011-15461",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15461-de-6-de-outubro-de-2011",
+     "sha256": "b8c722fe00be48e011bff5d8fc500166a9f8e805ac5e6d5203873c56b8b0766f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.461, DE 6 DE OUTUBRO DE 2011\n(Projeto de Lei nº 518/10, do Vereador Alfredinho - PT)\nDenomina Praça Maria do Carmo Rodrigues o espaço livre público inominado delimitado pelas Ruas Guajajara e Uari, situado no Distrito do Grajaú, Subprefeitura da Capela do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria do Carmo Rodrigues o espaço livre público inominado delimitado pelas Ruas Guajajara e Uari (Setor 258 - Quadras 72 e 73), situado no Distrito do Grajaú, Subprefeitura da Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15462",
+   "short": "Lei 15462/2011",
+   "title": "Lei nº 15.462, de 10/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15462-de-10-de-outubro-de-2011",
+   "first_law": "lei-2011-15462",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15462-de-10-de-outubro-de-2011",
+     "sha256": "d2ca52f2123ef0f914361c707b64009f5486ab9df3e7704104fa7ee9c2370210",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.462, DE 10 DE OUTUBRO DE 2011\n(Projeto de Lei nº 506/10, do Vereador Toninho Paiva - PR)\nDenomina Praça Amantino Cardoso de Moraes o espaço livre público inominado delimitado pela Avenida Assis Ribeiro e Rua Belém Santos, Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Amantino Cardoso de Moraes o espaço livre público inominado delimitado pela Avenida Assis Ribeiro e Rua Belém Santos (Setor 130 - Quadra 157), Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 10 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15463",
+   "short": "Lei 15463/2011",
+   "title": "Lei nº 15.463, de 11/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15463-de-11-de-outubro-de-2011",
+   "first_law": "lei-2011-15463",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15463-de-11-de-outubro-de-2011",
+     "sha256": "915b18121343257452545a533fd0b001b848849ff480363496e155b218b8dd65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.463, DE 11 DE OUTUBRO DE 2011\n(Projeto de Lei nº 110/10, do Vereador Agnaldo Timóteo - PR)\nDispõe sobre a obrigatoriedade da execução também do Hino Nacional do País visitante, representado por equipe esportiva nas competições em nosso Município e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estabelecida, quando da execução do Hino Nacional Brasileiro, a execução obrigatória do hino do país do time ou da equipe visitante, nas competições esportivas, profissionais ou amadoras, nos estádios ou centros esportivos públicos ou privados existentes no âmbito do Município de São Paulo.\nParágrafo único. A execução do Hino Nacional Brasileiro e dos demais hinos, nos eventos de que trata o \"caput\" deste artigo, obedecerá ao disposto na legislação federal e municipal sobre a matéria.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente lei, no que couber, no prazo máximo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 11 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15464",
+   "short": "Lei 15464/2011",
+   "title": "Lei nº 15.464, de 11/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15464-de-11-de-outubro-de-2011",
+   "first_law": "lei-2011-15464",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15464-de-11-de-outubro-de-2011",
+     "sha256": "b65c514389061fe93620123a46f8c5ebd55dff4872499f58915197a865c66050",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.464, DE 11 DE OUTUBRO DE 2011\n(Projeto de Lei nº 491/10, do Vereador Floriano Pesaro - PSDB)\nDispõe sobre a aquisição, pelos órgãos da administração direta e indireta do Município de São Paulo, de papéis com certificação que comprove que a madeira utilizada na sua fabricação é oriunda de plano de manejo florestal sustentável devidamente aprovado pelo órgão ambiental competente, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os papéis adquiridos pelos órgãos da administração direta e indireta do Município de São Paulo, incluindo a Câmara Municipal e o Tribunal de Contas do Município, deverão possuir certificação que comprove que a madeira utilizada na sua fabricação é oriunda de plano de manejo florestal sustentável devidamente aprovado pelo órgão ambiental competente.\nParágrafo único. As aquisições de que trata o \"caput\" deste artigo obedecerão ao devido processo licitatório, quando for o caso, sendo que do edital deverá constar a exigência da certificação, nos termos desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A presente lei será oportunamente regulamentada pelo Poder Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 11 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15465",
+   "short": "Lei 15465/2011",
+   "title": "Lei nº 15.465, de 18/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15465-de-18-de-outubro-de-2011",
+   "first_law": "lei-2011-15465",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15465-de-18-de-outubro-de-2011",
+     "sha256": "4d2d2725f3e63caaa65bb9225409484cf23d9c785599ced665a6553574fd9faf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.465, DE 18 DE OUTUBRO DE 2011\n(Projeto de Lei nº 47/2010, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a outorga e a gestão de concessão, visando a criação, confecção, instalação e manutenção de relógios eletrônicos digitais de tempo, temperatura, qualidade do ar e outras informações institucionais, bem como de abrigos de parada de transporte público de passageiros e de totens indicativos de parada de ônibus, com exploração publicitária.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 21 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a outorgar concessão, a título oneroso, mediante licitação, a empresas ou consórcio de empresas, visando a criação, confecção, instalação e manutenção, com exploração publicitária, de relógios eletrônicos digitais de tempo, temperatura, qualidade do ar e outras informações institucionais, bem como de estações de embarque e desembarque, abrigos de parada de transporte público de passageiros e de totens indicativos de parada de ônibus (pontos de parada de ônibus), elementos do mobiliário urbano de uso e utilidade pública, integrantes da paisagem urbana do Município de São Paulo, a que se refere o art. 22, incisos I, II e XIX, e §§ 1º, 2º e 15, da Lei nº 14.223, de 26 de setembro de 2006.\nParágrafo único. Competirão à São Paulo Obras - SPObras, nos termos previstos na Lei nº 15.056, de 8 de dezembro de 2009, a outorga e a gestão das concessões decorrentes desta lei, incumbindo-lhe a realização de licitação, na modalidade concorrência, bem como a respectiva contratação e fiscalização da execução dos serviços e dos ajustes contratuais.\nDOS RELÓGIOS ELETRÔNICOS DIGITAIS\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os relógios eletrônicos digitais deverão ter marcação sincronizada de hora, indicação de temperatura local e de qualidade do ar, bem como veicular informações de interesse da Cidade, por meio de painéis de mensagens.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Poderão ser instalados até 1.000 (mil) relógios, distribuídos por toda a área do Município, conforme diretrizes constantes de Plano de Implantação, a ser estabelecido por ato do Executivo.\n§ 1º. O equipamento deverá dispor de 2 (duas) faces de painel publicitário, cada qual com área máxima de 2m² (dois metros quadrados), admitindo-se apenas 1 (um) painel publicitário por face.\n§ 2º. O equipamento poderá contar com câmeras de monitoramento do entorno, que possibilitem a utilização de imagens, em tempo real e de maneira remota, pelos diversos órgãos públicos municipais, estaduais e federais, na forma e número estabelecidos no edital de licitação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A concessão de que tratam os arts. 2º e 3º desta lei será outorgada pelo prazo de até 30 (trinta) anos, incluídas eventuais prorrogações.\nDAS ESTAÇÕES DE EMBARQUE E DESEMBARQUE, DOS ABRIGOS DE PARADA DE TRANSPORTE PÚBLICO DE PASSAGEIROS E DOS TOTENS INDICATIVOS DE PARADA DE ÔNIBUS\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As estações de embarque e desembarque, os abrigos de parada de transporte público de passageiros e os totens indicativos de parada de ônibus (pontos de parada de ônibus) poderão ter marcação sincronizada de hora, indicação das linhas e previsão de chegada dos veículos, bem como divulgar informações de interesse da Cidade, por meio de painéis de mensagens.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Além dos equipamentos (pontos, abrigos e estações) objeto da concessão ora autorizada, poderão ser instalados até 16.000 (dezesseis mil) pontos e abrigos sem câmeras de monitoramento e painéis eletrônicos, distribuídos por toda a área do Município, conforme diretrizes que serão estabelecidas por ato do Executivo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Os abrigos a serem instalados deverão ser compostos por estrutura e painéis publicitários, ocupando, no solo, o menor espaço possível.\n§ 1º. O equipamento deverá dispor de 2 (duas) faces de painel publicitário, totalizando, no conjunto, até 4m² (quatro metros quadrados), admitindo-se apenas 1 (um) painel publicitário por face.\n§ 2º. O equipamento poderá contar com câmeras de monitoramento do entorno, que possibilitem a utilização de imagens, em tempo real e de maneira remota, pelos diversos órgãos públicos municipais, estaduais e federais, na forma e número estabelecidos no edital de licitação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Serão instalados totens indicativos de parada de ônibus (pontos de parada de ônibus), os quais não poderão veicular publicidade.\nParágrafo único. A instalação dos totens indicativos de parada de ônibus será efetuada de acordo com a necessidade definida pelo Poder Concedente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. A implantação, supressão ou remanejamento dos abrigos e totens indicativos de parada de ônibus somente serão realizados por determinação da Secretaria Municipal de Transportes - SMT.\nParágrafo único. Os contratos de concessão deverão conter cláusula prevendo a inexistência de qualquer pagamento ou indenização ao concessionário pelas alterações necessárias previstas no \"caput\" deste artigo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A concessão de que tratam os arts. 6º a 9º desta lei será outorgada pelo prazo de até 30 (trinta) anos, incluídas eventuais prorrogações.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES GERAIS\nArt. 11. Os relógios eletrônicos digitais poderão ser objeto de concessões distintas daquelas destinadas aos abrigos de parada de transporte público de passageiros, compreendendo-se nestas últimas os totens indicativos de parada de ônibus.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. As características, dimensões, quantidades e localização dos equipamentos de que trata esta lei, as normas atinentes à exploração publicitária e as condições de participação na licitação, dentre outras regras, serão definidas no respectivo edital de licitação.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. As futuras concessões deverão contemplar solução para os equipamentos e mobiliários urbanos - relógios, abrigos e pontos de ônibus - atualmente existentes na Cidade.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Findo o contrato de concessão, os equipamentos de que trata esta lei ficarão definitivamente incorporados ao patrimônio do Município de São Paulo, sem qualquer direito de indenização às concessionárias.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Os valores obtidos em decorrência do pagamento do ônus das concessões objeto desta lei deverão ser geridos pela SPObras, devendo ser aplicados, de forma prioritária, na conservação, manutenção e ampliação do número de equipamentos.\n§ 1º. A SPObras receberá um valor mensal, a ser pago pelas empresas concessionárias, a título de remuneração pelos serviços prestados, relativos ao planejamento, implementação, gestão e fiscalização das concessões dos serviços públicos aprovadas por esta lei.\n§ 2º. O valor da remuneração de que trata o parágrafo anterior deverá ser fixado por meio de Decreto Municipal.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15466",
+   "short": "Lei 15466/2011",
+   "title": "Lei nº 15.466, de 18/10/2011 (Altera a redação dos arts. 2º, 3º, 4º, inciso VIII (VETADO) da Lei nº 14.668, de 14 de janeiro de 2008, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15466-de-18-de-outubro-de-2011",
+   "first_law": "lei-2011-15466",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15466-de-18-de-outubro-de-2011",
+     "sha256": "23bbe6a2001b4cfaf6cc6a4a3722d9e2d599c87d251ac927d55a4fef82707f05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.466, DE 18 DE OUTUBRO DE 2011\n(Projeto de Lei nº 298/10, dos Vereadores Arselino Tatto - PT e José Police Neto)\nAltera a redação dos arts. 2º, 3º, 4º, inciso VIII (VETADO) da Lei nº 14.668, de 14 de janeiro de 2008, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os arts. 2º, 3º e 4º, inciso VIII, da Lei nº 14.668, de 14 de janeiro de 2008, passam a vigorar com a seguinte redação:\n\"Art. 2º Para os efeitos desta lei entende-se como Política Municipal de Inclusão Digital ações e políticas públicas que promovam a inclusão social, na busca pelos direitos e exercício de saberes coletivos, no desenvolvimento de habilidades e competências necessárias ao cotidiano, a partir do uso dos centros de democratização de acesso à rede mundial de computadores e na rede pública de ensino\". (NR)\n\"Art. 3º A Política Municipal de Inclusão Digital tem por objetivo proporcionar aos usuários e aos alunos da rede pública municipal de ensino o acesso e capacitação na área de informática, tendo como premissa o respeito à dignidade do cidadão paulistano.\" (NR)\n\"Art. 4º .......................................................................\nVIII - articulação sistemática com organizações não governamentais e com os demais órgãos da administração pública e da rede pública de ensino do Município de São Paulo, e inclusive de outras esferas de governo, visando apoio e a inserção de programas e atividades relacionadas à inclusão digital;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15468",
+   "short": "Lei 15468/2011",
+   "title": "Lei nº 15.468, de 20/10/2011 (Dispõe sobre a disponibilização de informações sobre o zoneamento no Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15468-de-20-de-outubro-de-2011",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2011-15468"
+   ],
+   "versions": [
+    {
+     "from": "2014-08-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15468-de-20-de-outubro-de-2011",
+     "sha256": "442d8bb0a4ce05fa0755cd667d3e228a306fcbbdf1defcacd6714e04a93831ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.468, DE 20 DE OUTUBRO DE 2011\n(Projeto de Lei nº 40/09, do Vereador Aurélio Miguel - PR)\nDispõe sobre a disponibilização de informações sobre o zoneamento no Município de São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Deverá ser disponibilizado para consulta através do número de contribuinte do imóvel, no site da Prefeitura Municipal de São Paulo, o zoneamento e a respectiva categoria de via, assim como as demais informações referentes ao imóvel, constantes da legislação de uso e ocupação do solo em vigor.\n"
+      },
+      "art-0001-a": {
+       "label": "Art. 1º-A",
+       "kind": "article",
+       "text": "Art. 1º-A. As informações de que trata o art. 1º desta lei serão fornecidas em formato eletrônico, reconhecido por qualquer sistema operacional.\n§ 1º No caso de não haver arquivo compatível, os dados serão fornecidos em pelo menos 02 (duas) versões diferentes.\n§ 2º As informações serão fornecidas de forma organizada com base em lógica temática, desvinculada do organograma administrativo.\n§ 3º A mídia a ser utilizada como suporte dessas informações será escolhida com base em critério técnico de maior compatibilidade e melhor custo e de forma a garantir amplo acesso ao público.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 20 de outubro de 2011.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 15.468, de 20/10/2011 was altered by acts of 1 date(s), the latest 2014-08-06."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15469",
+   "short": "Lei 15469/2011",
+   "title": "Lei nº 15.469, de 25/10/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15469-de-25-de-outubro-de-2011",
+   "first_law": "lei-2011-15469",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15469-de-25-de-outubro-de-2011",
+     "sha256": "920bcf81769df56f665cbb361ff063f58f5ce6b0c723443c1e126d030fc8e67a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.469, DE 25 DE OUTUBRO DE 2011\n(Projeto de Lei nº 322/11, do Vereador Milton Leite - DEMOCRATAS)\nDenomina Praça Ioli Abílio o espaço livre público inominado delimitado pelas Ruas da Safra e dos Mutirantes, localizado no Distrito do Capão Redondo, Subprefeitura Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Ioli Abílio o espaço livre público inominado delimitado pelas Ruas da Safra e dos Mutirantes (Setor 167 - Quadras 197, 199 e 209), localizado no Distrito do Capão Redondo, Subprefeitura Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 25 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15470",
+   "short": "Lei 15470/2011",
+   "title": "Lei nº 15.470, de 27/10/2011 (Acresce art. 8º-A e inciso IV (VETADO) ao art. 12 da Lei nº 10.365, de 22 de setembro de 1987, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15470-de-27-de-outubro-de-2011",
+   "first_law": "lei-2011-15470",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15470-de-27-de-outubro-de-2011",
+     "sha256": "7d13ba4da71509d904d946d4da9f9196a47c1b4aa369bd1238710d4f15e122be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.470, DE 27 DE OUTUBRO DE 2011\n(Projeto de Lei nº 252/01, dos Vereadores Celso Jatene - PTB e Dalton Silvano - PV)\nAcresce art. 8º-A e inciso IV (VETADO) ao art. 12 da Lei nº 10.365, de 22 de setembro de 1987, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 29 de setembro de 2011, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam acrescidos o art. 8º-A e inciso IV e parágrafo único ao art. 12 da Lei nº 10.365, de 22 de setembro de 1987, com a seguinte redação:\n\"Art. 8º-A. O plantio e a conservação de vegetação de porte arbóreo realizados pelo Poder Público municipal serão executados diretamente ou por contratação de serviços de terceiros, mediante o devido procedimento licitatório, observadas as seguintes diretrizes:\nI - o Poder Público fixará:\na) as espécies de árvores a serem plantadas;\nb) o padrão do equipamento de proteção às árvores durante o seu crescimento;\nc) as normas para conservação dos equipamentos de proteção e das árvores;\nII - (VETADO)\nIII - (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. .......................................................................\nIV - funcionários de empresas terceirizadas pelo Poder Público, especializadas na poda e no corte de árvores, para realização desse serviço, orientados por Engenheiros Agrônomos ou Biólogos dessas próprias empresas, devidamente inscritos em seu órgão de classe, que realizarão previamente a vistoria das árvores a serem cortadas ou podadas, atestando sobre a necessidade ou não dessas medidas, responsabilizando-se por elas e submetendo-as aos Subprefeitos para autorização final do corte ou da poda.\nParágrafo único. (VETADO).\" (NR)\nArt. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nArt. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de outubro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 27 de outubro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15472",
+   "short": "Lei 15472/2011",
+   "title": "Lei nº 15.472, de 01/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15472-de-1-de-novembro-de-2011",
+   "first_law": "lei-2011-15472",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15472-de-1-de-novembro-de-2011",
+     "sha256": "a060db36ef1d9892539b071349debadfb8b43388141486a970358405dcb811c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.472, DE 1º DE NOVEMBRO DE 2011\n(Projeto de Lei nº 128/11, do Vereador Ítalo Cardoso - PT)\nDenomina Praça Benedicto Arthur Sampaio o espaço livre público inominado situado na confluência da Avenida Amarílis e Rua das Açucenas, no Distrito do Morumbi, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Benedicto Arthur Sampaio o espaço livre público inominado situado na confluência da Avenida Amarílis e Rua das Açucenas (Setor 84 - Quadra 56), no Distrito do Morumbi, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de novembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 1º de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15473",
+   "short": "Lei 15473/2011",
+   "title": "Lei nº 15.473, de 04/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15473-de-04-de-novembro-de-2011",
+   "first_law": "lei-2011-15473",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15473-de-04-de-novembro-de-2011",
+     "sha256": "07ffa80d2b67347d07c52be5ac4f958a3283e70286bd82e59bdfa17784ad49ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.473 DE 04 DE NOVEMBRO DE 2011\n(PROJETO DE LEI Nº 26/11)(VEREADOR PAULO FRANGE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Corretor de Seguros, a ser comemorado anualmente no dia 12 de outubro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXVI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Corretor de Seguros.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de novembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de novembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15474",
+   "short": "Lei 15474/2011",
+   "title": "Lei nº 15.474, de 04/11/2011 (Altera a redação do inciso LXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15474-de-04-de-novembro-de-2011",
+   "first_law": "lei-2011-15474",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15474-de-04-de-novembro-de-2011",
+     "sha256": "cc65a05126eb4b7693fd73adec7d88b84c174f91aaa6e8f936068b77c7a279fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.474 DE 04 DE NOVEMBRO DE 2011\n(PROJETO DE LEI Nº 194/11)(VEREADORES CELSO JATENE - PTB E NATALINI - PV)\nAltera a redação do inciso LXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso LXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com a seguinte redação:\n\"Art. 7º ...\nLXIX - 24 de abril:\na) o Dia do Voluntariado;\nb) o Dia de Solidariedade para com o Povo Armênio, em reconhecimento ao genocídio de 1915, a ser lembrado com homenagens e divulgação de atividades.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 15.312, de 1º de outubro de 2010.\nCâmara Municipal de São Paulo, 07 de novembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de novembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15475",
+   "short": "Lei 15475/2011",
+   "title": "Lei nº 15.475, de 04/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15475-de-04-de-novembro-de-2011",
+   "first_law": "lei-2011-15475",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15475-de-04-de-novembro-de-2011",
+     "sha256": "ff4d94dc528a46b786115e98045432ef0f31d30e0d4fdd401fc90359403a93f3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.475 DE 04 DE NOVEMBRO DE 2011\n(PROJETO DE LEI Nº 291/10)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Festa do Bairro Parque Paulistano, a ser comemorada anualmente no terceiro final de semana de agosto, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"terceiro final de semana de agosto: a Festa do Bairro Parque Paulistano - Distrito Jardim Helena.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de novembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de novembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15476",
+   "short": "Lei 15476/2011",
+   "title": "Lei nº 15.476, de 04/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15476-de-04-de-novembro-de-2011",
+   "first_law": "lei-2011-15476",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15476-de-04-de-novembro-de-2011",
+     "sha256": "06a9847f0a2d27b13abb04bf8db9f443276efdaa8aa46b0b6f134c57846794d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.476 DE 04 DE NOVEMBRO DE 2011\n(PROJETO DE LEI Nº 211/11)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Médico Veterinário, a ser comemorado anualmente no dia 09 de setembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXXXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Médico Veterinário.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de novembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de novembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15477",
+   "short": "Lei 15477/2011",
+   "title": "Lei nº 15.477, de 04/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15477-de-04-de-novembro-de-2011",
+   "first_law": "lei-2011-15477",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15477-de-04-de-novembro-de-2011",
+     "sha256": "7142b04fabb3e1320d018bc4054423960cfef97e0806d682bc48649f9e8897e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.477 DE 04 DE NOVEMBRO DE 2011\n(PROJETO DE LEI Nº 476/10)(VEREADOR NATALINI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de São Judas Tadeu, a ser comemorado anualmente no dia 28 de outubro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia de São Judas Tadeu.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 07 de novembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 07 de novembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15478",
+   "short": "Lei 15478/2011",
+   "title": "Lei nº 15.478, de 08/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15478-de-8-de-novembro-de-2011",
+   "first_law": "lei-2011-15478",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15478-de-8-de-novembro-de-2011",
+     "sha256": "e2e001f07c77c12599ad93cd83be507766a9a232397183a70b86ade53618d87a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.478, DE 8 DE NOVEMBRO DE 2011\n(Projeto de Lei nº 112/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Escola Municipal de Educação Infantil Professora Josefa Nicacio Araujo a Escola Municipal de Ensino Fundamental Professora Josefa Nicacio Araujo a Escola Municipal de Ensino Fundamental Itaim A, criada pelo Decreto nº 50.267, de 27 de novembro de 2008.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Escola Municipal de Educação Infantil Professora Josefa Nicacio Araujo a Escola Municipal de Educação Infantil Itaim A, criada pelo Decreto nº 50.267, de 27 de novembro de 2008, situada na Rua Manuel Rodrigues Santiago, nº 40, Bairro Jardim Laura, Distrito de Itaim Paulista, Diretoria Regional de Educação de São Miguel, Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de novembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 8 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15479",
+   "short": "Lei 15479/2011",
+   "title": "Lei nº 15.479, de 23/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15479-de-23-de-novembro-de-2011",
+   "first_law": "lei-2011-15479",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15479-de-23-de-novembro-de-2011",
+     "sha256": "fd0cd965f7a2e269a650b850de2bdfba449c3ecda7d94fbba780df1b579431c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.479, DE 23 DE NOVEMBRO DE 2011\n(Projeto de Lei nº 161/11, do Vereador Senival Moura)\nDenomina Praça Maria Anunciada Torres Batista a área verde pública inominada delimitada pelas Ruas Luís Élson e Herculano José dos Santos, situada no Distrito de Anhanguera, Subprefeitura de Perus, e dá outras providências.\nALDA MARCO ANTONIO, Vice-Prefeita, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Maria Anunciada Torres Batista a área verde pública inominada delimitada pelas Ruas Luís Élson e Herculano José dos Santos (Setor 202 - Quadra 35), situada no Distrito de Anhanguera, Subprefeitura de Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2011, 458º da fundação de São Paulo.\nALDA MARCO ANTONIO, Prefeita em Exercício\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15480",
+   "short": "Lei 15480/2011",
+   "title": "Lei nº 15.480, de 23/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15480-de-23-de-novembro-de-2011",
+   "first_law": "lei-2011-15480",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15480-de-23-de-novembro-de-2011",
+     "sha256": "253577973808e96aed0b61224d00848fbab8955fe4f48688cc7608b582b03638",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.480, DE 23 DE NOVEMBRO DE 2011\n(Projeto de Lei nº 168/11, do Vereador Toninho Paiva)\nDenomina Praça Manuel Marcos Senra Azevedo o espaço livre público inominado delimitado pela Avenida Onze de Junho e Rua Haberbeck Brandão, Distrito de Moema, Subprefeitura Vila Mariana, e dá outras providências.\nALDA MARCO ANTONIO, Vice-Prefeita, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manuel Marcos Senra Azevedo o espaço livre público inominado, delimitado pela Avenida Onze de Junho e Rua Haberbeck Brandão (Setor 42 - Quadra 207), Distrito de Moema, Subprefeitura Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2011, 458º da fundação de São Paulo.\nALDA MARCO ANTONIO, Prefeita em Exercício\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15481",
+   "short": "Lei 15481/2011",
+   "title": "Lei nº 15.481, de 23/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15481-de-23-de-novembro-de-2011",
+   "first_law": "lei-2011-15481",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15481-de-23-de-novembro-de-2011",
+     "sha256": "cd937a07228fb0dfac336f216f57d309718ab09ada9702df2439b1813abe5cac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.481, DE 23 DE NOVEMBRO DE 2011\nProjeto de Lei nº 418/10, do Vereador Toninho Paiva)\nDenomina Praça Manoel Cassimiro Borges o espaço livre público inominado delimitado pelas Ruas Frei Fidélis Mota, Serra do Itaqueri e Pico da Neblina, situado no Distrito de Vila Jacuí, Subprefeitura São Miguel, e dá outras providências.\nALDA MARCO ANTONIO, Vice-Prefeita, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manoel Cassimiro Borges o espaço livre público inominado delimitado pelas Ruas Frei Fidélis Mota, Serra do Itaqueri e Pico da Neblina (Setor 131 - Quadra 72), situado no Distrito de Vila Jacuí, Subprefeitura São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2011, 458º da fundação de São Paulo.\nALDA MARCO ANTONIO, Prefeita em Exercício\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15482",
+   "short": "Lei 15482/2011",
+   "title": "Lei nº 15.482, de 23/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15482-de-23-de-novembro-de-2011",
+   "first_law": "lei-2011-15482",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15482-de-23-de-novembro-de-2011",
+     "sha256": "d23b958ed00cced1e1f41bc68390641bf4defe8122550a3bfe6c079e8326793d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.482, DE 23 DE NOVEMBRO DE 2011\n(Projeto de Lei nº 551/10, do Vereador José Ferreira-Zelão)\nDenomina Travessa Nathanael Nunes Barreto o logradouro público inominado conhecido por viela \"um\", que começa na Rua Tibúrcio de Sousa e termina na Rua Luís de Araújo Coura, situado no Distrito do Itaim Paulista, Subprefeitura do Itaim Paulista, e dá outras providências.\nALDA MARCO ANTONIO, Vice-Prefeita, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Nathanael Nunes Barreto o logradouro público inominado conhecido por viela \"um\", que começa na Rua Tibúrcio de Sousa e termina na Rua Luís de Araújo Coura (Setor 134 - Quadra 242), situado no Distrito do Itaim Paulista, Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2011, 458º da fundação de São Paulo.\nALDA MARCO ANTONIO, Prefeita em Exercício\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15484",
+   "short": "Lei 15484/2011",
+   "title": "Lei nº 15.484, de 28/11/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15484-de-28-de-novembro-de-2011",
+   "first_law": "lei-2011-15484",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15484-de-28-de-novembro-de-2011",
+     "sha256": "3e8284b2f4b4ee43ad25cbf0c58533c2836ccbff826fe771588ea60028d5caab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.484, DE 28 DE NOVEMBRO DE 2011\n(Projeto de Lei nº 496/09, do Vereador Dalton Silvano)\nDenomina Praça GCM Davi Damião dos Santos o espaço livre sem denominação, situado na Avenida dos Têxteis, no Bairro Cidade Tiradentes, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça GCM Davi Damião dos Santos a área identificada como \"E-06A\" constante da planta do Conjunto Habitacional Santa Etelvina 1/6A - COHAB, delimitada pela Rua dos Têxteis e pelos lotes 0001-9 a 0040-1, 0343-3 e 0344-1, todos da Quadra 73 do Setor 245, do Distrito de Cidade Tiradentes, Subprefeitura de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de novembro de 2011, 458º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de novembro de 2011.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

@@ -1,0 +1,2416 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2010-15301": {
+   "label": "Lei nº 15.301, de 30/09/2010",
+   "title": "Denomina Praça Sete Jovens espaço livre público inominado, situado no Distrito de Brasilândia, na Subprefeitura de Freguesia/Brasilândia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15301-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15302": {
+   "label": "Lei nº 15.302, de 30/09/2010",
+   "title": "Denomina Praça Rubens Bunas o espaço livre público delimitado pelas Ruas Floresta Azul e Munhoz de Melo, no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15302-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15303": {
+   "label": "Lei nº 15.303, de 30/09/2010",
+   "title": "Denomina Praça João Donato Petreca o espaço livre público inominado delimitado pelas Ruas Quinta de Silvares, Nhunguaçu e Jaguacininga, situado no Distrito de Cidade Líder, na Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15303-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15304": {
+   "label": "Lei nº 15.304, de 30/09/2010",
+   "title": "Denomina Praça Arnaldo Notaroberto Pergher o espaço público livre delimitado pelas Ruas Edson de Carvalho Guimarães e Agripino Domingos Costa, situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15304-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15305": {
+   "label": "Lei nº 15.305, de 30/09/2010",
+   "title": "Denomina Travessa Rodrigo Benedito Maciel a viela sanitária que começa na Rua Friburgo e termina a aproximadamente 59,00 metros de seu início, situada no Distrito do Mandaqui, na Subprefeitura de Santana/Tucuruvi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15305-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15306": {
+   "label": "Lei nº 15.306, de 30/09/2010",
+   "title": "Denomina Praça José Erivaldo Lima o espaço público livre delimitado pelas Ruas José de Amenabar, Rui Diaz Gusmão e Linária, situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15306-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15307": {
+   "label": "Lei nº 15.307, de 30/09/2010",
+   "title": "Denomina Praça Tia Cida o espaço livre público inominado delimitado pelas Ruas Pantaleão Bonfante, Redução de Caaguaçu e João Padilha, situado no Distrito de São Rafael, na Subprefeitura de São Mateus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15307-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15308": {
+   "label": "Lei nº 15.308, de 30/09/2010",
+   "title": "Denomina Praça Maria Cecília de Holanda o espaço livre delimitado pelas Ruas Monte Lambara e Salvador Pires Monteiro, situado no Distrito do Itaim Paulista, Subprefeitura de Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15308-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15309": {
+   "label": "Lei nº 15.309, de 30/09/2010",
+   "title": "Denomina Praça Osmar Euzébio da Silva o espaço livre público inominado delimitado pela Rua Antonio Martins Costa, no Distrito de Raposo Tavares, na Subprefeitura do Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15309-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15310": {
+   "label": "Lei nº 15.310, de 30/09/2010",
+   "title": "Denomina Praça Maria do Socorro Barros o espaço livre sem denominação localizado entre as Ruas Barão de Alagoas e Itajuíbe, Itaim Paulista, Subprefeitura Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15310-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15311": {
+   "label": "Lei nº 15.311, de 30/09/2010",
+   "title": "Denomina Praça Giuseppe Parisi o espaço livre público inominado delimitado pelas Ruas Bernardo de Sousa e Frei Fidélis Mota, Distrito de Vila Jacuí, na Subprefeitura de São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-09-30",
+   "published": "2010-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15311-de-30-de-setembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15313": {
+   "label": "Lei nº 15.313, de 01/10/2010",
+   "title": "Altera disposições das Leis nº 13.637, de 4 de setembro de 2003, e suas alterações, e nº 14.381, de 7 de maio de 2007, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-10-01",
+   "published": "2010-10-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15313-de-1-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15315": {
+   "label": "Lei nº 15.315, de 28/10/2010",
+   "title": "Denomina Praça Roberto Rivelino Sales o conjunto de espaços livres delimitados pelas Ruas Almir Rodrigues, Brandão de Amorim e pelas Travessas João Carlos e do Quartzo, no Distrito de Cachoeirinha, Subprefeitura Casa Verde/Cachoeirinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-10-28",
+   "published": "2010-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15315-de-28-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15316": {
+   "label": "Lei nº 15.316, de 28/10/2010",
+   "title": "Denomina Praça Rosilda Ferreira da Silva o espaço livre sem denominação delimitado pela Avenida Raimundo Pereira de Magalhães e Rua Dendê, Distrito de Pirituba, Subprefeitura de Pirituba, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-10-28",
+   "published": "2010-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15316-de-28-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15317": {
+   "label": "Lei nº 15.317, de 28/10/2010",
+   "title": "Denomina Praça Joaquim Vieira Lopes o espaço livre sem denominação situado no Distrito de Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha.",
+   "kind": "law",
+   "enacted": "2010-10-28",
+   "published": "2010-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15317-de-28-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15318": {
+   "label": "Lei nº 15.318, de 28/10/2010",
+   "title": "Denomina Praça Venoni de Campos Moreira o espaço livre sem denominação delimitado pelas Ruas Iapó, Horácio Vergueiro Rudge e Avenida Otaviano Alves de Lima, Distrito da Casa Verde, Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-10-28",
+   "published": "2010-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15318-de-28-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15319": {
+   "label": "Lei nº 15.319, de 04/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a encenação teatral da “Paixão de Cristo”, a ser realizada anualmente na Sexta-Feira da Paixão ou no domingo que a antecede, também chamado Domingo de Ramos, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-04",
+   "published": "2010-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15319-de-04-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15320": {
+   "label": "Lei nº 15.320, de 04/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, que consolidou a legislação municipal referente a datas comemorativas, eventos e feriados do Município de São Paulo, para nela dispor de outra forma sobre o Dia Municipal do Voluntário, a ser comemorado, anualmente, no dia 05 de dezembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-04",
+   "published": "2010-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15320-de-04-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15321": {
+   "label": "Lei nº 15.321, de 04/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para nela incluir a Semana de Estímulo ao Desenvolvimento e Aperfeiçoamento do Espírito Empreendedor no Município de São Paulo, a ser realizada, anualmente, na semana de 16 a 22 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-04",
+   "published": "2010-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15321-de-04-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15322": {
+   "label": "Lei nº 15.322, de 04/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Balconista de Autopeças, a ser comemorado, anualmente, no dia 26 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-04",
+   "published": "2010-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15322-de-04-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15323": {
+   "label": "Lei nº 15.323, de 11/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Umbanda e do Umbandista, a ser comemorado anualmente no dia 15 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-11",
+   "published": "2010-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15323-de-11-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15324": {
+   "label": "Lei nº 15.324, de 11/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Carnaval de Rua de Parelheiros, a ser comemorado anualmente no domingo de carnaval, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-11",
+   "published": "2010-11-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15324-de-11-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15325": {
+   "label": "Lei nº 15.325, de 11/10/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Grêmio Estudantil Livre, a ser comemorado anualmente no dia 28 de março, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-10-11",
+   "published": "2010-11-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15325-de-11-de-outubro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15326": {
+   "label": "Lei nº 15.326, de 12/11/2010",
+   "title": "Determina a possibilidade de monitoramento por câmeras em eventos geradores de público e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-12",
+   "published": "2010-11-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15326-de-12-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15327": {
+   "label": "Lei nº 15.327, de 19/11/2010",
+   "title": "Revoga a Lei nº 6.868, de 05 de maio de 1966, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-19",
+   "published": "2010-11-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15327-de-19-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15328": {
+   "label": "Lei nº 15.328, de 22/11/2010",
+   "title": "Dispõe sobre a alienação da área municipal localizada na Rua Dom Diniz nº 29, Jardim Luzitânia, independentemente de licitação, à Associação Paulista de Magistrados - APAMAGIS, nos termos do art. 24 das Disposições Gerais e Transitórias da Lei Orgânica do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2010-11-22",
+   "published": "2010-11-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15328-de-22-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15329": {
+   "label": "Lei nº 15.329, de 22/11/2010",
+   "title": "Estende a Gratificação Especial pelo Exercício de Atividades Cenotécnicas e de Palco, instituída pelo art. 16 da Lei nº 13.861, de 29 de junho de 2004, aos ocupantes de funções de Mecânico de Máquinas de Palco, Ref. AA-3.",
+   "kind": "law",
+   "enacted": "2010-11-22",
+   "published": "2010-11-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15329-de-22-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15330": {
+   "label": "Lei nº 15.330, de 24/11/2010",
+   "title": "Institui no Município de São Paulo a Medalha Defesa Civil Municipal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15330-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15331": {
+   "label": "Lei nº 15.331, de 24/11/2010",
+   "title": "Denomina Praça Vermelha espaço livre público inominado localizado na confluência das Ruas da Mooca, Oratório e Taquari com a Avenida Paes de Barros, no Distrito da Mooca, na Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15331-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15332": {
+   "label": "Lei nº 15.332, de 24/11/2010",
+   "title": "Denomina Praça José Canduri o espaço livre público inominado \"C\", assim identificado na planta do loteamento AU 3548 - Jardim Jaraguá, delimitado pelas Ruas Boaventura Pereira, Miguel Pereira Landim e Branca de Lima, situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15332-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15333": {
+   "label": "Lei nº 15.333, de 24/11/2010",
+   "title": "Denomina Travessa Orides Pereira o logradouro público inominado, que começa na Rua Luiz Gonzaga Freire e termina a aproximadamente 88 metros além do seu início, situado no Distrito de Campo Limpo, na Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15333-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15334": {
+   "label": "Lei nº 15.334, de 24/11/2010",
+   "title": "Denomina Praça José Evaristo Barbosa o espaço livre público inominado delimitado pelas Ruas Bartolomeu Dias e Dentista Barreto, no Distrito Carrão, na Subprefeitura Aricanduva/Formosa/Carrão, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15334-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15335": {
+   "label": "Lei nº 15.335, de 24/11/2010",
+   "title": "Dispõe sobre a denominação de logradouro público inominado conhecido como Estrada Velha do Jaraguá, localizado no Distrito de Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15335-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15336": {
+   "label": "Lei nº 15.336, de 24/11/2010",
+   "title": "Denomina Travessa Joel Alvico Barbosa a Viela 10 \"A\", que começa na Rua Francisco Bellazzi e termina na Rua Presidente Félix Paiva, no Distrito Anhanguera, na Subprefeitura de Perus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15336-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15337": {
+   "label": "Lei nº 15.337, de 24/11/2010",
+   "title": "Denomina Praça Recanto dos Amigos o espaço livre público inominado delimitado pelas Ruas Severino Vilar Filho e Evandro Danton Ferreira Gandra, situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-24",
+   "published": "2010-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15337-de-24-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15338": {
+   "label": "Lei nº 15.338, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Grito Cultural Reggae, a ser comemorado anualmente no dia 23 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15338-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15339": {
+   "label": "Lei nº 15.339, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Evento de Moda Casa de Criadores, a ser comemorado semestralmente nas últimas semanas de maio e novembro, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15339-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15340": {
+   "label": "Lei nº 15.340, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Luso-Brasileira, a ser realizada, anualmente, de 22 a 26 de abril, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15340-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15341": {
+   "label": "Lei nº 15.341, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Corrida de Pedestres do Bairro do Tatuapé, a ser realizado anualmente no mês de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15341-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15342": {
+   "label": "Lei nº 15.342, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para fixar o dia 07 de fevereiro para a comemoração anual do Dia de Ermelino Matarazzo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15342-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15343": {
+   "label": "Lei nº 15.343, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal da Bengala Branca, a ser comemorado anualmente no dia 15 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15343-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15344": {
+   "label": "Lei nº 15.344, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a comemoração da Semana das Cerejeiras em Flor, a ter início anualmente no primeiro domingo de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-11-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15344-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15345": {
+   "label": "Lei nº 15.345, de 29/11/2010",
+   "title": "Altera o inciso CCLV, do art. 7º, da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Evangélico, Jornalista Evangélico, Imprensa e Meios de Mídia Evangélica, a ser comemorado, anualmente, em 1º de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15345-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15346": {
+   "label": "Lei nº 15.346, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Policial Ferroviário Federal, a ser comemorado anualmente no dia 27 de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15346-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15347": {
+   "label": "Lei nº 15.347, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Conscientização da Cardiopatia Congênita, a ser realizado anualmente no dia 12 de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15347-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15348": {
+   "label": "Lei nº 15.348, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Orientação sobre Mucopolissacaridose, a ser realizado anualmente no dia 15 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15348-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15349": {
+   "label": "Lei nº 15.349, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aprendiz, a ser comemorado anualmente no dia 19 de dezembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15349-de-09-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15350": {
+   "label": "Lei nº 15.350, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Orientação sobre Hemangiomas, Linfangiomas e Síndromes Hemangiomatosas, a ser realizado anualmente no dia 15 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15350-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15351": {
+   "label": "Lei nº 15.351, de 29/11/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o evento Design na Brasa, a ser realizado anualmente na segunda semana do mês de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-11-29",
+   "published": "2010-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15351-de-29-de-novembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15352": {
+   "label": "Lei nº 15.352, de 20/12/2010",
+   "title": "Dispõe sobre a permanência de ambulância nos locais de realização de provas para vestibular, seleção, concursos e demais eventos similares, no âmbito da Cidade de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-12-20",
+   "published": "2010-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15352-de-20-de-dezembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2010-15301",
+   "short": "Lei 15301/2010",
+   "title": "Lei nº 15.301, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15301-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15301",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15301-de-30-de-setembro-de-2010",
+     "sha256": "92cefc4719e5a9f8a17d0ae8b6deb8c54ecaeb8f3b06be16ca00c325a170e5a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.301, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 757/09, do Vereador Francisco Chagas - PT)\nDenomina Praça Sete Jovens espaço livre público inominado, situado no Distrito de Brasilândia, na Subprefeitura de Freguesia/Brasilândia, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de setembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Sete Jovens a parte do espaço livre público inominado com frente para a Rua Pedro Pomar, entre as Ruas Carlos Lamarca e Julio Pinheiro (Setor 127 - Quadra 82) e delimitada em ambos os lados por equipamento institucional e nos fundos por córrego, situada no Distrito de Brasilândia, Subprefeitura de Freguesia/Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15302",
+   "short": "Lei 15302/2010",
+   "title": "Lei nº 15.302, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15302-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15302",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15302-de-30-de-setembro-de-2010",
+     "sha256": "07538c17ce2e3796172e2e87cfc2b1e42ae28ff289b20dbc2e679f4fd0dddad2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.302, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 19/10, do Vereador Toninho Paiva - PR)\nDenomina Praça Rubens Bunas o espaço livre público delimitado pelas Ruas Floresta Azul e Munhoz de Melo, no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Rubens Bunas o espaço livre público delimitado pelas Ruas Floresta Azul e Munhoz de Melo (Setor 130 - Quadras 132 e 364), no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15303",
+   "short": "Lei 15303/2010",
+   "title": "Lei nº 15.303, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15303-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15303",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15303-de-30-de-setembro-de-2010",
+     "sha256": "e9e772e5fad5372972150cac89af0557676084dcbdb509642413e0d4fe88fe58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.303, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 57/10, do Vereador José Ferreira-Zelão - PT)\nDenomina Praça João Donato Petreca o espaço livre público inominado delimitado pelas Ruas Quinta de Silvares, Nhunguaçu e Jaguacininga, situado no Distrito de Cidade Líder, na Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça João Donato Petreca o espaço livre público inominado delimitado pelas Ruas Quinta de Silvares, Nhunguaçu e Jaguacininga (Setor 147 - Quadra 67), situado no Distrito de Cidade Líder, na Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15304",
+   "short": "Lei 15304/2010",
+   "title": "Lei nº 15.304, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15304-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15304",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15304-de-30-de-setembro-de-2010",
+     "sha256": "2c8a86aa23788a06932c2aeb52997b69a43ada5fd1d8da20649b3c8ccb194a83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.304, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 73/10, do Vereador José Ferreira-Zelão - PT)\nDenomina Praça Arnaldo Notaroberto Pergher o espaço público livre delimitado pelas Ruas Edson de Carvalho Guimarães e Agripino Domingos Costa, situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Arnaldo Notaroberto Pergher o espaço público livre delimitado pelas Ruas Edson de Carvalho Guimarães e Agripino Domingos Costa (Setor 133 - Quadras 74 e 75), situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15305",
+   "short": "Lei 15305/2010",
+   "title": "Lei nº 15.305, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15305-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15305-de-30-de-setembro-de-2010",
+     "sha256": "78dcf6a66fc3e189104b8957a24517b90f673559fdd06ea391ad63a9f084ab62",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.305, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 92/10, do Vereador Claudinho - PSDB)\nDenomina Travessa Rodrigo Benedito Maciel a viela sanitária que começa na Rua Friburgo e termina a aproximadamente 59,00 metros de seu início, situada no Distrito do Mandaqui, na Subprefeitura de Santana/Tucuruvi, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Rodrigo Benedito Maciel a viela sanitária, CADLOG 27.907-2, que começa na Rua Friburgo e termina a aproximadamente 59,00 metros além do seu início (Setor 71 - Quadra 398), no Distrito do Mandaqui, Subprefeitura de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15306",
+   "short": "Lei 15306/2010",
+   "title": "Lei nº 15.306, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15306-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15306",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15306-de-30-de-setembro-de-2010",
+     "sha256": "cf01872a35fc5d81e27d3828147569851bc4f0acadda7b6323f8437897fd070f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.306, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 94/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça José Erivaldo Lima o espaço público livre delimitado pelas Ruas José de Amenabar, Rui Diaz Gusmão e Linária, situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Erivaldo Lima o espaço público livre delimitado pelas Ruas José de Amenabar, Rui Diaz Gusmão e Linária (Setor 192 - Quadra 26), situado no Distrito do Itaim Paulista, na Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15307",
+   "short": "Lei 15307/2010",
+   "title": "Lei nº 15.307, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15307-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15307",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15307-de-30-de-setembro-de-2010",
+     "sha256": "e10a0224cfcf0c724c126097575790abefaef095092bf6c5c6933704ff01ff94",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.307, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 95/10, do Vereador Juscelino Gadelha - PSDB)\nDenomina Praça Tia Cida o espaço livre público inominado delimitado pelas Ruas Pantaleão Bonfante, Redução de Caaguaçu e João Padilha, situado no Distrito de São Rafael, na Subprefeitura de São Mateus, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Tia Cida o espaço livre inominado delimitado pelas Ruas Pantaleão Bonfante, Redução de Caaguaçu e João Padilha (Setor 152 - Quadras 204 e 206), situado no Distrito de São Rafael, na Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15308",
+   "short": "Lei 15308/2010",
+   "title": "Lei nº 15.308, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15308-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15308",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15308-de-30-de-setembro-de-2010",
+     "sha256": "ffb1af98b5552f29407a01c97c18982085183be250712b4ddf25409c9a5b9d24",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.308, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 127/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Maria Cecília de Holanda o espaço livre delimitado pelas Ruas Monte Lambara e Salvador Pires Monteiro, situado no Distrito do Itaim Paulista, Subprefeitura de Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Cecília de Holanda o espaço livre delimitado pelas Ruas Monte Lambara e Salvador Pires Monteiro (Setor 134 - Quadra 324), situado no Distrito do Itaim Paulista, na Subprefeitura de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15309",
+   "short": "Lei 15309/2010",
+   "title": "Lei nº 15.309, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15309-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15309",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15309-de-30-de-setembro-de-2010",
+     "sha256": "8a8a7844ac1ef18253a1a5c7e0fb127128cb12f10ed208523b7ce8a5f0d3b3f3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.309, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 130/10, do Vereador João Antonio - PT)\nDenomina Praça Osmar Euzébio da Silva o espaço livre público inominado delimitado pela Rua Antonio Martins Costa, no Distrito de Raposo Tavares, na Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Osmar Euzébio da Silva o espaço livre público inominado delimitado pela Rua Antonio Martins Costa, em frente ao nº 247 e nº 294 (Setor 186 - Quadras 19 e 29), no Distrito de Raposo Tavares, na Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15310",
+   "short": "Lei 15310/2010",
+   "title": "Lei nº 15.310, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15310-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15310",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15310-de-30-de-setembro-de-2010",
+     "sha256": "e8bf593ae3a9e6a288327ce7c6d748bf84b1cf9661f5f0f5b0c9d2785188a86d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.310, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 171/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Maria do Socorro Barros o espaço livre sem denominação localizado entre as Ruas Barão de Alagoas e Itajuíbe, Itaim Paulista, Subprefeitura Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria do Socorro Barros o espaço livre sem denominação localizado entre as Ruas Barão de Alagoas e Itajuíbe (Setor 134 - Quadra 205), Itaim Paulista, Subprefeitura Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15311",
+   "short": "Lei 15311/2010",
+   "title": "Lei nº 15.311, de 30/09/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15311-de-30-de-setembro-de-2010",
+   "first_law": "lei-2010-15311",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15311-de-30-de-setembro-de-2010",
+     "sha256": "400f7b5f94ab5e90aa3572cce9826a3b3f3ebcca3f2f8263f9afb9b7aeeaa0b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.311, DE 30 DE SETEMBRO DE 2010\n(Projeto de Lei nº 172/10, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Giuseppe Parisi o espaço livre público inominado delimitado pelas Ruas Bernardo de Sousa e Frei Fidélis Mota, Distrito de Vila Jacuí, na Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Giuseppe Parisi o espaço público inominado delimitado pelas Ruas Bernardo de Sousa e Frei Fidélis Mota (Setor 112 - Quadra 324), Distrito de Vila Jacuí, na Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de setembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 30 de setembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15313",
+   "short": "Lei 15313/2010",
+   "title": "Lei nº 15.313, de 01/10/2010 (Altera disposições das Leis nº 13.637, de 4 de setembro de 2003, e suas alterações, e nº 14.381, de 7 de maio de 2007, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15313-de-1-de-outubro-de-2010",
+   "first_law": "lei-2010-15313",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15313-de-1-de-outubro-de-2010",
+     "sha256": "694b4785db65392813659433e05c6332e06bf4283ed8645083f379029979f228",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.313 DE 1º DE OUTUBRO DE 2010\n(PROJETO DE LEI Nº 387/10)\n(MESA DA CÂMARA)\nAltera disposições das Leis nº 13.637, de 4 de setembro de 2003, e suas alterações, e nº 14.381, de 7 de maio de 2007, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 2º do art. 20 e o inciso III do § 5º do art. 21 da Lei nº 13.637, de 4 de setembro de 2003, alterada pela Lei nº 14.381, de 7 de maio de 2007, passam a exibir a seguinte redação:\nArt. 20. ...\n§ 2º Os titulares dos cargos das carreiras de Consultor Técnico Legislativo desempenharão suas atividades nas áreas de assessoria e consultoria; de Procurador Legislativo, desempenharão suas atividades na área judicial e de assessoria e consultoria jurídica; de Técnico Administrativo, desempenharão suas atividades na área de suporte administrativo; e de Auxiliar Operacional, desempenharão suas atividades na área de suporte operacional, na forma prevista no Anexo VIII.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. ...\n§ 5º ...\nIII  Consultor Técnico Legislativo, Procurador Legislativo e Técnico Parlamentar (PS), sempre associado à pontuação por títulos: a passagem para o nível imediatamente superior ocorrerá após o mínimo de 4 (quatro) anos na carreira.\nArt. 2º A alínea Analista Legislativo, Consultor Técnico Legislativo, Procurador Legislativo e Técnico Parlamentar (PS) da primeira coluna do Anexo I da Lei nº 14.381, de 7 de maio de 2007, passa a exibir a redação: Consultor Técnico Legislativo, Procurador Legislativo e Técnico Parlamentar (PS).\nArt. 3º A Tabela A  Parte Permanente, do Anexo I da Lei nº 13.637, de 4 de setembro de 2003, alterada pelas Leis nº 14.381, de 7 de maio de 2007, e nº 15.060, de 14 de dezembro de 2009, na coluna Situação Nova, cargos de Analista Legislativo e Consultor Técnico Legislativo, passa a exibir a seguinte redação:\nAnexo I\nArt. 4º O quadro Analista Legislativo, Consultor Técnico Legislativo, Procurador Legislativo e Técnico Parlamentar (PS) do Quadro de Pessoal do Legislativo  Evolução Funcional por Promoção na Carreira do Anexo V da Lei nº 13.637, de 4 de setembro de 2003, alterada pela Lei nº 14.381, de 7 de maio de 2007, passa a exibir a seguinte denominação: Consultor Técnico Legislativo, Procurador Legislativo e Técnico Parlamentar (PS).\nArt. 5º As alíneas Analista Legislativo  Registro e Revisão e Analista Legislativo  Contador da coluna Cargos Novos, Tabela C do Anexo VII da Lei nº 13.637, de 4 de setembro de 2003, alterada pela Lei nº 14.381, de 7 de maio de 2007, passam a exibir, respectivamente, a redação: Consultor Técnico Legislativo  Registro e Revisão e Consultor Técnico Legislativo  Contador.\nArt. 6º Ficam excluídas das colunas A  Cargos Efetivos e Atribuições do Anexo VIII da Lei nº 13.637, de 4 de setembro de 2003, alterada pela Lei nº 14.381, de 7 de maio de 2007, as alíneas correspondentes ao cargo efetivo de Analista Legislativo.\nArt. 7º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\nArt. 8º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de outubro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de outubro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15315",
+   "short": "Lei 15315/2010",
+   "title": "Lei nº 15.315, de 28/10/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15315-de-28-de-outubro-de-2010",
+   "first_law": "lei-2010-15315",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15315-de-28-de-outubro-de-2010",
+     "sha256": "3f45d62f5e55cae49edd7b887a6da87176686356804961444281e0a32005a32a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.315, DE 28 DE OUTUBRO DE 2010\n(Projeto de Lei nº 447/06, do Vereador Claudinho - PSDB)\nDenomina Praça Roberto Rivelino Sales o conjunto de espaços livres delimitados pelas Ruas Almir Rodrigues, Brandão de Amorim e pelas Travessas João Carlos e do Quartzo, no Distrito de Cachoeirinha, Subprefeitura Casa Verde/Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Roberto Rivelino Sales o conjunto de espaços livres sem denominações delimitados pelas Ruas Almir Rodrigues, Brandão de Amorim e pelas Travessas João Carlos e do Quartzo (Setor 305 - Quadra 76), no Distrito de Cachoeirinha, Subprefeitura Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de outubro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de outubro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15316",
+   "short": "Lei 15316/2010",
+   "title": "Lei nº 15.316, de 28/10/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15316-de-28-de-outubro-de-2010",
+   "first_law": "lei-2010-15316",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15316-de-28-de-outubro-de-2010",
+     "sha256": "b0f472faba5b2af672d5d48961be13d383e3089bf9130dbae2377da1c83e7721",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.316, DE 28 DE OUTUBRO DE 2010\n(Projeto de Lei nº 452/06, do Vereador Claudinho - PSDB)\nDenomina Praça Rosilda Ferreira da Silva o espaço livre sem denominação delimitado pela Avenida Raimundo Pereira de Magalhães e Rua Dendê, Distrito de Pirituba, Subprefeitura de Pirituba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Rosilda Ferreira da Silva o espaço livre sem denominação delimitado pela Avenida Raimundo Pereira de Magalhães e Rua Dendê, Distrito de Pirituba, Subprefeitura de Pirituba (Setor 125 - Quadra 127).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de outubro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de outubro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15317",
+   "short": "Lei 15317/2010",
+   "title": "Lei nº 15.317, de 28/10/2010 (Denomina Praça Joaquim Vieira Lopes o espaço livre sem denominação situado no Distrito de Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15317-de-28-de-outubro-de-2010",
+   "first_law": "lei-2010-15317",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15317-de-28-de-outubro-de-2010",
+     "sha256": "00f29f72a9012ae3ee32c26293b31a0cf848e6b24a446859576dae72ac5e9ff3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.317, DE 28 DE OUTUBRO DE 2010\n(Projeto de Lei nº 461/06, do Vereador Claudinho - PSDB)\nDenomina Praça Joaquim Vieira Lopes o espaço livre sem denominação situado no Distrito de Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Joaquim Vieira Lopes o espaço livre sem denominação, delimitado pelas Ruas Veiga do Monte, Maria Roque, por lotes particulares da Quadra 381 do Setor Fiscal 071, e pela EMEI Marechal Odílio Denys (Setor 71 - Quadras 230 e 231), situado no Distrito de Cachoeirinha, Subprefeitura da Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de outubro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de outubro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15318",
+   "short": "Lei 15318/2010",
+   "title": "Lei nº 15.318, de 28/10/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15318-de-28-de-outubro-de-2010",
+   "first_law": "lei-2010-15318",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15318-de-28-de-outubro-de-2010",
+     "sha256": "fddfeeba93e2a58f84b8d0d4f01011a401767be54f2a09a4fa21767317dd0905",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.318, DE 28 DE OUTUBRO DE 2010\n(Projeto de Lei nº 473/06, do Vereador Claudinho - PSDB)\nDenomina Praça Venoni de Campos Moreira o espaço livre sem denominação delimitado pelas Ruas Iapó, Horácio Vergueiro Rudge e Avenida Otaviano Alves de Lima, Distrito da Casa Verde, Subprefeitura da Casa Verde/Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Venoni de Campos Moreira o espaço livre sem denominação delimitado pelas Ruas Iapó, Horácio Vergueiro Rudge e Avenida Otaviano Alves de Lima (Setor 306 - Quadras 109, 133 e 138), Distrito da Casa Verde, Subprefeitura da Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de outubro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de outubro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15319",
+   "short": "Lei 15319/2010",
+   "title": "Lei nº 15.319, de 04/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15319-de-04-de-novembro-de-2010",
+   "first_law": "lei-2010-15319",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15319-de-04-de-novembro-de-2010",
+     "sha256": "f920807ffaa4c2b98eacb7554fbafd12574109694bea51ee640f5279e1e59047",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.319 DE 04 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 555/07)(VEREADOR GOULART - PMDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a encenação teatral da \"Paixão de Cristo\", a ser realizada anualmente na Sexta-Feira da Paixão ou no domingo que a antecede, também chamado Domingo de Ramos, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescentado inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, incluindo a encenação teatral da \"Paixão de Cristo\", tradicionalmente realizada no Autódromo Municipal José Carlos Pace, na Sexta-Feira Santa ou no domingo que a antecede, o Domingo de Ramos, cabendo aos organizadores do evento as providências necessárias à sua realização, inclusive requerer ao Poder Público a devida autorização para o uso do autódromo, sempre respeitada a programação própria desse equipamento municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15320",
+   "short": "Lei 15320/2010",
+   "title": "Lei nº 15.320, de 04/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15320-de-04-de-novembro-de-2010",
+   "first_law": "lei-2010-15320",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15320-de-04-de-novembro-de-2010",
+     "sha256": "e23141311d4b75d789fd99e0f6f5dfe41416a47d137fd0c84a3d2f1d7b253ab5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.320 DE 04 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 117/10)(VEREADOR PAULO FRANGE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, que consolidou a legislação municipal referente a datas comemorativas, eventos e feriados do Município de São Paulo, para nela dispor de outra forma sobre o Dia Municipal do Voluntário, a ser comemorado, anualmente, no dia 05 de dezembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"05 de dezembro: Dia Municipal do Voluntário.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a alínea \"a\" do inciso LXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 14.341, de 05 de abril de 2007.\nCâmara Municipal de São Paulo, 05 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15321",
+   "short": "Lei 15321/2010",
+   "title": "Lei nº 15.321, de 04/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15321-de-04-de-novembro-de-2010",
+   "first_law": "lei-2010-15321",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15321-de-04-de-novembro-de-2010",
+     "sha256": "9db89202d1124207774892701fdee875e89610fb157ae04cf23b0cdbe8780574",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.321 DE 04 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 716/09)(VEREADOR TONINHO PAIVA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para nela incluir a Semana de Estímulo ao Desenvolvimento e Aperfeiçoamento do Espírito Empreendedor no Município de São Paulo, a ser realizada, anualmente, na semana de 16 a 22 de novembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"16 a 22 de novembro: Semana de Estímulo ao Desenvolvimento e Aperfeiçoamento do Espírito Empreendedor no Município de São Paulo, voltada à disseminação dos conceitos ligados ao empreendedorismo e das técnicas necessárias a seu bom desenvolvimento, junto a todas as camadas da população.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15322",
+   "short": "Lei 15322/2010",
+   "title": "Lei nº 15.322, de 04/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15322-de-04-de-novembro-de-2010",
+   "first_law": "lei-2010-15322",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15322-de-04-de-novembro-de-2010",
+     "sha256": "f93c6daf8c35d2ba1adcf099536e3b77d07bf927348c48edf11880f11a0daf9a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.322 DE 04 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 137/10)(VEREADOR CELSO JATENE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Balconista de Autopeças, a ser comemorado, anualmente, no dia 26 de novembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Balconista de Autopeças, a ser comemorado, anualmente, no dia 26 de novembro, com homenagens e eventos de divulgação da atividade.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15323",
+   "short": "Lei 15323/2010",
+   "title": "Lei nº 15.323, de 11/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15323-de-11-de-novembro-de-2010",
+   "first_law": "lei-2010-15323",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15323-de-11-de-novembro-de-2010",
+     "sha256": "5f84e61ee03932c9e2aa9818014311780930b9a318fb7842b0ee8d62af389396",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.323 DE 11 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 212/10)(VEREADOR QUITO FORMIGA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Umbanda e do Umbandista, a ser comemorado anualmente no dia 15 de novembro, e dá outras providências.\nDalton Silvano, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia da Umbanda e do Umbandista.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 11 de novembro de 2010.\nO Presidente em exercício, Dalton Silvano\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 11 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15324",
+   "short": "Lei 15324/2010",
+   "title": "Lei nº 15.324, de 11/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15324-de-11-de-novembro-de-2010",
+   "first_law": "lei-2010-15324",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15324-de-11-de-novembro-de-2010",
+     "sha256": "3ca5b7ab00c2e36bdfe6f75cdef323f017e8fc18212cf54404c68fdf599dd0d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.324 DE 11 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 136/10)(VEREADOR ANTONIO CARLOS RODRIGUES - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Carnaval de Rua de Parelheiros, a ser comemorado anualmente no domingo de carnaval, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"domingo de carnaval: o Carnaval de Rua de Parelheiros, a ser comemorado com a participação voluntária no desfile da Escola de Samba Extremo Sul, grupos carnavalescos e outras escolas de samba que possam ser convidadas, sempre que possível na Rua Terezinha do Prado Oliveira, a partir das 14h, com término às 22h, mediante prévia autorização do Poder Executivo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15325",
+   "short": "Lei 15325/2010",
+   "title": "Lei nº 15.325, de 11/10/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15325-de-11-de-outubro-de-2010",
+   "first_law": "lei-2010-15325",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15325-de-11-de-outubro-de-2010",
+     "sha256": "303cd9a3d1624f954655a109204df02f2f0f8ca5619101f24538b827382a2a67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.325 DE 11 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 121/10)(VEREADOR NETINHO DE PAULA - PC do B)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Grêmio Estudantil Livre, a ser comemorado anualmente no dia 28 de março, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"28 de março: o Dia Municipal do Grêmio Estudantil Livre, em lembrança do estudante secundarista Edson Luis Souto, assassinado pelo regime militar em 28 de março de 1968, no qual serão realizados pelos Grêmios e pela União Municipal dos Estudantes Secundaristas, no âmbito da Rede Pública Municipal de Ensino, debates, palestras, atividades educacionais, esportivas e culturais, visando resgatar a história do movimento estudantil e enaltecer a importância da participação dos estudantes secundaristas e dos Grêmios na vida da escola e da sociedade.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15326",
+   "short": "Lei 15326/2010",
+   "title": "Lei nº 15.326, de 12/11/2010 (Determina a possibilidade de monitoramento por câmeras em eventos geradores de público e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15326-de-12-de-novembro-de-2010",
+   "first_law": "lei-2010-15326",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15326-de-12-de-novembro-de-2010",
+     "sha256": "83e2cc7e881d9f8a27b99b8ad16cd4c22f1dfb642085a96af6adb5f50a3df08e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.326, DE 12 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 330/08, do Vereador Donato - PT)\nDetermina a possibilidade de monitoramento por câmeras em eventos geradores de público e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 3 de novembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os eventos temporários realizados no Município de São Paulo com previsão de público superior a 10.000 (dez mil) pessoas poderão ser obrigados a possuir monitoramento por câmeras filmadoras.\nParágrafo único. O monitoramento previsto no \"caput\" deste artigo será de responsabilidade do idealizador do evento e abrangerá também a chegada e a saída do público ao evento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A expedição do Alvará de Autorização para a realização de eventos temporários com previsão de público superior a 10.000 (dez mil) pessoas ficará condicionada à apresentação, pelo interessado, de projeto de monitoramento do evento através de câmeras filmadoras, se assim for exigido pela Municipalidade, que deverá fundamentar, em documento específico, a conveniência da exigência do monitoramento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As imagens registradas através do monitoramento previsto nesta lei serão armazenadas pelo interessado durante o período de 60 (sessenta) dias após a realização do evento, ficando à disposição da Municipalidade de São Paulo, que poderá solicitá-las se assim lhe convier.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente lei no prazo de 30 (trinta) dias após sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 12 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15327",
+   "short": "Lei 15327/2010",
+   "title": "Lei nº 15.327, de 19/11/2010 (Revoga a Lei nº 6.868, de 05 de maio de 1966, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15327-de-19-de-novembro-de-2010",
+   "first_law": "lei-2010-15327",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15327-de-19-de-novembro-de-2010",
+     "sha256": "1f796383df3c87b17496d6ddce17697ff5ae6b71245dc2401dcf531aecf65d33",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.327, DE 19 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 665/09, do Vereador Jooji Hato - PMDB)\nRevoga a Lei nº 6.868, de 05 de maio de 1966, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogada a Lei nº 6.868, de 5 de maio de 1966.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 19 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15328",
+   "short": "Lei 15328/2010",
+   "title": "Lei nº 15.328, de 22/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15328-de-22-de-novembro-de-2010",
+   "first_law": "lei-2010-15328",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15328-de-22-de-novembro-de-2010",
+     "sha256": "e5666892ff90f921b6c114e783524809fcb9959c979efad3649bed8655fd01ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.328, DE 22 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 560/08, do Executivo)\nDispõe sobre a alienação da área municipal localizada na Rua Dom Diniz nº 29, Jardim Luzitânia, independentemente de licitação, à Associação Paulista de Magistrados - APAMAGIS, nos termos do art. 24 das Disposições Gerais e Transitórias da Lei Orgânica do Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de novembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a alienar à Associação Paulista de Magistrados - APAMAGIS, com dispensa de licitação, nos termos do disposto no art. 24 das Disposições Gerais e Transitórias da Lei Orgânica do Município de São Paulo, a área municipal situada na Rua Dom Diniz nº 29, Jardim Luzitânia, descrita e caracterizada na planta A-1084/01, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, com 4.796,42m² (quatro mil, setecentos e noventa e seis metros e quarenta e dois decímetros quadrados), delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, confrontando, para quem de dentro da área olha para a Rua Dom Diniz, pela frente, linha reta 1-2, na extensão aproximada de 182,53m, com a Rua Dom Diniz, segundo seu alinhamento; pelo lado direito, linha quebrada 2-3-4, na extensão aproximada de 11,00m, segundo a confluência dos alinhamentos das Ruas do Gama e Dom Diniz, com os leitos desses logradouros; pelo lado esquerdo, linha reta 1-8, na extensão aproximada de 27,00m, com propriedade de quem de direito; pelos fundos, linha quebrada 4-5-6-7-8, na extensão aproximada de 203,65m, com propriedade de quem de direito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A alienação de que trata esta lei será efetivada pelo preço da avaliação, procedida pelo Departamento Patrimonial da Procuradoria Geral do Município, no importe de R$ 19.807.067,00 (dezenove milhões, oitocentos e sete mil e sessenta e sete reais), a ser devidamente atualizado na época da efetiva transação, valor que abrange o terreno e as benfeitorias que nele foram incorporadas, estas num total de 4.362,85m² (quatro mil, trezentos e sessenta e dois metros e oitenta e cinco decímetros quadrados), a ser pago em 6 (seis) anos, em parcelas trimestrais, sempre corrigidas pelo IPCA - Índice de Preços ao Consumidor Amplo, do Instituto Brasileiro de Geografia e Estatística - IBGE, ou por outro índice que venha a substituí-lo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 22 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15329",
+   "short": "Lei 15329/2010",
+   "title": "Lei nº 15.329, de 22/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15329-de-22-de-novembro-de-2010",
+   "first_law": "lei-2010-15329",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15329-de-22-de-novembro-de-2010",
+     "sha256": "bcae1df380caa3e32b7882182d4d55d9206e98dda61ba225d2735683460d8706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.329, DE 22 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 164/10, do Executivo)\nEstende a Gratificação Especial pelo Exercício de Atividades Cenotécnicas e de Palco, instituída pelo art. 16 da Lei nº 13.861, de 29 de junho de 2004, aos ocupantes de funções de Mecânico de Máquinas de Palco, Ref. AA-3.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 17 de novembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica estendida aos ocupantes de funções de Mecânico de Máquinas de Palco, Ref. AA-3, do Quadro de Atividades Artísticas, a Gratificação Especial pelo Exercício de Atividades Cenotécnicas e de Palco, instituída pelo art. 16 da Lei nº 13.861, de 29 de junho de 2004.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de junho de 2004.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 22 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15330",
+   "short": "Lei 15330/2010",
+   "title": "Lei nº 15.330, de 24/11/2010 (Institui no Município de São Paulo a Medalha Defesa Civil Municipal e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15330-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15330",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15330-de-24-de-novembro-de-2010",
+     "sha256": "73eb074832711f023b31009d3776589f3a2d539d201e573ade5160cabb9abc9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.330, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 500/07, do Vereador Ushitaro Kamia - DEMOCRATAS)\nInstitui no Município de São Paulo a Medalha Defesa Civil Municipal e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 3 de novembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de São Paulo a Medalha Defesa Civil Municipal, a ser entregue anualmente no dia 24 de fevereiro, Dia da Defesa Civil, instituído pela Lei nº 11.235/92, em sessão solene a ser convocada pelo Prefeito.\nParágrafo único. A Medalha Defesa Civil Municipal será entregue àqueles que se destacarem nas atividades relacionadas à defesa civil e em atos heróicos junto à população da Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A medalha ora instituída será confeccionada em bronze, com forma circular, com a seguinte descrição: no anverso, escudo redondo de 30 mm (trinta milímetros), de blau (azul), perfilado de prata, tendo em ponta movente duas mãos, de perfil, estilizadas, abertas, voltadas uma para a outra; ao centro, um triângulo equilátero, tudo em prata e brocante, sobretudo o brasão de armas da Cidade de São Paulo com suas cores, pousando em uma Cruz da Ordem de Cristo, com 35 mm (trinta e cinco milímetros), de laranja e cheia de prata. No verso, em caracteres versais maiúsculos, o nome da condecoração em círculo, MEDALHA DE MÉRITO DA DEFESA CIVIL DA CIDADE DE SÃO PAULO, deixando o centro da mesma para ser nele gravado o nome do agraciado. A fita de gorgorão de seda chamalotada, com 20 mm (vinte milímetros) de largura, as cores obedecerão à seguinte ordem e correspondem aos esmaltes e metais:\n01 - laranja 3,5 cm;\n02 - prata (branco) 35 mm;\n03 - blau (azul) 60 mm;\n04 - prata (branco) 35 mm;\n05 - laranja 35 mm.\nParágrafo único. Junto à medalha, deverá ser entregue ao homenageado barrete, miniatura do diploma correspondente à honraria concedida.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As indicações serão feitas pelo Comando Geral da Defesa Civil, em conjunto com a Secretaria Municipal de Segurança Urbana, e serão acompanhadas das biografias dos homenageados e da exposição de motivos que ensejaram a indicação, devendo ser encaminhadas ao Prefeito até o último dia do mês de dezembro de ano anterior à homenagem, que, aquiescendo, concederá a honraria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15331",
+   "short": "Lei 15331/2010",
+   "title": "Lei nº 15.331, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15331-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15331",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15331-de-24-de-novembro-de-2010",
+     "sha256": "9aa8e11c9cb84bc85f38141dce3dce3a9deaec88558d34a59682579b0b2cbe90",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.331, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 154/08, do Vereador Ricardo Teixeira - PSDB)\nDenomina Praça Vermelha espaço livre público inominado localizado na confluência das Ruas da Mooca, Oratório e Taquari com a Avenida Paes de Barros, no Distrito da Mooca, na Subprefeitura da Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Vermelha espaço livre público inominado localizado na confluência das Ruas da Mooca, Oratório e Taquari com a Avenida Paes de Barros, no Distrito da Mooca, na Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15332",
+   "short": "Lei 15332/2010",
+   "title": "Lei nº 15.332, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15332-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15332",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15332-de-24-de-novembro-de-2010",
+     "sha256": "a2466f57d4dfa4d41baecf9551f406c5748b9eb8cd597ad153f54b979f42b5c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.332, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 621/08, do Vereador Paulo Frange - PTB)\nDenomina Praça José Canduri o espaço livre público inominado \"C\", assim identificado na planta do loteamento AU 3548 - Jardim Jaraguá, delimitado pelas Ruas Boaventura Pereira, Miguel Pereira Landim e Branca de Lima, situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Canduri o espaço livre público inominado \"C\", assim identificado na planta do loteamento AU 3548 - Jardim Jaraguá, delimitado pelas Ruas Boaventura Pereira, Miguel Pereira Landim e Branca de Lima (Setor 124 - Quadras 37 e 147), situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15333",
+   "short": "Lei 15333/2010",
+   "title": "Lei nº 15.333, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15333-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15333",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15333-de-24-de-novembro-de-2010",
+     "sha256": "275712ef6d77540f3c997470bb441a2b7669f0c766c43ce8e8ca24956474680e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.333, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 687/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Travessa Orides Pereira o logradouro público inominado, que começa na Rua Luiz Gonzaga Freire e termina a aproximadamente 88 metros além do seu início, situado no Distrito de Campo Limpo, na Subprefeitura de Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Orides Pereira o logradouro público inominado conhecido como Passagem Dois, codlog 59.069-0, que começa na Rua Luiz Gonzaga Freire (Setor 168 - Quadra 86) e termina a aproximadamente 88 metros além do seu início, situado no Distrito de Campo Limpo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15334",
+   "short": "Lei 15334/2010",
+   "title": "Lei nº 15.334, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15334-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15334",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15334-de-24-de-novembro-de-2010",
+     "sha256": "f14dad71ec32fd71e74ad0cfdae8f9651d265178b42e651a5879c9bf1e6302cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.334, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 002/2010, do Vereador Gilson Barreto - PSDB)\nDenomina Praça José Evaristo Barbosa o espaço livre público inominado delimitado pelas Ruas Bartolomeu Dias e Dentista Barreto, no Distrito Carrão, na Subprefeitura Aricanduva/Formosa/Carrão, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Evaristo Barbosa o espaço livre público inominado delimitado pelas Ruas Bartolomeu Dias e Dentista Barreto (Setor 55 - Quadra 392), no Distrito Carrão, Subprefeitura Aricanduva/Formosa/Carrão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15335",
+   "short": "Lei 15335/2010",
+   "title": "Lei nº 15.335, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15335-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15335",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15335-de-24-de-novembro-de-2010",
+     "sha256": "df7858649202473e9215ec3c70d69012a32d8473262c58cc3950dd021b3ffd1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.335, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 54/10, do Vereador Cláudio Fonseca - PPS)\nDispõe sobre a denominação de logradouro público inominado conhecido como Estrada Velha do Jaraguá, localizado no Distrito de Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Estrada Velha do Jaraguá - Rocco Canteruccio o logradouro público inominado conhecido como Estrada Velha do Jaraguá, localizado no Distrito de Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15336",
+   "short": "Lei 15336/2010",
+   "title": "Lei nº 15.336, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15336-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15336",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15336-de-24-de-novembro-de-2010",
+     "sha256": "393d373b9dc1033ba6a566b60d34433859e83d5190c450050fd2c6c40a54d609",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.336, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 179/10, do Vereador Paulo Frange - PTB)\nDenomina Travessa Joel Alvico Barbosa a Viela 10 \"A\", que começa na Rua Francisco Bellazzi e termina na Rua Presidente Félix Paiva, no Distrito Anhanguera, na Subprefeitura de Perus, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Joel Alvico Barbosa a Viela 10 \"A\" (2º e 3º trechos), que começa na Rua Francisco Bellazzi (Setor 202 - Quadras 4 e 5) e termina na Rua Presidente Félix Paiva, no Distrito Anhanguera, Subprefeitura de Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15337",
+   "short": "Lei 15337/2010",
+   "title": "Lei nº 15.337, de 24/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15337-de-24-de-novembro-de-2010",
+   "first_law": "lei-2010-15337",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15337-de-24-de-novembro-de-2010",
+     "sha256": "288876d26bac18684df2b250c1c8773c223c0a89e4814d4267aeb71d3b2ea8e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.337, DE 24 DE NOVEMBRO DE 2010\n(Projeto de Lei nº 197/10, do Vereador Donato - PT)\nDenomina Praça Recanto dos Amigos o espaço livre público inominado delimitado pelas Ruas Severino Vilar Filho e Evandro Danton Ferreira Gandra, situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Recanto dos Amigos o espaço livre público inominado delimitado pelas Ruas Severino Vilar Filho e Evandro Danton Ferreira Gandra (Setor 78 - Quadra 35), situado no Distrito de São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15338",
+   "short": "Lei 15338/2010",
+   "title": "Lei nº 15.338, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15338-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15338",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15338-de-29-de-novembro-de-2010",
+     "sha256": "5ab0e1a01826f8ad219a3517a8f61a146d7c3c4b67b6db744f500f9e51fcd756",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.338 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 334/10)(VEREADOR JUSCELINO GADELHA - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Grito Cultural Reggae, a ser comemorado anualmente no dia 23 de maio, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"23 de maio: o Dia do Grito Cultural Reggae.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 14.554, de 23 de outubro de 2007.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15339",
+   "short": "Lei 15339/2010",
+   "title": "Lei nº 15.339, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15339-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15339",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15339-de-29-de-novembro-de-2010",
+     "sha256": "9720269f6582b1c072ff2d03cbb8bf8ca747928ba4baf8cdaed89e7921f08738",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.339 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 250/10)(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Evento de Moda Casa de Criadores, a ser comemorado semestralmente nas últimas semanas de maio e novembro, respectivamente, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"últimas semanas de maio e novembro: o Evento de Moda Casa de Criadores, a ser comemorado com homenagens e eventos de divulgação.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15340",
+   "short": "Lei 15340/2010",
+   "title": "Lei nº 15.340, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15340-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15340",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15340-de-29-de-novembro-de-2010",
+     "sha256": "052c2909809a41106e53800d1567c409b3279e02a66970a68c8ea50a23b700a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.340 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 186/10)(VEREADOR TONINHO PAIVA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Luso-Brasileira, a ser realizada, anualmente, de 22 a 26 de abril, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido um inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"22 a 26 de abril: a Semana Luso-Brasileira, em homenagem à contribuição ao povo brasileiro desde o descobrimento do Brasil até os dias atuais, tendo por objetivo identificar as raízes sociopolítico culturais, durante a qual serão realizados festivais, palestras e seminários vinculados à história geral e do Brasil, enfatizando o vínculo Brasil-Portugal, envidando esforços para divulgar a data de 22 de abril com o seu legado de importância, tendo, também como alvo, principalmente, os alunos da rede municipal de ensino.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15341",
+   "short": "Lei 15341/2010",
+   "title": "Lei nº 15.341, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15341-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15341",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15341-de-29-de-novembro-de-2010",
+     "sha256": "dc256808e89413d73d16a311d279e4764bdbb9f0f0a5a394daca846be3dcbc29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.341 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 166/10)(VEREADOR GILSON BARRETO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento Corrida de Pedestres do Bairro do Tatuapé, a ser realizado anualmente no mês de setembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXXXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o evento Corrida de Pedestres do Bairro do Tatuapé.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15342",
+   "short": "Lei 15342/2010",
+   "title": "Lei nº 15.342, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15342-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15342",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15342-de-29-de-novembro-de-2010",
+     "sha256": "7704f33f537d4c2f2433f4d30f177ec291fad46bc13a7a84345612e7d5d86c70",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.342 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 369/09)(VEREADOR CHICO MACENA - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para fixar o dia 07 de fevereiro para a comemoração anual do Dia de Ermelino Matarazzo, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido um inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"7 de fevereiro: Dia de Ermelino Matarazzo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a alínea \"b\" do inciso LXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15343",
+   "short": "Lei 15343/2010",
+   "title": "Lei nº 15.343, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15343-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15343",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15343-de-29-de-novembro-de-2010",
+     "sha256": "0d7bc8fd9a9c4d3fcb09811fe3c231e3756615ce13b3b8180abc83bca5f9ba92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.343 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 147/10)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal da Bengala Branca, a ser comemorado anualmente no dia 15 de outubro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia Municipal da Bengala Branca, símbolo de independência, liberdade e confiança das pessoas com deficiência visual e/ou com visão subnormal.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15344",
+   "short": "Lei 15344/2010",
+   "title": "Lei nº 15.344, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15344-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15344",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15344-de-29-de-novembro-de-2010",
+     "sha256": "841a52611afb9f3081cf6822c9a6d748d258cf846064a05860c8bb30291b1977",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.344 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 153/10)(VEREADOR USHITARO KAMIA - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a comemoração da Semana das Cerejeiras em Flor, a ter início anualmente no primeiro domingo de agosto, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"semana com início no primeiro domingo de agosto: a Semana das Cerejeiras em Flor, tendo como objetivo a organização e promoção de solenidades comemorativas pela Associação das Cerejeiras do Parque do Carmo ou, na impossibilidade desta, por entidade privada sem fins lucrativos por ela indicada, sempre que possível com o apoio do Poder Público.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 10.749, de 15 de setembro de 1989.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15345",
+   "short": "Lei 15345/2010",
+   "title": "Lei nº 15.345, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15345-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15345",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15345-de-29-de-novembro-de-2010",
+     "sha256": "5801b606ee14c0323462d1136f51783d86c888f4396dca95f81206248542e212",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.345 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 180/10)(VEREADOR USHITARO KAMIA - DEMOCRATAS)\nAltera o inciso CCLV, do art. 7º, da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Evangélico, Jornalista Evangélico, Imprensa e Meios de Mídia Evangélica, a ser comemorado, anualmente, em 1º de novembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o inciso CCLV, do art. 7º, da Lei nº 14.485, de 19 de julho de 2007, que passa a exibir a seguinte redação:\n\"CCLV - 1º de novembro: Dia do Evangélico, Jornalista Evangélico, Imprensa e Meios de Mídia Evangélica, com a realização de solenidades comemorativas, tais como reuniões, palestras e eventos próprios.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15346",
+   "short": "Lei 15346/2010",
+   "title": "Lei nº 15.346, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15346-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15346",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15346-de-29-de-novembro-de-2010",
+     "sha256": "6116b9866a90f5099ae091800318ca4f9df9d94397538543b2178ea6ae08ef00",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.346 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 182/10)(VEREADOR NETINHO DE PAULA - PC do B)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Policial Ferroviário Federal, a ser comemorado anualmente no dia 27 de julho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"27 de julho: o Dia Municipal do Policial Ferroviário Federal, visando enaltecer a importância da participação destes trabalhadores.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15347",
+   "short": "Lei 15347/2010",
+   "title": "Lei nº 15.347, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15347-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15347",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15347-de-29-de-novembro-de-2010",
+     "sha256": "6c114fb9c986f7910a37bc64299f02a06d222a23fe480118d47861ab3b20960f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.347 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 184/10)(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Conscientização da Cardiopatia Congênita, a ser realizado anualmente no dia 12 de junho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia da Conscientização da Cardiopatia Congênita.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15348",
+   "short": "Lei 15348/2010",
+   "title": "Lei nº 15.348, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15348-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15348",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15348-de-29-de-novembro-de-2010",
+     "sha256": "f347ee9a6eb3e64fee3fd5afc280ff3a1a1f4468eacbccab138bd0a6e428cd78",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.348 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 201/10)(VEREADOR USHITARO KAMIA - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Orientação sobre Mucopolissacaridose, a ser realizado anualmente no dia 15 de maio, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia Municipal de Orientação sobre Mucopolissacaridose, tendo como objetivo a organização e promoção de solenidades comemorativas pela APMSP - Associação Paulista dos Familiares e Amigos dos Portadores de Mucopolissacaridose ou, na impossibilidade desta, por entidade privada sem fins lucrativos por ela indicada, sempre que possível com o apoio do Poder Público.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15349",
+   "short": "Lei 15349/2010",
+   "title": "Lei nº 15.349, de 29/11/2010 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aprendiz, a ser comemorado anualmente no dia 19 de dezembro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15349-de-09-de-novembro-de-2010",
+   "first_law": "lei-2010-15349",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15349-de-09-de-novembro-de-2010",
+     "sha256": "136c3846849e87499035f509f7d80dd78e4e891d64fd1fea7781eba7c1aa57ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.349 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 213/10)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aprendiz, a ser comemorado anualmente no dia 19 de dezembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"19 de dezembro: o Dia do Aprendiz, no qual serão homenageados os adolescentes aprendizes, representando os programas de aprendizagem em que estão inseridos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15350",
+   "short": "Lei 15350/2010",
+   "title": "Lei nº 15.350, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15350-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15350",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15350-de-29-de-novembro-de-2010",
+     "sha256": "96a84ba0652ded4bc99189b6d2283fd2d18c61278360a03600855d75a7d9ad5e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.350 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 217/10)(VEREADOR USHITARO KAMIA - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Orientação sobre Hemangiomas, Linfangiomas e Síndromes Hemangiomatosas, a ser realizado anualmente no dia 15 de maio, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia Municipal de Orientação sobre Hemangiomas, Linfangiomas e Síndromes Hemangiomatosas, tendo como objetivo a organização e promoção de solenidades comemorativas pela ABRAPHEL - Associação Brasileira das Pessoas com Hemangiomas e Linfangiomas ou, na impossibilidade desta, por entidade privada sem fins lucrativos por ela indicada, sempre que possível com o apoio do Poder Público.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15351",
+   "short": "Lei 15351/2010",
+   "title": "Lei nº 15.351, de 29/11/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15351-de-29-de-novembro-de-2010",
+   "first_law": "lei-2010-15351",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15351-de-29-de-novembro-de-2010",
+     "sha256": "8632b9348118dc81d09ade5f5ae9a9ee3d896f4badc638cd25d3171acae236e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.351 DE 29 DE NOVEMBRO DE 2010\n(PROJETO DE LEI Nº 427/10)(VEREADOR PENNA - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o evento Design na Brasa, a ser realizado anualmente na segunda semana do mês de setembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CCIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o evento Design na Brasa, com o objetivo de conscientizar a população sobre o respeito às práticas profissionais que levem em conta a proteção ao meio ambiente, a preservação dos recursos renováveis, alternativas sustentáveis aos recursos não renováveis e a preocupação com as gerações futuras, mediante a organização e promoção de palestras, debates, oficinas, apresentações culturais, exposições de designers, arte e artesanato.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 30 de novembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 30 de novembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15352",
+   "short": "Lei 15352/2010",
+   "title": "Lei nº 15.352, de 20/12/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15352-de-20-de-dezembro-de-2010",
+   "first_law": "lei-2010-15352",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15352-de-20-de-dezembro-de-2010",
+     "sha256": "8a9bf83e82ec4f520d9b3582d51f67628ba5b5992bf38b792aaf4198ade60f3c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.352, DE 20 DE DEZEMBRO DE 2010\n(Projeto de Lei nº 70/10, do Vereador Quito Formiga - PR)\nDispõe sobre a permanência de ambulância nos locais de realização de provas para vestibular, seleção, concursos e demais eventos similares, no âmbito da Cidade de São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As entidades responsáveis pela organização e/ou realização de vestibulares, seleções, concursos e demais eventos similares que aglutinem no mesmo local 1500 ou mais pessoas deverão manter no lugar de realização do evento, às suas expensas, equipe médica e ambulância para atendimento e ocorrências médicas.\n§ 1º Os profissionais da equipe médica de que trata a presente lei deverão estar habilitados e inscritos nos órgãos profissionais competentes, na forma da legislação vigente.\n§ 2º Os veículos utilizados na atividade prevista por esta lei, além de dispor de sinais identificadores, deverão contar com equipamentos médicos necessários para a manutenção da vida e atender as condições mínimas destinada ao transporte inter-hospitalar e ao atendimento pré-hospitalar.\n§ 3º A disponibilidade da ambulância é a mesma que o período de realização do evento, devendo a sua permanência anteceder meia hora à abertura dos portões no dia das provas e meia hora após o encerramento, posicionando-se em local estratégico, com facilidade de acesso e locomoção.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A entidade promotora do evento será responsabilizada pelos danos decorrentes da falta dos recursos instituídos por esta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento dos dispositivos desta lei acarretará ao infrator a imposição de multa de R$ 2.139,60 (dois mil, cento e trinta e nove reais e sessenta centavos).\nParágrafo único. A multa prevista no \"caput\" deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público Municipal regulamentará esta lei no prazo de 90 (noventa) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de dezembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 20 de dezembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

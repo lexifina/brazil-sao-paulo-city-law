@@ -17,7 +17,7 @@ from br_city_get import Host  # noqa: E402
 
 BASE = 'https://legislacao.prefeitura.sp.gov.br'
 CACHE = HERE / '.cache'
-H = Host(CACHE, 'legislacao.prefeitura.sp.gov.br', delay=3.0)
+H = Host(CACHE, 'legislacao.prefeitura.sp.gov.br', delay=3.0, daily_cap=5000)  # ~5,000 a UTC day (2026-11-01 rule)
 LOM = '/leis/lei-0-de-04-de-abril-de-1990'
 
 

@@ -1,0 +1,2644 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2007-14259": {
+   "label": "Lei nº 14.259, de 03/01/2007",
+   "title": "Dispõe sobre a estrutura e atribuições da procuradoria da Câmara Municipal de São Paulo e da outras providências.",
+   "kind": "law",
+   "enacted": "2007-01-03",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14259-de-3-de-janeiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14260": {
+   "label": "Lei nº 14.260, de 08/01/2007",
+   "title": "Confere nova redação ao § 2º do art. 1º da Lei nº 14.129, de 11 de janeiro de 2006, e autoriza o Executivo a reabrir o prazo para ingresso no Programa de Parcelamento Incentivado - PPI no Município de São Paulo. Corrige os arts. 26 e 27 da Lei nº 14.125, de 29 de dezembro de 2005.",
+   "kind": "law",
+   "enacted": "2007-01-08",
+   "published": "2007-01-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14260-de-08-de-janeiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14261": {
+   "label": "Lei nº 14.261, de 09/01/2007",
+   "title": "INSTITUI O DIA DO MOTOBOY (MOTO-FRETE) E DA OUTRAS PROVIDENCIAS. (MARCIO YOUSSEF)",
+   "kind": "law",
+   "enacted": "2007-01-09",
+   "published": "2007-01-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14261-de-9-de-janeiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14262": {
+   "label": "Lei nº 14.262, de 24/01/2007",
+   "title": "ALTERA OS ARTS.23 E 30, ALINEA \"J\", AMBOS DA LEI 13131/01, E DA OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2007-01-24",
+   "published": "2007-01-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14262-de-24-de-janeiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14263": {
+   "label": "Lei nº 14.263, de 29/01/2007",
+   "title": "Institui o Programa Câmara Municipal de São Paulo nas Escolas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-01-29",
+   "published": "2007-01-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14263-de-29-de-janeiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14264": {
+   "label": "Lei nº 14.264, de 06/02/2007",
+   "title": "Estabelece normas para a utilização de caixas descartáveis e retornáveis no acondicionamento, transporte, distribuição e venda de alimentos hortifrutícolas \"in natura\" no âmbito do Município de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-02-06",
+   "published": "2007-02-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14264-de-6-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14265": {
+   "label": "Lei nº 14.265, de 06/02/2007",
+   "title": "ALTERA O ART. 2. DA LEI N. 14146, DE 11 DE ABRIL DE 2006, E DA OUTRAS PROVIDENCIAS.(PL 501/06)",
+   "kind": "law",
+   "enacted": "2007-02-06",
+   "published": "2007-02-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14265-de-6-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14267": {
+   "label": "Lei nº 14.267, de 06/02/2007",
+   "title": "Estabelece obrigatoriedade de instalação de equipamentos hidráulicos de consumo econômico, nas edificações da Administração Municipal direta e indireta, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-02-06",
+   "published": "2007-02-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14267-de-6-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14268": {
+   "label": "Lei nº 14.268, de 06/02/2007",
+   "title": "Institui a gratuidade dos serviços de exumação e dos meios a ele necessários à população de baixa renda, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-02-06",
+   "published": "2007-02-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14268-de-6-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14269": {
+   "label": "Lei nº 14.269, de 13/02/2007",
+   "title": "DENOMINA PRACA CORONEL DJALMA MIKAHIL ESPACO PUBLICO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DE VILA ANDRADE, E DA OUTRAS PROVIDENCIAS.(PL 614/05)",
+   "kind": "law",
+   "enacted": "2007-02-13",
+   "published": "2007-02-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14269-de-13-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14270": {
+   "label": "Lei nº 14.270, de 15/02/2007",
+   "title": "DENOMINA PRACA AGENTE WASHINGTON GOMES DE CAMPOS O ESPACO LIVRE PUBLICO SEM DENOMINACAO SITUADO NO DISTRITO DA SAUDE, NA SUBPREFEITURA DE VILA MARIANA, E DA OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2007-02-15",
+   "published": "2007-02-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14270-de-15-de-fevereiro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14271": {
+   "label": "Lei nº 14.271, de 05/03/2007",
+   "title": "INSTITUI NO MUNICIPIO DE SAO PAULO A SEMANA DE PREVENCAO E COMBATE A DEPRESSAO, A SER LEMBRADA NA PRIMEIRA SEMANA DO MES DE AGOSTO DE CADA ANO, E DA OUTRAS PROVIDENCIAS.(PL 216/06)",
+   "kind": "law",
+   "enacted": "2007-03-05",
+   "published": "2007-03-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14271-de-5-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14272": {
+   "label": "Lei nº 14.272, de 09/03/2007",
+   "title": "DENOMINA TRAVESSA JOAO BATISTA MATAREZIO FILHO O LOGRADOURO PUBLICO INOMINADO, CODLOG 24.206-3, LOCALIZADO NA VILA CURUCA (SETOR 139, QUADRA 60), E D A OUTRAS PROVIDENCIAS (PL 148/05).",
+   "kind": "law",
+   "enacted": "2007-03-09",
+   "published": "2007-03-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14272-de-9-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14273": {
+   "label": "Lei nº 14.273, de 09/03/2007",
+   "title": "DENOMINA PRACA RAMIREZ FERREIRA O ESPACO LIVRE SEM DENOMINACAO DELIMITADO PELA AVENIDA PRESIDENTE JOAO GOULART E RUA AUGUSTO FILIPE SIMOES,E DA OUTRAS PROVIDENCIAS (PL 416/05).",
+   "kind": "law",
+   "enacted": "2007-03-09",
+   "published": "2007-03-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14273-de-9-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14274": {
+   "label": "Lei nº 14.274, de 09/03/2007",
+   "title": "INSTITUI O EVENTO DENOMINADO MES DA CONSCIENTIZACAO PELA MANUTENCAO PREVENTIVA DOS AUTOMOVEIS, E DA OUTRAS PROVIDENCIAS.(PL 271/06)",
+   "kind": "law",
+   "enacted": "2007-03-09",
+   "published": "2007-03-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14274-de-9-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14275": {
+   "label": "Lei nº 14.275, de 21/03/2007",
+   "title": "INSTITUI O DIA DO INVESTIGADOR DE POLICIA, E DA OUTRAS PROVIDENCIAS. (PL 436/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14275-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14276": {
+   "label": "Lei nº 14.276, de 21/03/2007",
+   "title": "INSTITUI O DIA DO IMIGRANTE PORTUGUES, A SER COMEMORADO ANUALMENTE NO DIA 22 DE ABRIL, E DA OUTRAS PROVIDENCIAS. (PL 180/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14276-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14277": {
+   "label": "Lei nº 14.277, de 22/03/2007",
+   "title": "INSTITUI O DIA DOS ARAUTOS DO EVANGELHO, E DA OUTRAS PROVIDENCIAS. (PL 191/06)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14277-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14278": {
+   "label": "Lei nº 14.278, de 21/03/2007",
+   "title": "INCLUI NO CALENDARIO OFICIAL DO MUNICIPIO DE SAO PAULO O DIA DA COMUNIDADE MUCULMANA, E DA OUTRAS PROVIDENCIAS. (PL 536/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14278-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14279": {
+   "label": "Lei nº 14.279, de 21/03/2007",
+   "title": "INSTITUI NO CALENDARIO OFICIAL DO MUNICIPIO DE SAO PAULO O DIA DO BAIRRO DE SANTA IFIGENIA, E DA OUTRAS PROVIDENCIAS. (PL 582/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14279-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14280": {
+   "label": "Lei nº 14.280, de 21/03/2007",
+   "title": "INSTITUI O DIA DO TURISMO ETNICO AFRO-BRASILEIRO. (PL 590/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14280-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14281": {
+   "label": "Lei nº 14.281, de 21/03/2007",
+   "title": "INSTITUI O DIA DOS MULTIPLOS NA CIDADE DE SAO PAULO E DA OUTRAS PROVIDENCIAS. (PL 647/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14281-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14282": {
+   "label": "Lei nº 14.282, de 21/03/2007",
+   "title": "INSTITUI O DIA DO BARISTA, NO CALENDARIO OFICIAL MUNICIPAL, A SER COMEMORADO NO DIA 24 DE MAIO DE CADA ANO, NO AMBITO DO MUNICIPIO E DA OUTRAS PROVIDENCIAS. (PL 668/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14282-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14283": {
+   "label": "Lei nº 14.283, de 21/03/2007",
+   "title": "INSTITUI O DIA DO DIRETOR DE ESCOLA MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 676/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14283-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14284": {
+   "label": "Lei nº 14.284, de 21/03/2007",
+   "title": "INSTITUI O DIA DO SUPERVISOR ESCOLAR MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 677/06)",
+   "kind": "law",
+   "enacted": "2007-03-21",
+   "published": "2007-03-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14284-de-21-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14285": {
+   "label": "Lei nº 14.285, de 22/03/2007",
+   "title": "DENOMINA PRACA ABADIA ANTONIA CANOVA O ESPACO LIVRE SEM DENOMINACAO INICIADO NA RUA CALIXTO DE ALMEIDA, 695 DISTRITO DE FREGUESIA DO O, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.342/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14285-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14286": {
+   "label": "Lei nº 14.286, de 22/03/2007",
+   "title": "DENOMINA TRAVESSA DONA MARGARIDA PIMENTA DE NEGREIROS O LOGRADOURO PUBLICO SEM DENOMINACAO, LOCALIZADO ENTRE A RUA MARGARIDA CARLOS DE ALBUQUERQUE E ARUA DOMINGOS FERNANDES FARIA (SETOR 192-QUADRA 89), NO DISTRITO DE ITAIM PAULISTA, E DA OUTRAS PROVICENCIAS.(PROJETO DE LEI N. 424/05).",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14286-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14287": {
+   "label": "Lei nº 14.287, de 22/03/2007",
+   "title": "DENOMINA PRACA SENHOR DO VALE O ESPACO PUBLICO INOMINADO DELIMITADO PELAS RUAS CIRIACO JIMENEZ,BONAVENTURA VIVIANI, ANTONIO DE CABEZON,BLAS PARERA E BELTRANE FERAGUT,DISTRITO DO JARAGUA,E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.503/05).",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14287-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14288": {
+   "label": "Lei nº 14.288, de 22/03/2007",
+   "title": "DENOMINA PRACA CAETANA FARANI DE CARVALHO O ESPACO LIVRE SEM DENOMINACAO,SITUADO NO DISTRITO DO MANDAQUI, E DA OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14288-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14289": {
+   "label": "Lei nº 14.289, de 22/03/2007",
+   "title": "DENOMINA PRACA J.J. ALVIM PASSOS O LOGRADOURO PUBLICO INOMINADO, CODLOG 35.817-7, LOCALIZADO NO JARDIM MARAJOARA, DISTRITO DE CAMPO GRANDE(SETOR 90-QUADRA 404) E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.535/05).",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14289-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14290": {
+   "label": "Lei nº 14.290, de 22/03/2007",
+   "title": "DENOMINA PRACA GERALDO FELIX DOS SANTOS O ESPACO LIVRE SEM DENOMINACAO DELIMITADO PELAS RUAS EURICO DE AZEVEDO MARQUES, PROF LEITAO DA CUNHA E AVENIDA SILVIO RIBEIRO ARAGAO, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 623/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14290-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14291": {
+   "label": "Lei nº 14.291, de 22/03/2007",
+   "title": "DENOMINA PRACA EMILINHA BORBA O ESPACO LIVRE SEM DENOMINACAO SITUADO NO DISTRITO DE MOEMA, SUBPREFEITURA DE VILA MARIANA.(PROJETO DE LEI N.641/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14291-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14293": {
+   "label": "Lei nº 14.293, de 22/03/2007",
+   "title": "DENOMINA PRACA COMENDADOR JOSUE BARBOSA LIRA O ESPACO LIVRE SEM DENOMINACAO SITUADO NA CONFLUENCIA DAS RUAS TRISTAO JOSE TEIXEIRA E JOAO FELISBERTO MOREIRA (SETOR 112-QUADRA 398),BAIRRO PARQUE SONIA, DISTRITO DE SAO MIGUEL PAULISTA, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.673/05).",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14293-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14294": {
+   "label": "Lei nº 14.294, de 22/03/2007",
+   "title": "DENOMINA TRAVESSA JOAO ALVES BARBOSA A VIELA \"10\", QUE COMECA NA RUA LAGOA DA SERRA E TERMINA NA RUA PADRE ACHILLES SILVESTRE,NO JARDIM PAULISTANO,BRASILANDIA, E DA OUTRAS PROVIDENCIAS. (PL N. 770/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14294-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14295": {
+   "label": "Lei nº 14.295, de 22/03/2007",
+   "title": "DENOMINA PRACA MICHIE AKAMA O ESPACO PUBLICO LIVRE SEM DENOMINACAO, SITUADO NO BAIRRO DE VILA MARIANA, E DA OUTRAS PROVIDENCIAS. ( PROJETO DE LEI N.724/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14295-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14296": {
+   "label": "Lei nº 14.296, de 22/03/2007",
+   "title": "DENOMINA PRACA NAIR ARVANI DE MEDEIROS O ESPACO LIVRE SEM DENOMINACAO DELIMITADO PELAS RUAS CARLOS KLEIN, FRANCISCO MENDES E ANTONIOFRANCISCO FRANCA , E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.794/05)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14296-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14297": {
+   "label": "Lei nº 14.297, de 22/03/2007",
+   "title": "DENOMINA PRACA ANTONIO BORGES MALTA O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DA VILA FORMOSA, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.149/06)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14297-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14298": {
+   "label": "Lei nº 14.298, de 22/03/2007",
+   "title": "DENOMINA TRAVESSA MARIA ASSAD SALIBA REGIANI LOGRADOURO PUBLICO,CONHECIDO COMO VIELA \"A\",COMECA NA RUA NICANOR GARCIA, ENTRE RUA PROF.ARTUR PRIMAVESI E VIELA CONHECIDA POR \"B\"TERMINA 30(TRINTA)METROS ALEM DO SEU INICIO(SETOR157-QUADRA197),SACOMA,SMSP/SP/IP E DA OUTRAS PROVIDENCIAS.(PL 220/06)",
+   "kind": "law",
+   "enacted": "2007-03-22",
+   "published": "2007-03-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14298-de-22-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14299": {
+   "label": "Lei nº 14.299, de 27/03/2007",
+   "title": "DENOMINA TUNEL TAKEHARU AKAGAWA LOGRADOURO PUBLICO QUE CONSTITUI A LIGACAO ENTRE A AVENIDA SANTO AMARO E A AVENIDA SAO GABRIEL, SITUADO NO DISTRITO JARDIM PAULISTA, E DA OUTRAS PROVIDENCIAS. (PROJETO DE LEI 238/05)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14299-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14300": {
+   "label": "Lei nº 14.300, de 27/03/2007",
+   "title": "DENOMINA PRACA LAZER DAS CRIANCAS O ESPACO LIVRE SEM DENOMINACAO LOCALIZADO NO DISTRITO DO TREMEMBE, SUBPREFEITURA DO TREMEMBE/JACANA, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 317/05)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14300-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14301": {
+   "label": "Lei nº 14.301, de 27/03/2007",
+   "title": "DENOMINA TRAVESSA ANTONIO BORELLI O LOGRADODURO PUBLICO SEM DENOMINACAO CODLOG 72438-6, LOCALIZADO NO DISTRITO DO LIMAO, SUBPREFEITURA CASA VERDE/CACHOEIRINHA.(PROJETO DE LEI 462/05)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14301-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14302": {
+   "label": "Lei nº 14.302, de 27/03/2007",
+   "title": "DENOMINA PRACA CLAUDINO RODRIGUES JARDIM JUNIOR O ESPACO PUBLICO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DO JARDIM SAO LUIS, E DA OUTRAS PROVIDENCIAS. (PROJETO DE LEI 716/05)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14302-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14303": {
+   "label": "Lei nº 14.303, de 27/03/2007",
+   "title": "DENOMINA RUA FIDELIS BARBOSA O LOGRADOURO PUBLICO INOMINADO, CODLOG 67264-5,LOCALIZADO NO DISTRITO DE VILA JACUI, SUBPREFEITURA DE SAO MIGUEL PAULISTA.(PROJETO DE LEI 232/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14303-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14304": {
+   "label": "Lei nº 14.304, de 27/03/2007",
+   "title": "DENOMINA PRACA ALBERTO AUGUSTO MESTIERI O ESPACO LIVRE SEM DENOMINACAO,DELIMITADO PELAS RUAS ATILIO DE OLIVEIRA, JUPYRA CUNHA MARCONDES, PROFESSOR HAROLDO NOGUEIRA E LOTES PARTICULARES,DISTRITO DO GRAJAU,SUBPREFEITURA DO SOCORRO, E DA OUTRAS PROVIDENCIAS. (PL 233/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14304-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14305": {
+   "label": "Lei nº 14.305, de 27/03/2007",
+   "title": "DENOMINA TRAVESSA ALI KASSEN ABOU JOKH LOGRADOURO PUBLICO INOMINADO, QUE COMECA NA RUA JULIAO FERREIRA DA SILVA, ALTURA DO N.196, NO BAIRRO DA VILA NOVA CACHOEIRINHA, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 236/05)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14305-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14306": {
+   "label": "Lei nº 14.306, de 27/03/2007",
+   "title": "DENOMINA PRACA WALDEMAR BATISTA DE OLIVEIRA O ESPACO LIVRE SEM DENOMINACAO DA GLEBA \"A\" DO JARDIM ELIANA, DELIMITADOD PELAS RUAS ANTONIO LOPES DE MEDEIROS, CLARISSA E AMAZONAS MARCONDES (SETOR 174-QUADRAS 249,250 E 265, NA SUBPREFEITURA DE CAPELA DO SOCORRO, E DA OUTRAS PROVIDENCIAS.(PL 238/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14306-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14307": {
+   "label": "Lei nº 14.307, de 27/03/2007",
+   "title": "DENOMINA PRACA CHIROAKI TAKAHASHI O LOGRADOURO PUBLICO INOMINADO SITUADO NO BAIRRO DO JACANA, DISTRITO DO JACANA E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 254/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14307-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14308": {
+   "label": "Lei nº 14.308, de 27/03/2007",
+   "title": "DENOMINA TRAVESSA MILENIO A ATUAL VIELA SEM DENOMINACAO LOCALIZADA NA SUBPREFEITURA DE CIDADE ADEMAR, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 262/06.",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14308-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14309": {
+   "label": "Lei nº 14.309, de 27/03/2007",
+   "title": "DENOMINA PRACA BENEDITO GERALDO BERTI O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELA AVENIDA ADOLFO PINHEIRO E RUAS SALOMAO KARLIK E CONDE DE ITU,NO DISTRITO DE SANTO AMARO, SUBPREFEITURA DE SANTO AMARO, E DA OUTRAS PROVIDENCIAS. (PROJETO DE LEI 268/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14309-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14310": {
+   "label": "Lei nº 14.310, de 27/03/2007",
+   "title": "DENOMINA PRACA EDITH DOS SANTOS REIS O ESPACO LIVRE SEM DENOMINACAO DELIMI TADO PELAS RUAS JOSE MAURO DE VASCONCELOS, FREI ADRIANO DONADO, JOAO DE ALMEIDA E SILVA E RUA SEM DENOMINACAO (SETOR 125-QUADRAS 12, 13 E 167) NO DISTRITO DE PIRITUBA E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 281/06)",
+   "kind": "law",
+   "enacted": "2007-03-27",
+   "published": "2007-03-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14310-de-27-de-marco-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2007-14259",
+   "short": "Lei 14259/2007",
+   "title": "Lei nº 14.259, de 03/01/2007 (Dispõe sobre a estrutura e atribuições da procuradoria da Câmara Municipal de São Paulo e da outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14259-de-3-de-janeiro-de-2007",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2007-14259"
+   ],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14259-de-3-de-janeiro-de-2007",
+     "sha256": "d9b6376f3e810d56d530b11085dcbe2fe72bbe23545a7ed4bbc33e6eb21d4377",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.259 DE 03 DE JANEIRO DE 2007\n(PROJETO DE LEI Nº 392/05)\n(MESA DA CÂMARA)\nDispõe sobre a estrutura e atribuições da Procuradoria da Câmara Municipal de São Paulo e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Procuradoria-Geral da Câmara Municipal de São Paulo, órgão que desenvolve atividades exclusivas de Estado que se inserem nas funções essenciais à Justiça nos termos do Capítulo IV, Seção II, art. 132 da Constituição Federal, integra a estrutura da Câmara Municipal de São Paulo subordinando-se diretamente à Mesa Diretora e terá por atribuições exclusivas a representação judicial, bem como a consultoria e o assessoramento técnico-jurídico da Câmara Municipal, competindo-lhe:\nI - elaborar e revisar minutas de contratos, ajustes e convênios;\nII - elaborar parecer jurídico sobre abertura de licitação, dispensa ou inexigibilidade;\nIII - processar e presidir procedimentos disciplinares e sindicâncias em geral;\nIV - elaborar pareceres e manifestações jurídicas em processos administrativos;\nV - atuar judicial e administrativamente na defesa dos interesses e prerrogativas da Câmara Municipal de São Paulo, do Sr. Presidente e, mediante prévia solicitação e autorização da Mesa, na defesa judicial dos Vereadores no tocante aos atos praticados no exercício de suas prerrogativas, observada, em qualquer caso, a competência institucional da Procuradoria Geral do Município para defender, judicial e extrajudicialmente, os direitos e interesses da Fazenda Municipal;\nVI - prestar assessoramento e consultoria jurídica à Mesa, à Presidência, aos Vereadores, às Comissões Permanentes e Temporárias, ao Secretário Geral Parlamentar, ao Secretário Geral Administrativo e a quem for determinado pela Mesa;\nVII - elaborar proposições ou assessorar juridicamente os Vereadores na elaboração legislativa;\nVIII - apresentar análise jurídica quanto à constitucionalidade e à legalidade das proposições submetidas à Comissão de Constituição e Justiça;\nIX - prestar assessoramento e emitir pareceres jurídicos quando solicitado pela Presidência e pela Mesa, sobre questões regimentais suscitadas dentro e fora das sessões plenárias;\nX - planejar anualmente suas atividades, e emitir relatório anual de atividades desenvolvidas;\nXI - dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa Diretora.\nXII - prestar assessoramento ao Presidente na realização da análise prévia de admissibilidade dos projetos, realizando pesquisa de legislação e projetos anteriores, indicando a existência de legislação e projetos que tenham por objeto matéria correlata, e na designação das Comissões Permanentes pelas quais os projetos deverão tramitar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Procuradoria-Geral da Câmara Municipal de São Paulo desenvolverá suas atividades por intermédio dos 6 (seis) setores e 2 (duas) equipes em que se subdivide, já previstos no Quadro de Pessoal do Legislativo, Anexo III da Lei nº 13.637, de 2003, aos quais compete:\nI - Setor Jurídico-Administrativo, orientado por um Procurador Supervisor:\na) presidir e processar procedimentos disciplinares e sindicâncias;\nb) emitir pareceres e manifestações jurídicas em processos administrativos;\nc) manifestar-se em processos instaurados no âmbito do Tribunal de Contas do Município, sobre sua área de atuação;\nd) prestar assessoria e consultoria à Presidência, à Mesa, aos Vereadores e ao Secretário Geral Administrativo e Secretário Geral Parlamentar em todas as matérias relacionadas aos serviços administrativos da Câmara Municipal de São Paulo;\ne)\nf)\ng) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\nh) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nII - Setor Judicial, orientado por um Procurador Supervisor:\na) atuar judicial e administrativamente na defesa dos interesses e prerrogativas da Câmara Municipal de São Paulo, do Sr. Presidente e na defesa judicial dos Senhores Vereadores, no tocante aos atos praticados no exercício de suas prerrogativas, desde que expressamente solicitada por estes últimos e autorizado pela Mesa;\nb) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\nc) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nIII - Setor do Processo Legislativo, orientado por um Procurador Supervisor:\na) apresentar análise jurídica sobre aspectos de constitucionalidade e legalidade das proposições submetidas à Comissão de Constituição e Justiça;\nb) prestar assessoramento e elaborar pareceres jurídicos à Presidência e à Mesa sobre questões regimentais suscitadas dentro ou fora das sessões plenárias;\nc) prestar assessoramento e consultoria jurídica à Mesa, à Presidência, aos Vereadores, às Comissões Permanentes, ao Secretário Geral Parlamentar e a quem for determinado pela Mesa;\nd) elaborar proposições ou assessorar juridicamente os Vereadores na elaboração legislativa;\ne) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\nf) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nIV - Setor de Contratos e Licitações, orientado por um Procurador Legislativo Supervisor:\na) elaborar e revisar minutas de contratos, ajustes e convênios, bem como se manifestar sobre prorrogações, aditamentos, rescisões, aplicação de penalidade e demais incidentes relativos à execução de contrato firmado pela Câmara Municipal;\nb) elaborar pareceres sobre licitações, bem como sua dispensa e inexigibilidade;\nc) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\nd) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nV - Setor de Elaboração Legislativa, orientado por um Procurador Legislativo Supervisor:\na) elaborar proposições e substitutivos a pedido dos Vereadores, Mesa, Comissões Permanentes e Temporárias, Secretário Geral Parlamentar e Secretário Geral Administrativo;\nb) assessorar juridicamente Vereadores, Mesa e Comissões na elaboração legislativa;\nc) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\nd) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nVI - Setor de Pesquisa e Assessoria de Análise Prévia das Proposituras, orientado por um Procurador Legislativo Supervisor:\na) assessorar o Presidente da Câmara na análise prévia de proposituras e designação das Comissões Permanentes competentes;\nb) realizar pesquisa e informar quanto à existência de similaridade de proposituras em trâmite na mesma sessão legislativa e matéria legal em vigor, a fim de orientar o Presidente da Câmara quanto ao exame de admissibilidade das proposituras;\nc) realizar pesquisa e informar quanto à existência de similaridade de proposituras em trâmite na Câmara Municipal de São Paulo e matéria legal em vigor, a fim de fornecer subsídios ao trabalho das Comissões Permanentes e do Plenário;\nd) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\ne) dar cumprimento a outras atribuições atinentes a sua área de competência, que lhe venham a ser determinadas pela Mesa.\nVII - Equipe de Sistematização de Assuntos Legislativos, liderada por um procurador legislativo Supervisor de Equipe:\na) proceder a estudos, pesquisas e diligências quanto a matéria legal do Município de São Paulo, bem como auxiliar as atividades do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG;\nb) subsidiar a sistematização e compilação de leis municipais e atos da Mesa Diretora, bem como de outros atos normativos de iniciativa parlamentar e, no que couber, de decretos, em meio digital, de modo progressivo, com o auxílio do Centro de Tecnologia da Informação em sua área de atuação;\nc) prestar suporte à consolidação de leis, resoluções ou atos da Mesa Diretora, sempre que solicitado pelo Procurador-Geral Legislativo;\nd) planejar anualmente suas atividades e emitir relatório anual de atividades desenvolvidas;\ne) dar cumprimento a outras atribuições atinentes a sua área de competência que lhe venham a ser determinadas pelo Procurador-Geral Legislativo;\nVIII - Equipe de Integração e Gestão do Conhecimento Jurídico, liderada por um Supervisor de Equipe:\na) organizar a gestão, sistematização e disponibilização das informações relativas a pareceres e orientações emanadas da Procuradoria, tendo em conta as exigências legais de acesso à informação, e de proteção de dados;\nb) prestar assistência à realização de informes periódicos e padronizados sobre a atividade legislativa, sua produção e regulamentação, também no que diz respeito a ações diretas de inconstitucionalidade;\nc) subsidiar o planejamento anual dos diversos setores e equipes da Procuradoria, servindo-se de ferramentas de gestão e dos recursos de tecnologia disponíveis, visando à inovação e eficiência;\nd) planejar anualmente suas atividades e auxiliar no planejamento anual dos Setores, Equipes e Unidade de Expediente da Procuradoria-Geral Legislativa; emitir relatório anual de atividades desenvolvidas pela Equipe e requisitar, quando solicitado pelo Procurador-Geral Legislativo, relatórios de atividades dos Setores, Equipes e Unidade de Expediente da Procuradoria, participando na elaboração desses relatórios e expedindo um relatório unificado;\ne) auxiliar na gestão de contratos dos quais a Procuradoria-Geral Legislativa seja unidade gestora, inclusive elaborando requisições para contratações e praticando os atos necessários a esse fim, conforme orientação direta do Procurador-Geral Legislativo;\nf) promover a divulgação de cursos, eventos, congressos e similares aos servidores da Procuradoria-Geral Legislativa, realizando os atos necessários às respectivas contratações, quando for o caso;\ng) auxiliar na gestão do orçamento destinado à Procuradoria-Geral Legislativa conforme orientação direta do Procurador-Geral Legislativo;\nh) planejar e dar cumprimento a outras atribuições atinentes a sua área de competência que lhe venham a ser determinadas pelo Procurador-Geral Legislativo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Compete aos titulares do cargo efetivo de Procurador Legislativo, cuja carreira integra o Quadro de Pessoal do Legislativo e é composta pelos cargos estruturados em níveis, conforme Anexo I, desta lei, exercer as atribuições de que tratam os artigos antecedentes.\nParágrafo único. O ingresso no cargo de Procurador Legislativo, dar-se-á na referência QPL-15, nível inicial da carreira, e efetivar-se-á por intermédio de concurso público de provas e títulos dentre portadores de diploma de bacharel em Direito e registro na Ordem dos Advogados do Brasil, e nas demais referências por acesso.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os atuais cargos de Assessor Técnico I, II, III e IV, Assessor Técnico Legislativo, Assessor Técnico Supervisor e Assessor Técnico Legislativo Chefe, bem como os cargos de Técnico Parlamentar-área jurídica, que desempenham atribuições privativas de advocacia pública, ficam transformados, na forma prevista no Anexo I, em cargos de Procurador Legislativo e integrados nas disposições desta lei na forma prevista no Anexo II.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os titulares do cargo de Procurador Legislativo originários diretamente dos cargos de Assessor Técnico I, II, III e IV, Assessor Técnico Legislativo, Assessor Técnico Supervisor e Assessor Técnico Legislativo Chefe, poderão, no prazo de 30 (trinta) dias, contados a partir da publicação desta lei, optar pelos vencimentos referentes ao cargo anterior, aplicando-se-lhes o regime jurídico estatuído pela Lei nº 8.989/79, restando-lhes assegurado, a qualquer tempo, a opção pelos vencimentos e pelo regime jurídico do novo cargo.\n§ 1º Transcorrido o prazo estabelecido neste artigo, os servidores de que trata o \"caput\" passarão a perceber os vencimentos do cargo de Procurador Legislativo.\n§ 2º Aos Procuradores Legislativos de que trata o \"caput\" deste artigo que optarem pelos vencimentos do cargo anterior, fica assegurada sua percepção de acordo com as respectivas escalas e padrões de vencimentos, devidamente reajustados nos termos da legislação de reajuste geral de vencimentos.\n§ 3º A opção pela percepção dos vencimentos do cargo de Procurador Legislativo é irretratável e somente produzirá efeitos a partir do mês subseqüente ao protocolo do requerimento de opção.\n§ 4º Fica estendida, por isonomia, na proporção de 1/5 (um quinto) por ano e assim incorporando-se à sua remuneração até a sua integralidade, aos titulares de cargo de Procurador Legislativo em atividade que não a recebem, a parcela de natureza permanente prevista no art. 2º da Lei Municipal nº 13.400, de 1 de agosto de 2002, assegurada a Procuradores Legislativos pelo E. Tribunal de Justiça de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Ficam transformados 40 (quarenta) cargos de Técnico Parlamentar constantes do Anexo I da Lei nº 13.637, de 04/09/03, em Procurador Legislativo, alterando-se a quantidade de cargos de Técnico Parlamentar, constantes do referido Anexo, de 150 (cento e cinqüenta) para 110 (cento e dez), nos termos do Anexo I desta lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica transformada a função gratificada de Procurador Legislativo Chefe para função gratificada de Procurador-Geral Legislativo, referência FG-4, e criada a função de Procurador-Geral Legislativo Adjunto, com a atribuição de assessorar diretamente o Procurador-Geral Legislativo e de substituí-lo em suas licenças e impedimentos, referência FG-3, nos termos do Anexo III desta Lei.\n§ 1º A exigência para exercício da função ora transformada será a designação pelo Presidente da Câmara, dentre os titulares de cargo efetivo de Procurador Legislativo do Quadro de Pessoal Legislativo, com no mínimo 10 (dez) anos de efetivo exercício na carreira.\n§ 2º Excepcionalmente, se não houver servidores efetivos com o tempo de carreira mínimo exigido pelo parágrafo antecedente, poderão ser indicados quaisquer integrantes da carreira.\nParágrafo único. O Anexo III - Quadro de Pessoal do Legislativo - Funções Gratificadas deve ser adequado ao quanto previsto no caput deste artigo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Compete ao Procurador-Geral Legislativo da Câmara Municipal de São Paulo:\nI - orientar e superintender os serviços jurídicos e administrativos da Procuradoria da Câmara Municipal de São Paulo;\nII - receber citações, intimações e demais atos de comunicação oriundos de ações judiciais em que figure como parte a Câmara Municipal de São Paulo ou seu Presidente por ato praticado no exercício de suas atribuições funcionais, podendo substabelecer tais atribuições;\nIII - submeter à apreciação da Mesa proposta de edição de decisão normativa;\nIV - designar Procuradores para exercer funções de assessoramento ou consultoria jurídica às Comissões Permanentes e Temporárias;\nV - propor à Mesa a abertura de concurso para cargos de Procurador;\nVI - presidir a comissão encarregada da organização dos concursos quando incluídos os cargos de Procurador;\nVII - manifestar-se acerca de assunto de relevante interesse para a carreira;\nVIII - indicar ao Presidente o nome dos Procuradores Legislativos designados para exercer as funções gratificadas de Procurador Supervisor e de Supervisor de Equipe nas hipóteses do art. 2º, caput e incisos I a VIII desta Lei.\nIX - opinar quando da eventual proposta de contratação dos serviços de jurista estranho à carreira, para emitir parecer ou prestar outros serviços jurídicos específicos;\nX - propor a realização de cursos relacionados com a carreira;\nXI - desempenhar outras atribuições atinentes a sua área de competência, que lhe forem cometidas pela Mesa ou pelo Presidente da Câmara Municipal de São Paulo.\nParágrafo único. A competência fixada no inciso II deste artigo não inibe o recebimento de citações, intimações e demais atos de comunicação oriundos de ações judiciais pelo Presidente, que os despachará imediatamente à Procuradoria da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ficam transformadas três funções gratificadas de Supervisor de Equipe, constantes do Anexo III da Lei nº 13.637, de 04/09/03, em função gratificada de Procurador Legislativo Supervisor, referência FG-2, alterando-se a quantidade de funções gratificadas de Supervisor de Equipe de 40 (quarenta) para 37 (trinta e sete), nos termos do Anexo III desta lei.\n§ 1º A exigência para exercício das funções ora transformadas será a designação, pelo Presidente da Câmara, dentre os titulares de cargo efetivo de Procurador Legislativo do Quadro de Pessoal Legislativo, com no mínimo 5 (cinco) anos de efetivo exercício na carreira, por indicação do Procurador-Geral Legislativo.\n§ 2º Excepcionalmente, se não houver servidores efetivos com o tempo de carreira mínimo exigido pelo parágrafo antecedente, poderão ser indicados quaisquer integrantes da carreira.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Os proventos e pensões serão revistos e fixados de acordo com as denominações, referência e níveis correspondentes, constantes dos Anexos integrantes desta lei, aplicando-se-lhes as disposições do art. 5º desta lei.\n"
+      },
+      "art-0011-a": {
+       "label": "Art. 11-A",
+       "kind": "article",
+       "text": "Art. 11-A. A verba honorária concedida em todo feito judicial em que figure como parte favorecida a Câmara Municipal de São Paulo e a verba honorária extrajudicial que incidirá em toda transação, compromisso, acordo extrajudicial ou congênere realizado com ou entre terceiros, decorrentes da atividade institucional da Câmara Municipal de São Paulo, por quaisquer de seus órgãos ou comissões permanentes ou temporárias, verba essa fixada em percentual de 10% (dez por cento) do valor total ou do proveito econômico relativos à transação, compromisso, acordo ou congênere, pertencem originariamente aos titulares de cargo efetivo de Procurador Legislativo da Câmara Municipal de São Paulo, nos termos do art. 22, caput, da Lei Federal nº 8.906, de 1994, e do art. 85, § 19, da Lei Federal nº 13.105, de 2015.\n§ 1º A verba honorária devida nos moldes do caput deste artigo será arrecadada pela Câmara Municipal de São Paulo e depositada no Fundo de Honorários da Procuradoria-Geral da Câmara Municipal de São Paulo.\n§ 2º Os recursos depositados no Fundo de Honorários da Procuradoria-Geral da Câmara Municipal de São Paulo apenas poderão ser utilizados da seguinte forma:\nI - para aplicação pro rata em reembolso direto de despesas realizadas para aperfeiçoamentos intelectual, profissional e tecnológico dos titulares de cargo efetivo de Procurador Legislativo da Câmara Municipal de São Paulo ativos; e/ou\nII - para distribuição direta e pro rata aos titulares de cargo efetivo de Procurador Legislativo da Câmara Municipal de São Paulo, ativos e inativos.\n"
+      },
+      "art-0011-b": {
+       "label": "Art. 11-B",
+       "kind": "article",
+       "text": "Art. 11-B. Fica instituído o Fundo de Honorários da Procuradoria-Geral da Câmara Municipal de São Paulo como fundo de natureza contábil, cujas receitas serão provenientes dos honorários advocatícios titularizados pelos procuradores legislativos e arrecadados pela Câmara Municipal de São Paulo em ações judiciais e em todas as transações, compromissos, acordos extrajudiciais ou congêneres realizados com ou entre terceiros, decorrentes da atividade institucional da Câmara Municipal de São Paulo, por quaisquer de seus órgãos ou comissões permanentes ou temporárias, sem a aplicação de recursos públicos, nos termos do art. 11-A desta Lei.\nParágrafo único. A administração e direção do Fundo de Honorários da Procuradoria-Geral da Câmara Municipal de São Paulo ficam exclusivamente a cargo da Procuradoria-Geral, por meio do Conselho Gestor do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG que contará com o auxílio e a colaboração profissional dos demais órgãos técnicos da casa, quando assim solicitado pela Procuradoria e principalmente para a apuração, o recolhimento, o crédito, a aplicação e distribuição dos valores referentes à verba honorária, sendo observadas as disposições do art. 11-A desta Lei.\n"
+      },
+      "art-0011-c": {
+       "label": "Art. 11-C",
+       "kind": "article",
+       "text": "Art. 11-C. Fica instituído o Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG, órgão subordinado à Procuradoria-Geral e integrado exclusivamente por membros efetivos da carreira de Procurador Legislativo da Câmara Municipal de São Paulo, secretariado por 1 (um) técnico legislativo, que contará com o auxílio e colaboração profissional do corpo técnico da Edilidade, cujas atribuições são:\nI - promover os aperfeiçoamentos intelectual, profissional e tecnológico dos membros efetivos da carreira de Procurador Legislativo da Câmara Municipal de São Paulo;\nII - organizar e produzir cursos, congressos, seminários e similares, para o público interno e externo, por meio de sua Comissão de Cursos, de modo a ampliar o acesso ao conhecimento jurídico;\nIII - estabelecer convênios, acordos de cooperação e similares com a finalidade de realizar eventos, estudos, pesquisas e análises jurídicas;\nIV - por meio de seu Conselho Editorial, realizar publicações de livros, artigos e periódicos voltados para o público interno e externo com o intuito precípuo de promover e divulgar a produção jurídica da Procuradoria-Geral da Câmara Municipal de São Paulo;\nV - por meio de seu Conselho Editorial, organizar e promover a publicação da Revista da Procuradoria-Geral da Câmara Municipal de São Paulo, cuja periodicidade deverá ser não inferior a anual;\nVI - gerir o Fundo de Honorários da Procuradoria-Geral da Câmara Municipal de São Paulo por meio de seu Conselho Gestor, decidindo inclusive acerca da destinação dos recursos ali depositados, nos termos do art. 11-A, § 2º, desta Lei.\n§ 1º O Procurador-Geral Legislativo poderá, por meio de Portaria, ampliar o âmbito de atuação do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG, inclusive instituindo outras comissões, comitês e demais órgãos, caso seja necessário para sua melhor administração.\n§ 2º O Conselho Gestor do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG decidirá os assuntos de sua competência por decisão da maioria simples dos presentes, após convocação de seus membros com antecedência mínima de 5 (cinco) dias úteis feita pelo Procurador-Geral Legislativo, e será composto por 6 (seis) membros efetivos da carreira de Procurador Legislativo, assim escolhidos:\nI - o Procurador-Geral Legislativo, que será o Presidente do Conselho Gestor;\nII - o Procurador-Geral Legislativo Adjunto, que será o Vice-Presidente do Conselho Gestor;\nIII - o procurador Supervisor da Equipe de Sistematização de Assuntos Legislativos;\nIV - 3 (três) outros membros efetivos da carreira de Procurador Legislativo, designados pelo Procurador-Geral Legislativo da Câmara Municipal de São Paulo.\n§ 3º O Conselho Editorial do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG será composto por 4 (quatro) membros efetivos da carreira de Procurador Legislativo, designados pelo Procurador-Geral Legislativo e que não componham concomitantemente o Conselho Gestor nem a Comissão de Cursos.\n§ 4º A Comissão de Cursos do Centro de Estudos Legislativos da Procuradoria-Geral da Câmara Municipal de São Paulo - CELEG será composta por 5 (cinco) membros efetivos da carreira de Procurador Legislativo, designados pelo Procurador-Geral, e que não componham concomitantemente o Conselho Gestor nem a Comissão Editorial.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Aplica-se aos servidores integrados na forma da presente lei, para fins de evolução funcional, as disposições constantes do art. 21 da Lei nº 13.637, de 04/09/03.\nParágrafo único. Aos servidores mencionados no \"caput\", aplicam-se, ainda, as disposições normativas constantes dos arts. 22 e 29, ambos da Lei nº 13.637, de 04/09/03.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Aos titulares do cargo de Procurador Legislativo originários diretamente dos cargos de Assessor Técnico I, II, III e IV, Assessor Técnico Legislativo, Assessor Técnico Supervisor e Assessor Técnico Legislativo Chefe aplica-se o art. 30 da Lei nº 13.637, de 04/09/03, quando da opção pela remuneração prevista nesta lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Aos titulares do cargo de Procurador Legislativo originários do cargo de Técnico Parlamentar fica assegurada a manutenção da parcela fixa apurada na forma do art. 30 da Lei nº 13.637, de 04/09/03, aplicando-se-lhes o referido artigo, no que couber.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente o inciso I do art. 4º e o art. 40, ambos da Lei nº 13.637, de 04/09/03 e o art. 8º da Lei nº 13.638, de 04/09/03.\nCâmara Municipal de São Paulo, 04 de janeiro de 2007.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 04 de janeiro de 2007.\nA Secretária Geral Parlamentar em Exercício, Karen Lima Vieira\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.259, de 03/01/2007 was altered by acts of 5 date(s), the latest 2024-12-20."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14260",
+   "short": "Lei 14260/2007",
+   "title": "Lei nº 14.260, de 08/01/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14260-de-08-de-janeiro-de-2007",
+   "first_law": "lei-2007-14260",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-01-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14260-de-08-de-janeiro-de-2007",
+     "sha256": "955bca9dc6aeda913e821562d2aa8e43ebabe805048621bb6026666c1326b748",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.260, DE 8 DE JANEIRO DE 2007\n(Projeto de Lei nº 320/06, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConfere nova redação ao § 2º do art. 1º da Lei nº 14.129, de 11 de janeiro de 2006, e autoriza o Executivo a reabrir o prazo para ingresso no Programa de Parcelamento Incentivado - PPI no Município de São Paulo. Corrige os arts. 26 e 27 da Lei nº 14.125, de 29 de dezembro de 2005.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O § 2º do art. 1º da Lei nº 14.129, de 11 de janeiro de 2006, passa a vigorar com a seguinte redação:\nArt. 1º..............................................................\n§ 2º. Ficam excluídos do regime ora instituído os sujeitos passivos que tiveram seus pedidos homologados pelo programa de que trata a Lei nº 13.092, de 7 de dezembro de 2000, e que, até a data da publicação desta lei, permanecem naquele programa, ou que dele tenham sido excluídos por violação ao disposto no art. 11, inciso V, da referida lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Poder Executivo poderá reabrir pelo prazo de até 90 (noventa) dias, no exercício de 2007, por meio de decreto, o prazo de ingresso no Programa instituído pela Lei nº 14.129, de 11 de janeiro de 2006.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Passa a constar a expressão \"Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU\", nos arts. 26 e 27, da Lei nº 14.125, de 29 de dezembro de 2005, onde se lê \"Imposto sobre a Propriedade Territorial Urbana - IPTU\".\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de janeiro de 2007, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 8 de janeiro de 2007.\nCLÓVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14261",
+   "short": "Lei 14261/2007",
+   "title": "Lei nº 14.261, de 09/01/2007 (INSTITUI O DIA DO MOTOBOY (MOTO-FRETE) E DA OUTRAS PROVIDENCIAS. (MARCIO YOUSSEF))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14261-de-9-de-janeiro-de-2007",
+   "first_law": "lei-2007-14261",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14261-de-9-de-janeiro-de-2007",
+     "sha256": "fad442da986f256b69fd252d0d209eccd3c4b03f2204ac1c8aeef8d330b1497d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.261 DE 09 DE JANEIRO DE 2007\n(PROJETO DE LEI 471/06)\n(VEREADOR MÁRCIO YOUSSEF - PMDB)\nInstitui o Dia do Motoboy (Moto-frete), e dá outras providências.\nAdilson Amadeu, Presidente em Exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia do Motoboy (Moto-frete), a ser comemorado anualmente no dia 1º de outubro.\nParágrafo único. O dia ora instituído passará a constar do Calendário Oficial de Datas e Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 10 de janeiro de 2007.\nO Presidente em Exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 10 de janeiro de 2007.\nA Secretária Geral Parlamentar em Exercício, Karen Lima Vieir\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14262",
+   "short": "Lei 14262/2007",
+   "title": "Lei nº 14.262, de 24/01/2007 (ALTERA OS ARTS.23 E 30, ALINEA \"J\", AMBOS DA LEI 13131/01, E DA OUTRAS PROVIDENCIAS.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14262-de-24-de-janeiro-de-2007",
+   "first_law": "lei-2007-14262",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14262-de-24-de-janeiro-de-2007",
+     "sha256": "7c01fffa2bebe776b233d2f1ad22c120d65dc0f2f2363253931ed2fad0891046",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.262, DE 24 DE JANEIRO DE 2007\n(Projeto de Lei nº 643/06, do Vereador Roberto Tripoli - sem filiação partidária)\nAltera os arts. 23 e 30, alínea \"j\", ambos da Lei nº 13.131/01, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O art. 23 da Lei nº 13.131, de 18 de maio de 2001, com a nova redação dada pela Lei nº 13.531/03, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. É proibido abandonar animais em vias e logradouros públicos e privados, sob pena de multa no valor de R$ 500,00 (quinhentos reais), por animal abandonado, aplicada pelo órgão responsável pelo controle de zoonoses do Município, independentemente das demais sanções previstas na Lei Federal nº 9.605/98 (Lei de Crimes Ambientais) e outros diplomas legais.\n§ 1º. Para os efeitos desta lei, considera-se abandono o ato intencional de deixar o animal desamparado e entregue à própria sorte nas vias e logradouros públicos ou privados.\n§ 2º. Para os efeitos desta lei, não poderá ser caracterizado como praticante de abandono o proprietário que, tendo perdido seu animal nas vias e logradouros públicos ou privados, sem a intenção de abandoná-lo, venha a reclamá-lo junto ao órgão municipal responsável pelo controle de zoonoses.\n§ 3º. Os proprietários só poderão entregar seus animais ao órgão municipal responsável pelo controle de zoonoses para destinação em casos de enfermidades graves ou agressões comprovadas.\nArt. 2º. A alínea \"j\" do art. 30 da Lei nº 13.131, de 18 de maio de 2001, com a nova redação dada pela Lei nº 13.531/03, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. São considerados maus-tratos contra cães e/ou gatos:\nj) abandoná-los, intencionalmente, em vias e logradouros públicos ou privados.\nArt. 3º. Esta lei será regulamentada no prazo de 60 (sessenta) dias, contado a partir da data de sua publicação.\nArt. 4º. As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\nArt. 5º. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de janeiro de 2007, 453º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de janeiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14263",
+   "short": "Lei 14263/2007",
+   "title": "Lei nº 14.263, de 29/01/2007 (Institui o Programa Câmara Municipal de São Paulo nas Escolas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14263-de-29-de-janeiro-de-2007",
+   "first_law": "lei-2007-14263",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14263-de-29-de-janeiro-de-2007",
+     "sha256": "d84d06430e783fab5e39a0eb50331b24174b97f638fa05cd2422919bfd64987c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.263, DE 29 DE JANEIRO DE 2007\n(Projeto de Lei nº 413/05, do Vereador Jorge Tadeu - PFL)\nInstitui o Programa Câmara Municipal de São Paulo nas Escolas, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Câmara Municipal de São Paulo nas Escolas, a ser implantado nos estabelecimentos de ensino fundamental e médio da rede pública municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O programa de que trata esta lei tem por finalidade conscientizar crianças e jovens sobre o papel e a importância do Poder Legislativo e sobre a necessidade de escolher, com critério, seus representantes, por intermédio de um ciclo de palestras que visam:\nI - levar ao conhecimento das crianças e jovens a importância das funções legislativa, fiscalizadora e deliberativa exercidas no âmbito do Legislativo municipal;\nII - enfatizar a importância da função fiscalizadora do Legislativo;\nIII - difundir a noção de que a representatividade política fundamenta o sistema democrático;\nIV - destacar o papel do Vereador como elo entre a sociedade e o governo para o estabelecimento da agenda política e adoção de políticas públicas;\nV - desenvolver o conceito de cidadania;\nVI - discutir a importância do voto nas sociedades democráticas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O programa de que trata esta lei deverá ser desenvolvido pela unidade administrativa competente da Câmara Municipal de São Paulo, em colaboração com os órgãos técnicos competentes do Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei deverá ser regulamentada pelo Executivo no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de janeiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de janeiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14264",
+   "short": "Lei 14264/2007",
+   "title": "Lei nº 14.264, de 06/02/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14264-de-6-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14264",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14264-de-6-de-fevereiro-de-2007",
+     "sha256": "ad2ba8042e57c1671c16b75a798e7854f92a5947bd1752f92097804d1005789f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.264, DE 6 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 285/06, da Vereadora Noemi Nonato - PSB)\nEstabelece normas para a utilização de caixas descartáveis e retornáveis no acondicionamento, transporte, distribuição e venda de alimentos hortifrutícolas \"in natura\" no âmbito do Município de São Paulo e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As caixas destinadas ao acondicionamento, transporte, distribuição e venda de alimentos hortifrutícolas \"in natura\" no Município de São Paulo devem atender, tecnicamente, aos seguintes requisitos:\nI - as dimensões externas devem ser submúltiplas de 1,00 m (um metro) por 1,20 m (um metro e vinte centímetros), de forma a permitir o empilhamento paletizado;\nII - devem obedecer às disposições específicas referentes às \"Boas Práticas de Fabricação\", ao uso apropriado e às normas higiênico-sanitárias relativas aos alimentos;\nIII - devem conter as informações obrigatórias de marcação ou rotulagem, referentes às indicações quantitativas, qualitativas e a outras exigidas para o produto, em obediência às legislações específicas estabelecidas pelos órgãos oficiais envolvidos.\n§ 1º Caixas com diferentes dimensões externas das especificadas no inciso I serão admitidas nas operações de exportação.\n§ 2º O fabricante ou o fornecedor deve estar identificado nas caixas pelo seu nome e número no CNPJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Podem ser utilizadas caixas descartáveis e retornáveis: as retornáveis devem permitir a higienização a cada uso e as descartáveis devem ser de material reciclável ou de incinerabilidade limpa.\n§ 1º A higienização das caixas retornáveis haverá de ser feita segundo as normas técnicas pertinentes e certificada por técnico ou empresa habilitados.\n§ 2º As caixas de madeira, além de previamente tratadas contra ameaças fitossanitárias, não podem ser reaproveitadas senão depois de nova esterilização, devidamente certificada por técnico ou empresa habilitados, sob pena de descarte.\n§ 3º Os primeiros agentes de comercialização, atacadistas e varejistas, são solidariamente responsáveis pelo:\na) recolhimento e reciclagem das caixas e de outros tipos de embalagens descartáveis, após a sua primeira utilização, independentemente do sistema público de gerenciamento de resíduos sólidos;\nb) pela higienização das caixas retornáveis, após cada ciclo de utilização.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Não podem ingressar em território paulistano alimentos hortifrutícolas \"in natura\", provenientes de outras regiões, destinados a estabelecimentos localizados no Município de São Paulo, armazenados em caixas ou engradados de madeira que não estejam devidamente tratados contra ameaças fitossanitárias.\n§ 1º As caixas plásticas retornáveis assim como as caixas e embalagens recicláveis, de matéria plástica ou de papelão, empregadas no acondicionamento, transporte, distribuição e venda de alimentos devem ser fabricadas com matérias-primas que garantam o grau de pureza compatível com sua utilização, nos termos dos regulamentos técnicos correspondentes.\n§ 2º O tratamento fitossanitário a que alude o \"caput\" é o mesmo que se dispensa às caixas de madeira destinadas à exportação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete à Coordenação de Vigilância em Saúde do Município de São Paulo fiscalizar o cumprimento desta lei e aplicar as sanções cabíveis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\nV -(VETADO)\nVI - (VETADO)\nVII - (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO)\na) (VETADO)\nb) (VETADO)\nc) (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As infrações às disposições da presente lei serão apuradas pela autoridade sanitária competente, em processo administrativo próprio, iniciado com o auto de infração, observados o rito e os prazos estabelecidos no Código Sanitário do Município de São Paulo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos, no entanto, após 180 (cento e oitenta) dias desta data, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14265",
+   "short": "Lei 14265/2007",
+   "title": "Lei nº 14.265, de 06/02/2007 (ALTERA O ART. 2. DA LEI N. 14146, DE 11 DE ABRIL DE 2006, E DA OUTRAS PROVIDENCIAS.(PL 501/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14265-de-6-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14265",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14265-de-6-de-fevereiro-de-2007",
+     "sha256": "9fa121f675db16b5f09f7743d52d6a21f11dbfd48febafa4620e37677c379f01",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.265, DE 6 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 501/06, do Vereador Roberto Tripoli - sem filiação partidária)\nAltera o art. 2º da Lei nº 14.146, de 11 de abril de 2006, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 14.146, de 11 de abril de 2006, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica proibida a circulação de veículos de tração animal e de animais montados ou não, em vias públicas pavimentadas do Município de São Paulo.\n§ 1º Excetuam-se da proibição do \"caput\" os animais utilizados pelo Exército Brasileiro e pela Polícia Militar, em qualquer situação, e pelas romarias, previamente autorizadas pelos órgãos públicos competentes.\n§ 2º As romarias a que se refere o parágrafo anterior serão autorizadas pelos órgãos públicos competentes, mediante solicitação da pessoa jurídica organizadora do respectivo evento, que responderá, inclusive, por quaisquer danos ao patrimônio público e desde que:\nI - seja comprovada a existência de infra-estrutura de apoio, visando a saúde e bem-estar dos animais envolvidos, em especial quanto a médicos-veterinários e veículos adequados para fornecimento de água e alimentação e eventual remoção dos animais;\nII - não comprometa a fluidez e segurança do trânsito em geral.\n§ 3º Os procedimentos para obtenção da autorização de que trata o parágrafo anterior serão estabelecidos no decreto que regulamentará a presente lei.\nArt. 2º Esta lei será regulamentada no prazo de 60 (sessenta) dias após sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14267",
+   "short": "Lei 14267/2007",
+   "title": "Lei nº 14.267, de 06/02/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14267-de-6-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14267",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14267-de-6-de-fevereiro-de-2007",
+     "sha256": "5b8ac874dc8780788306dc5ab6194ab1969d03cfe829bb631cc15a7dd3fa0445",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.267, DE 6 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 739/03, do Vereador Ricardo Montoro - PSDB)\nEstabelece obrigatoriedade de instalação de equipamentos hidráulicos de consumo econômico, nas edificações da Administração Municipal direta e indireta, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Nos serviços e obras de manutenção, reforma e de construção de imóveis, inclusive unidades de programas habitacionais, realizadas pela Administração Municipal direta e indireta, deverão ser instalados equipamentos hidráulicos de consumo econômico.\nParágrafo único. Este artigo não exclui a iniciativa de substituição voluntária de dispositivos hidráulicos em qualquer edificação pública ou privada, de acordo com os requisitos legais e contratuais aplicáveis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Consideram-se equipamentos hidráulicos de consumo econômico aqueles que apresentem eficiência hidráulica passível de aferição pelo consumidor ou atestado de eficiência de desempenho emitido por órgão técnico oficial.\nParágrafo único. Entre os redutores e controladores de consumo de água visados por esta lei incluem-se vasos sanitários, válvulas de descarga, dispositivos economizadores, torneiras e chuveiros.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da implantação desta lei serão suportadas por dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14268",
+   "short": "Lei 14268/2007",
+   "title": "Lei nº 14.268, de 06/02/2007 (Institui a gratuidade dos serviços de exumação e dos meios a ele necessários à população de baixa renda, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14268-de-6-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14268",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14268-de-6-de-fevereiro-de-2007",
+     "sha256": "4fe111f58dbc8d2706288fab0b34670db9a7290db79c6cf0adadb8a5d46eebf0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.268, DE 6 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 130/03, do Vereador Arselino Tatto - PT)\nInstitui a gratuidade dos serviços de exumação e dos meios a ele necessários à população de baixa renda, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 26 de dezembro de 2006, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Executivo Municipal concederá a gratuidade dos serviços de exumação de corpos e membros e dos meios a ele necessários aos munícipes que não tenham condições financeiras de arcar com as despesas respectivas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo Municipal regulamentará a presente lei no prazo máximo de 60 (sessenta) dias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes com esta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14269",
+   "short": "Lei 14269/2007",
+   "title": "Lei nº 14.269, de 13/02/2007 (DENOMINA PRACA CORONEL DJALMA MIKAHIL ESPACO PUBLICO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DE VILA ANDRADE, E DA OUTRAS PROVIDENCIAS.(PL 614/05))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14269-de-13-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14269",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14269-de-13-de-fevereiro-de-2007",
+     "sha256": "0dc799ee7262a2bbfe6201f721f41108ed415377364c9947961b2558cfe91c47",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.269, DE 13 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 614/05, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça Coronel Djalma Mikahil espaço público livre sem denominação, situado no Distrito de Vila Andrade, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Coronel Djalma Mikahil o espaço público livre sem denominação, situado na confluência das Avenidas Dr. Guilherme Dumont Villares e Giovanni Gronchi (Setor 171 - Quadra 210), no Distrito de Vila Andrade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 13 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14270",
+   "short": "Lei 14270/2007",
+   "title": "Lei nº 14.270, de 15/02/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14270-de-15-de-fevereiro-de-2007",
+   "first_law": "lei-2007-14270",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14270-de-15-de-fevereiro-de-2007",
+     "sha256": "7f6324737eff02f91b7d73887ed60975491431cde8dc5a086bdd15b83df01a65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.270, DE 15 DE FEVEREIRO DE 2007\n(Projeto de Lei nº 507/04, do Vereador Carlos Alberto Bezzera Jr. - PSDB)\nDenomina Praça Agente Washington Gomes de Campos o espaço livre público sem denominação, situado no Distrito da Saúde, na Subprefeitura de Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Agente Washington Gomes de Campos o espaço livre sem denominação determinado pelas ruas Vigário Albernaz e Dom Antônio Galvão e pela Avenida Professor Abraão de Morais (Setor 309 - Quadra 9), no Distrito da Saúde, na Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de fevereiro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 15 de fevereiro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14271",
+   "short": "Lei 14271/2007",
+   "title": "Lei nº 14.271, de 05/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14271-de-5-de-marco-de-2007",
+   "first_law": "lei-2007-14271",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14271-de-5-de-marco-de-2007",
+     "sha256": "c38cc36db43a07bb01406680a742282c25cd6ae1c8a42597e3a59647e7076fec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.271 DE 05 DE MARÇO DE 2007\n(PROJETO DE LEI 216/06)\n(VEREADORA NOEMI NONATO - PSB)\nInstitui no Município de São Paulo a Semana de Prevenção e Combate à Depressão, a ser lembrada na primeira semana do mês de agosto de cada ano, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no Município de São Paulo a Semana de Prevenção e Combate à Depressão, a ser lembrada na primeira semana do mês de agosto de cada ano.\nParágrafo único. A data ora instituída passará a constar do Calendário Oficial de Datas e Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Público envidará esforços para, durante a semana ora criada, desenvolver atividades e oferecer à população palestras que ajudem a detectar a doença, tais como: sintomas, prevenção e combate.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes com a execução da presente lei, correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 12 de março de 2007.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 12 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14272",
+   "short": "Lei 14272/2007",
+   "title": "Lei nº 14.272, de 09/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14272-de-9-de-marco-de-2007",
+   "first_law": "lei-2007-14272",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14272-de-9-de-marco-de-2007",
+     "sha256": "425a6e3a7aa07ed4fd945f9cf49c94a217db7a915a20407395d6c04c35794420",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.272, DE 9 DE MARÇO DE 2007\n(Projeto de Lei nº 148/05, do Vereador Paulo Frange - PTB)\nDenomina Travessa João Batista Matarezio Filho o logradouro público inominado, codlog 24.206-3, localizado na Vila Curuçá (Setor 139, Quadra 60), e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa João Batista Matarezio Filho o logradouro público inominado, codlog 24.206-3, com início na Rua Narceja e término na Rua Tachã (Setor 139, Quadra 60), na Vila Curuçá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 9 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14273",
+   "short": "Lei 14273/2007",
+   "title": "Lei nº 14.273, de 09/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14273-de-9-de-marco-de-2007",
+   "first_law": "lei-2007-14273",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14273-de-9-de-marco-de-2007",
+     "sha256": "35eb6e22b63dd05b2ba96c0fda4392ff70ecbef162d8ab107e0edb98a1551b4c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.273, DE 9 DE MARÇO DE 2007\n(Projeto de Lei nº 416/05, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Ramirez Ferreira o espaço livre sem denominação delimitado pela Avenida Presidente João Goulart e Rua Augusto Filipe Simões, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Ramirez Ferreira o espaço livre sem denominação delimitado pela Avenida Presidente João Goulart e Rua Augusto Filipe Simões, Subprefeitura de Socorro (Setor 162 - Quadra 202).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 9 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 9 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14274",
+   "short": "Lei 14274/2007",
+   "title": "Lei nº 14.274, de 09/03/2007 (INSTITUI O EVENTO DENOMINADO MES DA CONSCIENTIZACAO PELA MANUTENCAO PREVENTIVA DOS AUTOMOVEIS, E DA OUTRAS PROVIDENCIAS.(PL 271/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14274-de-9-de-marco-de-2007",
+   "first_law": "lei-2007-14274",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14274-de-9-de-marco-de-2007",
+     "sha256": "4fe1c023ca55115e077b0d7386fc55f2a01c531695892e88fd97aadfb48446c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.274 DE 09 DE MARÇO DE 2007\n(PROJETO DE LEI 271/06)\n(VEREADOR ADILSON AMADEU - PTB)\nInstitui o evento denominado Mês da Conscientização pela Manutenção Preventiva dos Automóveis, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o evento denominado Mês da Conscientização pela Manutenção Preventiva dos Automóveis, a ser comemorado anualmente em todo o mês de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará a constar no Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de março de 2007.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14275",
+   "short": "Lei 14275/2007",
+   "title": "Lei nº 14.275, de 21/03/2007 (INSTITUI O DIA DO INVESTIGADOR DE POLICIA, E DA OUTRAS PROVIDENCIAS. (PL 436/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14275-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14275",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14275-de-21-de-marco-de-2007",
+     "sha256": "849a800a144bc02f06aec8191e895b56a51286b48cea6d02c797ae08de654840",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.275 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 436/06)\n(VEREADOR CLAUDINHO - PSDB)\nInstitui o Dia do Investigador de Polícia, e dá outras providências.\nAdilson Amadeu, Presidente em Exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia do Investigador de Polícia a ser comemorado anualmente no dia 23 de dezembro.\n§ 1º O dia ora instituído passará a constar do Calendário Oficial de Datas e Eventos do município de São Paulo.\n§ 2º Como a data é muito próxima dos festejos natalinos, fica facultada a sua comemoração com até um mês de antecedência.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em Exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14276",
+   "short": "Lei 14276/2007",
+   "title": "Lei nº 14.276, de 21/03/2007 (INSTITUI O DIA DO IMIGRANTE PORTUGUES, A SER COMEMORADO ANUALMENTE NO DIA 22 DE ABRIL, E DA OUTRAS PROVIDENCIAS. (PL 180/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14276-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14276",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14276-de-21-de-marco-de-2007",
+     "sha256": "872b33cc87289d2cae25cb5753b314b2b759562f9a7e1851f57ffcc43316c2d9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.276 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 180/06)\n(VEREADOR RUSSOMANNO - PP)\nInstitui o Dia do Imigrante Português, a ser comemorado anualmente no dia 22 de abril, e dá outras providências.\nAdilson Amadeu, Presidente em Exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Institui o Dia do Imigrante Português, a ser comemorado anualmente no dia 22 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O dia ora instituído passará a constar do Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em Exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14277",
+   "short": "Lei 14277/2007",
+   "title": "Lei nº 14.277, de 22/03/2007 (INSTITUI O DIA DOS ARAUTOS DO EVANGELHO, E DA OUTRAS PROVIDENCIAS. (PL 191/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14277-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14277",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14277-de-22-de-marco-de-2007",
+     "sha256": "15653b2c5987989aa3e65bf882804ed37834527a9e66959cefba464aeb374709",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14277/07 - CÂMARA\nSUPERVISÃO DE FINALIZAÇÃO DO PROCESSO LEGISLATIVO - SGP.23\n(PROJETO DE LEI 191/06)\n(VEREADOR TONINHO PAIVA - PR)\nInstitui o Dia dos Arautos do Evangelho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia dos Arautos do Evangelho, a ser comemorado, anualmente, no dia 25 de março.\nParágrafo único. A data ora instituída passará a constar do Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 27 de março de 2007.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 27 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14278",
+   "short": "Lei 14278/2007",
+   "title": "Lei nº 14.278, de 21/03/2007 (INCLUI NO CALENDARIO OFICIAL DO MUNICIPIO DE SAO PAULO O DIA DA COMUNIDADE MUCULMANA, E DA OUTRAS PROVIDENCIAS. (PL 536/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14278-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14278",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14278-de-21-de-marco-de-2007",
+     "sha256": "0d276c439897f88f5cd6a159c23b3b159bfa524391babaf7f83a53f2a36be8f3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.278 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 536/06)\n(VEREADOR MÁRIO DIAS - PFL)\nInclui no Calendário Oficial do Município de São Paulo o Dia da Comunidade Muçulmana, e dá outras providências.\nAdilson Amadeu, Presidente em Exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído no Calendário Oficial do Município de São Paulo o Dia da Comunidade Muçulmana, a ser comemorado, anualmente, no dia 14 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia da Comunidade Muçulmana visa:\nI - estimular o encontro e a confraternização entre todos os muçulmanos da cidade de São Paulo e demais religiões;\nII - proporcionar à população o conhecimento dos atos e trabalhos efetuados pela comunidade muçulmana na cidade de São Paulo;\nIII - divulgar a religião, as atividades e a situação dos muçulmanos da cidade de São Paulo, do Brasil e do mundo;\nIV - estimular a união entre os povos de todas as classes, raças e religiões.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Deverão ser programadas palestras, reuniões ou eventos para a comemoração do Dia da Comunidade Muçulmana, no âmbito da cidade de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Executivo regulamentará a presente lei no prazo de 30 (trinta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em Exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14279",
+   "short": "Lei 14279/2007",
+   "title": "Lei nº 14.279, de 21/03/2007 (INSTITUI NO CALENDARIO OFICIAL DO MUNICIPIO DE SAO PAULO O DIA DO BAIRRO DE SANTA IFIGENIA, E DA OUTRAS PROVIDENCIAS. (PL 582/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14279-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14279",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14279-de-21-de-marco-de-2007",
+     "sha256": "e7e006306ad2ecd6149511879062ac96817d5d5e7e060c3b22ba039e3c3897d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.279 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 582/06)\n(VEREADOR CLAUDINHO - PSDB)\nInstitui no Calendário Oficial do Município de São Paulo o Dia do Bairro de Santa Ifigênia, e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Bairro de Santa Ifigênia, no âmbito do Município de São Paulo, a ser comemorado, anualmente, no dia 21 de abril, tendo como referência o ano de 1809, quando foi criada a primeira Freguesia de Santa Ifigênia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará a constar do Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes desta lei correrão por conta das dotações consignadas no orçamento, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14280",
+   "short": "Lei 14280/2007",
+   "title": "Lei nº 14.280, de 21/03/2007 (INSTITUI O DIA DO TURISMO ETNICO AFRO-BRASILEIRO. (PL 590/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14280-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14280",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14280-de-21-de-marco-de-2007",
+     "sha256": "8c714aefb0eee5f2e3f6b3241d3b1487b34e86d6d8582b6023769a063de3b90f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.280 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 590/06)\n(VEREADORA MYRYAM ATHIE - PPS)\nInstitui o Dia do Turismo Étnico Afro-Brasileiro.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Calendário Oficial do Município de São Paulo, o Dia do Turismo Étnico Afro-Brasileiro, a ser comemorado anualmente, no dia 13 de maio.\nParágrafo único. A data ora instituída constará do Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão pelas dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14281",
+   "short": "Lei 14281/2007",
+   "title": "Lei nº 14.281, de 21/03/2007 (INSTITUI O DIA DOS MULTIPLOS NA CIDADE DE SAO PAULO E DA OUTRAS PROVIDENCIAS. (PL 647/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14281-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14281",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14281-de-21-de-marco-de-2007",
+     "sha256": "1a9e5a3044e46a5a379702f2f7895aaa96fa3ec9335c676555eb6e618e1f9c7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.281 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 647/06)\n(VEREADOR ADILSON AMADEU - PTB)\nInstitui o Dia dos Múltiplos na Cidade de São Paulo e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito municipal, o Dia dos Múltiplos, a ser comemorado, anualmente, no dia 18 de março.\nParágrafo único. A data de comemoração mencionada no \"caput\" deverá integrar o Calendário Oficial de Datas e Eventos da Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei será regulamentada pelo Poder Executivo no prazo de 20 (vinte) dias após sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14282",
+   "short": "Lei 14282/2007",
+   "title": "Lei nº 14.282, de 21/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14282-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14282",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14282-de-21-de-marco-de-2007",
+     "sha256": "304e26a0d500accefc2df70e7e370c9694bb4489238d0049f395617c8231974f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.282 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 668/06)\n(VEREADOR RUSSOMANNO - PP)\nInstitui o Dia do Barista, no Calendário Oficial Municipal, a ser comemorado no dia 24 de maio de cada ano, no âmbito do município e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Barista, no Calendário Oficial Municipal, a ser comemorado no dia 24 de maio de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias a contar de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições contrárias.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14283",
+   "short": "Lei 14283/2007",
+   "title": "Lei nº 14.283, de 21/03/2007 (INSTITUI O DIA DO DIRETOR DE ESCOLA MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 676/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14283-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14283",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14283-de-21-de-marco-de-2007",
+     "sha256": "d9057fbd648b9a6e6103ac4f52009c02ade8ab3e49d41d1bc849d0c2a899fbf7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.283 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 676/06)\n(VEREADOR TONINHO PAIVA - PR)\nInstitui o Dia do Diretor de Escola Municipal, e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído no Calendário Oficial de Eventos do Município de São Paulo o Dia do Diretor de Escola Municipal, ora instituído, a ser comemorado, anualmente, no dia 23 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14284",
+   "short": "Lei 14284/2007",
+   "title": "Lei nº 14.284, de 21/03/2007 (INSTITUI O DIA DO SUPERVISOR ESCOLAR MUNICIPAL, E DA OUTRAS PROVIDENCIAS. (PL 677/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14284-de-21-de-marco-de-2007",
+   "first_law": "lei-2007-14284",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14284-de-21-de-marco-de-2007",
+     "sha256": "e758ba6aa552dc9924176119332c60c7b1aef968a08e11f12f4f4603bf891dae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.284 DE 21 DE MARÇO DE 2007\n(PROJETO DE LEI 677/06)\n(VEREADOR TONINHO PAIVA - PR)\nInstitui o Dia do Supervisor Escolar Municipal, e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído no Calendário Oficial de Eventos do Município de São Paulo o Dia do Supervisor Escolar Municipal, ora instituído, a ser comemorado, anualmente, no dia 12 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de março de 2007.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de março de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14285",
+   "short": "Lei 14285/2007",
+   "title": "Lei nº 14.285, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14285-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14285",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14285-de-22-de-marco-de-2007",
+     "sha256": "5de558845d9565a9c5b880441640ac9bfe878cc1b3f753619017e661f1713887",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.285, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 342/05, do Vereador Toninho Paiva - PR)\nDenomina Praça Abadia Antonia Canova o espaço livre sem denominação iniciado na Rua Calixto de Almeida, 695, Distrito de Freguesia do Ó, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Abadia Antonia Canova o espaço livre sem denominação iniciado na Rua Calixto de Almeida, 695, Distrito de Freguesia do Ó (Setor 104 - Quadra 032).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14286",
+   "short": "Lei 14286/2007",
+   "title": "Lei nº 14.286, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14286-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14286",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14286-de-22-de-marco-de-2007",
+     "sha256": "7259fb51c50fee50c3e27c4d8238d7c0b1fd824770f3e718776d827a15352bb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.286, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 424/05, do Vereador José Ferreira - Zelão - PT)\nDenomina Travessa Dona Margarida Pimenta de Negreiros o logradouro público sem denominação, localizado entre a Rua Margarida Carlos de Albuquerque e a Rua Domingos Fernandes Faria (Setor 192 - Quadra 89), no Distrito de Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Dona Margarida Pimenta de Negreiros, o logradouro público sem denominação, localizado entre a Rua Margarida Carlos de Albuquerque e a Rua Domingos Fernandes Faria (Setor 192 - Quadra 89), no Distrito de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14287",
+   "short": "Lei 14287/2007",
+   "title": "Lei nº 14.287, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14287-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14287",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14287-de-22-de-marco-de-2007",
+     "sha256": "40153bbb1069cc81c85fedb802a88fe98617c52e19c36d78651979146226b6a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.287, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 503/05, do Vereador Claudinho - PSDB)\nDenomina Praça Senhor do Vale o espaço público inominado delimitado pelas Ruas Ciríaco Jimenez, Bonaventura Viviani, Antônio de Cabezon, Blas Parera e Beltrame Feragut, Distrito do Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Senhor do Vale o espaço público inominado delimitado pelas Ruas Ciríaco Jimenez, Bonaventura Viviani, Antônio de Cabezon, Blas Parera e Beltrame Feragut (Setor 214 - Quadra 10), Distrito do Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14288",
+   "short": "Lei 14288/2007",
+   "title": "Lei nº 14.288, de 22/03/2007 (DENOMINA PRACA CAETANA FARANI DE CARVALHO O ESPACO LIVRE SEM DENOMINACAO,SITUADO NO DISTRITO DO MANDAQUI, E DA OUTRAS PROVIDENCIAS.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14288-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14288",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14288-de-22-de-marco-de-2007",
+     "sha256": "bbba36588aa68e5cf7ac305d1565aa8de3e8825097c337c351d82ab91a8b1380",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.288, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 511/05, do Vereador Claudinho - PSDB)\nDenomina Praça Caetana Farani de Carvalho o espaço livre sem denominação, situado no Distrito do Mandaqui, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Caetana Farani de Carvalho o espaço livre sem denominação delimitado pela Av. Engenheiro Caetano Álvares, Rua Jardimirim e Travessa Cobrodó (Setor 72, Quadra 178), Distrito do Mandaqui.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14289",
+   "short": "Lei 14289/2007",
+   "title": "Lei nº 14.289, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14289-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14289",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14289-de-22-de-marco-de-2007",
+     "sha256": "bba1016adec0467f9afb56ad9335b00e8c3122729efec30996d2ed4b6141617c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.289, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 535/05, do Vereador William Woo - PSDB)\nDenomina Praça J. J. Alvim Passos o logradouro público inominado, Codlog 35.817-7, localizado no Jardim Marajoara, Distrito de Campo Grande (Setor 90 - Quadra 404), e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça J. J. Alvim Passos o logradouro público inominado, Codlog 35.817-7, delimitado pela Avenida Washington Luís e Rua Marechal Renato Paquet (Setor 90 - Quadra 404), localizado no Jardim Marajoara, Distrito de Campo Grande.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14290",
+   "short": "Lei 14290/2007",
+   "title": "Lei nº 14.290, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14290-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14290",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14290-de-22-de-marco-de-2007",
+     "sha256": "01b4741021b7054ec82f61df6a46005971d37d3c576a269b7d143d2ff457fb5f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.290, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 623/05, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Geraldo Félix dos Santos o espaço livre sem denominação delimitado pelas Ruas Eurico de Azevedo Marques, Profº Leitão da Cunha e Avenida Silvio Ribeiro Aragão, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Geraldo Félix dos Santos o espaço livre sem denominação delimitado pelas Ruas Eurico de Azevedo Marques, Profº Leitão da Cunha e Avenida Silvio Ribeiro Aragão (Setor 169 - Quadras 181 e 182), no Parque Arariba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14291",
+   "short": "Lei 14291/2007",
+   "title": "Lei nº 14.291, de 22/03/2007 (DENOMINA PRACA EMILINHA BORBA O ESPACO LIVRE SEM DENOMINACAO SITUADO NO DISTRITO DE MOEMA, SUBPREFEITURA DE VILA MARIANA.(PROJETO DE LEI N.641/05))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14291-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14291",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14291-de-22-de-marco-de-2007",
+     "sha256": "c64704095a4a83477d837f2c0af296f6f2a64e55185b1ef56f8d00f3708aa6e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.291, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 641/05, do Vereador Russomanno - PP)\nDenomina Praça Emilinha Borba o espaço livre sem denominação situado no Distrito de Moema, Subprefeitura de Vila Mariana.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Emilinha Borba o espaço livre sem denominação localizado na confluência das Ruas de Ceuta e Santelmo, no Distrito de Moema (Setor Fiscal 41 - Quadras 046, 047, 049 e 289).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14293",
+   "short": "Lei 14293/2007",
+   "title": "Lei nº 14.293, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14293-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14293",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14293-de-22-de-marco-de-2007",
+     "sha256": "dc879eb3cfb42176aef318d5247bb1beb8c087cede95724ebd3dcc4b7acb1567",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.293, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 673/05, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Comendador Josué Barbosa Lira o espaço livre sem denominação situado na confluência das Ruas Tristão José Teixeira e João Felisberto Moreira (Setor 112 - Quadra 398), Bairro Parque Sônia, Distrito de São Miguel Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Comendador Josué Barbosa Lira o espaço livre sem denominação situado na confluência das Ruas Tristão José Teixeira e João Felisberto Moreira (Setor 112 - Quadra 398), Bairro Parque Sônia, Distrito de São Miguel Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14294",
+   "short": "Lei 14294/2007",
+   "title": "Lei nº 14.294, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14294-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14294",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14294-de-22-de-marco-de-2007",
+     "sha256": "2350eb0272ad6c6f6d235bd067c5cce489683fc4163df989453397b6d5cb94b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.294, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 770/05, do Vereador Claudinho - PSDB)\nDenomina Travessa João Alves Barbosa a viela \"10\", que começa na Rua Lagoa da Serra e termina na Rua Padre Achilles Silvestre, no Jardim Paulistano, Brasilândia, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa João Alves Barbosa a viela \"10\", que começa na Rua Lagoa da Serra e termina na Rua Padre Achilles Silvestre (Setor 308 - Quadra 74), no Jardim Paulistano, Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14295",
+   "short": "Lei 14295/2007",
+   "title": "Lei nº 14.295, de 22/03/2007 (DENOMINA PRACA MICHIE AKAMA O ESPACO PUBLICO LIVRE SEM DENOMINACAO, SITUADO NO BAIRRO DE VILA MARIANA, E DA OUTRAS PROVIDENCIAS. ( PROJETO DE LEI N.724/05))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14295-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14295",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14295-de-22-de-marco-de-2007",
+     "sha256": "7dfd0aff2a090dd4a7e214c01a31443bd46d3003c4485b39cc7687028ea89229",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.295, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 724/05, do Vereador Aurélio Nomura - PV)\nDenomina Praça Michie Akama o espaço público livre sem denominação, situado no Bairro de Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Michie Akama o espaço público livre sem denominação, delimitado pela Avenida Domingos de Morais e a Rua Luís Góis (Setor 45 - Quadra 21), no Bairro de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14296",
+   "short": "Lei 14296/2007",
+   "title": "Lei nº 14.296, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14296-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14296",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14296-de-22-de-marco-de-2007",
+     "sha256": "f962ce6984556067f300ea05b680394a9630a2ff69a4115c69db3b3b2b988f1d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.296, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 794/05, do Vereador Edivaldo Estima - PPS)\nDenomina Praça Nair Arvani de Medeiros o espaço livre sem denominação delimitado pelas Ruas Carlos Klein, Francisco Mendes e Antonio Francisco França, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Nair Arvani de Medeiros o espaço livre sem denominação delimitado pelas Ruas Carlos Klein, Francisco Mendes e Antonio Francisco França (Setor 93 - Quadra 83), no Bairro de Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14297",
+   "short": "Lei 14297/2007",
+   "title": "Lei nº 14.297, de 22/03/2007 (DENOMINA PRACA ANTONIO BORGES MALTA O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DA VILA FORMOSA, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI N.149/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14297-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14297",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14297-de-22-de-marco-de-2007",
+     "sha256": "9ab54885d2bb81fc8fd559bdf48cef9123fd98aeb9827f3b61d22fe9fb6e4f03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.297, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 149/06, do Vereador Toninho Paiva - PR)\nDenomina Praça Antonio Borges Malta o espaço livre sem denominação, situado no Distrito da Vila Formosa, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antonio Borges Malta o espaço livre sem denominação, delimitado pelas Ruas Cristóvão Girão e Salvador do Vale (Setor 55 - Quadras 213, 228 e 244), no Distrito da Vila Formosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14298",
+   "short": "Lei 14298/2007",
+   "title": "Lei nº 14.298, de 22/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14298-de-22-de-marco-de-2007",
+   "first_law": "lei-2007-14298",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14298-de-22-de-marco-de-2007",
+     "sha256": "30eafc8fb8ab4f518cb1626dc929a51efc68fff1d6fe65e0d0ad66f1a24bf274",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.298, DE 22 DE MARÇO DE 2007\n(Projeto de Lei nº 220/06, do Vereador Juscelino Gadelha - PSDB)\nDenomina Travessa Maria Assad Saliba Regiani o logradouro público sem denominação, conhecido como viela \"A\", que começa na Rua Nicanor Garcia, entre a Rua Professor Artur Primavesi e a viela conhecida por \"B\" e termina aproximadamente 30 (trinta) metros além do seu início (Setor 157 - Quadra 197), Distrito de Sacomã, Subprefeitura do Ipiranga, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Maria Assad Saliba Regiani o logradouro público sem denominação, conhecido como viela \"A\", que começa na Rua Nicanor Garcia, entre a Rua Professor Artur Primavesi e a viela conhecida por \"B\" e termina aproximadamente 30 (trinta) metros além do seu início (Setor 157 - Quadra 197), Distrito de Sacomã, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14299",
+   "short": "Lei 14299/2007",
+   "title": "Lei nº 14.299, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14299-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14299",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14299-de-27-de-marco-de-2007",
+     "sha256": "58a76f23239ac4baa42abf41b0008552f89ed7a594f074278161d6365b613c69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.299, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 238/05, do Vereador Aurélio Nomura - PV)\nDenomina Túnel Takeharu Akagawa logradouro público que constitui a ligação entre a Avenida Santo Amaro e a Avenida São Gabriel, situado no Distrito Jardim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Túnel Takeharu Akagawa logradouro público que constitui a ligação entre a Avenida Santo Amaro e a Avenida São Gabriel (Setor 16 - Quadras 106, 121 e 124 e Setor 36 - Quadra 94), situado no Distrito Jardim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14300",
+   "short": "Lei 14300/2007",
+   "title": "Lei nº 14.300, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14300-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14300",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14300-de-27-de-marco-de-2007",
+     "sha256": "18463b91e3a025ba22709f2bc61fef9379f3c3df365eb106c381f95a71eac442",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.300, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 317/05, do Vereador Ushitaro Kamia - PFL)\nDenomina Praça Lazer das Crianças o espaço livre sem denominação localizado no Distrito do Tremembé, Subprefeitura do Tremembé/Jaçanã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Lazer das Crianças o espaço livre sem denominação situado no início da Rua Duquesa de Faial (Setor 222 - Quadras 9, 52 e 984), Distrito do Tremembé, Subprefeitura do Tremembé/Jaçanã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14301",
+   "short": "Lei 14301/2007",
+   "title": "Lei nº 14.301, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14301-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14301",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14301-de-27-de-marco-de-2007",
+     "sha256": "c6ce46378e88628ccd4c0d854782d2fcc13bd933bc348a70ab0e5c9b2b6fe3eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.301, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 462/05, do Vereador Paulo Frange - PTB)\nDenomina Travessa Antonio Borelli o logradouro público sem denominação, Codlog 72438-6, localizado no Distrito do Limão, Subprefeitura Casa Verde/Cachoeirinha.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Antonio Borelli o logradouro público sem denominação, com início na Avenida Deputado Emílio Carlos (Codlog 06450-5) e término na Rua Mateus Correa (Codlog 08621-5), no Setor Fiscal 76, Quadras 368 e 369, Distrito do Limão, Subprefeitura Casa Verde/Cachoeirinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14302",
+   "short": "Lei 14302/2007",
+   "title": "Lei nº 14.302, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14302-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14302",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14302-de-27-de-marco-de-2007",
+     "sha256": "ce70e9cec8cc709c6ee650b405bdb2cb8df4f50f526bb3a3a7e5610b39c4a115",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.302, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 716/05, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Claudino Rodrigues Jardim Júnior o espaço público livre sem denominação, situado no Distrito do Jardim São Luís, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Claudino Rodrigues Jardim Júnior o espaço público livre, sem denominação, localizado na confluência das Ruas Dr. Gabriel Costa, Orfeu da Conceição, Avenida Carlos Caldeira Filho e lotes particulares (Setor 168 - Quadra 256 e Setor 122 - Quadra 180), no Distrito do Jardim São Luís.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14303",
+   "short": "Lei 14303/2007",
+   "title": "Lei nº 14.303, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14303-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14303",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14303-de-27-de-marco-de-2007",
+     "sha256": "b8f692f0a8b1d3a69a11ce4d1dc66fe6186ef70d22de9324e564dfe499da5723",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.303, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 232/06, do Vereador Senival Moura - PT)\nDenomina Rua Fidelis Barbosa o logradouro público inominado, Codlog 67264-5, localizado no Distrito de Vila Jacuí, Subprefeitura de São Miguel Paulista.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Fidelis Barbosa o logradouro público inominado, Codlog 67264-5, com início na Rua dos Escoteiros e término na Rua Julita Oliveira Galindo, situado no Setor 140, entre as Quadras 157 e 158, no Distrito de Vila Jacuí, Subprefeitura de São Miguel Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14304",
+   "short": "Lei 14304/2007",
+   "title": "Lei nº 14.304, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14304-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14304",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14304-de-27-de-marco-de-2007",
+     "sha256": "531b5dcd37c356faca12b0eadb1a353e4328e197df6b3d98f440961f5b566b50",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.304, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 233/06, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Alberto Augusto Mestieri o espaço livre sem denominação, delimitado pelas Ruas Atílio de Oliveira, Jupyra Cunha Marcondes, Professor Haroldo Nogueira e lotes particulares, Distrito do Grajaú, Subprefeitura do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Alberto Augusto Mestieri o espaço livre sem denominação, delimitado pelas Ruas Atílio de Oliveira, Jupyra Cunha Marcondes, Professor Haroldo Nogueira e lotes particulares (Setor 261 - Quadra 98), Distrito do Grajaú, Subprefeitura do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14305",
+   "short": "Lei 14305/2007",
+   "title": "Lei nº 14.305, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14305-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14305-de-27-de-marco-de-2007",
+     "sha256": "12076b59072703b362fe12ae9c2f8de2a60051dc2a08c8e54ad94e719606d9f4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.305, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 236/06, do Vereador Rubens Calvo - PT)\nDenomina Travessa Ali Kassen Abou Jokh logradouro público inominado, que começa na Rua Julião Ferreira da Silva, altura do nº 196, no Bairro da Vila Nova Cachoeirinha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Ali Kassen Abou Jokh a viela sem denominação também conhecida por Viela 4, código CADLOG 76.992-4, que começa na Rua Julião Ferreira da Silva, altura do nº 196 e termina aproximadamente 30 metros além do seu início (Setor 305 - Quadra 96).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14306",
+   "short": "Lei 14306/2007",
+   "title": "Lei nº 14.306, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14306-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14306",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14306-de-27-de-marco-de-2007",
+     "sha256": "901f33822fb5f1fc7c0f387db9a86d4f34545cdf47a014549b4e402100bf7973",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.306, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 238/06, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Waldemar Batista de Oliveira o espaço livre sem denominação da gleba \"A\" do Jardim Eliana, delimitado pelas Ruas Antônio Lopes de Medeiros, Clarissa e Amazonas Marcondes (Setor 174 - Quadras 249, 250 e 265), na Subprefeitura de Capela do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Waldemar Batista de Oliveira o espaço livre sem denominação da gleba \"A\" do Jardim Eliana, delimitado pelas Ruas Antônio Lopes de Medeiros, Clarissa e Amazonas Marcondes (Setor 174 - Quadras 249, 250 e 265), na Subprefeitura de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14307",
+   "short": "Lei 14307/2007",
+   "title": "Lei nº 14.307, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14307-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14307",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14307-de-27-de-marco-de-2007",
+     "sha256": "4112293560445ff916764840ad28482d09a852248ec4619501fee2dad9a34617",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.307, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 254/06, do Vereador Ushitaro Kamia - PFL)\nDenomina Praça Chiroaki Takahashi o logradouro público inominado situado no Bairro do Jaçanã, Distrito do Jaçanã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Chiroaki Takahashi a área pública sem denominação delimitada pelos lotes 138, 139 e 197 (Setor 067 - Quadra 413) e pela Rua Embaixador Mário Guimarães, no Bairro do Jaçanã, Distrito do Jaçanã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14308",
+   "short": "Lei 14308/2007",
+   "title": "Lei nº 14.308, de 27/03/2007 (DENOMINA TRAVESSA MILENIO A ATUAL VIELA SEM DENOMINACAO LOCALIZADA NA SUBPREFEITURA DE CIDADE ADEMAR, E DA OUTRAS PROVIDENCIAS.(PROJETO DE LEI 262/06.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14308-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14308",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14308-de-27-de-marco-de-2007",
+     "sha256": "97aaa6af5d760fc1a39aaa25af7bb8513015d5b7af44915cae7ef8cda16e2dbf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.308, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 262/06, do Vereador Paulo Teixeira - PT)\nDenomina Travessa Milênio a atual viela sem denominação localizada na Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Milênio a atual viela sem denominação com início na Rua Desembargador Olavo Ferreira Prado, entre a Travessa Itaipê e viela sem denominação, e término aproximadamente 50 metros além do seu início (Setor 172 - Quadra 31), Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14309",
+   "short": "Lei 14309/2007",
+   "title": "Lei nº 14.309, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14309-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14309",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14309-de-27-de-marco-de-2007",
+     "sha256": "353b435ad467dc5b8a0c4cf1b73eb49f2cd34d2cccfa39fb1a151cf8039f2553",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.309, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 268/06, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Benedito Geraldo Berti o espaço livre sem denominação, delimitado pela Avenida Adolfo Pinheiro e Ruas Salomão Karlik e Conde de Itu, no Distrito de Santo Amaro, Subprefeitura de Santo Amaro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Benedito Geraldo Berti o espaço livre sem denominação, delimitado pela Avenida Adolfo Pinheiro e Ruas Salomão Karlik e Conde de Itu e imóvel cedido para âmbito cultural (Setor 87 - Quadra 251), no Distrito de Santo Amaro, Subprefeitura de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14310",
+   "short": "Lei 14310/2007",
+   "title": "Lei nº 14.310, de 27/03/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14310-de-27-de-marco-de-2007",
+   "first_law": "lei-2007-14310",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14310-de-27-de-marco-de-2007",
+     "sha256": "5de50d6c6dbe48bdb3be7371f7a4691aaf4ab88558568d9c8370c49fe9a753cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.310, DE 27 DE MARÇO DE 2007\n(Projeto de Lei nº 281/06, do Vereador Abou Anni - PV)\nDenomina Praça Edith dos Santos Reis o espaço livre sem denominação delimitado pelas Ruas José Mauro de Vasconcelos, Frei Adriano Donado, João de Almeida e Silva e rua sem denominação (Setor 125 - Quadras 12, 13 e 167), no Distrito de Pirituba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Edith dos Santos Reis o espaço livre sem denominação delimitado pelas Ruas José Mauro de Vasconcelos, Frei Adriano Donado, João de Almeida e Silva e rua sem denominação (Setor 125 - Quadras 12, 13 e 167), no Distrito de Pirituba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de março de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de março de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

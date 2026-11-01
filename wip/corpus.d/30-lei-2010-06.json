@@ -1,0 +1,346 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "5 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2010-15353": {
+   "label": "Lei nº 15.353, de 20/12/2010",
+   "title": "Denomina Travessa Carlos Dias da Rocha o logradouro inominado situado no Distrito da Saúde (Setor 45 - Quadra 181), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-12-20",
+   "published": "2010-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15353-de-20-de-dezembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15354": {
+   "label": "Lei nº 15.354, de 20/12/2010",
+   "title": "Denomina EMEF Professora Caíra Alayde Alvarenga Medea a Escola Municipal de Ensino Fundamental localizada na Rua Xavier da Silva Ferrão, s/nº, Bairro Sítio Morro Grande, Distrito da Freguesia do Ó, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-12-20",
+   "published": "2010-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15354-de-20-de-dezembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15355": {
+   "label": "Lei nº 15.355, de 22/12/2010",
+   "title": "Oficializa o Hino do Parque Novo Mundo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-12-22",
+   "published": "2010-12-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15355-de-22-de-dezembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15356": {
+   "label": "Lei nº 15.356, de 28/12/2010",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2011.",
+   "kind": "law",
+   "enacted": "2010-12-28",
+   "published": "2010-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15356-de-28-de-dezembro-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2010-15513": {
+   "label": "Lei nº 15.513, de 23/06/2010",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Amigo, a ser comemorado anualmente no dia 20 de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2010-06-23",
+   "published": "2010-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15513-de-23-de-junho-de-2010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2010-15353",
+   "short": "Lei 15353/2010",
+   "title": "Lei nº 15.353, de 20/12/2010 (Denomina Travessa Carlos Dias da Rocha o logradouro inominado situado no Distrito da Saúde (Setor 45 - Quadra 181), e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15353-de-20-de-dezembro-de-2010",
+   "first_law": "lei-2010-15353",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15353-de-20-de-dezembro-de-2010",
+     "sha256": "9d06faa3c413dd605f2e37348a755181e7e997c45cdd83cf8eee14572259cbe1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.353, DE 20 DE DEZEMBRO DE 2010\n(Projeto de Lei nº 524/09, do Vereador Marcelo Aguiar - PSC)\nDenomina Travessa Carlos Dias da Rocha o logradouro inominado situado no Distrito da Saúde (Setor 45 - Quadra 181), e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Carlos Dias da Rocha o logradouro inominado situado no Distrito da Saúde (Setor 45 - Quadra 181), que liga a Avenida Itacira, 1575, com a Avenida Piassanguaba, 1796.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de dezembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 20 de dezembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15354",
+   "short": "Lei 15354/2010",
+   "title": "Lei nº 15.354, de 20/12/2010",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15354-de-20-de-dezembro-de-2010",
+   "first_law": "lei-2010-15354",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15354-de-20-de-dezembro-de-2010",
+     "sha256": "c3b3fc92636a32fe90f92580bdd26ab7765e3e5c3396e74e4188d7cc75e886b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.354, DE 20 DE DEZEMBRO DE 2010\n(Projeto de Lei nº 643/08, do Vereador Claudinho - PSDB)\nDenomina EMEF Professora Caíra Alayde Alvarenga Medea a Escola Municipal de Ensino Fundamental localizada na Rua Xavier da Silva Ferrão, s/nº, Bairro Sítio Morro Grande, Distrito da Freguesia do Ó, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada EMEF Professora Caíra Alayde Alvarenga Medea a Escola Municipal de Ensino Fundamental inominada, situada na Rua Xavier da Silva Ferrão, s/nº, Bairro Sítio Morro Grande, Distrito da Freguesia do Ó.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de dezembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 20 de dezembro de 2010.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15355",
+   "short": "Lei 15355/2010",
+   "title": "Lei nº 15.355, de 22/12/2010 (Oficializa o Hino do Parque Novo Mundo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15355-de-22-de-dezembro-de-2010",
+   "first_law": "lei-2010-15355",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15355-de-22-de-dezembro-de-2010",
+     "sha256": "b96d10b2e04b498aa0c4eb09b7ea8334dfdc36d0df4f870123c8a7622ab0fbac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.355 DE 22 DE DEZEMBRO DE 2010\n(PROJETO DE LEI Nº 380/08)\n(VEREADOR ELISEU GABRIEL - PSB)\nOficializa o Hino do Parque Novo Mundo, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica oficializado o Hino do Parque Novo Mundo, cuja letra e música são de autoria de Candido Serpa Caselli.\nParágrafo único. Fazem parte integrante desta lei a partitura musical e a respectiva letra do Hino do Parque Novo Mundo, na conformidade do Anexo Único.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 22 de dezembro de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 22 de dezembro de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\nANEXO ÚNICO\nHINO DO PARQUE NOVO MUNDO\nAutor: Candido Serpa Caselli\nCombate Mirim da II Guerra\nA cobra está fumando\nFoi lá no vale do rio do pó\nNa batalha de Monte Castelo\nAs cinzas dos Heróis Mortos\nTransladadas de Pistóia\nRepousam no Flamengo!\nFlorescem nas nossas ruas\nNomes de pracinhas tombados\nSão as placas das avenidas\nLembranças dos soldados\nBravos rapazes desaparecidos\nQue nunca serão esquecidos.\nDiziam que era mais fácil\nUma cobra poder fumar\nDo que o Brasil numa Guerra\nNo governo Vargas entrar\nOs brasileiros foram ao combate\nE a cobra passou a fumar!\nNesse bairro cresceu\nA chama da liberdade\nUm novo mundo se ergueu\nA procura da fraternidade!\nUma nova comunidade\nUma livre sociedade!\nSomos os Parquemundenses\nCom lema de lutar\nA cobra passou a fumar\nSe perdemos dois braços\nUm foi a ponte do Tatuapé\nOutro a do Jardim Guançã\nSe o povo favelou o bairro\nE a Europa foi esquecida\nNossa batalha não está perdida\nDia haverá que lindo entorno\nPoderá exibir uma estátua\nA imagem, a imagem\nDe Nossa Senhora da Boa Viagem.\nAqui virão milhares de viajantes\nAos pés da Santa rezar\nPedindo todos para realizar\nAquela viagem que vai tentar\nConseguindo imune chegar\nNo destino que vai alcançar.\nSalve pois a Cobra está fumando\nDa fumaça dos seus charutos\nAs cinzas irão sempre voar\nTransportando das placas das ruas\nTodos nomes dos bravos heróis\nQue deixaram seus corpos por lá!\nSalve Nossa Senhora da Boa Viagem\nA padroeira do nosso Novo Mundo\nQue nunca se precise mais viajar\nNaqueles vapores ou fortalezas voadoras\nPara nunca mais se voltar\nE nossos jovens a vida desfrutar!\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15356",
+   "short": "Lei 15356/2010",
+   "title": "Lei nº 15.356, de 28/12/2010 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2011.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15356-de-28-de-dezembro-de-2010",
+   "first_law": "lei-2010-15356",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15356-de-28-de-dezembro-de-2010",
+     "sha256": "2a94a2692cad6854f19d71eb7f3155dc9498773413b5521d6d469cb839e27c0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.356, DE 28 DE DEZEMBRO DE 2010\n(Projeto de Lei nº 444/10, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2011.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 15 de dezembro de 2010, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2011, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, órgãos e entidades da Administração Direta e Indireta e de seus Fundos Especiais;\nII - o Orçamento de Investimentos das Empresas.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2011.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º. O Orçamento Fiscal dos Poderes do Município, seus Fundos Especiais, órgãos e entidades da Administração Direta e Indireta, para o exercício de 2011, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 35.622.810.875 (trinta e cinco bilhões, seiscentos e vinte e dois milhões, oitocentos e dez mil e oitocentos e setenta e cinco reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A receita total do Orçamento Fiscal, a ser realizada de acordo com a legislação em vigor, está orçada segundo as seguintes estimativas:\nRECEITAS CORRENTES 31.743.126.158\nReceita Tributária 14.711.435.032\nReceita de Contribuições 948.312.333\nReceita Patrimonial 821.519.864\nReceita de Serviços 356.235.251\nTransferências Correntes 13.029.247.080\nOutras Receitas Correntes 2.265.166.372\nReceitas Intra-Orçamentárias Correntes 1.220.993.346\nDeduções de Transferências Correntes -1.609.783.120\nRECEITAS DE CAPITAL 3.879.684.717\nOperações de Crédito 107.300.081\nAlienação de Bens 599.199.900\nAmortização de Empréstimo 16.725.771\nTransferências de Capital 1.466.621.136\nOutras Receitas de Capital 1.676.837.829\nReceitas Intra-Orçamentárias de Capital 13.000.000\nTOTAL DA RECEITA 35.622.810.875\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nÓrgão/Descrição Valor (em R$)\nPODER LEGISLATIVO/ADMINISTRAÇÃO DIRETA\n09 Câmara Municipal 453.429.761,00\n10 Tribunal de Contas 208.300.000,00\nPODER EXECUTIVO/ADMINISTRAÇÃO DIRETA\n11 Secretaria do Governo Municipal 553.803.358,00\n12 Secretaria Municipal de Coordenação das Subprefeituras 696.846.814,00\n13 Secretaria Municipal de Planejamento, Orçamento e Gestão 207.094.039,00\n14 Secretaria Municipal de Habitação 1.110.312.873,00\n16 Secretaria Municipal de Educação 6.978.389.021,00\n17 Secretaria Municipal de Finanças 258.471.691,00\n18 Secretaria Municipal da Saúde/Fundo Municipal de Saúde 5.161.176.516,00\n19 Secretaria Municipal de Esportes, Lazer e Recreação 280.373.010,00\n20 Secretaria Municipal de Transportes 1.276.175.088,00\n21 Secretaria Municipal dos Negócios Jurídicos 185.288.216,00\n22 Secretaria Municipal de Infraestrutura Urbana e Obras 1.931.082.369,00\n23 Secretaria Municipal de Serviços 1.150.808.063,00\n24 Secretaria Municipal de Assistência e Desenvolvimento Social 341.673.892,00\n25 Secretaria Municipal de Cultura 337.233.019,00\n27 Secretaria Municipal do Verde e do Meio Ambiente 260.668.836,00\n28 Encargos Gerais do Município 5.649.276.977,00\n30 Secretaria Municipal de Desenvolvimento Econômico e do Trabalho 131.977.493,00\n31 Secretaria Municipal de Relações Internacionais 8.544.070,00\n32 Ouvidoria Geral do Município de São Paulo 3.373.948,00\n34 Secretaria Municipal de Participação e Parceria 102.710.671,00\n36 Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida 18.079.292,00\n37 Secretaria Municipal de Desenvolvimento Urbano 256.878.092,00\n38 Secretaria Municipal de Segurança Urbana 321.836.669,00\n41 Subprefeitura Perus 25.312.169,00\n42 Subprefeitura Pirituba/Jaraguá 36.320.114,00\n43 Subprefeitura Freguesia/Brasilândia 34.850.268,00\n44 Subprefeitura Casa Verde/Cachoeirinha 26.241.513,00\n45 Subprefeitura Santana/Tucuruvi 29.683.132,00\n46 Subprefeitura Jaçanã/Tremembé 28.133.674,00\n47 Subprefeitura Vila Maria/Vila Guilherme 30.329.171,00\n48 Subprefeitura Lapa 31.640.796,00\n49 Subprefeitura Sé 53.691.324,00\n50 Subprefeitura Butantã 50.143.421,00\n51 Subprefeitura Pinheiros 30.786.639,00\n52 Subprefeitura Vila Mariana 31.321.240,00\n53 Subprefeitura Ipiranga 33.533.183,00\n54 Subprefeitura Santo Amaro 35.093.436,00\n55 Subprefeitura Jabaquara 29.919.937,00\n56 Subprefeitura Cidade Ademar 32.755.679,00\n57 Subprefeitura Campo Limpo 52.939.161,00\n58 Subprefeitura M´Boi Mirim 66.265.208,00\n59 Subprefeitura Capela do Socorro 53.028.346,00\n60 Subprefeitura Parelheiros 24.277.827,00\n61 Subprefeitura Penha 46.890.067,00\n62 Subprefeitura Ermelino Matarazzo 26.187.621,00\n63 Subprefeitura São Miguel 38.288.215,00\n64 Subprefeitura Itaim Paulista 46.258.421,00\n65 Subprefeitura Mooca 35.771.201,00\n66 Subprefeitura Aricanduva/Formosa/Carrão 33.570.952,00\n67 Subprefeitura Itaquera 53.154.401,00\n68 Subprefeitura Guaianases 35.960.161,00\n69 Subprefeitura Vila Prudente/Sapopemba 39.125.324,00\n70 Subprefeitura São Mateus 47.266.136,00\n71 Subprefeitura Cidade Tiradentes 23.058.014,00\n86 Fundo Municipal de Saneamento Ambiental e Infraestrutura 400.000.000,00\n87 Fundo Municipal de Desenvolvimento de Trânsito 660.534.490,00\n88 Fundo de Preservação do Patrimônio Histórico e Cultural 400.000,00\n89 Fundo Municipal de Esportes, Lazer e Recreação 8.796.000,00\n90 Fundo Municipal dos Direitos da Criança e do Adolescente 116.607.246,00\n91 Fundo Municipal de Habitação 55.000.000,00\n93 Fundo Municipal de Assistência Social 602.517.193,00\n94 Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável 64.851.518,00\n95 Fundo Especial de Promoção de Atividades Culturais 10.616.000,00\n96 Fundo Municipal de Turismo 600.000,00\n97 Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano 800.000,00\n98 Fundo de Desenvolvimento Urbano 161.031.000,00\n99 Fundo Municipal de Iluminação Pública 253.577.704,00\nPODER EXECUTIVO/ADMINISTRAÇÃO INDIRETA\n01 Autarquia Hospitalar Municipal 773.520.634,00\n02 Hospital do Servidor Público Municipal 189.520.000,00\n03 Instituto de Previdência Municipal de São Paulo 3.063.738.600,00\n04 Serviço Funerário do Município de São Paulo 116.200.000,00\n80 Fundação Paulistana de Educação e Tecnologia 9.831.569,00\n81 Autoridade Municipal de Limpeza Urbana/Fundo Munic. de Limpeza Urbana 10.000,00\n83 Companhia Metropolitana de Habitação de São Paulo 88.058.392,00\nReserva de Contingência 1.000.000,00\nTOTAL 35.622.810.875,00\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º. A despesa total das empresas, nela incluída a de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2011, está fixada em R$ 3.002.992.408,00 (três bilhões, dois milhões, novecentos e noventa e dois mil e quatrocentos e oito reais), com a seguinte distribuição:\nEmpresas Valor (R$)\nCompanhia de Engenharia de Tráfego - CET 735.137.886\nCia. São Paulo de Desenvolvimento e Mobilização de Ativos - SPDA 501.000\nCia. São Paulo de Parcerias - SPP 73.001.000\nEmpresa de Tecnologia da Informação e Comunicação - PRODAM 168.018.344\nSão Paulo Urbanismo - SPUrbanismo 127.460.740\nSão Paulo Obras - SPObras 1.140.510.465\nSão Paulo Transporte S/A - SPTrans 503.819.555\nSão Paulo Turismo S/A - SPTuris 254.543.418\nTOTAL 3.002.992.408\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º. Fica o Executivo autorizado a contratar operações de crédito com organismos nacionais e internacionais:\nI - até o limite de R$ 85.000.000,00 (oitenta e cinco milhões de reais), para desenvolver, no âmbito do Município de São Paulo, o Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros - PNAFM;\nII - até o limite de R$ 85.000.000,00 (oitenta e cinco milhões de reais), para desenvolver o Programa de Modernização da Administração Tributária e da Gestão dos Setores Sociais Básicos - PMAT II.\n§ 1º. Os prazos de amortização, a carência, os prazos financeiros e outras condições de vencimento e liquidação da operação de crédito a ser contratada obedecerão às normas vigentes estabelecidas pelos órgãos gestores dos programas e pelas autoridades monetárias federais.\n§ 2º. Em garantia aos empréstimos a serem contratados com organismos nacionais, fica autorizada a vinculação de cotas do Imposto sobre Operações Relativas à Circulação de Mercadorias e Serviços - ICMS.\n§ 3º. Nos empréstimos a serem contratados com organismos internacionais, em contragarantia à garantia da União, fica autorizada a vinculação das cotas de repartição constitucional previstas nos arts. 158 e 159 da Constituição Federal, complementadas pelas receitas tributárias estabelecidas em seu art. 156, nos termos do § 4º de seu art. 167, bem como outras garantias em direito admitidas.\n§ 4º. Os montantes de que trata este artigo serão atualizados até as datas das respectivas contratações das operações de crédito.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Nos termos do disposto no inciso III do art. 10 da Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Adicionais Suplementares\nArt. 8º. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares por decreto, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, para a Administração Direta, Indireta e seus Fundos Municipais, até o limite de 15% (quinze por cento) do total da despesa fixada no art. 2º desta lei, criando, se necessário, elementos de despesa e fontes de recurso dentro de cada projeto, atividade ou operação especial.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Ficam excluídos do limite estabelecido no art. 8º desta lei os créditos adicionais suplementares:\nI - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinados a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nIV - destinados a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal nº 4.320, de 17 de março de 1964;\nV - destinados à transposição de recursos entre dotações das funções Educação, Assistência Social, Saúde e Habitação.\n§ 1º. A abertura de créditos adicionais suplementares será feita mediante a edição de decretos do Poder Executivo, devidamente justificados.\n§ 2º. Os recursos destinados ao pagamento do grupo de natureza de despesa de pessoal poderão ser remanejados para outras despesas, no último quadrimestre do exercício, desde que os eventos que subsidiaram a previsão da despesa de pessoal não se concretizem.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a remanejar recursos, no âmbito de cada órgão, entre elementos do mesmo grupo de despesa e entre atividades, projetos e operações especiais de um mesmo programa, sem onerar o limite estabelecido no art. 8º desta lei.\nParágrafo único. Fica a critério do Poder Executivo autorizar a abertura de créditos adicionais suplementares, mediante portaria dos respectivos Titulares dos Órgãos, exclusivamente para os casos em que o elemento de despesa a ser suplementado ou anulado seja da mesma modalidade de aplicação e fonte, devidamente justificados.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares à conta de excesso de arrecadação de receitas específicas e vinculadas a determinada finalidade, assim como daquelas relativas à fonte 00 - Recursos do Tesouro Municipal, nos termos do art. 43 da Lei nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Fica a Mesa da Câmara Municipal de São Paulo, observadas as normas de controle e acompanhamento da execução orçamentária, em especial o decreto de execução orçamentária e financeira, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizada a suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 8º desta lei, as dotações do Órgão, desde que os recursos sejam provenientes de anulação total ou parcial de suas dotações orçamentárias, conforme estabelece o inciso II do art. 27 da Lei Orgânica do Município de São Paulo, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto ou atividade.\nParágrafo único. Aplicam-se, no que couber, ao órgão de que trata este artigo, as exclusões previstas no art. 9º desta lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Ficam as entidades da Administração Indireta autorizadas, por ato próprio, a abrir créditos adicionais suplementares em suas dotações, respeitado o limite estabelecido no art. 8º desta lei, calculado sobre o valor consignado, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto, atividade ou operação especial.\n§ 1º. Aplicam-se, no que couber, a cada entidade, as exclusões previstas no art. 9º desta lei.\n§ 2º. Os pedidos de adequação orçamentária a que se refere o \"caput\" deste artigo deverão ser analisados pelas Secretarias às quais estejam vinculadas e ratificados pela Secretaria Municipal de Planejamento, Orçamento e Gestão.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 14. Para efeito do disposto no art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, serão preservadas, prioritariamente, as dotações das áreas de Educação, Saúde, Habitação e Assistência Social.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Fica o Poder Executivo autorizado a criar dotação orçamentária para a implementação da Autoridade Municipal de Limpeza Urbana, nos termos da Lei nº 13.478, de 30 de dezembro de 2002, e alterações posteriores.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta lei entra em vigor em 1º de janeiro de 2011.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2010, 457º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2010.\n***OBS: Os anexos desta lei serão publicados na íntegra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-15513",
+   "short": "Lei 15513/2010",
+   "title": "Lei nº 15.513, de 23/06/2010 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Amigo, a ser comemorado anualmente no dia 20 de julho, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15513-de-23-de-junho-de-2010",
+   "first_law": "lei-2010-15513",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15513-de-23-de-junho-de-2010",
+     "sha256": "f79e6ec22ef694fd5fe92b649c21a404b08fa9850c2148b49b28599f04e996b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.213 DE 23 DE JUNHO DE 2010\n(PROJETO DE LEI Nº 709/09)(VEREADOR PENNA - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Amigo, a ser comemorado anualmente no dia 20 de julho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"20 de julho: o Dia do Amigo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 24 de junho de 2010.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 24 de junho de 2010.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

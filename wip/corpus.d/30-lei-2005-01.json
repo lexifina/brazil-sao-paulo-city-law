@@ -1,0 +1,2820 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2004-13943": {
+   "label": "Lei nº 13.943, de 29/12/2004",
+   "title": "PROIBE A ENTREGA DE ANIMAIS CAPTURADOS NAS RUAS PARA INSTITUICOES E CENTROS DE PESQUISA E ENSINO. (PL 428/03)",
+   "kind": "law",
+   "enacted": "2004-12-29",
+   "published": "2005-01-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13943-de-29-de-dezembro-de-2004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13945": {
+   "label": "Lei nº 13.945, de 07/01/2005",
+   "title": "Dispõe sobre a obrigatoriedade da manutenção de aparelho desfibrilador externo automático em locais que designa e que tenham concentração/circulação média diária de 1500 ou mais pessoas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-01-07",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13945-de-07-de-janeiro-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13946": {
+   "label": "Lei nº 13.946, de 13/01/2005",
+   "title": "ALTERA A DENOMINACAO DO CENTRO DE SAUDE DR. JOSE DE TOLEDO PIZA, NO BAIRRO DO TREMEMBE, PARA CONJUNTO DO IPESP, E DA OUTRAS PROVIDENCIAS. (PL 851/03)",
+   "kind": "law",
+   "enacted": "2005-01-13",
+   "published": "2005-01-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13946-de-13-de-janeiro-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13947": {
+   "label": "Lei nº 13.947, de 17/01/2005",
+   "title": "DENOMINA PRACA JOSE ALIPIO PINTO O LOGRADOURO PUBLICO INOMINADO, SITUADO NO DISTRITO DA MOOCA. (PL 335/04)",
+   "kind": "law",
+   "enacted": "2005-01-17",
+   "published": "2005-01-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13947-de-17-de-janeiro-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13948": {
+   "label": "Lei nº 13.948, de 20/01/2005",
+   "title": "Dispõe sobre a obrigatoriedade das agências bancárias e demais estabelecimentos de crédito de colocar à disposição dos usuários pessoal suficiente no setor de caixas, para dar atendimento digno e profissional a seus clientes.",
+   "kind": "law",
+   "enacted": "2005-01-20",
+   "published": "2005-01-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13948-de-20-de-janeiro-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13950": {
+   "label": "Lei nº 13.950, de 22/02/2005",
+   "title": "Altera a redação do § 8º do art. 17 da Lei nº 13.637, de 04 de setembro de 2003, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-02-22",
+   "published": "2005-02-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13950-de-22-de-fevereiro-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13951": {
+   "label": "Lei nº 13.951, de 02/03/2005",
+   "title": "Revoga a Lei nº 5.700, de 15 de março de 1960, e aprova plano de melhoramentos no Bairro de Pinheiros, Subprefeitura de Pinheiros.",
+   "kind": "law",
+   "enacted": "2005-03-02",
+   "published": "2005-03-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13951-de-2-de-marco-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13952": {
+   "label": "Lei nº 13.952, de 23/03/2005",
+   "title": "INSTITUI A PRESTACAO TRIMESTRAL DE CONTAS, NA ESFERA DE CADA SUBPREFEITURA, POR PARTE DO GESTOR DO SISTEMA UNICO DE SAUDE. (PL 482/03)",
+   "kind": "law",
+   "enacted": "2005-03-23",
+   "published": "2005-03-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13952-de-23-de-marco-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13953": {
+   "label": "Lei nº 13.953, de 23/03/2005",
+   "title": "DISPOE SOBRE A OBRIGATORIEDADE DO EXECUTIVO ENVIAR RELATORIO TRIMESTRAL SOBRE A EXECUCAO DA COLETA, TRATAMENTO E DESTINACAO FINAL DO LIXO EM SAO PAULO. (PL 400/95)",
+   "kind": "law",
+   "enacted": "2005-03-23",
+   "published": "2005-03-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13953-de-23-de-marco-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13954": {
+   "label": "Lei nº 13.954, de 07/04/2005",
+   "title": "DENOMINA TRAVESSA JOSE TIMOTEO DE OLIVEIRA O LOGRADOURO INOMINADO SITUADO EM AMERICANOPOLIS, DISTRITO DE CIDADE ADEMAR. (PL 582/03)",
+   "kind": "law",
+   "enacted": "2005-04-07",
+   "published": "2005-04-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13954-de-7-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13955": {
+   "label": "Lei nº 13.955, de 07/04/2005",
+   "title": "DENOMINA PRACA MANOEL ANTONIO DOURADO O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DE CAPAO REDONDO. (PL 612/03)",
+   "kind": "law",
+   "enacted": "2005-04-07",
+   "published": "2005-04-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13955-de-7-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13956": {
+   "label": "Lei nº 13.956, de 07/04/2005",
+   "title": "DENOMINA PRACA NELLO VICTOR ROSSI O ESPACO PUBLICO LIVRE E SEM DENOMINACAO, LOCALIZADO NA CONFLUENCIA DA RUA FRANCISCO PESSOA COM A RUA AURELIANO GUIMARAES (SETOR 171 - QUADRAS 204, 211 E 221), NO BAIRRO VILA ANDRADE, DISTRITO DE VILA ANDRADE. (PL 670/03)",
+   "kind": "law",
+   "enacted": "2005-04-07",
+   "published": "2005-04-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13956-de-7-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13958": {
+   "label": "Lei nº 13.958, de 12/04/2005",
+   "title": "DENOMINA PRACA AGOSTINHO TOMAZELLI O ESPACO PUBLICO SEM DENOMINACAO, SITUADO NA VILA SIQUEIRA, DISTRITO DO LIMAO. (PL 690/01)",
+   "kind": "law",
+   "enacted": "2005-04-12",
+   "published": "2005-04-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13958-de-12-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13962": {
+   "label": "Lei nº 13.962, de 29/04/2005",
+   "title": "DENOMINA PRACA MARIA DA PENHA GONCALVES DA SILVA O LOGRADOURO PUBLICO SITUADO NO DISTRITO DO PARQUE DO CARMO, E DA OUTRAS PROVIDENCIAS. (PL 589/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13962-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13963": {
+   "label": "Lei nº 13.963, de 29/04/2005",
+   "title": "DENOMINA PRA«A FELIX LOPES FREITAS O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS COROATA, ANTONIO TABORDA E DOS ARIOSOS (SETOR 113 - 609), NO BAIRRO JARDIM HERCILIA, DISTRITO DE VILA MATILDE. (PL 625/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13963-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13964": {
+   "label": "Lei nº 13.964, de 29/04/2005",
+   "title": "DENOMINA PRACA PADRE PAULO STRAUSS FILHO O ESPACO LIVRE SEM DENOMINACAO SITUADO NA VILA SILVIA, NO DISTRITO DE CANGAIBA, E DA OUTRAS PROVIDENCIAS. (PL 658/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13964-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13965": {
+   "label": "Lei nº 13.965, de 29/04/2005",
+   "title": "DENOMINA PRACA JOSE LUIZ ABBIATTI O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO BAIRRO DE CIDADE JARDIM, DISTRITO DO MORUMBI, E DA OUTRAS PROVIDENCIAS. ( 746/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13965-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13966": {
+   "label": "Lei nº 13.966, de 29/04/2005",
+   "title": "DENOMINA PRACA ALBERTO SCHNEEBERGER O ESPACO LIVRE SEM DENOMINACAO, SITUADO NA VILA SUZANA, BAIRRO DO MORUMBI. (PL 750/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13966-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13967": {
+   "label": "Lei nº 13.967, de 29/04/2005",
+   "title": "DENOMINA RUA ENGENHEIRO ARMANDO DE VIRGILIIS LOGRADOURO PUBLICO INOMINADO LOGRADOURO PUBLICO INOMINADO LOCALIZADO NA VILA AFONSO CELSO, DISTRITO DE VILA MARIANA, E DA OUTRAS PROVIDENCIAS. (PL 803/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13967-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13968": {
+   "label": "Lei nº 13.968, de 29/04/2005",
+   "title": "DENOMINA PRACA DIOMID GARGALAC O ESPACO LIVRE SEM DENOMINACAO, DELIMITADO PELAS RUAS OLIMPIO BRAZ DE SOUZA, FELIX DE OTERO E AURELIO PINHEIRO (SETOR 057 - QUADRAS 212 E 213), LOCALIZADO NO BAIRRO DE VILA EUTALIA, DISTRITO DE VILA MATILDE, E DA OUTRAS PROVIDENCIAS. (PL 854/03)",
+   "kind": "law",
+   "enacted": "2005-04-29",
+   "published": "2005-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13968-de-29-de-abril-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13969": {
+   "label": "Lei nº 13.969, de 05/05/2005",
+   "title": "Denomina Praça Romiglio Finozzi espaço livre inominado, situado na Vila Centenário, Distrito da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-05-05",
+   "published": "2005-05-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13969-de-5-de-maio-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13970": {
+   "label": "Lei nº 13.970, de 05/05/2005",
+   "title": "DISPOE SOBRE A CONTRATACAO DE PESSOAL, POR TEMPO DETERMINADO, NO AMBITO DA SECRETARIA MUNICIPAL DA SAUDE E DAS SUBPREFEITURAS, PARA O EXERCICIO DE ATIVIDADES LIGADAS AO CONTROLE DO AEDES AEGYPTI E DO SERVICO DE ATENDIMENTO MOVEL DE URGENCIA - SAMU-192.",
+   "kind": "law",
+   "enacted": "2005-05-05",
+   "published": "2005-05-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13970-de-5-de-maio-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13971": {
+   "label": "Lei nº 13.971, de 09/05/2005",
+   "title": "DISPOE SOBRE REAJUSTE E REVISAO DOS PADROES DE VENCIMENTOS E SALARIOS DOS SERVIDORES DA CAMARA MUNICIPAL DE SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 195/05)",
+   "kind": "law",
+   "enacted": "2005-05-09",
+   "published": "2005-05-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13971-de-9-de-maio-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13972": {
+   "label": "Lei nº 13.972, de 09/05/2005",
+   "title": "Altera disposições da Lei nº 13.637, de 04/09/03, e da Lei nº 13.638, de 04/09/03, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-05-09",
+   "published": "2005-05-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13972-de-09-de-maio-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13973": {
+   "label": "Lei nº 13.973, de 12/05/2005",
+   "title": "Dispõe sobre as contribuições para o regime próprio de previdência social dos servidores públicos do Município de São Paulo que especifica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-05-12",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13973-de-12-de-maio-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13974": {
+   "label": "Lei nº 13.974, de 10/06/2005",
+   "title": "ALTERA A DENOMINACAO DA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL - EMEF NOVO GRAJAU, LOCALIZADA NA RUA ALBA VALDEZ N. 5 - JARDIM REIMBERG - DISTRITO DE GRAJAU, PARA EMEF LOURIVAL BRANDAO DOS SANTOS, E DA OUTRAS PROVIDENCIAS. (PL 314/01)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13974-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13975": {
+   "label": "Lei nº 13.975, de 10/06/2005",
+   "title": "Denomina EMEI Jair Gusman Pedrosa a unidade escolar situada na Avenida Paulo Costa Ribeiro Bastos, s/nº, no Jardim Guanhembu.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13975-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13976": {
+   "label": "Lei nº 13.976, de 10/06/2005",
+   "title": "Dispõe sobre a oficialização da denominação \"Marco da Paz\" para escultura que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13976-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13977": {
+   "label": "Lei nº 13.977, de 10/06/2005",
+   "title": "Denomina Complexo Turístico Caio de Alcântara Machado o conjunto arquitetônico instalado no Parque Anhembi, localizado na Avenida Olavo Fontoura, 1209, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13977-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13978": {
+   "label": "Lei nº 13.978, de 10/06/2005",
+   "title": "Denomina CEI Frei Airton Pereira da Silva o próprio municipal conhecido por CEI Direta COHAB Adventista I, localizado na Rua Safra, s/nº, Conjunto Habitacional Instituto Adventista, Capão Redondo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13978-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13979": {
+   "label": "Lei nº 13.979, de 10/06/2005",
+   "title": "Denomina Terminal Vereador Osvaldo Giannotti a estação final do Paulistão - V.L.P. (Veículo Leve sobre Pneus), na Praça Altemar Dutra - bairro do Ipiranga.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13979-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13980": {
+   "label": "Lei nº 13.980, de 10/06/2005",
+   "title": "DENOMINA EMEF PLINIO MARCOS A EMEF JARDIM PAPAI NOEL, LOCALIZADA A RUA BELEM, S/N., JARDIM PAPAI NOEL - SUBPREFEITURA DE PARELHEIROS. (PL 672/03)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13980-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13981": {
+   "label": "Lei nº 13.981, de 10/06/2005",
+   "title": "DISPOE SOBRE ALTERACAO DE DENOMINACAO DE LOGRADOURO, E DA OUTRAS PROVIDENCIAS. (PL 906/95)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13981-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13982": {
+   "label": "Lei nº 13.982, de 10/06/2005",
+   "title": "Denomina EMEF Hermes Ferreira de Souza a EMEF inominada do CEU do Campo Limpo, Distrito do Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13982-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13983": {
+   "label": "Lei nº 13.983, de 10/06/2005",
+   "title": "Denomina Centro de Educação Infantil Bryan Biguinati Jardim o estabelecimento municipal de ensino situado no Jardim Ingá, Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13983-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13984": {
+   "label": "Lei nº 13.984, de 10/06/2005",
+   "title": "Dá denominação ao Ambulatório de Especialidades de Sapopemba.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13984-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13985": {
+   "label": "Lei nº 13.985, de 10/06/2005",
+   "title": "Denomina Santo Dias da Silva a ponte conhecida como Socorro, no Subdistrito de Capela do Socorro.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13985-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13986": {
+   "label": "Lei nº 13.986, de 10/06/2005",
+   "title": "Denomina Viaduto Professor Matajiro Yamaguishi viaduto sem denominação, situado no Complexo Viário Luiz Gonzaga, Distrito de Itaquera.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13986-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13987": {
+   "label": "Lei nº 13.987, de 10/06/2005",
+   "title": "ALTERA DENOMINACAO DA ATUAL RUA JOSE BENEDITO VIANA DE MORAES, NO BAIRRO DO BUTANTA, PARA RUA J. B. VIANA DE MORAES. (PL 137/02)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13987-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13988": {
+   "label": "Lei nº 13.988, de 10/06/2005",
+   "title": "Denomina Escola Municipal de Ensino Fundamental inominada, situada no bairro Jardim São Francisco, Distrito de São Rafael.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13988-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13989": {
+   "label": "Lei nº 13.989, de 10/06/2005",
+   "title": "Cria o Museu do Futebol nas dependências do Estádio Municipal Paulo Machado de Carvalho - Estádio do Pacaembu, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13989-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13990": {
+   "label": "Lei nº 13.990, de 13/06/2005",
+   "title": "DENOMINA PADRE ALDO DA TOFORI A UNIDADE ESCOLAR CONHECIDA COMO EMEF VILA GUACURI, EDIFICADA NA RUA DR. CARLOS DE RESENDE ENOUT COM MIGUEL PIETA E FRANCISCO JOSE DA COSTA, PARQUE DOROTEIA, SUBPREFEITURA DE CIDADE ADEMAR, E DA OUTRAS PROVIDENCIAS. (PL 183/03)",
+   "kind": "law",
+   "enacted": "2005-06-13",
+   "published": "2005-06-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13990-de-13-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13991": {
+   "label": "Lei nº 13.991, de 11/06/2005",
+   "title": "Institui o Programa de Transferência de Recursos Financeiros às Associações de Pais e Mestres das Unidades Educacionais da Rede Municipal de Ensino.",
+   "kind": "law",
+   "enacted": "2005-06-11",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13991-de-11-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13992": {
+   "label": "Lei nº 13.992, de 10/06/2005",
+   "title": "Dispõe sobre a proibição de realização de concursos públicos aos sábados na Administração Pública Direta e Indireta no Município de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13992-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13993": {
+   "label": "Lei nº 13.993, de 10/06/2005",
+   "title": "Dispõe sobre a obrigatoriedade de colocação de indicação de profundidade nas bordas das piscinas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13993-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13996": {
+   "label": "Lei nº 13.996, de 10/06/2005",
+   "title": "Dispõe sobre a denominação de logradouro público na confluência das ruas Bernardino D'Áuria e João Carlos Fortim como Praça Kazuo Suguyama, no Jardim Tremembé.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13996-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-13999": {
+   "label": "Lei nº 13.999, de 10/06/2005",
+   "title": "Dispõe sobre a nova denominação da Ponte do Morumbi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13999-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-14000": {
+   "label": "Lei nº 14.000, de 10/06/2005",
+   "title": "DISPOE SOBRE A GARANTIA DE ATENDIMENTO MEDICO PERIODICOS AOS PACIENTES QUE JA DOARAM ORGAOS, E DA OUTRAS PROVIDENCIAS. (PL 159/02)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14000-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-14001": {
+   "label": "Lei nº 14.001, de 10/06/2005",
+   "title": "DISPOE SOBRE A PRESENCA DE FAMILIARES ADULTOS EM QUARTOS DE HOSPITAIS PUBLICOS COMO ACOMPANHANTES DE PESSOAS ACIMA DE 60 ANOS. (PL 692/02)",
+   "kind": "law",
+   "enacted": "2005-06-10",
+   "published": "2005-06-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14001-de-10-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2005-14003": {
+   "label": "Lei nº 14.003, de 14/06/2005",
+   "title": "Consolida o Programa Municipal de Intervenção em Ruas Comerciais do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2005-06-14",
+   "published": "2005-06-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14003-de-14-de-junho-de-2005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2004-13943",
+   "short": "Lei 13943/2004",
+   "title": "Lei nº 13.943, de 29/12/2004 (PROIBE A ENTREGA DE ANIMAIS CAPTURADOS NAS RUAS PARA INSTITUICOES E CENTROS DE PESQUISA E ENSINO. (PL 428/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13943-de-29-de-dezembro-de-2004",
+   "first_law": "lei-2004-13943",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13943-de-29-de-dezembro-de-2004",
+     "sha256": "e51e60c61c3f40bf90b1eecf0192079b4a74ee6eb2aca6d6d62ca6c8d9b478d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.943 DE 29 DE DEZEMBRO DE 2004\nSUPERVISÃO DE FINALIZAÇÃO DO PROCESSO LEGISLATIVO - SGP-23\nLEI 13.943 DE 29 DE DEZEMBRO DE 2004\n(PROJETO DE LEI 428/03)\n(VEREADOR ROBERTO TRIPOLI - PSDB)\nProíbe a entrega de animais capturados nas ruas para instituições e centros de pesquisa e ensino.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O órgão responsável pelo controle de zoonoses no município de São Paulo fica proibido de fornecer animais capturados nas ruas da cidade para instituições e centros de pesquisa e ensino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 03 de janeiro de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 03 de janeiro de 2005.\nO Secretário Geral Parlamentar, Marcos Antonio Silv\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13945",
+   "short": "Lei 13945/2005",
+   "title": "Lei nº 13.945, de 07/01/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13945-de-07-de-janeiro-de-2005",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2005-13945"
+   ],
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13945-de-07-de-janeiro-de-2005",
+     "sha256": "1f9c87bc5016d3ad90a33306b1fc33dbed9b7a58d553b4cbccb99a71b187823b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.945, DE 7 DE JANEIRO DE 2005\n(Projeto de Lei nº 412/02, do Vereador William Woo - PSDB)\nDispõe sobre a obrigatoriedade da manutenção de aparelho desfibrilador externo automático em locais que designa e que tenham concentração/circulação média diária de 1500 ou mais pessoas, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os aeroportos, shopping centers, centros empresariais, estádios de futebol, hotéis, hipermercados e supermercados, casas de espetáculos e locais de trabalho com concentração acima de 1.000 (mil) pessoas ou circulação média diária de 3.000 (três mil) ou mais pessoas, os clubes e academias com mais de 1.000 (mil) sócios, as instituições financeiras e de ensino, os parques, velórios e cemitérios, com concentração ou circulação média diária de 1.500 (mil e quinhentas) ou mais pessoas, ficam obrigados a manter, em suas dependências, aparelho desfibrilador externo automático.\n§ 1º. Com a finalidade de estabelecer os parâmetros de conduta a serem seguidos na utilização do desfibrilador externo automático, a capacitação deverá ser promovida por meio de curso ministrado de acordo com as recomendações do Conselho Nacional de Ressuscitação.\n§ 2º. Os estabelecimentos e órgãos públicos abrangidos pelo disposto no \"caput\" deste artigo deverão promover a capacitação de todos os integrantes da Comissão Interna de Prevenção de Acidentes - CIPA, de todo o efetivo da Brigada de Incêndio e da Brigada de Emergência, além de mais dois funcionários por turno, por aparelho.\n§ 3º. Os estabelecimentos que contarem com serviço médico em suas dependências deverão manter responsável técnico médico presente durante todo o período de funcionamento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os desfibriladores externos automáticos deverão preencher os requisitos gerais de:\nI - facilidade de operação, de modo que o equipamento possa ser utilizado pela população em geral, devidamente treinada;\nII - segurança, a fim de proteger, tanto o operador quanto a pessoa acometida de problemas cardíacos, devendo os mesmos ter garantia de que a liberação do choque somente ocorrerá em vítimas em fibrilação ventricular, garantia esta que tenha demonstração baseada em evidenciação científica, realizada com base em testes de sensibilidade e especificidade;\nIII - portabilidade, permitindo seu acondicionamento em automóveis e kits de primeiros socorros transportados por socorristas em meio a multidões ou através de locais de acesso complicado ou limitado;\nIV - durabilidade, para que o equipamento se mantenha em prontas e corretas condições de uso em locais não-protegidos e sujeito a choques ou quedas;\nV - manutenção mínima, de sorte que o sistema de baterias dispense recargas freqüentes, dependentes de inspeção constante, contando, para isso, com dispositivos autocapazes de monitorizar a situação das baterias e dos componentes eletrônicos e, assim, alertar o usuário sobre a necessidade de quaisquer reparos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento ao disposto na presente lei implicará na imposição de multa de R$ 2.000,00 (dois mil reais), renovada semanalmente até a constatação de que cessou o ato de infração.\nParágrafo único. A multa prevista no \"caput\" deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público Municipal regulamentará esta lei no prazo de 90 (noventa) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de janeiro de 2005, 451º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nLUIZ ANTÔNIO GUIMARÃES MARREY, Secretário Municipal dos Negócios Jurídicos\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nCLÁUDIO LUIZ LOTTENBERG, Secretário Municipal da Saúde\nPublicada na Secretaria do Governo Municipal, em 7 de janeiro de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.945, de 07/01/2005 was altered by acts of 2 date(s), the latest 2010-12-28."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13946",
+   "short": "Lei 13946/2005",
+   "title": "Lei nº 13.946, de 13/01/2005 (ALTERA A DENOMINACAO DO CENTRO DE SAUDE DR. JOSE DE TOLEDO PIZA, NO BAIRRO DO TREMEMBE, PARA CONJUNTO DO IPESP, E DA OUTRAS PROVIDENCIAS. (PL 851/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13946-de-13-de-janeiro-de-2005",
+   "first_law": "lei-2005-13946",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13946-de-13-de-janeiro-de-2005",
+     "sha256": "d46c1566896d7bf30b6f1452cc31c961ac540e8a63742e6d6e07c4abe66f8b32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.946, DE 13 DE JANEIRO DE 2005\n(Projeto de Lei nº 851/03, do Vereador Vanderlei Jangrossi - PSL)\nAltera a denominação do Centro de Saúde Dr. José de Toledo Piza, no Bairro do Tremembé, para Conjunto do IPESP, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Altera a denominação do Centro de Saúde Dr. José de Toledo Piza, no Bairro do Tremembé, para Conjunto do IPESP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de janeiro de 2005, 451º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nLUIZ ANTÔNIO GUIMARÃES MARREY, Secretário Municipal dos Negócios Jurídicos\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nCLAUDIO LUIZ LOTTENBERG, Secretária Municipal da Saúde\nPublicada na Secretaria do Governo Municipal, em 13 de janeiro de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13947",
+   "short": "Lei 13947/2005",
+   "title": "Lei nº 13.947, de 17/01/2005 (DENOMINA PRACA JOSE ALIPIO PINTO O LOGRADOURO PUBLICO INOMINADO, SITUADO NO DISTRITO DA MOOCA. (PL 335/04))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13947-de-17-de-janeiro-de-2005",
+   "first_law": "lei-2005-13947",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13947-de-17-de-janeiro-de-2005",
+     "sha256": "5c3187c3239ee4dc1675536529451ffb824a79930cfb41b087c95708d8a447b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.947, DE 17 DE JANEIRO DE 2005\n(Projeto de Lei nº 335/04, do Vereador Cláudio Fonseca - sem partido)\nDenomina Praça José Alípio Pinto o logradouro público inominado, situado no Distrito da Mooca.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Alípio Pinto o espaço livre sem denominação situado no quadrante oeste da confluência da Rua Juventus com a Rua Celso de Azevedo Marques (Setor 32 - Quadra 66), na Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de janeiro de 2005, 451º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nLUIZ ANTÔNIO GUIMARÃES MARREY, Secretário Municipal dos Negócios Jurídicos\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 17 de janeiro de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13948",
+   "short": "Lei 13948/2005",
+   "title": "Lei nº 13.948, de 20/01/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13948-de-20-de-janeiro-de-2005",
+   "first_law": "lei-2005-13948",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13948-de-20-de-janeiro-de-2005",
+     "sha256": "54bcad4357bd6e24e733ba7c0f3d3f84596017051c24cd8d6e30b0faefac3084",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.948, DE 20 DE JANEIRO DE 2005\n(Projeto de Lei nº 311/99, do Vereador Rubens Calvo - PT)\nDispõe sobre a obrigatoriedade das agências bancárias e demais estabelecimentos de crédito de colocar à disposição dos usuários pessoal suficiente no setor de caixas, para dar atendimento digno e profissional a seus clientes.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de dezembro de 2004, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam as agências bancárias e demais estabelecimentos de crédito do Município de São Paulo obrigados a colocar à disposição dos usuários pessoal suficiente no setor de caixas, para que o atendimento seja feito em prazo hábil, respeitada a dignidade e o tempo do usuário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os efeitos desta lei, entende-se como tempo hábil para o atendimento o prazo de até:\nI - 15 (quinze) minutos em dias normais;\nII - 25 (vinte e cinco) minutos às vésperas e após os feriados prolongados;\nIII - 30 (trinta) minutos nos dias de pagamento dos funcionários públicos municipais, estaduais e federais, não podendo ultrapassar esse prazo, em hipótese alguma.\nParágrafo único. Os prazos estabelecidos neste artigo também se aplicam nos casos de atendimento de que trata a Lei nº 11.248, de 1º de outubro de 1992, modificada pela Lei nº 13.036, de 18 de julho de 2000.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As agências bancárias e demais estabelecimentos de crédito têm o prazo de 120 (cento e vinte) dias para dar cumprimento ao disposto nesta lei, ou seja, para instalar relógio de ponto em suas dependências, para uso de seus clientes, registrando a hora de entrada do contribuinte e seu tempo de permanência nas filas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O descumprimento das disposições contidas nesta lei acarretará ao infrator a imposição de multa no valor de R$ 564,00 (quinhentos e sessenta e quatro reais), dobrado em caso de reincidência.\nParágrafo único. O valor da multa de que trata este artigo será atualizado, anualmente, pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção desse índice, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As denúncias dos usuários, devidamente comprovadas, serão comunicadas aos órgãos competentes.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei serão suportadas por dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de janeiro de 2005, 451º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nLUIZ ANTÔNIO GUIMARÃES MARREY, Secretário Municipal dos Negócios Jurídicos\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nWALTER MEYER FELDMAN, Secretário Municipal de Coordenação das Subprefeituras\nPublicada na Secretaria do Governo Municipal, em 20 de janeiro de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13950",
+   "short": "Lei 13950/2005",
+   "title": "Lei nº 13.950, de 22/02/2005 (Altera a redação do § 8º do art. 17 da Lei nº 13.637, de 04 de setembro de 2003, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13950-de-22-de-fevereiro-de-2005",
+   "first_law": "lei-2005-13950",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13950-de-22-de-fevereiro-de-2005",
+     "sha256": "3d773e1419c22fb6e6e9fac8e454097fc6e9013131d73d7659f06f0ece3047b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.950 DE 22 DE FEVEREIRO DE 2005\n(PROJETO DE LEI 568/04)\n(VEREADOR WADIH MUTRAN - PP)\nAltera a redação do § 8º do art. 17 da Lei nº 13.637, de 04 de setembro de 2003, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 8º do art. 17 da Lei nº 13.637, de 04 de setembro de 2003, passa a vigorar com a seguinte redação:\n\"Art. 17. .....\n§ 8º A parcela fixa a que se refere o parágrafo anterior deste artigo, bem como os valores percebidos a título de adicional por tempo de serviço e sexta-parte dos vencimentos, de até 02 (dois) servidores por Gabinete de Vereador, ficam excluídos do limite de custos estabelecido pelo § 1º deste artigo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 09 de fevereiro de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 09 de fevereiro de 2005.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13951",
+   "short": "Lei 13951/2005",
+   "title": "Lei nº 13.951, de 02/03/2005 (Revoga a Lei nº 5.700, de 15 de março de 1960, e aprova plano de melhoramentos no Bairro de Pinheiros, Subprefeitura de Pinheiros.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13951-de-2-de-marco-de-2005",
+   "first_law": "lei-2005-13951",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13951-de-2-de-marco-de-2005",
+     "sha256": "0f214fb22aa1a9a105cceaf6a3989f02858296ea4278d2ac432d2f318a149250",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.951, DE 2 DE MARÇO DE 2005\n(Projeto de Lei nº 55/03, do Executivo)\nRevoga a Lei nº 5.700, de 15 de março de 1960, e aprova plano de melhoramentos no Bairro de Pinheiros, Subprefeitura de Pinheiros.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.866, Classificação A-86, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado o seguinte plano de melhoramentos, no Bairro de Pinheiros:\nI - ligação viária da Rua Butantã com a Rua Amaro Cavalheiro, com faixa de domínio variável de 16,00 a 32,00 metros e extensão aproximada de 200,00 metros;\nII - alargamento da Rua Amaro Cavalheiro para 16,00 metros, desde a via aprovada no item I até a Rua Paes Leme, com extensão aproximada de 120,00 metros;\nIII - adequação de alinhamentos no cruzamento das Ruas Amaro Cavalheiro, Costa Carvalho e Sumidouro;\nIV - ligação viária da Rua Butantã com a Rua Padre Carvalho, com largura de 16,00 metros e extensão aproximada de 20,00 metros.\nParágrafo único. Ficam igualmente aprovadas as concordâncias dos alinhamentos constantes da planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a Lei nº 5.700, de 15 de março de 1960, que aprovou plano de ampliação do Largo dos Pinheiros, 40º Subdistrito, Vila Madalena.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins desta lei, os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de março de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nLUIZ ANTÔNIO GUIMARÃES MARREY, Secretário Municipal dos Negócios Jurídicos\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nANTÔNIO ARNALDO DE QUEIROZ E SILVA, Secretário Municipal de Infra-Estrutura Urbana e Obras\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicado na Secretaria do Governo Municipal, em 2 de março de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13952",
+   "short": "Lei 13952/2005",
+   "title": "Lei nº 13.952, de 23/03/2005 (INSTITUI A PRESTACAO TRIMESTRAL DE CONTAS, NA ESFERA DE CADA SUBPREFEITURA, POR PARTE DO GESTOR DO SISTEMA UNICO DE SAUDE. (PL 482/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13952-de-23-de-marco-de-2005",
+   "first_law": "lei-2005-13952",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13952-de-23-de-marco-de-2005",
+     "sha256": "17f79b1c4e34daf560c74bfabad918c56e122e52cb9b2a6cdc4f83119461d5c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.952 DE 23 DE MARÇO DE 2005\n(PROJETO DE LEI 482/03)\n(VEREADOR GILBERTO NATALINI - PSDB)\nInstitui a prestação trimestral de contas, na esfera de cada Subprefeitura, por parte do gestor do Sistema Único de Saúde.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O gestor do Sistema Único de Saúde, na esfera de cada Subprefeitura, apresentará, trimestralmente, ao conselho de saúde correspondente e em audiência pública, para análise e ampla divulgação, relatório detalhado contendo, dentre outros, dados sobre o montante e a fonte de recursos aplicados, as auditorias concluídas ou iniciadas no período, bem como sobre a oferta e produção de serviços na rede assistencial própria, contratada ou conveniada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará a presente lei no prazo de 90 (noventa) dias a contar de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 24 de março de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 24 de março de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13953",
+   "short": "Lei 13953/2005",
+   "title": "Lei nº 13.953, de 23/03/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13953-de-23-de-marco-de-2005",
+   "first_law": "lei-2005-13953",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13953-de-23-de-marco-de-2005",
+     "sha256": "eeacebe6db67454d9da44f2c6ffd97cf0f69884e7b2046e2cae6b54d448b3ffc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.953 DE 23 DE MARÇO DE 2005\n(PROJETO DE LEI 400/95)\n(VEREADOR ODILON GUEDES - PT)\nDispõe sobre a obrigatoriedade do Executivo enviar relatório trimestral sobre a execução da coleta, tratamento e destinação final do lixo em São Paulo.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Executivo deverá enviar aos Vereadores em exercício, a cada trimestre, contado a partir de 1º de janeiro de cada ano, relatório que informa sobre a execução de coleta, tratamento e destinação final do lixo do município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O relatório de que trata o \"caput\" do art. 1º da presente lei deverá conter as seguintes especificações:\na) a quantidade do lixo coletado;\nb) discriminação do lixo de acordo com sua origem;\nc) os locais de destinação de cada lixo;\nd) custo da Prefeitura de São Paulo pela coleta, tratamento e/ou destinação final do lixo;\ne) o processo de tratamento e/ou destinação final;\nf) locais de destinação final (inclusive dos resíduos dos incineradores).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 24 de março de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 24 de março de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13954",
+   "short": "Lei 13954/2005",
+   "title": "Lei nº 13.954, de 07/04/2005 (DENOMINA TRAVESSA JOSE TIMOTEO DE OLIVEIRA O LOGRADOURO INOMINADO SITUADO EM AMERICANOPOLIS, DISTRITO DE CIDADE ADEMAR. (PL 582/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13954-de-7-de-abril-de-2005",
+   "first_law": "lei-2005-13954",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13954-de-7-de-abril-de-2005",
+     "sha256": "1d4c697e1b1e00d9a0af974e2e507fdee05c2d945af49488ddf7600879798bbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.954, DE 7 DE ABRIL DE 2005\n(Projeto de Lei nº 582/03, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Travessa José Timóteo de Oliveira o logradouro inominado situado em Americanópolis, Distrito de Cidade Ademar.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa José Timóteo de Oliveira o logradouro inominado com início na Rua Las Palmas, entre as Ruas Francisco Sermini e Luís Vicente de Simoni e término aproximadamente 50 metros além do seu início (Setor 091 - Quadra 277), situado em Americanópolis, Distrito de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 7 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13955",
+   "short": "Lei 13955/2005",
+   "title": "Lei nº 13.955, de 07/04/2005 (DENOMINA PRACA MANOEL ANTONIO DOURADO O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO DISTRITO DE CAPAO REDONDO. (PL 612/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13955-de-7-de-abril-de-2005",
+   "first_law": "lei-2005-13955",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13955-de-7-de-abril-de-2005",
+     "sha256": "4036d560550a1ca5b951e57df138eed9e5ed0ed87976c8632b23bfaa05b4936c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.955, DE 7 DE ABRIL DE 2005\n(Projeto de Lei nº 612/03, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça Manoel Antonio Dourado o espaço livre sem denominação, situado no Distrito de Capão Redondo.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manoel Antonio Dourado o espaço público sem denominação, delimitado pela Rua Gastão Raul de Forton Busquet, Viela 9 e divisa de lotes (Setor 183 - Quadra 063), Distrito de Capão Redondo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 7 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13956",
+   "short": "Lei 13956/2005",
+   "title": "Lei nº 13.956, de 07/04/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13956-de-7-de-abril-de-2005",
+   "first_law": "lei-2005-13956",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13956-de-7-de-abril-de-2005",
+     "sha256": "8300af3eaa89f7271221d279d138234f41167efdee0afb7c3e3f3be43959aa5f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.956, DE 7 DE ABRIL DE 2005\n(Projeto de Lei nº 670/03, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça Nello Victor Rossi o espaço público livre e sem denominação, localizado na confluência da Rua Francisco Pessoa com a Rua Aureliano Guimarães (Setor 171 - Quadras 204, 211 e 221), no Bairro Vila Andrade, Distrito de Vila Andrade.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Nello Victor Rossi o espaço público livre e sem denominação, localizado na confluência da Rua Francisco Pessoa com a Rua Aureliano Guimarães (Setor 171 - Quadras 204, 211 e 221), no Bairro Vila Andrade, Distrito de Vila Andrade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 7 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13958",
+   "short": "Lei 13958/2005",
+   "title": "Lei nº 13.958, de 12/04/2005 (DENOMINA PRACA AGOSTINHO TOMAZELLI O ESPACO PUBLICO SEM DENOMINACAO, SITUADO NA VILA SIQUEIRA, DISTRITO DO LIMAO. (PL 690/01))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13958-de-12-de-abril-de-2005",
+   "first_law": "lei-2005-13958",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13958-de-12-de-abril-de-2005",
+     "sha256": "d43e7e535c30e3242b2e1b1630623272062fafd4b9a46836e84a04745f63ad82",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.958, DE 12 DE ABRIL DE 2005\n(Projeto de Lei nº 690/01, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça Agostinho Tomaselli o espaço público sem denominação, situado na Vila Siqueira, Distrito do Limão.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Agostinho Tomaselli o espaço público sem denominação localizado na confluência da Rua Estela Borges Morato com a Avenida Sebastião Henriques (Setor 76 - Quadra 741), na Vila Siqueira, Distrito do Limão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 12 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13962",
+   "short": "Lei 13962/2005",
+   "title": "Lei nº 13.962, de 29/04/2005 (DENOMINA PRACA MARIA DA PENHA GONCALVES DA SILVA O LOGRADOURO PUBLICO SITUADO NO DISTRITO DO PARQUE DO CARMO, E DA OUTRAS PROVIDENCIAS. (PL 589/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13962-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13962",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13962-de-29-de-abril-de-2005",
+     "sha256": "44f384e118e7c8b6799a779f56db8d5f0fed9bb5db6b6848dccab8b8db3390d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.962, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 589/03, do Vereador Toninho Paiva - PL)\nDenomina Praça Maria da Penha Gonçalves da Silva o logradouro público situado no Distrito do Parque do Carmo, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria da Penha Gonçalves da Silva o espaço livre sem denominação, delimitado pelas ruas Kleber Afonso e Daitas (Setor 232 - Quadras 005 e 016), no Distrito do Parque do Carmo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13963",
+   "short": "Lei 13963/2005",
+   "title": "Lei nº 13.963, de 29/04/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13963-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13963",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13963-de-29-de-abril-de-2005",
+     "sha256": "a52022ce560499377f5e160dd2161e9f8880fe16c7e0d0066cc076df6ad3d49a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.963, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 625/03, do Vereador Toninho Paiva - PL)\nDenomina Praça Felix Lopes Freitas o espaço livre sem denominação, delimitado pelas ruas Coroatá, Antonio Taborda e dos Ariosos (Setor 113 - 609), no Bairro Jardim Hercília, Distrito de Vila Matilde.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Felix Lopes Freitas o espaço livre sem denominação, delimitado pelas ruas Coroatá, Antonio Taborda e dos Ariosos (Setor 113 - 609), no Bairro Jardim Hercília, Distrito de Vila Matilde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13964",
+   "short": "Lei 13964/2005",
+   "title": "Lei nº 13.964, de 29/04/2005 (DENOMINA PRACA PADRE PAULO STRAUSS FILHO O ESPACO LIVRE SEM DENOMINACAO SITUADO NA VILA SILVIA, NO DISTRITO DE CANGAIBA, E DA OUTRAS PROVIDENCIAS. (PL 658/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13964-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13964",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13964-de-29-de-abril-de-2005",
+     "sha256": "ef8d6a847235e4f458873662cbdf08fd38fbcca42e61b17ab70168a28bf546e9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.964, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 658/03, do Vereador Toninho Paiva - PL)\nDenomina Praça Padre Paulo Strauss Filho o espaço livre sem denominação situado na Vila Sílvia, no Distrito de Cangaíba, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Padre Paulo Strauss Filho o espaço público inominado localizado entre as ruas Muriri e Guaporema (Setor 130 - Quadras 339 e 344), na Vila Sílvia, Distrito de Cangaíba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13965",
+   "short": "Lei 13965/2005",
+   "title": "Lei nº 13.965, de 29/04/2005 (DENOMINA PRACA JOSE LUIZ ABBIATTI O ESPACO LIVRE SEM DENOMINACAO, SITUADO NO BAIRRO DE CIDADE JARDIM, DISTRITO DO MORUMBI, E DA OUTRAS PROVIDENCIAS. ( 746/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13965-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13965",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13965-de-29-de-abril-de-2005",
+     "sha256": "590ab213f6ce08c417f816b99d5db79d327cf2b7b26b05ee481312d5b81db04e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.965, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 746/03, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça José Luiz Abbiatti o espaço livre sem denominação, situado no bairro de Cidade Jardim, Distrito do Morumbi, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Luiz Abbiatti o espaço livre sem denominação, localizado na confluência da Avenida Lopes de Azevedo com a Rua Circular do Bosque (Setor 084 - Quadras 021, 215 e 259), no bairro de Cidade Jardim, Distrito do Morumbi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13966",
+   "short": "Lei 13966/2005",
+   "title": "Lei nº 13.966, de 29/04/2005 (DENOMINA PRACA ALBERTO SCHNEEBERGER O ESPACO LIVRE SEM DENOMINACAO, SITUADO NA VILA SUZANA, BAIRRO DO MORUMBI. (PL 750/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13966-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13966",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13966-de-29-de-abril-de-2005",
+     "sha256": "1de15bcd8a494f18e461bb8a6bce9f9590ecaf92e2c842d2bbc0f5e0d3c56206",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.966, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 750/03, do Vereador Antonio Carlos Rodrigues - PL)\nDenomina Praça Alberto Schneeberger o espaço livre sem denominação, situado na Vila Suzana, bairro do Morumbi.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Alberto Schneeberger o espaço público inominado localizado na confluência das ruas Professor José Horácio Meirelles Teixeira e São Pedro Fourier (Setor 171 - Quadras 59, 177 e 178), Vila Suzana, bairro do Morumbi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13967",
+   "short": "Lei 13967/2005",
+   "title": "Lei nº 13.967, de 29/04/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13967-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13967",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13967-de-29-de-abril-de-2005",
+     "sha256": "8bc888a1bf67cfbbccb86a5912ce912590a91227ed59b712319892682623d924",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.967, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 803/03, do Vereador Paulo Frange - PTB)\nDenomina Rua Engenheiro Armando de Virgiliis logradouro público inominado localizado na Vila Afonso Celso, Distrito de Vila Mariana, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Engenheiro Armando de Virgiliis o logradouro público inominado conhecido por Rua 18 e também por Rua 11 e Rua Dr. Assis de Moura, com início na Rua Souza Ramos e término aproximadamente 50 metros além da Praça Guté (Setor 042 - Quadras 032 e 034), na Vila Afonso Celso, Distrito de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13968",
+   "short": "Lei 13968/2005",
+   "title": "Lei nº 13.968, de 29/04/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13968-de-29-de-abril-de-2005",
+   "first_law": "lei-2005-13968",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13968-de-29-de-abril-de-2005",
+     "sha256": "c7ee9b3fec9e94446aa9eb26d5d5cd43890ef2d5a220436375df8b995be53bca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.968, DE 29 DE ABRIL DE 2005\n(Projeto de Lei nº 854/03, do Vereador Toninho Paiva - PL)\nDenomina Praça Diomid Gargalac o espaço livre sem denominação, delimitado pelas ruas Olímpio Braz de Souza, Félix de Otero e Aurélio Pinheiro (Setor 057 - Quadras 212 e 213), localizado no Bairro de Vila Eutália, Distrito de Vila Matilde, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Diomid Gargalac o espaço livre sem denominação, delimitado pelas ruas Olímpio Braz de Souza, Félix de Otero e Aurélio Pinheiro (Setor 057 - Quadras 212 e 213), localizado no Bairro de Vila Eutália, Distrito de Vila Matilde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de abril de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 29 de abril de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13969",
+   "short": "Lei 13969/2005",
+   "title": "Lei nº 13.969, de 05/05/2005 (Denomina Praça Romiglio Finozzi espaço livre inominado, situado na Vila Centenário, Distrito da Penha, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13969-de-5-de-maio-de-2005",
+   "first_law": "lei-2005-13969",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13969-de-5-de-maio-de-2005",
+     "sha256": "7af95295a88e73f07bbac4d67d96601b13b868d0f126c18a4b74487626b85275",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.969, DE 5 DE MAIO DE 2005\n(Projeto de Lei nº 740/03, do Vereador Toninho Paiva - PL)\nDenomina Praça Romiglio Finozzi espaço livre inominado, situado na Vila Centenário, Distrito da Penha, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Romiglio Finozzi o espaço livre sem denominação, delimitado pelas ruas Demini, Embiruçu e sem nome (Setor 061, Quadra 118), na Vila Centenário, Distrito da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de maio de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nPublicada na Secretaria do Governo Municipal, em 5 de maio de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13970",
+   "short": "Lei 13970/2005",
+   "title": "Lei nº 13.970, de 05/05/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13970-de-5-de-maio-de-2005",
+   "first_law": "lei-2005-13970",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13970-de-5-de-maio-de-2005",
+     "sha256": "859d084cc94b3afe805be58279ec57f01fc1a06d13096f1a9323e7489fbf539e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.970, DE 5 DE MAIO DE 2005\n(Projeto de Lei nº 176/05, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a contratação de pessoal, por tempo determinado, no âmbito da Secretaria Municipal da Saúde e das Subprefeituras, para o exercício de atividades ligadas ao controle do Aedes Aegypti e do Serviço de Atendimento Móvel de Urgência - SAMU-192.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 3 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A vedação contida no § 2° do art. 3º da Lei n° 10.793, de 21 de dezembro de 1989, alterada pela Lei n° 13.261, de 28 de dezembro de 2001, não se aplica aos servidores contratados, no âmbito da Secretaria Municipal da Saúde e das Subprefeituras, para o exercício de atividades ligadas ao controle do Aedes Aegypti, e ao Serviço de Atendimento Móvel de Urgência - SAMU-192, os quais poderão ser novamente contratados, uma única vez, pelo prazo máximo de 12 (doze) meses.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de maio de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nJANUARIO MONTONE, Secretário Municipal de Gestão\nCLÁUDIO LUIZ LOTTENBERG, Secretário Municipal da Saúde\nPublicada na Secretaria do Governo Municipal, em 5 de maio de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13971",
+   "short": "Lei 13971/2005",
+   "title": "Lei nº 13.971, de 09/05/2005 (DISPOE SOBRE REAJUSTE E REVISAO DOS PADROES DE VENCIMENTOS E SALARIOS DOS SERVIDORES DA CAMARA MUNICIPAL DE SAO PAULO, E DA OUTRAS PROVIDENCIAS. (PL 195/05))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13971-de-9-de-maio-de-2005",
+   "first_law": "lei-2005-13971",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13971-de-9-de-maio-de-2005",
+     "sha256": "8fb3e6c889f157b3a3429c089c810ff69d05292cee233985fe7bcca24bd1b06f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.971 DE 09 DE MAIO DE 2005\n(PROJETO DE LEI 195/05)\n(MESA DA CÂMARA)\nDispõe sobre reajuste e revisão dos padrões de vencimentos e salários dos servidores da Câmara Municipal de São Paulo, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os vencimentos, as funções gratificadas, os salários, os salários-família e salários-esposa dos servidores da Câmara Municipal de São Paulo ficam reajustados em 2,62% (dois inteiros e sessenta e dois centésimos por cento), a partir de 1º de janeiro de 2004.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em complementação ao disposto no art. 1º desta lei, os vencimentos, as funções gratificadas, os salários, os salários-família e salários-esposa também sofrerão reajuste, a título de revisão geral anual remuneratória, na seguinte conformidade:\nI - em 0,01% (um centésimo por cento), a partir de 1º de maio de 2003;\nII - em 0,01% (um centésimo por cento), a partir de 1º de maio de 2004.\n"
+      },
+      "art-0003": {
+       "label": "Art 3º",
+       "kind": "article",
+       "text": "Art 3º Os reajustes de que trata esta lei aplicam-se no mesmo percentual e bases aos proventos dos servidores inativos e aos pensionistas da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art 5º",
+       "kind": "article",
+       "text": "Art 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 09 de maio de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 09 de maio de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13972",
+   "short": "Lei 13972/2005",
+   "title": "Lei nº 13.972, de 09/05/2005 (Altera disposições da Lei nº 13.637, de 04/09/03, e da Lei nº 13.638, de 04/09/03, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13972-de-09-de-maio-de-2005",
+   "first_law": "lei-2005-13972",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13972-de-09-de-maio-de-2005",
+     "sha256": "0142a49cd876a24c50e8e38076b05fb0db4e9f7df870bb5d91c0e9c86bab4709",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.972 DE 09 DE MAIO DE 2005\n(PROJETO DE LEI 154/05)(MESA DA CÂMARA)\nAltera disposições da Lei nº 13.637, de 04/09/03, e da Lei nº 13.638, de 04/09/03, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogados os §§ 2º, 4º e 5º e alterada a redação dos §§ 1º, 3º e 6º, todos do art. 14 da Lei nº 13.637/03, que passa a vigorar com seus parágrafos renumerados na seguinte forma:\n\"Art. 14. ...\n§ 1º A designação para as funções de Secretário Geral Parlamentar, Secretário Geral Administrativo, Subsecretários, Advogado Chefe e Coordenador de Centro far-se-á mediante escolha do Presidente da Câmara Municipal de São Paulo.(NR)\n§ 2º Os servidores efetivos designados para as funções gratificadas serão substituídos nos impedimentos e afastamentos legais previstos nos arts. 64, I a IV e VI a IX, 138, I, da Lei nº 8.989, de 29 de outubro de 1979, por funcionários que preencham os requisitos de provimento das respectivas funções, observado o disposto no art. 54 do retro mencionado diploma legal.(NR)\n§ 3º Excepcionalmente, se não houver servidores efetivos com o tempo de carreira mínimo exigido por esta lei, poderão ser nomeados os mais antigos na respectiva carreira.(NR)\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Anexo III da Lei nº 13.637, de 04/09/03, Quadro de Pessoal do Legislativo, Funções Gratificadas passa a vigorar nos termos do Anexo I desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 09 de maio de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 09 de maio de 2005.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13973",
+   "short": "Lei 13973/2005",
+   "title": "Lei nº 13.973, de 12/05/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13973-de-12-de-maio-de-2005",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2005-13973"
+   ],
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13973-de-12-de-maio-de-2005",
+     "sha256": "bc75846f31b9b521524c3843bdd54e307e3ed4db5de1e2e3a3b269efa2504328",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.973, DE 12 DE MAIO DE 2005\n(Projeto de Lei nº 085/05, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre as contribuições para o regime próprio de previdência social dos servidores públicos do Município de São Paulo que especifica e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A contribuição social dos servidores públicos titulares de cargos efetivos, regidos pela Lei nº 8.989, de 29 de outubro de 1979, e alterações, para a manutenção do regime próprio de previdência social do Município de São Paulo, incluídas suas autarquias e fundações, será de 14% (quatorze por cento), incidentes sobre a totalidade da base de contribuição.\n§ 1º Para os fins desta lei, entende-se como base de contribuição o total dos subsídios e vencimentos do servidor, compreendendo o vencimento do cargo, acrescido das vantagens pecuniárias que a ele se integram, nos termos da lei, ou por outros atos concessivos, bem como os adicionais de caráter individual, e quaisquer outras vantagens, excluídas:\nI - as diárias para viagens;\nII - o auxílio-transporte;\nIII - o salário-família;\nIV - o salário-esposa;\nV - o auxílio-alimentação;\nVI - parcelas remuneratórias pagas em decorrência de local de trabalho;\nVII - a parcela percebida em decorrência do exercício de cargo em comissão ou de função de confiança;\nVIII - terço de férias;\nIX - hora suplementar;\nX - o abono de permanência;\nXI - outras vantagens instituídas em lei, não passíveis de incorporação aos vencimentos ou subsídios do servidor.\n§ 2º O servidor titular de cargo efetivo poderá optar pela inclusão, na base de contribuição, de parcelas remuneratórias de que tratam os incisos VI e VII do § 1° deste artigo.\n§ 3° A inclusão das vantagens referidas no § 2° deste artigo, para efeito de apuração do limite previsto no § 2° do art. 40 da Constituição Federal, será feita na forma estabelecida no art. 1° da Lei Federal n° 10.887, de 18 de junho de 2004.\n§ 4° A regulamentação disciplinará as disposições deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os aposentados e os pensionistas do Município, inclusive os de suas autarquias e fundações, cujos benefícios previdenciários sejam concedidos com base em situações funcionais regidas pela Lei nº 8.989, de 29 de outubro de 1979, contribuirão com 14% (quatorze por cento), incidentes sobre o valor da parcela dos proventos de aposentadorias e pensões que supere o limite máximo estabelecido para os benefícios do regime geral de previdência social.\nParágrafo único. Nos casos de acumulação remunerada de aposentadorias e/ou pensões, considerar-se-á, para fins de cálculo da contribuição de que trata o \"caput\" deste artigo, o somatório dos valores percebidos, de forma que a parcela remuneratória imune incida uma única vez.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O décimo-terceiro salário será considerado para fins de incidência das contribuições de que tratam os arts. 1º e 2º desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O servidor titular de cargo efetivo que tenha completado as exigências para aposentadoria voluntária estabelecidas na alínea \"a\" do inciso III do § 1º do art. 40 da Constituição Federal, ou que tenha cumprido os requisitos do § 5º do art. 2º ou do § 1º do art. 3º, art. 6°, todos da Emenda Constitucional n° 41, de 2003, e que opte por permanecer em atividade, fará jus a um abono de permanência, mediante requerimento, equivalente ao valor da sua contribuição previdenciária até completar as exigências constitucionais para aposentadoria compulsória por idade.\nParágrafo único. O abono de que trata este artigo não poderá ser incluído na base de cálculo para o efeito de fixação do valor de qualquer benefício previdenciário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A contribuição do Município de São Paulo, inclusive de suas autarquias e de suas fundações, para o custeio do regime próprio de que trata o art. 40 da Constituição Federal, será o dobro da contribuição do servidor ativo, devendo o produto da arrecadação ser contabilizado em conta específica.\nParágrafo único. O Município é responsável pela cobertura de eventuais insuficiências financeiras do seu regime próprio de previdência social decorrentes do pagamento de benefícios previdenciários.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Instituto de Previdência Municipal de São Paulo - IPREM, passa a ser o único órgão gestor das aposentadorias e pensões, responsável pelo processamento dos dados, concessão e pelo pagamento desses benefícios devidos pelo Município.\n§ 1º O IPREM deverá, num prazo máximo de 2 (dois) anos, implementar a infra-estrutura necessária para os fins previstos no \"caput\" deste artigo.\n§ 2º Durante o período previsto no § 1º deste artigo, o IPREM poderá firmar convênio com os Poderes e órgãos municipais para a operacionalização do processamento dos dados e pagamento de aposentadorias devidas pelo Município.\n§ 3º O exame, em grau de recurso, das decisões pertinentes às aposentadorias e pensões caberá à autoridade hierarquicamente superior.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Passa a integrar a sua estrutura organizacional do IPREM um Conselho Deliberativo e um Conselho Fiscal, com participação paritária de representantes dos servidores e do Município.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Conselho Deliberativo do IPREM é o órgão superior de deliberação, colegiado e paritário, com participação de representantes dos servidores e do Município.\n§ 1º O Conselho Deliberativo será composto por 8 (oito) membros, nos seguintes moldes:\nI - 4 (quatro) membros efetivos e 4 (quatro) suplentes, de livre nomeação e exoneração pelo Prefeito, preferencialmente dentre servidores efetivos; e\nII - 4 (quatro) membros efetivos e 4 (quatro) suplentes eleitos pelos servidores públicos municipais dentre os servidores ativos, inativos e os pensionistas.\n§ 2º Nas eleições dos membros do Conselho Deliberativo, nos termos do inciso II, do § 1º deste artigo, deverá ser garantida a representatividade de servidores:\nI - de Quadros dos Profissionais de Educação;\nII - de Quadro da Saúde;\nIII - dos demais quadros da Prefeitura; e\nIV - dos inativos e pensionistas.\n§ 3º Os membros dos conselhos deliberativo e fiscal do IPREM deverão comprovar, para sua nomeação ou permanência, o atendimento aos seguintes requisitos previstos no art. 8º-B da Lei Federal nº 9.717, de 27 de novembro de 1998, sem prejuízo de outras condições estabelecidas em regulamento:\nI - não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar Federal nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;\nII - possuir certificação, por meio de processo realizado por entidade certificadora para comprovação de atendimento e verificação de conformidade com os requisitos técnicos necessários para o exercício de determinado cargo ou função; e\nIII - ter nível de escolaridade compatível com as exigências e requisitos do órgão supervisor dos Regimes Próprios de Previdência Social.\n§ 4º A comprovação do requisito de que trata o inciso I do § 3º deste artigo será exigida a cada 2 (dois) anos, observados os seguintes parâmetros:\nI - a inexistência de condenação criminal, inclusive para os delitos previstos no inciso I do art. 1º da Lei Complementar Federal nº 64, de 1990, mediante apresentação de certidões negativas de antecedentes criminais da Justiça Estadual e da Justiça Federal competentes; e\nII - no que se refere às demais situações previstas no inciso I do art. 1º da Lei Complementar Federal nº 64, de 1990, mediante declaração de não ter incidido em alguma das situações ali previstas, conforme modelo de declaração disponibilizado pelo órgão supervisor dos Regimes Próprios de Previdência Social.\n§ 5º Em caso de descumprimento dos requisitos de que trata o § 3º deste artigo, os profissionais deixarão de ser considerados como habilitados para as correspondentes funções desde a data de implementação do ato ou fato obstativo.\n§ 6º A comprovação do requisito de que trata o inciso II do § 3º deste artigo deverá ser efetuada com a apresentação de certificação emitida por meio de processo realizado por entidade certificadora reconhecida na forma definida pelo órgão supervisor dos Regimes Próprios de Previdência Social.\n§ 7º Os membros dos conselhos deliberativo e fiscal do IPREM deverão ser certificados previamente ao seu exercício.\n§ 8º Os membros dos conselhos deliberativo e fiscal do IPREM, com mandato vigente na data de publicação desta Lei, poderão firmar o compromisso de obter a certificação no prazo de 6 (seis) meses, período em que a sua remuneração será reduzida em 10% (dez por cento) do valor devido.\n§ 9º Expirado o prazo do termo de compromisso de que trata o § 8º deste artigo sem a obtenção da certificação, será cassado o mandato do conselheiro.\n§ 10. Os presidentes e demais membros dos conselhos deliberativo e fiscal do IPREM devem comprovar certificação profissional em nível compatível com as exigências e requisitos do órgão supervisor dos Regimes Próprios de Previdência Social.\n§ 11. As certificações terão validade máxima de 4 (quatro) anos e deverão ser obtidas mediante aprovação prévia em exames por provas, ou por provas e títulos, ou adicionalmente pela análise de experiência e, em caso de renovação, por programa de qualificação continuada.\n§ 12. Os programas de qualificação continuada deverão ter os seus conteúdos alinhados aos requisitos técnicos necessários ao exercício da correspondente função.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Compete ao Conselho Deliberativo, prioritariamente:\nI - quanto ao RPPS:\na) apreciar e se manifestar sobre a nota técnica e o parecer atuarial do exercício;\nb) emitir parecer relativo às propostas de atos normativos com reflexos na gestão dos ativos e passivos previdenciários;\nc) verificar, mensalmente, a regularidade do repasse das contribuições e aportes;\nd) aprovar e acompanhar a execução da política anual de investimentos;\ne) acompanhar os resultados das auditorias dos órgãos de controle e supervisão, bem como as providências adotadas;\nf) autorizar a vinculação, transferência ou aporte de bens e direitos ao FUNPREV, nos termos da Lei Orgânica do Munícipio;\ng) acompanhar a política de segregação de massas, verificando a regularidade da separação orçamentária, financeira e contábil dos recursos e obrigações correspondentes;\nh) autorizar a aceitação de bens oferecidos ao Instituto de Previdência Municipal, a título de dotação patrimonial, em conjunto com o estudo de viabilidade econômico-financeira da monetização de imóveis;\ni) aprovar os balancetes mensais e os demonstrativos financeiros anuais da instituição;\nII - quanto à unidade gestora:\na) apreciar e se manifestar sobre o Plano de Ação Anual ou Planejamento Estratégico;\nb) aprovar seu regimento interno;\nc) autorizar a aquisição, alienação ou oneração de bens imóveis, bem como a aceitação de doações com encargo;\nd) apreciar e se manifestar sobre o relatório anual de gestão encaminhado pela Superintendência;\ne) manifestar-se sobre a proposta de alteração da estrutura e funcionamento da entidade gestora;\nf) pronunciar-se sobre qualquer outro assunto de interesse da entidade gestora, que lhe seja submetido pelo Superintendente ou pelo Conselho Fiscal.\n§ 1º A alienação e a oneração de bens imóveis aportados para equacionamento do déficit previdenciário ao FUNPREV terão a integralização aos fundos de investimento estruturado, previsto no § 7º do art. 37 das Disposições Gerais da Lei Orgânica do Município, autorizada no momento da aceitação dos imóveis transferidos pelo Município, nos termos do instrumento de análise da viabilidade econômico-financeira e regramento de supervisão dos Regimes Próprios de Previdência Social.\n§ 2º Ficam ressalvados da alínea \"c\" do inciso II os imóveis que forem integralizados aos fundos de investimento estruturado e constituirão o seu patrimônio em caráter fiduciário, nos termos da Lei Federal nº 8.668, de 25 de junho de 1993.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Para que o Conselho Deliberativo exerça seu poder administrativo, seus atos normativos terão o poder decisório, quando presentes na sessão no mínimo 51% (cinqüenta e um por cento) dos membros titulares, sendo que destes 3 (três) devem ser representantes do Município.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Conselho Deliberativo será coordenado por um Presidente com poder de voto de qualidade, que será escolhido e nomeado pelo Chefe do Poder Executivo Municipal, dentre os representantes do Município.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Conselho Fiscal do Instituto de Previdência Municipal - IPREM é o órgão superior de fiscalização e controle dos atos do Conselho Deliberativo e da Administração do Instituto de Previdência Municipal, colegiado e paritário, com participação de representantes dos servidores e do Município.\nParágrafo único. O Conselho Fiscal será composto por 6 (seis) membros, nos seguintes moldes:\nI - 3 (três) membros efetivos e 3 (três) suplentes, de livre nomeação e exoneração pelo Prefeito, preferencialmente dentre servidores efetivos; e\nII - 3 (três) membros efetivos e 3 (três) suplentes eleitos pelos servidores públicos municipais dentre os servidores ativos, inativos e pensionistas.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Compete ao Conselho Fiscal, prioritariamente:\nI - apreciar, emitindo ou não parecer, os balancetes mensais, demonstrativos contábeis, o balanço anual do RPPS, encaminhando-os ao Conselho Deliberativo;\nII - fiscalizar as atividades do RPPS municipal;\nIII - verificar, mensalmente, a regularidade do repasse das contribuições e aportes;\nIV - acompanhar a política de segregação de massas, verificando a regularidade da separação orçamentária, financeira e contábil dos recursos e obrigações correspondentes;\nV - acompanhar o cumprimento do plano de custeio em relação aos repasses das contribuições e aportes previstos;\nVI - realizar o controle da gestão dos ativos e passivos, bem como acompanhar o plano de trabalho atuarial, apreciando as premissas e o resultado atuarial;\nVII - apreciar o relatório de acompanhamento da execução da política de investimentos relativo ao ano anterior;\nVIII - aprovar seu regimento interno;\nIX - relatar ao Conselho Deliberativo as eventuais irregularidades verificadas, sugerindo medidas de adequação;\nX - representar junto aos órgãos de administração do IPREM fraudes, erros ou crimes de que eventualmente tomarem conhecimento.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Para que o Conselho Fiscal exerça seu poder e pratique seus atos deverá ter, em cada sessão, no mínimo 51% (cinqüenta e um por cento) dos seus membros efetivos e no mínimo 1 (um) membro representante do Município.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Dentre os 3 (três) servidores eleitos, 1 (um) será escolhido pelos demais membros para exercer o cargo de Presidente do Conselho, ao qual caberá o voto de qualidade.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Os representantes dos servidores para comporem o Conselho Deliberativo e o Conselho Fiscal, na qualidade de titulares e de suplentes, deverão ser eleitos por voto direto pelos servidores municipais que tenham poder de votar e serem votados.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O mandato dos membros eleitos para o Conselho Deliberativo e para o Conselho Fiscal será de 4 (quatro) anos, sendo permitida uma única recondução.\n§ 1° Excepcionalmente, na primeira eleição dos membros do Conselho Deliberativo que se realizará após o mandato de transição previsto no art. 31, 2 (dois) dos servidores eleitos mais votados exercerão o mandato por 4 (quatro) anos e os outros 2 (dois), na seqüência de votos obtidos, por 2 (dois) anos.\n§ 2° Excepcionalmente, na primeira eleição dos membros do Conselho Fiscal que se realizará após o mandato de transição previsto no art. 32, 2 (dois) dos servidores eleitos mais votados exercerão o mandato por 4 (quatro) anos e um na seqüência de votos obtidos, por 2 (dois) anos.\n§ 3° Nas eleições subseqüentes, todos os eleitos exercerão o mandato por 4 (quatro) anos.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. As regras a serem estabelecidas no processo eleitoral deverão ser definidas por ato normativo por ocasião das eleições, publicado com 90 (noventa) dias de antecedência da data prevista para a eleição.\nParágrafo único. Os representantes dos servidores no Conselho Deliberativo e no Conselho Fiscal somente poderão ser afastados de suas funções de conselheiro depois de julgado em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou em caso de vacância, assim entendida a ausência não-justificada em 3 (três) reuniões consecutivas ou em 4 (quatro) intercaladas no mesmo exercício.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Revogado pela Lei nº 14.125/2005)\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Compete ao IPREM proporcionar ao Conselho Deliberativo e ao Conselho Fiscal os meios necessários ao exercício de suas competências.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. O Conselho Deliberativo e Fiscal terá um Secretário, designado pelo Superintendente, por indicação de seu Presidente, que ficará à disposição exclusiva desse órgão.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. O IPREM, no desempenho de suas tarefas de unidade gestora do regime próprio de previdência social do Município, dentre outras funções e competências, deverá:\nI - proceder, no mínimo anualmente, a recenseamento previdenciário, abrangendo todos os aposentados e pensionistas do respectivo regime;\nII - disponibilizar ao público, inclusive por meio de rede pública de transmissão de dados, informações atualizadas sobre as receitas e as despesas do respectivo regime, bem como sobre os critérios e parâmetros adotados para garantir o seu equilíbrio financeiro e atuarial;\nIII - promover a consolidação e a divulgação das normas constitucionais e legais que tratem do regime próprio de previdência social do Município;\nIV - manter registro contábil individualizado das contribuições previstas nesta lei de cada servidor e do município.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. As contribuições a que se referem os arts. 1º e 2º desta lei serão exigíveis 90 (noventa) dias a partir da sua publicação.\nParágrafo único. A contribuição de que trata a Lei n° 10.828, de 4 de janeiro de 1990, fica mantida, inclusive proporcionalmente aos dias de vigência, quando for o caso, até o início do recolhimento das contribuições a que se refere o \" caput\" deste artigo.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. As contribuições previstas nesta lei deverão ser recolhidas em favor do IPREM na data do pagamento dos vencimentos, proventos e pensões mediante desconto mensal na respectiva folha de pagamento e contabilizadas separadamente.\nParágrafo único. Também serão contabilizados em separado os demais repasses e pagamentos destinados ao custeio do regime próprio de previdência do Município.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Ao servidor afastado ou licenciado do cargo efetivo, com prejuízo de remuneração, será assegurada a manutenção do vínculo do regime próprio da previdência social do Município, mediante o recolhimento mensal da respectiva contribuição, assim como da contribuição patronal prevista no art. 5º desta lei.\n§ 1º Os percentuais de contribuição dos servidores a que se refere o \"caput\" deste artigo, a contribuição patronal e a base de cálculo serão as estabelecidas nesta lei.\n§ 2º O regulamento disciplinará o disposto neste artigo.\n§ 3º Na hipótese de atraso no recolhimento, serão aplicados os encargos moratórios previstos para a cobrança dos tributos municipais.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. O disposto nesta lei aplica-se aos servidores titulares de cargos efetivos da Câmara Municipal, do Tribunal de Contas do Município de São Paulo e aos Conselheiros deste.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Os recursos provenientes das contribuições instituídas por esta lei serão destinados, exclusivamente, para compor o custeio do regime próprio de previdência do Município e de sua unidade gestora, sendo consignados como receita em rubrica própria do orçamento.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. O Executivo poderá realizar as alterações orçamentárias que se fizerem necessárias para a implementação desta lei.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. Ficam o Executivo e o IPREM autorizados a repactuar os contratos de empréstimos e outras avenças entre si existentes, e assim consolidar as demais obrigações em favor do Instituto ou do regime próprio de previdência social, mediante ajuste que preveja o pagamento dos montantes devidos pelo Município em até 10 (dez) anos a contar da publicação desta lei.\n§ 1º Inclui-se na autorização prevista no \"caput\" deste artigo, os montantes derivados do disposto na Lei Municipal nº 12.158, de 14 de agosto de 1996.\n§ 2º Os recursos aportados pelo Município para a cobertura de insuficiências financeiras nos termos desta lei serão utilizados pelo Executivo como pagamento dos compromissos a que se refere o \"caput\" e o § 1° deste artigo.\n§ 3º A contribuição previdenciária dos servidores (11%) e a contribuição do Município (22%), não poderá ser utilizada para os fins do disposto no \"caput\" e o § 1° deste artigo.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES TRANSITÓRIAS\nArt. 31. Ficam mantidos os mandatos dos atuais Conselheiros eleitos, representantes dos servidores, até junho de 2006, como membros do Conselho Deliberativo.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. Para compor o Conselho Fiscal, na qualidade de representantes dos servidores, ficam empossados os 4 (quatro) suplentes do Conselho Deliberativo e Fiscal atual, para comporem na qualidade de membros titulares do Conselho Fiscal, até o final do mandato atual em junho/06.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Ficam indicados como suplentes do Conselho Deliberativo e do Conselho Fiscal os terceiros mais votados na última eleição, por segmento.\nParágrafo único. A convocação dos suplentes ocorrerá pela ordem dos terceiros mais votados, e para substituição de qualquer um dos membros do Conselho Deliberativo ou do Conselho Fiscal.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. O processo eleitoral para escolha dos novos membros do Conselho Deliberativo e do Conselho Fiscal deverá ter início em janeiro de 2006, ocorrendo as eleições no mês de março de 2006.\nParágrafo único. Os novos membros eleitos deverão ser empossados por ocasião do término do mandato dos atuais conselheiros.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Aplicam-se as disposições constantes desta lei aos servidores descritos abaixo enquanto perdurar decisão judicial nesse sentido:\nI - admitidos pela Lei n° 9.160, de 31 de dezembro de 1980;\nII - titulares de cargos em comissão exclusivamente, considerados estáveis, nos termos do art. 19 do ADCT, na conformidade do disposto em lei municipal ou ato administrativo normativo próprio;\nIII - titulares de cargos em comissão exclusivamente, que ingressaram na Prefeitura do Município de São Paulo até a data da publicação da EC 20/98, e que, em razão da natureza específica das funções por eles desempenhadas, não pertinentes à fidúcia, já foram admitidos no regime próprio do servidor efetivo por ato normativo próprio expedido anteriormente pelo Executivo.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES FINAIS\nArt. 36. O Executivo regulamentará esta lei no prazo de 30 (trinta) dias, contados de sua publicação.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 12 de maio de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nJANUARIO MONTONE, Secretário Municipal de Gestão\nPublicada na Secretaria do Governo Municipal, em 12 de maio de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.973, de 12/05/2005 was altered by acts of 4 date(s), the latest 2023-09-28."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13974",
+   "short": "Lei 13974/2005",
+   "title": "Lei nº 13.974, de 10/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13974-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13974",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13974-de-10-de-junho-de-2005",
+     "sha256": "a0eb89852369b19ff1105dae0e6890d157264ecd08e4ccc5c7f3978f17afb0bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.974 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 314/01)\n(VEREADOR ANTONIO CARLOS RODRIGUES - PL)\nAltera a denominação da Escola Municipal de Ensino Fundamental - EMEF Novo Grajaú, localizada na Rua Alba Valdez nº 5 - Jardim Reimberg - Distrito de Grajaú, para EMEF Lourival Brandão dos Santos, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Escola Municipal de Ensino Fundamental - EMEF Novo Grajaú, localizada na Rua Alba Valdez nº 5 - Jardim Reimberg - Distrito de Grajaú, passa a denominar-se Escola Municipal de Ensino Fundamental - EMEF Lourival Brandão dos Santos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13975",
+   "short": "Lei 13975/2005",
+   "title": "Lei nº 13.975, de 10/06/2005 (Denomina EMEI Jair Gusman Pedrosa a unidade escolar situada na Avenida Paulo Costa Ribeiro Bastos, s/nº, no Jardim Guanhembu.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13975-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13975",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13975-de-10-de-junho-de-2005",
+     "sha256": "8c6273c9f92283f5cd1a81f5dfde4b0ff584584a3bed4f718a7bacffded4f8f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.975 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 427/02)\n(VEREADOR GOULART - PMDB)\nDenomina EMEI Jair Gusman Pedrosa a unidade escolar situada na Avenida Paulo Costa Ribeiro Bastos, s/nº, no Jardim Guanhembu.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada EMEI Jair Gusman Pedrosa a unidade escolar conhecida como EMEI Jardim Planalto, situada na Avenida Paulo Costa Ribeiro Bastos, s/nº, no Jardim Guanhembu.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13976",
+   "short": "Lei 13976/2005",
+   "title": "Lei nº 13.976, de 10/06/2005 (Dispõe sobre a oficialização da denominação \"Marco da Paz\" para escultura que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13976-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13976",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13976-de-10-de-junho-de-2005",
+     "sha256": "f99c75606d3ab0d56e11bff37e76bc13d641e8052b227689e046df789bc40949",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.976 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 600/03)\n(VEREADOR RICARDO MONTORO - PSDB)\nDispõe sobre a oficialização da denominação \"Marco da Paz\" para escultura que especifica, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica oficializada como \"Marco da Paz\" a escultura detalhada no Anexo I desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O \"Marco da Paz\" poderá ser instalado em praças e logradouros públicos do Município de São Paulo, obedecidas as condições estabelecidas na legislação aplicável.\nParágrafo único. Réplicas da obra poderão ser utilizadas por entidades públicas ou privadas, nacionais ou estrangeiras, como troféu, ou como ilustrações e estampas, em homenagens, eventos e campanhas que promovam a aproximação dos povos em torno da Paz Mundial.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará esta lei, no que couber, no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelman\nObs.: Quadro anexo, vide DOC de 22/06/2005, página 77.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13977",
+   "short": "Lei 13977/2005",
+   "title": "Lei nº 13.977, de 10/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13977-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13977",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13977-de-10-de-junho-de-2005",
+     "sha256": "c9320f5802fc4fdb64fcb98b282b11bc85cceefe394aa899fa007a39da10a278",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.977 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 521/03)\n(VEREADOR RICARDO MONTORO - PSDB)\nDenomina Complexo Turístico Caio de Alcântara Machado o conjunto arquitetônico instalado no Parque Anhembi, localizado na Avenida Olavo Fontoura, 1209, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Complexo Turístico Caio de Alcântara Machado o conjunto arquitetônico instalado no Parque Anhembi, localizado na Avenida Olavo Fontoura, 1209.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por dotação orçamentária própria, suplementada se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13978",
+   "short": "Lei 13978/2005",
+   "title": "Lei nº 13.978, de 10/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13978-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13978",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13978-de-10-de-junho-de-2005",
+     "sha256": "43fc37619fa78837ea22412c9795fb575e5ef48e3f98db6e866b99fad60b125a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.978 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 770/03)\n(VEREADORA LUCILA PIZANI GONÇALVES - PT)\nDenomina CEI Frei Airton Pereira da Silva o próprio municipal conhecido por CEI Direta COHAB Adventista I, localizado na Rua Safra, s/nº, Conjunto Habitacional Instituto Adventista, Capão Redondo, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado CEI Frei Airton Pereira da Silva o próprio municipal conhecido por CEI Direta COHAB Adventista I, localizado na Rua Safra, s/nº, Conjunto Habitacional Instituto Adventista, Capão Redondo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13979",
+   "short": "Lei 13979/2005",
+   "title": "Lei nº 13.979, de 10/06/2005 (Denomina Terminal Vereador Osvaldo Giannotti a estação final do Paulistão - V.L.P. (Veículo Leve sobre Pneus), na Praça Altemar Dutra - bairro do Ipiranga.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13979-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13979",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13979-de-10-de-junho-de-2005",
+     "sha256": "3d69b775c20bfab497bbb6895703f0da115bddb88dbaf65b97a1c7c33eb63d45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.979 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 316/03)\n(VEREADOR DOMINGOS DISSEI - PFL)\nDenomina Terminal Vereador Osvaldo Giannotti a estação final do Paulistão - V.L.P. (Veículo Leve sobre Pneus), na Praça Altemar Dutra - bairro do Ipiranga.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Terminal Vereador Osvaldo Giannotti a estação final do Paulistão - V.L.P. (Veículo Leve sobre Pneus), localizada na Praça Altemar Dutra, Distrito do Sacomã, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13980",
+   "short": "Lei 13980/2005",
+   "title": "Lei nº 13.980, de 10/06/2005 (DENOMINA EMEF PLINIO MARCOS A EMEF JARDIM PAPAI NOEL, LOCALIZADA A RUA BELEM, S/N., JARDIM PAPAI NOEL - SUBPREFEITURA DE PARELHEIROS. (PL 672/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13980-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13980",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13980-de-10-de-junho-de-2005",
+     "sha256": "4d89f40f6576af9107ce412640b6febedcd524592d3388fbe837758858f4de2a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.980 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 672/03)\n(VEREADOR CARLOS GIANNAZI - PT)\nDenomina EMEF Plínio Marcos a EMEF Jardim Papai Noel, localizada à Rua Belém, s/nº, Jardim Papai Noel - Subprefeitura de Parelheiros.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada EMEF Plínio Marcos a EMEF Jardim Papai Noel, localizada à Rua Belém, s/nº, Jardim Papai Noel - Subprefeitura de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13981",
+   "short": "Lei 13981/2005",
+   "title": "Lei nº 13.981, de 10/06/2005 (DISPOE SOBRE ALTERACAO DE DENOMINACAO DE LOGRADOURO, E DA OUTRAS PROVIDENCIAS. (PL 906/95))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13981-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13981",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13981-de-10-de-junho-de-2005",
+     "sha256": "3b434411de57cc9781d2bb17401cad06aa46415e3813a112a1ca7114ca4ccc6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.981 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 906/95)\n(VEREADOR TONINHO PAIVA - PL)\nDispõe sobre alteração de denominação de logradouro, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viaduto Antonio Abdo o atual Viaduto Conselheiro Carrão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13982",
+   "short": "Lei 13982/2005",
+   "title": "Lei nº 13.982, de 10/06/2005 (Denomina EMEF Hermes Ferreira de Souza a EMEF inominada do CEU do Campo Limpo, Distrito do Campo Limpo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13982-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13982",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13982-de-10-de-junho-de-2005",
+     "sha256": "12c40948fc80d7cfe1921e7ff6ee09033626b75ceefac8128a7fd1da7e58fcc7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.982 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 749/03)\n(VEREADOR ARSELINO TATTO - PT)\nDenomina EMEF Hermes Ferreira de Souza a EMEF inominada do CEU do Campo Limpo, Distrito do Campo Limpo, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada EMEF Hermes Ferreira de Souza a EMEF inominada do CEU do Campo Limpo, localizada na Avenida Carlos Lacerda, s/nº, Distrito do Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13983",
+   "short": "Lei 13983/2005",
+   "title": "Lei nº 13.983, de 10/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13983-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13983",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13983-de-10-de-junho-de-2005",
+     "sha256": "0e07ec14aa187e1a3ae3a5e16282b0c862866881223b7c4d219a32de8a00ea52",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.983 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 168/02)\n(VEREADOR ANTONIO CARLOS RODRIGUES - PL)\nDenomina Centro de Educação Infantil Bryan Biguinati Jardim o estabelecimento municipal de ensino situado no Jardim Ingá, Campo Limpo, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Centro de Educação Infantil Bryan Biguinati Jardim o estabelecimento municipal de ensino localizado na Rua Francisco Soares, 27, Jardim Ingá, Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13984",
+   "short": "Lei 13984/2005",
+   "title": "Lei nº 13.984, de 10/06/2005 (Dá denominação ao Ambulatório de Especialidades de Sapopemba.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13984-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13984",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13984-de-10-de-junho-de-2005",
+     "sha256": "4c194791e66fcffc749d5c9a7c031c4b501d14e0e2186c4c02b33586d90d953b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.984 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 909/97)\n(VEREADOR CARLOS NEDER - PT)\nDá denominação ao Ambulatório de Especialidades de Sapopemba.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a denominar-se Valdemar Sunhiga o Ambulatório de Especialidades de Sapopemba, localizado na Rua João Lopes de Lima, 1151, Jardim Sapopemba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13985",
+   "short": "Lei 13985/2005",
+   "title": "Lei nº 13.985, de 10/06/2005 (Denomina Santo Dias da Silva a ponte conhecida como Socorro, no Subdistrito de Capela do Socorro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13985-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13985",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13985-de-10-de-junho-de-2005",
+     "sha256": "c6a53a38f6236821bf0f3fdece042c7cc20e18e5b64d5407c86f70e9545fd0b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.985 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 726/91)\n(VEREADOR ARSELINO TATTO - PT)\nDenomina Santo Dias da Silva a ponte conhecida como Socorro, no Subdistrito de Capela do Socorro.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a denominar Ponte Santo Dias da Silva a atual Ponte do Socorro, no Subdistrito de Capela do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13986",
+   "short": "Lei 13986/2005",
+   "title": "Lei nº 13.986, de 10/06/2005 (Denomina Viaduto Professor Matajiro Yamaguishi viaduto sem denominação, situado no Complexo Viário Luiz Gonzaga, Distrito de Itaquera.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13986-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13986",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13986-de-10-de-junho-de-2005",
+     "sha256": "e37f84b4f382e2d2cec2cd403821a247448a8a70d422c05f663560da0d01ec03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.986 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 213/98)\n(VEREADOR GILSON BARRETO - PSDB)\nDenomina Viaduto Professor Matajiro Yamaguishi viaduto sem denominação, situado no Complexo Viário Luiz Gonzaga, Distrito de Itaquera.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viaduto Professor Matajiro Yamaguishi o viaduto situado no Complexo Viário Luiz Gonzaga (Lei nº 12.313, de 16 de abril de 1997), antiga Avenida Nova Trabalhadores - Sistema Viário Jacu-Pêssego, Distrito de Itaquera - existente sobre a linha ferroviária da Companhia Paulista de Trens Metropolitanos (CPTM), próximo à Estação Ferroviária de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 16 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13987",
+   "short": "Lei 13987/2005",
+   "title": "Lei nº 13.987, de 10/06/2005 (ALTERA DENOMINACAO DA ATUAL RUA JOSE BENEDITO VIANA DE MORAES, NO BAIRRO DO BUTANTA, PARA RUA J. B. VIANA DE MORAES. (PL 137/02))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13987-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13987",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13987-de-10-de-junho-de-2005",
+     "sha256": "82972d5546006d771c3bdab0c87272bc4bc505a2f27840b0ffd0e45a7becbf30",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.987 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 137/02)\n(VEREADOR ERASMO DIAS - PP)\nAltera denominação da atual Rua José Benedito Viana de Moraes, no Bairro do Butantã, para Rua J. B. Viana de Moraes.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da atual Rua José Benedito Viana de Moraes, situada no Bairro do Butantã, para Rua J. B. Viana de Moraes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13988",
+   "short": "Lei 13988/2005",
+   "title": "Lei nº 13.988, de 10/06/2005 (Denomina Escola Municipal de Ensino Fundamental inominada, situada no bairro Jardim São Francisco, Distrito de São Rafael.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13988-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13988",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13988-de-10-de-junho-de-2005",
+     "sha256": "15e1378a601b8d0090d60469094c9600292023ac8565528cae5a751f859d29fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.988 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 503/99)\n(VEREADOR DEVANIR RIBEIRO - PT)\nDenomina Escola Municipal de Ensino Fundamental inominada, situada no bairro Jardim São Francisco, Distrito de São Rafael.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Julio de Grammont a Escola Municipal de Ensino Fundamental localizada na Travessa Meiri nº 73, bairro do Jardim São Francisco, Distrito de São Rafael.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13989",
+   "short": "Lei 13989/2005",
+   "title": "Lei nº 13.989, de 10/06/2005 (Cria o Museu do Futebol nas dependências do Estádio Municipal Paulo Machado de Carvalho - Estádio do Pacaembu, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13989-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13989",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13989-de-10-de-junho-de-2005",
+     "sha256": "8a7d6173c48d5055aa4fbb3c6cb7f4c8a833320ef057d595d29686bd9bfbc1f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.989 DE 10 DE JUNHO DE 2005\n(PROJETO DE LEI 271/99)\n(VEREADOR GOULART - PMDB)\nCria o Museu do Futebol nas dependências do Estádio Municipal Paulo Machado de Carvalho - Estádio do Pacaembu, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Museu do Futebol nas dependências do Estádio Municipal Paulo Machado de Carvalho, o Estádio do Pacaembu.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O museu de que trata o artigo anterior será formado por objetos, fotografias, películas e outros elementos ou formas de expressão e documentação que constituam-se em memória da história do futebol.\nParágrafo único. O Poder Público Municipal poderá receber em doação material que, após seleção e análise, se incorporará ao acervo do Museu.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Museu do Futebol ficará aberto à visitação pública em data e horário a serem fixados pelo órgão competente, respeitadas as atividades fins daquele espaço esportivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Nas instalações do Museu de que trata a presente lei deverão ser programados eventos periódicos com o objetivo de estimular entre seus freqüentadores a compreensão e a postura salutar diante da vitória e da derrota, inerentes às disputas esportivas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias a contar de sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 15 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 15 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13990",
+   "short": "Lei 13990/2005",
+   "title": "Lei nº 13.990, de 13/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13990-de-13-de-junho-de-2005",
+   "first_law": "lei-2005-13990",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13990-de-13-de-junho-de-2005",
+     "sha256": "8a3057d48a5eb427156ecd61550cfd2e7a70a3fe52280163dc9fade7bbcc3db3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 13.990 DE 13 DE JUNHO DE 2005\n(PROJETO DE LEI 183/2003)\n(VEREADOR GOULART - PMDB)\nDenomina Padre Aldo da Tofori a unidade escolar conhecida como EMEF Vila Guacuri, edificada na Rua Dr. Carlos de Resende Enout com Miguel Pietá e Francisco José da Costa, Parque Dorotéia, Subprefeitura de Cidade Ademar, e dá outras providências.\nRoberto Tripoli, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Padre Aldo da Tofori a unidade escolar conhecida como EMEF Vila Guacuri, edificada na Rua Dr. Carlos de Resende Enout com Miguel Pietá e Francisco José da Costa, Parque Dorotéia, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 16 de junho de 2005.\nO Presidente, Roberto Tripoli\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 16 de junho de 2005.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13991",
+   "short": "Lei 13991/2005",
+   "title": "Lei nº 13.991, de 11/06/2005 (Institui o Programa de Transferência de Recursos Financeiros às Associações de Pais e Mestres das Unidades Educacionais da Rede Municipal de Ensino.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13991-de-11-de-junho-de-2005",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2005-13991"
+   ],
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13991-de-11-de-junho-de-2005",
+     "sha256": "5b9ff6d1ff2f85aab2dd9c630eb116c7f8ba843fa90cdfc9ad026ba449528819",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.991, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 155/02, Vereador Paulo Frange - PTB)\nInstitui o Programa de Transferência de Recursos Financeiros às Associações de Pais e Mestres das Unidades Educacionais da Rede Municipal de Ensino.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Transferência de Recursos Financeiros, que tem como objetivo fortalecer a participação da comunidade escolar no processo de construção da autonomia das Unidades Educacionais da Rede Municipal de Ensino, em conformidade com o art. 15 da Lei nº 9.394, de 20 de dezembro de 1996.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa consiste na transferência de recursos financeiros estabelecidos em Orçamento pela Prefeitura do Município de São Paulo, através da Secretaria Municipal de Educação, em favor das Associações de Pais e Mestres das Unidades Educacionais da Rede Municipal de Ensino, em conta específica.\n§ 1º Os valores serão transferidos em parcelas calculadas com base nos dados oficiais do Censo Escolar/INEP, relativo ao ano imediatamente anterior ao do atendimento.\n§ 2º A Prefeitura do Município de São Paulo divulgará, a cada exercício financeiro, a forma de cálculo, o valor e a periodicidade das transferências, as unidades executoras, bem como as orientações e instruções necessárias à execução do programa, observada a disponibilidade orçamentária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os recursos transferidos ao Programa destinam-se à cobertura de despesas de custeio, manutenção dos equipamentos existentes, conservação das instalações físicas do sistema de ensino, e de pequenos investimentos, de forma a contribuir supletivamente para a garantia do funcionamento das unidades educacionais, devendo ser aplicados:\nI - na aquisição de material permanente;\nII - na aquisição de material de consumo necessário ao funcionamento da unidade educacional;\nIII - na manutenção, conservação e pequenos reparos da unidade educacional;\nIV - no desenvolvimento de atividades educacionais;\nV - na implementação de projetos pedagógicos da unidade educacional; e\nVI - na contratação de serviços.\nVII - programas e projetos de inserção de tecnologias na educação.\n§ 1º É vedada a aplicação dos recursos do Programa em gastos com pessoal do Quadro Geral do Pessoal da Prefeitura do Município de São Paulo ou contratado pelos órgãos públicos da Administração Direta ou Indireta.\n§ 2º Não poderão ser realizadas obras, instalações elétricas e hidráulicas, e ainda reformas estruturais, de qualquer vulto, sem a prévia aprovação da área competente da Secretaria de Educação do Município de São Paulo.\n§ 3º Toda manutenção de prédio escolar deverá assegurar as características originais da edificação, no que se refere ao projeto arquitetônico, fachada e elementos estruturais, observadas as exigências da legislação vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Em conformidade com o que dispõe o § 1º do art. 47 da Lei Orgânica do Município, as Associações de Pais e Mestres das Unidades Educacionais da Rede Municipal de Ensino deverão prestar contas dos recursos recebidos.\n§ 1º O procedimento de prestação de contas referido no \"caput\" deste artigo será regulamentado em decreto.\n§ 2º A liberação de cada nova parcela de recursos do Programa fica condicionada à apresentação da prestação de contas referentes à parcela anterior.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei deverá ser regulamentada no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nMAURO RICARDO MACHADO COSTA, Secretário Municipal de Finanças\nJOSÉ ARISTODEMO PINOTTI, Secretário Municipal de Educação\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.991, de 11/06/2005 was altered by acts of 1 date(s), the latest 2019-12-27."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13992",
+   "short": "Lei 13992/2005",
+   "title": "Lei nº 13.992, de 10/06/2005",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13992-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13992",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13992-de-10-de-junho-de-2005",
+     "sha256": "6aa4fb5278b70e4b96feedc44d06f1fd274099ca111c72c7d2b7ebc50b53b0f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.992, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 12/05, do Vereador Antonio Carlos Rodrigues - PL)\nDispõe sobre a proibição de realização de concursos públicos aos sábados na Administração Pública Direta e Indireta no Município de São Paulo e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os concursos públicos de ingresso na Administração Pública Direta e Indireta do Município de São Paulo não poderão ser realizados aos sábados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias suplementadas, se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nJANUARIO MONTONE, Secretário Municipal de Gestão\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13993",
+   "short": "Lei 13993/2005",
+   "title": "Lei nº 13.993, de 10/06/2005 (Dispõe sobre a obrigatoriedade de colocação de indicação de profundidade nas bordas das piscinas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13993-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13993",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13993-de-10-de-junho-de-2005",
+     "sha256": "ce898a9cfd219de202b2fc6aea575b1625168b25ef3c927a503e05bc9a560224",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.993, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 075/05, do Vereador Russomanno - PP)\nDispõe sobre a obrigatoriedade de colocação de indicação de profundidade nas bordas das piscinas, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É obrigatória, no Município de São Paulo, a colocação de indicação de profundidade nas bordas externas das piscinas públicas, bem como das piscinas privadas de uso coletivo instaladas nos clubes, sociedades esportivas e congêneres.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As indicações de que trata a presente lei deverão constituir-se na colocação de adesivos ou pintura, nas bordas externas da piscina, com material antiderrapante e impermeável, de fácil visualização e com dimensões compatíveis com a mesma.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os indicadores de profundidade deverão estar dispostos nos pontos de menor profundidade, na mediana e de maior profundidade da piscina.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As piscinas referidas no art. 1º deverão estar adaptadas aos dispositivos desta lei no prazo de 60 (sessenta) dias a contar de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A inobservância do disposto nesta lei implicará ao infrator a imposição de multa no valor de R$ 200,00 (duzentos reais), dobrada em caso de reincidência, devendo este valor ser reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias a contar de sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nHERALDO CORRÊA AYROSA GALVÃO, Secretário Municipal de Esportes, Lazer e Recreação\nWALTER MEYER FELDMAN, Secretário Municipal de Coordenação das Subprefeituras\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13996",
+   "short": "Lei 13996/2005",
+   "title": "Lei nº 13.996, de 10/06/2005 (Dispõe sobre a denominação de logradouro público na confluência das ruas Bernardino D'Áuria e João Carlos Fortim como Praça Kazuo Suguyama, no Jardim Tremembé.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13996-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13996",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13996-de-10-de-junho-de-2005",
+     "sha256": "de51a1544788ecf9f3b266edae7ab6ce811b89d1e4c00cee42fff8d64da31b44",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.996, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 184/05, do Vereador Ushitaro Kamia - PFL)\nDispõe sobre a denominação de logradouro público na confluência das ruas Bernardino D'Áuria e João Carlos Fortim como Praça Kazuo Suguyama, no Jardim Tremembé.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Kazuo Suguyama o atual local sem denominação, que fica na confluência das ruas Bernardino D'Áuria e João Carlos Fortim, situada no Jardim Tremembé, São Paulo, Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-13999",
+   "short": "Lei 13999/2005",
+   "title": "Lei nº 13.999, de 10/06/2005 (Dispõe sobre a nova denominação da Ponte do Morumbi, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13999-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-13999",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13999-de-10-de-junho-de-2005",
+     "sha256": "e6c6950a48e5bd7da365f9bc811c3874a5e0e6e6eb68bee61738f365d1a8bd95",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.999, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 134/02, do Vereador Celso Jatene - PTB)\nDispõe sobre a nova denominação da Ponte do Morumbi, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O logradouro público denominado Ponte do Morumbi, localizado na divisa do bairro do Itaim Bibi, CODLOG 31545-1, com o bairro do Morumbi, passa a ser denominado Ponte do Morumbi Caio Pompeu de Toledo.\nParágrafo único. No logradouro será fixada placa denominativa com os dizeres: \"Ponte do Morumbi Caio Pompeu de Toledo\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nORLANDO ALMEIDA FILHO, Secretário Municipal de Habitação\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-14000",
+   "short": "Lei 14000/2005",
+   "title": "Lei nº 14.000, de 10/06/2005 (DISPOE SOBRE A GARANTIA DE ATENDIMENTO MEDICO PERIODICOS AOS PACIENTES QUE JA DOARAM ORGAOS, E DA OUTRAS PROVIDENCIAS. (PL 159/02))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14000-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-14000",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14000-de-10-de-junho-de-2005",
+     "sha256": "9858e77fa6fd87f37d8ca0e7e162aa0538baedaa0493c7ada973f674d8b57a20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.000, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 159/02, do Vereador Edivaldo Estima - PPS)\nDispõe sobre a garantia de atendimento médico periódicos aos pacientes que já doaram órgãos, e dá outras providências.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Executivo, através da Secretaria Municipal da Saúde, garantirá atendimento médico prioritário, periodicamente, aos pacientes que já doaram órgãos, tecidos e partes do corpo humano para fins de tratamento.\nParágrafo único. Para fins de que trata esta lei, o atendimento médico prioritário dar-se-á através de uma identificação no setor específico implantado nas unidades médicas municipais existentes, que manterá cadastro atualizado de controle e acompanhamento dos doadores submetidos à avaliação médica periódica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará a presente lei no prazo de 60 (sessenta) dias, a contar da data da publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nMARIA CRISTINA FARIA DA SILVA CURY, Secretária Municipal da Saúde\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-14001",
+   "short": "Lei 14001/2005",
+   "title": "Lei nº 14.001, de 10/06/2005 (DISPOE SOBRE A PRESENCA DE FAMILIARES ADULTOS EM QUARTOS DE HOSPITAIS PUBLICOS COMO ACOMPANHANTES DE PESSOAS ACIMA DE 60 ANOS. (PL 692/02))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14001-de-10-de-junho-de-2005",
+   "first_law": "lei-2005-14001",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14001-de-10-de-junho-de-2005",
+     "sha256": "9584a7f6a3a81af497818d30b51b8c84be8982a6ecfe61ef01e61c0b7a7c1588",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.001, DE 10 DE JUNHO DE 2005\n(Projeto de Lei nº 692/02, do Vereador Toninho Paiva - PL)\nDispõe sobre a presença de familiares adultos em quartos de hospitais públicos como acompanhantes de pessoas acima de 60 anos.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica assegurado aos enfermos com mais de 60 anos de idade internados em hospitais públicos a presença de uma pessoa da família, junto ao seu leito, como seu acompanhante durante o período em que estiver hospitalizado.\nParágrafo único. Na ausência de familiares, fica assegurada a presença de pessoa responsável como acompanhante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nMARIA CRISTINA FARIA DA SILVA CURY, Secretária Municipal da Saúde\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 10 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2005-14003",
+   "short": "Lei 14003/2005",
+   "title": "Lei nº 14.003, de 14/06/2005 (Consolida o Programa Municipal de Intervenção em Ruas Comerciais do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14003-de-14-de-junho-de-2005",
+   "first_law": "lei-2005-14003",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14003-de-14-de-junho-de-2005",
+     "sha256": "bd797ecc1381ef0cfbae38764abd0b8b08db22d2b4bfa1906612e8afdd6bb3f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.003, DE 14 DE JUNHO DE 2005\n(Projeto de Lei nº 0062/2005, Vereador Antônio Donato - PT)\nConsolida o Programa Municipal de Intervenção em Ruas Comerciais do Município de São Paulo.\nJOSÉ SERRA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de maio de 2005, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica consolidado, através da presente lei, o Programa Municipal de Intervenção em Ruas Comerciais do Município de São Paulo, instituído através do Decreto nº 42.834, de 06 de fevereiro de 2003, destinado à realização de obras e serviços necessários à requalificação e à reurbanização de ruas comerciais localizadas no perímetro urbano do município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os projetos destinados à requalificação e/ou à reurbanização de ruas comerciais poderão conter os seguintes serviços e obras:\nI - configuração de ruas e calçadas;\nII - drenagem de águas pluviais;\nIII - obras de redes de infra-estrutura aérea e subterrâneas, operadas por concessionários e permissionários;\nIV - serviços de pavimentação de vias e calçadas;\nV - instalação de mobiliário urbano;\nVI - instalação de equipamentos urbanos;\nVII - iluminação pública;\nVIII - adequação de sinalização viária;\nIX - adequação de trânsito e transporte;\nX - paisagismo;\nXI - ordenamento do espaço público;\nXII - infra-estrutura para turismo de compras;\nXIII - adequação de propaganda e fachadas do comércio;\nXIV - recuperação do patrimônio histórico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Prefeitura e a entidade representativa dos aderentes celebrarão convênio para implementação do projeto específico, do qual constarão as atribuições de cada parte, as formas de execução, os prazos e condições de prorrogação e as hipóteses de alteração e rescisão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\nI - (VETADO)\nII - (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\n§ 1º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\nV - (VETADO)\nVI - (VETADO)\nVII - (VETADO)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO)\nI - (VETADO)\nII - (VETADO)\nIII - (VETADO)\nIV - (VETADO)\nV - (VETADO)\nVI - (VETADO)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º (VETADO)\n§ 1º (VETADO)\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. (VETADO)\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Objetivando viabilizar a execução dos projetos e sua manutenção, poderá a Prefeitura Municipal e a entidade representativa dos aderentes estabelecer parcerias com a iniciativa privada, na forma de patrocínio, co-patrocínio, colaboração ou apoio, devendo ser tais parcerias limitadas à área da intervenção, bem como compatíveis aos investimentos realizados no local de intervenção.\nParágrafo único. (VETADO)\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. As despesas decorrentes da implantação da presente lei correrão por conta de dotações orçamentárias, suplementadas se necessário.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 14 de junho de 2005, 452º da fundação de São Paulo.\nJOSÉ SERRA, PREFEITO\nWALTER MEYER FELDMAN, Secretário Municipal de Coordenação das Subprefeituras\nFRANCISCO VIDAL LUNA, Secretário Municipal de Planejamento\nPublicada na Secretaria do Governo Municipal, em 14 de junho de 2005.\nALOYSIO NUNES FERREIRA FILHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

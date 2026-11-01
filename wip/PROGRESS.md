@@ -41,3 +41,10 @@ br_city_verify.sh holds a lock (.verify.lock) and builds outside scripts/ (%LOCA
   nothing bad was PUBLISHed (2019 parts stayed unpublished). Fixed with the lock + per-run build folder above.
 - 09:07Z resumed: fetch PID 48208 (--years 2024-1892, cached years pass without requests; resumes in 1991), loop PID 3008
   draining 2019 -> 1992, one year per PUBLISH batch.
+- 2026-11-01 rule (coordinator, after three WAF blocks elsewhere): no stated Crawl-delay -> <= 1 request / 3 s and ~5,000
+  requests per host per UTC day; stop for good on any challenge (br_city_get already writes STOP on a challenge page).
+  world-law/br_city_get.py Host(..., daily_cap=N) counts the day's requests from requests.jsonl and sleeps to the next
+  UTC day at the cap; fetch.py uses daily_cap=5000. 09:28Z restarted via br_city_resume.ps1 (old fetch PID 48208
+  stopped): PID 20156. 7,649 requests already on 11-01 (UTC), so it paused at once until 2026-11-02T00:00:05Z, at year
+  1989 (2019..1990 fetched). At ~5,000 a day the rest (1989..1892) takes a few more days; the loop keeps publishing
+  each finished year meanwhile, and resume.ps1 restarts both after any sleep or reboot.

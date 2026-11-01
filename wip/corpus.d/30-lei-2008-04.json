@@ -1,0 +1,2379 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "43 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2008-14827": {
+   "label": "Lei nº 14.827, de 01/10/2008",
+   "title": "Denomina Travessa Noemia Áurea de Jesus a travessa inominada conhecida como Passagem 15, localizada entre as ruas Teiú e Jaguarundi, Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14827-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14828": {
+   "label": "Lei nº 14.828, de 01/10/2008",
+   "title": "Denomina Praça Maria Alves Castanha o espaço livre delimitado pelas avenidas Tomás Campanella e Wilhelm Friedrich Ladwig, no Distrito do Capão Redondo, Subprefeitura do Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14828-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14829": {
+   "label": "Lei nº 14.829, de 01/10/2008",
+   "title": "Denomina Praça Dr. Teruo Wakabayashi o logradouro público inominado, situado entre a Avenida Dr. Hugo Beolchi e a Avenida Pedro Severino, Distrito da Saúde, Subprefeitura da Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14829-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14830": {
+   "label": "Lei nº 14.830, de 01/10/2008",
+   "title": "Denomina Praça Szymon Horbaczyk o logradouro delimitado pela Avenida Dr. Guilherme de Abreu Sodré, Rua Inácio Monteiro e pela Rua Perimetral, no Distrito de Cidade Tiradentes, Subprefeitura de Cidade Tiradentes, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14830-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14831": {
+   "label": "Lei nº 14.831, de 01/10/2008",
+   "title": "Denomina Travessa Luiz Gonzaga Camara a Passagem 17, localizada entre as ruas Caxinguelê e Caxiu, Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14831-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14832": {
+   "label": "Lei nº 14.832, de 01/10/2008",
+   "title": "Denomina Travessa José Pedro de Mendonça a travessa inominada localizada na travessa da Rua Cachoeira Manganal, Distrito do Jardim Helena, Subprefeitura de São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14832-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14833": {
+   "label": "Lei nº 14.833, de 01/10/2008",
+   "title": "Denomina Praça Manoel Joaquim dos Santos o espaço livre sem denominação situado entre a Rua Doutor Renato da Costa Bonfim e a Rua Fábio José Bezerra, no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14833-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14834": {
+   "label": "Lei nº 14.834, de 01/10/2008",
+   "title": "Denomina Praça Maria Eloiza de Angelo Salese o espaço livre sem denominação localizado entre a Rua Varzelândia e a Rua Maricaua, código logradouro nº 74897-8 (Setor 131 - Quadras 17, 61 e 62), no Distrito de Vila Jacuí, Subprefeitura de São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14834-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14835": {
+   "label": "Lei nº 14.835, de 01/10/2008",
+   "title": "Denomina Travessa Takeshi Yatsu o logradouro público sem denominação localizado entre a Rua São Celso e a Rua Jovelina, no Distrito de Ponte Rasa, Subprefeitura Ermelino Matarazzo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14835-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14836": {
+   "label": "Lei nº 14.836, de 01/10/2008",
+   "title": "DENOMINA PRACA ANTONIO ENEAS MATIAS O ESPACO LIVRE SEM DENOMINACAO SITUADO ENTRE AS RUAS LAZARO DINIZ E PASCOAL DE MIRANDA, DISTRITO DO ITAIM PAULISTA, SUBPREFEITURA DO ITAIM PAULISTA, E DA OUTRAS PROVIDENCIAS.(PL 162/08)",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14836-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14837": {
+   "label": "Lei nº 14.837, de 01/10/2008",
+   "title": "Denomina Praça Adelino Miato o espaço livre sem denominação delimitado pelas ruas Jean Baptiste D'Alembert, François Vite e por lotes particulares no Distrito de Arthur Alvim, Subprefeitura Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14837-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14838": {
+   "label": "Lei nº 14.838, de 01/10/2008",
+   "title": "Denomina Rua José Nei Cabral Júnior o acesso direito à Ponte da Vila Maria, que começa na Avenida Condessa Elisabeth de Rubiano e termina na Ponte Presidente Jânio Quadros, no Distrito do Belém, Subprefeitura Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14838-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14839": {
+   "label": "Lei nº 14.839, de 01/10/2008",
+   "title": "Denomina Praça Raphael Cardamone o logradouro público inominado delimitado pelas ruas Padre Raposo e Madre de Deus, pela Avenida Paes de Barros e por lotes particulares da Quadra 030 do Setor Fiscal 028, localizado no Distrito da Mooca, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14839-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14840": {
+   "label": "Lei nº 14.840, de 01/10/2008",
+   "title": "Denomina Praça Pedro Galizia o espaço livre na confluência da Rua Jorge Faleiros com a Rua Marechal Caetano de Faria e a rampa da Avenida Bandeirantes, no Distrito da Saúde, Subprefeitura de Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14840-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14841": {
+   "label": "Lei nº 14.841, de 01/10/2008",
+   "title": "Denomina Praça Dona Rosa dos Santos Carvalho o espaço livre sem denominação delimitado pelas ruas Boris Alexandr e Tasselli Ugo, Distrito do Rio Pequeno, Subprefeitura Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14841-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14842": {
+   "label": "Lei nº 14.842, de 01/10/2008",
+   "title": "Denomina Praça Josefa Isabel de Matos o logradouro público situado no Distrito do Capão Redondo, Subprefeitura do Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14842-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14843": {
+   "label": "Lei nº 14.843, de 01/10/2008",
+   "title": "Denomina Praça Alberto Martini Ferreira o espaço público sem denominação delimitado pelas ruas Gaspar Coqueiro, Áurea da Gama e Rua T, Distrito do Campo Limpo, Subprefeitura Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14843-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14844": {
+   "label": "Lei nº 14.844, de 01/10/2008",
+   "title": "Dispõe sobre a denominação do espaço livre, localizado no Setor 171, Quadra 170, entre a Avenida Guilherme Dumont Villares e a Rua Elizabeth Barbegian Baldinato como Praça Professora Cecília Armentano, Subprefeitura do Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14844-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14845": {
+   "label": "Lei nº 14.845, de 01/10/2008",
+   "title": "Denomina Praça Anna Lopes da Luz o logradouro público situado no Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-01",
+   "published": "2008-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14845-de-1-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14846": {
+   "label": "Lei nº 14.846, de 08/10/2008",
+   "title": "Altera o art. 1º da Lei nº 13.285, de 9 de janeiro de 2002, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-08",
+   "published": "2008-10-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14846-de-8-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14847": {
+   "label": "Lei nº 14.847, de 08/10/2008",
+   "title": "Denomina Travessa Orlando Antão Trevisan a rua existente, que começa na altura do nº 411 da Rua Maxá e termina na Rua Tereza Ackel, Distrito da Penha, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-08",
+   "published": "2008-10-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14847-de-8-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14849": {
+   "label": "Lei nº 14.849, de 08/10/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Mulher do Samba Paulistano, a ser comemorado anualmente no dia 15 de fevereiro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-10-08",
+   "published": "2008-10-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14849-de-08-de-outubro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14850": {
+   "label": "Lei nº 14.850, de 11/11/2008",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Mérito Cívico Afro-Brasileiro e a Semana do Troféu Raça Negra, a serem realizados, anualmente e respectivamente, no dia 13 de maio e no mês de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-11",
+   "published": "2008-11-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14850-de-11-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14851": {
+   "label": "Lei nº 14.851, de 24/11/2008",
+   "title": "Denomina Praça Rubens de Falco o espaço livre delimitado pelas ruas José do Patrocínio Waetge e Rouxinho, Distrito do Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-24",
+   "published": "2008-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14851-de-24-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14852": {
+   "label": "Lei nº 14.852, de 24/11/2008",
+   "title": "Denomina Praça Fábio Borges de Mello o logradouro público situado no Distrito de Parque do Carmo, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-24",
+   "published": "2008-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14852-de-24-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14853": {
+   "label": "Lei nº 14.853, de 24/11/2008",
+   "title": "Denomina Praça César Marcio Ferreira de Sousa o espaço livre sem denominação localizado entre a Rua Garopá, altura do n° 584, e a Rua Donato Vessechi, altura do n° 450, no Distrito de Vila Curuçá, Subprefeitura Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-24",
+   "published": "2008-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14853-de-24-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14854": {
+   "label": "Lei nº 14.854, de 24/11/2008",
+   "title": "Denomina Praça Dalgima Vieira Ramos o espaço livre sem denominação situado na confluência da Avenida Rubens Fraga de Toledo Arruda com a Rua Pedro Marciano de Alcântara, no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-24",
+   "published": "2008-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14854-de-24-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14855": {
+   "label": "Lei nº 14.855, de 24/11/2008",
+   "title": "Denomina Praça Adélia Dantas Magalhães Freire o espaço livre sem denominação delimitado pela Avenida Direitos Humanos e pelas Ruas General José de Almeida Botelho e Manoel Antonio Torres, no Distrito do Mandaqui, Subprefeitura Santana/Tucuruvi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-11-24",
+   "published": "2008-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14855-de-24-de-novembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14856": {
+   "label": "Lei nº 14.856, de 23/12/2008",
+   "title": "AUTORIZA A CONCESSAO ADMINISTRATIVA DE USO DA AREA DE PROPRIEDADE MUNICIPAL SITUADA NA RUA IAMACARU,BAIRRO DE SAPOPEMBA, E DA OUTRAS PROVIDENCIAS.(PL 035/03)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14856-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14857": {
+   "label": "Lei nº 14.857, de 23/12/2008",
+   "title": "DISPOE SOBRE CONCESSAO ADMINISTRATIVA DE USO, A UNIVERSIDADE FEDERAL DE SAO PAULO-UNIFESP,DE AREA DE PROPRIEDADE MUNICIPAL SITUADA NA RUA BOTUCATU,VILA CLEMENTINO.(PL 119/08)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14857-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14858": {
+   "label": "Lei nº 14.858, de 23/12/2008",
+   "title": "AUTORIZA O EXECUTIVO A DOAR AREA DE PROPRIEDADE MUNICIPAL SITUADA NA ESTRADA DO IMPERADOR,S/N.DISTRITO DE SAO MIGUEL,SUPREFEITURA DE SAO MIGUEL,A COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SAO PAULO-CDHU.(PL 145/04)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14858-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14859": {
+   "label": "Lei nº 14.859, de 23/12/2008",
+   "title": "AUTORIZA A DOACAO DE AREA MUNICIPAL A COMPANHIA METROPOLITANA DE HABITACAO DE SAO PAULO-COHAB-SP.(PL 427/04)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14859-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14860": {
+   "label": "Lei nº 14.860, de 23/12/2008",
+   "title": "DISPOE SOBRE CONCESSAO DE USO DE IMOVEIS MUNICIPAIS,SITUADOS NA RUA LOEFGREN E NA AVENIDA HORACIO LAFER,A ASSOCIACAO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SAO PAULO-APAE.(PL 432/07)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14860-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14861": {
+   "label": "Lei nº 14.861, de 23/12/2008",
+   "title": "DISPOE SOBRE CONCESSAO ADMINISTRATIVA DE USO DE AREAS MUNICIPAIS SITUADAS NA VILA CLEMENTINO A FUNDACAO SAO PAULO,ENTIDADE MANTENEDORA DA PONTIFICIA UNIVERSIDADE CATOLICA DE SAO PAULO.(PL 514/04)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14861-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14862": {
+   "label": "Lei nº 14.862, de 23/12/2008",
+   "title": "Dispõe sobre alteração da finalidade da concessão de uso de área municipal à Associação \"Obra do Berço\", de que trata a Lei nº 9.177, de 5 de dezembro de 1980.",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": "2008-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14862-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14863": {
+   "label": "Lei nº 14.863, de 23/12/2008",
+   "title": "Concede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS à prestação de serviços relacionados à Copa das Confederações de 2013, à Copa do Mundo de Futebol de 2014 e aos Jogos Olímpicos e Paraolímpicos de 2016. Concede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS à prestação de serviços relacionados à Copa do Mundo de Futebol de 2014 e aos Jogos Olímpicos e Paraolímpicos de 2016.(Redação dada pela Lei nº 15.891/2013)",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14863-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14864": {
+   "label": "Lei nº 14.864, de 23/12/2008",
+   "title": "Concede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS aos profissionais liberais e autônomos.",
+   "kind": "law",
+   "enacted": "2008-12-23",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14864-de-23-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14865": {
+   "label": "Lei nº 14.865, de 29/12/2008",
+   "title": "Concede isenção de Imposto Predial e Territorial Urbano - IPTU nas condições que especifica; altera dispositivos das Leis nº 6.989, de 29 de dezembro de 1966, nº 11.154, de 30 de dezembro de 1991, nº 13.476, de 30 de dezembro de 2002, nº 13.701, de 24 de dezembro de 2003, nº 14.097, de 8 de dezembro de 2005, nº 14.107, de 12 de dezembro de 2005, e nº 8.645, de 21 de novembro de 1977, com as respectivas alterações posteriores; autoriza a reabertura de prazo para ingresso no Programa de Parcelamento Incentivado - PPI; revoga os dispositivos e leis que especifica.",
+   "kind": "law",
+   "enacted": "2008-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14865-de-29-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14866": {
+   "label": "Lei nº 14.866, de 29/12/2008",
+   "title": "Altera a redação do art. 1º e do art. 3º da Lei nº 14.065, de 14 de outubro de 2005, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2008-12-29",
+   "published": "2008-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14866-de-29-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14867": {
+   "label": "Lei nº 14.867, de 29/12/2008",
+   "title": "Retifica dispositivo da Lei nº 9.578, de 6 de janeiro de 1983.",
+   "kind": "law",
+   "enacted": "2008-12-29",
+   "published": "2008-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14867-de-29-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14868": {
+   "label": "Lei nº 14.868, de 29/12/2008",
+   "title": "Aprova plano de melhoramento viário no Distrito de Jardim Helena, na Subprefeitura de São Miguel.",
+   "kind": "law",
+   "enacted": "2008-12-29",
+   "published": "2008-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14868-de-29-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2008-14869": {
+   "label": "Lei nº 14.869, de 29/12/2008",
+   "title": "Altera o \"caput\" do artigo 1º e acresce dispositivos à Lei nº 14.652, de 20 de dezembro de 2007, com a redação dada pela Lei nº 14.804, de 27 de junho de 2008, que dispõe sobre as concessões e permissões de uso de áreas municipais.",
+   "kind": "law",
+   "enacted": "2008-12-29",
+   "published": "2008-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14869-de-29-de-dezembro-de-2008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2011-15498": {
+   "label": "Lei nº 15.498, de 01/12/2011",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Carnaval de Rua de Capão Redondo, a ser comemorado anualmente no domingo de Carnaval, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-12-01",
+   "published": "2008-12-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15498-de-01-de-dezembro-de-2011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2008-14827",
+   "short": "Lei 14827/2008",
+   "title": "Lei nº 14.827, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14827-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14827",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14827-de-1-de-outubro-de-2008",
+     "sha256": "ff54e523a95932742e88c35d69e5af5006733c097bd5a7b4983accc358eb79a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.827, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 44/08, do Vereador Toninho Paiva - PR)\nDenomina Travessa Noemia Áurea de Jesus a travessa inominada conhecida como Passagem 15, localizada entre as ruas Teiú e Jaguarundi, Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Travessa Noemia Áurea de Jesus a travessa inominada conhecida como Passagem 15, localizada entre as ruas Teiú e Jaguarundi (Setor 142 - Quadra 128), Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14828",
+   "short": "Lei 14828/2008",
+   "title": "Lei nº 14.828, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14828-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14828",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14828-de-1-de-outubro-de-2008",
+     "sha256": "43a9f27d7bceed884215b541951a962cb24eeffa38116fd7a7a9683407bf335f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.828, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 45/08, do Vereador Mário Dias - DEMOCRATAS)\nDenomina Praça Maria Alves Castanha o espaço livre delimitado pelas avenidas Tomás Campanella e Wilhelm Friedrich Ladwig, no Distrito do Capão Redondo, Subprefeitura do Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Alves Castanha o espaço livre delimitado pelas avenidas Tomás Campanella e Wilhelm Friedrich Ladwig (Setor 166 - Quadra 191), no Distrito do Capão Redondo, Subprefeitura do Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14829",
+   "short": "Lei 14829/2008",
+   "title": "Lei nº 14.829, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14829-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14829",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14829-de-1-de-outubro-de-2008",
+     "sha256": "e56072fd9b29fe7f38fca56da042c72837936774c225c035fad0f05328f31bd2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.829, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 48/08, do Vereador Aurélio Nomura - PV)\nDenomina Praça Dr. Teruo Wakabayashi o logradouro público inominado, situado entre a Avenida Dr. Hugo Beolchi e a Avenida Pedro Severino, Distrito da Saúde, Subprefeitura da Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dr. Teruo Wakabayashi o logradouro público inominado, situado entre a Avenida Dr. Hugo Beolchi (codlog 31674-1) e a Avenida Pedro Severino (codlog 41928-1), Setor 47 e Quadras 187, 194 e 195, Distrito da Saúde, Subprefeitura da Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14830",
+   "short": "Lei 14830/2008",
+   "title": "Lei nº 14.830, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14830-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14830",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14830-de-1-de-outubro-de-2008",
+     "sha256": "9023127d3faea24860df34ba6bb40e6c4f6fd8bd79efd9e1ea1d636bffb7d91f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.830, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 59/08, do Vereador Gilson Barreto - PSDB)\nDenomina Praça Szymon Horbaczyk o logradouro delimitado pela Avenida Dr. Guilherme de Abreu Sodré, Rua Inácio Monteiro e pela Rua Perimetral, no Distrito de Cidade Tiradentes, Subprefeitura de Cidade Tiradentes, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Szymon Horbaczyk o logradouro delimitado pela Avenida Dr. Guilherme de Abreu Sodré, Rua Inácio Monteiro e pela Rua Perimetral (Setor 136 - Quadra 346), no Distrito de Cidade Tiradentes, Subprefeitura de Cidade Tiradentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14831",
+   "short": "Lei 14831/2008",
+   "title": "Lei nº 14.831, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14831-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14831",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14831-de-1-de-outubro-de-2008",
+     "sha256": "fc5739b7e6ef407f29b1cbd33a44931c2d9a7bf0d34f693b03a10e013518bccb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.831, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 68/08, do Vereador Toninho Paiva - PR)\nDenomina Travessa Luiz Gonzaga Camara a Passagem 17, localizada entre as ruas Caxinguelê e Caxiu, Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Luiz Gonzaga Camara a Passagem 17, localizada entre as ruas Caxinguelê e Caxiu (Setor 142 - Quadra 137), Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14832",
+   "short": "Lei 14832/2008",
+   "title": "Lei nº 14.832, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14832-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14832",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14832-de-1-de-outubro-de-2008",
+     "sha256": "360ea1cd245a452dce2adca707e011d002614285235b67fd2a58118d3bfdbe1d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.832, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 96/08, do Vereador José Ferreira-Zelão - PT)\nDenomina Travessa José Pedro de Mendonça a travessa inominada localizada na travessa da Rua Cachoeira Manganal, Distrito do Jardim Helena, Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa José Pedro de Mendonça a travessa inominada localizada na travessa da Rua Cachoeira Manganal (Setor 133 - Quadra 175), Distrito do Jardim Helena, Subprefeitura de São Miguel, codlog nº 23.197-5.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14833",
+   "short": "Lei 14833/2008",
+   "title": "Lei nº 14.833, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14833-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14833",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14833-de-1-de-outubro-de-2008",
+     "sha256": "4096ff4bf751d886028ee901aa99ac06f5e081cfa9940355780ea6ccf828c5eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.833, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 129/08, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Manoel Joaquim dos Santos o espaço livre sem denominação situado entre a Rua Doutor Renato da Costa Bonfim e a Rua Fábio José Bezerra, no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seuRegimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Manoel Joaquim dos Santos o espaço livre sem denominação situado entre a Rua Doutor Renato da Costa Bonfim e a Rua Fábio José Bezerra (Setor 111 - Quadra 359), no Distrito de Ermelino Matarazzo, Subprefeitura Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14834",
+   "short": "Lei 14834/2008",
+   "title": "Lei nº 14.834, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14834-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14834",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14834-de-1-de-outubro-de-2008",
+     "sha256": "3828796b43cc64207a30b4b73e84bccd25bbc315aad3ada7dc8decfb8d12ce84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.834, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 130/08, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça Maria Eloiza de Angelo Salese o espaço livre sem denominação localizado entre a Rua Varzelândia e a Rua Maricaua, código logradouro nº 74897-8 (Setor 131 - Quadras 17, 61 e 62), no Distrito de Vila Jacuí, Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Eloiza de Angelo Salese o espaço livre sem denominação localizado entre a Rua Varzelândia e a Rua Maricaua, código logradouro nº 74897-8 (Setor 131 - Quadras 17, 61 e 62), no Distrito de Vila Jacuí, Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14835",
+   "short": "Lei 14835/2008",
+   "title": "Lei nº 14.835, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14835-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14835",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14835-de-1-de-outubro-de-2008",
+     "sha256": "4c5ae81472f27a45ecf53a211e870554e9691e4337298e4cad2c3ef7b7a348fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.835, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 131/08, do Vereador Adolfo Quintas - PSDB)\nDenomina Travessa Takeshi Yatsu o logradouro público sem denominação localizado entre a Rua São Celso e a Rua Jovelina, no Distrito de Ponte Rasa, Subprefeitura Ermelino Matarazzo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Takeshi Yatsu o logradouro público sem denominação (codlog 26384-2), localizado entre a Rua São Celso (codlog 04730-9) e a Rua Jovelina (codlog 11461-8), Setor Fiscal 110, Quadra 278, no Distrito de Ponte Rasa, Subprefeitura Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14836",
+   "short": "Lei 14836/2008",
+   "title": "Lei nº 14.836, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14836-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14836",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14836-de-1-de-outubro-de-2008",
+     "sha256": "43e2c79b7d691c686708759bb16b7e90ea77eed9f1c2808513d30ad2ecdfa316",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.836, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 162/08, do Vereador José Ferreira-Zelão - PT)\nDenomina Praça Antonio Enéas Matias o espaço livre sem denominação situado entre as ruas Lázaro Diniz e Pascoal de Miranda, Distrito do Itaim Paulista, Subprefeitura do Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antonio Enéas Matias o espaço livre sem denominação situado entre as ruas Lázaro Diniz e Pascoal de Miranda (Setor 134 - Quadra 192), Distrito de Itaim Paulista, Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14837",
+   "short": "Lei 14837/2008",
+   "title": "Lei nº 14.837, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14837-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14837",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14837-de-1-de-outubro-de-2008",
+     "sha256": "a759fe1fe95bcf9fca14b2d53611a76554d2e1aedcfb14c6a25cb584c5cc08ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.837, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 168/08, do Vereador João Antonio - PT)\nDenomina Praça Adelino Miato o espaço livre sem denominação delimitado pelas ruas Jean Baptiste D'Alembert, François Vite e por lotes particulares no Distrito de Arthur Alvim, Subprefeitura Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Adelino Miato o espaço livre sem denominação delimitado pelas ruas Jean Baptiste D'Alembert, François Vite e por lotes particulares (Setor 142 - Quadra 52), no Distrito de Arthur Alvim, Subprefeitura Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14838",
+   "short": "Lei 14838/2008",
+   "title": "Lei nº 14.838, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14838-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14838",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14838-de-1-de-outubro-de-2008",
+     "sha256": "1a72ab882c6ca5de671d973dae3603725b65327e8875741f829d1d5929ef5212",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.838, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 169/08, do Vereador João Antonio - PT)\nDenomina Rua José Nei Cabral Júnior o acesso direito à Ponte da Vila Maria, que começa na Avenida Condessa Elisabeth de Rubiano e termina na Ponte Presidente Jânio Quadros, no Distrito do Belém, Subprefeitura Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua José Nei Cabral Júnior o acesso direito à Ponte da Vila Maria, código cadlog 29.248-6, que começa na Avenida Condessa Elisabeth de Rubiano e termina na Ponte Presidente Jânio Quadros (Setor 196 - Quadra 19), no Distrito do Belém, Subprefeitura Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14839",
+   "short": "Lei 14839/2008",
+   "title": "Lei nº 14.839, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14839-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14839",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14839-de-1-de-outubro-de-2008",
+     "sha256": "a1f6e641e154dcc8df65255756726c17e6854507849a1105b10d585b03a365ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.839, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 194/08, do Vereador Adilson Amadeu - PTB)\nDenomina Praça Raphael Cardamone o logradouro público inominado delimitado pelas ruas Padre Raposo e Madre de Deus, pela Avenida Paes de Barros e por lotes particulares da Quadra 030 do Setor Fiscal 028, localizado no Distrito da Mooca, Subprefeitura da Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Raphael Cardamone o logradouro público inominado delimitado pelas ruas Padre Raposo e Madre de Deus, pela Avenida Paes de Barros e por lotes particulares da Quadra 030 do Setor Fiscal 028, localizado no Distrito da Mooca, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14840",
+   "short": "Lei 14840/2008",
+   "title": "Lei nº 14.840, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14840-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14840",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14840-de-1-de-outubro-de-2008",
+     "sha256": "8c82a7dd67bc5411c20463eb15b4c43b2c7702d4e7f3a53469addec314d504d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.840, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 238/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Pedro Galizia o espaço livre na confluência da Rua Jorge Faleiros com a Rua Marechal Caetano de Faria e a rampa da Avenida Bandeirantes, no Distrito da Saúde, Subprefeitura de Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Pedro Galizia o espaço livre na confluência da Rua Jorge Faleiros com a Rua Marechal Caetano de Faria e a rampa da Avenida Bandeirantes (Setor 89 - Quadra 460), no Distrito da Saúde, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14841",
+   "short": "Lei 14841/2008",
+   "title": "Lei nº 14.841, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14841-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14841",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14841-de-1-de-outubro-de-2008",
+     "sha256": "a1f8c0325ece0f71823caafc84491f6ad29f1d5079643cf25b25d317fb3c3ea7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.841, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 253/08, do Vereador Donato - PT)\nDenomina Praça Dona Rosa dos Santos Carvalho o espaço livre sem denominação delimitado pelas ruas Boris Alexandr e Tasselli Ugo, Distrito do Rio Pequeno, Subprefeitura Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dona Rosa dos Santos Carvalho o espaço livre sem denominação delimitado pelas ruas Boris Alexandr e Tasselli Ugo (Setor 160 - Quadra 29), Distrito do Rio Pequeno, Subprefeitura Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14842",
+   "short": "Lei 14842/2008",
+   "title": "Lei nº 14.842, de 01/10/2008 (Denomina Praça Josefa Isabel de Matos o logradouro público situado no Distrito do Capão Redondo, Subprefeitura do Campo Limpo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14842-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14842",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14842-de-1-de-outubro-de-2008",
+     "sha256": "e28b8586fcef95c18eeece2e3955e4e65346183b8fe0b4f2079d65e6f0662fe5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.842, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 268/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Josefa Isabel de Matos o logradouro público situado no Distrito do Capão Redondo, Subprefeitura do Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Josefa Isabel de Matos o logradouro público sem denominação delimitado pelas ruas Sebastião Serrato e Antonio Costa Ernesto (Setor 166 - Quadras 136 e 140), no Distrito do Capão Redondo, Subprefeitura do Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14843",
+   "short": "Lei 14843/2008",
+   "title": "Lei nº 14.843, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14843-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14843",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14843-de-1-de-outubro-de-2008",
+     "sha256": "d1369e137c8761a0e33584e1cddc7bbdf237d9c0654840fee6a814eff171cfe6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.843, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 269/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Alberto Martini Ferreira o espaço público sem denominação delimitado pelas ruas Gaspar Coqueiro, Áurea da Gama e Rua T, Distrito do Campo Limpo, Subprefeitura Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Alberto Martini Ferreira o espaço público sem denominação delimitado pelas ruas Gaspar Coqueiro, Áurea da Gama e Rua T (Setor 168 - Quadras 163 e 308), Distrito do Campo Limpo, Subprefeitura Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14844",
+   "short": "Lei 14844/2008",
+   "title": "Lei nº 14.844, de 01/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14844-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14844",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14844-de-1-de-outubro-de-2008",
+     "sha256": "fbee33cfcb4005910942ec34c599c179b531ec8930a0026b58495cf74d3b7bbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.844, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 295/08, do Vereador Aurélio Miguel - PR)\nDispõe sobre a denominação do espaço livre, localizado no Setor 171, Quadra 170, entre a Avenida Guilherme Dumont Villares e a Rua Elizabeth Barbegian Baldinato como Praça Professora Cecília Armentano, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado o espaço livre, localizado no Setor 171, Quadra 170, entre a Avenida Guilherme Dumont Villares e a Rua Elizabeth Barbegian Baldinato como Praça Professora Cecília Armentano, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A presente lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14845",
+   "short": "Lei 14845/2008",
+   "title": "Lei nº 14.845, de 01/10/2008 (Denomina Praça Anna Lopes da Luz o logradouro público situado no Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14845-de-1-de-outubro-de-2008",
+   "first_law": "lei-2008-14845",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14845-de-1-de-outubro-de-2008",
+     "sha256": "fe0e0f9394c7249ba7e07e232c15e52ef5b5c7f870cd82a5306c60f2f47a2f04",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.845, DE 1º DE OUTUBRO DE 2008\n(Projeto de Lei nº 361/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Anna Lopes da Luz o logradouro público situado no Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Anna Lopes da Luz o logradouro público inominado situado na confluência das ruas Manuel de Macedo, João Barroso e Barra Grande (Setor 121 - Quadra 151), no Distrito de Pedreira, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 1º de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB,\nPREFEITO\nPublicada na Secretaria do Governo Municipal, em 1º de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14846",
+   "short": "Lei 14846/2008",
+   "title": "Lei nº 14.846, de 08/10/2008 (Altera o art. 1º da Lei nº 13.285, de 9 de janeiro de 2002, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14846-de-8-de-outubro-de-2008",
+   "first_law": "lei-2008-14846",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14846-de-8-de-outubro-de-2008",
+     "sha256": "1227abb9b05ef2233744261bca176aa57c4e874c44aa828f25158cbd899c482a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.846, DE 8 DE OUTUBRO DE 2008\n(Projeto de Lei nº 479/05, do Vereador Jorge Tadeu - DEMOCRATAS)\nAltera o art. 1º da Lei nº 13.285, de 9 de janeiro de 2002, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a redação do art. 1º da Lei nº 13.285/02, que passará a vigorar com a seguinte redação:\n\"Art. 1º Fica criado o Programa de Prevenção ao Diabetes, Colesterol e à Anemia Infantil na Rede Municipal de Ensino, com o objetivo de obter diagnóstico precoce.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 8 de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14847",
+   "short": "Lei 14847/2008",
+   "title": "Lei nº 14.847, de 08/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14847-de-8-de-outubro-de-2008",
+   "first_law": "lei-2008-14847",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14847-de-8-de-outubro-de-2008",
+     "sha256": "3c3c9d76ef3f1bcb33293ad4cba318fafc999a248fa35abb31c46d49c58f4ca0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.847, DE 8 DE OUTUBRO DE 2008\n(Projeto de Lei nº 784/07, do Vereador Toninho Paiva - PR)\nDenomina Travessa Orlando Antão Trevisan a rua existente, que começa na altura do nº 411 da Rua Maxá e termina na Rua Tereza Ackel, Distrito da Penha, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Orlando Antão Trevisan, CODLOG 24.612-3, a rua existente que começa na altura do nº 411 da Rua Maxá e termina na Rua Tereza Ackel (Setor 61 - Quadra 148), Distrito da Penha, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias a partir da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de outubro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 8 de outubro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14849",
+   "short": "Lei 14849/2008",
+   "title": "Lei nº 14.849, de 08/10/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14849-de-08-de-outubro-de-2008",
+   "first_law": "lei-2008-14849",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14849-de-08-de-outubro-de-2008",
+     "sha256": "ad215546fbe7f3761dd144bb3452ec5029cf3b4c5e2a18f30df7c8ea95408760",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.849 DE 08 DE OUTUBRO DE 2008\n(PROJETO DE LEI Nº 809/07)(VEREADORA CLAUDETE ALVES - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Mulher do Samba Paulistano, a ser comemorado anualmente no dia 15 de fevereiro, e dá outras providências.\nAdilson Amadeu, Presidente em exercício da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Mulher do Samba Paulistano, a ser comemorado anualmente no dia 15 de fevereiro.\nParágrafo único. O Poder Público, através dos órgãos competentes, envidará esforços para a realização de atividades alusivas ao tema e outorga de homenagem às mulheres que se destacaram no cotidiano do samba paulistano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 09 de outubro de 2008.\nO Presidente em exercício, Adilson Amadeu\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 09 de outubro de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14850",
+   "short": "Lei 14850/2008",
+   "title": "Lei nº 14.850, de 11/11/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14850-de-11-de-novembro-de-2008",
+   "first_law": "lei-2008-14850",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14850-de-11-de-novembro-de-2008",
+     "sha256": "579dd02a32c0a4f903fd143b40ff333298163f9d857cace829e0b3bd429155f2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.850 DE 11 DE NOVEMBRO DE 2008\n(PROJETO DE LEI Nº 310/08)(VEREADOR CELSO JATENE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Mérito Cívico Afro-Brasileiro e a Semana do Troféu Raça Negra, a serem realizados, anualmente e respectivamente, no dia 13 de maio e no mês de novembro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea aos incisos LXXXVI e CCLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, incluindo, respectivamente, o Dia do Mérito Cívico Afro-Brasileiro e a Semana do Troféu Raça Negra, a serem realizados, anualmente, no dia 13 de maio e no mês de novembro, com homenagens e eventos de divulgação das atividades.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 12 de novembro de 2008.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 12 de novembro de 2008.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14851",
+   "short": "Lei 14851/2008",
+   "title": "Lei nº 14.851, de 24/11/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14851-de-24-de-novembro-de-2008",
+   "first_law": "lei-2008-14851",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14851-de-24-de-novembro-de-2008",
+     "sha256": "13ea781e5c0db6ac7c13bb1d0a66e12f1fbb1d9b3f7cb9ebceac07c19ca3dce8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.851, DE 24 DE NOVEMBRO DE 2008\n(Projeto de Lei nº 076/08, do Vereador Russomanno - PP)\nDenomina Praça Rubens de Falco o espaço livre delimitado pelas ruas José do Patrocínio Waetge e Rouxinho, Distrito do Rio Pequeno, Subprefeitura do Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Rubens de Falco o espaço livre delimitado pelas ruas José do Patrocínio Waetge e Rouxinho (Setor 160 - Quadra 40), Distrito do Rio Pequeno, Subprefeitura do Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14852",
+   "short": "Lei 14852/2008",
+   "title": "Lei nº 14.852, de 24/11/2008 (Denomina Praça Fábio Borges de Mello o logradouro público situado no Distrito de Parque do Carmo, Subprefeitura de Itaquera, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14852-de-24-de-novembro-de-2008",
+   "first_law": "lei-2008-14852",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14852-de-24-de-novembro-de-2008",
+     "sha256": "4c3edb55d4c46f8a84abbba90df1cb06c3b6d6fcd6148d4254ed8672a4a3fa99",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.852, DE 24 DE NOVEMBRO DE 2008\n(Projeto de Lei nº 266/08, do Vereador Carlos Alberto Bezerra Jr. - PSDB)\nDenomina Praça Fábio Borges de Mello o logradouro público situado no Distrito de Parque do Carmo, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Fábio Borges de Mello o logradouro público inominado delimitado pelas ruas Conde de Atouguia, Marcondes Homem de Melo, Luis de Toledo Piza e Viela 10 (Setor 145 - Quadra 104), no Distrito de Parque do Carmo, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14853",
+   "short": "Lei 14853/2008",
+   "title": "Lei nº 14.853, de 24/11/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14853-de-24-de-novembro-de-2008",
+   "first_law": "lei-2008-14853",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14853-de-24-de-novembro-de-2008",
+     "sha256": "f86cc94cf2f9bfedaf1c89a759ea5a0a3d0d0f8a47fe2973c69d67bd759faeba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.853, DE 24 DE NOVEMBRO DE 2008\n(Projeto de Lei nº 279/08, do Vereador Adolfo Quintas - PSDB)\nDenomina Praça César Marcio Ferreira de Sousa o espaço livre sem denominação localizado entre a Rua Garopá, altura do n° 584, e a Rua Donato Vessechi, altura do n° 450, no Distrito de Vila Curuçá, Subprefeitura Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça César Marcio Ferreira de Sousa o espaço livre sem denominação localizado entre a Rua Garopá, altura do n° 584, e a Rua Donato Vessechi, altura do n° 450 (Setor 112 - Quadra 668), no Distrito de Vila Curuçá, Subprefeitura Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14854",
+   "short": "Lei 14854/2008",
+   "title": "Lei nº 14.854, de 24/11/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14854-de-24-de-novembro-de-2008",
+   "first_law": "lei-2008-14854",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14854-de-24-de-novembro-de-2008",
+     "sha256": "8286d3ec21d7bbb6319b020aec92f6c77ff71372f630a7d9101f129679e77553",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.854, DE 24 DE NOVEMBRO DE 2008\n(Projeto de Lei nº 300/08, do Vereador Toninho Paiva - PR)\nDenomina Praça Dalgima Vieira Ramos o espaço livre sem denominação situado na confluência da Avenida Rubens Fraga de Toledo Arruda com a Rua Pedro Marciano de Alcântara, no Distrito de Cangaíba, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Dalgima Vieira Ramos o espaço livre sem denominação situado na confluência da Avenida Rubens Fraga de Toledo Arruda com a Rua Pedro Marciano de Alcântara (Setor 110 - Quadra 98), no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14855",
+   "short": "Lei 14855/2008",
+   "title": "Lei nº 14.855, de 24/11/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14855-de-24-de-novembro-de-2008",
+   "first_law": "lei-2008-14855",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14855-de-24-de-novembro-de-2008",
+     "sha256": "2307afa33f941cd5e6a53b643fc2069905cc7b52d3e6d09ee4948ea31f41c25e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.855, DE 24 DE NOVEMBRO DE 2008\n(Projeto de Lei nº 339/08, do Vereador Jooji Hato - PMDB)\nDenomina Praça Adélia Dantas Magalhães Freire o espaço livre sem denominação delimitado pela Avenida Direitos Humanos e pelas Ruas General José de Almeida Botelho e Manoel Antonio Torres, no Distrito do Mandaqui, Subprefeitura Santana/Tucuruvi, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Adélia Dantas Magalhães Freire o espaço livre sem denominação delimitado pela Avenida Direitos Humanos e pelas Ruas General José de Almeida Botelho e Manoel Antonio Torres (Setor 71 - Quadras 252 e 502), no Distrito do Mandaqui, Subprefeitura Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de novembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de novembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14856",
+   "short": "Lei 14856/2008",
+   "title": "Lei nº 14.856, de 23/12/2008 (AUTORIZA A CONCESSAO ADMINISTRATIVA DE USO DA AREA DE PROPRIEDADE MUNICIPAL SITUADA NA RUA IAMACARU,BAIRRO DE SAPOPEMBA, E DA OUTRAS PROVIDENCIAS.(PL 035/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14856-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14856",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14856-de-23-de-dezembro-de-2008",
+     "sha256": "ffbd942384c4a51fea82630a1c97f484b3c4b1e0cf65f208e18811fcc4de8db2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.856, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 035/03, do Executivo)\nAutoriza a concessão administrativa de uso da área de propriedade municipal situada na Rua Iamacaru, Bairro de Sapopemba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a ceder à Fundação Faculdade de Medicina, mediante concessão administrativa, a título gratuito, independentemente de concorrência e pelo prazo de 40 (quarenta) anos, o uso da área de propriedade municipal situada na Rua Iamacaru, Bairro de Sapopemba, para implantação de hospital com aproximadamente 50 (cinqüenta) leitos, visando ao atendimento gratuito da população.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no artigo anterior, configurada na planta anexa A-13.168/01, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-1, com 3.795,49m² (três mil, setecentos e noventa e cinco metros e quarenta e nove decímetros quadrados), confrontando para quem de dentro da área olha para a Rua Iamacaru (antiga Rua 10 do Arruamento Jardim Maria Therezinha). Frente: linha reta 1-2, medindo 56,37 metros, confrontando com o alinhamento da Rua Iamacaru. Lado direito: linha mista 2-3-4-5, medindo 56,80 metros, assim parcelada: trecho 2-3, linha curva de concordância da confluência da Rua Iamacaru com rua aberta medindo 18,27 metros; trecho 3-4, linha reta medindo 27,74 metros, confrontando com rua aberta junto à viela 5 do Arruamento Jardim Planalto; trecho 4-5, linha reta medindo 10,79 metros, confrontando com rua aberta junto à viela 5 do Arruamento Jardim Planalto. Lado esquerdo: linha mista 11-12-1, medindo 31,86 metros, confrontando em toda sua extensão com o espaço-livre 2 do Arruamento Jardim Maria Therezinha, assim parcelada: trecho 11-12, linha reta medindo 25,57 metros e trecho 12-1, linha curva medindo 6,29 metros. Fundos: linha quebrada 5-6-7-8-9-10-11, medindo 132,04 metros, assim parcelada: trecho 5-6, linha reta medindo 4,09 metros, confrontando com praça aberta; trecho 6-7, linha reta medindo 31,45 metros; trecho 7-8, linha reta medindo 35,28 metros; trecho 8-9, linha reta medindo 18,38 metros, confrontando do ponto 6 ao ponto 9 com o espaço-livre II do Arruamento Jardim Planalto; trecho 9-10, linha reta medindo 22,20 metros, confrontando em parte com o espaço-livre II do Arruamento Jardim Planalto e em parte com o espaço-livre 2 do Arruamento Jardim Maria Therezinha; trecho 10-11, linha reta medindo 20,64 metros, confrontando com o espaço-livre 2 do Arruamento Jardim Maria Therezinha.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Além das condições que forem exigidas pela Prefeitura, por ocasião da assinatura do instrumento de concessão, no sentido de salvaguardar os interesses municipais, fica a concessionária obrigada a:\nI - não utilizar a área para finalidade diversa da estabelecida no art. 1º desta lei, bem como não cedê-la, no todo ou em parte, a terceiros, a que título for;\nII - executar as edificações necessárias a instalação e funcionamento da atividade prevista no art. 1º desta lei;\nIII - apresentar para aprovação dos órgãos técnicos da Prefeitura, no prazo máximo de 12 (doze) meses, a partir da lavratura do competente instrumento de concessão, os projetos e memoriais das edificações a serem executadas, que deverão atender às exigências legais pertinentes;\nIV - iniciar as obras dentro de 12 (doze) meses, a contar da aprovação dos projetos, e concluí-las no prazo de 48 (quarenta e oito) meses após seu início;\nV - não permitir que terceiros se apossem do imóvel, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verificar;\nVI - cooperar, no desenvolvimento de suas atividades, com os serviços afins da Prefeitura, sempre que para tal for solicitada, devendo observar as condições e orientações técnicas estabelecidas por meio de convênio ou mediante outra modalidade de instrumento que se afigure adequado;\nVII - zelar pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, as obras, inclusive de manutenção, que se fizerem necessárias;\nVIII - arcar com todas as despesas decorrentes da concessão de uso prevista nesta lei, inclusive as relativas a lavratura e registro do competente instrumento, bem como com eventuais impostos, taxas e tarifas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Prefeitura terá o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Prefeitura não será responsável, inclusive perante terceiros, por quaisquer prejuízos decorrentes da execução das obras, serviços e trabalhos a cargo da concessionária.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A extinção ou dissolução da entidade concessionária, a alteração do destino da área, o inadimplemento de qualquer prazo fixado, a inobservância das condições e obrigações estatuídas nesta lei ou nas cláusulas que constarem do instrumento de concessão, implicarão sua automática rescisão, revertendo a área ao Município e incorporando-se ao seu patrimônio todas as edificações e benfeitorias nela executadas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, seja a que título for, o mesmo ocorrendo findo o prazo da concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14857",
+   "short": "Lei 14857/2008",
+   "title": "Lei nº 14.857, de 23/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14857-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14857",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14857-de-23-de-dezembro-de-2008",
+     "sha256": "859dd5e100f6ddf4797e5fce5036825bfe4d33ae9cd997a12382f9689358e0ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.857, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 119/08, do Executivo)\nDispõe sobre concessão administrativa de uso, à Universidade Federal de São Paulo - UNIFESP, de área de propriedade municipal situada na Rua Botucatu, Vila Clementino.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a ceder à Universidade Federal de São Paulo - UNIFESP, mediante concessão administrativa, a título gratuito, independentemente de concorrência e pelo prazo de 50 (cinqüenta) anos, o uso da área de propriedade municipal situada na Rua Botucatu, Vila Clementino, para ampliação da unidade de pesquisa de seu complexo universitário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no art. 1º, configurada na planta A-9020/03, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, delimitada pelo perímetro 1-A-B-5-1, de formato irregular, com 496,14m², assim se descreve, para quem de dentro da área olha para a Rua Botucatu: pela frente, linha reta 1-A, medindo 40,29m, confrontando com a Rua Botucatu; pelo lado direito, linha reta A-B, medindo 22,42m, confrontando com parte da área municipal 1M do croqui nº 300.179; pelo lado esquerdo, linha reta 5-1, medindo 2,37m, confrontando com o imóvel nº 1.059 da Rua Botucatu; pelos fundos, linha reta B-5, medindo 44,70m, confrontando com o Lote 286 da Quadra 125 do Setor 42.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Além das condições que forem exigidas pela Prefeitura, por ocasião da assinatura do instrumento de concessão de uso, no sentido de salvaguardar os interesses municipais, fica a concessionária obrigada a:\nI - não utilizar a área para finalidade diversa da prevista no art. 1º, bem como não cedê-la, no todo ou em parte, a terceiros;\nII - não realizar quaisquer obras ou benfeitorias, sem prévia aprovação dos órgãos técnicos da Prefeitura, devendo o projeto de edificação atender às normas edilícias pertinentes;\nIII - apresentar para aprovação dos órgãos técnicos da Prefeitura, no prazo máximo de 6 (seis) meses, a partir da lavratura do competente instrumento de concessão de uso, os projetos e memoriais da edificação a ser executada;\nIV - iniciar as obras dentro de 3 (três) meses, a contar da aprovação dos projetos, e concluí-las no prazo de 24 (vinte e quatro) meses após o seu início;\nV - não permitir que terceiros se apossem do imóvel, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verifique;\nVI - zelar pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, qualquer obra de manutenção que se fizer necessária;\nVII - afixar e manter, no acesso ao imóvel e em lugar de perfeita visibilidade, placa informativa sobre a propriedade do bem e condições de sua ocupação;\nVIII - responder, perante o Poder Público, por eventuais taxas, tarifas e impostos referentes ao imóvel;\nIX - arcar com todas as despesas decorrentes da concessão de uso prevista nesta lei, inclusive as relativas a lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Prefeitura terá o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Prefeitura não será responsável, inclusive perante terceiros, por quaisquer prejuízos das obras, serviços e trabalhos a cargo da concessionária.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A extinção ou dissolução da concessionária, a alteração do destino da área, bem como a inobservância das condições e obrigações estabelecidas nesta lei ou nas cláusulas que constarem do instrumento de concessão, ou ainda, o inadimplemento de qualquer prazo fixado, implicarão a automática rescisão da concessão, revertendo o imóvel ao Município e incorporando-se ao seu patrimônio todas as edificações, acessões e benfeitorias erigidas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização por parte da Municipalidade, seja a que título for, o mesmo ocorrendo findo o prazo da concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14858",
+   "short": "Lei 14858/2008",
+   "title": "Lei nº 14.858, de 23/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14858-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14858",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14858-de-23-de-dezembro-de-2008",
+     "sha256": "fdac3ca58a70afb77c3a4d05c033672178c1d41f33310a7231fe3ca9cddd5995",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.858, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 145/04, do Executivo)\nAutoriza o Executivo a doar área de propriedade municipal situada na Estrada do Imperador, s/nº, Distrito de São Miguel, Subprefeitura de São Miguel, à Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a doar à Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU área de propriedade municipal com 35.051,56m² (trinta e cinco mil e cinqüenta e um metros e cinqüenta e seis decímetros quadrados), que é parte de área maior com 53.000,00m² (cinqüenta e três mil metros quadrados), situada na Estrada do Imperador, s/nº, Distrito de São Miguel, para implantação de conjunto habitacional, com 300 (trezentas) unidades, destinado à população de baixa renda.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no art. 1º, configurada na planta anexa A-13.696/00, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 35-35A-38E-38D-38C-38B-38A-38-39-40-41-42-43-44-45-46-47-35, de formato irregular, com 35.051,56m² (trinta e cinco mil e cinqüenta e um metros e cinqüenta e seis decímetros quadrados), inicia-se no ponto 35, situado na confluência da Estrada do Imperador com a Rua Padre Clemente Segura; deste ponto segue em linha reta pelo alinhamento da Estrada do Imperador, confrontando com a mesma, numa distância de 28,82 metros até o ponto 35A; deflete à direita e segue em linha curva, numa distância de 20,39 metros até o ponto 38E, confrontando com a confluência da Estrada do Imperador com a Rua Existente (Viário Perímetro 1); segue em linha reta pelo alinhamento da Rua Existente (Viário Perímetro 1), numa distância de 117,61 metros até o ponto 38D; deste ponto deflete à esquerda e segue em curva, numa distância de 7,80 metros até o ponto 38C; segue em linha reta pelo alinhamento da Rua Existente (Viário Perímetro 1), numa distância de 104,07 metros até o ponto 38B; deflete à direita e segue em linha curva, numa distância de 17,27 metros até o ponto 38A, confrontando do ponto 38E ao ponto 38A com a Rua Existente (Viário Perímetro 1); deste ponto deflete à direita e segue em linha reta, numa distância de 17,33 metros, confrontando com espaço livre do loteamento Jardim São Carlos até encontrar o ponto 38; deflete à direita e segue em linha curva, numa distância de 57,00 metros, confrontando com espaço livre do loteamento Jardim São Carlos até encontrar o ponto 39; deste ponto segue em linha sinuosa pelo eixo do córrego existente, numa distância de 145,00 metros até o ponto 40, confrontando com espaço livre do loteamento Jardim São Carlos; deflete à direita e segue em linha reta, numa distância de 198,00 metros, confrontando com linha de alta tensão da Eletropaulo até encontrar o ponto 41; do ponto 41 ao ponto 35, segue pelo alinhamento da Rua Padre Clemente Segura, confrontando com a mesma; do ponto 41, deflete à direita e segue em linha reta, numa distância de 46,00 metros até o ponto 42; segue em linha curva, numa distância de 20,00 metros até o ponto 43; deflete à esquerda e segue em linha curva, numa distância de 51,00 metros até o ponto 44; deste ponto, segue em linha reta, numa distância de 149,00 metros até o ponto 45; deflete à esquerda e segue em linha curva, numa distância de 20,00 metros até o ponto 46; segue em linha reta numa distância de 74,00 metros até o ponto 47, deflete à direita e segue em linha reta numa distância de 65,00 metros até o ponto 35.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A área de que trata esta lei foi avaliada em R$ 2.586.312,00 (dois milhões, quinhentos e oitenta e seis mil e trezentos e doze reais), data-base de fevereiro de 2004.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A doação da área descrita no art. 2º desta lei atende ao estabelecido no Convênio nº 1.00.00.00/6.00.00.00/649/02, celebrado entre a Prefeitura do Município de São Paulo - PMSP, a Companhia Metropolitana de Habitação de São Paulo - COHAB/SP e a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, ficando a donatária obrigada ao cumprimento das cláusulas estatuídas no referido Convênio, em especial a:\nI - elaborar projeto de implantação do empreendimento habitacional, fornecendo à Prefeitura todos os elementos necessários a sua aprovação e regularização;\nII - licitar, contratar e acompanhar a execução das obras, visando ao cumprimento do cronograma físico-financeiro, a ser encaminhado formalmente à COHAB/SP, à época da contratação das obras;\nIII - cadastrar a população, realizar a pré-qualificação, elaborar plano de comercialização e providenciar a celebração de contratos específicos;\nIV - efetuar o pagamento de todas as despesas de escritura, imposto e registro incidentes sobre a transferência da área;\nV - colocar placa na obra conforme modelo acordado entre as partes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A extinção ou dissolução da entidade donatária, a alteração do destino da área, bem como a inobservância das condições estabelecidas por esta lei ou pelas cláusulas que constarem do instrumento de doação, implicarão a resolução de pleno direito da doação, revertendo a área ao domínio do Município e incorporando-se ao seu patrimônio todas as edificações, acessões e benfeitorias erigidas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, por parte da Municipalidade, seja a que título for.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Fica assegurado à Prefeitura o direito de fiscalizar o cumprimento das obrigações estatuídas por esta lei e pelo instrumento de doação, o qual deverá prever os encargos cometidos à donatária, os prazos a serem observados e a cláusula de reversão, em caso de inadimplemento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14859",
+   "short": "Lei 14859/2008",
+   "title": "Lei nº 14.859, de 23/12/2008 (AUTORIZA A DOACAO DE AREA MUNICIPAL A COMPANHIA METROPOLITANA DE HABITACAO DE SAO PAULO-COHAB-SP.(PL 427/04))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14859-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14859",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14859-de-23-de-dezembro-de-2008",
+     "sha256": "b6cee6533d89261913fe695c6f08024e4bb84865f55340d93262d75a9d14487a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.859, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 427/04, do Executivo)\nAutoriza a doação de área municipal à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a doar à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP área de propriedade municipal situada na Rua Mendonça Júnior, s/nº, na 8ª Circunscrição, Subprefeitura Casa Verde/Cachoeirinha, para a implementação do Programa Construção de Moradias em Regime de Mutirão Autogerido.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no art. 1º desta lei, configurada na planta anexa nº A-13.723/00, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-1, de formato irregular, com 10.731,90m² (dez mil, setecentos e trinta e um metros e noventa decímetros quadrados), inicia-se no ponto 1 (divisa com a E.E.P.S.G. Tito Prates Fonseca), situado no alinhamento do melhoramento da Rua Mendonça Júnior (18,00m a partir do alinhamento dos lotes conforme Lei nº 6.462/63), segue com azimute 172°21'44\" por 122,33m até o ponto 2. Segue por 42,32m com raio 1.082,35m até o ponto 3. Segue com azimute 170°07'20\" por 60,01m até o ponto 4. Segue por 11,38m com raio 87,03m até o ponto 5; (seguindo do ponto 1 ao 5 pelo alinhamento do melhoramento da Rua Mendonça Júnior, 18,00m a partir do alinhamento dos lotes conforme Lei nº 6.462/63, passando pelos pontos 2, 3 e 4). Segue com azimute 250°23'42\" por 4,63m até o ponto 6. Segue com azimute 340°23'42\" por 24,47m até o ponto 7. Segue com azimute 338°58'35\" por 40,15m até o ponto 8. Segue com azimute 336°57'33\" por 56,27m até o ponto 9. Segue com azimute 334°56'47\" por 29,71m até o ponto 10. Segue com azimute 330°26'04\" por 10,88m até o ponto 11. Segue com azimute 331°41'59\" por 7,29m até o ponto 12. Segue com azimute 327°28'02\" por 3,96m até o ponto 13. Segue com azimute 325°29'38\" por 12,49m até o ponto 14. Segue com azimute 322°57'02\" por 35,19m até o ponto 15. Segue com azimute 316°45'54\" por 20,26m até o ponto 16. Segue com azimute 315°32'00\" por 31,39m até o ponto 17; (confrontando do ponto 6 ao 17 com área municipal ocupada pelo Cemitério Vila Nova Cachoeirinha, passando pelos pontos 7, 8, 9, 10, 11, 12, 13, 14, 15 e 16). Segue com azimute 45°05'24\" por 21,54m até o ponto 18. Segue com azimute 41°48'55\" por 11,80m até o ponto 19; (confrontando do ponto 17 ao 19 com área municipal ocupada por estacionamento, passando pelo 18). Segue com azimute 61°09'06\" por 2,35m até o ponto 20. Segue com azimute 70°40'02\" por 1,70m até o ponto 21. Segue com azimute 83°25'48\" por 49,31m até o ponto 22; (confrontando do ponto 19 ao 22 com instalações da Subprefeitura da Freguesia/Brasilândia, passando pelos pontos 20 e 21). Segue com azimute 173°15'13\" por 33,29m até o ponto 23. Segue com azimute 83°15'13\" por 21,47m até o ponto inicial 1; (confrontando do ponto 22 ao ponto inicial 1 com a E.E.P.S.G. Tito Prates Fonseca, passando pelo ponto 23); encerrando em tais divisas a área de 10.731,90m².\n§ 1º. Em conformidade com o disposto no art. 1º desta lei, na planta anexa nº A-13.723/00, mencionada no \"caput\" deste artigo:\nI - onde se lê \"Área pretendida para transferência da Municipalidade de São Paulo para SEHAB/HABI\", leia-se \"Área a ser doada à COHAB-SP\"; e\nII - onde se lê \"Área Municipal ocupada pela Subprefeitura Freguesia do Ó/Cachoeirinha\", leia-se \"Área Municipal ocupada por instalações da Subprefeitura Freguesia/Brasilândia\".\n§ 2º. A área de que trata esta lei foi avaliada em R$ 3.606.840,00 (três milhões, seiscentos e seis mil e oitocentos e quarenta reais), em março de 2004.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A donatária ficará obrigada a:\nI - implantar, na área doanda, um conjunto habitacional, dentro do Programa de Construção de Moradias em Regime de Mutirão Autogerido;\nII - apresentar, para a aprovação pelos órgãos técnicos da Prefeitura, os projetos e memoriais do conjunto habitacional, os quais deverão observar as exigências legais pertinentes à matéria;\nIII - arcar com todas as despesas oriundas da doação, inclusive as relativas a lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A extinção ou dissolução da entidade donatária, a alteração do destino da área, bem como a inobservância das condições desta lei ou das cláusulas que constarem do instrumento de doação, implicarão a resolução da doação, revertendo ao domínio do Município e incorporando-se ao seu patrimônio todas as acessões e benfeitorias nela erigidas, ainda que necessárias, sem direito de retenção e independentemente de qualquer indenização, por parte da Municipalidade, seja a que título for.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Prefeitura terá direito de fiscalizar o cumprimento das obrigações estatuídas nesta lei e no instrumento de doação, o qual deverá prever os encargos cometidos à donatária, os prazos a serem observados e a cláusula de reversão, em caso de inadimplemento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Fica a donatária autorizada a oferecer em garantia real à pessoa jurídica de direito público ou privado a área doanda, para o fim de obtenção de recursos financeiros destinados ao cumprimento das obrigações assumidas por força desta lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14860",
+   "short": "Lei 14860/2008",
+   "title": "Lei nº 14.860, de 23/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14860-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14860",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14860-de-23-de-dezembro-de-2008",
+     "sha256": "6dddc5bf518a8231f7a322b18b93378b0057279d5f6dd6da60da8dd087314a00",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.860, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 432/07, do Executivo)\nDispõe sobre concessão de uso de imóveis municipais, situados na Rua Loefgren e na Avenida Horácio Lafer, à Associação de Pais e Amigos dos Excepcionais de São Paulo - APAE.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a conceder à Associação de Pais e Amigos dos Excepcionais de São Paulo, independentemente de concorrência pública, nos termos do disposto no art. 114, § 2º, da Lei Orgânica do Município de São Paulo, pelo prazo de 30 (trinta) anos:\nI - o uso do imóvel situado na Rua Loefgren, nº 2.109, para o fim específico de funcionamento do Centro de Atendimento às Pessoas com Deficiência Mental, destinado a atividades voltadas a assistência social, educacional, capacitação e orientação para o trabalho;\nII - o uso do imóvel situado na Avenida Horácio Lafer, nº 504, para o fim específico de promover e favorecer a manutenção dos aspectos biopsicossociais das pessoas jovens e adultas com deficiência mental e familiares, proporcionando autonomia, inclusão social e cidadania.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no inciso I do art. 1º desta lei, configurada na planta A-9455/03 do arquivo do Departamento Patrimonial, rubricada pelo Prefeito e pelo Presidente da Câmara como parte integrante desta lei, delimitada pelo perímetro 10-11-12-13-14-15-16-17-24-25-26-10, de formato irregular, com 8.500,00m² (oito mil e quinhentos metros quadrados), assim se descreve, para quem de dentro da área olha para a Rua Loefgren: pela frente, linha reta 16-17, medindo 152,90m, confrontando com a Rua Loefgren, segundo seu alinhamento; pelo lado direito, linha mista 17-24-25-26-10, medindo 77,63m, constituída de linha reta 17-24, medindo 37,28m, confrontando com o imóvel nº 2.041 da Rua Loefgren - Tribunal Regional Eleitoral de São Paulo; linha reta 24-25, medindo 14,35m, linha curva 25-26, medindo 19,10m, e linha reta 26-10, medindo 6,90m, confrontando com o Depósito de Materiais da Subprefeitura de Vila Mariana; pelo lado esquerdo, linha mista 14-15-16, medindo 43,05m, constituída de linha reta 14-15, medindo 38,00m, confrontando com a Rua Leandro Dupré, segundo seu alinhamento, e linha curva de concordância 15-16, medindo 5,05m, formada pelos alinhamentos das Ruas Leandro Dupré e Loefgren, com as quais confronta; pelos fundos, linha quebrada 10-11-12-13-14, medindo 175,15m, constituída de linha reta 10-11, medindo 7,35m, confrontando com a Rua Tetsuaki Misawa; linha reta 11-12, medindo 29,30m, confrontando parte com a Rua Tetsuaki Misawa e parte com o imóvel nº 137 da Rua Tetsuaki Misawa; linha reta 12-13, medindo 27,00m, confrontando parte com o imóvel nº 137 da Rua Tetsuaki Misawa e parte com o imóvel nº 130 da Rua Aziz Jabur Maluf; linha reta 13-14, medindo 111,50m, confrontando parte com o imóvel nº 130 da Rua Aziz Jabur Maluf, parte com a Rua Aziz Jabur Maluf, parte com o imóvel nº 133 da Rua Aziz Jabur Maluf e parte com o imóvel nº 619 da Rua Leandro Dupré.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A área referida no inciso II do art. 1º desta lei, configurada na planta A-7089/08 do arquivo do Departamento Patrimonial, rubricada pelo Prefeito e pelo Presidente da Câmara como parte integrante desta lei, delimitada pelo perímetro J-M-T-S-J, de formato regular, com 5.654,40m² (cinco mil, seiscentos e cinqüenta e quatro metros e quarenta decímetros quadrados), assim se descreve, para quem de dentro da área olha para a Avenida Horácio Lafer: pela frente, linha reta T-S, medindo 91,20m, confrontando em toda a sua extensão com a Avenida Horácio Lafer; pelo lado direito, linha reta M-T, medindo 62,00m; pelo lado esquerdo, linha reta S-J, medindo 62,00m; pelos fundos, linha reta J-M, medindo 91,20m, todas confrontando em sua extensão com área municipal remanescente de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A concessionária prestará as seguintes contrapartidas pelo uso do imóvel situado na Rua Loefgren, nº 2.109:\nI - fornecer atendimentos gratuitos a pessoas encaminhadas pela Prefeitura, nas áreas de:\na) Centro de Capacitação e Orientação para o Trabalho - CCOT, o qual tem como objetivo a inclusão de jovens e adultos com deficiência mental no mercado de trabalho, oferecendo 45 (quarenta e cinco) vagas por ano às pessoas com deficiência encaminhadas pela Secretaria Municipal de Educação e pela Secretaria Municipal do Trabalho;\nb) Programa de Inclusão pela Arte e Cultura - PIPA, com o escopo de favorecer o respeito à diversidade humana, o desenvolvimento pessoal e a inclusão sociocultural, oferecendo 115 (cento e quinze) vagas por ano nas oficinas regulares às pessoas com deficiência encaminhadas pela Secretaria Municipal de Educação;\nc) Ambulatório - Centro de Atenção Integral à Saúde - CAIS, voltado ao atendimento especializado na área da deficiência mental, na orientação familiar e no encaminhamento das pessoas com deficiência mental a recursos da própria entidade e da comunidade, bem como à realização de tratamento e acompanhamento nos casos de triagem neonatal (hipotireoidismo e fenilcetonúria), oferecendo 500 (quinhentas) vagas por mês às pessoas com deficiência encaminhadas pela Secretaria Municipal da Saúde - Coordenadoria de Integração e Regulação do Sistema, nas diferentes especialidades, exceto as incluídas nos programas de Triagem Neonatal e Estimulação Precoce;\nII - desenvolver programas de treinamento e capacitação nas áreas de Serviço de Estimulação Precoce, com o objetivo de promover o pleno desenvolvimento da criança com deficiência de 0 (zero) a 7 (sete) anos, contribuir para que a família seja facilitadora do processo de construção social de ambientes inclusivos, através do acolhimento e sensibilização, devendo desenvolver atividades de treinamento e capacitação para servidores municipais, na área específica de estimulação precoce, oferecendo capacitação em 100 (cem) equipamentos (creches e escolas) por ano, nas Coordenadorias de Educação, de forma articulada com a Secretaria Municipal de Educação - Diretoria de Orientação Técnica/Educação Especial;\nIII - desenvolver atividades de treinamento e capacitação mediante cursos, palestras e oficinas, para profissionais da Prefeitura do Município de São Paulo encaminhados pela Secretaria Municipal de Educação e pela Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida, no campo específico de suas atividades, sempre que solicitadas, respeitadas as condições da agenda da concessionária.\n§ 1º. A operacionalização dos encaminhamentos referidos neste artigo será acordada entre as diferentes Secretarias Municipais e a concessionária, de forma a observar critérios de eficiência, eficácia e efetividade.\n§ 2º. As contrapartidas estabelecidas neste artigo serão revistas a cada 3 (três) anos, mediante trabalho conjunto entre as Secretarias Municipais de Educação, da Saúde, do Trabalho, de Assistência e Desenvolvimento Social, da Pessoa com Deficiência e Mobilidade Reduzida e a concessionária, de acordo com as necessidades do Município de São Paulo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Relativamente ao imóvel da Avenida Horácio Lafer, nº 504, a concessionária prestará, em contrapartida, atendimentos gratuitos na área do bem-estar para o fim previsto no art. 1º, inciso II, desta lei, oferecendo 45 (quarenta e cinco) vagas por ano às pessoas com deficiência encaminhadas pela Secretaria Municipal de Assistência e Desenvolvimento Social - SMADS.\n§ 1º. A operacionalização dos encaminhamentos referidos neste artigo será acordada entre SMADS e a concessionária, de forma a observar critérios de eficiência, eficácia e efetividade.\n§ 2º. A contrapartida estabelecida neste artigo será revista a cada 3 (três) anos, mediante trabalho conjunto entre SMADS e a concessionária, de acordo com as necessidades do Município de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A ocorrência de qualquer das seguintes hipóteses implicará a imediata perda do uso e gozo do imóvel pela concessionária, ficando rescindida, de pleno direito, a concessão de uso:\nI - extinção ou dissolução da entidade concessionária;\nII - alteração do destino do imóvel;\nIII - inobservância das condições estabelecidas na presente lei ou das cláusulas que constarem do instrumento de cessão;\nIV - inadimplemento de qualquer prazo fixado.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Findo o prazo estabelecido no \"caput\" do art. 1º desta lei, bem como na ocorrência de qualquer das hipóteses previstas em seu art. 6º, os imóveis serão restituídos ao Município, incorporando-se a seu patrimônio todas as benfeitorias neles construídas, ainda que necessárias, independentemente de qualquer pagamento de indenização, seja a que título for.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Fica a Prefeitura no direito de, a qualquer tempo, fiscalizar o exato cumprimento das obrigações estatuídas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14861",
+   "short": "Lei 14861/2008",
+   "title": "Lei nº 14.861, de 23/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14861-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14861",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14861-de-23-de-dezembro-de-2008",
+     "sha256": "f98910ebee71849f6548877599eaf1bdbcdb6aa776b4b2b798b8ff8010bccf0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.861, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 514/04, do Executivo)\nDispõe sobre concessão administrativa de uso de áreas municipais situadas na Vila Clementino à Fundação São Paulo, entidade mantenedora da Pontifícia Universidade Católica de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a ceder à Fundação São Paulo, entidade mantenedora da Pontifícia Universidade Católica de São Paulo, mediante concessão administrativa, independentemente de concorrência, e pelo prazo de 50 (cinqüenta) anos, o uso das áreas municipais situadas nas Ruas Estado de Israel e Dra. Neyde Apparecida Sollitto, Vila Clementino, Distrito e Subprefeitura de Vila Mariana, para o fim de regularizar ou ampliar as instalações da DERDIC - Divisão de Educação e Reabilitação dos Distúrbios da Comunicação, da Pontifícia Universidade Católica de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As áreas referidas no art. 1º, configuradas na planta nº A-13.561/00, do arquivo do Departamento Patrimonial, rubricada pelo Prefeito e pelo Presidente da Câmara como parte integrante desta lei, assim se descrevem:\nI - área situada na Rua Estado de Israel, delimitada pelo perímetro A-B-C-2-1-7-6-F-G-A, de formato irregular, com 3.979,77m² (três mil, novecentos e setenta e nove metros e setenta e sete decímetros quadrados), confrontando para quem de dentro da área olha para a Rua Estado de Israel, pela frente: linha reta A-B, medindo 253,60 metros, confrontando com a Rua Estado de Israel; pelo lado direito: linha quebrada B-C-2, medindo 25,16 metros, assim parcelada: linha reta B-C, medindo 4,69 metros, confrontando com a confluência da Rua Estado de Israel e Avenida Professor Ascendino Reis, e linha reta C-2, medindo 20,47 metros, confrontando com a Avenida Professor Ascendino Reis; pelo lado esquerdo: linha quebrada F-G-A, medindo 5,45 metros, confrontando em toda sua extensão com a confluência das Ruas Dra. Neyde Apparecida Sollitto e Estado de Israel, assim parcelada: linha reta F-G, medindo 0,38 metro e linha reta G-A, medindo 5,07 metros; pelos fundos: linha mista F-6-7-1-2, medindo 286,62 metros, assim parcelada: linha reta F-6, medindo 80,32 metros, confrontando com a Rua Dra. Neyde Apparecida Sollitto, linha curva 6-7, medindo 24,95 metros, linha reta 7-1, medindo 166,00 metros, linha curva 1-2, medindo 15,35 metros, todas confrontando com área doada à Fundação São Paulo;\nII - área situada na Rua Dra. Neyde Apparecida Sollitto, delimitada pelo perímetro 3-D-E-6-5-4-3, de formato irregular, com 384,67m² (trezentos e oitenta e quatro metros e sessenta e sete decímetros quadrados), confrontando, para quem de dentro da área olha para a Rua Dra. Neyde Apparecida Sollitto, pela frente: linha quebrada D-E-6, medindo 194,37 metros, assim parcelada: linha reta D-E, medindo 3,49 metros, confrontando com a confluência da Avenida Professor Ascendino Reis e Rua Dra. Neyde Apparecida Sollitto, linha reta E-6, medindo 190,88 metros, confrontando com a Rua Dra. Neyde Apparecida Sollitto; pelo lado esquerdo: linha reta 3-D, medindo 26,54 metros, confrontando com a Avenida Professor Ascendino Reis; pelos fundos: linha mista 6-5-4-3, medindo 200,35 metros, confrontando em toda a sua extensão com a área doada à Fundação São Paulo, assim parcelada: linha reta 6-5, medindo 121,00 metros, linha reta 5-4, medindo 42,00 metros e linha 4-3, medindo 37,35 metros.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Além das condições que forem exigidas pela Prefeitura por ocasião da assinatura do instrumento da concessão, no sentido de salvaguardar os interesses municipais, fica a concessionária obrigada a:\nI - não utilizar as áreas para finalidade diversa da prevista no art. 1º desta lei;\nII - construir, às suas expensas e mediante prévia aprovação do projeto pelas unidades municipais competentes, as edificações necessárias à ampliação e ao bom funcionamento da DERDIC;\nIII - não ceder as áreas, no todo ou em parte, a terceiros;\nIV - não permitir que terceiros se apossem das áreas, dando imediato conhecimento à Prefeitura de toda e qualquer turbação de posse que se verificar;\nV - responsabilizar-se pela limpeza e conservação das áreas, devendo providenciar, às suas expensas, as obras, inclusive de manutenção, que se fizerem necessárias;\nVI - arcar com eventuais impostos, taxas e tarifas, bem como com todas as despesas incidentes sobre as áreas;\nVII - afixar e manter, no acesso às áreas e em lugar de perfeita visibilidade, placa informativa sobre a propriedade dos bens e condições de sua ocupação, nos termos do Decreto nº 42.249, de 5 de agosto de 2002;\nVIII - arcar com as despesas oriundas da concessão, inclusive as relativas à lavratura e ao registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Fica a concessionária obrigada a cooperar, no desenvolvimento de suas atividades, com os serviços afins da Prefeitura, sempre que para tal for solicitada, devendo:\nI - prestar atendimento, em todos os serviços oferecidos pela DERDIC, às pessoas encaminhadas pela rede pública de saúde, em percentual não inferior a 60% (sessenta por cento) do total de atendimento;\nII - oferecer vagas para treinamento e capacitação de funcionários da rede pública de saúde, no campo específico das atividades desempenhadas pela DERDIC.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Prefeitura terá o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A Prefeitura não será responsável, inclusive perante terceiros, por quaisquer prejuízos decorrentes da execução de obras, serviços e trabalhos da concessionária.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A extinção ou dissolução da entidade concessionária, a alteração do destino das áreas, a inobservância das condições estatuídas nesta lei ou das cláusulas que constarem do instrumento de concessão, bem como o inadimplemento de qualquer prazo fixado, implicarão a automática rescisão da concessão, com a imediata reversão das áreas ao Município, incorporando-se ao seu patrimônio todas as edificações e benfeitorias nelas executadas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, seja a que título for, o mesmo ocorrendo uma vez fluído o prazo da concessão.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14862",
+   "short": "Lei 14862/2008",
+   "title": "Lei nº 14.862, de 23/12/2008 (Dispõe sobre alteração da finalidade da concessão de uso de área municipal à Associação \"Obra do Berço\", de que trata a Lei nº 9.177, de 5 de dezembro de 1980.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14862-de-23-de-dezembro-de-2008",
+   "first_law": "lei-2008-14862",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14862-de-23-de-dezembro-de-2008",
+     "sha256": "6ac703b778bdef85df4b5598066163d4a5983aa8762d794b67a4567d3cd951c2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.862, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 568/06, do Executivo)\nDispõe sobre alteração da finalidade da concessão de uso de área municipal à Associação \"Obra do Berço\", de que trata a Lei nº 9.177, de 5 de dezembro de 1980.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A finalidade da concessão de uso da área municipal situada na Rua Borges Lagoa, nº 1555, Vila Clementino, à Associação \"Obra do Berço\", autorizada pela Lei nº 9.177, de 5 de dezembro de 1980, fica alterada, passando a se constituir na prestação de serviços à população carente no âmbito da assistência socioeducacional.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Em decorrência do disposto no art. 1º desta lei, fica o Poder Executivo autorizado a reti-ratificar o pertinente contrato de concessão de uso em vigor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14863",
+   "short": "Lei 14863/2008",
+   "title": "Lei nº 14.863, de 23/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14863-de-23-de-dezembro-de-2008",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2008-14863"
+   ],
+   "versions": [
+    {
+     "from": "2013-11-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14863-de-23-de-dezembro-de-2008",
+     "sha256": "bc802c4c2bb2e1878118eab6c4627829fbad5a88c2059a548944393e6251c50f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.863, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 640/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConcede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS à prestação de serviços relacionados à Copa do Mundo de Futebol de 2014 e aos Jogos Olímpicos e Paraolímpicos de 2016.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA COPA DO MUNDO DE FUTEBOL DE 2014 NO BRASIL\nArt. 1º Fica isenta do Imposto sobre Serviços de Qualquer Natureza - ISS, quando devido ao Município de São Paulo, a prestação de todo e qualquer serviço diretamente relacionado à organização e à realização da Copa do Mundo de Futebol de 2014, quando o prestador ou o tomador dos serviços for:\nI - a Fédération Internationale de Football Association - FIFA;\nII - as associações e confederações de futebol dos países que participarão da Copa;\nIII - a pessoa física, jurídica ou equiparada, nacional ou estrangeira, diretamente vinculada à organização ou à realização da Copa, conforme dispuser o regulamento.\n§ 1º O sujeito passivo do imposto deverá comprovar que o serviço prestado está relacionado à organização ou à realização da Copa do Mundo de Futebol de 2014, conforme dispuser o regulamento, não sendo causa suficiente a veiculação de símbolos ou marcas do evento durante a prestação de serviços.\n§ 2º A isenção prevista neste artigo aplica-se também à Microempresa (ME) e à Empresa de Pequeno Porte (EPP) optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006.\n§ 3º. A isenção prevista neste artigo aplica-se também à Microempresa (ME) e à Empresa de Pequeno Porte (EPP) optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DOS JOGOS OLÍMPICOS E PARAOLÍMPICOS DE 2016\nArt. 2º. Fica isenta do Imposto sobre Serviços de Qualquer Natureza - ISS, quando devido ao Município de São Paulo, a prestação de todo e qualquer serviço diretamente relacionado à organização e à realização dos Jogos Olímpicos e Paraolímpicos de 2016, quando o prestador ou o tomador dos serviços for:\nI - o Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016;\nII - o Comitê Olímpico Internacional;\nIII - o Comitê Paraolímpico Internacional;\nIV - as Federações Internacionais Desportivas;\nV - o Comitê Olímpico Brasileiro;\nVI - o Comitê Paraolímpico Brasileiro;\nVII - os Comitês Olímpicos e Paraolímpicos de outras nacionalidades;\nVIII - as entidades nacionais e regionais de administração de desporto olímpico ou paraolímpico.\n§ 1º. A isenção prevista no \"caput\" deste artigo fica condicionada à nomeação da Cidade do Rio de Janeiro para sediar os Jogos Olímpicos e Paraolímpicos de 2016 e à realização de competições dos Jogos Olímpicos na Cidade de São Paulo.\n§ 2º. O sujeito passivo do imposto deverá comprovar que o serviço prestado está relacionado à organização ou à realização dos Jogos Olímpicos e Paraolímpicos de 2016, conforme dispuser o regulamento, não sendo causa suficiente a veiculação de símbolos ou marcas olímpicas ou paraolímpicas durante a prestação de serviços.\n§ 3º. A isenção prevista neste artigo aplica-se também à Microempresa (ME) e à Empresa de Pequeno Porte (EPP) optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Ficam isentos do Imposto sobre Serviços de Qualquer Natureza - ISS os serviços prestados ou tomados pela mídia credenciada e pelos patrocinadores dos Jogos Olímpicos e Paraolímpicos de 2016, diretamente relacionados à organização e à realização dos Jogos e quando desenvolvidos no interior das instalações onde ocorrerão os eventos daqueles Jogos.\n§ 1º. A isenção de que trata o \"caput\" deste artigo é extensiva aos serviços de desembaraço aduaneiro, armazenamento e transporte municipal de bens provenientes do exterior do país, tão-somente quando utilizados no interior das instalações onde ocorrerão os eventos dos Jogos.\n§ 2º. Aplica-se à isenção prevista no \"caput\" deste artigo o disposto nos §§ 1º a 3º do art. 2º desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS DISPOSIÇÕES GERAIS\nArt 4º Deverá ser apresentada relação de todos os tomadores ou prestadores que se encontrem diretamente vinculados à organização e à realização da Copa do Mundo de Futebol de 2014 e dos Jogos Olímpicos e Paraolímpicos de 2016, conforme dispuser a Secretaria Municipal de Finanças.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A isenção prevista nos arts. 1º, 2º e 3º desta lei não desobriga o tomador e o prestador de serviço do cumprimento de suas obrigações acessórias.\n§ 1º. A isenção prevista nos arts. 1º, 2º e 3º desta lei fica condicionada à emissão, pela pessoa jurídica estabelecida no Município de São Paulo, de Nota Fiscal Eletrônica de Serviços - NFe, instituída pela Lei nº 14.097, de 8 de dezembro de 2005, e respectivas alterações posteriores.\n§ 2º. A condição a que se refere o § 1º deste artigo não se aplica às sociedades constituídas na forma mencionada no § 1º do art. 15 da Lei nº 13.701, de 24 de dezembro de 2003.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos:\nI - quanto ao disposto no art. 1º desta lei, a partir da nomeação da Cidade de São Paulo como uma das sedes da Copa do Mundo de Futebol de 2014, cessando seus efeitos 60 (sessenta) dias após o seu término;\nII - quanto ao disposto nos arts. 2º e 3º desta lei, somente após a nomeação da Cidade do Rio de Janeiro para sediar os Jogos Olímpicos e Paraolímpicos de 2016 e a indicação oficial da Cidade de São Paulo para a realização de competições a eles referentes, cessando seus efeitos 60 (sessenta) dias após o término dos mencionados jogos.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.863, de 23/12/2008 was altered by acts of 1 date(s), the latest 2013-11-07."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14864",
+   "short": "Lei 14864/2008",
+   "title": "Lei nº 14.864, de 23/12/2008 (Concede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS aos profissionais liberais e autônomos.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14864-de-23-de-dezembro-de-2008",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2008-14864"
+   ],
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14864-de-23-de-dezembro-de-2008",
+     "sha256": "266306f3df628ebf8d7d007724dfead1d7799443812d4e5eb2b968e156ab5a01",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.864, DE 23 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 656/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConcede isenção do Imposto sobre Serviços de Qualquer Natureza - ISS aos profissionais liberais e autônomos.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam isentos do pagamento do Imposto sobre Serviços de Qualquer Natureza - ISS, a partir de 1º de janeiro de 2009, os profissionais liberais e autônomos, que tenham inscrição como pessoa física no Cadastro de Contribuintes Mobiliários - CCM, quando prestarem os serviços descritos na lista do \"caput\" do art. 1º da Lei nº 13.701, de 24 de dezembro de 2003, com as alterações posteriores, não se aplicando o benefício às cooperativas e sociedades uniprofissionais.\nParágrafo único. A isenção referida no caput não se aplica aos delegatários de serviço público que prestam os serviços descritos no subitem 21.01 ou aos prestadores dos serviços descritos no subitem 17.12 da lista do caput do art. 1º da Lei nº 13.701, de 24 de dezembro de 2003.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A isenção de que trata o art. 1º desta lei não exime os profissionais liberais e os autônomos da inscrição e atualização de seus dados no Cadastro de Contribuintes Mobiliários - CCM e do cumprimento das demais obrigações acessórias.\nParágrafo único. A isenção prevista no art. 1º fica condicionada ao cumprimento das obrigações acessórias na forma, condições e prazos estabelecidos em regulamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.864, de 23/12/2008 was altered by acts of 2 date(s), the latest 2021-11-26."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14865",
+   "short": "Lei 14865/2008",
+   "title": "Lei nº 14.865, de 29/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14865-de-29-de-dezembro-de-2008",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2008-14865"
+   ],
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14865-de-29-de-dezembro-de-2008",
+     "sha256": "587ba581fe41c88007befcd6e4fcb05986bf58991d20b21c917e27c09d281aa2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.865, DE 29 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 657/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConcede isenção de Imposto Predial e Territorial Urbano - IPTU nas condições que especifica; altera dispositivos das Leis nº 6.989, de 29 de dezembro de 1966, nº 11.154, de 30 de dezembro de 1991, nº 13.476, de 30 de dezembro de 2002, nº 13.701, de 24 de dezembro de 2003, nº 14.097, de 8 de dezembro de 2005, nº 14.107, de 12 de dezembro de 2005, e nº 8.645, de 21 de novembro de 1977, com as respectivas alterações posteriores; autoriza a reabertura de prazo para ingresso no Programa de Parcelamento Incentivado - PPI; revoga os dispositivos e leis que especifica.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DO IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU\nArt. 1º. A alínea \"h\" do inciso II do \"caput\" do art. 18 da Lei nº 6.989, de 29 de dezembro de 1966, com as respectivas alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 18. ............................................................\nII - ...........................................................................\nh) das agremiações desportivas, efetiva e habitualmente utilizados no exercício de suas atividades, desde que não efetuem venda de \"poules\" ou talões de apostas;\n..........................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Ficam isentos do Imposto Predial e Territorial Urbano - IPTU os imóveis cedidos em comodato à Administração Direta e Indireta do Município de São Paulo, durante o prazo do comodato.\n"
+      },
+      "art-0002-a": {
+       "label": "Art. 2º-A",
+       "kind": "article",
+       "text": "Art. 2º-A. Fica concedida isenção do Imposto Predial e Territorial Urbano - IPTU aos imóveis utilizados exclusiva ou predominantemente como residência, de Padrões A, B ou C, dos Tipos 1 ou 2 da Tabela V, anexa à Lei nº 10.235, de 16 de dezembro de 1986, quando localizados, alternativamente:\nI - em Zona Especial de Interesse Social - ZEIS 1, ZEIS 2 ou ZEIS 4, conforme classificação estabelecida pela Lei nº 16.050, de 31 de julho de 2014; ou\nII - em Zona Especial de Interesse Social - ZEIS 3 e ZEIS 5, conforme classificação estabelecida pela Lei nº 16.050, de 2014, quando o imóvel for, cumulativamente, situado fora da primeira ou segunda subdivisões da zona urbana do Município, conforme disposto no Anexo II da Lei nº 15.889, de 5 de novembro de 2013.\nParágrafo único. A isenção de que trata o caput aplicar-se-á às áreas classificadas como ZEIS 1 a ZEIS 5 na data de entrada em vigor deste artigo, e atingirá fatos geradores ocorridos até 31 de dezembro de 2030.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São isentos do Imposto Predial e Territorial Urbano - IPTU os imóveis pertencentes ao patrimônio da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, destinados ou utilizados para implementação de empreendimentos habitacionais voltados a moradias populares, até o término do exercício subsequente ao do desdobro fiscal das unidades individuais, devendo ser informado à Administração Tributária, antes do marco final da isenção, o rol de novos titulares das unidades, para fins do correto lançamento do imposto, inclusive em caráter retroativo.\nParágrafo único. A isenção prevista neste artigo consubstancia-se em benefício fiscal de natureza tributária, sendo inaplicável, para sua concessão, o disposto no art. 3º, IV, da Lei nº 14.094, de 6 de dezembro de 2005.\n"
+      },
+      "art-0003-a": {
+       "label": "Art. 3º-A",
+       "kind": "article",
+       "text": "Art. 3º-A. Fica isenta do IPTU a Companhia Metropolitana de Habitação de São Paulo - COHAB-SP, relativamente:\nI - aos imóveis próprios integrantes de conjuntos habitacionais destinados a abrigar espaços de uso comercial ou institucional vinculados ao apoio, manutenção ou operação dos respectivos empreendimentos;\nII - aos terrenos de sua propriedade ainda não edificados, enquanto perdurar a fase preparatória ou de implantação dos projetos habitacionais, até o início efetivo das obras;\nIII - aos imóveis utilizados como áreas de apoio operacional da Companhia, compreendidos os espaços destinados a estacionamento, guarda de veículos, equipamentos ou materiais empregados na execução de suas atividades institucionais.\n§ 1º A isenção prevista neste artigo aplica-se exclusivamente aos imóveis cuja propriedade ou posse direta seja comprovadamente da COHAB-SP e enquanto mantida a destinação indicada em cada inciso.\n§ 2º A isenção não se estende a imóveis, unidades ou frações ideais que estejam compromissadas à venda, reservadas para alienação futura ou destinadas a comercialização.\n§ 3º A Companhia Metropolitana de Habitação de São Paulo - COHAB-SP deverá encaminhar, até 31 de outubro de cada exercício, à Secretaria Municipal da Fazenda, a relação atualizada dos imóveis abrangidos pela isenção prevista neste artigo, contendo a identificação cadastral e a respectiva destinação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## IMPOSTO SOBRE TRANSMISSÃO \"INTER VIVOS\", A QUALQUER TÍTULO, POR ATO ONEROSO, DE BENS IMÓVEIS, POR NATUREZA OU ACESSÃO FÍSICA, E DE DIREITOS REAIS SOBRE IMÓVEIS, EXCETOS OS DE GARANTIA, BEM COMO CESSÃO DE DIREITOS À SUA AQUISIÇÃO - ITBI-IV\nArt. 4º. O inciso I do \"caput\" do art. 10 da Lei nº 11.154, de 30 de dezembro de 1991, com a redação dada pela Lei nº 13.107, de 29 de dezembro de 2000, passa a vigorar com a seguinte redação:\n\"Art. 10. ............................................................\nI - nas transmissões compreendidas no Sistema Financeiro de Habitação - SFH, no Programa de Arrendamento Residencial - PAR e de Habitação de Interesse Social - HIS:\n..........................................................................\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISS\nArt. 5º. O \"caput\" e o § 2º do art. 27 da Lei nº 13.476, de 30 de dezembro de 2002, com as respectivas alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 27. As instituições financeiras que contribuírem ao Fundo Municipal dos Direitos da Criança e do Adolescente - FUMCAD poderão descontar do valor mensal devido a título de Imposto sobre Serviços de Qualquer Natureza - ISS, incidente sobre os serviços descritos nos itens 15.03, 15.07, 15.14, 15.16 e 15.17 da lista do \"caput\" do art. 1° da Lei nº 13.701, de 24 de dezembro de 2003, o valor doado ao referido fundo, até o limite de 1/6 (um sexto) do valor do imposto devido.\n§ 2º. A comprovação do direito ao desconto previsto no \"caput\" deste artigo será feita mediante documento próprio emitido pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6°",
+       "kind": "article",
+       "text": "Art. 6°. O inciso II do \"caput\" e o § 4º do art. 9º e o § 2º do art. 10, ambos da Lei nº 13.701, de 24 de dezembro de 2003, com as respectivas alterações posteriores, passam a vigorar com a seguinte redação:\n\"Art. 9°. ............................................................\nII - as pessoas jurídicas, ainda que imunes ou isentas, e os condomínios edilícios residenciais ou comerciais, quando tomarem ou intermediarem os serviços:\na) descritos nos subitens 3.04, 7.09, 7.10, 7.12, 7.14, 11.02, 17.05 e 17.09 da lista do \"caput\" do art. 1º, a eles prestados dentro do território do Município de São Paulo;\nb) descritos nos subitens 7.02, 7.04, 7.05, 7.11, 7.15, 7.17 e 16.01 da lista do \"caput\" do art. 1º, a eles prestados dentro do território do Município de São Paulo por prestadores de serviços estabelecidos fora do Município de São Paulo;\n§ 4º. Independentemente da retenção do imposto na fonte a que se referem o \"caput\" e o § 3°, fica o responsável tributário obrigado a recolher o imposto integral, multa e demais acréscimos legais, na conformidade da legislação, eximida, neste caso, a responsabilidade do prestador de serviços.\n..........................................................................\" (NR)\n\"Art. 10. ......................................................................\n§ 2°. O prestador de serviços responde pelo recolhimento do imposto integral, multa e demais acréscimos legais, na conformidade da legislação, no período compreendido entre a data em que deixar de se enquadrar em qualquer das condições previstas nos incisos II a IV do \"caput\" deste artigo e a data da notificação do desenquadramento, ou quando a comprovação a que se refere o § 1° for prestada em desacordo com a legislação municipal.\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A Lei nº 13.701, de 2003, com as respectivas alterações posteriores, passa a vigorar acrescida do art. 14-A, com a seguinte redação:\n\"Art. 14-A. A base de cálculo do Imposto referente aos serviços descritos no subitem 21.01 da lista do \"caput\" do art. 1º é o preço do serviço, como tal considerada a receita bruta a ele correspondente, sem deduções, excetuados os descontos ou abatimentos concedidos independentemente de qualquer condição.\" (NR)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Os incisos do § 1º e os §§ 2º e 3º do art. 2º e o \"caput\" do art. 3º, ambos da Lei nº 14.097, de 8 de dezembro de 2005, com as respectivas alterações posteriores, passam a vigorar com a seguinte redação:\n\"Art. 2º. ............................................................\n§ 1º. ..........................................................................\nI - de até 30% (trinta por cento) para pessoas físicas domiciliadas no Estado de São Paulo, observado o disposto no § 3º deste artigo;\nII - de até 10% (dez por cento) para Microempresas - ME e Empresas de Pequeno Porte - EPP optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006, observado o disposto no inciso IV deste parágrafo e nos §§ 2º e 3º deste artigo;\nIII - de até 10% (dez por cento) para condomínios edilícios residenciais ou comerciais localizados no Município de São Paulo, observado o disposto no § 3º deste artigo;\nIV - de até 5% (cinco por cento) para as pessoas jurídicas responsáveis pelo pagamento do ISS, nos termos do art. 9º da Lei nº 13.701, de 24 de dezembro de 2003, observado o disposto no § 2º deste artigo.\n§ 2º Não farão jus ao crédito de que trata o \"caput\" deste artigo:\nI - os órgãos da administração pública direta da União, dos Estados e do Município de São Paulo, bem como suas autarquias, fundações, empresas públicas, sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, pelos Estados ou pelo Município, exceto as instituições financeiras e assemelhadas;\nII - as pessoas jurídicas estabelecidas fora do território do Município de São Paulo.\n§ 3º. No caso de o prestador de serviços ser ME ou EPP optante pelo Simples Nacional, será considerada, para cálculo do crédito a que se refere o \"caput\" deste artigo, a alíquota de 3% (três por cento) incidente sobre a base de cálculo do ISS.\" (NR)\n\"Art. 3º. O crédito a que se refere o art. 2º desta lei poderá ser utilizado exclusivamente para abatimento de até 50% (cinqüenta por cento) do valor do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU a pagar, referente a imóvel localizado no território do Município de São Paulo, indicado pelo tomador, na conformidade do que dispuser o regulamento.\n...........................................................................\"(NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Os tomadores de serviços prestados por ME ou EPP optante pelo Simples Nacional farão jus ao crédito de que trata o \"caput\" do art. 2º da Lei nº 14.097, de 2005, a partir da regulamentação desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DO PROCESSO ADMINISTRATIVO FISCAL E DO CONSELHO MUNICIPAL DE TRIBUTOS\nArt. 10. Os §§ 5º e 7º do art. 10 e o § 1º do art. 12, ambos da Lei nº 14.107, de 12 de dezembro de 2005, passam a vigorar com a seguinte redação:\n\"Art. 10. ............................................................\n§ 5º. Quando a notificação for enviada pelo correio, sem aviso de recebimento, deverá ser precedida de divulgação, a cargo do Executivo, na imprensa oficial e, no mínimo, em 2 (dois) jornais de grande circulação no Município, das datas de entrega das notificações nas agências postais, das datas de vencimento dos tributos e do prazo para comunicação pelo sujeito passivo do não-recebimento da notificação, para os fins do disposto no § 7º deste artigo.\n§ 7º. A presunção referida no § 6º deste artigo é relativa e poderá ser elidida pela comunicação do não-recebimento da notificação, protocolada pelo sujeito passivo perante a Administração Municipal, no prazo a que se refere o § 5º deste artigo.\n..........................................................................\" (NR)\n\"Art. 12. ......................................................................\n§ 1º. Os meios de intimação previstos nos incisos I, II e III deste artigo não estão sujeitos à ordem de preferência.\n..........................................................................\" (NR)\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O art. 72 da Lei nº 14.107, de 2005, passa a vigorar acrescido de parágrafo único, com a seguinte redação:\n\"Art. 72. ............................................................\nParágrafo único. Os integrantes da carreira de Auditor-Fiscal Tributário Municipal que vierem a ocupar os cargos de Chefe da Representação Fiscal, Referência DAS-13, e de Representante Fiscal, Referência DAS-12, além das vantagens relativas a esses cargos, farão jus, respectivamente, à percepção da Gratificação de Produtividade Fiscal em valores equivalentes aos dos cargos de Diretor de Departamento, Referência PFC-04, e de Diretor de Divisão, Referência PFC-02, conforme pontuações previstas nas alíneas \"c\" e \"d\" do inciso I do art. 18 da Lei nº 8.645, de 21 de novembro de 1977, com as respectivas alterações posteriores.\" (NR)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS DISPOSIÇÕES TRANSITÓRIAS\nArt. 12. O Poder Executivo poderá reabrir, no exercício de 2009, mediante decreto, o prazo para o ingresso no Programa de Parcelamento Incentivado - PPI, instituído pela Lei nº 14.129, de 11 de janeiro de 2006.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica suspensa, no exercício de 2009, a obrigatoriedade de que trata a Lei nº 12.275, de 19 de dezembro de 1996.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DAS DISPOSIÇÕES FINAIS\nArt. 14. O art. 17 da Lei nº 8.645, de 21 de novembro de 1977, com as respectivas alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 17. ............................................................\n§ 2º. O Auditor-Fiscal Tributário Municipal, quando vier a ocupar cargo de provimento em comissão não exclusivo da carreira de Auditor-Fiscal Tributário Municipal, fará jus, além das vantagens decorrentes do exercício desse cargo, à Gratificação de Produtividade Fiscal, na forma estabelecida nos incisos I e II do art. 18 da Lei nº 8.645/77:\nII - quando estiver prestando serviços na Secretaria Municipal de Finanças ou em outras unidades no Poder Executivo Municipal, em cargos de referências:\na) DAS-13, como Chefe de Representação Fiscal, em valor equivalente ao cargo de Diretor de Departamento - PFC-04;\nb) DAS-13, nos demais cargos, em valor equivalente ao cargo de Assessor de Diretoria, PFC-03;\nc) DAS-12, em valor equivalente ao cargo de Diretor de Divisão, PFC-02;\nIII - em valor equivalente à ocupação do cargo de Diretor de Departamento, PFC-04, quando o exercício das seguintes funções fora do Poder Executivo do Município de São Paulo:\na) Ministro ou Secretário da União, Secretário de Estado e Secretário Municipal;\nb) Presidente de autarquias e de sociedades de economia mista da União, Estados e Municípios;\nIV - em valor equivalente à ocupação do cargo de Assistente Técnico - PFC-01, quando no exercício, fora do Poder Executivo do Município de São Paulo, das funções de direção, coordenação, chefia, supervisão, assistência ou assessoria dos órgãos respectivos às funções mencionadas no inciso III.\n§ 3º. Os afastamentos para o exercício dos cargos em unidades do Poder Executivo Municipal fora da Secretaria Municipal de Finanças previstos no inciso II e para os cargos previstos nos incisos III e IV do § 2º deste artigo deverão ser autorizados pelo Prefeito, que poderá delegar esta competência, observada a conveniência administrativa e o limite máximo de 2,5% (dois e meio por cento) do número de Auditores-Fiscais Tributários Municipais em atividade, excluídos deste limite, os cargos em comissão junto ao Conselho Municipal de Tributos.\n§ 5º. Para efeitos da aplicação dos índices de correção de produtividade fiscal, previstos na tabela do Anexo IV da Lei nº 12.477, de 22 de setembro de 1997, os cargos de Chefe de Representação Fiscal - DAS-13, bem como os de referência DAS-14, DAS-15, DAS-16 ou de Secretário Municipal, referência SM, equivalem ao cargo PFC-04; e os demais cargos de referência DAS-13 e DAS-12, equivalem, respectivamente, aos cargos PFC-03 e PFC-02.\" (NR)\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Ficam revogados:\nI - as Leis nº 9.273, de 10 de junho de 1981, nº 10.816, de 28 de dezembro de 1989, e nº 12.666, de 22 de maio de 1998;\nII - o art. 25 da Lei nº 13.476, de 30 de dezembro de 2002, com as alterações introduzidas pela Lei nº 13.701, de 24 de dezembro de 2003;\nIII - o § 9º do art. 9º da Lei nº 13.701, de 24 de dezembro de 2003, acrescido pela Lei nº 14.042, de 30 de agosto de 2005, os incisos V e VI do \"caput\" do art. 10 e o inciso I do \"caput\" do art. 15, ambos da Lei nº 13.701, de 2003;\nIV - o art. 9º da Lei nº 14.107, de 12 de dezembro de 2005.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.865, de 29/12/2008 was altered by acts of 2 date(s), the latest 2025-11-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14866",
+   "short": "Lei 14866/2008",
+   "title": "Lei nº 14.866, de 29/12/2008 (Altera a redação do art. 1º e do art. 3º da Lei nº 14.065, de 14 de outubro de 2005, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14866-de-29-de-dezembro-de-2008",
+   "first_law": "lei-2008-14866",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14866-de-29-de-dezembro-de-2008",
+     "sha256": "10460bd737c0438d00e23483deadd6a049b88facb8a0b1c96c518d7a7a6f72db",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.866, DE 29 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 632/06, do Vereador João Antonio - PT)\nAltera a redação do art. 1º e do art. 3º da Lei nº 14.065, de 14 de outubro de 2005, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º e o art. 3º da Lei nº 14.065, de 14 de outubro de 2005, passam a vigorar com a seguinte redação:\n\"Art. 1º O comércio de orquídeas e bromélias só será permitido quando estas forem provenientes de viveiros devidamente cadastrados e autorizados pela autoridade competente (órgão ambiental estadual e federal).\n§ 1º As embalagens e rotulagens destes produtos deverão conter:\nI - número do lote;\nII - número de cadastro de produtor rural;\nIII - inscrição no Registro Nacional de Sementes e Mudas - RENASEM.\n§ 2º Para os efeitos desta lei, entende-se por lote o agrupamento de plantas reproduzidas artificialmente a partir de clones selecionados, obtido a partir de sementes, meristemagem e por divisão de uma ou mais plantas adultas para a obtenção de novas mudas, havendo 7 (sete) tipos de lote, classificados conforme a numeração a seguir:\nI - 1º Lote: lote de mudas ou plantas adultas é o resultado da autopolinização de uma espécie nativa, uma espécie exótica ou de um híbrido;\nII - 2º Lote: lote de mudas ou plantas adultas, resultado do cruzamento de dois híbridos;\nIII - 3º Lote: lote de mudas ou plantas adultas, resultado do cruzamento de duas espécies diferentes para a obtenção de híbridos, como por exemplo, duas espécies nativas diferentes, ou duas espécies exóticas diferentes, ou uma espécie nativa e uma espécie exótica;\nIV - 4º Lote: lote de mudas ou plantas adultas, resultado do cruzamento de dois clones vegetais superiores da mesma espécie vegetal, nativa ou exótica, de alto valor genético, de coleção de viveirista;\nV - 5º Lote: lote de mudas ou plantas adultas, resultado do cruzamento de uma espécie nativa ou exótica com um híbrido;\nVI - 6º Lote: lote de plantas adultas, que já floresceram e são comprovadamente exemplares de qualidade superior, e que são reproduzidas em laboratório através da meristemagem ou cultura de tecido;\nVII - 7º Lote: lote de mudas ou plantas adultas, obtidas da divisão de uma ou mais plantas adultas (espécies nativas, ou espécies exóticas ou híbridos), da coleção do viveirista, para obtenção de novas mudas.\"\n\"Art. 3º O desrespeito às disposições desta lei implicará a imposição de multa ao infrator no valor de R$ 840,00 (oitocentos e quarenta reais), dobrada em caso de reincidência e triplicada na terceira incidência.\nParágrafo único. No caso do infrator insistir em proceder em desacordo com esta lei mesmo após a aplicação das sanções referidas no \"caput\" deste artigo, o Município tomará as providências jurídicas cabíveis junto ao Ministério da Agricultura, Pecuária e Abastecimento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14867",
+   "short": "Lei 14867/2008",
+   "title": "Lei nº 14.867, de 29/12/2008 (Retifica dispositivo da Lei nº 9.578, de 6 de janeiro de 1983.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14867-de-29-de-dezembro-de-2008",
+   "first_law": "lei-2008-14867",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14867-de-29-de-dezembro-de-2008",
+     "sha256": "b54abda577018a9e4b283eb960b5d3205366e326fdb046d925d294a20d98fe34",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.867, DE 29 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 57/00, do Executivo)\nRetifica dispositivo da Lei nº 9.578, de 6 de janeiro de 1983.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O art. 2º da Lei nº 9.578, de 6 de janeiro de 1983, passa a vigorar com a seguinte redação:\n\"Art. 2º. A área referida no artigo anterior, configurada na planta anexa nº A-7484/1, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-13-2-1, de formato irregular, com cerca de 1.460,00m² (um mil, quatrocentos e sessenta metros quadrados), confrontando para quem de dentro da área olha para a viela de acesso: pela frente, linha curva 1-2-13, medindo mais ou menos 105,50 metros, confrontando em toda sua extensão com a viela de acesso, segundo seu alinhamento, assim parcelada: trecho 1-2, linha curva, medindo mais ou menos 18,00 metros, e trecho 2-13, linha curva, medindo mais ou menos 87,50 metros; pelos fundos, linha curva 13-1, medindo mais ou menos 68,00 metros, confrontando com a Rua Aberta (variante da Rua Mesquita), segundo seu alinhamento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14868",
+   "short": "Lei 14868/2008",
+   "title": "Lei nº 14.868, de 29/12/2008 (Aprova plano de melhoramento viário no Distrito de Jardim Helena, na Subprefeitura de São Miguel.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14868-de-29-de-dezembro-de-2008",
+   "first_law": "lei-2008-14868",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14868-de-29-de-dezembro-de-2008",
+     "sha256": "86c57391df8840f0852266c9ccf08e447eba38c46b9b28273affa712292512eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.868, DE 29 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 577/05, do Executivo)\nAprova plano de melhoramento viário no Distrito de Jardim Helena, na Subprefeitura de São Miguel.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. De acordo com a planta anexa nº 26.902 - Classificação J-705, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado o seguinte plano de melhoramento viário no Distrito de Jardim Helena, Subprefeitura de São Miguel:\nI - abertura de via, desde a Avenida Dr. José Artur Nova até a Rua João Lopes Maciel, com largura variável de 20,00m (vinte metros) a 65,00m (sessenta e cinco metros) e extensão aproximada de 640,00m (seiscentos e quarenta metros);\nII - alargamento da Rua João Lopes Maciel para 20,00m (vinte metros), desde a via aprovada no inciso I até o início da Ponte Senador José Ermírio de Moraes, numa extensão aproximada de 167,00m (cento e sessenta e sete metros);\nIII - alargamento da Avenida Dr. José Artur Nova para até 27,00m (vinte e sete metros) desde a via aprovada no inciso I até 69,40m (sessenta e nove metros e quarenta centímetros) além.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2008-14869",
+   "short": "Lei 14869/2008",
+   "title": "Lei nº 14.869, de 29/12/2008",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14869-de-29-de-dezembro-de-2008",
+   "first_law": "lei-2008-14869",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14869-de-29-de-dezembro-de-2008",
+     "sha256": "a89a2244085ef61771af51b99765bb5c6662d01b7e36ed36caa8f6826be8d669",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.869, DE 29 DE DEZEMBRO DE 2008\n(Projeto de Lei nº 557/08, do Executivo)\nAltera o \"caput\" do artigo 1º e acresce dispositivos à Lei nº 14.652, de 20 de dezembro de 2007, com a redação dada pela Lei nº 14.804, de 27 de junho de 2008, que dispõe sobre as concessões e permissões de uso de áreas municipais.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2008, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O \"caput\" do artigo 1º da Lei nº 14.652, de 20 de dezembro de 2007, com a redação dada pela Lei nº 14.804, de 27 de junho de 2008, que dispõe sobre as concessões e permissões de uso de áreas municipais, passa a vigorar com a seguinte redação:\n\"Art. 1º. As concessões e permissões de uso de áreas municipais deverão ser feitas, doravante, a título oneroso, mediante o pagamento de remuneração mensal ou anual, fixada por critérios do Executivo, excetuadas as hipóteses de efetiva prestação de serviços à população ou de estabelecimento de contrapartidas sociais, devidamente propostas e avalizadas pela secretaria municipal competente, à qual caberá sua fiscalização.\n..........................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O artigo 2º da Lei nº 14.652, de 2007, passa a vigorar acrescido de parágrafo único, com a seguinte redação:\n\"Art. 2º. ............................................................\nParágrafo único. Não poderão ser utilizados para os fins mencionados no \"caput\" deste artigo os valores já aproveitados pelas instituições financeiras para desconto do Imposto Sobre Serviços de Qualquer Natureza - ISS incidente sobre serviços por elas prestados, nos termos do artigo 27 da Lei nº 13.476, de 30 de dezembro de 2002, bem como os valores já aproveitados pelas agremiações, federações e confederações desportivas para abatimento do Imposto Territorial Urbano incidente sobre imóveis das referidas entidades, nos termos da Lei nº 14.501, de 20 de setembro de 2007.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Lei nº 14.652, de 2007, com a redação dada pela Lei nº 14.804, de 2008, passa a vigorar acrescida do artigo 1º-A, com a seguinte redação:\n\"Art. 1º-A. As leis e decretos que outorgarem concessão ou permissão de uso de áreas municipais deverão contemplar, além das demais normas pertinentes, disposição referente às multas e sanções aplicáveis em caso de falta ou atraso de pagamento da remuneração estipulada, bem como de descumprimento, total ou parcial, das obrigações a cargo do concessionário ou permissionário.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Os concessionários e permissionários que tiveram suas concessões ou permissões de uso de áreas municipais formalizadas antes da entrada em vigor da Lei nº 14.652, de 20 de dezembro de 2007, cuja contrapartida seja não pecuniária ou mediante prestação de serviços à população, poderão, por meio de requerimento condicionado à aprovação do Executivo e desde que não ocorra prejuízo ao interesse público, optar pela forma de contraprestação estabelecida no artigo 1º da referida lei, conforme dispuser o regulamento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2008, 455º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2008.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-15498",
+   "short": "Lei 15498/2011",
+   "title": "Lei nº 15.498, de 01/12/2011",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15498-de-01-de-dezembro-de-2011",
+   "first_law": "lei-2011-15498",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15498-de-01-de-dezembro-de-2011",
+     "sha256": "f4edb5e96e967286e2ac549528d273f1e4de49e19527252c46b646e4f91c6714",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.498 DE 1º DE DEZEMBRO DE 2011\n(PROJETO DE LEI Nº 151/10)(VEREADOR ANTONIO CARLOS RODRIGUES - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Carnaval de Rua de Capão Redondo, a ser comemorado anualmente no domingo de Carnaval, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- domingo de Carnaval: o Carnaval de Rua de Capão Redondo, a ser comemorado com a participação voluntária no desfile de grupos carnavalescos e outras escolas de samba que possam ser convidadas, sempre que possível na Rua Marmeleira da Índia - Capão Redondo, a partir das 14h, com término às 22h.\"\nParágrafo único. Os organizadores deverão requerer ao Poder Executivo, com antecedência mínima de um mês, autorização e liberação dos logradouros que integrarão o trajeto do Carnaval de Rua de Capão Redondo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de dezembro de 2011.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de dezembro de 2011.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

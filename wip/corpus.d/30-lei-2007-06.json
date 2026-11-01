@@ -1,0 +1,2471 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2007-14528": {
+   "label": "Lei nº 14.528, de 17/10/2007",
+   "title": "Denomina Praça Francesco Di Martino o espaço livre sem denominação, situado no Setor 61 - Quadras 26, 56 e 58, no Distrito da Penha, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14528-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14529": {
+   "label": "Lei nº 14.529, de 17/10/2007",
+   "title": "Denomina Praça Professor Daniel Cruz o espaço livre delimitado pela Avenida dos Igarapés e ruas Coqueiro Carandá e Guabirobinha, Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14529-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14530": {
+   "label": "Lei nº 14.530, de 17/10/2007",
+   "title": "Denomina Praça do Ciclista o espaço livre sem denominação, localizado no canteiro central da Avenida Paulista, entre a Rua da Consolação e a Rua Bela Cintra, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14530-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14531": {
+   "label": "Lei nº 14.531, de 17/10/2007",
+   "title": "Denomina Praça Victorio Bononi a área livre localizada entre a Rua Mussumés e a Rua Dr. Edson de Melo (Setor 64 - Quadra 124), no Distrito de Vila Maria, Subprefeitura de Vila Maria/Vila Guilherme, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14531-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14532": {
+   "label": "Lei nº 14.532, de 17/10/2007",
+   "title": "DENOMINA RUA ALFREDO DE SA DOS SANTOS O LOGRADOURO PUBLICO INOMINADO LOCALIZADO NO DISTRITO DO MANDAQUI, SUBPREFEITURA SANTANA/TUCURUVI. (PL 664/06)",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14532-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14533": {
+   "label": "Lei nº 14.533, de 17/10/2007",
+   "title": "Denomina Praça Maria Orides Silva de Deus o espaço público inominado existente na confluência da Estrada do Campo Limpo com a Rua Batista Crespo, Subprefeitura do Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14533-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14534": {
+   "label": "Lei nº 14.534, de 17/10/2007",
+   "title": "DENOMINA PRACA JOAQUIM FIGUEIREDO DE ALMEIDA LOGRADOURO PUBLICO INOMINADO SITUADO NA VILA NOSSA SENHORA DO RETIRO, DISTRITO DE PIRITUBA, E DA OUTRAS PROVIDENCIAS. (PL 710/06)",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14534-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14535": {
+   "label": "Lei nº 14.535, de 17/10/2007",
+   "title": "DENOMINA PCA VICENTE GUSMAO-CADLOG 36319-7 O ESPACO LIVRE SEM DENOMINACAO,CONHECIDO COMO PCA 1,DELIMITADO PELAS R. HENRIQUETA SALVADORE GIACOMETTI,FRANCISCO PINTO DE ANDRADE E AV. AURELIA LOPES TAKANO (SETOR 163-QUADRA 146),LOCALIZADO NO DISTRITO DE CIDADE DUTRA,SUBPREFEITURA DO SOCORRO. (PL 32/07)",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14535-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14536": {
+   "label": "Lei nº 14.536, de 17/10/2007",
+   "title": "Denomina Praça Edésio Francisco de Moraes o logradouro inominado delimitado pelas ruas Brasília Roschel Gottzfritz e Otoniel Vieira Rocha, Distrito de Cidade Dutra, Subprefeitura do Socorro.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14536-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14537": {
+   "label": "Lei nº 14.537, de 17/10/2007",
+   "title": "Denomina Praça José Luiz de Souza o logradouro público inominado, situado na confluência das ruas Flora Geny e André Grabois, no Distrito da Cidade Dutra, na Subprefeitura do Socorro.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14537-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14538": {
+   "label": "Lei nº 14.538, de 17/10/2007",
+   "title": "Denomina Rua Demétrio Vidal Lopes o logradouro público inominado, que se inicia na confluência das ruas Alagoa Nova, Codlog 67563-6, com Júlio de Oliveira, Codlog 22694-7, e termina na Rua do Pinheirinho, Codlog 36847-4, Distrito de Perus, Subprefeitura de Perus.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14538-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14539": {
+   "label": "Lei nº 14.539, de 17/10/2007",
+   "title": "Denomina Praça Roberto Felippe Merida Herrera o espaço público inominado situado no Distrito de Santana e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14539-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14540": {
+   "label": "Lei nº 14.540, de 17/10/2007",
+   "title": "Denomina Praça Gilvan Rodrigues da Silva o conjunto de espaços livres sem denominação \"3M\" e \"5M\" da COHAB Brigadeiro Faria Lima, delimitados pelas ruas Irene Lisboa, São Caetano do Sul e Taboão da Serra, Distrito do Grajaú, Subprefeitura do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14540-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14541": {
+   "label": "Lei nº 14.541, de 17/10/2007",
+   "title": "Denomina Praça Oito de Maio o remanescente de espaço livre delimitado pela Rua Cambaxirra, Avenida dos Agapantos e pela área ocupada pela EMEF 8 de Maio, situado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14541-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14542": {
+   "label": "Lei nº 14.542, de 17/10/2007",
+   "title": "DENOMINA AMA OSCAR PEREIRA DA SILVA A ASSISTENCIA MEDICA AMBULATORIAL DO JARDIM TIETE II, SITUADA NA AVENIDA ENGENHO NOVO, 120 - JARDIM TIETE. (PL 133/07)",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14542-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14543": {
+   "label": "Lei nº 14.543, de 17/10/2007",
+   "title": "Denomina Praça Geraldo Sylvestre Pacheco o espaço público inominado situado no Distrito de Cidade Dutra, Subprefeitura do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14543-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14544": {
+   "label": "Lei nº 14.544, de 17/10/2007",
+   "title": "Denomina Praça Clarisse Dias Leite Baptista o espaço público inominado, localizado no encontro das ruas Duartina com Descalvado, Distrito de Perdizes, Subprefeitura da Lapa.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14544-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14545": {
+   "label": "Lei nº 14.545, de 17/10/2007",
+   "title": "Denomina Praça Ulices Meirelles o espaço livre III, delimitado pelas ruas Maestro Teófilo Magalhães e Santo Anacleto, lotes particulares e faixa de transmissão de energia elétrica, situado no Distrito do Cangaíba, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14545-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14546": {
+   "label": "Lei nº 14.546, de 17/10/2007",
+   "title": "Denomina Praça Masuichi Omi o espaço livre sem denominação, delimitado pelas ruas Francisco Giuseppe Giordano e Marcos Fernandes, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14546-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14547": {
+   "label": "Lei nº 14.547, de 17/10/2007",
+   "title": "Denomina Praça Francisco Petrone o logradouro público inominado, localizado na confluência das ruas Vieira de Morais, Henrique Fausto Lancelotti e a Avenida Washington Luís, Distrito do Campo Belo, Subprefeitura de Santo Amaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14547-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14548": {
+   "label": "Lei nº 14.548, de 17/10/2007",
+   "title": "Denomina Praça Maria José da Silva dos Santos o logradouro público situado entre a Rua Manoel de Abreu e a Rua Batista Parente, Distrito do Belém, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14548-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14549": {
+   "label": "Lei nº 14.549, de 17/10/2007",
+   "title": "Denomina Praça Mário Zan o espaço livre sem denominação delimitado pela Avenida Presidente Tancredo Neves, pelas ruas Abaúna, Belgrado e pela Travessa Euclydes Pinheiro, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-17",
+   "published": "2007-10-18",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14549-de-17-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14550": {
+   "label": "Lei nº 14.550, de 22/10/2007",
+   "title": "DENOMINA POLO CULTURAL DA 3A. IDADE JOSE LEWGOY O POLO CULTURAL DA 3A. IDADE DO CAMBUCI. (PL 97/03)",
+   "kind": "law",
+   "enacted": "2007-10-22",
+   "published": "2007-10-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14550-de-22-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14551": {
+   "label": "Lei nº 14.551, de 23/10/2007",
+   "title": "INSTITUI O DIA DE JERUSALEM, NO AMBITO DO MUNICIPIO DE SAO PAULO.(PL 207/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14551-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14552": {
+   "label": "Lei nº 14.552, de 23/10/2007",
+   "title": "INSTITUI, NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DO BIBLIOTECARIO, E DA OUTRAS PROVIDENCIAS.(PL 219/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14552-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14553": {
+   "label": "Lei nº 14.553, de 23/10/2007",
+   "title": "INSTITUI, NO CALENDARIO OFICIAL DE DATAS E EVENTOS DA CIDADE DE SAO PAULO, O DIA DA MANICURE E DA OUTRAS PROVIDENCIAS.(PL 226/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14553-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14555": {
+   "label": "Lei nº 14.555, de 23/10/2007",
+   "title": "INSTITUI A SEMANA MUNICIPAL DE CIENCIA, TECNOLOGIA, INOVACAO E DESENVOLVIMENTO NO MUNICIPIO DE SAO PAULO, E DA OUTRAS PROVIDENCIAS.(PL 279/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14555-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14556": {
+   "label": "Lei nº 14.556, de 23/10/2007",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir o Dia do Enólogo, a ser comemorado, anualmente, no dia 11 de novembro.",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14556-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14557": {
+   "label": "Lei nº 14.557, de 23/10/2007",
+   "title": "INSTITUI A CAMPANHA MUNICIPAL DE COMBATE E CONSCIENTIZACAO DA SINDROME OU TRANSTORNO DO PANICO, A SER REALIZADA ANUALMENTE NA ULTIMA SEMANA DO MES DE AGOSTO, E DA OUTRAS PROVIDENCIAS.(PL 639/06)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14557-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14558": {
+   "label": "Lei nº 14.558, de 23/10/2007",
+   "title": "INSTITUI O DIA MUNICIPAL EM MEMORIA DAS VITIMAS DE ACIDENTES E DOENCAS DO TRABALHO.(PL 282/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14558-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14559": {
+   "label": "Lei nº 14.559, de 23/10/2007",
+   "title": "DISPOE SOBRE INCLUSAO, NO CALENDARIO OFICIAL DA CIDADE DE SAO PAULO, DA FEIRA DA NATIVIDADE E DA OUTRAS PROVIDENCIAS.(PL 308/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14559-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14560": {
+   "label": "Lei nº 14.560, de 23/10/2007",
+   "title": "INSTITUI O DIA DO ESTAGIARIO, A SER COMEMORADO, ANUALMENTE, NO DIA 04 DE JUNHO.(PL 469/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14560-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14561": {
+   "label": "Lei nº 14.561, de 23/10/2007",
+   "title": "INSTITUI, NO CALENDARIO DO MUNICIPIO DE SAO PAULO, O DIA DA VILA NATAL, A SER COMEMORADO NO SEGUNDO SABADO DE JUNHO DE CADA ANO E DA OUTRAS PROVIDENCIAS.(PL 523/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14561-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14562": {
+   "label": "Lei nº 14.562, de 23/10/2007",
+   "title": "INCLUI NO CALENDARIO OFICIAL DE EVENTOS DA CIDADE DE SAO PAULO A QUERMESSE GABRIEL COVELI, E DA OUTRAS PROVIDENCIAS.(PL 341/04)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14562-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14563": {
+   "label": "Lei nº 14.563, de 23/10/2007",
+   "title": "INCLUI NO CALENDARIO OFICIAL DE EVENTOS DE SAO PAULO O DIA DO JARDIM DAS OLIVEIRAS, A SER COMEMORADO TODO DIA 21 DE ABRIL DE CADA ANO, E DA OUTRAS PROVIDENCIAS.(PL 202/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14563-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14564": {
+   "label": "Lei nº 14.564, de 23/10/2007",
+   "title": "INSTITUI O DIA MUNICIPAL DE SANTO ANTONIO DE SANT'ANA GALVAO - FREI GALVAO, E DA OUTRAS PROVIDENCIAS.(PL 321/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14564-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14565": {
+   "label": "Lei nº 14.565, de 23/10/2007",
+   "title": "Dispõe sobre a inclusão da Caminhada da Ressurreição no Calendário Oficial de Eventos da Cidade de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14565-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14566": {
+   "label": "Lei nº 14.566, de 23/10/2007",
+   "title": "ALTERA A LEI N. 14485, DE 19 DE JULHO DE 2007, COM A FINALIDADE DE INSTITUIR O DIA DO ENOLOGO, A SER COMEMORADO, ANUALMENTE, NO DIA 11 DE NOVEMBRO.(PL 424/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14566-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14567": {
+   "label": "Lei nº 14.567, de 23/10/2007",
+   "title": "INCLUI O EVENTO EXPOCRISTA NO CALENDARIO OFICIAL MUNICIPAL, A SER REALIZADO NO DIA 12 DE SETEMBRO DE CADA ANO, NO AMBITO DO MUNICIPIO, E DA OUTRAS PROVIDENCIAS.(PL 593/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14567-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14568": {
+   "label": "Lei nº 14.568, de 23/10/2007",
+   "title": "INSTITUI NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DE ATENCAO AO PREMATURO, E DA OUTRAS PROVIDENCIAS.(PL 138/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14568-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14569": {
+   "label": "Lei nº 14.569, de 23/10/2007",
+   "title": "INSTITUI, NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DE PREVENCAO AO CANCER DE MAMA, E DA OUTRAS PROVIDENCIAS.(PL 177/07)",
+   "kind": "law",
+   "enacted": "2007-10-23",
+   "published": "2007-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14569-de-23-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14570": {
+   "label": "Lei nº 14.570, de 24/10/2007",
+   "title": "Denomina Adão Glasser Bueno a atual Estrada Municipal, localizada no Bairro Colônia - Parelheiros - Subprefeitura do Socorro, SP.",
+   "kind": "law",
+   "enacted": "2007-10-24",
+   "published": "2007-10-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14570-de-24-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14571": {
+   "label": "Lei nº 14.571, de 25/10/2007",
+   "title": "DENOMINA CEI VEREADOR FRANCISCO BATISTA O CENTRO DE EDUCACAO INFANTIL LOCALIZADO A RUA ANTONIO MONTEIRO N. 155, VILA SANTO ESTEFANO, IPIRANGA, SAO PAULO. (PL 531/07)",
+   "kind": "law",
+   "enacted": "2007-10-25",
+   "published": "2007-10-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14571-de-25-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14572": {
+   "label": "Lei nº 14.572, de 25/10/2007",
+   "title": "ALTERA A DENOMINACAO DA CASA DE CULTURA DA PENHA PARA CASA DE CULTURA DA PENHA - MARIO ZAN, E DA OUTRAS PROVIDENCIAS. (PL 675/06)",
+   "kind": "law",
+   "enacted": "2007-10-25",
+   "published": "2007-10-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14572-de-25-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14573": {
+   "label": "Lei nº 14.573, de 25/10/2007",
+   "title": "Insere § 3º no art. 1º e altera a redação do art. 2º da Lei nº 11.545, de 7 de junho de 1994, com a redação dada pela Lei nº 12.511, de 4 de novembro de 1997, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-25",
+   "published": "2007-10-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14573-de-25-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14574": {
+   "label": "Lei nº 14.574, de 29/10/2007",
+   "title": "ALTERA O ART. 1. DA LEI N. 13547, DE 31 DE MARCO DE 2003.(PL 680/03)",
+   "kind": "law",
+   "enacted": "2007-10-29",
+   "published": "2007-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14574-de-29-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14575": {
+   "label": "Lei nº 14.575, de 31/10/2007",
+   "title": "DENOMINA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSOR GIUSEPPE TAVOLARO A ESCOLA MUNICIPAL QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS.(PL 166/06)",
+   "kind": "law",
+   "enacted": "2007-10-31",
+   "published": "2007-11-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14575-de-31-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14576": {
+   "label": "Lei nº 14.576, de 31/10/2007",
+   "title": "DISPOE SOBRE A ALTERACAO DA DENOMINACAO DA PONTE DO LIMAO, E DA OUTRAS PROVIDENCIAS.(PL 411/03)",
+   "kind": "law",
+   "enacted": "2007-10-31",
+   "published": "2007-11-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14576-de-31-de-outubro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14577": {
+   "label": "Lei nº 14.577, de 09/10/2007",
+   "title": "Dispõe sobre a nova denominação do Viaduto Grande São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-10-09",
+   "published": "2007-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14577-de-5-de-novembro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2007-14578": {
+   "label": "Lei nº 14.578, de 05/11/2007",
+   "title": "Denomina Travessa Valdomiro Máximo dos Santos logradouro público localizado no Jardim Janiopolis, Distrito de Cangaíba, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2007-11-05",
+   "published": "2007-11-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14578-de-5-de-novembro-de-2007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2007-14528",
+   "short": "Lei 14528/2007",
+   "title": "Lei nº 14.528, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14528-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14528",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14528-de-17-de-outubro-de-2007",
+     "sha256": "118effdccbb9915daa0a35766f079d8c5463ecfac9479bb7eabb0e76be03a780",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.528, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 601/06, do Vereador Ademir da Guia - PR)\nDenomina Praça Francesco Di Martino o espaço livre sem denominação, situado no Setor 61 - Quadras 26, 56 e 58, no Distrito da Penha, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Francesco Di Martino o espaço livre sem denominação, situado no Setor 61 - Quadras 26, 56 e 58, no Distrito da Penha, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14529",
+   "short": "Lei 14529/2007",
+   "title": "Lei nº 14.529, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14529-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14529",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14529-de-17-de-outubro-de-2007",
+     "sha256": "f4f87051ac7067e9ef1526b8f39da2644a9d3b61ff5eb411a312f5ca9cbbcc46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.529, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 633/06, da Vereadora Noemi Nonato - PSB)\nDenomina Praça Professor Daniel Cruz o espaço livre delimitado pela Avenida dos Igarapés e ruas Coqueiro Carandá e Guabirobinha, Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Professor Daniel Cruz o espaço livre delimitado pela Avenida dos Igarapés e ruas Coqueiro Carandá e Guabirobinha (Setor 132 - Quadra 131), Distrito de Vila Curuçá, Subprefeitura de Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14530",
+   "short": "Lei 14530/2007",
+   "title": "Lei nº 14.530, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14530-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14530",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14530-de-17-de-outubro-de-2007",
+     "sha256": "4d497089ef9c730ea2fa8fb8e24778c3f7cbaf12c57a0e8303a5b01a14ae6dc5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.530, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 658/06, da Vereadora Soninha - PPS)\nDenomina Praça do Ciclista o espaço livre sem denominação, localizado no canteiro central da Avenida Paulista, entre a Rua da Consolação e a Rua Bela Cintra, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça do Ciclista o espaço livre sem denominação, localizado no canteiro central da Avenida Paulista, entre a Rua da Consolação e a Rua Bela Cintra (Setor 10 - Quadras 50 e 65), situado nos distritos da Consolação e Jardim Paulista, Subprefeituras da Sé e Pinheiros, respectivamente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14531",
+   "short": "Lei 14531/2007",
+   "title": "Lei nº 14.531, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14531-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14531",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14531-de-17-de-outubro-de-2007",
+     "sha256": "5e9b371f2ea68d6043e91049359ccd9e5e85e91758ac6d77d2432165d0470fec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.531, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 663/06, do Vereador Wadih Mutran - PP)\nDenomina Praça Victorio Bononi a área livre localizada entre a Rua Mussumés e a Rua Dr. Edson de Melo (Setor 64 - Quadra 124), no Distrito de Vila Maria, Subprefeitura de Vila Maria/Vila Guilherme, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Victorio Bononi a área livre localizada entre a Rua Mussumés e a Rua Dr. Edson de Melo (Setor 64 - Quadra 124), no Distrito de Vila Maria, Subprefeitura de Vila Maria/Vila Guilherme.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14532",
+   "short": "Lei 14532/2007",
+   "title": "Lei nº 14.532, de 17/10/2007 (DENOMINA RUA ALFREDO DE SA DOS SANTOS O LOGRADOURO PUBLICO INOMINADO LOCALIZADO NO DISTRITO DO MANDAQUI, SUBPREFEITURA SANTANA/TUCURUVI. (PL 664/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14532-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14532-de-17-de-outubro-de-2007",
+     "sha256": "5d1f444b8448202ffa8a1092dea062b7afbcbaa7e1f069266af111acdc16f563",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.532, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 664/06, da Vereadora Soninha - PPS)\nDenomina Rua Alfredo de Sá dos Santos o logradouro público inominado localizado no Distrito do Mandaqui, Subprefeitura de Santana/Tucuruvi.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Alfredo de Sá dos Santos (Codlog 03.594-7) o logradouro público inominado formado pela Rua Particular e Praça Particular sem denominação (Codlog 22.816-4), também conhecida por Passagem e Praça de Retorno (Setor 127 - Quadra 286), com início na Rua Rafael Alves Casaes e término a aproximadamente 81 metros além do seu início, localizado no Distrito do Mandaqui, Subprefeitura de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14533",
+   "short": "Lei 14533/2007",
+   "title": "Lei nº 14.533, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14533-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14533",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14533-de-17-de-outubro-de-2007",
+     "sha256": "ff227fcc9f6e89e736d95f68a286a0c9a5b6c11d5c6ef7ebf45d3d26588e36ce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.533, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 687/06, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Maria Orides Silva de Deus o espaço público inominado existente na confluência da Estrada do Campo Limpo com a Rua Batista Crespo, Subprefeitura do Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Praça Maria Orides Silva de Deus o espaço livre municipal inominado, localizado na confluência da Estrada do Campo Limpo com a Rua Batista Crespo (Setor Fiscal 168 - Quadra Fiscal 44), localizado na folha n° 14-C e quadrícula D-3 do Mapa do Município de São Paulo, Distrito do Campo Limpo, Subprefeitura do Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art 2º",
+       "kind": "article",
+       "text": "Art 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14534",
+   "short": "Lei 14534/2007",
+   "title": "Lei nº 14.534, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14534-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14534",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14534-de-17-de-outubro-de-2007",
+     "sha256": "4f6c689e0b554249b4d2533fcdeb26e9c0d5f8f4675ec0c9d4643ceda2fa7205",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.534, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 710/06, do Vereador Chico Macena - PT)\nDenomina Praça Joaquim Figueiredo de Almeida logradouro público inominado situado na Vila Nossa Senhora do Retiro, Distrito de Pirituba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Joaquim Figueiredo de Almeida o logradouro público inominado situado entre a Rua Alcino Fidélis e a Rua Barra de Paraopeba (Setor 106 - Quadra 37), Vila Nossa Senhora do Retiro, Distrito de Pirituba, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14535",
+   "short": "Lei 14535/2007",
+   "title": "Lei nº 14.535, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14535-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14535",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14535-de-17-de-outubro-de-2007",
+     "sha256": "b39a7a837ee59ce3fa9c224fc671d0fe6e388971b2b684b4ec624e3ff66879d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.535, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 32/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Vicente Gusmão - CADLOG 36319-7 o espaço livre sem denominação, conhecido como Praça 1, delimitado pelas ruas Henriqueta Salvadore Giacometti, Francisco Pinto de Andrade e Avenida Aurélia Lopes Takano (Setor 163 - Quadra 146), localizado no Distrito de Cidade Dutra, Subprefeitura do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Vicente Gusmão - CADLOG 36319-7 o espaço livre sem denominação, conhecido como Praça 1, delimitado pelas ruas Henriqueta Salvadore Giacometti, Francisco Pinto de Andrade e Avenida Aurélia Lopes Takano (Setor 163 - Quadra 146), localizado no Distrito de Cidade Dutra, Subprefeitura do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14536",
+   "short": "Lei 14536/2007",
+   "title": "Lei nº 14.536, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14536-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14536",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14536-de-17-de-outubro-de-2007",
+     "sha256": "153bb52b05cec2b66cd739adb16967b33977e2eb20803c9be7e778c432c26375",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.536, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 33/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Edésio Francisco de Moraes o logradouro inominado delimitado pelas ruas Brasília Roschel Gottzfritz e Otoniel Vieira Rocha, Distrito de Cidade Dutra, Subprefeitura do Socorro.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Edésio Francisco de Moraes o logradouro inominado, delimitado pelas ruas Brasília Roschel Gottzfritz e Otoniel Vieira Rocha (Setor 163 - Quadra 139), Distrito de Cidade Dutra, Subprefeitura do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14537",
+   "short": "Lei 14537/2007",
+   "title": "Lei nº 14.537, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14537-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14537",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14537-de-17-de-outubro-de-2007",
+     "sha256": "4a9a10b9b7fd7cf6641383003a2f5135beae57ed148cf3b37db35a01a864ca7d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.537, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 34/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça José Luiz de Souza o logradouro público inominado, situado na confluência das ruas Flora Geny e André Grabois, no Distrito da Cidade Dutra, na Subprefeitura do Socorro.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Luiz de Souza o logradouro público inominado, situado na confluência das ruas Flora Geny e André Grabois (Setor 258 - Quadras 14 e 15), no Distrito da Cidade Dutra - Subprefeitura do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14538",
+   "short": "Lei 14538/2007",
+   "title": "Lei nº 14.538, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14538-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14538",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14538-de-17-de-outubro-de-2007",
+     "sha256": "d1cabd52f3709f43f14e5f99cf5bc07747eb7354184e283ec4253f1bee486f54",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.538, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 57/07, do Vereador Paulo Frange - PTB)\nDenomina Rua Demétrio Vidal Lopes o logradouro público inominado, que se inicia na confluência das ruas Alagoa Nova, Codlog 67563-6, com Júlio de Oliveira, Codlog 22694-7, e termina na Rua do Pinheirinho, Codlog 36847-4, Distrito de Perus, Subprefeitura de Perus.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Demétrio Vidal Lopes o logradouro público inominado, que se inicia na confluência das ruas Alagoa Nova, Codlog 67563-6, com Júlio de Oliveira, Codlog 22694-7, e termina na Rua do Pinheirinho, Codlog 36847-4 (Setor 212 - Quadras 995 e 999), Distrito de Perus, Subprefeitura de Perus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14539",
+   "short": "Lei 14539/2007",
+   "title": "Lei nº 14.539, de 17/10/2007 (Denomina Praça Roberto Felippe Merida Herrera o espaço público inominado situado no Distrito de Santana e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14539-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14539",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14539-de-17-de-outubro-de-2007",
+     "sha256": "5a20feae2f7c03169a6d2ffabbf7b2dde0f2f0d6eb515d4aa2eb47b134717e2c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.539, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 084/07, do Vereador Toninho Paiva - PR)\nDenomina Praça Roberto Felippe Merida Herrera o espaço público inominado situado no Distrito de Santana e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Roberto Felippe Merida Herrera o espaço público inominado situado na confluência da Rua Doutor Zuquim com a Rua Bemvinda Apparecida de Abreu Leme (Setor 69 - Quadras 166 e 205), Distrito de Santana, Subprefeitura de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14540",
+   "short": "Lei 14540/2007",
+   "title": "Lei nº 14.540, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14540-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14540",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14540-de-17-de-outubro-de-2007",
+     "sha256": "78df7ecd43b641f59642f3e962926878819869997c9fa397064d8004839b9c81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.540, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 092/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Gilvan Rodrigues da Silva o conjunto de espaços livres sem denominação \"3M\" e \"5M\" da COHAB Brigadeiro Faria Lima, delimitados pelas ruas Irene Lisboa, São Caetano do Sul e Taboão da Serra, Distrito do Grajaú, Subprefeitura do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Gilvan Rodrigues da Silva o conjunto de espaços livres sem denominação \"3M\" e \"5M\" da COHAB Brigadeiro Faria Lima, delimitados pelas ruas Irene Lisboa, São Caetano do Sul e Taboão da Serra (Setor 174 - Quadra 236), no Distrito do Grajaú, Subprefeitura do Socorro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14541",
+   "short": "Lei 14541/2007",
+   "title": "Lei nº 14.541, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14541-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14541",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14541-de-17-de-outubro-de-2007",
+     "sha256": "92962679b7693ffbfab0387a9edca45ad615f74ada1834512d09868b3d5cb9bf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.541, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 121/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Oito de Maio o remanescente de espaço livre delimitado pela Rua Cambaxirra, Avenida dos Agapantos e pela área ocupada pela EMEF 8 de Maio, situado no Distrito de Itaquera, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Oito de Maio o remanescente de espaço livre delimitado pela Rua Cambaxirra, Avenida dos Agapantos e pela área ocupada pela EMEF 8 de Maio (Setor 142 - Quadras 103 e 110), situado no Distrito de Itaquera, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14542",
+   "short": "Lei 14542/2007",
+   "title": "Lei nº 14.542, de 17/10/2007 (DENOMINA AMA OSCAR PEREIRA DA SILVA A ASSISTENCIA MEDICA AMBULATORIAL DO JARDIM TIETE II, SITUADA NA AVENIDA ENGENHO NOVO, 120 - JARDIM TIETE. (PL 133/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14542-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14542",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14542-de-17-de-outubro-de-2007",
+     "sha256": "1c592851c642d6eaab6916f01c26b3be4967629f9972a37afc7980751737b93a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.542, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 133/07, do Vereador Gilson Barreto - PSDB)\nDenomina AMA Oscar Pereira da Silva a Assistência Médica Ambulatorial do Jardim Tietê II, situada na Avenida Engenho Novo, 120 - Jardim Tietê.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada AMA Oscar Pereira da Silva a Assistência Médica Ambulatorial inominada, conhecida popularmente como Jardim Tietê II, situada na Avenida Engenho Novo, 120 - Jardim Tietê.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14543",
+   "short": "Lei 14543/2007",
+   "title": "Lei nº 14.543, de 17/10/2007 (Denomina Praça Geraldo Sylvestre Pacheco o espaço público inominado situado no Distrito de Cidade Dutra, Subprefeitura do Socorro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14543-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14543",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14543-de-17-de-outubro-de-2007",
+     "sha256": "05ffe1a6119fdf8154cc8072d33aba5618d051811092081a2678286a9b02cdf6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.543, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 144/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Geraldo Sylvestre Pacheco o espaço público inominado situado no Distrito de Cidade Dutra, Subprefeitura do Socorro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Geraldo Sylvestre Pacheco o espaço público inominado localizado na Quadra 224, Setor Fiscal 162, no Bairro Jardim Satélite, Distrito de Cidade Dutra, Subprefeitura do Socorro, delimitado pelas ruas Djalma Pessolato, João Baptista Cataldo, Plínio Schmidt e divisa dos lotes particulares lindeiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14544",
+   "short": "Lei 14544/2007",
+   "title": "Lei nº 14.544, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14544-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14544",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14544-de-17-de-outubro-de-2007",
+     "sha256": "5fce887db3d5f7558f509d7759c5aabfd2e354a3fce6f87cf9ee643872efeb6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.544, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 145/07, do Vereador Carlos Giannazi - PSOL)\nDenomina Praça Clarisse Dias Leite Baptista o espaço público inominado, localizado no encontro das ruas Duartina com Descalvado, Distrito de Perdizes, Subprefeitura da Lapa.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Clarisse Dias Leite Baptista o espaço público inominado localizado no encontro das ruas Duartina com Descalvado (Setor 12 - Quadras 131 e 132), Distrito de Perdizes, Subprefeitura da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14545",
+   "short": "Lei 14545/2007",
+   "title": "Lei nº 14.545, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14545-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14545",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14545-de-17-de-outubro-de-2007",
+     "sha256": "c1ba38163ea50066a5e7fd378ce25798915440f0cc339e82d83287d2be1b566b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.545, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 151/07, do Vereador Toninho Paiva - PR)\nDenomina Praça Ulices Meirelles o espaço livre III, delimitado pelas ruas Maestro Teófilo Magalhães e Santo Anacleto, lotes particulares e faixa de transmissão de energia elétrica, situado no Distrito do Cangaíba, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Ulices Meirelles o espaço livre III, delimitado pelas ruas Maestro Teófilo Magalhães e Santo Anacleto, lotes particulares e faixa de transmissão de energia elétrica (Setor 110 - Quadra 416), situado no Distrito do Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14546",
+   "short": "Lei 14546/2007",
+   "title": "Lei nº 14.546, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14546-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14546",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14546-de-17-de-outubro-de-2007",
+     "sha256": "5b9862633e98145f90c20c256079c06dad5e88f2c0c72b66ba23505f37c11db7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.546, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 160/07, do Vereador Aurélio Nomura - PV)\nDenomina Praça Masuichi Omi o espaço livre sem denominação, delimitado pelas ruas Francisco Giuseppe Giordano e Marcos Fernandes, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Masuichi Omi o espaço livre sem denominação, delimitado pelas ruas Francisco Giuseppe Giordano e Marcos Fernandes (Setor 48 e divisa do Setor 49 - Quadra 33), no Distrito do Cursino, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14547",
+   "short": "Lei 14547/2007",
+   "title": "Lei nº 14.547, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14547-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14547",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14547-de-17-de-outubro-de-2007",
+     "sha256": "1d0f9d166f07ce00001dd6ba1e3e80965759a231eb475ed896e92d27ab395af3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.547, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 181/07, do Vereador Natalini - PSDB)\nDenomina Praça Francisco Petrone o logradouro público inominado, localizado na confluência das ruas Vieira de Morais, Henrique Fausto Lancelotti e a Avenida Washington Luís, Distrito do Campo Belo, Subprefeitura de Santo Amaro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Francisco Petrone o logradouro público inominado, situado na confluência das ruas Vieira de Morais, Henrique Fausto Lancelotti e a Avenida Washington Luís (Setor 86 - Quadra 390), Distrito do Campo Belo, Subprefeitura de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14548",
+   "short": "Lei 14548/2007",
+   "title": "Lei nº 14.548, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14548-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14548",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14548-de-17-de-outubro-de-2007",
+     "sha256": "d454a9a92a8703ef20aab3b79b118aa0afb80c8996f35b04675c4a4374f6445b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.548, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 189/07, do Vereador João Antonio - PT)\nDenomina Praça Maria José da Silva dos Santos o logradouro público situado entre a Rua Manoel de Abreu e a Rua Batista Parente, Distrito do Belém, Subprefeitura da Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria José da Silva dos Santos o logradouro público situado entre a Rua Manoel de Abreu e a Rua Batista Parente (Setor 196 - Quadra 04), no Distrito do Belém, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições com contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14549",
+   "short": "Lei 14549/2007",
+   "title": "Lei nº 14.549, de 17/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14549-de-17-de-outubro-de-2007",
+   "first_law": "lei-2007-14549",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14549-de-17-de-outubro-de-2007",
+     "sha256": "21b0a2063c87d954df4aa824907f36002b7e46f6724b26e8589f7677f04e9547",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.549, DE 17 DE OUTUBRO DE 2007\n(Projeto de Lei nº 354/07, do Vereador Domingos Dissei - DEM)\nDenomina Praça Mário Zan o espaço livre sem denominação delimitado pela Avenida Presidente Tancredo Neves, pelas ruas Abaúna, Belgrado e pela Travessa Euclydes Pinheiro, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Mário Zan o espaço livre sem denominação delimitado pela Avenida Presidente Tancredo Neves, pelas ruas Abaúna, Belgrado e pela Travessa Euclydes Pinheiro (Setor 43 - Quadras 99 e 208 (ant. 163)), no Distrito do Cursino, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 17 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 17 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14550",
+   "short": "Lei 14550/2007",
+   "title": "Lei nº 14.550, de 22/10/2007 (DENOMINA POLO CULTURAL DA 3A. IDADE JOSE LEWGOY O POLO CULTURAL DA 3A. IDADE DO CAMBUCI. (PL 97/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14550-de-22-de-outubro-de-2007",
+   "first_law": "lei-2007-14550",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14550-de-22-de-outubro-de-2007",
+     "sha256": "82f35f9cc76606186153b1b51110b4430b6ab11fe222a11daa72204efa2f0bd6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.550, DE 22 DE OUTUBRO DE 2007\n(Projeto de Lei nº 97/03, do Vereador Domingos Dissei - DEM)\nDenomina Pólo Cultural da 3ª Idade José Lewgoy o Pólo Cultural da 3ª Idade do Cambuci.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Pólo Cultural da 3ª Idade José Lewgoy o Pólo Cultural da 3ª Idade do Cambuci, situado na Rua Teixeira Mendes nº 262, no distrito do Cambuci.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14551",
+   "short": "Lei 14551/2007",
+   "title": "Lei nº 14.551, de 23/10/2007 (INSTITUI O DIA DE JERUSALEM, NO AMBITO DO MUNICIPIO DE SAO PAULO.(PL 207/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14551-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14551",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14551-de-23-de-outubro-de-2007",
+     "sha256": "c8b66910dc92b2aed63bc01cbb3c38613259efab252fa7a20168d753c7769e15",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.551 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 207/07)\n(VEREADORA LENICE LEMOS - DEM)\nInstitui o Dia de Jerusalém, no âmbito do Município de São Paulo.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° Institui, no âmbito do Município de São Paulo, o Dia de Jerusalém, a ser comemorado, anualmente, no dia 06 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° O Dia de Jerusalém poderá contar com atividades culturais e sociais voltadas à valorização da contribuição da migração e da cultura israelita para com o desenvolvimento da região de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14552",
+   "short": "Lei 14552/2007",
+   "title": "Lei nº 14.552, de 23/10/2007 (INSTITUI, NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DO BIBLIOTECARIO, E DA OUTRAS PROVIDENCIAS.(PL 219/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14552-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14552",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14552-de-23-de-outubro-de-2007",
+     "sha256": "3739312479fee6b696c1f4b6b1efe61607757667cea71a9c9d8b395be7297ba4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.552 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 219/07)\n(VEREADOR GOULART - PMDB)\nInstitui, no âmbito do Município de São Paulo, o Dia do Bibliotecário, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia do Bibliotecário, a ser comemorado, anualmente, no dia 12 de março.\nParágrafo único. A data comemorativa ora instituída passará a integrar o Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14553",
+   "short": "Lei 14553/2007",
+   "title": "Lei nº 14.553, de 23/10/2007 (INSTITUI, NO CALENDARIO OFICIAL DE DATAS E EVENTOS DA CIDADE DE SAO PAULO, O DIA DA MANICURE E DA OUTRAS PROVIDENCIAS.(PL 226/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14553-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14553",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14553-de-23-de-outubro-de-2007",
+     "sha256": "b3dfc5f3c348408978a5c1aeb8db0bf72144729b3d9dea014757b868cffbaa5b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.553 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 226/07)\n(VEREADOR PAULO FRANGE - PTB)\nInstitui, no Calendário Oficial de Datas e Eventos da Cidade de São Paulo, o Dia da Manicure e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Município de São Paulo, o Dia da Manicure, a ser comemorado, anualmente, no dia 14 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará a constar do Calendário Oficial de Datas e Eventos da Cidade de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14555",
+   "short": "Lei 14555/2007",
+   "title": "Lei nº 14.555, de 23/10/2007 (INSTITUI A SEMANA MUNICIPAL DE CIENCIA, TECNOLOGIA, INOVACAO E DESENVOLVIMENTO NO MUNICIPIO DE SAO PAULO, E DA OUTRAS PROVIDENCIAS.(PL 279/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14555-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14555",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14555-de-23-de-outubro-de-2007",
+     "sha256": "9b083f1bb063f5459f2d8a4b805325b81495e506bcf8e9dcd7391207dda2ef6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.555 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 279/07)\n(VEREADOR CARLOS NEDER - PT)\nInstitui a Semana Municipal de Ciência, Tecnologia, Inovação e Desenvolvimento no Município de São Paulo, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Municipal de Ciência, Tecnologia, Inovação e Desenvolvimento, a ser comemorada, anualmente, na 3ª semana do mês de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os objetivos da Semana são:\nI - promover atividades de divulgação da produção científica, tecnológica e de inovação nos equipamentos públicos municipais;\nII - realizar atividades educativas e de orientação profissional nestas áreas;\nIII - promover atividades de capacitação para os servidores públicos e profissionais que venham a participar da Semana;\nIV - resgatar a história da política de ciência, tecnologia e inovação no município, estado e país;\nV - divulgar dados de execução orçamentária, outras fontes de recursos e iniciativas parlamentares relacionados aos objetivos da Semana;\nVI - articular as entidades municipais, estaduais e nacionais vinculadas ao setor e entidades representativas dos professores universitários, pesquisadores científicos e demais carreiras da área para o desenvolvimento destas ações.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14556",
+   "short": "Lei 14556/2007",
+   "title": "Lei nº 14.556, de 23/10/2007 (Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir o Dia do Enólogo, a ser comemorado, anualmente, no dia 11 de novembro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14556-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14556",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14556-de-23-de-outubro-de-2007",
+     "sha256": "ad1e235405a2a4068e29f2e6aa0b56db14498eb77381272e6072240e0c701153",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.566 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 424/07 VEREADOR RUSSOMANNO - PP)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir o Dia do Enólogo, a ser comemorado, anualmente, no dia 11 de novembro.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso CCLXII, do art. 7º da Lei nº 14.485, de 19 de julho de 2007, instituindo o Dia do Enólogo, a ser comemorado no dia 11 de novembro de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14557",
+   "short": "Lei 14557/2007",
+   "title": "Lei nº 14.557, de 23/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14557-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14557",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14557-de-23-de-outubro-de-2007",
+     "sha256": "a473c3787e42f389f1f4c0ed87e12f8ba7d0fcd85ccbbb36bb257bf908d97a89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.557 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 639/06)\n(VEREADORA MYRYAM ATHIE - PDT)\nInstitui a Campanha Municipal de Combate e Conscientização da Síndrome ou Transtorno do Pânico, a ser realizada anualmente na última semana do mês de agosto, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Municipal de Combate e Conscientização da Síndrome ou Transtorno do Pânico, a ser realizada anualmente na última semana do mês de agosto.\nParágrafo único. A Semana ora instituída passará a constar do Calendário Oficial de Eventos da Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14558",
+   "short": "Lei 14558/2007",
+   "title": "Lei nº 14.558, de 23/10/2007 (INSTITUI O DIA MUNICIPAL EM MEMORIA DAS VITIMAS DE ACIDENTES E DOENCAS DO TRABALHO.(PL 282/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14558-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14558",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14558-de-23-de-outubro-de-2007",
+     "sha256": "dd21cc7f7fa4de76beb55b3c520c2cbbfdf18ad177fe9326840a968deca4d7d0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.558 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 282/07)\n(VEREADOR CARLOS NEDER - PT)\nInstitui o Dia Municipal em Memória das Vítimas de Acidentes e Doenças do Trabalho.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Município de São Paulo, o Dia Municipal em Memória das Vítimas de Acidentes e Doenças do Trabalho, a ser celebrado, anualmente, no dia 28 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14559",
+   "short": "Lei 14559/2007",
+   "title": "Lei nº 14.559, de 23/10/2007 (DISPOE SOBRE INCLUSAO, NO CALENDARIO OFICIAL DA CIDADE DE SAO PAULO, DA FEIRA DA NATIVIDADE E DA OUTRAS PROVIDENCIAS.(PL 308/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14559-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14559",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14559-de-23-de-outubro-de-2007",
+     "sha256": "e5fded635abc060fda37114343c8db45a19b9d535ccdff54236616df4c53f79c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.559 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 308/07)\n(VEREADOR JUSCELINO GADELHA - PSDB)\nDispõe sobre inclusão, no Calendário Oficial da Cidade de São Paulo, da Feira da Natividade e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída no Calendário Oficial da Cidade de São Paulo a Feira da Natividade, a ser comemorada anualmente durante o mês de dezembro.\nParágrafo único. A Feira da Natividade dará início aos festejos de Natal da Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14560",
+   "short": "Lei 14560/2007",
+   "title": "Lei nº 14.560, de 23/10/2007 (INSTITUI O DIA DO ESTAGIARIO, A SER COMEMORADO, ANUALMENTE, NO DIA 04 DE JUNHO.(PL 469/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14560-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14560",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14560-de-23-de-outubro-de-2007",
+     "sha256": "82f2224edad73fc1b45220200846c94410012fde8fdafe1a4f54ed97b60bb314",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.560 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 469/07)\n(VEREADOR DOMINGOS DISSEI - DEM)\nInstitui o Dia do Estagiário, a ser comemorado, anualmente, no dia 04 de junho.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Estagiário, a ser comemorado, anualmente no dia 04 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará a constar do Calendário Oficial da Cidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14561",
+   "short": "Lei 14561/2007",
+   "title": "Lei nº 14.561, de 23/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14561-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14561",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14561-de-23-de-outubro-de-2007",
+     "sha256": "f270d1ee3cad90b49cd7409fc2a05888d709cc10a384d02510644496aad28e50",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.561 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 523/07)\n(VEREADOR ANTONIO CARLOS RODRIGUES - PR)\nInstitui, no Calendário do Município de São Paulo, o Dia da Vila Natal, a ser comemorado no segundo sábado de junho de cada ano e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Institui, no Calendário do Município de São Paulo, o Dia da Vila Natal, a ser comemorado no segundo sábado de junho de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14562",
+   "short": "Lei 14562/2007",
+   "title": "Lei nº 14.562, de 23/10/2007 (INCLUI NO CALENDARIO OFICIAL DE EVENTOS DA CIDADE DE SAO PAULO A QUERMESSE GABRIEL COVELI, E DA OUTRAS PROVIDENCIAS.(PL 341/04))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14562-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14562",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14562-de-23-de-outubro-de-2007",
+     "sha256": "3a3f0efb1aeab72f5518e0f944b287793cb752493ae663b77d8da97b3bb98d5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.562 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 341/04)\n(VEREADOR RUBENS CALVO - PT)\nInclui no Calendário Oficial de Eventos da Cidade de São Paulo a Quermesse Gabriel Coveli, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Inclui no Calendário Oficial de Eventos da Cidade de São Paulo a Quermesse Gabriel Coveli, realizada no Parque Peruche, no mês de junho de todos os anos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo regulará a presente lei no prazo de 30 (trinta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14563",
+   "short": "Lei 14563/2007",
+   "title": "Lei nº 14.563, de 23/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14563-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14563",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14563-de-23-de-outubro-de-2007",
+     "sha256": "1083641380f054206794d352ea4437e1a619cc10571b07d0c4bad2045fe182a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.563 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 202/07)\n(VEREADOR RUBENS CALVO - PT)\nInclui no Calendário Oficial de Eventos de São Paulo o Dia do Jardim das Oliveiras, a ser comemorado todo dia 21 de abril de cada ano, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia do Jardim das Oliveiras, a ser comemorado todo dia 21 de abril de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A data comemorativa prevista no artigo anterior integrará o Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14564",
+   "short": "Lei 14564/2007",
+   "title": "Lei nº 14.564, de 23/10/2007 (INSTITUI O DIA MUNICIPAL DE SANTO ANTONIO DE SANT'ANA GALVAO - FREI GALVAO, E DA OUTRAS PROVIDENCIAS.(PL 321/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14564-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14564",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14564-de-23-de-outubro-de-2007",
+     "sha256": "cb0fdebe27ee2a91a522bc2873a8db1b436b10bc1c64e543e45013dda38c2bac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.564 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 321/07)\n(VEREADOR FARHAT - PTB)\nInstitui o Dia Municipal de Santo Antônio de Sant'Ana Galvão - Frei Galvão, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal de Santo Antônio de Sant'Ana Galvão - Frei Galvão, a ser comemorado, anualmente, no dia 11 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento ora instituído passará a constar dentre os acontecimentos e eventos culturais, religiosos, festivais e datas comemorativas, instituídos por leis ou decretos municipais, além daqueles já tradicionalmente realizados no Município, no Calendário Oficial de Datas e Eventos do Município, a que se refere a Lei nº 12.480, de 25 de setembro de 1997.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14565",
+   "short": "Lei 14565/2007",
+   "title": "Lei nº 14.565, de 23/10/2007 (Dispõe sobre a inclusão da Caminhada da Ressurreição no Calendário Oficial de Eventos da Cidade de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14565-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14565",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14565-de-23-de-outubro-de-2007",
+     "sha256": "6333b0d7e997b7fd4369964c875da73bf6150cb7816ec414da103ddc756bf794",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.565 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 344/07)\n(VEREADOR JUSCELINO GADELHA - PSDB)\nDispõe sobre a inclusão da Caminhada da Ressurreição no Calendário Oficial de Eventos da Cidade de São Paulo, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Oficial da Cidade de São Paulo, a Caminhada da Ressurreição, a ser comemorada, anualmente, no domingo seguinte à Sexta-Feira da Paixão.\nParágrafo único. Fica fixado como trajeto da Caminhada da Ressurreição o trecho compreendido entre a Basílica Nossa Senhora da Penha e a Catedral de São Miguel Arcanjo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14566",
+   "short": "Lei 14566/2007",
+   "title": "Lei nº 14.566, de 23/10/2007 (ALTERA A LEI N. 14485, DE 19 DE JULHO DE 2007, COM A FINALIDADE DE INSTITUIR O DIA DO ENOLOGO, A SER COMEMORADO, ANUALMENTE, NO DIA 11 DE NOVEMBRO.(PL 424/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14566-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14566",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14566-de-23-de-outubro-de-2007",
+     "sha256": "3195a95841bba5c411afc871843d08c48bceacd7da72fb924259e194775df28c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.566 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 424/07)\n(VEREADOR RUSSOMANNO - PP)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir o Dia do Enólogo, a ser comemorado, anualmente, no dia 11 de novembro.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso CCLXII, do art. 7º da Lei nº 14.485, de 19 de julho de 2007, instituindo o Dia do Enólogo, a ser comemorado no dia 11 de novembro de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\nfunction printar(){ document.getElementsByClassName(\"bx-ementa\")[0].style.cssFloat = \"none\"; return false; }\nPrefeitura de São Paulo\nCasa Civil do Gabinete do Prefeito\nEd. Matarazzo - Viaduto do Chá, 15\nBairro: Centro - São Paulo/SP\nCEP: 01002-020\nHospedagem e Desenvolvimento\nvar ht = new HT({ token: \"aa1f4871439ba18dabef482aae5fd934\" });\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14567",
+   "short": "Lei 14567/2007",
+   "title": "Lei nº 14.567, de 23/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14567-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14567",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14567-de-23-de-outubro-de-2007",
+     "sha256": "764864586a67e021c99ce9f3856bb22132196066398719022e15c75d4a5e8ebd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.567 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 593/07)\n(VEREADOR CARLOS ALBERTO BEZERRA JR. - PSDB)\nInclui o evento ExpoCristã no Calendário Oficial Municipal, a ser realizado no dia 12 de setembro de cada ano, no âmbito do município, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído no Calendário Oficial Municipal o evento ExpoCristã, a ser realizado no dia 12 de setembro de cada ano, na Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias, a contar de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições contrárias.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14568",
+   "short": "Lei 14568/2007",
+   "title": "Lei nº 14.568, de 23/10/2007 (INSTITUI NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DE ATENCAO AO PREMATURO, E DA OUTRAS PROVIDENCIAS.(PL 138/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14568-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14568",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14568-de-23-de-outubro-de-2007",
+     "sha256": "7cce9ffd0b2f909ecb88f8349efb98cd403ba06549292fe5c8dceb72e3b9bd9f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.568 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 138/07)\n(VEREADOR NATALINI - PSDB)\nInstitui no âmbito do Município de São Paulo, o Dia de Atenção ao Prematuro, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia de Atenção ao Prematuro, a ser realizado, anualmente, em 14 de março.\nParágrafo único. A data ora instituída passará a constar no Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14569",
+   "short": "Lei 14569/2007",
+   "title": "Lei nº 14.569, de 23/10/2007 (INSTITUI, NO AMBITO DO MUNICIPIO DE SAO PAULO, O DIA DE PREVENCAO AO CANCER DE MAMA, E DA OUTRAS PROVIDENCIAS.(PL 177/07))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14569-de-23-de-outubro-de-2007",
+   "first_law": "lei-2007-14569",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14569-de-23-de-outubro-de-2007",
+     "sha256": "0877e259e1c8e0618b99702c0e6ce9c5247f5fe5f0a5262801d5399966c4adcf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 14.569 DE 23 DE OUTUBRO DE 2007\n(PROJETO DE LEI 177/07)\n(VEREADORA MARTA COSTA - DEM)\nInstitui, no âmbito do Município de São Paulo, o Dia de Prevenção ao Câncer de Mama, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Paulo, o Dia de Prevenção ao Câncer de Mama, a ser realizado, anualmente, no 3º domingo do mês de maio.\nParágrafo único. A data ora instituída passará a constar do Calendário Oficial de Eventos do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 25 de outubro de 2007.\nO Presidente, Antonio Carlos Rodrigues.\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 25 de outubro de 2007.\nO Secretário Geral Parlamentar, Breno Gandelman.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14570",
+   "short": "Lei 14570/2007",
+   "title": "Lei nº 14.570, de 24/10/2007 (Denomina Adão Glasser Bueno a atual Estrada Municipal, localizada no Bairro Colônia - Parelheiros - Subprefeitura do Socorro, SP.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14570-de-24-de-outubro-de-2007",
+   "first_law": "lei-2007-14570",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14570-de-24-de-outubro-de-2007",
+     "sha256": "caf5611f53b83a0ee87545bb2f8e62b4b516990149c8478fe1b9182b3f038531",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.570, DE 24 DE OUTUBRO DE 2007\n(Projeto de Lei nº 918/95, do Vereador Arselino Tatto - PT)\nDenomina Adão Glasser Bueno a atual Estrada Municipal, localizada no Bairro Colônia - Parelheiros - Subprefeitura do Socorro, SP.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 25 de setembro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina Rua Adão Glasser Bueno a atual Estrada Municipal, localizada no Bairro Colônia - Parelheiros - Subprefeitura do Socorro, SP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 24 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 24 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14571",
+   "short": "Lei 14571/2007",
+   "title": "Lei nº 14.571, de 25/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14571-de-25-de-outubro-de-2007",
+   "first_law": "lei-2007-14571",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14571-de-25-de-outubro-de-2007",
+     "sha256": "aad73c9946bcc6bdb846b656dbdf5b26d3daae04d8f7e514512a1168183032ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.571, DE 25 DE OUTUBRO DE 2007\n(Projeto de Lei nº 531/07, do Vereador Domingos Dissei - DEM)\nDenomina CEI Vereador Francisco Batista o Centro de Educação Infantil localizado à Rua Antonio Monteiro nº 155, Vila Santo Estéfano, Ipiranga, São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado CEI Vereador Francisco Batista o Centro de Educação Infantil localizado à Rua Antonio Monteiro nº 155, Vila Santo Estéfano, Subdistrito do Ipiranga, Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 25 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14572",
+   "short": "Lei 14572/2007",
+   "title": "Lei nº 14.572, de 25/10/2007 (ALTERA A DENOMINACAO DA CASA DE CULTURA DA PENHA PARA CASA DE CULTURA DA PENHA - MARIO ZAN, E DA OUTRAS PROVIDENCIAS. (PL 675/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14572-de-25-de-outubro-de-2007",
+   "first_law": "lei-2007-14572",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14572-de-25-de-outubro-de-2007",
+     "sha256": "3cd1d487ee986f53a2a52193a41e9b7965378ec33f0d44106eaf62d16e8087ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.572, DE 25 DE OUTUBRO DE 2007\n(Projeto de Lei nº 675/06, do Vereador Toninho Paiva - PR)\nAltera a denominação da Casa de Cultura da Penha para Casa de Cultura da Penha - Mario Zan, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de outubro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da Casa de Cultura da Penha, localizada no Largo do Rosário, 20, 3º andar, Distrito da Penha, para Casa de Cultura da Penha - Mario Zan.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 25 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14573",
+   "short": "Lei 14573/2007",
+   "title": "Lei nº 14.573, de 25/10/2007",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14573-de-25-de-outubro-de-2007",
+   "first_law": "lei-2007-14573",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14573-de-25-de-outubro-de-2007",
+     "sha256": "bef2937795ce700747af8f873beb1f306483fbdd5f0a638542e340547ac072ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.573, DE 25 DE OUTUBRO DE 2007\n(Projeto de Lei nº 371/06, do Vereador Wadih Mutran - PP)\nInsere § 3º no art. 1º e altera a redação do art. 2º da Lei nº 11.545, de 7 de junho de 1994, com a redação dada pela Lei nº 12.511, de 4 de novembro de 1997, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 11.545, de 7 de junho de 1994, com redação dada pela Lei nº 12.511, de 4 de novembro de 1997, fica acrescido de § 3º, passando a vigorar com a seguinte redação:\n\"Art. 1º É proibido efetuar e receber ligações de aparelhos de telefonia celular e congêneres no interior dos teatros, cinemas, casas de espetáculos e bibliotecas.\n§ 1º Nos hospitais, velórios e dependências das repartições públicas municipais será permitido o uso, desde que os referidos aparelhos sejam dotados de sinal de recepção de chamada tipo \"vibratório\".\n§ 2º Os portadores de aparelhos que não sejam dotados de sinal de recepção de chamada tipo \"vibratório\" deverão mantê-los desligados quando estiverem nos locais mencionados neste artigo.\n§ 3º Fica vedada a utilização de qualquer tipo de celular nas áreas hospitalares que possuam unidade de terapia intensiva ou nas unidades de diagnóstico auxiliado por instrumentos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O art. 2º da Lei nº 11.545, de 7 de junho de 1994, com redação dada pela Lei nº 12.511, de 4 de novembro de 1997, passa a vigorar com a seguinte redação:\nArt. 2º O descumprimento do disposto no artigo anterior sujeitará o infrator ao pagamento da multa de R$ 340,00 (trezentos e quarenta reais), sem prejuízo da retirada do infrator do recinto, o que far-se-á com auxílio de força policial, se necessário.\nParágrafo único. O valor da multa será reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 25 de outubro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 25 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14574",
+   "short": "Lei 14574/2007",
+   "title": "Lei nº 14.574, de 29/10/2007 (ALTERA O ART. 1. DA LEI N. 13547, DE 31 DE MARCO DE 2003.(PL 680/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14574-de-29-de-outubro-de-2007",
+   "first_law": "lei-2007-14574",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14574-de-29-de-outubro-de-2007",
+     "sha256": "188411adcf1aa251bf212ed637f7893f07c349ada63c5733e2b91df5bc97d47d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.574, DE 29 DE OUTUBRO DE 2007\n(Projeto de Lei nº 680/03, do Vereador Paulo Frange - PTB)\nAltera o art. 1º da Lei nº 13.547, de 31 de março de 2003.\nANTONIO CARLOS RODRIGUES, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, faz saber que a Câmara Municipal, em sessão de 9 de outubro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 13.547, de 31 de março de 2003, passa a vigorar com a seguinte redação:\nArt. 1º Fica alterada para Rua Werner von Siemens a denominação da Rua Coronel Bento Bicudo (CADLOG 03215-8), no trecho com início 30 (trinta) metros antes da Rua Félix Guilhem e término na Praça Manuel da Costa Lima, no Distrito da Lapa.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2007, 454º da fundação de São Paulo.\nANTONIO CARLOS RODRIGUES Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14575",
+   "short": "Lei 14575/2007",
+   "title": "Lei nº 14.575, de 31/10/2007 (DENOMINA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL PROFESSOR GIUSEPPE TAVOLARO A ESCOLA MUNICIPAL QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS.(PL 166/06))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14575-de-31-de-outubro-de-2007",
+   "first_law": "lei-2007-14575",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14575-de-31-de-outubro-de-2007",
+     "sha256": "f9c6001679458ab93348ef39df7334487cd20c8ec98819d60785102b597514c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.575, DE 31 DE OUTUBRO DE 2007\n(Projeto de Lei nº 166/06, do Vereador Farhat - PTB)\nDenomina Escola Municipal de Ensino Fundamental Professor Giuseppe Tavolaro a Escola Municipal que especifica, e dá outras providências.\nANTONIO CARLOS RODRIGUES, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Escola Municipal de Ensino Fundamental Professor Giuseppe Tavolaro a Escola Municipal de Ensino Fundamental Fazenda da Juta A 07, localizada na Rua Alexandre Groppali, 147, Distrito de Sapopemba, Coordenadoria de Educação de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 31 de outubro de 2007, 454º da fundação de São Paulo.\nANTONIO CARLOS RODRIGUES, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nPublicada na Secretaria do Governo Municipal, em 31 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14576",
+   "short": "Lei 14576/2007",
+   "title": "Lei nº 14.576, de 31/10/2007 (DISPOE SOBRE A ALTERACAO DA DENOMINACAO DA PONTE DO LIMAO, E DA OUTRAS PROVIDENCIAS.(PL 411/03))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14576-de-31-de-outubro-de-2007",
+   "first_law": "lei-2007-14576",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14576-de-31-de-outubro-de-2007",
+     "sha256": "f20506e9c589ed93044a33f36bc0c341f184a9b6d80a836be96f040bf3af0183",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.576, DE 31 DE OUTUBRO DE 2007\n(Projeto de Lei nº 411/03, do Vereador Rubens Calvo - PT)\nDispõe sobre a alteração da denominação da Ponte do Limão, e dá outras providências.\nANTONIO CARLOS RODRIGUES, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 09 de outubro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da Ponte do Limão para Ponte do Limão - Adhemar Ferreira da Silva, localizada no Bairro do Limão - São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 31 de outubro de 2007, 454º da fundação de São Paulo.\nANTONIO CARLOS RODRIGUES, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nPublicada na Secretaria do Governo Municipal, em 31 de outubro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14577",
+   "short": "Lei 14577/2007",
+   "title": "Lei nº 14.577, de 09/10/2007 (Dispõe sobre a nova denominação do Viaduto Grande São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14577-de-5-de-novembro-de-2007",
+   "first_law": "lei-2007-14577",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14577-de-5-de-novembro-de-2007",
+     "sha256": "c076732aea7d743a7e30e0e51ef7a6a8ba2a35a29576079f4da5eb3f922f24aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.577, DE 5 DE NOVEMBRO DE 2007\n(Projeto de Lei nº 486/02, do Vereador Celso Jatene - PTB)\nDispõe sobre a nova denominação do Viaduto Grande São Paulo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de outubro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O logradouro público denominado Viaduto Grande São Paulo, que tem início na Avenida do Estado e término na Avenida Professor Luiz Ignácio de Anhaia Mello, que liga o Bairro do Ipiranga ao Bairro de Vila Prudente, passa a ser denominado Viaduto Grande São Paulo - Vereador Manoel de Oliveira Sala.\nParágrafo único. No logradouro será afixada placa denominativa com os dizeres: Viaduto Grande São Paulo - Vereador Manoel de Oliveira Sala.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de novembro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 5 de novembro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2007-14578",
+   "short": "Lei 14578/2007",
+   "title": "Lei nº 14.578, de 05/11/2007 (Denomina Travessa Valdomiro Máximo dos Santos logradouro público localizado no Jardim Janiopolis, Distrito de Cangaíba, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14578-de-5-de-novembro-de-2007",
+   "first_law": "lei-2007-14578",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14578-de-5-de-novembro-de-2007",
+     "sha256": "4c37c5030770d291c4068f0e42c04a6ff6bb1fd0c6758719c7603833ecf7ef61",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.578, DE 5 DE NOVEMBRO DE 2007\n(Projeto de Lei nº 129/04, do Vereador Toninho Paiva - PR)\nDenomina Travessa Valdomiro Máximo dos Santos logradouro público localizado no Jardim Janiopolis, Distrito de Cangaíba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 9 de outubro de 2007, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Valdomiro Máximo dos Santos o logradouro público localizado entre as ruas Crisóstomo Alvarez e Rocha Fraga, Codlog 76540-6, Setor 110 - Quadras 018 a 023, no Jardim Janiopolis, Distrito de Cangaíba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de novembro de 2007, 454º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 5 de novembro de 2007.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

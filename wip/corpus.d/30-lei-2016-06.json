@@ -1,0 +1,393 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2016",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "4 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2016-16605": {
+   "label": "Lei nº 16.605, de 28/12/2016",
+   "title": "Dispõe sobre a obrigatoriedade de disponibilização de cadeira de rodas em cemitérios localizados no Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2016-12-28",
+   "published": "2016-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16605-de-28-de-dezembro-de-2016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2016-16606": {
+   "label": "Lei nº 16.606, de 29/12/2016",
+   "title": "Acrescenta os §§ 5º, 6º, 7º, 8º e 9º ao art. 6º da Lei nº 10.205, de 4 de dezembro de 1986, que disciplina a expedição de licença de funcionamento.",
+   "kind": "law",
+   "enacted": "2016-12-29",
+   "published": "2016-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16606-de-29-de-dezembro-de-2016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2016-16607": {
+   "label": "Lei nº 16.607, de 29/12/2016",
+   "title": "Institui o Programa Ruas Abertas e altera a Lei nº 12.879, de 13 de julho de 1999, revoga a Lei nº 12.273, de 19 de dezembro de 1996, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2016-12-29",
+   "published": "2016-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16607-de-29-de-dezembro-de-2016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2016-16608": {
+   "label": "Lei nº 16.608, de 29/12/2016",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2017.",
+   "kind": "law",
+   "enacted": "2016-12-29",
+   "published": "2016-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16608-de-29-de-dezembro-de-2016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2016-16605",
+   "short": "Lei 16605/2016",
+   "title": "Lei nº 16.605, de 28/12/2016 (Dispõe sobre a obrigatoriedade de disponibilização de cadeira de rodas em cemitérios localizados no Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16605-de-28-de-dezembro-de-2016",
+   "first_law": "lei-2016-16605",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16605-de-28-de-dezembro-de-2016",
+     "sha256": "af7b67a0ca2e2db20be911afe534ed83c9475781f2b5a01874a20848f0b1c6ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.605, DE 28 DE DEZEMBRO DE 2016\n(Projeto de Lei nº 431/15, do Vereador Rodolfo Despachante - PHS)\nDispõe sobre a obrigatoriedade de disponibilização de cadeira de rodas em cemitérios localizados no Município de São Paulo, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de dezembro de 2016, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cemitérios localizados no Município de São Paulo ficam obrigados a disponibilizar no mínimo 1 (uma) cadeira de rodas não motorizada para utilização de seus usuários.\n§ 1º A cadeira de rodas deve ser mantida junto à administração ou agência funerária dos respectivos cemitérios, com fácil acesso, sempre limpa e em perfeitas condições de uso.\n§ 2º Em relação aos cemitérios públicos, a implementação do disposto nesta lei se dará de forma gradativa, visando possibilitar o cumprimento do disposto na Lei Complementar nº 101/00 - Lei de Responsabilidade Fiscal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O não cumprimento das disposições desta lei sujeitará o cemitério privado às seguintes sanções:\nI - notificação para adequação à lei;\nII - em caso de não atendimento à notificação, aplicação de multa no valor de R$ 788,00 (setecentos e oitenta e oito reais).\n§ 1º Nos casos de reincidência, aplica-se a multa em dobro, considerado o período de 1 (um) ano, contado da data da primeira infração.\n§ 2º A multa que trata o inciso II deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução dessa lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2016, 463º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2016.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-16606",
+   "short": "Lei 16606/2016",
+   "title": "Lei nº 16.606, de 29/12/2016 (Acrescenta os §§ 5º, 6º, 7º, 8º e 9º ao art. 6º da Lei nº 10.205, de 4 de dezembro de 1986, que disciplina a expedição de licença de funcionamento.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16606-de-29-de-dezembro-de-2016",
+   "first_law": "lei-2016-16606",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16606-de-29-de-dezembro-de-2016",
+     "sha256": "50d92f91ba265cf3ccf15daa95e68c59ea983a64a3fadf52c31bd4da350bfb6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.606, DE 29 DE DEZEMBRO DE 2016\n(Projeto de Lei nº 105/13, da Vereadora Patrícia Bezerra - PSDB)\nAcrescenta os §§ 5º, 6º, 7º, 8º e 9º ao art. 6º da Lei nº 10.205, de 4 de dezembro de 1986, que disciplina a expedição de licença de funcionamento.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 13 de dezembro de 2016, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 6º da Lei nº 10.205, de 4 de dezembro de 1986, passa a vigorar acrescido dos §§ 5º, 6º, 7º, 8º e 9º, com a seguinte redação:\n\"Art. 6º ......................................................\n§ 5º Sem prejuízo das penas previstas em legislação própria, os estabelecimentos do Município de São Paulo que, direta ou indiretamente, sejam responsabilizados pelas condutas que configurem redução de pessoa à condição análoga de escravo, poderão sofrer as seguintes penalidades:\nI - multa de R$ 100.000,00 (cem mil reais) a R$ 100.000.000,00 (cem milhões de reais);\nII - cassação da licença de funcionamento, no caso:\na) de não pagamento da multa prevista no inciso I;\nb) de reincidência; ou\nc) da comprovação da extrema gravidade da conduta, na forma de regulamento, respeitado o procedimento previsto no § 7º.\n§ 6º Na forma do inciso II do § 5º deste artigo, fica vedada a concessão de nova licença pelo prazo de cinco a dez anos ao estabelecimento penalizado.\n§ 7º A aplicação do disposto no § 5º deste artigo será precedida de procedimento administrativo, garantidos a ampla defesa e o contraditório.\n§ 8º A abertura do procedimento administrativo de que trata o § 7º ocorrerá pela ciência:\na) de decisões judiciais, decorrentes do trânsito em julgado ou proferidas por órgão colegiado; ou\nb) de decisões administrativas, das quais não caiba recurso, de quaisquer dos órgãos da Administração Pública, acompanhadas de parecer favorável da Comissão Municipal de Erradicação do Trabalho Escravo - COMTRAE, na forma do regulamento.\n§ 9º O procedimento administrativo de cassação de licença de que trata o inciso II do § 5º também poderá ser aberto no caso de decisão judicial condenatória de sócio administrador, sócio majoritário ou de responsável legal pelo estabelecimento, transitada em julgado ou proferida por órgão colegiado, pelo crime previsto no art. 149 do Código Penal.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente lei entra em vigor na data da sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2016, 463º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2016.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-16607",
+   "short": "Lei 16607/2016",
+   "title": "Lei nº 16.607, de 29/12/2016 (Institui o Programa Ruas Abertas e altera a Lei nº 12.879, de 13 de julho de 1999, revoga a Lei nº 12.273, de 19 de dezembro de 1996, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16607-de-29-de-dezembro-de-2016",
+   "first_law": "lei-2016-16607",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16607-de-29-de-dezembro-de-2016",
+     "sha256": "c26e4b84f678b3ee59326fb5066a1bbf45aa42cb767d6b3fdf074c49c0a6bc29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.607, DE 29 DE DEZEMBRO DE 2016\n(Projeto de Lei nº 594/13, dos Vereadores Nabil Bonduki - PT e Juliana Cardoso - PT)\nInstitui o Programa Ruas Abertas e altera a Lei nº 12.879, de 13 de julho de 1999, revoga a Lei nº 12.273, de 19 de dezembro de 1996, e dá outras providências.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de dezembro de 2016, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei institui o Programa Ruas Abertas no âmbito do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa Ruas Abertas consiste na destinação temporária ou permanente de trechos de vias públicas, praças e largos para atividades de lazer, esporte, cultura e engloba três modalidades: Ruas de Cultura e Lazer, Ruas 24 Horas e Vagas Vivas.\n§ 1º Para efeito desta lei, Ruas de Cultura e Lazer são as que funcionam aos domingos e feriados, no horário compreendido entre 10 (dez) e 16 (dezesseis) horas.\n§ 2º Ruas 24 Horas são as que têm permissão para funcionamento ininterrupto de diversas atividades, inclusive aos sábados, domingos e feriados, desde que as edificações em torno da via sejam predominantemente comerciais.\n§ 3º Entende-se por Vagas Vivas a extensão dos passeios sobre as vias ou logradouros públicos a fim de promover uma ampliação dos espaços de fruição pública que propiciem lazer, convivência e recreação para a população, que atualmente são denominados \"parklets\".\n§ 4º Trechos de vias, praças e largos que integram o Programa Ruas Abertas são definidos pelo Executivo, inclusive a requerimento dos respectivos moradores do entorno desses locais.\n§ 5º As disposições da Lei nº 15.777, de 29 de maio de 2013, aplicam-se durante o funcionamento das Ruas de Cultura e Lazer, estando assim proibida a emissão de ruídos sonoros provenientes de aparelhos de som instalados em veículos automotores estacionados.\n§ 6º Nos períodos de funcionamento das Ruas de Cultura e Lazer e das Ruas 24 Horas, fica proibido o trânsito de veículos no local, exceto daqueles pertencentes aos moradores dos lotes vizinhos à área delimitada.\n§ 7º Será obrigatório o uso dos materiais fornecidos pela Prefeitura para o bloqueio da via nos dias de funcionamento da Rua de Cultura e Lazer.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo poderá implantar Vagas Vivas sobre os espaços reservados para estacionamentos nas vias e logradouros públicos que tenham velocidade máxima de 40 km/h e que não apresentem trânsito intenso de veículos automotores.\n§ 1º Os proprietários de estabelecimentos comerciais localizados em vias e logradouros que atendam ao disposto no \"caput\" poderão solicitar a implantação de Vaga Viva na frente do respectivo imóvel, nos termos definidos pela regulamentação desta lei.\n§ 2º Os estabelecimentos lindeiros ao local onde as Vagas Vivas forem criadas não poderão utilizá-las com finalidades comerciais privadas, sob pena de multa no valor de R$ 5.000,00 (cinco mil reais) na primeira ocorrência e o dobro do valor na recorrência.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete à Companhia de Engenharia de Tráfego (CET), à Secretaria Municipal de Desenvolvimento Urbano (SMDU) e às Subprefeituras avaliar os locais onde serão implantadas as Vagas Vivas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Nas Ruas 24 Horas podem ser permitidas as seguintes atividades:\nI - comerciais e de serviços instaladas nas edificações lindeiras;\nII - físico-esportivas;\nIII - de lazer e recreação;\nIV - culturais.\n§ 1º As atividades elencadas nos incisos II, III e IV do \"caput\" deste artigo podem ser desenvolvidas por tempo determinado, preferencialmente das 22 (vinte e duas) horas até as 5 (cinco) horas.\n§ 2º As disposições da Lei nº 15.777, de 29 de maio de 2013, aplicam-se durante o funcionamento das Ruas 24 Horas, estando assim proibida a emissão de ruídos sonoros provenientes de aparelhos de som instalados em veículos automotores estacionados.\n§ 3º Poderá ser constituído, por iniciativa dos munícipes, um Conselho da Rua 24 Horas, de caráter voluntário, composto por, no mínimo, 3 (três) usuários e comerciantes do trecho da via onde se pretende instalar as atividades.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Caberá ao Executivo desenvolver, de forma participativa, projetos urbanísticos de ambientação local de cada Rua 24 Horas, bem como instalar sinalização de trânsito adequada, nos quais deverão estar previstos os bloqueios da via, iluminação adequada às atividades noturnas, readequação do passeio quando necessário e instalação de sanitários públicos móveis.\n§ 1º A implantação de Ruas 24 Horas pode prever para cada trecho definido, em função das características locais, o funcionamento contínuo ou em determinados períodos do ano.\n§ 2º Todas as Subprefeituras do Município podem indicar pelo menos 1 (uma) área de Rua 24 Horas em qualquer local de sua respectiva circunscrição administrativa.\n§ 3º Para garantir o acesso da população às Ruas 24 Horas, devem ser disponibilizadas linhas de ônibus especiais com intervalos regulares e frequentes.\n§ 4º Toda Rua 24 Horas deve estar protegida diuturnamente por integrantes dos órgãos de segurança pública, inclusive a Guarda Civil Metropolitana, como forma de resguardar a segurança dos cidadãos e o desenvolvimento das atividades ali desenvolvidas.\n§ 5º Todas as Subprefeituras devem indicar, no mínimo, uma Rua de Cultura e Lazer em quaisquer locais de sua respectiva circunscrição.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As Ruas de Cultura e Lazer e as Ruas 24 Horas podem ser ativadas ou desativadas a qualquer tempo, atendendo ao interesse do Poder Público ou a pedido dos moradores e comerciantes do trecho da via pública onde se pretende instalar as atividades, sempre que tal pedido seja considerado pelo Poder Público como devidamente justificado e de caráter relevante.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Executivo regulamentará esta lei nos aspectos administrativos e operacionais no prazo de 90 (noventa) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 12.273, de 19 de dezembro de 1996.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2016, 463º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-16608",
+   "short": "Lei 16608/2016",
+   "title": "Lei nº 16.608, de 29/12/2016 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2017.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16608-de-29-de-dezembro-de-2016",
+   "first_law": "lei-2016-16608",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16608-de-29-de-dezembro-de-2016",
+     "sha256": "54991675bfb546ef0bbbeee2c292ce9ffc67b399bcc5b29429bab864a026ad01",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.608, DE 29 DE DEZEMBRO DE 2016\n(Projeto de Lei nº 509/16, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2017.\nFERNANDO HADDAD, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2016, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2017, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta;\nII - o Orçamento de Investimentos das Empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2017.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º O Orçamento Fiscal dos Poderes do Município, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta, para o exercício de 2017, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 54.694.563.143,00 (cinquenta e quatro bilhões, seiscentos e noventa e quatro milhões, quinhentos e sessenta e três mil e cento e quarenta e três reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A receita total do Orçamento Fiscal, a ser realizada de acordo com a legislação em vigor, está orçada segundo as seguintes estimativas:\nValor (em R$)\nRECEITAS CORRENTES 49.839.465.592\nReceita Tributária 24.989.700.193\nReceita de Contribuições 1.829.267.988\nReceita Patrimonial 1.014.379.582\nReceita de Serviços 599.810.998\nTransferências Correntes 16.593.886.173\nOutras Receitas Correntes 4.819.930.698\nRecursos Arrecadados em Exercícios Anteriores (RAEA) 100.000.000\nReceitas de Contribuições Intraorçamentárias 1.958.859.447\nReceita Patrimonial Intraorçamentária 647.600\nReceita de Serviços Intra orçamentária 23.595.866\nOutras Receitas Correntes Intraorçamentária 1.000.000\nDeduções de Transferências Correntes (2.019.615.164)\nDeduções de Outras Receitas Correntes (71.997.789)\nRECEITAS DE CAPITAL 4.855.097.551\nOperações de Crédito 108.208.003\nAlienação de Bens 906.351.569\nAmortização de Empréstimo 23.388.741\nTransferências de Capital 2.687.426.370\nOutras Receitas de Capital 1.129.722.868\nTOTAL DA RECEITA 54 694.563.143\n"
+      },
+      "art-0004": {
+       "label": "Art.4º",
+       "kind": "article",
+       "text": "Art.4º A despesa do Orçamento Fiscal está fixado com a seguinte distribuição institucional:\nÓrgão/Descrição Valor (em R$ )\nPODER LEGISLATIVO/ADMINISTRAÇÃO DIRETA\n09 Câmara Municipal de São Paulo.........................................................620.597.000\n10 Tribunal de Contas do Município de São Paulo..........................................310.950.415\n76 Fundo Especial de Despesas da Câmara Municipal de São Paulo.............................6.314.000\n77 Fundo Especial de Despesas do Tribunal de Contas........................................3.310.000\nPODER EXECUTIVO/ADMINISTRAÇÃO DIRETA\n08 Fundo Municipal do Idoso 2.000\n11 Secretaria do Governo Municipal.......................................................346.644.642\n12 Secretaria Municipal de Coordenação das Subprefeituras................................532.092.899\n13 Secretaria Municipal de Gestão........................................................223.758.535\n14 Secretaria Municipal de Habitação.....................................................746.585.435\n16 Secretaria Municipal de Educação...................................................10.985.422.304\n17 Secretaria Municipal de Finanças e Desenvolvimento Econômico..........................459.415.722\n19 Secretaria Municipal de Esportes, Lazer e Recreação...................................276.888.185\n20 Secretaria Municipal de Transportes.................................................2.655.239.705\n21 Procuradoria Geral do Município.......................................................271.624.986\n22 Secretaria Municipal de Infra-Estrutura Urbana e Obras..............................1.132.027.357\n23 Secretaria Municipal de Serviços.......................................................53.541.219\n24 Secretaria Municipal de Assistência e Desenvolvimento Social..........................149.571.066\n25 Secretaria Municipal de Cultura.......................................................518.728.834\n27 Secretaria Municipal do Verde e do Meio Ambiente......................................216.238.518\n28 Encargos Gerais do Município........................................................7.847.081.119\n30 Secretaria Municipal do Desenvolvimento Trabalho e Empreendedorismo...................151.644.713\n31 Secretaria Municipal de Relações Internacionais e Federativas...........................7.056.711\n32 Controladoria Geral do Município de São Paulo..........................................34.463.881\n34 Secretaria Municipal de Direitos Humanos e Cidadania...................................58.930.350\n35 Fundo Municipal de Defesa do Consumidor....................................................70.000\n36 Secretaria Municipal da Pessoa com Deficiência e Mobilidade Reduzida...................19.800.531\n37 Secretaria Municipal de Desenvolvimento Urbano......................................1.059.906.534\n38 Secretaria Municipal de Segurança Urbana..............................................545.881.586\n39 Secretaria Municipal de Promoção da Igualdade Racial...................................16.019.405\n40 Secretaria Municipal de Relações Governamentais........................................30.476.957\n41 Subprefeitura Perus....................................................................29.539.197\n42 Subprefeitura Pirituba/Jaraguá.........................................................38.083.614\n43 Subprefeitura Freguesia/Brasilândia....................................................40.211.681\n44 Subprefeitura Casa Verde/Cachoeirinha..................................................28.954.310\n45 Subprefeitura Santana/Tucuruvi.........................................................36.376.353\n46 Subprefeitura Jaçanã/Tremembé..........................................................32.126.717\n47 Subprefeitura Vila Maria/Vila Guilherme................................................32.365.128\n48 Subprefeitura Lapa.....................................................................42.720.074\n49 Subprefeitura Sé.......................................................................76.191.260\n50 Subprefeitura Butantã..................................................................52.309.444\n51 Subprefeitura Pinheiros................................................................41.779.896\n52 Subprefeitura Vila Mariana.............................................................38.736.779\n53 Subprefeitura Ipiranga.................................................................53.861.216\n54 Subprefeitura Santo Amaro..............................................................41.666.510\n55 Subprefeitura Jabaquara................................................................32.031.936\n56 Subprefeitura Cidade Ademar............................................................41.221.795\n57 Subprefeitura Campo Limpo..............................................................60.068.004\n58 Subprefeitura M´Boi Mirim..............................................................46.500.857\n59 Subprefeitura Capela do Socorro........................................................52.088.327\n60 Subprefeitura Parelheiros..............................................................31.663.662\n61 Subprefeitura Penha....................................................................48.459.034\n62 Subprefeitura Ermelino Matarazzo.......................................................32.618.121\n63 Subprefeitura São Miguel...............................................................46.039.298\n64 Subprefeitura do Itaim Paulista........................................................39.962.888\n65 Subprefeitura Mooca....................................................................46.677.965\n66 Subprefeitura Aricanduva/Formosa/Carrão................................................38.088.221\n67 Subprefeitura Itaquera.................................................................51.940.384\n68 Subprefeitura Guaianases...............................................................40.589.873\n69 Subprefeitura Vila Prudente............................................................32.220.297\n70 Subprefeitura São Mateus...............................................................58.644.672\n71 Subprefeitura Cidade Tiradentes........................................................31.195.509\n72 Subprefeitura de Sapopemba.............................................................25.989.378\n74 Secretaria Municipal de Comunicação e Informação Social................................19.760.499\n75 Fundo Municipal de Parques..................................................................2.000\n78 Secretaria Municipal de Licenciamento..................................................75.905.905\n79 Secretaria Municipal de Políticas para as Mulheres.....................................35.084.524\n84 Fundo Municipal de Saúde............................................................8.052.053.545\n86 Fundo Municipal de Saneamento Ambiental e Infraestrutura..............................390.264.000\n87 Fundo Municipal de Desenvolvimento de Trânsito......................................1.160.552.000\n88 Fundo de Preservação do Patrimônio Histórico e Cultural...................................463.480\n89 Fundo Municipal de Esportes, Lazer e Recreação..........................................4.200.000\n90 Fundo Municipal dos Direitos da Criança e do Adolescente..............................110.865.507\n93 Fundo Municipal de Assistência Social...............................................1.155.854.616\n94 Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável..........................24.700.000\n95 Fundo Especial de Promoção de Atividades Culturais........................................920.000\n96 Fundo Municipal de Turismo..................................................................1.000\n97 Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano.........................2.330.000\n98 Fundo de Desenvolvimento Urbano.......................................................264.973.455\n99 Fundo Municipal de Iluminação Pública.................................................472.689.644\nPODER EXECUTIVO/ADMINISTRAÇÃO INDIRETA\n01 Autarquia Hospitalar Municipal......................................................1.548.754.485\n02 Hospital do Servidor Público Municipal................................................308.848.595\n03 Instituto de Previdência Municipal de São Paulo.....................................7.913.187.195\n04 Serviço Funerário do Município de São Paulo...........................................179.336.860\n80 Fundação Paulistana de Educação e Tecnologia...........................................39.778.081\n81 Autoridade Mun. de Limp. Urbana/Fundo Mun. de Limp. Urbana..........................1.998.261.657\n83 Companhia Metropolitana de Habitação de São Paulo.....................................156.014.682\n85 Fundação Theatro Municipal de São Paulo...............................................123.175.014\n91 Fundo Municipal de Habitação...........................................................35.379.390\nTOTAL.................................................................................54.694.563.143\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º A despesa total das empresas, nela incluída a de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2017, está fixada em R$ 5.563.293.320 (cinco bilhões, quinhentos e sessenta e três milhões, duzentos e noventa e três mil e trezentos e vinte reais), com a seguinte distribuição:\nEmpresas Valor (R$)\nCompanhia de Engenharia de Tráfego.....................................................1.360.675.000\nCia. São Paulo de Desenvolvimento e Mobilização de Ativos - SPDA..........................31.299.495\nSão Paulo Negócios - SP Negócios..........................................................11.801.500\nEmpresa de Tecnol. da Informação e Comunicação - PRODAM..................................362.638.294\nSão Paulo Urbanismo - SP Urbanismo........................................................40.644.947\nSão Paulo Obras - SP Obras................................................................51.758.388\nSão Paulo Transporte S/A - SPTrans.....................................................2.308.302.344\nSão Paulo Turismo S/A - SPTuris..........................................................249.707.326\nCia. Paulistana de Securitização - SP Securitização....................................1.103.707.596\nEmpresa de Cinema e Audiovisual de São Paulo - SP Cine....................................42.758.430\nTotal..................................................................................5.563.293.320\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º Fica o Executivo autorizado a contratar operações de crédito no País e no Exterior, expressamente previstas em lei aprovada pelo Legislativo Municipal, observado o disposto na Constituição Federal, nas resoluções do Senado Federal que disciplinam o endividamento dos Municípios, na Lei Orgânica do Município de São Paulo e nas leis autorizativas das operações de crédito.\n§ 1º As taxas de juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações e das eventuais repactuações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas aplicáveis à matéria, inclusive as operações de crédito previstas na Lei nº 15.390, de 5 de julho de 2011, alterada pela Lei nº 15.687, de 27 de março de 2013.\n§ 2º Os orçamentos do Município consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas à amortização, juros e demais encargos decorrentes das operações de crédito autorizadas nos termos do \"caput\" deste artigo.\n§ 3º Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Município, ficando a Secretaria Municipal de Finanças e Desenvolvimento Econômico autorizada a adotar as providências que se façam necessárias.\n§ 4º Os prazos de carência e amortização poderão ser contratualmente repactuados perante a instituição financeira por iniciativa do Poder Executivo Municipal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para assegurar o pagamento integral de operações de crédito contratadas com a Caixa Econômica Federal - CEF, Banco do Brasil - BB e com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, fica o Executivo autorizado a ceder ou dar em garantia, por qualquer forma em direito admitida, os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Município na arrecadação da União, bem como das suas receitas próprias, na forma do disposto, respectivamente, no art. 159, inciso I, alíneas \"b\" e \"d\", e no art. 158, ambos da Constituição Federal.\nParágrafo único. A cessão ou constituição de garantia em favor da CEF, do BB e do BNDES deverá atender às condições usualmente praticadas por aquelas instituições financeiras, incluindo, dentre outras, as seguintes prescrições:\nI - caráter irrevogável e irretratável;\nII - cessão dos direitos e créditos a título \"pro solvendo\", ficando a quitação condicionada ao efetivo recebimento dos valores cedidos pelo credor;\nIII - sub-rogação automática da vinculação em garantia ou da cessão sobre os direitos e créditos que venham a substituir os impostos previstos no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, no caso de sua extinção, assim como em relação aos novos fundos que sejam criados em substituição;\nIV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos dados em garantia, até o montante necessário ao pagamento integral das parcelas da dívida vencidas e não pagas, incluindo os respectivos acessórios, no caso de inadimplemento do Município;\nV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos que tenham sido objeto de cessão, na data de vencimento das parcelas da dívida de responsabilidade do Município, até o limite do valor devido, incluindo os respectivos acessórios.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As operações de crédito externas com instituições financeiras internacionais, dentre elas o Banco Interamericano de Desenvolvimento - BID e o Banco Mundial, serão garantidas pela União Federal.\n§ 1º Para obter as garantias da União, visando às contratações de operações de crédito externas, fica o Executivo autorizado a prestar contragarantias ao Tesouro Nacional.\n§ 2º As contragarantias de que trata o § 1º deste artigo compreendem a cessão de:\nI - direitos e créditos relativos a cotas ou parcelas da participação do Município na arrecadação da União, na forma do disposto no art. 159, inciso I, alíneas \"b\" e \"d\", da Constituição Federal, ou resultantes de tais cotas ou parcelas transferíveis de acordo com os preceitos da Constituição Federal;\nII - receitas próprias do Município previstas no art. 158 da Constituição Federal, nos termos do § 4º de seu art. 167.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Nos termos do disposto no inciso III do § 1º do art. 8º da Medida Provisória nº 2185-35, de 24 de agosto de 2001, na redação conferida pela Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\nParágrafo único. O Executivo poderá oferecer garantias para consecução do disposto no \"caput\" deste artigo, aplicando-se, no que couber, o disposto no art. 7º desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Poder Executivo autorizado a firmar com a União Programa de Acompanhamento Fiscal, sob a gestão do Ministério da Fazenda, previsto no art. 5º da Lei Complementar nº 148, de 25 de novembro de 2014, com as alterações introduzidas pela Lei Complementar nº 151, de 5 de agosto de 2015, assumir os compromissos previstos no seu § 1º e adotar as medidas necessárias à implementação do Programa.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Autorização para Abertura de Créditos Adicionais Suplementares\nArt. 11. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares por decreto, devidamente justificados, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, para a Administração Direta, Indireta e seus Fundos Especiais, até o limite de 10% (dez por cento) do total da despesa fixada no art. 2º desta lei, criando, se necessário, elementos de despesa e fontes de recurso dentro de cada projeto, atividade ou operação especial.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Ficam excluídos do limite estabelecido no art. 11 desta lei os créditos adicionais suplementares:\nI - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinados a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nIV - destinados a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal nº 4.320, de 1964;\nV - destinados a suprir insuficiências nas dotações das funções Educação, Assistência Social, Saúde, Habitação e Saneamento;\nVI - com remanejamento de recursos entre órgãos da Administração Direta e Indireta;\nVII - abertos com recursos de operações de crédito autorizadas e/ou contratadas durante o exercício;\nVIII - abertos com recursos provenientes de emendas parlamentares estaduais ou federais;\nIX - abertos com recursos provenientes do Orçamento do Estado de São Paulo para cobertura de quaisquer despesas, em especial na área de mananciais.\nParágrafo único. Os recursos destinados ao pagamento do grupo de natureza de despesa de pessoal poderão ser remanejados para outras despesas, desde que, comprovadamente, os eventos que subsidiaram a previsão da despesa de pessoal não se concretizem.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a remanejar recursos entre despesas de mesmo grupo alocadas em atividades, projetos e operações especiais de um mesmo programa, sem onerar o limite estabelecido no art. 11 desta lei.\nParágrafo único. Fica a critério do Poder Executivo autorizar a abertura de créditos adicionais suplementares, mediante portaria dos respectivos Titulares dos Órgãos, exclusivamente para os casos em que o elemento de despesa a ser suplementado ou anulado seja da mesma atividade, modalidade de aplicação e fonte, com a devida justificativa.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares à conta de excesso de arrecadação ou superávit financeiro de receitas específicas e vinculadas a determinada finalidade, nos termos do art. 43 da Lei Federal nº 4.320, de 1964, e do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Ficam a Mesa da Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizados a suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 11 desta lei, as dotações dos respectivos Órgãos, desde que os recursos sejam provenientes de anulação total ou parcial de suas dotações orçamentárias, conforme estabelece o inciso II do art. 27 da Lei Orgânica do Município de São Paulo, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto ou atividade.\nParágrafo único. Ficam a Mesa da Câmara Municipal de São Paulo e o Tribunal de Contas do Município de São Paulo também autorizados a suplementar, mediante ato próprio, sem onerar o limite estabelecido no art. 11 desta lei, as dotações dos respectivos Fundos Especiais, desde que os recursos sejam provenientes de excesso de arrecadação ou de superávit financeiro desses Fundos, nos termos do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Ficam as entidades da Administração Indireta autorizadas, por ato próprio, a abrir créditos adicionais suplementares em suas dotações, respeitado o limite estabelecido no art. 11 desta lei, calculado sobre o valor consignado, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elementos de despesa e fontes de recursos dentro de cada projeto, atividade ou operação especial.\n§ 1º Aplicam-se, no que couber, a cada entidade, as disposições previstas nos arts. 12 e 13 desta lei.\n§ 2º Os pedidos de adequação orçamentária a que se refere o \"caput\" deste artigo deverão ser analisados pelas Secretarias às quais estejam vinculadas e ratificados pela Secretaria Municipal de Finanças e Desenvolvimento Econômico.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 17. Para efeito do disposto no art. 9º da Lei Complementar Federal nº 101, de 2000, e art. 36 da Lei nº 16.529, de 26 de julho de 2016, serão preservadas, prioritariamente, as dotações das áreas de Educação, Saúde, Habitação, Transporte e Assistência Social.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Os compromissos assumidos pelas unidades deverão se limitar aos recursos orçamentários disponibilizados, em especial àqueles de natureza continuada.\nParágrafo único. Eventuais despesas realizadas sem a devida cobertura orçamentária deverão ser objeto de apuração de responsabilidade.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os órgãos responsáveis por entidades da Administração Indireta deverão acompanhar efetivamente as respectivas atividades e, em especial, coordenar o uso dos recursos autorizados nesta lei.\nParágrafo único. As entidades da Administração Indireta, incluindo as fundações, as empresas públicas e as sociedades de economia mista, publicarão, no respectivo sítio na internet, em até 30 (trinta) dias, as receitas e despesas do mês anterior de forma detalhada.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Para cumprir o Programa de Trabalho estabelecido nesta lei, os órgãos orçamentários da Administração Direta e Indireta poderão delegar competência entre si por meio de Nota de Transferência.\n§ 1º A unidade cedente permanecerá responsável pelo mérito do Programa de Trabalho e a unidade executora pela respectiva execução orçamentária, com base nas normas de licitação em vigor.\n§ 2º A transferência financeira na modalidade de aplicação 91 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes do Orçamento Fiscal, também poderá ser utilizada, mediante despacho decisório do titular do órgão cedente, declarando expressamente a delegação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Durante a execução orçamentária, mediante controle interno, deverão ser identificados e avaliados os componentes de custos das ações, para dimensionar se os recursos orçamentários disponíveis comportarão eventual expansão ou geração de novas despesas.\n§ 1º Sempre que cabível deverá ser verificada a possibilidade de financiamento por outras fontes em complemento aos recursos do Tesouro Municipal.\n§ 2º O recurso correspondente às outras fontes que não as do Tesouro Municipal deverá ser aplicado plenamente, com o acompanhamento e orientação das áreas centrais de orçamento, de finanças e dos negócios jurídicos, quando necessário, minimizando-se eventuais restituições.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Fica o Poder Executivo autorizado a aplicar no subsídio do Transporte Público Coletivo os recursos oriundos de economia com a redução e renegociação de contratos originalmente orçados, sem onerar o limite estabelecido no art. 11 desta lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. (VETADO)\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Os recursos advindos da premiação do \"Bloomberg Philanthropies' 2016 Mayors for Latin American and Caribbean Cities\" terão sua utilização acompanhada pelo Conselho Municipal de Desenvolvimento Rural Solidário e Sustentável como instância de controle social e comporão os balanços contábeis da Prefeitura do Município de São Paulo e de suas autarquias, empresas, fundações e demais organizações envolvidas em sua implementação.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. (VETADO)\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Esta lei entrará em vigor em 1º de janeiro de 2017.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2016, 463º da fundação de São Paulo.\nFERNANDO HADDAD, PREFEITO\nFRANCISCO MACENA DA SILVA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 2016.\nANEXO DA LEI N° 16.608 DE 29 DEZEMBRO DE 2016\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

@@ -1,0 +1,2768 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2009-14987": {
+   "label": "Lei nº 14.987, de 29/09/2009",
+   "title": "Institui o Programa de Acolhimento na Rede Municipal de Saúde.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14987-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14988": {
+   "label": "Lei nº 14.988, de 29/09/2009",
+   "title": "Dispõe sobre a relação das patologias e diagnósticos que autorizam a isenção de pagamento de tarifa nos veículos integrantes do Sistema de Transporte Coletivo Urbano de Passageiros na Cidade de São Paulo, prevista na Lei nº 11.250, de 1º de outubro de 1992.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14988-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14989": {
+   "label": "Lei nº 14.989, de 29/09/2009",
+   "title": "Denomina Travessa Lionina Maria da Silva o logradouro público inominado, situado entre as ruas Teiú e Caetetu, Distrito de Itaquera, Subprefeitura Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14989-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14990": {
+   "label": "Lei nº 14.990, de 29/09/2009",
+   "title": "DISPOE SOBRE A AFERICAO E DIVULGACAO, POR SUBPREFEITURA, DOS INDICADORES DE DESEMPENHO RELATIVOS A QUALIDADE DOS SERVICOS PUBLICOS NO MUNICIPIO DE SAO PAULO DE QUE TRATA A LEI N. 14173, DE 26 DE JUNHO DE 2006. (PL 244/08)",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14990-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14991": {
+   "label": "Lei nº 14.991, de 29/09/2009",
+   "title": "Denomina Travessa Odair Alves da Silveira a viela sem denominação que começa na Rua Aldeia Paracanti, altura do nº 219, e termina aproximadamente 55 metros além do seu início em divisa de lotes, Distrito da Penha, Subprefeitura da Penha, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14991-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14992": {
+   "label": "Lei nº 14.992, de 29/09/2009",
+   "title": "Denomina Praça Professor Aparecido Rodrigues Marques o espaço livre sem denominação, localizado na altura do nº 4650 da Avenida Celso Garcia, no Distrito do Tatuapé, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14992-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14993": {
+   "label": "Lei nº 14.993, de 29/09/2009",
+   "title": "Denomina Espaço Cívico Comendador Yerchanik Kissajikian a área livre localizada entre a Avenida Tiradentes e a Avenida Santos Dumont, na extremidade da superfície do metrô Armênia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-09-29",
+   "published": "2009-09-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14993-de-29-de-setembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14994": {
+   "label": "Lei nº 14.994, de 01/10/2009",
+   "title": "Revoga a Lei nº 14.806, de 4 de julho de 2008, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-01",
+   "published": "2009-10-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14994-de-1-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14995": {
+   "label": "Lei nº 14.995, de 02/10/2009",
+   "title": "Inclui no Calendário de Eventos da Cidade de São Paulo o Dia do Bairro de Vila Zelina, a ser comemorado anualmente no dia 27 de outubro.",
+   "kind": "law",
+   "enacted": "2009-10-02",
+   "published": "2009-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14995-de-02-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14996": {
+   "label": "Lei nº 14.996, de 02/10/2009",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir a Semana Municipal do Meio Ambiente, a ser comemorada na primeira semana de junho.",
+   "kind": "law",
+   "enacted": "2009-10-02",
+   "published": "2009-10-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14996-de-02-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14997": {
+   "label": "Lei nº 14.997, de 19/10/2009",
+   "title": "Dispõe sobre a alteração da denominação da Rua Cornucópia, que se localiza no Jardim Cidade Pirituba e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-19",
+   "published": "2009-10-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14997-de-19-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14998": {
+   "label": "Lei nº 14.998, de 20/10/2009",
+   "title": "Dispõe sobre a divulgação da frase SE BEBER, NÃO DIRIJA em cardápios de bares, restaurantes e casas de eventos na Cidade de São Paulo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-20",
+   "published": "2009-10-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14998-de-20-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-14999": {
+   "label": "Lei nº 14.999, de 20/10/2009",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Municipal de Incentivo e Orientação ao Estudo e à Leitura, a ser realizada, anualmente, na segunda semana de abril e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-20",
+   "published": "2009-10-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14999-de-20-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15000": {
+   "label": "Lei nº 15.000, de 20/10/2009",
+   "title": "Dispõe sobre a obrigatoriedade de acomodação, em espaço único, específico e de destaque, de produtos alimentícios recomendados para pessoas com diabetes, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-20",
+   "published": "2009-10-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15000-de-20-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15001": {
+   "label": "Lei nº 15.001, de 22/10/2009",
+   "title": "Confere nova redação ao § 1º do art. 12 e ao § 1° do art. 23, ambos da Lei n° 14.712, de 4 de abril de 2008, bem como aos arts. 2° e 4° da Lei n° 14.715, de 8 de abril de 2008.",
+   "kind": "law",
+   "enacted": "2009-10-22",
+   "published": "2009-10-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15001-de-22-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15004": {
+   "label": "Lei nº 15.004, de 26/10/2009",
+   "title": "ALTERA DISPOSITIVOS DA LEI N. 14165, DE 5 DE JUNHO DE 2006, QUE DISPOE SOBRE A DESAFETACAO DE AREA MUNICIPAL, SITUADA NA AVENIDA PADRE JOSE MARIA, DISTRITO DE SANTO AMARO, E AUTORIZA SUA DOACAO A UNIVERSIDADE FEDERAL DE SAO PAULO - ESCOLA PAULISTA DE MEDICINA. (PL 148/09)",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15004-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15005": {
+   "label": "Lei nº 15.005, de 26/10/2009",
+   "title": "Denomina Praça Coronel Hilton Bergmann o espaço livre sem denominação delimitado pelas avenidas Miguel Yunes e Nossa Senhora do Sabará, Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15005-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15006": {
+   "label": "Lei nº 15.006, de 26/10/2009",
+   "title": "ALTERA A DENOMINACAO DA RUA CINE FAVELA PARA RUA SANTA ANGELA DE MERICI, ALTERANDO ASSIM O ART. 2, INCISO 14 DO DECRETO N 48095, DE 12 DE JANEIRO DE 2007 (PL 23/08)",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15006-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15007": {
+   "label": "Lei nº 15.007, de 26/10/2009",
+   "title": "Denomina Praça Mário dos Santos Matias a praça inominada localizada entre a Avenida Marechal Tito e a Avenida Tarcísio Mendes de Lima e a Rua José Cardoso Pimentel, no Bairro Itaim Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15007-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15008": {
+   "label": "Lei nº 15.008, de 26/10/2009",
+   "title": "Denomina Passarela Valentim dos Santos Diniz a passagem elevada para pedestres que interliga a Avenida Aratãs sobre a Avenida Moreira Guimarães, nos Distritos de Moema e Saúde, Subprefeitura de Vila Mariana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15008-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15009": {
+   "label": "Lei nº 15.009, de 26/10/2009",
+   "title": "Denomina Rua Caminho Cinquenta e Um o caminho conhecido por Cinquenta e Um, que começa na Rua João Francisco Muzzi e termina aproximadamente 123 metros além do seu início, no Distrito do Lajeado, Subprefeitura de Guaianases, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15009-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15010": {
+   "label": "Lei nº 15.010, de 26/10/2009",
+   "title": "Denomina Praça Maria Fontanela Alves o espaço livre delimitado pelas ruas Arruda Alvim e Galeno de Almeida, Distrito do Jardim Paulista, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-26",
+   "published": "2009-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15010-de-26-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15011": {
+   "label": "Lei nº 15.011, de 28/10/2009",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Vila Guilhermina, a ser comemorado anualmente no dia 26 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-28",
+   "published": "2009-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15011-de-28-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15012": {
+   "label": "Lei nº 15.012, de 28/10/2009",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Espírita, a ser comemorado, anualmente no dia 30 de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-28",
+   "published": "2009-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15012-de-28-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15013": {
+   "label": "Lei nº 15.013, de 28/10/2009",
+   "title": "OFICIALIZA A BANDEIRA DO DISTRITO DO ITAIM BIBI, E DA OUTRAS PROVIDENCIAS. (PL 403/08)",
+   "kind": "law",
+   "enacted": "2009-10-28",
+   "published": "2009-10-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15013-de-28-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15014": {
+   "label": "Lei nº 15.014, de 29/10/2009",
+   "title": "Denomina Rua José Pinheiro Bezerra a rua sem denominação que começa na Rua Juvenal Gomes Coimbra e termina aproximadamente 277 metros além de seu início, no Distrito do Belém, Subprefeitura da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": "2009-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15014-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15015": {
+   "label": "Lei nº 15.015, de 29/10/2009",
+   "title": "Denomina Travessa Oraides da Rocha Oliveira o logradouro público situado no Distrito de Cangaíba, Subprefeitura da Penha e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": "2009-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15015-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15016": {
+   "label": "Lei nº 15.016, de 29/10/2009",
+   "title": "Denomina Praça Severino Rodrigues Freitas o logradouro sem denominação, delimitado pela Rua Miguel Pinheiro de Azurara e pela Avenida Pedro de Avos (Setor 172  Quadra 77), situado no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": "2009-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15016-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15018": {
+   "label": "Lei nº 15.018, de 29/10/2009",
+   "title": "Denomina Rua Orozimbo Rodrigues Paiva a passagem A, código CADLOG 60.100-4, que começa na Estrada MBoi Mirim e termina aproximadamente 98 metros além do seu início (Setor 165 - Quadra 47), no Distrito de Jardim Ângela, Subprefeitura de MBoi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": "2009-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15018-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15019": {
+   "label": "Lei nº 15.019, de 29/10/2009",
+   "title": "Denomina Praça João Villalva o espaço livre inominado delimitado pelas ruas Olímpio Guilherme, Prof. José de Barros Pinto e Itapiruçu (Setor 111 - Quadras 2, 4 e 5), no Distrito da Ponte Rasa, Subprefeitura Ermelino Matarazzo.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": "2009-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15019-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15020": {
+   "label": "Lei nº 15.020, de 29/10/2009",
+   "title": "Dispõe sobre a Bolsa-Atleta e revoga a Lei n° 14.906, de 6 de fevereiro de 2009.",
+   "kind": "law",
+   "enacted": "2009-10-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15020-de-29-de-outubro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15021": {
+   "label": "Lei nº 15.021, de 04/11/2009",
+   "title": "Aprova reserva de área destinada à implantação de alça direcional no Complexo Viário Real Parque.",
+   "kind": "law",
+   "enacted": "2009-11-04",
+   "published": "2009-11-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15021-de-4-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15022": {
+   "label": "Lei nº 15.022, de 06/11/2009",
+   "title": "Cria o Programa de Prevenção aos Incêndios nas Favelas do Município.",
+   "kind": "law",
+   "enacted": "2009-11-06",
+   "published": "2009-11-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15022-de-6-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15023": {
+   "label": "Lei nº 15.023, de 06/11/2009",
+   "title": "Institui o Programa Municipal de Proteção e Bem-Estar de Cães e Gatos  PROBEM e cria o Núcleo de Proteção e Bem-Estar de Cães e Gatos.",
+   "kind": "law",
+   "enacted": "2009-11-06",
+   "published": "2009-11-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15023-de-6-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15024": {
+   "label": "Lei nº 15.024, de 10/11/2009",
+   "title": "CRIA O ESCRITORIO DE CINEMA DE SAO PAULO - ECINE (SAO PAULO CITY FILM COMMISSION), NA SECRETARIA MUNICIPAL DE CULTURA, BEM COMO DISPOE SOBRE O SEU QUADRO DE CARGOS DE PROVIMENTO EM COMISSAO. (PL 434/09)",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15024-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15025": {
+   "label": "Lei nº 15.025, de 10/11/2009",
+   "title": "Institui o Fundo Especial de Despesas do Tribunal de Contas do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15025-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15026": {
+   "label": "Lei nº 15.026, de 10/11/2009",
+   "title": "Denomina Travessa do Bom Vizinho a passagem identificada pelo código CADLOG 59.376 - 1, que se inicia na Rua Cachoeira Escaramuça e termina na Rua Cachoeira Utupirú, (Setor 133 - Quadra 207), situada no distrito do Itaim Paulista, Subprefeitura do Itaim Paulista.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15026-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15027": {
+   "label": "Lei nº 15.027, de 10/11/2009",
+   "title": "Denomina Praça Anísio Nunes de Almeida o espaço livre existente na confluência da Rua Onam Gomes de Sena com Rua Antonio de Jesus, situado no Distrito do Capão Redondo, Subprefeitura de Campo Limpo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15027-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15028": {
+   "label": "Lei nº 15.028, de 10/11/2009",
+   "title": "Denomina Praça Luzia de Carvalho Leme o logradouro público inominado, localizado na Subprefeitura da Freguesia/Brasilândia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15028-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15029": {
+   "label": "Lei nº 15.029, de 10/11/2009",
+   "title": "Denomina Praça Fedele Laviano o espaço livre sem denominação delimitado pelas Ruas Jaime Rodrigues e Frei Pantaleão de Aveiro e Viela 1, situado no Distrito do Campo Grande, Subprefeitura de Santo Amaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15029-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15030": {
+   "label": "Lei nº 15.030, de 10/11/2009",
+   "title": "Denomina Praça Onias Ferreira Peixinho o espaço livre sem denominação, delimitado pelas ruas Maciel Viana e Renato Katsuya Sato e pela divisa com a área ocupada por equipamento institucional, situado no Distrito de Vila Jacuí, no Parque Cruzeiro do Sul.",
+   "kind": "law",
+   "enacted": "2009-11-10",
+   "published": "2009-11-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15030-de-10-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15031": {
+   "label": "Lei nº 15.031, de 13/11/2009",
+   "title": "Dispensa da licença de funcionamento o exercício das atividades não residenciais para o Microempreendedor Individual - MEI, a que se refere a Lei Complementar Federal n° 123, de 14 de dezembro de 2006, com as alterações introduzidas pelas Leis Complementares Federais n° 127, de 14 de agosto de 2007, e n° 128, de 19 de dezembro de 2008, na forma que especifica.",
+   "kind": "law",
+   "enacted": "2009-11-13",
+   "published": "2009-11-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15031-de-13-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15032": {
+   "label": "Lei nº 15.032, de 13/11/2009",
+   "title": "Concede isenção da Taxa de Fiscalização de Estabelecimentos - TFE e da Taxa de Fiscalização de Anúncios - TFA ao Microempreendedor Individual - MEI optante pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional - SIMEI.",
+   "kind": "law",
+   "enacted": "2009-11-13",
+   "published": "2009-11-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15032-de-13-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15034": {
+   "label": "Lei nº 15.034, de 23/11/2009",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Luta pela Educação Inclusiva, a ser comemorado, anualmente, no dia 14 de abril, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-23",
+   "published": "2009-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15034-de-23-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15035": {
+   "label": "Lei nº 15.035, de 23/11/2009",
+   "title": "Altera a redação do art. 7º, CXCIX, da Lei nº 14.485, de 19 de julho de 2007, restringindo a circulação de veículos no perímetro que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-23",
+   "published": "2009-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15035-de-23-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15036": {
+   "label": "Lei nº 15.036, de 23/11/2009",
+   "title": "Denomina Viaduto Milton Leão o viaduto construído sobre a Avenida Águia de Haia, localizado próximo à estação de metrô Artur Alvim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-23",
+   "published": "2009-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15036-de-23-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15037": {
+   "label": "Lei nº 15.037, de 23/11/2009",
+   "title": "Denomina Rua Ercília Japequini Torres o logradouro público inominado situado entre a Rua Porto do Una e a Rua Coutinho e Melo, Distrito de Guaianases, Subprefeitura Guaianases, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-23",
+   "published": "2009-11-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15037-de-23-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15039": {
+   "label": "Lei nº 15.039, de 27/11/2009",
+   "title": "Dispõe sobre a proibição de agenciamento de serviços funerários de natureza privada nas dependências de estabelecimentos públicos municipais de saúde.",
+   "kind": "law",
+   "enacted": "2009-11-27",
+   "published": "2009-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15039-de-27-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15040": {
+   "label": "Lei nº 15.040, de 27/11/2009",
+   "title": "Disciplina a divulgação do Programa Aprendendo com Saúde e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-27",
+   "published": "2009-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15040-de-27-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2009-15041": {
+   "label": "Lei nº 15.041, de 27/11/2009",
+   "title": "Denomina Praça Rosalina de Castro o espaço livre sem denominação delimitado pela Rua Dom Vilares e pelo Complexo Viário Maria Maluf, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2009-11-27",
+   "published": "2009-11-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15041-de-27-de-novembro-de-2009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2009-14987",
+   "short": "Lei 14987/2009",
+   "title": "Lei nº 14.987, de 29/09/2009 (Institui o Programa de Acolhimento na Rede Municipal de Saúde.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14987-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14987",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14987-de-29-de-setembro-de-2009",
+     "sha256": "0f6636c3665c4a95bca7c0c370d24cf42c7bb308e54cff58d9a98ebfe6745f46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.987, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 514/05, do Vereador Paulo Frange - PTB)\nInstitui o Programa de Acolhimento na Rede Municipal de Saúde.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Acolhimento na Rede Hospitalar Municipal de Saúde, com o objetivo de qualificar a recepção de pacientes e usuários das unidades hospitalares da Autarquia Hospitalar Municipal, proporcionando-lhes acolhimento humanitário e adequada orientação e encaminhamento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Acolhimento na Rede Municipal de Saúde será desenvolvido em parceria com instituições de ensino superior sediadas na Cidade de São Paulo, mediante convênio celebrado com a Secretaria Municipal da Saúde.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A implementação do Programa de Acolhimento na Rede Municipal de Saúde dar-se-á com a participação de estudantes devidamente matriculados e que freqüentem do primeiro ao último ano de quaisquer cursos de graduação mantidos pelas instituições de ensino superior previstas no art. 2º desta lei.\n§ 1º O preenchimento das vagas far-se-á por meio de sorteio público dentre os estudantes inscritos para o programa.\n§ 2º O estudante interessado em aderir ao programa deverá se inscrever nos períodos e locais previamente estabelecidos e divulgados pela Secretaria Municipal da Saúde.\n§ 3º A participação dos estudantes dar-se-á mediante a assinatura, juntamente com as instituições de ensino superior às quais estejam vinculados, de termo de adesão ao programa.\n§ 4º A capacitação dos estudantes integrados ao programa pautar-se-á pelos princípios da solidariedade e cidadania, orientação eficiente e assistência de qualidade.\n§ 5º Os estudantes poderão permanecer no programa pelo prazo de até 12 (doze) meses, período durante o qual farão jus a uma bolsa de estudo de valor correspondente ao da mensalidade escolar devida, sob a responsabilidade da respectiva instituição de ensino superior.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Prefeitura do Município de São Paulo, por meio da Secretaria Municipal da Saúde, contribuirá, mensalmente, com a importância correspondente a 80% (oitenta por cento) do valor da mensalidade escolar devida por cada estudante à respectiva instituição de ensino superior, limitada ao valor de R$ 350,00 (trezentos e cinquenta reais), nos termos previstos neste artigo.\n§ 1º As diferenças entre os valores repassados pela Prefeitura e os montantes totais das respectivas mensalidades escolares ficarão sob o encargo das instituições de ensino superior às quais se vinculem os estudantes, de maneira a integralizar os valores das bolsas de estudo a serem concedidas aos participantes do programa, isentando-os do pagamento de quaisquer resíduos financeiros daí derivados.\n§ 2º O Executivo, mediante decreto, fixará a quantidade máxima de bolsas de estudo que poderão ser beneficiadas com a contribuição de que trata o \"caput\" deste artigo, de acordo com as necessidades do serviço e observadas as disponibilidades financeiras.\n§ 3º As contribuições referidas no \"caput\" deste artigo serão repassadas diretamente às instituições de ensino superior, as quais deverão apresentar, mensalmente, à Secretaria Municipal da Saúde, os comprovantes das quitações das mensalidades dos alunos e, trimestralmente, a prestação de contas dos recursos recebidos em razão dos convênios celebrados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Constituem obrigações do Poder Público Municipal:\nI - garantir a capacitação dos participantes do programa e avaliar o seu desempenho;\nII - encaminhar à instituição de ensino superior parceira os atestados de freqüência e desempenho para fins de concessão, por aquela, da bolsa de estudo referida no § 5º do art. 3º desta lei;\nIII - repassar os valores das contribuições previstas no \"caput\" do art. 4º desta lei às instituições de ensino superior.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Constituem obrigações da instituição de ensino superior parceira:\nI - garantir a participação do aluno, avaliando a sua pontualidade, assiduidade e desempenho no curso;\nII - completar os valores previstos no \"caput\" do art. 4º desta lei, repassados mensalmente pela Prefeitura.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O programa ora instituído será implementado gradativamente e, a critério da Secretaria Municipal da Saúde, estendido a outras unidades integrantes da Rede Municipal de Saúde, mediante a edição de decreto específico.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A execução das disposições desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14988",
+   "short": "Lei 14988/2009",
+   "title": "Lei nº 14.988, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14988-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14988",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14988-de-29-de-setembro-de-2009",
+     "sha256": "a0a6e8220762ff77eeb5272f0daed02d0a08beda74ce20d99e305f8b1ca45788",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.988, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 302/07, do Vereador Toninho Paiva - PR)\nDispõe sobre a relação das patologias e diagnósticos que autorizam a isenção de pagamento de tarifa nos veículos integrantes do Sistema de Transporte Coletivo Urbano de Passageiros na Cidade de São Paulo, prevista na Lei nº 11.250, de 1º de outubro de 1992.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Para fins da isenção de pagamento de tarifa nos veículos integrantes do Sistema de Transporte Coletivo Urbano de Passageiros na Cidade de São Paulo, autorizada pela Lei nº 11.250, de 1º de outubro de 1992, a relação das patologias e diagnósticos será definida e atualizada de acordo com a Classificação Internacional de Doenças - CID.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Incumbirá às Secretarias Municipais de Transportes e da Saúde definir e atualizar a listagem a que se refere o art. 1º desta lei, mediante portaria conjunta.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14989",
+   "short": "Lei 14989/2009",
+   "title": "Lei nº 14.989, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14989-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14989",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14989-de-29-de-setembro-de-2009",
+     "sha256": "5051bcfbee7fb525751f74d626cd3a4e1ac955ae0d9b06ac3221d9ba0110655f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.989, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 42/08, do Vereador Toninho Paiva - PR)\nDenomina Travessa Lionina Maria da Silva o logradouro público inominado, situado entre as ruas Teiú e Caetetu, Distrito de Itaquera, Subprefeitura Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Travessa Lionina Maria da Silva o logradouro público inominado, situado entre as ruas Teiú e Caetetu (Setor 142 - Quadra 127), Distrito de Itaquera, Subprefeitura Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias a partir da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14990",
+   "short": "Lei 14990/2009",
+   "title": "Lei nº 14.990, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14990-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14990",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14990-de-29-de-setembro-de-2009",
+     "sha256": "8acd1557b22f232509e0528ae5381cf5f809138a65292a0eedf030543d7261fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.990, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 244/08, do Vereador José Américo - PT)\nDispõe sobre a aferição e divulgação, por Subprefeitura, dos indicadores de desempenho relativos à qualidade dos serviços públicos no Município de São Paulo de que trata a Lei nº 14.173, de 26 de junho de 2006.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 16 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Por ocasião de sua aferição, os indicadores de desempenho relativos à qualidade dos serviços públicos no Município de São Paulo de que trata a Lei nº 14.173, de 26 de junho de 2006, serão apontados também por Subprefeitura, sem prejuízo das demais disposições estabelecidas pela referida lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os dados referentes à aferição dos indicadores de desempenho a que se refere o art. 1º desta lei serão divulgados na página da Prefeitura na Internet.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14991",
+   "short": "Lei 14991/2009",
+   "title": "Lei nº 14.991, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14991-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14991",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14991-de-29-de-setembro-de-2009",
+     "sha256": "05ddec7dceecaf0407070dcfe16df21811aec7f4b88ea0dc3fc497b58b4f82d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.991, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 440/08, do Vereador Toninho Paiva - PR)\nDenomina Travessa Odair Alves da Silveira a viela sem denominação que começa na Rua Aldeia Paracanti, altura do nº 219, e termina aproximadamente 55 metros além do seu início em divisa de lotes, Distrito da Penha, Subprefeitura da Penha, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Odair Alves da Silveira a viela sem denominação que começa na Rua Aldeia Paracanti, altura do nº 219, e termina aproximadamente 55 metros além do seu início em divisa de lotes (Setor 113 - Quadra 363), Distrito da Penha, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14992",
+   "short": "Lei 14992/2009",
+   "title": "Lei nº 14.992, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14992-de-29-de-setembro-de-2009",
+   "first_law": "lei-2009-14992",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14992-de-29-de-setembro-de-2009",
+     "sha256": "c9f076a6687a205d34b0bc1b9bf5de60c4ba37a9f0d5588627e16968c02d433f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.992, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 548/08, do Vereador Toninho Paiva - PR)\nDenomina Praça Professor Aparecido Rodrigues Marques o espaço livre sem denominação, localizado na altura do nº 4650 da Avenida Celso Garcia, no Distrito do Tatuapé, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Professor Aparecido Rodrigues Marques o espaço livre sem denominação, localizado na altura do nº 4650 da Avenida Celso Garcia (Setor 62 - Quadras 124, 126, 143 e 172), no Distrito do Tatuapé, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14993",
+   "short": "Lei 14993/2009",
+   "title": "Lei nº 14.993, de 29/09/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14993-de-29-de-setembro-de-2009",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2009-14993"
+   ],
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14993-de-29-de-setembro-de-2009",
+     "sha256": "e826cb920bdfb63834ae209ca963ad161700bd2ecd12803d1f4db557e8500248",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.993, DE 29 DE SETEMBRO DE 2009\n(Projeto de Lei nº 415/09, do Vereador Wadih Mutran - PP)\nDenomina Espaço Cívico Comendador Yerchanik Kissajikian a área livre localizada entre a Avenida Tiradentes e a Avenida Santos Dumont, na extremidade da superfície do metrô Armênia, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Espaço Cívico Comendador Yerchanik Kissajikian a área livre localizada entre a Avenida Tiradentes e a Avenida Santos Dumont, na extremidade da superfície do metrô Armênia, para onde será remanejado o Monumento em Homenagem às vítimas do Genocídio de 1915, custeado com a parceria da iniciativa privada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta lei no prazo de 30 (trinta) dias contados a partir de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de setembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de setembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.993, de 29/09/2009 was altered by acts of 1 date(s), the latest 2015-01-30."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14994",
+   "short": "Lei 14994/2009",
+   "title": "Lei nº 14.994, de 01/10/2009 (Revoga a Lei nº 14.806, de 4 de julho de 2008, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14994-de-1-de-outubro-de-2009",
+   "first_law": "lei-2009-14994",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14994-de-1-de-outubro-de-2009",
+     "sha256": "5942870cf14ebf2df6edea1fd21b678c0f8ffb6e6939df0082c642c5946462a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.994 DE 1º DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 660/08)\n(VEREADOR FARHAT - PTB)\nRevoga a Lei nº 14.806, de 4 de julho de 2008, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogada a Lei nº 14.806, de 4 de julho de 2008.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 1º de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 1º de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14995",
+   "short": "Lei 14995/2009",
+   "title": "Lei nº 14.995, de 02/10/2009 (Inclui no Calendário de Eventos da Cidade de São Paulo o Dia do Bairro de Vila Zelina, a ser comemorado anualmente no dia 27 de outubro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14995-de-02-de-outubro-de-2009",
+   "first_law": "lei-2009-14995",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14995-de-02-de-outubro-de-2009",
+     "sha256": "d6219259d28ae283319576ddcddae76b45ac5fecbe908ab271c82c89421a185e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.995 DE 02 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 637/08)(VEREADOR DOMINGOS DISSEI - DEMOCRATAS)\nInclui no Calendário de Eventos da Cidade de São Paulo o Dia do Bairro de Vila Zelina, a ser comemorado anualmente no dia 27 de outubro.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CCXXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir, no Calendário de Eventos da Cidade de São Paulo, o Dia do Bairro de Vila Zelina, a ser comemorado anualmente no dia 27 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14996",
+   "short": "Lei 14996/2009",
+   "title": "Lei nº 14.996, de 02/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14996-de-02-de-outubro-de-2009",
+   "first_law": "lei-2009-14996",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14996-de-02-de-outubro-de-2009",
+     "sha256": "72deda87dcb784d47d86585692aa6ee5c4ebbc634cec6ead9fc725c520f8accd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.996 DE 02 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 275/07)(VEREADORA CLAUDETE ALVES - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de instituir a Semana Municipal do Meio Ambiente, a ser comemorada na primeira semana de junho.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído o inciso CXXII-A ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte a redação:\n\"Art. 7º ...\nCXXII-A - primeira semana de junho:\na Semana Municipal do Meio Ambiente, dando-se destaque ao dia 05 de junho, quando se comemora o Dia Mundial do Meio Ambiente, com os seguintes objetivos: promover a educação das crianças, jovens e adultos, buscando principalmente a conscientização da comunidade, do direito de todos ao meio ambiente ecologicamente equilibrado, competindo-lhes o dever de defendê-lo e preservá-lo para as presentes e futuras gerações; estimular a adoção de práticas e medidas de proteção do meio ambiente; buscar soluções em relação aos recursos naturais, dando oportunidade de vida às gerações futuras. Durante a realização desta Semana deverão ser envidados esforços para a realização de atividades vinculadas à educação ambiental em locais de grande circulação e em todos os órgãos públicos municipais, em especial nos parques, equipamentos culturais e educacionais;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão\npor conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 05 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 05 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14997",
+   "short": "Lei 14997/2009",
+   "title": "Lei nº 14.997, de 19/10/2009 (Dispõe sobre a alteração da denominação da Rua Cornucópia, que se localiza no Jardim Cidade Pirituba e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14997-de-19-de-outubro-de-2009",
+   "first_law": "lei-2009-14997",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14997-de-19-de-outubro-de-2009",
+     "sha256": "bdef36d6135865b839cca997ea9d6dde3241577edf31358373cc9f25100a84e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.997, DE 19 DE OUTUBRO DE 2009\n(Projeto de Lei nº 808/07, do Vereador Eliseu Gabriel - PSB)\nDispõe sobre a alteração da denominação da Rua Cornucópia, que se localiza no Jardim Cidade Pirituba e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Rua Cornucópia, cadlog 41004-7, localizada no Jardim Cidade Pirituba, neste Município, passa a denominar-se Rua Mathilde Carlos Montesanti.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente propositura encontra amparo legal na Lei nº 14.454, de 27 de junho de 2007, inciso III, § 2º, do art. 5º, que estabelece:\nArt. 5º É vedada a alteração de denominação de vias e logradouros públicos, salvo nos seguintes casos:\nIII - quando se tratar de denominação suscetível de expor ao ridículo moradores ou domiciliados no entorno.\n§ 2º No caso previsto no inciso III, é indispensável a expressa anuência de, no mínimo, dois terços dos moradores ou domiciliados, devidamente identificados.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da implantação desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 19 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14998",
+   "short": "Lei 14998/2009",
+   "title": "Lei nº 14.998, de 20/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14998-de-20-de-outubro-de-2009",
+   "first_law": "lei-2009-14998",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14998-de-20-de-outubro-de-2009",
+     "sha256": "31f2ef6bd850fcdc9734925d285e649869056b548f732aa19ef26b8d0f4ae450",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.998 DE 20 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 613/05)(VEREADOR ADILSON AMADEU - PTB)\nDispõe sobre a divulgação da frase SE BEBER, NÃO DIRIJA em cardápios de bares, restaurantes e casas de eventos na Cidade de São Paulo e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica obrigatória a divulgação da frase SE BEBER, NÃO DIRIJA em todos os cardápios de bares, restaurantes e casas de eventos na Cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Deve a frase ser impressa ou aplicada por meio de autocolantes e adesivos em local visível e de destaque.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As letras da frase deverão ter cores diferenciadas dentro do texto para maior destaque.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O não-cumprimento das exigências desta lei implicará ao infrator a imposição de multa no valor de R$ 1.500,00 (mil e quinhentos reais), cobrada em dobro em caso de reincidência.\nParágrafo único. A multa de que trata o caput deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística  IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Executivo regulamentará a presente lei no prazo de 90 (noventa) dias, em especial no tocante aos aspectos procedimentais e de fiscalização.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da implantação desta lei correrão por conta das dotações orçamentárias próprias, suplementas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-14999",
+   "short": "Lei 14999/2009",
+   "title": "Lei nº 14.999, de 20/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14999-de-20-de-outubro-de-2009",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2009-14999"
+   ],
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-14999-de-20-de-outubro-de-2009",
+     "sha256": "dfec6fb16d5789f91c0036544d1446469cf9550d468f9f8f76cff8f8c2fcbb5b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 14.999 DE 20 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 535/08)(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Municipal de Incentivo e Orientação ao Estudo e à Leitura, a ser realizada, anualmente, na segunda semana de abril e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso LXXVI, do art. 7º, Capítulo II, da Lei nº 14.485, de 19 de julho de 2007, incluindo a Semana Municipal de Incentivo e Orientação ao Estudo e à Leitura, a ser realizada, anualmente, na segunda semana de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Prefeitura Municipal de São Paulo, para atingir os objetivos desta propositura, através de seus órgãos competentes, poderá publicar textos de orientação e incentivo ao estudo e à leitura, assim como realizar as mais variadas atividades de motivação, tais como: palestras, simpósios, shows, concursos, gincanas, atividades lúdicas e outras correlatas. Poderá, ainda, suscitar a celebração de convênios com entidades governamentais e não-governamentais, estabelecer parcerias com instituições públicas e privadas de ensino em todos os níveis, devidamente reconhecidas, e demais órgãos da sociedade civil; obter apoio, buscar promoção e promover ampla divulgação junto aos mais diversos meios de comunicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação.\nCâmara Municipal de São Paulo, 20 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 14.999, de 20/10/2009 was altered by acts of 1 date(s), the latest 2020-09-09."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15000",
+   "short": "Lei 15000/2009",
+   "title": "Lei nº 15.000, de 20/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15000-de-20-de-outubro-de-2009",
+   "first_law": "lei-2009-15000",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15000-de-20-de-outubro-de-2009",
+     "sha256": "f0fd78546e6c196a32fe419ba7b78e5c30d82ddde2348f97ce9447a5c5bd18aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.000 DE 20 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 136/09)\n(VEREADORA SANDRA TADEU - DEMOCRATAS)\nDispõe sobre a obrigatoriedade de acomodação, em espaço único, específico e de destaque, de produtos alimentícios recomendados para pessoas com diabetes, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os mercados, supermercados, hipermercados ou estabelecimentos similares que mantenham mais de três caixas registradoras para atendimento aos consumidores deverão acomodar, para exibição em espaço único, específico e de destaque, produtos alimentícios recomendados para pessoas com diabetes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A infração às disposições da presente lei acarretará ao responsável infrator a imposição de pena de multa no valor de R$ 500,00 (quinhentos reais) a R$ 25.000,00 (vinte e cinco mil reais), dobrada em caso de reincidência, observadas a gravidade da infração, o porte econômico do infrator, a sua conduta e o resultado produzido, de acordo com o critério da proporcionalidade e razoabilidade.\nParágrafo único. A multa de que trata o caput deste artigo será atualizada anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção deste índice, será adotado outro índice criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ulterior disposição regulamentar desta lei definirá o detalhamento técnico de sua execução.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão à conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15001",
+   "short": "Lei 15001/2009",
+   "title": "Lei nº 15.001, de 22/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15001-de-22-de-outubro-de-2009",
+   "first_law": "lei-2009-15001",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15001-de-22-de-outubro-de-2009",
+     "sha256": "d6c99c177331513fb42ea8874073664a66ff4d37e8e323f54e9f7373b5847ebe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.001, DE 22 DE OUTUBRO DE 2009\n(Projeto de Lei nº 319/08, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nConfere nova redação ao § 1º do art. 12 e ao § 1° do art. 23, ambos da Lei n° 14.712, de 4 de abril de 2008, bem como aos arts. 2° e 4° da Lei n° 14.715, de 8 de abril de 2008.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O § 1° do art. 12 e o § 1° do art. 23, ambos da Lei n° 14.712, de 4 de abril de 2008, passam a vigorar com a seguinte redação:\nArt. 12. ............................................................\n§ 1º. Para os efeitos do disposto no caput deste artigo, considera-se:\nI - remuneração na nova situação: o novo padrão de vencimentos ora instituído, as vantagens recalculadas nos termos dos arts. 5º e 6°, a sexta-parte e a VOP de que trata o art. 11 desta lei;\nII - remuneração atual: o padrão de vencimentos previsto na legislação em vigor ou decorrente de decisão judicial, as vantagens a que se refere o art. 4º desta lei e os valores relativos às vantagens referidas nos arts. 5º e 6º e a sexta-parte, calculadas na conformidade da legislação vigente até a data da publicação desta lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. .......................................................................\n§ 1º. Para os efeitos do disposto no caput deste artigo, considera-se:\nI - remuneração na nova situação: o novo padrão de vencimentos e a Gratificação de Produtividade Fiscal recalculada nos termos do art. 18 da Lei nº 8.645, de 21 de novembro de 1977, com as alterações subseqüentes, na redação conferida pelo art. 18 desta lei, e os adicionais por tempo de serviço;\nII - remuneração atual: o padrão de vencimentos previsto na legislação vigente na data da publicação desta lei ou decorrente de decisão judicial, os adicionais por tempo de serviço e a Gratificação de Produtividade Fiscal calculada na conformidade da legislação em vigor na data da publicação desta lei.\nArt. 2º. Em decorrência do disposto no art. 1º desta lei, os Procuradores do Município e os Auditores-Fiscais Tributários Municipais que realizaram a opção prevista nos arts. 9º, 16, 21 e 24 da Lei n° 14.712, de 2008, poderão dela desistir.\n§ 1º. A desistência de que trata o caput deste artigo terá por efeito a recomposição da situação funcional do servidor a partir do mês do ato de integração e a desconstituição de todos seus efeitos.\n§ 2º. Nas hipóteses previstas nos arts. 9° e 21 da Lei nº 14.712, a desistência prevista no caput somente poderá ser feita no prazo máximo de 120 (cento e vinte) dias a contar da data da publicação desta lei.\nArt. 3º. Os arts. 2° e 4° da Lei n° 14.715, de 8 de abril de 2008, passam a vigorar com a seguinte redação:\nArt. 2º. Aos Agentes de Apoio Fiscal que se encontravam aposentados na data da publicação desta lei, aos quais se aplica a garantia constitucional da paridade, ou que venham a se aposentar, com proventos integrais, no prazo de 5 (cinco) anos, contados da data da publicação desta lei, a Gratificação de Produtividade Fiscal, calculada de acordo com o disposto no art. 15 da Lei n° 9.480, de 8 de junho de 1982, com a redação dada por esta lei, será devida pela média aritmética mensal da pontuação obtida pelos servidores ativos da respectiva carreira, observada a proporcionalidade de seus proventos.\nParágrafo único. O disposto neste artigo aplica-se aos pensionistas e legatários dos servidores referidos no caput, aos quais se aplica a garantia constitucional da paridade, cujos benefícios encontravam-se em fruição na data da publicação desta lei, ou venham a ser instituídos no prazo de 5 (cinco) anos, contados daquela data.\nArt. 4º. Aos Agentes Vistores que se encontravam aposentados na data da publicação desta lei, aos quais se aplica a garantia constitucional da paridade, ou que venham a se aposentar, com proventos integrais, no prazo de 5 (cinco) anos, contados da data da publicação desta lei, a Gratificação de Produtividade Fiscal, calculada de acordo com o disposto no art. 9º da Lei n° 10.224, de 15 de dezembro de 1986, com a redação dada por esta lei, será devida pela média aritmética mensal da pontuação obtida pelos servidores ativos da respectiva carreira ou função, observada a proporcionalidade de seus proventos.\nParágrafo único. O disposto neste artigo aplica-se aos pensionistas e legatários dos servidores referidos no caput, aos quais se aplica a garantia constitucional da paridade, cujos benefícios encontravam-se em fruição na data da publicação desta lei, ou venham a ser instituídos no prazo de 5 (cinco) anos, contados daquela data.\nArt. 4º. As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\nArt. 5º. Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 22 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 22 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15004",
+   "short": "Lei 15004/2009",
+   "title": "Lei nº 15.004, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15004-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15004",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15004-de-26-de-outubro-de-2009",
+     "sha256": "475c61de594f33a153c889231a00f6e9ecedda22bcd19ce9a809643c4dee3231",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.004, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 148/09, do Executivo)\nAltera dispositivos da Lei nº 14.165, de 5 de junho de 2006, que dispõe sobre a desafetação de área municipal, situada na Avenida Padre José Maria, Distrito de Santo Amaro, e autoriza sua doação à Universidade Federal de São Paulo - Escola Paulista de Medicina.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O art. 1º, o parágrafo único do art. 2º e os incisos I, III e IV do art. 3º da Lei nº 14.165, de 5 de junho de 2006, passam a vigorar com a seguinte redação:\nArt. 1º. Fica desincorporada da classe dos bens de uso especial e transferida para a classe dos bens dominiais a área municipal localizada na Avenida Padre José Maria, Distrito de Santo Amaro, configurada na planta anexa nº A-13.515/03 do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, delimitada pelo perímetro A-B-C-D-E-F-G-H-I-J-K-L-M-A, de formato irregular, com 12.604,66m² (doze mil, seiscentos e quatro metros e sessenta e seis decímetros quadrados), assim descrita, para quem de dentro da área olha para a Avenida Padre José Maria: pela frente, linha segmentada H-I-J-K, medindo 117,52m, confrontando em toda sua extensão com o alinhamento da Avenida Padre José Maria, constituída de linha reta H-I, medindo 58,63m, linha reta I-J, medindo 0,73m, e linha reta J-K, medindo 58,16m; pelo lado direito, linha segmentada K-L-M, medindo 107,03m, confrontando em toda sua extensão com área municipal originária de desapropriação, conforme o croqui nº 300.449 do arquivo do Departamento Patrimonial, constituída de linha reta K-L, medindo 4,90m, e linha reta L-M, medindo 102,13m; pelo lado esquerdo, linha segmentada A-B-C-D-E-F-G-H, medindo 231,56m, constituída de linha reta A-B, medindo 68,85m, linha reta B-C, medindo 30,92m, linha curva C-D, medindo 33,00m, linha reta D-E, medindo 17,00m, confrontando nesses trechos com área municipal de uso comum, e de linha reta E-F, medindo 38,86m, linha reta F-G, medindo 25,77m, e linha reta G-H, medindo 17,16m, confrontando nesses trechos com área municipal originária de desapropriação (croqui nº 300.449); pelos fundos, linha reta M-A, medindo 63,03m, confrontando com área municipal originária de desapropriação (croqui nº 300.449).\nArt. 2º. ......................................................................\nParágrafo único. A área de que trata esta lei foi avaliada em R$ 6.925.934,00 (seis milhões, novecentos e vinte e cinco mil, novecentos e trinta e quatro reais), para abril de 2008, pelo Departamento Patrimonial da Secretaria Municipal dos Negócios Jurídicos.\nArt. 3º. ......................................................................\nI - utilizar a área exclusivamente para a finalidade prevista no art. 2º desta lei;\nIII - apresentar, para aprovação pelos órgãos técnicos da Prefeitura, no prazo de 30 (trinta) dias contado da data da lavratura da respectiva escritura, os projetos e memoriais das edificações a serem executadas, que deverão atender às exigências legais pertinentes, bem como as exigências de segurança estabelecidas pela Companhia do Metropolitano de São Paulo - METRÔ e pela Companhia Paulista de Trens Metropolitanos - CPTM;\nIV - dar início às obras de construção do novo campus da Universidade no prazo de 2 (dois) anos e concluí-las no prazo de 4 (quatro) anos, contados da data de aprovação dos projetos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15005",
+   "short": "Lei 15005/2009",
+   "title": "Lei nº 15.005, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15005-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15005",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15005-de-26-de-outubro-de-2009",
+     "sha256": "322b082fddcb0f4a99003dacd9600dbc38608c6b0b19a1f834cb972fd44bda7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.005, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 598/07, do Vereador João Antonio - PT)\nDenomina Praça Coronel Hilton Bergmann o espaço livre sem denominação delimitado pelas avenidas Miguel Yunes e Nossa Senhora do Sabará, Distrito de Pedreira, Subprefeitura de Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Coronel Hilton Bergmann o espaço livre sem denominação delimitado pelas avenidas Miguel Yunes e Nossa Senhora do Sabará (Setor 162  Quadra 4 e Setor 121  Quadras 114 e 149), Distrito de Pedreira, Subprefeitura de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15006",
+   "short": "Lei 15006/2009",
+   "title": "Lei nº 15.006, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15006-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15006",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15006-de-26-de-outubro-de-2009",
+     "sha256": "4ff793ec5535c9cd8c7be94ff44f430fed2faa9c60339ea736bceb2d58154251",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.006, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 23/08, do Vereador João Antonio  PT)\nAltera a denominação da Rua Cine Favela para Rua Santa Ângela de Mérici, alterando assim o art. 2º, inciso 14 do Decreto nº 48.095, de 12 de janeiro de 2007.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 30 de setembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Altera a denominação da Rua Cine Favela para Rua Santa Ângela de Mérici, alterando assim o art. 2º, inciso 14, do Decreto nº 48.095, de 12 de janeiro de 2007.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15007",
+   "short": "Lei 15007/2009",
+   "title": "Lei nº 15.007, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15007-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15007",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15007-de-26-de-outubro-de-2009",
+     "sha256": "91ab1d1bdf99cf4b9ddcd55b78206cca4a2bbd5847a2d499b8d4950eac4c88e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.007, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 104/08, do Vereador José FerreiraZelão - PT)\nDenomina Praça Mário dos Santos Matias a praça inominada localizada entre a Avenida Marechal Tito e a Avenida Tarcísio Mendes de Lima e a Rua José Cardoso Pimentel, no Bairro Itaim Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Mário dos Santos Matias a praça inominada localizada entre a Avenida Marechal Tito e a Avenida Tarcísio Mendes de Lima e a Rua José Cardoso Pimentel (Setor 133  Quadra 83), no Distrito do Itaim Paulista, Subprefeitura Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15008",
+   "short": "Lei 15008/2009",
+   "title": "Lei nº 15.008, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15008-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15008",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15008-de-26-de-outubro-de-2009",
+     "sha256": "9bbcfe2eabf594175fb5677d743d340c01c628e9ac5f15b27f393824190c490f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.008, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 146/08, do Vereador Toninho Paiva - PR)\nDenomina Passarela Valentim dos Santos Diniz a passagem elevada para pedestres que interliga a Avenida Aratãs sobre a Avenida Moreira Guimarães, nos Distritos de Moema e Saúde, Subprefeitura de Vila Mariana, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Passarela Valentim dos Santos Diniz a passagem elevada para pedestres que interliga a Avenida Aratãs sobre a Avenida Moreira Guimarães (Setor 45  Quadras 171 e 186), nos Distritos de Moema e Saúde, Subprefeitura de Vila Mariana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15009",
+   "short": "Lei 15009/2009",
+   "title": "Lei nº 15.009, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15009-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15009",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15009-de-26-de-outubro-de-2009",
+     "sha256": "894ec154ab8359485af64cab5aeda371c082c12b135e8536ff48c18af4579942",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.009, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 207/08, do Vereador Senival Moura - PT)\nDenomina Rua Caminho Cinquenta e Um o caminho conhecido por Cinquenta e Um, que começa na Rua João Francisco Muzzi e termina aproximadamente 123 metros além do seu início, no Distrito do Lajeado, Subprefeitura de Guaianases, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Caminho Cinquenta e Um o caminho conhecido por Cinquenta e Um, código cadlog 59.931-0, que começa na Rua João Francisco Muzzi e termina aproximadamente 123 metros além do seu início (Setor 115 - Quadra 30), no Distrito do Lajeado, Subprefeitura de Guaianases.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15010",
+   "short": "Lei 15010/2009",
+   "title": "Lei nº 15.010, de 26/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15010-de-26-de-outubro-de-2009",
+   "first_law": "lei-2009-15010",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15010-de-26-de-outubro-de-2009",
+     "sha256": "0753742bcd528f4e696c918aa0a95ca7ac3b7e65f8a2d75c7f51c055997428b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.010, DE 26 DE OUTUBRO DE 2009\n(Projeto de Lei nº 379/08, do Vereador Carlos Neder - PT)\nDenomina Praça Maria Fontanela Alves o espaço livre delimitado pelas ruas Arruda Alvim e Galeno de Almeida, Distrito do Jardim Paulista, Subprefeitura de Pinheiros, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Fontanela Alves o espaço livre delimitado pelas ruas Arruda Alvim e Galeno de Almeida (Setor 013 - Quadra 1), Distrito do Jardim Paulista, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15011",
+   "short": "Lei 15011/2009",
+   "title": "Lei nº 15.011, de 28/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15011-de-28-de-outubro-de-2009",
+   "first_law": "lei-2009-15011",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15011-de-28-de-outubro-de-2009",
+     "sha256": "9cd424aef83a0e36153954e6f1330cadc1d5f5fdf836b00669769d30b0913115",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.011 DE 28 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 603/08)(VEREADOR CELSO JATENE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Vila Guilhermina, a ser comemorado anualmente no dia 26 de maio, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Vila Guilhermina, a ser comemorado anualmente no dia 26 de maio, com homenagens e eventos de divulgação da atividade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15012",
+   "short": "Lei 15012/2009",
+   "title": "Lei nº 15.012, de 28/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15012-de-28-de-outubro-de-2009",
+   "first_law": "lei-2009-15012",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15012-de-28-de-outubro-de-2009",
+     "sha256": "b6f6a01490a11a61a25ae237127a0b5cb279294f6407a881345931119dbc519d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.012 DE 28 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 74/09)(VEREADOR QUITO FORMIGA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Espírita, a ser comemorado, anualmente no dia 30 de junho, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º, da Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal do Espírita, a ser comemorado anualmente no dia 30 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As atividades alusivas à data comemorativa ora instituída serão realizadas no Palácio Anchieta, sede da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15013",
+   "short": "Lei 15013/2009",
+   "title": "Lei nº 15.013, de 28/10/2009 (OFICIALIZA A BANDEIRA DO DISTRITO DO ITAIM BIBI, E DA OUTRAS PROVIDENCIAS. (PL 403/08))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15013-de-28-de-outubro-de-2009",
+   "first_law": "lei-2009-15013",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15013-de-28-de-outubro-de-2009",
+     "sha256": "36a10ad6744f013fd7e80f51d3668e5d519b79168933d91fd8c54120e04aa753",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.013 DE 28 DE OUTUBRO DE 2009\n(PROJETO DE LEI Nº 403/08)\n(VEREADOR ELISEU GABRIEL - PSB)\nOficializa a Bandeira do Distrito do Itaim Bibi, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica oficializada a Bandeira do Itaim Bibi, de autoria de Bernardo Muylaert Tinoco, vencedor do concurso promovido pela fábrica de chocolates Kopenhagen com apoio da Prefeitura do Município de São Paulo, da Associação de Amigos do Bairro do Itaim Bibi e Clube de Diretores Lojistas da região, em 1990.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Bandeira do Itaim Bibi, cujo desenho em anexo faz parte integrante desta lei, possui as dimensões de 2,00 m (dois metros) de largura e 1,40 m (um metro e quarenta) de altura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Bandeira do Itaim Bibi é composta por três faixas horizontais: no plano inferior, na cor azul, uma forma sinuosa simboliza as águas do rio Pinheiros; no meio, a cor branca formando altas silhuetas dos edifícios em contraste com as antigas casas residenciais; no plano superior, o verde, lembrando a vegetação do Jardim Europa, Morumbi e Parque do Ibirapuera, bairros fronteiriços ao Itaim Bibi, conforme modelo anexo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da publicação desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 28 de outubro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 28 de outubro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelm\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15014",
+   "short": "Lei 15014/2009",
+   "title": "Lei nº 15.014, de 29/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15014-de-29-de-outubro-de-2009",
+   "first_law": "lei-2009-15014",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15014-de-29-de-outubro-de-2009",
+     "sha256": "42a4916e4a9922832411f39699f444ba0f1cc34511754630d2f65f4f7f9558b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.014, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 781/07, do Vereador Adilson Amadeu - PTB)\nDenomina Rua José Pinheiro Bezerra a rua sem denominação que começa na Rua Juvenal Gomes Coimbra e termina aproximadamente 277 metros além de seu início, no Distrito do Belém, Subprefeitura da Mooca, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua José Pinheiro Bezerra o logradouro público sem denominação que começa na Rua Juvenal Gomes Coimbra (Setor 196 - Quadra 19) e termina aproximadamente 277 metros além de seu início, no Distrito do Belém, Subprefeitura da Mooca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15015",
+   "short": "Lei 15015/2009",
+   "title": "Lei nº 15.015, de 29/10/2009 (Denomina Travessa Oraides da Rocha Oliveira o logradouro público situado no Distrito de Cangaíba, Subprefeitura da Penha e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15015-de-29-de-outubro-de-2009",
+   "first_law": "lei-2009-15015",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15015-de-29-de-outubro-de-2009",
+     "sha256": "12d31a9a3743523772db91a59c75ccc09035260ff31955851d6f5102268e9649",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.015, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 261/08, do Vereador Toninho Paiva - PR)\nDenomina Travessa Oraides da Rocha Oliveira o logradouro público situado no Distrito de Cangaíba, Subprefeitura da Penha e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa Oraides da Rocha Oliveira a travessa sem denominação, com início na altura do nº 1500 da Avenida Doutor Assis Ribeiro e termina aproximadamente 49,50 m (quarenta e nove metros e meio) além do seu início (Setor 060 - Quadras 210 e 280), no Distrito de Cangaíba, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15016",
+   "short": "Lei 15016/2009",
+   "title": "Lei nº 15.016, de 29/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15016-de-29-de-outubro-de-2009",
+   "first_law": "lei-2009-15016",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15016-de-29-de-outubro-de-2009",
+     "sha256": "266ce09597c2714b762875e6bc5dec003e80bec652356962f3bbccc4056869f7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.016, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 323/08, do Vereador Milton Leite - DEMOCRATAS)\nDenomina Praça Severino Rodrigues Freitas o logradouro sem denominação, delimitado pela Rua Miguel Pinheiro de Azurara e pela Avenida Pedro de Avos (Setor 172  Quadra 77), situado no Distrito de Cidade Ademar, Subprefeitura da Cidade Ademar, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Severino Rodrigues Freitas o logradouro sem denominação, delimitado pela Rua Miguel Pinheiro de Azurara e pela Avenida Pedro de Avos (Setor 172 - Quadra 77), situado no Distrito de Cidade Ademar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15018",
+   "short": "Lei 15018/2009",
+   "title": "Lei nº 15.018, de 29/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15018-de-29-de-outubro-de-2009",
+   "first_law": "lei-2009-15018",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15018-de-29-de-outubro-de-2009",
+     "sha256": "985a5267296acb342104032de1f33bca9c038f0b1610b0dc0ae45c40c4a4cff0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.018, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 566/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Rua Orozimbo Rodrigues Paiva a passagem A, código CADLOG 60.100-4, que começa na Estrada MBoi Mirim e termina aproximadamente 98 metros além do seu início (Setor 165 - Quadra 47), no Distrito de Jardim Ângela, Subprefeitura de MBoi Mirim, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Orozimbo Rodrigues Paiva a passagem A, código CADLOG 60.100-4, que começa na Estrada MBoi Mirim e termina aproximadamente 98 metros além do seu início (Setor 165 - Quadra 47), no Distrito de Jardim Ângela, Subprefeitura de MBoi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15019",
+   "short": "Lei 15019/2009",
+   "title": "Lei nº 15.019, de 29/10/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15019-de-29-de-outubro-de-2009",
+   "first_law": "lei-2009-15019",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15019-de-29-de-outubro-de-2009",
+     "sha256": "b02e646a8802d2205a76cb8e0c91ce01487ba32496a3eb5bb38472b7548f4780",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.019, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 632/08, do Vereador Toninho Paiva - PR)\nDenomina Praça João Villalva o espaço livre inominado delimitado pelas ruas Olímpio Guilherme, Prof. José de Barros Pinto e Itapiruçu (Setor 111 - Quadras 2, 4 e 5), no Distrito da Ponte Rasa, Subprefeitura Ermelino Matarazzo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça João Villalva o espaço livre inominado delimitado pelas ruas Olímpio Guilherme, Prof. José de Barros Pinto e Itapiruçu (Setor 111 - Quadras 2, 4 e 5), no Distrito da Ponte Rasa, Subprefeitura Ermelino Matarazzo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15020",
+   "short": "Lei 15020/2009",
+   "title": "Lei nº 15.020, de 29/10/2009 (Dispõe sobre a Bolsa-Atleta e revoga a Lei n° 14.906, de 6 de fevereiro de 2009.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15020-de-29-de-outubro-de-2009",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2009-15020"
+   ],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15020-de-29-de-outubro-de-2009",
+     "sha256": "b435b1ab9b3dfd1f6b2638a5fe71c6dde950ab54c6171b609e29d375966a3b17",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.020, DE 29 DE OUTUBRO DE 2009\n(Projeto de Lei nº 376/09, do Vereador Aurélio Miguel - PR)\nDispõe sobre a Bolsa-Atleta e revoga a Lei n° 14.906, de 6 de fevereiro de 2009.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Bolsa Atleta Rei Pelé, da Cidade de São Paulo, a ser concedida pelo Poder Público Municipal de acordo com os valores e condições estabelecidos nesta Lei a atletas praticantes de desporto de rendimento nas modalidades esportivas ou paradesportivas integrantes do programa dos Jogos Panamericanos, Jogos Olímpicos, Jogos Paraolímpicos, Jogos Parapanamericanos ou outras competições de relevo e de referência nacionais ou internacionais, que deverão estar devidamente filiados às Federações Esportivas Estaduais e, consequentemente, às Confederações Brasileiras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Bolsa Atleta Rei Pelé será concedida a atletas entre 8 (oito) anos e 25 (vinte e cinco) anos, com valor correspondente a R$ 700,00 (setecentos reais) para atletas entre 8 e 17 anos, a R$ 1.400,00 (um mil e quatrocentos reais) para atletas entre 18 e 21 anos, e R$ 2.100,00 (dois mil e cem reais) para atletas entre 22 e 25 anos, que preencham os seguintes requisitos:\nI - tenham participado do evento estadual principal da temporada anterior, realizado e reconhecido como tal pela entidade de administração do desporto (Federação) e que nele tenham obtido da primeira à terceira colocação nas modalidades individuais, em qualquer prova, em ambos os sexos e em qualquer categoria de faixa etária;\nII - tenham sido individualmente constituídos por sua Federação dentre os 2 (dois) melhores quadros nas modalidades coletivas, em ambos os sexos e em qualquer categoria de faixa etária dos referidos eventos e que continuem a treinar para futuras competições estaduais promovidas e organizadas pelas federações.\n§ 1º Dos recursos do programa, 50% (cinquenta por cento) são destinados aos atletas do Centro Olímpico de Treinamento e Pesquisa da Secretaria Municipal de Esportes, Lazer e Recreação ou unidades a ele vinculadas, para os quais não se aplicam as exigências dos incisos I e II do art. 2º desta lei.\n§ 2º Os valores estabelecidos no caput deste artigo serão reajustados anualmente pelo IPCA ou por índice que vier a substituí-lo.\n§ 3º Em relação aos surdoatletas, será concedida a Bolsa-Atleta descrita no caput deste artigo aos que tiverem participado de competições oficiais reconhecidas pela Confederação Brasileira de Desportos de Surdos - CBDS na temporada anterior, obtendo da primeira à terceira colocação em modalidades individuais, ou integrem equipes que tenham alcançado até a terceira colocação em modalidades coletivas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para pleitear a concessão da Bolsa-Atleta da Cidade de São Paulo, o atleta deverá preencher, cumulativamente, os seguintes requisitos, além daqueles previstos no art. 2° desta lei:\nI - estar vinculado a uma federação devidamente filiada à respectiva confederação brasileira;\nII - \nIII - não receber qualquer tipo de patrocínio de pessoas jurídicas, públicas ou privadas, entendendo-se por patrocínio todo e qualquer valor pecuniário, eventual ou regular, diverso de salário;\nIV - não receber salário de entidade de prática desportiva;\nV - estar regularmente matriculado em instituição de ensino, pública ou privada, ou ter completado o ensino médio para os atletas com idade até 17 anos;\nVI -\nVII - ter, pelo menos, 80% (oitenta por cento) de freqüência nos treinamentos e competições da respectiva modalidade, excetuadas as faltas justificadas, por motivos médicos devidamente atestados;\nVIII - não estar cumprindo qualquer tipo de punição imposta por Tribunais de Justiça Desportiva de Federação e/ou Confederação da respectiva modalidade;\nIX - contar com a anuência de seus pais ou representantes legais, no caso dos estudantes menores de 18 (dezoito) anos.\n§ 1º Em exceção aos incisos III e IV deste artigo, o atleta beneficiado com a Bolsa Atleta Rei Pelé poderá recebê-la cumulativamente com outras bolsas ou benefícios oriundos de programas de permanência estudantil ou de incentivo ao ensino, pesquisa, iniciação científica e extensão, respeitado o limite previsto no § 3º deste artigo.\n§ 2º A Comissão Especial de Seleção poderá, de forma excepcional, conceder a referida Bolsa a atletas de relevância, que tenha idade superior àquela prevista no caput do art. 2º desta Lei, mediante parecer circunstanciado que considere a análise da situação socioeconômica do atleta.\n§ 3º A Comissão Especial de Seleção também poderá, de forma excepcional, conceder a referida Bolsa a atletas de relevância, que recebam rendas diversas que não ultrapassem, no ano, o dobro do valor estipulado no caput do art. 2º desta Lei, mediante parecer circunstanciado que considere a análise da situação socioeconômica do atleta.\n§ 4º Em exceção ao inciso I deste artigo, os surdoatletas terão a concessão da Bolsa-Atleta mediante comprovação de estarem em plena atividade esportiva, vinculado a entidades representativas de desportos para surdos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Bolsa-Atleta será concedida pelo Poder Executivo Municipal, por intermédio da Secretaria Municipal de Esportes, Lazer e Recreação, conforme critérios de conveniência e oportunidade, desde que preenchidos os requisitos estabelecidos nos arts. 2° e 3° desta lei, a desportistas selecionados por uma Comissão Especial de Seleção, assim constituída:\nI - 3 (três) membros servidores da Secretaria Municipal de Esportes, Lazer e Recreação, designados pelo respectivo titular;\nII - 1 (um) membro indicado pela Mesa da Câmara Municipal de São Paulo;\nIII - 1 (um) membro indicado pelo Sindicato das Entidades de Administração do Desporto - SEADESP;\nIV - 1 (um) membro indicado pelo Sindicato dos Clubes Desportivos - SINDICLUBE;\nV - 1 (um) membro indicado pelo Sindicato dos Professores de Educação Física do Estado de São Paulo - SINPEFESP;\nVI - 1 (um) ex-atleta de alto rendimento, designado pelo Secretário Municipal de Esportes, Lazer e Recreação.\n§ 1° A Comissão Especial de Seleção de que trata o \"caput\" deste artigo se reunirá e funcionará nos termos fixados no decreto regulamentar desta lei.\n§ 2º A participação na referida Comissão Especial não será remunerada, sendo considerada de relevante interesse público.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As Bolsas-Atleta de que trata esta lei serão concedidas pelo prazo de 1 (um) ano, constituídas por 12 (doze) pagamentos mensais, podendo sua concessão ser renovada por igual período, sendo que os atletas que conquistarem colocações de 1º, 2° e 3° lugares nas competições estaduais oficiais terão suas bolsas renovadas automaticamente, pelo período de mais 1 (um) ano, devendo atender os requisitos previstos no art. 3° desta lei.\n§ 1º O número de Bolsas-Atleta será fixado pelo Executivo, de acordo com a disponibilidade de recursos financeiros.\n§ 2º O recebimento da Bolsa-Atleta é incompatível com o recebimento de qualquer outro tipo de bolsa de auxílio, de natureza privada ou pública, de qualquer outro ente federativo.\n§ 3º A concessão da Bolsa-Atleta não gera qualquer vínculo, laboral ou de outra natureza, entre o beneficiado e a Administração Pública Municipal.\n"
+      },
+      "art-0006": {
+       "label": "Art 6º",
+       "kind": "article",
+       "text": "Art 6º A concessão da Bolsa-Atleta poderá ser cancelada a qualquer momento caso o atleta beneficiário:\nI - abandone ou seja dispensado dos treinamentos;\nII - seja reprovado em matérias letivas do curso fundamental ou médio em que esteja matriculado, no caso de atletas com idade entre 14 (quatorze) anos e 18 (dezoito) anos;\nIII - seja considerado inapto pela comissão técnica da modalidade, por motivo médico, técnico ou disciplinar, desde que seja apresentado relatório com as devidas justificativas à Comissão Especial de Seleção;\nIV - deixar, por qualquer motivo, de cumprir as determinações desta lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo regulamentará a presente lei, no que couber, no prazo máximo de 60 (sessenta) dias, contados de sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, revogada a Lei n° 14.906, de 6 de fevereiro de 2009.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de outubro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 29 de outubro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 15.020, de 29/10/2009 was altered by acts of 3 date(s), the latest 2026-04-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15021",
+   "short": "Lei 15021/2009",
+   "title": "Lei nº 15.021, de 04/11/2009 (Aprova reserva de área destinada à implantação de alça direcional no Complexo Viário Real Parque.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15021-de-4-de-novembro-de-2009",
+   "first_law": "lei-2009-15021",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15021-de-4-de-novembro-de-2009",
+     "sha256": "1015f0c59728b30f9891440a82608954a4b358e6d23b033216b02e615113a8b6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.021, DE 4 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 251/08, do Executivo)\nAprova reserva de área destinada à implantação de alça direcional no Complexo Viário Real Parque.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. De acordo com a planta anexa nº 26.922  Classificação G-545, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovada reserva de área no perímetro da Operação Urbana Consorciada Água Espraiada, destinada à implantação de alça direcional no Complexo Viário Real Parque.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para os fins desta lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 4 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 4 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15022",
+   "short": "Lei 15022/2009",
+   "title": "Lei nº 15.022, de 06/11/2009 (Cria o Programa de Prevenção aos Incêndios nas Favelas do Município.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15022-de-6-de-novembro-de-2009",
+   "first_law": "lei-2009-15022",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15022-de-6-de-novembro-de-2009",
+     "sha256": "c8491f66f71c069592ccd29a3fc75444a89880fcf1b97edf2447aad2e3ec7fc6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.022, DE 6 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 558/01, do Vereador Celso Jatene - PTB)\nCria o Programa de Prevenção aos Incêndios nas Favelas do Município.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Programa de Prevenção aos Incêndios nas Favelas do Município com o objetivo de reduzir a vulnerabilidade das favelas aos incêndios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Prevenção aos Incêndios nas Favelas do Município consistirá na promoção, dentre outras, das seguintes ações:\nI - organização de palestras visando conscientizar os moradores quanto à necessidade de adoção, tanto nos ambientes domésticos quanto nas áreas comuns, de medidas de cautela contra a ocorrência de incêndios;\nII  elaboração e distribuição de material didático, na forma de cartilhas, veiculando informações sobre as primeiras providências a serem adotadas em caso da ocorrência de incêndios, com vistas a minimizar as suas consequências;\nIII - confecção e afixação de cartazes em locais visíveis à população das favelas, alertando sobre as medidas acautelatórias e de minimização dos incêndios;\nIV - implementação de medidas que possam envolver a comunidade, tal como a formação de associações de voluntários, brigadas de incêndio, com o oferecimento de cursos de capacitação sobre as ações adequadas no caso de incêndio.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As ações previstas nesta lei ficarão sob a responsabilidade da Coordenadoria Municipal de Defesa Civil - COMDEC.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a consecução dos objetivos do Programa ora criado, o Poder Executivo poderá firmar parcerias com órgãos públicos, instituições privadas, entidades da sociedade civil e organizações não governamentais ligadas à temática da prevenção e combate aos incêndios.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15023",
+   "short": "Lei 15023/2009",
+   "title": "Lei nº 15.023, de 06/11/2009 (Institui o Programa Municipal de Proteção e Bem-Estar de Cães e Gatos  PROBEM e cria o Núcleo de Proteção e Bem-Estar de Cães e Gatos.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15023-de-6-de-novembro-de-2009",
+   "first_law": "lei-2009-15023",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15023-de-6-de-novembro-de-2009",
+     "sha256": "75c376ccec687a9c365df459e5ea202aa1721a08b2b0112666033ece8d2ce5f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.023, DE 6 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 251/09, do Vereador Roberto Tripoli - PV)\nInstitui o Programa Municipal de Proteção e Bem-Estar de Cães e Gatos - PROBEM e cria o Núcleo de Proteção e Bem-Estar de Cães e Gatos.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Municipal de Proteção e Bem-Estar de Cães e Gatos - PROBEM.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O PROBEM tem por objetivo promover e proteger a saúde de cães e gatos, garantindo o bem-estar desses animais e prevenindo agravos à saúde pública e ao meio ambiente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica criado o Núcleo de Proteção e Bem-Estar de Cães e Gatos, vinculado à Coordenação de Vigilância em Saúde  COVISA, da Secretaria Municipal de Saúde, ao qual incumbirá a execução do PROBEM de forma integrada com o Centro de Controle de Zoonoses - CCZ.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Na execução do PROBEM, incumbirá ao Centro de Controle de Zoonoses - CCZ, sem prejuízo de suas atribuições legais:\nI - desenvolver ações de vigilância, prevenção e controle de populações animais, visando o controle de zoonoses, doenças transmitidas por vetores e outros agravos provocados por animais;\nII - estabelecer diretrizes para a execução do Programa de Saúde Animal (guarda responsável, esterilização programada de cães e gatos, registro de animais e adoção responsável);\nIII - supervisionar as ações voltadas ao controle reprodutivo de cães e gatos junto às organizações não governamentais, clínicas e hospitais veterinários que mantêm convênio ou contrato com o poder público municipal;\nIV - proceder à avaliação clínica e laboratorial dos animais recolhidos, para fins de controle de zoonoses e de sua saúde, bem como à vacinação contra raiva e/ou outra doença específica;\nV - proceder a tratamento técnico e ético, garantindo o bem-estar animal durante todo o procedimento de remoção, permanência e destinação dos animais recolhidos ao Centro de Controle de Zoonoses - CCZ;\nVI - proceder a ações de fiscalização do comércio de cães e gatos, de seu registro e identificação, bem como a ações tendentes a coibir o abandono desses animais na Cidade;\nVII - proporcionar o apoio técnico necessário à execução das ações de que trata o inciso VI deste artigo, quando efetuadas pelas Supervisões de Vigilância em Saúde - SUVIS.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Na execução do PROBEM, incumbirá ao Núcleo de Proteção e Bem-Estar de Cães e Gatos:\nI - estabelecer diretrizes e normas para a garantia da aplicação dos preceitos de bem-estar animal nas atividades que envolvam cães e gatos;\nII - atuar de forma integrada com o Centro de Controle de Zoonoses - CCZ, de modo a garantir a execução das ações previstas, bem como assegurar a efetividade e a eficiência das atividades de controle e prevenção das zoonoses;\nIII - regionalizar e descentralizar os alojamentos de cães e gatos, prevendo as formas operacionais de manutenção, reabilitação e recolocação;\nIV - desenvolver, de forma permanente, ações destinadas à divulgação de informações, à educação e à conscientização sobre guarda responsável, a fim de prevenir o abandono de cães e gatos;\nV - garantir a continuidade das ações e programas previstos na legislação vigente e em desenvolvimento no Município;\nVI - implantar, gerir e supervisionar as atividades dos núcleos regionais de atendimento de cães e gatos;\nVII - promover ações para a adoção de cães e gatos;\nVIII - desenvolver ações preventivas do abandono de cães e gatos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a consecução dos objetivos previstos nesta lei, poderão ser estabelecidas parcerias com entidades de proteção aos animais, organizações não governamentais e governamentais, universidades, empresas públicas e/ou privadas, nacionais ou internacionais, bem assim como entidades de classe ligadas aos médicos veterinários.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O recolhimento dos cães e gatos encontrados soltos em vias e logradouros públicos será seletivo e efetuado nos casos de agressão, invasão comprovada a instituições públicas ou locais em situação de risco, bem como nos casos de animais em estado de sofrimento.\nParágrafo único. Serão recolhidos os animais com suspeita de transmissão de zoonoses de importância em saúde pública.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data da sua publicação, revogado o Decreto n° 50.706, de 2 de julho de 2009.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 6 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15024",
+   "short": "Lei 15024/2009",
+   "title": "Lei nº 15.024, de 10/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15024-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15024",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15024-de-10-de-novembro-de-2009",
+     "sha256": "689e74aabf5ba61453ccb06d0d76772333ca10105c397b55fab88c1de14cde88",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.024, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 434/09, do Executivo)\nCria o Escritório de Cinema de São Paulo - ECINE (São Paulo City Film Commission), na Secretaria Municipal de Cultura, bem como dispõe sobre o seu quadro de cargos de provimento em comissão.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de novembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica criado o Escritório de Cinema de São Paulo - ECINE (São Paulo City Film Commission), órgão de assessoramento que passa a integrar a Secretaria Municipal de Cultura.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA FINALIDADE\nArt. 2º. O ECINE tem por finalidades coordenar, centralizar e simplificar procedimentos relacionados à realização de atividades audiovisuais nas vias, logradouros e próprios municipais, bem como orientar os interessados, tudo de modo a incrementar o desenvolvimento dessas atividades no âmbito do Município de São Paulo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA ORGANIZAÇÃO, ATRIBUIÇÕES E COMPETÊNCIAS\n## Seção I\n## Da Organização\nArt. 3º. O ECINE compõe-se de:\nI - Gabinete do Diretor;\nII - Conselho Consultivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## Seção II\n## Das Atribuições\nArt. 4º. São atribuições do ECINE:\nI - estimular a produção e o comércio de obras e produtos audiovisuais na Cidade de São Paulo, por intermédio de ações de apoio logístico e institucional, coordenando as várias instâncias do Poder Público, bem como centralizando atividades dispersas e simplificando procedimentos técnicos e burocráticos, com o intuito de facilitar e viabilizar o desenvolvimento das atividades ligadas ao setor audiovisual, beneficiando, em decorrência, a infraestrutura de serviços ligados à cadeia de produção audiovisual, a geração de empregos, direta e indiretamente, e a arrecadação de impostos;\nII - promover a divulgação da Cidade de São Paulo quanto a seus aspectos culturais, artísticos e científicos, no país e no exterior, buscando atrair investimentos e fluxo turístico, seja pela exposição das obras audiovisuais produzidas no Município, seja pelas atividades de divulgação das vantagens técnicas e operacionais por ele oferecidas;\nIII - incentivar a realização de festivais, mostras, encontros e seminários, de natureza cultural, promocional e comercial, relacionados aos seus objetivos;\nIV - fomentar a difusão cultural e a distribuição comercial da produção audiovisual paulistana no país e no exterior;\nV - outras medidas atinentes a suas competências.\nParágrafo único. O ECINE poderá associar-se a entidades nacionais, estrangeiras e internacionais, sem fins lucrativos, visando ampliar sua atuação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção III\n## Das Competências\nArt. 5º. Compete ao Diretor do ECINE:\nI - gerir as atividades ordinárias do ECINE;\nII - transmitir aos servidores do ECINE as medidas a serem adotadas no desenvolvimento dos trabalhos;\nIII - elaborar e submeter ao Conselho Consultivo, anualmente, o programa de atividades;\nIV - submeter ao Conselho Consultivo, anualmente, o relatório de atividades realizadas no período;\nV - submeter à Secretaria Municipal de Cultura e ao Conselho Consultivo proposta de criação de comissões ou grupos técnicos de trabalho, com vistas ao estudo e realização de atividades afetas ao ECINE;\nVI - representar o ECINE no âmbito de sua atuação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO CONSELHO CONSULTIVO\nArt. 6º. O Conselho Consultivo será composto por 9 (nove) membros, na seguinte conformidade:\nI - o Secretário Municipal de Cultura;\nII - 4 (quatro) representantes de órgãos e entes públicos, sendo 1 (um) da Secretaria Municipal de Coordenação das Subprefeituras, 1 (um) da Secretaria Municipal de Transportes, 1 (um) da Secretaria do Governo Municipal e 1 (um) da São Paulo Turismo S.A. - SPTuris, indicados pelos respectivos titulares;\nIII - 4 (quatro) membros dentre pessoas de reputação ilibada e que gozem de elevado conceito em seu campo de especialidade, escolhidas mediante consulta a entidades situadas no Município de São Paulo, representativas dos setores de produção, prestação de serviços, promoção cultural, produção publicitária, mão-de-obra e comercialização, que compõem o universo profissional do audiovisual, em seus aspectos culturais e industriais.\n§ 1º. O Conselho Consultivo será presidido pelo Secretário Municipal de Cultura ou pelo representante por ele designado.\n§ 2º. Os membros titulares do Conselho Consultivo a que se referem os incisos II e III do \"caput\" deste artigo serão designados pelo Secretário Municipal de Cultura, juntamente com os respectivos suplentes.\n§ 3º. Os membros do Conselho Consultivo terão mandato de 2 (dois) anos, permitida uma recondução.\n§ 4º. Para os efeitos deste artigo, consideram-se entidades representativas do setor audiovisual do Município aquelas com estatutos próprios registrados nos termos da legislação vigente, comprovadamente em atividade há, pelo menos, 2 (dois) anos e que tenham, no mínimo, 20 (vinte) associados.\n§ 5º. As atividades exercidas pelos membros do Conselho Consultivo não serão remuneradas a qualquer título, sendo consideradas de relevante serviço público.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Compete ao Conselho Consultivo:\nI - opinar sobre a indicação do Diretor do ECINE, proposta pelo Secretário Municipal de Cultura;\nII - aprovar o relatório anual de atividades, encaminhado pelo Diretor do ECINE;\nIII - orientar e opinar sobre qualquer assunto afeto à natureza e atividades do ECINE;\nIV - elaborar e aprovar seu Regimento Interno, a ser divulgado pela Secretaria Municipal de Cultura.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Conselho Consultivo se reunirá, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for necessário, por convocação de seu Presidente, pela maioria de seus membros ou por solicitação do Diretor do ECINE.\nParágrafo único. O Diretor do ECINE terá direito a voz, mas não a voto, nas reuniões do Conselho Consultivo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS DISPOSIÇÕES FINAIS\nArt. 9º. Os cargos de provimento em comissão do ECINE são os constantes do Anexo Único desta lei, observadas as seguintes normas:\nI - criados, os cargos constantes na coluna \"Situação Nova\", sem correspondência na coluna \"Situação Atual\";\nII - mantidos, com as alterações ocorridas, os que constam das duas situações;\nIII - extinto, o que figura apenas na coluna \"Situação Atual\".\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta lei entrará em vigor na data de sua publicação, revogado o Decreto n° 48.408, de 1° de junho de 2007.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nOBS.: QUADRO ANEXO, VIDE DOC 11/11/2009 - PÁGINA 1\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15025",
+   "short": "Lei 15025/2009",
+   "title": "Lei nº 15.025, de 10/11/2009 (Institui o Fundo Especial de Despesas do Tribunal de Contas do Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15025-de-10-de-novembro-de-2009",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2009-15025"
+   ],
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15025-de-10-de-novembro-de-2009",
+     "sha256": "dcd8abf6a2cd80b70f35e88ec8c6c12d2c6e090defe0ad03d6b0a93a677c0fbc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.025, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 685/09, do Executivo)\nInstitui o Fundo Especial de Despesas do Tribunal de Contas do Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de novembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído o Fundo Especial de Despesas do Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Fundo tem por finalidade assegurar recursos para a expansão e aperfeiçoamento das atividades desenvolvidas no âmbito do Tribunal de Contas do Município de São Paulo, em especial para as seguintes:\nI - modernização técnico-administrativa;\nII - treinamento, aperfeiçoamento, capacitação e qualificação profissional de seus servidores;\nIII - programas de esclarecimento à sociedade sobre as atividades desenvolvidas;\nIV - aquisição de serviços, produtos e materiais que se fizerem necessários para o desenvolvimento de suas atividades;\nV - remuneração e pagamento de viagens e estadias para convidados que ministrarem palestras ou aulas em cursos e outros eventos realizados pelo Tribunal de Contas do Município de São Paulo e pela Escola Superior de Gestão e Contas Públicas Conselheiro Eurípedes Sales;\nVI - realização de cursos e outros eventos destinados a propiciar o aprimoramento técnico-profissional de servidores públicos e de segmentos da sociedade;\nVII - aquisição e confecção de placas, diplomas, certificados e outros, a serem ofertados a palestrantes, docentes e personalidades ilustres.\nVIII - pagamento das atividades docentes, realizadas sob a forma de aulas, palestras e orientações de trabalho científico, na forma do Anexo Único integrante desta lei, ficando autorizado o custeio de despesas com viagem, alimentação, transporte, estadia e outras, necessárias ao deslocamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Constituem receitas do Fundo:\nI - extração de cópias reprográficas em geral;\nII - ressarcimento de bens e materiais segurados em decorrência de indenizações de seguradoras;\nIII - taxas remuneratórias decorrentes do pagamento de consignações relativas aos descontos efetuados na folha de pagamento dos servidores do Tribunal de Contas do Município de São Paulo;\nIV - receitas oriundas de alienação de bens e materiais que não sejam mais utilizáveis pelo Tribunal de Contas do Município de São Paulo;\nV - receitas oriundas de remuneração pela utilização de espaços do Tribunal de Contas do Município de São Paulo, incluindo postos de atendimento bancário;\nVI - recursos recebidos de instituição financeira contratada para efetuar a movimentação das disponibilidades de caixa do Tribunal de Contas do Município de São Paulo e o pagamento de seu quadro de servidores e de fornecedores;\nVII - receitas provenientes de convênios e acordos firmados pelo Tribunal de Contas do Município de São Paulo;\nVIII - receitas decorrentes de atos administrativos que impliquem ressarcimento por parte dos servidores, incluindo o pagamento de segundas vias de crachás;\nIX - indenizações, restituições e multas contratuais aplicadas no âmbito administrativo do Tribunal de Contas do Município de São Paulo;\nX - garantias retidas de contratos administrativos firmados pelo Tribunal de Contas do Município de São Paulo, quando não passíveis de liberação ou restituição ao contratado ou quando não utilizadas para pagamento de multas contratuais;\nXI - doações, legados e contribuições de pessoas físicas ou jurídicas de direito privado, de órgãos ou entidades federais, estaduais ou de outros Municípios, bem como de entidades internacionais;\nXII - recursos provenientes de reembolso de despesas com telefonia;\nXIII - resultado da aplicação financeira das disponibilidades de caixa;\nXIV - quaisquer outras receitas que legalmente lhe possam ser incorporadas.\nXV - receitas advindas do funcionamento da Escola de Contas;\nXVI - quaisquer outras receitas que legalmente lhe possam ser incorporadas.\n§ 1º. O saldo financeiro, apurado em balanço anual, será transferido para o exercício seguinte.\n§ 2º. As receitas que constituem o Fundo serão classificadas de acordo com sua natureza e categoria econômica, propiciando a adequada prestação de contas.\n§ 3º. As receitas próprias discriminadas neste artigo serão utilizadas para o pagamento de despesas inerentes aos objetivos do Fundo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Os recursos do Fundo serão movimentados em conta corrente específica.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Fundo terá escrituração própria, atendidas as normas previstas na legislação vigente e estará sujeito à auditoria do Tribunal de Contas do Município de São Paulo.\nParágrafo único. A prestação de contas do Fundo integrará o balanço anual do Tribunal de Contas do Município de São Paulo, para posterior apreciação pela Câmara Municipal, nos termos do art. 14, inciso XII, da Lei Orgânica do Município de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Compete ao Tribunal de Contas do Município de São Paulo a administração do Fundo, a fixação de suas diretrizes operacionais e a publicação de seus relatórios contábeis e balancetes, de acordo com a legislação vigente.\nParágrafo único. O ordenador de despesas do Fundo é o Presidente do Tribunal de Contas do Município de São Paulo, que poderá delegar essa função mediante portaria.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Os equipamentos e materiais permanentes adquiridos com recursos do Fundo serão incorporados ao patrimônio do Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor no dia 1º de janeiro do exercício seguinte ao de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\nAnexo único integrante da Lei nº 15.025, de 10 de novembro de 2009, acrescido pela Lei nº 15.500, de 12 de dezembro de 2011\nATIVIDADE DOCENTE - HORA-AULA\nTÍTULO PERCENTUAL DO QTCC-08\nGraduado 1,00%\nEspecialista 1,50%\nMestre 2,00%\nDoutor 2,50%\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 15.025, de 10/11/2009 was altered by acts of 1 date(s), the latest 2011-12-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15026",
+   "short": "Lei 15026/2009",
+   "title": "Lei nº 15.026, de 10/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15026-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15026",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15026-de-10-de-novembro-de-2009",
+     "sha256": "b7b5b30ff9818883cf6a63635dadb79f12e864cf545a84be604a5fda8ffd146b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.026, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 20/09, do Vereador José FerreiraZelão - PT)\nDenomina Travessa do Bom Vizinho a passagem identificada pelo código CADLOG 59.376 - 1, que se inicia na Rua Cachoeira Escaramuça e termina na Rua Cachoeira Utupirú, (Setor 133 - Quadra 207), situada no distrito do Itaim Paulista, Subprefeitura do Itaim Paulista.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Travessa do Bom Vizinho a passagem identificada pelo código CADLOG 59.376 - 1, que se inicia na Rua Cachoeira Escaramuça e termina na Rua Cachoeira Utupirú, (Setor 133 - Quadra 207), situada no distrito do Itaim Paulista, Subprefeitura do Itaim Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15027",
+   "short": "Lei 15027/2009",
+   "title": "Lei nº 15.027, de 10/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15027-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15027",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15027-de-10-de-novembro-de-2009",
+     "sha256": "cb48046136eec096bbd3c83c8bad1f4d79233897a394ba13b56241adf652219d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.027, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 343/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Anísio Nunes de Almeida o espaço livre existente na confluência da Rua Onam Gomes de Sena com Rua Antonio de Jesus, situado no Distrito do Capão Redondo, Subprefeitura de Campo Limpo, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Anísio Nunes de Almeida o espaço livre existente na confluência da Rua Onam Gomes de Sena com Rua Antonio de Jesus (Setor 166 - Quadra 196), situado no Distrito do Capão Redondo, Subprefeitura de Campo Limpo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15028",
+   "short": "Lei 15028/2009",
+   "title": "Lei nº 15.028, de 10/11/2009 (Denomina Praça Luzia de Carvalho Leme o logradouro público inominado, localizado na Subprefeitura da Freguesia/Brasilândia, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15028-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15028",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15028-de-10-de-novembro-de-2009",
+     "sha256": "e8a41baefd9c4ebeba4334848de22ab34f9cbe6e689ad1cee22a11226f6911b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.028, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 452/08, do Vereador Claudinho - PSDB)\nDenomina Praça Luzia de Carvalho Leme o logradouro público inominado, localizado na Subprefeitura da Freguesia/Brasilândia, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Luzia de Carvalho Leme o espaço livre sem denominação, delimitado pelas Ruas Alcantilado, Barra Acarai e José Gabriel de Souza (Setor 106  Quadra 257), no Distrito da Freguesia do Ó, Subprefeitura da Freguesia/Brasilândia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15029",
+   "short": "Lei 15029/2009",
+   "title": "Lei nº 15.029, de 10/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15029-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15029",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15029-de-10-de-novembro-de-2009",
+     "sha256": "7d045fecdcd5fcb017738505b1c588f5d8bdea8401775e236c4325a6b616d866",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.029, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 474/08, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Fedele Laviano o espaço livre sem denominação delimitado pelas Ruas Jaime Rodrigues e Frei Pantaleão de Aveiro e Viela 1, situado no Distrito do Campo Grande, Subprefeitura de Santo Amaro, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Fedele Laviano o espaço livre sem denominação delimitado pelas Ruas Jaime Rodrigues e Frei Pantaleão de Aveiro e Viela 1, (Setor 121 - Quadra 235), situado no Distrito do Campo Grande, Subprefeitura de Santo Amaro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15030",
+   "short": "Lei 15030/2009",
+   "title": "Lei nº 15.030, de 10/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15030-de-10-de-novembro-de-2009",
+   "first_law": "lei-2009-15030",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15030-de-10-de-novembro-de-2009",
+     "sha256": "0e3e76a3f5aa4e61f673663d14419d13d50f31c03ce1c90bf719b0d17ad23926",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.030, DE 10 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 594/08, do Vereador Toninho Paiva - PR)\nDenomina Praça Onias Ferreira Peixinho o espaço livre sem denominação, delimitado pelas ruas Maciel Viana e Renato Katsuya Sato e pela divisa com a área ocupada por equipamento institucional, situado no Distrito de Vila Jacuí, no Parque Cruzeiro do Sul.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Onias Ferreira Peixinho o remanescente do espaço livre constante do ARR 881, identificado como nº 12 do Croqui 100321 de PATR, delimitado pelas ruas Maciel Viana e Renato Katsuya Sato e pela divisa com a área ocupada por equipamento institucional (Setor 112  Quadra 314), situado no Distrito de Vila Jacuí, Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 10 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 10 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15031",
+   "short": "Lei 15031/2009",
+   "title": "Lei nº 15.031, de 13/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15031-de-13-de-novembro-de-2009",
+   "first_law": "lei-2009-15031",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15031-de-13-de-novembro-de-2009",
+     "sha256": "e6b8c8fd8a753d318cdfafc8caf4f95dbb48c3c415bb73ef464a9b613ce17ddb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.031, DE 13 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 461/09, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispensa da licença de funcionamento o exercício das atividades não residenciais para o Microempreendedor Individual - MEI, a que se refere a Lei Complementar Federal n° 123, de 14 de dezembro de 2006, com as alterações introduzidas pelas Leis Complementares Federais n° 127, de 14 de agosto de 2007, e n° 128, de 19 de dezembro de 2008, na forma que especifica.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam dispensadas da obrigatoriedade da obtenção da licença de funcionamento, prevista no art. 208 da Lei n° 13.885, de 25 de agosto de 2004, as atividades não residenciais que sejam desempenhadas por Microempreendedor Individual - MEI, registrado nos termos da Lei Complementar Federal n° 123, de 14 de dezembro de 2006, com as alterações introduzidas pelas Leis Complementares Federais n° 127, de 14 de agosto de 2007, e n° 128, de 19 de dezembro de 2008.\n§ 1º. As atividades não residenciais dispensadas da obtenção da licença de funcionamento prevista no \"caput\" deste artigo serão definidas por ato do Executivo, dentre as atividades econômicas permitidas ao Microempreendedor Individual - MEI pelo ente federal competente, observado o critério de risco da atividade e o interesse do Município de São Paulo.\n§ 2º. Caso dispensado da licença de funcionamento, nos termos do \"caput\" deste artigo, o documento comprobatório de registro como Microempreendedor Individual - MEI e o Cadastro de Contribuinte Mobiliário - CCM, no qual seja certificado que a atividade desempenhada coincide com aquelas definidas em ato do Executivo, deverão ser mantidos à disposição dos órgãos de fiscalização municipal.\n§ 3º. O funcionamento das atividades referidas no \"caput\" deste artigo, desempenhadas por Microempreendedor Individual - MEI, é admitido em todas as zonas de uso, exceto em edificações localizadas em Zonas Exclusivamente Residenciais - ZER e em Zonas Exclusivamente Residenciais de Proteção Ambiental - ZERp, atendidos os parâmetros de incomodidade definidos para a zona de uso ou via, assim como as exigências relativas à segurança, higiene e salubridade.\n§ 4º. A dispensa mencionada no \"caput\" deste artigo não se aplica aos estabelecimentos não residenciais para os quais o Microempreendedor Individual - MEI preste serviços ou dos quais faça parte.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para as demais atividades não residenciais permitidas ao Microempreendedor Individual - MEI e não definidas em ato do Executivo, deverá ele obter a licença de funcionamento em prazo não superior a 60 (sessenta) dias a partir da data de sua inscrição no Cadastro dos Contribuintes Mobiliários - CCM, não sendo aplicadas, nesse período, as sanções pela falta de licença previstas na Seção I do Capítulo III do Título IV da Parte III da Lei n° 13.885, de 2004, exceto nas hipóteses de seu art. 224, inciso III, e § 1°.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A fiscalização das atividades registradas como Microempreendedor Individual - MEI, definidas em ato do Executivo, terá natureza prioritariamente orientadora e será desenvolvida pelos órgãos competentes, observado o critério de duas visitas para a lavratura do Auto de Multa.\nParágrafo único. O disposto neste artigo não se aplica ao processo administrativo fiscal relativo a tributos, que se dará na forma dos arts. 39 e 40 da Lei Complementar Federal n° 123, de 2006.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A infração aos parâmetros de incomodidade, à segurança, à higiene e à salubridade ensejará a lavratura de Auto de Infração e de Auto de Multa no valor de R$ 100,00 (cem reais), dobrado na reincidência.\n§ 1º. O valor da multa prevista no \"caput\" deste artigo será atualizado pela variação do Índice de Preços ao Consumidor Amplo - IPCA do Instituto Brasileiro de Geografia e Estatística - IBGE, na forma estabelecida na legislação municipal pertinente.\n§ 2º. Concomitantemente à aplicação do primeiro Auto de Multa, será lavrado Auto de Intimação para regularizar a situação ou encerrar a atividade no prazo máximo de 30 (trinta) dias.\n§ 3º. O desatendimento do Auto de Intimação de que trata o § 2° deste artigo implicará a lavratura do segundo Auto de Infração e de Multa e a interdição da atividade, com lacre.\n§ 4º. Caso haja resistência à interdição, deverá ser acionada a Assessoria Militar do Gabinete do Prefeito para obter o necessário auxílio da Polícia Militar, com o objetivo de garantir o pleno poder administrativo.\n§ 5º. Constatado o rompimento do lacre, será lavrado Auto de Constatação, bem como emitidos Autos de Infração e de Multa por desobediência, no valor de R$ 200,00 (duzentos reais), sendo o fato noticiado à autoridade policial competente, para instauração de inquérito pelo crime de desobediência previsto no Código Penal.\n§ 6º. A multa por desobediência à interdição será renovada automaticamente a cada 30 (trinta) dias, até que o efetivo encerramento da atividade seja comunicado, por escrito, ao órgão competente do Executivo Municipal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O desvirtuamento no exercício de atividade registrada na conformidade do art. 1° desta lei, com a alteração das condições que o caracterizavam como Microempreendedor Individual - MEI, ensejará a aplicação dos procedimentos e penalidades previstos na Lei n° 13.885, de 2004.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As Praças de Atendimento das Subprefeituras disponibilizarão espaço para criação da sala do empreendedor, fornecendo informações e orientações com vistas a agilizar o processo de formalização e adaptação dos Microempreendedores Individuais - MEI à legislação vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Executivo regulamentará esta lei no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 13 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15032",
+   "short": "Lei 15032/2009",
+   "title": "Lei nº 15.032, de 13/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15032-de-13-de-novembro-de-2009",
+   "first_law": "lei-2009-15032",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15032-de-13-de-novembro-de-2009",
+     "sha256": "578ecb92a9a32a8bc690da56bca63e066bb66bcdb2f9134ccdb6190deabecfac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.032, DE 13 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 462/09, do Executivo)\nConcede isenção da Taxa de Fiscalização de Estabelecimentos - TFE e da Taxa de Fiscalização de Anúncios - TFA ao Microempreendedor Individual - MEI optante pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional - SIMEI.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 21 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica isento do pagamento da Taxa de Fiscalização de Estabelecimentos - TFE e da Taxa de Fiscalização de Anúncios - TFA o Microempreendedor Individual - MEI, a que se refere o § 1º do art. 18-A da Lei Complementar Federal nº 123, de 14 de dezembro de 2006, acrescido pela Lei Complementar Federal nº 128, de 19 de dezembro de 2008, optante pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional - SIMEI.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A isenção da TFA referida no art. 1º desta lei fica restrita aos anúncios com dimensão de até 0,09m² (nove decímetros quadrados), quando colocados nas respectivas residências ou locais de trabalho.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A isenção de que trata o art. 1º desta lei não exime o Microempreendedor Individual - MEI optante pelo Simples Nacional - SIMEI da inscrição e atualização de seus dados no Cadastro de Contribuintes Mobiliários - CCM e do cumprimento das demais obrigações acessórias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2010.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 13 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15034",
+   "short": "Lei 15034/2009",
+   "title": "Lei nº 15.034, de 23/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15034-de-23-de-novembro-de-2009",
+   "first_law": "lei-2009-15034",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15034-de-23-de-novembro-de-2009",
+     "sha256": "72623d03b608731e3e5c60dc6f4b3264cbaf1721f0883908df68758f033d837d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.034 DE 23 DE NOVEMBRO DE 2009\n(PROJETO DE LEI Nº 229/09)(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal de Luta pela Educação Inclusiva, a ser comemorado, anualmente, no dia 14 de abril, e dá outras providências.\nAntonio Carlos Rodrigues, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Acresce alínea ao inciso LXIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, incluindo o Dia Municipal de Luta pela Educação Inclusiva, a ser comemorado, anualmente, no dia 14 de abril, com homenagens e eventos de divulgação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 23 de novembro de 2009.\nO Presidente, Antonio Carlos Rodrigues\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 23 de novembro de 2009.\nO Secretário Geral Parlamentar, Breno Gandelman\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15035",
+   "short": "Lei 15035/2009",
+   "title": "Lei nº 15.035, de 23/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15035-de-23-de-novembro-de-2009",
+   "first_law": "lei-2009-15035",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15035-de-23-de-novembro-de-2009",
+     "sha256": "5adc2aacbf728699c09cf58aa34ea83653bc956f1657d963c6f5565e7c5616a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.035, DE 23 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 467/07, dos Vereadores Chico Macena - PT e Soninha - PPS)\nAltera a redação do art. 7º, CXCIX, da Lei nº 14.485, de 19 de julho de 2007, restringindo a circulação de veículos no perímetro que especifica, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso CXCIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, passa a vigorar com a seguinte redação:\n\"Art. 7º .............................................................\nCXCIX - 22 de setembro:\na) o Dia do Campo Limpo;\nb) o Dia Municipal Sem Carro, com caráter de campanha educativa, de acordo com o art. 75, § 1º, da Lei Federal nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, devendo o Poder Público Municipal, ao longo de todo o ano e, destacadamente, nesse dia, envidar esforços para promover atividades educativas e a realização de campanhas e programas para obter adeptos ao não-uso de carros, sendo a adesão ao não-uso de carros nesse dia voluntária;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\na) (VETADO)\nb) (VETADO)\nc) (VETADO)\nd) (VETADO)\ne) (VETADO)\nf) (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\na) (VETADO)\nb) (VETADO)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15036",
+   "short": "Lei 15036/2009",
+   "title": "Lei nº 15.036, de 23/11/2009 (Denomina Viaduto Milton Leão o viaduto construído sobre a Avenida Águia de Haia, localizado próximo à estação de metrô Artur Alvim, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15036-de-23-de-novembro-de-2009",
+   "first_law": "lei-2009-15036",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15036-de-23-de-novembro-de-2009",
+     "sha256": "da12406e5670ea0fbed895f708ff78430fe8e3e63772512bd6d618bade5493a8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.036, DE 23 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 86/08, do Vereador José Ferreira  Zelão  PT)\nDenomina Viaduto Milton Leão o viaduto construído sobre a Avenida Águia de Haia, localizado próximo à estação de metrô Artur Alvim, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viaduto Milton Leão o viaduto construído sobre a Avenida Águia de Haia, localizado próximo à estação de metrô Artur Alvim (Setor 113 - Quadras 525, 526 e 528 e Setor 142 - Quadras 78 e 80), situado no Distrito de Artur Alvim, Subprefeitura da Penha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15037",
+   "short": "Lei 15037/2009",
+   "title": "Lei nº 15.037, de 23/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15037-de-23-de-novembro-de-2009",
+   "first_law": "lei-2009-15037",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15037-de-23-de-novembro-de-2009",
+     "sha256": "0717cd809185a46c130c6c1e8e2e095418d9bb8f683c15f9e3e5f335f42c89b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.037, DE 23 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 349/08, do Vereador Senival Moura - PT)\nDenomina Rua Ercília Japequini Torres o logradouro público inominado situado entre a Rua Porto do Una e a Rua Coutinho e Melo, Distrito de Guaianases, Subprefeitura Guaianases, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Ercília Japequini Torres o logradouro público inominado situado entre a Rua Porto do Una e a Rua Coutinho e Melo (Setor 115 - Quadra 215), Distrito de Guaianases, Subprefeitura Guaianases.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 23 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15039",
+   "short": "Lei 15039/2009",
+   "title": "Lei nº 15.039, de 27/11/2009 (Dispõe sobre a proibição de agenciamento de serviços funerários de natureza privada nas dependências de estabelecimentos públicos municipais de saúde.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15039-de-27-de-novembro-de-2009",
+   "first_law": "lei-2009-15039",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15039-de-27-de-novembro-de-2009",
+     "sha256": "2bc7ad717279f9d78e58813e605fe09e02d6cab864ac07aab6297be204ac3984",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.039, DE 27 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 742/05, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a proibição de agenciamento de serviços funerários de natureza privada nas dependências de estabelecimentos públicos municipais de saúde.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de outubro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É proibida, nas dependências dos estabelecimentos públicos municipais de saúde, a presença de pessoas vinculadas a empresas funerárias, com fins de agenciamento ou venda de artigos ou serviços dessa espécie, competindo exclusivamente ao Serviço Funerário do Município de São Paulo a prestação e execução das atividades e serviços previstos na Lei nº 8.383, de 19 de abril de 1976, com as alterações subsequentes.\nParágrafo único. Para os fins desta lei, consideram-se dependências do estabelecimento não só o recinto interno, como também a portaria, o saguão e o pátio, quando houver.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. É vedado aos estabelecimentos públicos municipais de saúde manter qualquer autorização, acordo ou cooperação com empresas prestadoras de serviços funerários.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os óbitos ocorridos nos estabelecimentos públicos municipais de saúde deverão ser comunicados, de imediato, aos familiares dos mortos ou aos respectivos responsáveis.\n§ 1º. A comunicação do óbito à família ou aos responsáveis pelo falecido será feita unicamente por funcionários da unidade hospitalar, vedada a intermediação de pessoas estranhas.\n§ 2º. A declaração de óbito será entregue exclusivamente aos familiares do morto ou respectivos responsáveis, pessoalmente, nas dependências do próprio estabelecimento.\n§ 3º. Somente após a verificação do óbito e a entrega da respectiva declaração, o cadáver será liberado para traslado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. As dúvidas sobre sepultamentos e funerais deverão ser dirimidas pelo Serviço Funerário do Município de São Paulo, podendo ser solicitada a presença de fiscal daquela autarquia para a orientação que se fizer necessária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Compete aos administradores do estabelecimento público municipal de saúde designar funcionários para impedir o acesso e a intromissão, em suas dependências, das pessoas a que se refere o caput do art. 1º desta lei, devendo ser requisitado o concurso da polícia, quando necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15040",
+   "short": "Lei 15040/2009",
+   "title": "Lei nº 15.040, de 27/11/2009 (Disciplina a divulgação do Programa Aprendendo com Saúde e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15040-de-27-de-novembro-de-2009",
+   "first_law": "lei-2009-15040",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15040-de-27-de-novembro-de-2009",
+     "sha256": "720a035174f2109093012d1291d8a8a964bf4634f63de161eb789ab96ecbccc9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.040, DE 27 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 244/03, do Vereador José FerreiraZelão - PT)\nDisciplina a divulgação do Programa Aprendendo com Saúde e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 4 de novembro de 2009, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Programa Aprendendo com Saúde, no âmbito do Município de São Paulo, terá divulgação periódica na rede pública de ensino municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A divulgação do Programa Aprendendo com Saúde, objeto desta lei, consiste em editar e distribuir gratuitamente, quando da inscrição do aluno no ensino fundamental, guia informando os diversos atendimentos médicos e odontológico desenvolvidos em prol da saúde do escolar, pela Secretaria Municipal da Saúde e pela Secretaria Municipal da Educação.\nParágrafo único. Caberá à Secretaria Municipal da Saúde, com o apoio da Secretaria Municipal da Educação, desenvolver estratégias para garantir a edição e distribuição gratuita do guia mencionado no caput.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-15041",
+   "short": "Lei 15041/2009",
+   "title": "Lei nº 15.041, de 27/11/2009",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15041-de-27-de-novembro-de-2009",
+   "first_law": "lei-2009-15041",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-11-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15041-de-27-de-novembro-de-2009",
+     "sha256": "d3bc6609b9d0319b1fe70f88eb6dbfe1d807d03c2af3bc5d4dacc21f3b99385a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.041, DE 27 DE NOVEMBRO DE 2009\n(Projeto de Lei nº 493/08, do Vereador Beto Custódio - PT)\nDenomina Praça Rosalina de Castro o espaço livre sem denominação delimitado pela Rua Dom Vilares e pelo Complexo Viário Maria Maluf, no Distrito do Cursino, Subprefeitura do Ipiranga, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Rosalina de Castro o espaço livre sem denominação delimitado pela Rua Dom Vilares e pelo Complexo Viário Maria Maluf (Setor 48 - Quadra 328), no Distrito do Cursino, Subprefeitura do Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de novembro de 2009, 456º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nPublicada na Secretaria do Governo Municipal, em 27 de novembro de 2009.\nCLOVIS DE BARROS CARVALHO, Secretário do Governo Municipal\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

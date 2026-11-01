@@ -1,0 +1,2384 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2012-15625": {
+   "label": "Lei nº 15.625, de 19/09/2012",
+   "title": "Dispõe sobre a elaboração do Calendário Anual de Atividades das unidades escolares no Município de São Paulo e cria os polos de atendimento aos alunos matriculados nos Centros de Educação Infantil que deles necessitarem.",
+   "kind": "law",
+   "enacted": "2012-09-19",
+   "published": "2012-09-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15625-de-19-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15626": {
+   "label": "Lei nº 15.626, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para inserir o Dia dos Motoclubes da Zona Leste, a ser comemorado anualmente no dia 11 de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15626-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15627": {
+   "label": "Lei nº 15.627, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia das Cidades pela Vida, Contra a Pena de Morte, a ser comemorado anualmente no dia 30 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15627-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15628": {
+   "label": "Lei nº 15.628, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia dos Povos Latino-Americanos, a ser comemorado anualmente no dia 15 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15628-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15629": {
+   "label": "Lei nº 15.629, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para nela incluir a Feira Internacional da Panificação, Confeitaria e do Varejo Independente de Alimentos – FIPAN, a ser comemorada, anualmente, no mês de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15629-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15630": {
+   "label": "Lei nº 15.630, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o aniversário do Colégio Batista Brasileiro, a ser comemorado anualmente no dia 09 de março, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15630-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15631": {
+   "label": "Lei nº 15.631, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Esportiva do Curling, a ser comemorada anualmente na segunda semana do mês de julho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15631-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15632": {
+   "label": "Lei nº 15.632, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Campeonato de Futebol Amador do Distrito do Cangaíba, a ser iniciado anualmente no mês de agosto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15632-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15633": {
+   "label": "Lei nº 15.633, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Medida Certa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15633-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15634": {
+   "label": "Lei nº 15.634, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal dos Gestores Educacionais, a ser comemorado anualmente no dia 26 de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15634-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15635": {
+   "label": "Lei nº 15.635, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de Luta e Combate à Violência Contra a Mulher, a ser comemorado anualmente no dia 25 de novembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15635-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15636": {
+   "label": "Lei nº 15.636, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cipeiro, a ser comemorado anualmente no dia 28 de abril, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15636-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15637": {
+   "label": "Lei nº 15.637, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações de fundação da Cidade A. E. Carvalho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15637-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15638": {
+   "label": "Lei nº 15.638, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações do Dia do Trabalhador no Conjunto José Bonifácio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15638-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15639": {
+   "label": "Lei nº 15.639, de 20/09/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento de moda “Fashion Mob”, a ser realizado anualmente no mês de dezembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-09-20",
+   "published": "2012-09-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15639-de-20-de-setembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15640": {
+   "label": "Lei nº 15.640, de 02/10/2012",
+   "title": "Altera a denominação da UBS/AMA Jardim São Jorge, localizada na Rua Angelo Aparecido dos Santos Dias, 331 - Jardim São Jorge, para UBS/AMA Jardim São Jorge - Dr. Paulo Eduardo Mangeon Elias, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-02",
+   "published": "2012-10-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15640-de-2-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15641": {
+   "label": "Lei nº 15.641, de 16/10/2012",
+   "title": "Altera o plano de melhoramentos aprovado pela Lei nº 10.560, de 20 de junho de 1988, revogados os incisos I e II de seu art. 1º.",
+   "kind": "law",
+   "enacted": "2012-10-16",
+   "published": "2012-10-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15641-de-16-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15642": {
+   "label": "Lei nº 15.642, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Gerontólogo, a ser comemorado anualmente no dia 24 de março, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15642-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15643": {
+   "label": "Lei nº 15.643, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Skyrunning, a ser comemorado anualmente no dia 25 de janeiro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15643-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15644": {
+   "label": "Lei nº 15.644, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Festa de Santa Sara Kali, protetora dos ciganos, a ser comemorado anualmente no dia 24 de maio, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15644-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15645": {
+   "label": "Lei nº 15.645, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia Maçônico da Tolerância entre os Povos, Raças e Religiões, a ser comemorado no dia 18 de abril e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15645-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15646": {
+   "label": "Lei nº 15.646, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Ensino Técnico Industrial, a ser comemorado anualmente no dia 28 de setembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15646-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15647": {
+   "label": "Lei nº 15.647, de 11/10/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do GCM – Guarda Civil Metropolitano, a ser comemorado anualmente no dia 10 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-10-11",
+   "published": "2012-10-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15647-de-11-de-outubro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15648": {
+   "label": "Lei nº 15.648, de 14/11/2012",
+   "title": "Estabelece diretrizes para o funcionamento dos Centros Integrados de Educação de Jovens e Adultos - CIEJAs na Rede Municipal de Ensino do Município de São Paulo.",
+   "kind": "law",
+   "enacted": "2012-11-14",
+   "published": "2012-11-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15648-de-14-de-novembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15650": {
+   "label": "Lei nº 15.650, de 05/12/2012",
+   "title": "Denomina Praça Inácio Ribeiro de Sousa o espaço público livre inominado delimitado pelas Ruas Monsenhor Castro Nery e Adolfo de Souza Carneiro, localizado no Distrito de São Domingos, Subprefeitura Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-05",
+   "published": "2012-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15650-de-5-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15651": {
+   "label": "Lei nº 15.651, de 05/12/2012",
+   "title": "Denomina Praça Agnaldo Rocha do Nascimento o logradouro público inominado localizado no cruzamento da Rua Dríades com a Avenida Maria Santana, na Vila Jacuí, em São Miguel Paulista, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-05",
+   "published": "2012-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15651-de-5-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15652": {
+   "label": "Lei nº 15.652, de 05/12/2012",
+   "title": "Denomina Praça Tsuyoshi Enomura o espaço público livre inominado delimitado pelas Avenidas Otto Baumgart e Zaki Narchi, localizado no Distrito de Vila Guilherme, Subprefeitura de Vila Maria/Vila Guilherme, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-05",
+   "published": "2012-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15652-de-5-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15653": {
+   "label": "Lei nº 15.653, de 05/12/2012",
+   "title": "Denomina Praça Jorge Luiz Valim da Silva espaço público inominado delimitado pela Estrada do Imperador e pelas Ruas Padre Clemente Segura, Consus e Saudade Triste, no Distrito de Vila Jacuí, Subprefeitura de São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-05",
+   "published": "2012-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15653-de-5-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15654": {
+   "label": "Lei nº 15.654, de 05/12/2012",
+   "title": "Denomina Praça Assis Ribeiro da Cruz o logradouro público inominado localizado na confluência da Rua José Albino com a Rua José Cândido Freire, no Parque São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-05",
+   "published": "2012-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15654-de-5-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15655": {
+   "label": "Lei nº 15.655, de 06/12/2012",
+   "title": "Denomina Praça Angelina da Silva Santos o espaço público livre inominado com acesso pela Rua Albertina Medeiros, delimitado por lotes particulares e pelo córrego Itaquera, no Distrito de São Miguel, Subprefeitura de São Miguel, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15655-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15656": {
+   "label": "Lei nº 15.656, de 06/12/2012",
+   "title": "Denomina Praça José Cândido Villafranca Castro o espaço público livre inominado, localizado entre a Avenida Paes de Barros e a Rua Capitão Pacheco e Chaves, no Distrito de Vila Prudente, Subprefeitura Vila Prudente/Sapopemba, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15656-de-06-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15657": {
+   "label": "Lei nº 15.657, de 06/12/2012",
+   "title": "Denomina Praça Benedito Raimundo (Sr. Dito) o espaço livre público inominado localizado na confluência da Rua Fachini com a Avenida Engenheiro Armando de Arruda Pereira, altura do nº 3800, localizado no Distrito do Jabaquara, Subprefeitura Jabaquara, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15657-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15658": {
+   "label": "Lei nº 15.658, de 06/12/2012",
+   "title": "Denomina Praça Capitão Gino Struffaldi o espaço público livre inominado delimitado pela Rua Dr. Plínio Barreto, pelo Viaduto Dr. Plínio de Queiroz e pela Praça 14 Bis, localizado no Distrito da Bela Vista, Subprefeitura da Sé, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15658-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15659": {
+   "label": "Lei nº 15.659, de 06/12/2012",
+   "title": "Denomina Praça Joel Ribeiro o logradouro público inominado localizado na confluência da Rua Cristóvão de Oliveira com a Rua Francisco de Magalhães e Avenida Aricanduva, no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15659-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15660": {
+   "label": "Lei nº 15.660, de 06/12/2012",
+   "title": "Denomina Praça Maria Cristina Silva Santos o espaço livre 7, delimitado pelas Ruas Valença do Minho, Gondarém, Douro Litoral e Travessa Roberto Ranieri, no Distrito de Cidade Líder, Subprefeitura de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15660-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15661": {
+   "label": "Lei nº 15.661, de 06/12/2012",
+   "title": "Denomina Praça Maestro Ivan Zemantauskas Haensel o logradouro público inominado localizado na confluência da Avenida Maestro Villa-Lobos com a Avenida Comandante Antonio Paiva Sampaio, no Tucuruvi, Subprefeitura de Santana/Tucuruvi, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15661-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15662": {
+   "label": "Lei nº 15.662, de 06/12/2012",
+   "title": "Denomina Praça Maruzan Dourado Silva o espaço livre público inominado delimitado pela Avenida Taquandava e as Ruas Vaga-lume e Lótus Azul, localizado no Distrito do Jardim Ângela, Subprefeitura M´Boi Mirim, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15662-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15663": {
+   "label": "Lei nº 15.663, de 06/12/2012",
+   "title": "Denomina Praça Nelson Costa o espaço livre público inominado delimitado pelas Ruas Antônio Caldara, José de Andrade Moraes e Miguel Fernandes Trindade (Setor 160 - Quadra 182), localizado no Distrito do Rio Pequeno, Subprefeitura Butantã, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-06",
+   "published": "2012-12-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15663-de-6-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15664": {
+   "label": "Lei nº 15.664, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Bairro do Cambuci, a ser comemorado anualmente no dia 19 de dezembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15664-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15665": {
+   "label": "Lei nº 15.665, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Imigrante do Leste Europeu, a ser comemorado anualmente no dia 27 de outubro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15665-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15666": {
+   "label": "Lei nº 15.666, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aparista, a ser comemorado anualmente no dia 11 de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15666-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15668": {
+   "label": "Lei nº 15.668, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de Conscientização sobre a Alienação Parental, a ser realizado anualmente no dia 25 de abril, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15668-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15669": {
+   "label": "Lei nº 15.669, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Arraial das Estrelas – Festival Tanabata em Itaquera, a ser comemorado anualmente no terceiro final de semana do mês de junho, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15669-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15670": {
+   "label": "Lei nº 15.670, de 13/12/2012",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para criar o Dia da Democracia Corinthiana Dr. Sócrates, a ser comemorado anualmente no dia 04 de dezembro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-13",
+   "published": "2012-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15670-de-13-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15671": {
+   "label": "Lei nº 15.671, de 18/12/2012",
+   "title": "Denomina Passarela Manuel de Andrade Pinto a passagem elevada para pedestres implantada sobre a Rodovia dos Imigrantes, com início e término na Rua Dr. José Bento Ferreira, localizada nos Distritos de Jabaquara e Cursino, Subprefeituras do Jabaquara e Ipiranga, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": "2012-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15671-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15672": {
+   "label": "Lei nº 15.672, de 18/12/2012",
+   "title": "Denomina Praça Marília Ribeiro Sampaio Leite o espaço público livre inominado delimitado pelas Ruas Desembargador Joaquim Barbosa de Almeida, Capepuxis e Miralta, localizado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": "2012-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15672-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15673": {
+   "label": "Lei nº 15.673, de 18/12/2012",
+   "title": "Denomina Praça Antonio Ferreira de Moura o espaço público livre inominado localizado entre as Ruas Marcelo Bernardini e Baltazarini, no Recanto Campo Belo, localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": "2012-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15673-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15674": {
+   "label": "Lei nº 15.674, de 18/12/2012",
+   "title": "Autoriza a concessão administrativa de uso da área municipal situada na Rua Engenheiro Antonio Faggion, nº 236, Distrito de Santo Amaro, à Ação Social Largo 13, nas condições que especifica.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": "2012-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15674-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15675": {
+   "label": "Lei nº 15.675, de 18/12/2012",
+   "title": "Dispõe sobre a vedação prevista no § 2º do art. 3º da Lei nº 10.793, de 21 de dezembro de 1989, com as alterações posteriores, relativamente aos servidores que especifica, para atendimento de excepcional interesse público no âmbito da Autarquia Hospitalar Municipal.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": "2012-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15675-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2012-15676": {
+   "label": "Lei nº 15.676, de 18/12/2012",
+   "title": "Dispõe sobre a vedação do transporte remunerado individual de passageiros sem que o veículo esteja autorizado para esse fim.",
+   "kind": "law",
+   "enacted": "2012-12-18",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15676-de-18-de-dezembro-de-2012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2012-15625",
+   "short": "Lei 15625/2012",
+   "title": "Lei nº 15.625, de 19/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15625-de-19-de-setembro-de-2012",
+   "first_law": "lei-2012-15625",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15625-de-19-de-setembro-de-2012",
+     "sha256": "406bce5136f737161bb30a50f7f2c64409621142b5dd61cb16b3436caafb4eb0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.625, DE 19 DE SETEMBRO DE 2012\n(Projeto de Lei nº 145/12, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nDispõe sobre a elaboração do Calendário Anual de Atividades das unidades escolares no Município de São Paulo e cria os polos de atendimento aos alunos matriculados nos Centros de Educação Infantil que deles necessitarem.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 22 de agosto de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Os Centros de Educação Infantil - CEI, as Escolas Municipais de Educação Infantil - EMEI, de Ensino Fundamental - EMEF, de Ensino Fundamental e Médio - EMEFM e de Educação Bilíngue para Surdos - EMEBS e os Centros Integrados de Educação de Jovens e Adultos - CIEJA deverão elaborar o seu Calendário Anual de Atividades de acordo com as diretrizes a serem estabelecidas anualmente pela Secretaria Municipal de Educação, mediante portaria, assegurado o cumprimento mínimo de 200 (duzentos) dias e 800 (oitocentas) horas de efetivo trabalho escolar e observadas as seguintes condições gerais:\nI - 30 (trinta) dias de férias escolares no mês de janeiro;\nII - recesso escolar no mês de julho para os Centros de Educação Infantil - CEI, Escolas Municipais de Educação Infantil - EMEI, Ensino Fundamental - EMEF, de Ensino Fundamental e Médio - EMEFM e Educação de Jovens e Adultos - CIEJA;\nIII - recesso escolar no mês de julho para os Centros de Educação Infantil - CEI com a oferta de polos de atendimento.\nParágrafo único. O disposto no \"caput\" deste artigo aplica-se aos Centros de Educação Infantil - CEI da rede indireta e particular conveniada do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Durante o período aludido nos incisos I e II do art. 1º desta lei serão mantidos polos de atendimento às crianças matriculadas nos Centros de Educação Infantil - CEI que deles necessitarem.\n§ 1º. Os polos de atendimento funcionarão nas unidades escolares indicadas anualmente pela Secretaria Municipal de Educação, considerando a demanda registrada para o período de férias escolares.\n§ 2º. A Secretaria Municipal de Educação poderá articular-se com outras Secretarias, em regime de colaboração, para assegurar o cumprimento do disposto neste artigo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de setembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 19 de setembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15626",
+   "short": "Lei 15626/2012",
+   "title": "Lei nº 15.626, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15626-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15626",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15626-de-20-de-setembro-de-2012",
+     "sha256": "9246d3e329c085e1f22466b543335926c6d67cddb32b8466a40c244513a26c93",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.626 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 31/12)(VEREADORA SANDRA TADEU - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para inserir o Dia dos Motoclubes da Zona Leste, a ser comemorado anualmente no dia 11 de agosto, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea no inciso CLVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia dos Motoclubes da Zona Leste;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15627",
+   "short": "Lei 15627/2012",
+   "title": "Lei nº 15.627, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15627-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15627",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15627-de-20-de-setembro-de-2012",
+     "sha256": "ee76cee2a8b9ca8f1271baeb1bf23455269555a91cacb3fb3dad692c07d71a15",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.627 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 54/12)\n(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia das Cidades pela Vida, Contra a Pena de Morte, a ser comemorado anualmente no dia 30 de novembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXXV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"CCLXXV - 30 de novembro:\n- o Dia das Cidades pela Vida, Contra a Pena de Morte, a ser comemorado com o objetivo de disseminar o movimento do reconhecimento dos direitos humanos no âmbito local, nacional e internacional.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15628",
+   "short": "Lei 15628/2012",
+   "title": "Lei nº 15.628, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15628-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15628",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15628-de-20-de-setembro-de-2012",
+     "sha256": "4d2aa6737e907c331076a862b92753a9a4f66e5a003c34c24a4ab6709097da8d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.628 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 73/12)(VEREADOR NATALINI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia dos Povos Latino-Americanos, a ser comemorado anualmente no dia 15 de maio, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"LXXXVII - 15 de maio:\n- o Dia dos Povos Latino-Americanos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15629",
+   "short": "Lei 15629/2012",
+   "title": "Lei nº 15.629, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15629-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15629",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15629-de-20-de-setembro-de-2012",
+     "sha256": "231ee8c54131bbfb054c591003135ccc425f861cf9ab4774a0eba39589519bf6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.629 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 96/12)\n(VEREADOR TONINHO PAIVA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para nela incluir a Feira Internacional da Panificação, Confeitaria e do Varejo Independente de Alimentos - FIPAN, a ser comemorada, anualmente, no mês de julho, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Art. 7º...\nCXXIX - ...\n- a Feira Internacional da Panificação, Confeitaria e do Varejo Independente de Alimentos - FIPAN, com o objetivo de estimular negócios para todos os segmentos que operam o 'food service' (alimentos fora de casa), gerando, a partir de um direcionamento afinado com os anseios e demandas dos profissionais da área e demais visitantes, a inovação tecnológica, atualização empresarial, modernidade nos modelos de gestão, sendo um importante canal entre a indústria e os setores transformadores, confraternizando os participantes de vários continentes, promovendo inúmeras atividades, tais como: exposições, palestras, entre outras, de forma a resgatar a evolução da panificação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15630",
+   "short": "Lei 15630/2012",
+   "title": "Lei nº 15.630, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15630-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15630",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15630-de-20-de-setembro-de-2012",
+     "sha256": "516eeb4fa3f5c56ebc21ce43cfecedf99c14c89144307ac41ff8e9588d646e4e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.630 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 133/12)(VEREADOR MILTON LEITE - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o aniversário do Colégio Batista Brasileiro, a ser comemorado anualmente no dia 09 de março, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o aniversário do Colégio Batista Brasileiro;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15631",
+   "short": "Lei 15631/2012",
+   "title": "Lei nº 15.631, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15631-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15631",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15631-de-20-de-setembro-de-2012",
+     "sha256": "d8a3af45c1c425a9e6989ff94642f2fa8333d25aa264b7d0a5a62bf198765e83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.631 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 399/11)(VEREADOR DAVID SOARES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir a Semana Esportiva do Curling, a ser comemorada anualmente na segunda semana do mês de julho, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CXLIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Semana Esportiva do Curling, visando incentivar a realização de jogos amistosos e campeonatos de equipes amadoras ou profissionais, com entrada gratuita e aberta ao público, para os quais poderão ser convidadas, além da nacional, seleções de curling de outras nações, para a entrega de medalhas e do prêmio Troféu Semana Esportiva do Curling de São Paulo, podendo a Confederação Brasileira de Desportos no Gelo (CBDG) apoiar este evento, a fim de estimular a realização de workshops sobre a modalidade esportiva, em local apropriado e de acordo com as especificações técnicas e características do esporte.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15632",
+   "short": "Lei 15632/2012",
+   "title": "Lei nº 15.632, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15632-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15632",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15632-de-20-de-setembro-de-2012",
+     "sha256": "b6a5863ae7e707823566448400e48c3d4fc487c3c9b9822e81e1b1a3138813a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.632 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 429/10)(VEREADOR NATALINI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Campeonato de Futebol Amador do Distrito do Cangaíba, a ser iniciado anualmente no mês de agosto, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLI do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Campeonato de Futebol Amador do Distrito do Cangaíba, a ser iniciado no mês de agosto.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15633",
+   "short": "Lei 15633/2012",
+   "title": "Lei nº 15.633, de 20/09/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Medida Certa, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15633-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15633",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15633-de-20-de-setembro-de-2012",
+     "sha256": "c7ebb0159a9c7c59f2c2cd076ee93fd5faf05c50c328369d1961e793e27ca0eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.633 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 460/11)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Medida Certa, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia da Medida Certa, evento que tem por objetivo a realização de caminhadas e a conscientização da população quanto aos benefícios que a prática de exercícios físicos traz para a saúde das pessoas.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15634",
+   "short": "Lei 15634/2012",
+   "title": "Lei nº 15.634, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15634-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15634",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15634-de-20-de-setembro-de-2012",
+     "sha256": "f7bf86c7b12a2baa68a451f067e43300d18a17e23dc09213fe15639d3add404f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.634 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 469/11)(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia Municipal dos Gestores Educacionais, a ser comemorado anualmente no dia 26 de setembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"26 de setembro: o Dia Municipal dos Gestores Educacionais;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15635",
+   "short": "Lei 15635/2012",
+   "title": "Lei nº 15.635, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15635-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15635",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15635-de-20-de-setembro-de-2012",
+     "sha256": "666d2625f4c6908807339fe95faba2ddea6d1ed9a5490573a1794566c12b30b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.635 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 543/11)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de Luta e Combate à Violência Contra a Mulher, a ser comemorado anualmente no dia 25 de novembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCLXXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia de Luta e Combate à Violência Contra a Mulher.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15636",
+   "short": "Lei 15636/2012",
+   "title": "Lei nº 15.636, de 20/09/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cipeiro, a ser comemorado anualmente no dia 28 de abril, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15636-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15636",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15636-de-20-de-setembro-de-2012",
+     "sha256": "6c7bfd20e3deb1316650a330d58d6d185141253f710aa7a8c12ea093cab30bb5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.636 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 578/11)(VEREADOR NATALINI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Cipeiro, a ser comemorado anualmente no dia 28 de abril, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Cipeiro;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15637",
+   "short": "Lei 15637/2012",
+   "title": "Lei nº 15.637, de 20/09/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações de fundação da Cidade A. E. Carvalho, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15637-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15637",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15637-de-20-de-setembro-de-2012",
+     "sha256": "148860bc2ac1cbe709f0949c4aa9798d93d03e57f350cf443ecb1ceaef8b3218",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.637 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 583/11)(VEREADORA SANDRA TADEU - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações de fundação da Cidade A. E. Carvalho, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"19 de setembro: Dia da fundação do bairro Cidade Antônio Estêvão de Carvalho, conhecido como Cidade A. E. Carvalho;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15638",
+   "short": "Lei 15638/2012",
+   "title": "Lei nº 15.638, de 20/09/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações do Dia do Trabalhador no Conjunto José Bonifácio, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15638-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15638",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15638-de-20-de-setembro-de-2012",
+     "sha256": "5be210dbfd65413903f43a24f1c83f244985b07d8c105d43162aafe5852be1f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.638 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 584/11)(VEREADORA SANDRA TADEU - DEMOCRATAS)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para oficializar as comemorações do Dia do Trabalhador no Conjunto José Bonifácio, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea no inciso LXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"a Festa do Dia do Trabalhador no Conjunto José Bonifácio;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15639",
+   "short": "Lei 15639/2012",
+   "title": "Lei nº 15.639, de 20/09/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15639-de-20-de-setembro-de-2012",
+   "first_law": "lei-2012-15639",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15639-de-20-de-setembro-de-2012",
+     "sha256": "4e2edf01cfcc69380f8c4264fc70ef5c792e071dfe72b5fc0f40a9e3e19b6382",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.639 DE 20 DE SETEMBRO DE 2012\n(PROJETO DE LEI Nº 603/11)(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o evento de moda \"Fashion Mob\", a ser realizado anualmente no mês de dezembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"mês de dezembro: evento de moda \"Fashion Mob\", a ser realizado com homenagens e eventos de divulgação;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 21 de setembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 21 de setembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15640",
+   "short": "Lei 15640/2012",
+   "title": "Lei nº 15.640, de 02/10/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15640-de-2-de-outubro-de-2012",
+   "first_law": "lei-2012-15640",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15640-de-2-de-outubro-de-2012",
+     "sha256": "978e8346cd628c60be27436c2efa3128e978b2798c5407857e23c822294c657d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.640, DE 2 DE OUTUBRO DE 2012\n(Projeto de Lei nº 549/11, dos Vereadores Carlos Neder (PT), José Police Neto (PSD), Ítalo Cardoso (PT), Alfredinho (PT), Arselino Tatto (PT), Donato (PT), Chico Macena (PT), Francisco Chagas (PT), José Américo (PT), José Ferreira dos Santos - Zelão (PT), Juliana Cardoso (PT) e Senival Moura (PT))\nAltera a denominação da UBS/AMA Jardim São Jorge, localizada na Rua Angelo Aparecido dos Santos Dias, 331 - Jardim São Jorge, para UBS/AMA Jardim São Jorge - Dr. Paulo Eduardo Mangeon Elias, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de setembro de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da UBS/AMA Jardim São Jorge, localizada na Rua Angelo Aparecido dos Santos Dias para UBS/AMA Jardim São Jorge - Dr. Paulo Eduardo Mangeon Elias.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 2 de outubro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 2 de outubro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15641",
+   "short": "Lei 15641/2012",
+   "title": "Lei nº 15.641, de 16/10/2012 (Altera o plano de melhoramentos aprovado pela Lei nº 10.560, de 20 de junho de 1988, revogados os incisos I e II de seu art. 1º.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15641-de-16-de-outubro-de-2012",
+   "first_law": "lei-2012-15641",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15641-de-16-de-outubro-de-2012",
+     "sha256": "77c4973605737674fb1c9110d721d3e166c5867f59ec056d89cfb14edb32a251",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.641, DE 16 DE OUTUBRO DE 2012\n(Projeto de Lei nº 71/12, do Executivo)\nAltera o plano de melhoramentos aprovado pela Lei nº 10.560, de 20 de junho de 1988, revogados os incisos I e II de seu art. 1º.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de setembro de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. De acordo com a planta anexa nº 26.935 - Classificação A-273, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica alterado o plano de melhoramentos aprovado pela Lei nº 10.560, de 20 de junho de 1988, revogados os incisos I e II de seu art. 1º.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 16 de outubro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 16 de outubro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15642",
+   "short": "Lei 15642/2012",
+   "title": "Lei nº 15.642, de 11/10/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Gerontólogo, a ser comemorado anualmente no dia 24 de março, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15642-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15642",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15642-de-11-de-outubro-de-2012",
+     "sha256": "c933af0451e72f24d8337045433a97b9fb712d3cc51e6c536bf7135566cfa365",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.642 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 41/12)(VEREADOR NATALINI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Gerontólogo, a ser comemorado anualmente no dia 24 de março, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"24 de março: o Dia do Gerontólogo;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15643",
+   "short": "Lei 15643/2012",
+   "title": "Lei nº 15.643, de 11/10/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Skyrunning, a ser comemorado anualmente no dia 25 de janeiro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15643-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15643",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15643-de-11-de-outubro-de-2012",
+     "sha256": "9f31fdea0908479914327c98aa6bb82b56308d23eeaea97be6eec3a36b9f720e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.643 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 107/12)(VEREADOR DAVID SOARES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Skyrunning, a ser comemorado anualmente no dia 25 de janeiro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso XXIV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Skyrunning;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15644",
+   "short": "Lei 15644/2012",
+   "title": "Lei nº 15.644, de 11/10/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15644-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15644",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15644-de-11-de-outubro-de-2012",
+     "sha256": "692707bf77236c7d479da43199956fb781774a695d3ccfcbe26ffe196855bd65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.644 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 142/12)(VEREADOR ABOU ANNI - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia da Festa de Santa Sara Kali, protetora dos ciganos, a ser comemorado anualmente no dia 24 de maio, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 24 de maio:\no Dia da Festa de Santa Sara Kali, protetora dos ciganos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15645",
+   "short": "Lei 15645/2012",
+   "title": "Lei nº 15.645, de 11/10/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15645-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15645",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15645-de-11-de-outubro-de-2012",
+     "sha256": "d1a004219628963f774278d412b66bfe52f15abdef13c57bec64d9987cef879e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.645 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 179/12)(VEREADOR FLORIANO PESARO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, com a finalidade de incluir no Calendário Oficial de Eventos da Cidade de São Paulo o Dia Maçônico da Tolerância entre os Povos, Raças e Religiões, a ser comemorado no dia 18 de abril e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 18 de abril:\no Dia Maçônico da Tolerância entre os Povos, Raças e Religiões, a ser comemorado com o objetivo de lembrar fatos como o Holocausto, de forma que futuras gerações contribuam na prevenção de similares atos de intolerância e genocídio.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15646",
+   "short": "Lei 15646/2012",
+   "title": "Lei nº 15.646, de 11/10/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15646-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15646",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15646-de-11-de-outubro-de-2012",
+     "sha256": "0de2f0deee6c5ba78e65c519bc5875db2886ac41edb1c3b322d24fec60dbafe6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.646 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 223/11)(VEREADOR GILSON BARRETO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Ensino Técnico Industrial, a ser comemorado anualmente no dia 28 de setembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 28 de setembro:\no Dia do Ensino Técnico Industrial.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15647",
+   "short": "Lei 15647/2012",
+   "title": "Lei nº 15.647, de 11/10/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15647-de-11-de-outubro-de-2012",
+   "first_law": "lei-2012-15647",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15647-de-11-de-outubro-de-2012",
+     "sha256": "1d51cfa59f4e991ea85c2ab316c09b9be241abd2259f6dfb792473d3c4e5d07e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.647 DE 11 DE OUTUBRO DE 2012\n(PROJETO DE LEI Nº 213/11)(VEREADOR ADOLFO QUINTAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do GCM - Guarda Civil Metropolitano, a ser comemorado anualmente no dia 10 de outubro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXXV do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do GCM - Guarda Civil Metropolitano.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 17 de outubro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 17 de outubro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15648",
+   "short": "Lei 15648/2012",
+   "title": "Lei nº 15.648, de 14/11/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15648-de-14-de-novembro-de-2012",
+   "first_law": "lei-2012-15648",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15648-de-14-de-novembro-de-2012",
+     "sha256": "35ccc960c92dd482b12dd9b693605ae31a47e0af12d4272ae2ae4fd49fb246d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.648, DE 14 DE NOVEMBRO DE 2012\n(Projeto de Lei nº 133/10, do Vereador Gilson Barreto  PSDB)\nEstabelece diretrizes para o funcionamento dos Centros Integrados de Educação de Jovens e Adultos - CIEJAs na Rede Municipal de Ensino do Município de São Paulo.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 31 de outubro de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Público Municipal, por meio dos órgãos competentes, observará as diretrizes constantes desta lei para o funcionamento dos Centros Integrados de Educação de Jovens e Adultos - CIEJAs, na Rede Municipal de Ensino do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os Centros Integrados de Educação de Jovens e Adultos - CIEJAs estarão diretamente vinculados às Diretorias Regionais de Educação da Secretaria Municipal de Educação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os Centros Integrados de Educação de Jovens e Adultos - CIEJAs deverão promover cursos de Ensino Fundamental, que poderão estar articulados com cursos e programas de formação inicial e continuada de trabalhadores, em consonância com as diretrizes da política educacional da Secretaria Municipal de Educação.\nParágrafo único. Os cursos e programas de formação inicial e continuada de trabalhadores poderão ser desenvolvidos mediante convênios ou acordos com empresas e entidades, públicas ou privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Secretaria Municipal de Educação proverá, mediante critérios a serem fixados em regulamento, os recursos humanos necessários ao pleno funcionamento dos Centros Integrados de Educação de Jovens e Adultos - CIEJAs, bem como os servidores administrativos e operacionais.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A supervisão e o acompanhamento administrativo e pedagógico dos Centros Integrados de Educação de Jovens e Adultos - CIEJAs caberão à Secretaria Municipal de Educação, por meio das respectivas Diretorias Regionais de Educação, sob a coordenação e orientação da Diretoria de Orientação Técnica da Secretaria Municipal de Educação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Executivo regulamentará a presente lei no prazo de 90 (noventa) dias, a contar da sua publicação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 14 de novembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 14 de novembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15650",
+   "short": "Lei 15650/2012",
+   "title": "Lei nº 15.650, de 05/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15650-de-5-de-dezembro-de-2012",
+   "first_law": "lei-2012-15650",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15650-de-5-de-dezembro-de-2012",
+     "sha256": "eca48a9af65caedb17a8e772b6efd33f8ccfa85a321288f2ea7158ac17751751",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.650, DE 5 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 259/12, do Vereador Eliseu Gabriel  PSB)\nDenomina Praça Inácio Ribeiro de Sousa o espaço público livre inominado delimitado pelas Ruas Monsenhor Castro Nery e Adolfo de Souza Carneiro, localizado no Distrito de São Domingos, Subprefeitura Pirituba/Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Inácio Ribeiro de Sousa o espaço público livre inominado delimitado pelas Ruas Monsenhor Castro Nery e Adolfo de Souza Carneiro (Setor 78 - Quadra 399), localizado no Distrito de São Domingos, Subprefeitura Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15651",
+   "short": "Lei 15651/2012",
+   "title": "Lei nº 15.651, de 05/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15651-de-5-de-dezembro-de-2012",
+   "first_law": "lei-2012-15651",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15651-de-5-de-dezembro-de-2012",
+     "sha256": "31ed2617cdb1d72642ef9b0786dc4ac5ef066ff4c4398623c7d0fc808a9c6593",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.651, DE 5 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 269/12, do Vereador Ricardo Teixeira  PV)\nDenomina Praça Agnaldo Rocha do Nascimento o logradouro público inominado localizado no cruzamento da Rua Dríades com a Avenida Maria Santana, na Vila Jacuí, em São Miguel Paulista, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Agnaldo Rocha do Nascimento o logradouro público inominado localizado no cruzamento da Rua Dríades com a Avenida Maria Santana (Setor 140  Quadra 283), na Vila Jacuí, em São Miguel Paulista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15652",
+   "short": "Lei 15652/2012",
+   "title": "Lei nº 15.652, de 05/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15652-de-5-de-dezembro-de-2012",
+   "first_law": "lei-2012-15652",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15652-de-5-de-dezembro-de-2012",
+     "sha256": "ea95eccb824858a9468f19deae936a931dfdd55ef36bd305e79c6e0ef66c48dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.652, DE 5 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 290/12, do Vereador Toninho Paiva  PR)\nDenomina Praça Tsuyoshi Enomura o espaço público livre inominado delimitado pelas Avenidas Otto Baumgart e Zaki Narchi, localizado no Distrito de Vila Guilherme, Subprefeitura de Vila Maria/Vila Guilherme, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Tsuyoshi Enomura o espaço público livre inominado delimitado pelas Avenidas Otto Baumgart e Zaki Narchi (Setor 304  Quadra 43), localizado no Distrito de Vila Guilherme, Subprefeitura de Vila Maria/Vila Guilherme.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15653",
+   "short": "Lei 15653/2012",
+   "title": "Lei nº 15.653, de 05/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15653-de-5-de-dezembro-de-2012",
+   "first_law": "lei-2012-15653",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15653-de-5-de-dezembro-de-2012",
+     "sha256": "de0cadb11219d9795f2fa5eb338e9b7c3dd9d7abcd0664f5dcba0405215ceea0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.653, DE 5 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 329/12, do Vereador Adolfo Quintas  PSDB)\nDenomina Praça Jorge Luiz Valim da Silva espaço público inominado delimitado pela Estrada do Imperador e pelas Ruas Padre Clemente Segura, Consus e Saudade Triste, no Distrito de Vila Jacuí, Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Jorge Luiz Valim da Silva o espaço público inominado delimitado pela Estrada do Imperador e pelas Ruas Padre Clemente Segura, Consus e Saudade Triste (Setor 140  Quadra 09), no Distrito de Vila Jacuí, Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15654",
+   "short": "Lei 15654/2012",
+   "title": "Lei nº 15.654, de 05/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15654-de-5-de-dezembro-de-2012",
+   "first_law": "lei-2012-15654",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15654-de-5-de-dezembro-de-2012",
+     "sha256": "6470701d50a89890c15d84b4528ec9f699114bb5e504aa79ed035ea83807d376",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.654, DE 5 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 370/12, do Vereador Eliseu Gabriel  PSB)\nDenomina Praça Assis Ribeiro da Cruz o logradouro público inominado localizado na confluência da Rua José Albino com a Rua José Cândido Freire, no Parque São Domingos, Subprefeitura de Pirituba/Jaraguá, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Assis Ribeiro da Cruz o logradouro público inominado localizado na confluência da Rua José Albino (CADLOG 791016) com a Rua José Cândido Freire (CADLOG 108359), Setor 78 - Quadras 220 e 221, no Parque São Domingos, Subprefeitura de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 5 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15655",
+   "short": "Lei 15655/2012",
+   "title": "Lei nº 15.655, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15655-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15655",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15655-de-6-de-dezembro-de-2012",
+     "sha256": "7dbc51b58fd88c049eb268bec5f02848633333a8c952acad365488f6d295fd31",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.655, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 401/11, da Vereadora Juliana Cardoso - PT)\nDenomina Praça Angelina da Silva Santos o espaço público livre inominado com acesso pela Rua Albertina Medeiros, delimitado por lotes particulares e pelo córrego Itaquera, no Distrito de São Miguel, Subprefeitura de São Miguel, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Angelina da Silva Santos o espaço público livre inominado com acesso pela Rua Albertina Medeiros, delimitado por lotes particulares e pelo córrego Itaquera (Setor 139 - Quadra 380), no Distrito de São Miguel, Subprefeitura de São Miguel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15656",
+   "short": "Lei 15656/2012",
+   "title": "Lei nº 15.656, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15656-de-06-de-dezembro-de-2012",
+   "first_law": "lei-2012-15656",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15656-de-06-de-dezembro-de-2012",
+     "sha256": "7c57fcd73da083326a346c6582e6dd0440b460503e9dd6cb7df1069089a61f69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.656, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 216/12, do Vereador Aurélio Miguel - PR)\nDenomina Praça José Cândido Villafranca Castro o espaço público livre inominado, localizado entre a Avenida Paes de Barros e a Rua Capitão Pacheco e Chaves, no Distrito de Vila Prudente, Subprefeitura Vila Prudente/Sapopemba, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça José Cândido Villafranca Castro o espaço público livre inominado, localizado entre a Avenida Paes de Barros e a Rua Capitão Pacheco e Chaves (Setor 32 - Quadra 137), no Distrito de Vila Prudente, Subprefeitura Vila Prudente/Sapopemba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15657",
+   "short": "Lei 15657/2012",
+   "title": "Lei nº 15.657, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15657-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15657",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15657-de-6-de-dezembro-de-2012",
+     "sha256": "4ba542be1d077b3882b727c1bdd7f15ef27c4d4baf353dd5a114c895020dadcc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.657, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 223/12, do Vereador Dalton Silvano - PV)\nDenomina Praça Benedito Raimundo (Sr. Dito) o espaço livre público inominado localizado na confluência da Rua Fachini com a Avenida Engenheiro Armando de Arruda Pereira, altura do nº 3800, localizado no Distrito do Jabaquara, Subprefeitura Jabaquara, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Benedito Raimundo (Sr. Dito) o espaço livre público inominado localizado na confluência da Rua Fachini com a Avenida Engenheiro Armando de Arruda Pereira, altura do nº 3800 (Setor 172 - Quadra 313), localizado no Distrito do Jabaquara, Subprefeitura Jabaquara.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15658",
+   "short": "Lei 15658/2012",
+   "title": "Lei nº 15.658, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15658-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15658",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15658-de-6-de-dezembro-de-2012",
+     "sha256": "ac10ec2842b6145c2f743a44dcdb8eab16c93c8720f4468ffe10b9310dcb97f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.658, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 288/12, do Vereador Toninho Paiva  PR)\nDenomina Praça Capitão Gino Struffaldi o espaço público livre inominado delimitado pela Rua Dr. Plínio Barreto, pelo Viaduto Dr. Plínio de Queiroz e pela Praça 14 Bis, localizado no Distrito da Bela Vista, Subprefeitura da Sé, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Capitão Gino Struffaldi o espaço público livre inominado delimitado pela Rua Dr. Plínio Barreto, pelo Viaduto Dr. Plínio de Queiroz e pela Praça 14 Bis (Setor 9  Quadra 13), localizado no Distrito da Bela Vista, Subprefeitura da Sé.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15659",
+   "short": "Lei 15659/2012",
+   "title": "Lei nº 15.659, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15659-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15659",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15659-de-6-de-dezembro-de-2012",
+     "sha256": "460a4db5106a3e62170926f2b0c9b18f4300961ddcdb6879cec7a58a0d426557",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.659, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 302/12, do Vereador Atílio Francisco - PRB)\nDenomina Praça Joel Ribeiro o logradouro público inominado localizado na confluência da Rua Cristóvão de Oliveira com a Rua Francisco de Magalhães e Avenida Aricanduva, no Distrito de São Mateus, Subprefeitura de São Mateus, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Joel Ribeiro o logradouro público inominado localizado na confluência da Rua Cristóvão de Oliveira com a Rua Francisco de Magalhães e Avenida Aricanduva (Setor 150 - Quadra 45), no Distrito de São Mateus, Subprefeitura de São Mateus.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15660",
+   "short": "Lei 15660/2012",
+   "title": "Lei nº 15.660, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15660-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15660",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15660-de-6-de-dezembro-de-2012",
+     "sha256": "5d29d5a4bc832f901fca9dfacdd893fb2510c6fa96a5fa9cc4f346d689a60757",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.660, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 307/12, do Vereador Arselino Tatto  PT)\nDenomina Praça Maria Cristina Silva Santos o espaço livre 7, delimitado pelas Ruas Valença do Minho, Gondarém, Douro Litoral e Travessa Roberto Ranieri, no Distrito de Cidade Líder, Subprefeitura de Itaquera, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maria Cristina Silva Santos o espaço livre 7 (ref. ARR nº 1779 Jardim Ipanema), delimitado pelas Ruas Valença do Minho, Gondarém, Douro Litoral e Travessa Roberto Ranieri (Setor 147  Quadra 94), no Distrito de Cidade Líder, Subprefeitura de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15661",
+   "short": "Lei 15661/2012",
+   "title": "Lei nº 15.661, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15661-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15661",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15661-de-6-de-dezembro-de-2012",
+     "sha256": "b7fdca243387f4a237e5b8ec5dc02c2926ddf0ffe2fbb96ecbd54115b24cb543",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.661, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 362/12, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Maestro Ivan Zemantauskas Haensel o logradouro público inominado localizado na confluência da Avenida Maestro Villa-Lobos com a Avenida Comandante Antonio Paiva Sampaio, no Tucuruvi, Subprefeitura de Santana/Tucuruvi, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maestro Ivan Zemantauskas Haensel o logradouro público inominado localizado na confluência da Avenida Maestro Villa-Lobos (CADLOG 197165) com a Avenida Comandante Antonio Paiva Sampaio (CADLOG 018163), Setor 67 - Quadra 282, no Tucuruvi, Subprefeitura de Santana/Tucuruvi.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15662",
+   "short": "Lei 15662/2012",
+   "title": "Lei nº 15.662, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15662-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15662",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15662-de-6-de-dezembro-de-2012",
+     "sha256": "04736990d39dde7fc52266baf649218376f0f7d48788fc5143f43e0a2ba8ec3e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.662, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 367/12, do Vereador José Américo - PT)\nDenomina Praça Maruzan Dourado Silva o espaço livre público inominado delimitado pela Avenida Taquandava e as Ruas Vaga-lume e Lótus Azul, localizado no Distrito do Jardim Ângela, Subprefeitura M´Boi Mirim, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Maruzan Dourado Silva o espaço livre público inominado delimitado pela Avenida Taquandava e pelas Ruas Vaga-lume e Lótus Azul (Setor 164 - Quadras 7, 13 e 106), localizado no Distrito do Jardim Ângela, Subprefeitura M´Boi Mirim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas advindas desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15663",
+   "short": "Lei 15663/2012",
+   "title": "Lei nº 15.663, de 06/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15663-de-6-de-dezembro-de-2012",
+   "first_law": "lei-2012-15663",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15663-de-6-de-dezembro-de-2012",
+     "sha256": "42cea707971b8c02d96839c7e87ab8afb72af085c36ecce5595eb12ed6319e9a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.663, DE 6 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 377/12, do Vereador Antonio Carlos Rodrigues - PR)\nDenomina Praça Nelson Costa o espaço livre público inominado delimitado pelas Ruas Antônio Caldara, José de Andrade Moraes e Miguel Fernandes Trindade (Setor 160 - Quadra 182), localizado no Distrito do Rio Pequeno, Subprefeitura Butantã, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Nelson Costa o espaço livre público inominado delimitado pelas Ruas Antônio Caldara, José de Andrade Moraes e Miguel Fernandes Trindade (Setor 160 - Quadra 182), localizado no Distrito do Rio Pequeno, Subprefeitura Butantã.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas advindas desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 6 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15664",
+   "short": "Lei 15664/2012",
+   "title": "Lei nº 15.664, de 13/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15664-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15664",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15664-de-13-de-dezembro-de-2012",
+     "sha256": "4a763923d700c01f5d8514e2c49849784e78c8a4330c6c6ef2b8111fc3729ed5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.664 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 52/12)(VEREADORES ANÍBAL DE FREITAS - PSDB E DALTON SILVANO - PV)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Bairro do Cambuci, a ser comemorado anualmente no dia 19 de dezembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"19 de dezembro: o Dia do Bairro do Cambuci;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15665",
+   "short": "Lei 15665/2012",
+   "title": "Lei nº 15.665, de 13/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15665-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15665",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15665-de-13-de-dezembro-de-2012",
+     "sha256": "9a2b8bef1dfedb72a93636de44552864191232af4af1e6a7175ea8397fa5d7fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.665 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 95/12)(VEREADORA EDIR SALES - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Imigrante do Leste Europeu, a ser comemorado anualmente no dia 27 de outubro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CCXXXVII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia do Imigrante do Leste Europeu, que será comemorado com a realização de eventos que promovam a cultura e a história do Leste Europeu;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15666",
+   "short": "Lei 15666/2012",
+   "title": "Lei nº 15.666, de 13/12/2012 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aparista, a ser comemorado anualmente no dia 11 de junho, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15666-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15666",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15666-de-13-de-dezembro-de-2012",
+     "sha256": "5dcd30aa92239266943050655b309db34b3e9eeb0cfda62cf3682e3fb97af943",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.666 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 106/12)(VEREADOR ANÍBAL DE FREITAS - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia do Aparista, a ser comemorado anualmente no dia 11 de junho, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"11 de junho: o Dia do Aparista;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15668",
+   "short": "Lei 15668/2012",
+   "title": "Lei nº 15.668, de 13/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15668-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15668",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15668-de-13-de-dezembro-de-2012",
+     "sha256": "f672b164f0825e23ddada9a5bd32dd0e30a82899f70d81427cba4444f19e3965",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.668 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 154/12)(VEREADOR DONATO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Dia de Conscientização sobre a Alienação Parental, a ser realizado anualmente no dia 25 de abril, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso LXX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia de Conscientização sobre a Alienação Parental, com a realização de palestras e debates sobre o tema;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15669",
+   "short": "Lei 15669/2012",
+   "title": "Lei nº 15.669, de 13/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15669-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15669",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15669-de-13-de-dezembro-de-2012",
+     "sha256": "84a1d93cef503a2d73134456f138619dc017930ac91cb4ecd576720e8651c6f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.669 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 294/12)(VEREADOR PAULO FRANGE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir o Arraial das Estrelas - Festival Tanabata em Itaquera, a ser comemorado anualmente no terceiro final de semana do mês de junho, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"terceiro final de semana do mês de junho: o Arraial das Estrelas - Festival Tanabata em Itaquera;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15670",
+   "short": "Lei 15670/2012",
+   "title": "Lei nº 15.670, de 13/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15670-de-13-de-dezembro-de-2012",
+   "first_law": "lei-2012-15670",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15670-de-13-de-dezembro-de-2012",
+     "sha256": "098ec20fa826fc1d3929e88b9387cc2a12955b69da2c884ef1f7dc5a8a6c5d67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.670 DE 13 DE DEZEMBRO DE 2012\n(PROJETO DE LEI Nº 581/11)\nVEREADOR AGNALDO TIMÓTEO - PR\nAltera a Lei nº 14.485, de 19 de julho de 2007, para criar o Dia da Democracia Corinthiana Dr. Sócrates, a ser comemorado anualmente no dia 04 de dezembro, e dá outras providências.\nJosé Police Neto, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida alínea ao inciso CCLXXXVII, do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"o Dia da Democracia Corinthiana Dr. Sócrates.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 20 de dezembro de 2012.\nJOSÉ POLICE NETO, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 20 de dezembro de 2012.\nADELA DUARTE ALVAREZ, Secretária Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15671",
+   "short": "Lei 15671/2012",
+   "title": "Lei nº 15.671, de 18/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15671-de-18-de-dezembro-de-2012",
+   "first_law": "lei-2012-15671",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15671-de-18-de-dezembro-de-2012",
+     "sha256": "daa03ac9ff2bfea6e49c140bcbe3a0f154671678134677f22b8fb1e8fb2df6d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.671, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 84/12, do Vereador Toninho Paiva  PR)\nDenomina Passarela Manuel de Andrade Pinto a passagem elevada para pedestres implantada sobre a Rodovia dos Imigrantes, com início e término na Rua Dr. José Bento Ferreira, localizada nos Distritos de Jabaquara e Cursino, Subprefeituras do Jabaquara e Ipiranga, respectivamente, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Passarela Manuel de Andrade Pinto a passagem elevada para pedestres implantada sobre a Rodovia dos Imigrantes, com início e término na Rua Dr. José Bento Ferreira (Setor 310  Quadra 40 e Setor 48  Quadra 352), localizada nos Distritos de Jabaquara e Cursino, Subprefeituras do Jabaquara e Ipiranga, respectivamente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15672",
+   "short": "Lei 15672/2012",
+   "title": "Lei nº 15.672, de 18/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15672-de-18-de-dezembro-de-2012",
+   "first_law": "lei-2012-15672",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15672-de-18-de-dezembro-de-2012",
+     "sha256": "21515665628e26c3aca96ac5fa434dfbea5fc570d3fe37e874190873b6314100",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.672, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 130/12, do Vereador Eliseu Gabriel  PSB)\nDenomina Praça Marília Ribeiro Sampaio Leite o espaço público livre inominado delimitado pelas Ruas Desembargador Joaquim Barbosa de Almeida, Capepuxis e Miralta, localizado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Marília Ribeiro Sampaio Leite o espaço público livre inominado delimitado pelas Ruas Desembargador Joaquim Barbosa de Almeida, Capepuxis e Miralta (Setor 96  Quadras 112, 115 e 117), localizado no Distrito de Alto de Pinheiros, Subprefeitura de Pinheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15673",
+   "short": "Lei 15673/2012",
+   "title": "Lei nº 15.673, de 18/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15673-de-18-de-dezembro-de-2012",
+   "first_law": "lei-2012-15673",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15673-de-18-de-dezembro-de-2012",
+     "sha256": "b6cef8ba99f6433bd5bd7d4218f0d5cda3bbdccfd622dbd3eed90aefd883f068",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.673, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 160/12, do Vereador Arselino Tatto - PT)\nDenomina Praça Antonio Ferreira de Moura o espaço público livre inominado localizado entre as Ruas Marcelo Bernardini e Baltazarini, no Recanto Campo Belo, localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros, e dá outras providências.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Antonio Ferreira de Moura o espaço público livre inominado localizado entre as Ruas Marcelo Bernardini e Baltazarini, no Recanto Campo Belo (Setor 265  Quadras 19, 20 e 993), localizado no Distrito de Parelheiros, Subprefeitura de Parelheiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15674",
+   "short": "Lei 15674/2012",
+   "title": "Lei nº 15.674, de 18/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15674-de-18-de-dezembro-de-2012",
+   "first_law": "lei-2012-15674",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15674-de-18-de-dezembro-de-2012",
+     "sha256": "3733e19003f118dcbf1d054f5e015286d4bcf34f74641e9b15df87f88c887a92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.674, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 382/12, do Executivo)\nAutoriza a concessão administrativa de uso da área municipal situada na Rua Engenheiro Antonio Faggion, nº 236, Distrito de Santo Amaro, à Ação Social Largo 13, nas condições que especifica.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de dezembro de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Executivo autorizado a ceder, à Ação Social Largo 13, mediante concessão administrativa e independentemente de concorrência, pelo prazo de 20 (vinte) anos, o uso da área municipal situada na Rua Engenheiro Antonio Faggion, nº 236, Distrito de Santo Amaro, objetivando o prosseguimento, nas edificações existentes, das atividades de atendimento à criança e ao adolescente, bem como de integração social e de caráter assistencial.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A área referida no art. 1º desta lei, configurada na planta anexa DGPI-00.212_00, do arquivo do Departamento de Gestão do Patrimônio Imobiliário, rubricada pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei, delimitada pelo perímetro 1-2-3-4-5-1, de formato irregular, com 740,90m² (setecentos e quarenta metros e noventa decímetros quadrados), assim se descreve, para quem de dentro da área olha para a Rua Engenheiro Antonio Faggion, pela frente: linha reta 3-4, com 22,22m, confrontando parte com a Rua Engenheiro Antonio Faggion, segundo seu alinhamento, e parte com jardim; pelo lado direito: linha mista 4-5-1, com 28,80m, assim parcelada: trecho 4-5, linha curva com 11,20m, confrontando com jardim, trecho 5-1, linha reta com 17,60m, confrontando com a Avenida das Nações Unidas, segundo seu alinhamento; pelo lado esquerdo: linha reta 2-3, com 24,00m, confrontando com área municipal (espaço livre); pelos fundos: linha reta 1-2, com 33,50m, confrontando com a quadra 313 do setor 87.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Além das condições que forem exigidas por ocasião da assinatura do instrumento de concessão, no sentido de salvaguardar os interesses municipais, fica a concessionária obrigada a:\nI - não executar novas edificações e benfeitorias, sem a prévia e expressa autorização da Prefeitura, admitidas somente reformas essenciais à segurança e higiene das edificações, instalações e equipamentos existentes;\nII - preservar a arborização existente no restante do espaço livre não objeto da concessão, mantendo essa área, sem ônus para a Prefeitura, sempre limpa, ajardinada e aberta ao lazer da população, firmando os instrumentos necessários para cumprimento de tal obrigação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A concessionária obriga-se a prestar as seguintes contrapartidas:\nI - manter centro de educação infantil e centro para atendimento de crianças e adolescentes;\nII - desenvolver atividades de integração social e de caráter assistencial;\nIII - cooperar, no desenvolvimento de suas atividades, com os serviços afins da Prefeitura sempre que para tal for solicitada, inclusive mediante a celebração de convênios.\nParágrafo único. As contrapartidas estabelecidas neste artigo poderão ser revistas periodicamente, mediante trabalho conjunto entre a concessionária e as Secretarias Municipais de Educação e de Assistência e Desenvolvimento Social, alterando-se as contrapartidas fixadas no contrato de concessão ou estabelecidas nos convênios firmados, no prazo ali fixado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A ocorrência de qualquer das seguintes hipóteses implicará a resolução de pleno direito da concessão de uso:\nI - extinção ou dissolução da concessionária;\nII - alteração do destino da área;\nIII - inobservância das condições estatuídas nesta lei ou nas cláusulas que constarem do instrumento de concessão;\nIV - inadimplemento de qualquer prazo fixado.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Fica assegurado à Prefeitura o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estatuídas nesta lei e no instrumento de concessão, o qual deverá prever os correspondentes encargos, os prazos de sua observância e a cláusula de rescisão, para o caso de inadimplemento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Serão aplicadas:\nI - multa de 20% (vinte por cento) sobre o valor do que seria devido a título de retribuição mensal, caso fosse onerosa a concessão, se a concessionária utilizar a área para finalidade diversa da cessão ou cedê-la, no todo ou em parte, a terceiros;\nII - multa de 15% (quinze por cento) sobre o valor do que seria devido a título de retribuição mensal, caso fosse onerosa a concessão, se a concessionária não prestar as contrapartidas fixadas no art. 4º desta lei;\nIII - multa de 10% (dez por cento) sobre o valor do que seria devido a título de retribuição mensal, caso fosse onerosa a concessão, se a concessionária descumprir qualquer uma das demais obrigações estabelecidas nesta lei ou no instrumento de concessão.\n§ 1º. Por ocasião da aplicação de qualquer uma das multas previstas no caput deste artigo, será fixado prazo para a correção da irregularidade, de acordo com a natureza e a complexidade das providências que deverão ser adotadas pela concessionária.\n§ 2º. A não correção da irregularidade no prazo fixado acarretará a rescisão da concessão de uso outorgada, sem prejuízo da adoção das medidas judiciais, quando cabíveis.\n§ 3º. Fica expressamente ressalvado o direito de a concedente exigir indenização suplementar, nos termos do disposto no parágrafo único do art. 416 do Código Civil.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Findo o prazo estabelecido no art. 1º desta lei, bem como na ocorrência de qualquer das hipóteses previstas em seu art. 5º, o imóvel será restituído ao Município, incorporando-se a seu patrimônio todas as benfeitorias nele construídas, ainda que necessárias, independentemente de qualquer pagamento de indenização, seja a que título for.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15675",
+   "short": "Lei 15675/2012",
+   "title": "Lei nº 15.675, de 18/12/2012",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15675-de-18-de-dezembro-de-2012",
+   "first_law": "lei-2012-15675",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15675-de-18-de-dezembro-de-2012",
+     "sha256": "0289f1aa75eb0cc9d64e96034948cf1e6271870fc38d53b2453a65ff8e7977c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.675, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 413/12, do Executivo)\nDispõe sobre a vedação prevista no § 2º do art. 3º da Lei nº 10.793, de 21 de dezembro de 1989, com as alterações posteriores, relativamente aos servidores que especifica, para atendimento de excepcional interesse público no âmbito da Autarquia Hospitalar Municipal.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 12 de dezembro de 2012, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A vedação contida no § 2º do art. 3º da Lei nº 10.793, de 21 de dezembro de 1989, alterada pelas Leis nº 13.261, de 28 de dezembro de 2001, nº 14.142, de 3 de abril de 2006, e nº 14.639, de 18 de dezembro de 2007, não se aplica aos servidores contratados nos anos de 2010 e 2011 no âmbito da Autarquia Hospitalar Municipal, os quais poderão ser novamente contratados, uma única vez, pelo prazo máximo de 12 (doze) meses.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei entrará em vigor na data da sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-15676",
+   "short": "Lei 15676/2012",
+   "title": "Lei nº 15.676, de 18/12/2012 (Dispõe sobre a vedação do transporte remunerado individual de passageiros sem que o veículo esteja autorizado para esse fim.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15676-de-18-de-dezembro-de-2012",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2012-15676"
+   ],
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15676-de-18-de-dezembro-de-2012",
+     "sha256": "c089179953d81592b6704c9b82dba6548310040d94654adae6ca21f94f844eb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 15.676, DE 18 DE DEZEMBRO DE 2012\n(Projeto de Lei nº 434/12, do Executivo)\nDispõe sobre a vedação do transporte remunerado individual de passageiros sem que o veículo esteja autorizado para esse fim.\nGILBERTO KASSAB, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É vedado o transporte remunerado individual de passageiros sem que o veículo esteja autorizado para esse fim.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Na hipótese de descumprimento do disposto no art. 1º desta lei, o infrator estará sujeito à cominação de multa no valor de R$ 4.500,00 (quatro mil e quinhentos reais), apreensão do veículo e demais sanções cabíveis.\nParágrafo único. O valor da multa prevista no \"caput\" deste artigo será reajustado anualmente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulada no exercício anterior, sendo que, no caso de extinção desse índice, será adotado outro criado pela legislação federal e que reflita a perda do poder aquisitivo da moeda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Ocorrendo reincidência, a multa será aplicada em dobro.\nParágrafo único. O prazo para caracterizar a reincidência é de 3 (três) anos, contados da data da infração anterior.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O infrator estará sujeito, ainda, no que couber, ao disposto na Lei nº 10.308, de 22 de abril de 1987.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entrará em vigor na data de sua publicação, revogado o inciso XLIX do art. 42 da Lei nº 7.329, de 11 de julho de 1969, na redação conferida pela Lei nº 10.308, de 22 de abril de 1987.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 18 de dezembro de 2012, 459º da fundação de São Paulo.\nGILBERTO KASSAB, PREFEITO\nNELSON HERVEY COSTA, Secretário do Governo Municipal\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 2012.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 15.676, de 18/12/2012 was altered by acts of 1 date(s), the latest 2016-01-04."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}

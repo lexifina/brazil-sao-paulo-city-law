@@ -1,0 +1,1224 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "20 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2017-16760": {
+   "label": "Lei nº 16.760, de 22/11/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Elos Internacional da Comunidade Lusíada, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-11-22",
+   "published": "2017-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16760-de-22-de-novembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16761": {
+   "label": "Lei nº 16.761, de 22/11/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Evento Bosque da Fama, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-11-22",
+   "published": "2017-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16761-de-22-de-novembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16762": {
+   "label": "Lei nº 16.762, de 06/12/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Diálogo Inter-Religioso.",
+   "kind": "law",
+   "enacted": "2017-12-06",
+   "published": "2017-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16762-de-6-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16763": {
+   "label": "Lei nº 16.763, de 06/12/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Virada Feminina.",
+   "kind": "law",
+   "enacted": "2017-12-06",
+   "published": "2017-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16763-de-6-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16764": {
+   "label": "Lei nº 16.764, de 06/12/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Cidadão Metropolitano.",
+   "kind": "law",
+   "enacted": "2017-12-06",
+   "published": "2017-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16764-de-6-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16765": {
+   "label": "Lei nº 16.765, de 15/12/2017",
+   "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Valorização da Vida, a Semana Municipal de Valorização da Vida, a Caminhada Anual Pela Vida e o Mês do Setembro Amarelo.",
+   "kind": "law",
+   "enacted": "2017-12-15",
+   "published": "2017-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16765-de-15-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16766": {
+   "label": "Lei nº 16.766, de 20/12/2017",
+   "title": "Autoriza a alienação da participação societária detida pelo Município de São Paulo na São Paulo Turismo S.A., nas condições que especifica; altera a Lei nº 4.236, de 26 de junho de 1952.",
+   "kind": "law",
+   "enacted": "2017-12-20",
+   "published": "2017-12-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16766-de-20-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16767": {
+   "label": "Lei nº 16.767, de 21/12/2017",
+   "title": "Introduz alterações na Lei nº 16.694, de 11 de agosto de 2017, que autoriza o pagamento de indenização em caso de morte ou de incapacidade permanente para o trabalho, total ou parcial, de integrante da Guarda Civil Metropolitana ou, alternativamente, a contratação de seguro destinado a essa finalidade, bem como nas Leis nº 13.271, de 4 de janeiro de 2002, e nº 15.509, de 15 de dezembro de 2011, relativamente à forma de provimento do cargo de Superintendente da Autarquia Hospitalar Municipal.",
+   "kind": "law",
+   "enacted": "2017-12-21",
+   "published": "2017-12-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16767-de-21-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16768": {
+   "label": "Lei nº 16.768, de 21/12/2017",
+   "title": "Atualiza os valores unitários de metro quadrado de construção e de terreno previstos na Lei nº 10.235, de 16 de dezembro de 1986.",
+   "kind": "law",
+   "enacted": "2017-12-21",
+   "published": "2017-12-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16768-de-21-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16769": {
+   "label": "Lei nº 16.769, de 26/12/2017",
+   "title": "Denomina Praça Waldomiro Battaglia Filho o espaço livre delimitado pela Rua Francisco Coelho, Avenida Elísio Cordeiro de Siqueira, Distrito de São Domingos, Prefeitura Regional Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-26",
+   "published": "2017-12-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16769-de-26-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16770": {
+   "label": "Lei nº 16.770, de 26/12/2017",
+   "title": "Denomina Praça Alfredo Antiquera o logradouro público que especifica, localizado no Distrito de Pirituba, Prefeitura Regional de Pirituba/Jaraguá, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-26",
+   "published": "2017-12-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16770-de-26-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16771": {
+   "label": "Lei nº 16.771, de 26/12/2017",
+   "title": "Denomina Rua Antonio Brito Marques o logradouro que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-26",
+   "published": "2017-12-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16771-de-26-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16772": {
+   "label": "Lei nº 16.772, de 27/12/2017",
+   "title": "Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2018.",
+   "kind": "law",
+   "enacted": "2017-12-27",
+   "published": "2017-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16772-de-27-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16773": {
+   "label": "Lei nº 16.773, de 27/12/2017",
+   "title": "Dispõe sobre o Plano Plurianual para o quadriênio 2018/2021.",
+   "kind": "law",
+   "enacted": "2017-12-27",
+   "published": "2017-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16773-de-27-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16774": {
+   "label": "Lei nº 16.774, de 27/12/2017",
+   "title": "Autoriza o Poder Executivo a doar áreas de propriedade municipal ao Fundo de Arrendamento Residencial – FAR, representado pela Caixa Econômica Federal, para fins de construção de moradias destinadas à alienação no âmbito do Programa Minha Casa Minha Vida – PMCMV.",
+   "kind": "law",
+   "enacted": "2017-12-27",
+   "published": "2017-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16774-de-27-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16775": {
+   "label": "Lei nº 16.775, de 28/12/2017",
+   "title": "Altera a denominação da parte do leito da Avenida Dr. Arnaldo, situada sobre a Avenida Paulo VI, para Viaduto Cap. Adalberto Mendes – S.E. Palmeiras – 1942.",
+   "kind": "law",
+   "enacted": "2017-12-28",
+   "published": "2017-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16775-de-28-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16776": {
+   "label": "Lei nº 16.776, de 29/12/2017",
+   "title": "Altera o art. 1º da Lei n° 9.479, de 8 de junho de 1982, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-29",
+   "published": "2017-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16776-de-29-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16777": {
+   "label": "Lei nº 16.777, de 29/12/2017",
+   "title": "Denomina Escola Municipal de Ensino Fundamental Professor José Rezende a EMEF situada na Vila do Encontro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-29",
+   "published": "2017-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16777-de-29-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16778": {
+   "label": "Lei nº 16.778, de 29/12/2017",
+   "title": "Denomina Casa de Cultura da Brasilândia – Sonia Franieck o próprio situado na Praça Benedito Cavalheiro, no bairro da Vila Brasilândia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16778-de-29-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2017-16779": {
+   "label": "Lei nº 16.779, de 29/12/2017",
+   "title": "Denomina Viaduto Dona Marisa Letícia o espaço viário inominado que passa por cima da Rua Daniel Klein e inicia-se na Estrada do M’Boi Mirim com término na confluência da Avenida Luiz Gushiken com a Rua Adilson Brito e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-29",
+   "published": "2017-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16779-de-29-de-dezembro-de-2017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2017-16760",
+   "short": "Lei 16760/2017",
+   "title": "Lei nº 16.760, de 22/11/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16760-de-22-de-novembro-de-2017",
+   "first_law": "lei-2017-16760",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16760-de-22-de-novembro-de-2017",
+     "sha256": "0b07ce0904469f00c676c654b68ed2c21a2de56769b8d95f4c797aa0be58a6d0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.760 DE 22 DE NOVEMBRO DE 2017\n(PROJETO DE LEI Nº 85/17)(VEREADOR PAULO FRANGE - PTB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Elos Internacional da Comunidade Lusíada, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- 8 de agosto: Dia Municipal do Elos Internacional da Comunidade Lusíada.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 23 de novembro de 2017.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 23 de novembro de 2017.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16761",
+   "short": "Lei 16761/2017",
+   "title": "Lei nº 16.761, de 22/11/2017 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Evento Bosque da Fama, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16761-de-22-de-novembro-de-2017",
+   "first_law": "lei-2017-16761",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16761-de-22-de-novembro-de-2017",
+     "sha256": "8d6c168c5eeeb80093ba248e94cd14479ed3d9fa1bfbf7b653326e6d24833dc5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.761 DE 22 DE NOVEMBRO DE 2017\n(PROJETO DE LEI Nº 176/16)(VEREADOR TONINHO PAIVA - PR)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Evento Bosque da Fama, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- primeira quinzena de dezembro: Evento Bosque da Fama, que tem por finalidade manter viva a memória esportiva com homenagens póstumas ou em vida a pessoas que tenham obtido grandes feitos no esporte brasileiro.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 23 de novembro de 2017.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 23 de novembro de 2017.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16762",
+   "short": "Lei 16762/2017",
+   "title": "Lei nº 16.762, de 06/12/2017 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Diálogo Inter-Religioso.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16762-de-6-de-dezembro-de-2017",
+   "first_law": "lei-2017-16762",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16762-de-6-de-dezembro-de-2017",
+     "sha256": "5a0bf021f10f335397030186f70d4ff1e662addb1ed4ea3e7981eaf93a30e6ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.762 DE 06 DE DEZEMBRO DE 2017\n(PROJETO DE LEI Nº 151/17)\n(VEREADOR JAIR TATTO - PT)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal do Diálogo Inter-Religioso, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXXXVIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia Municipal do Diálogo Inter-Religioso.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de dezembro de 2017.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de dezembro de 2017.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16763",
+   "short": "Lei 16763/2017",
+   "title": "Lei nº 16.763, de 06/12/2017 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Virada Feminina.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16763-de-6-de-dezembro-de-2017",
+   "first_law": "lei-2017-16763",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16763-de-6-de-dezembro-de-2017",
+     "sha256": "f205ca2ee3f3403cb0fb634efad19a1a0fb9ae0055ebe706a126427863493175",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.763 DE 06 DE DEZEMBRO DE 2017\n(PROJETO DE LEI Nº 373/17)\n(VEREADORA ADRIANA RAMALHO - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Virada Feminina, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- último domingo de maio: Virada Feminina, que visa promover a equidade entre homens e mulheres em todos os aspectos e fortalecer iniciativas de empoderamento feminino.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de dezembro de 2017.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de dezembro de 2017.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16764",
+   "short": "Lei 16764/2017",
+   "title": "Lei nº 16.764, de 06/12/2017 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Cidadão Metropolitano.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16764-de-6-de-dezembro-de-2017",
+   "first_law": "lei-2017-16764",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16764-de-6-de-dezembro-de-2017",
+     "sha256": "d1dde71f3be12e99c37b75a1ab9f823feb4c7acad2fc5dfb3738c1608edc757c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.764 DE 06 DE DEZEMBRO DE 2017\n(PROJETO DE LEI Nº 589/16)\n(VEREADOR ELISEU GABRIEL - PSB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Cidadão Metropolitano, e dá outras providências.\nMilton Leite, Presidente da Câmara Municipal de São Paulo, faz saber que a Câmara Municipal de São Paulo, de acordo com o § 7º do artigo 42 da Lei Orgânica do Município de São Paulo, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CCXC do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia do Cidadão Metropolitano.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nCâmara Municipal de São Paulo, 08 de dezembro de 2017.\nMILTON LEITE, Presidente\nPublicada na Secretaria Geral Parlamentar da Câmara Municipal de São Paulo, em 08 de dezembro de 2017.\nBRENO GANDELMAN, Secretário Geral Parlamentar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16765",
+   "short": "Lei 16765/2017",
+   "title": "Lei nº 16.765, de 15/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16765-de-15-de-dezembro-de-2017",
+   "first_law": "lei-2017-16765",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16765-de-15-de-dezembro-de-2017",
+     "sha256": "ef61861f3e5491dae2c3fbdd4926b9b5d94f7da0305f72c69eddde8e4a4dee88",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.765, DE 15 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 429/16, do Vereador José Police Neto - PSD)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia Municipal de Valorização da Vida, a Semana Municipal de Valorização da Vida, a Caminhada Anual Pela Vida e o Mês do Setembro Amarelo, e dá outras providências.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de novembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica inserida alínea ao inciso CLXXXIX do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Dia Municipal de Valorização da Vida.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"- Semana em que recair o dia 10 de setembro:\nSemana Municipal de Valorização da Vida.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica inserida alínea ao inciso CCXIII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Caminhada Anual pela Vida.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica inserida alínea ao inciso CLXXXII do art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Mês do Setembro Amarelo.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Público, quando da formulação e realização das Políticas de Valorização da Vida e Prevenção do Suicídio, pautar-se-á, sempre que possível, pelas seguintes diretrizes:\nI - promover palestras e seminários para orientar e alertar a população sobre possíveis distúrbios emocionais e mentais, bem como palestras direcionadas aos profissionais de saúde para qualificá-los na identificação de possíveis pacientes que se enquadrem neste perfil, priorizando suas realizações em estabelecimentos do ensino médio;\nII - divulgar amplamente eventuais sintomas e alertar para possíveis diagnósticos, utilizando-se dos meios de comunicação acessíveis à população;\nIII - criar canais de atendimento pessoal àquelas pessoas diagnosticadas ou às pessoas que se encontram com sintomas de distúrbios emocionais e mentais;\nIV - promover atividades de apoio para o público-alvo do programa, principalmente os mais vulneráveis;\nV - promover a interdisciplinaridade entre os profissionais que irão atuar no segmento;\nVI - promover campanha em prol da valorização da vida, buscando dar visibilidade à importância do diagnóstico e tratamento adequados de distúrbios emocionais e mentais;\nVII - desenvolver estratégias de promoção de qualidade de vida, de educação, de proteção e de recuperação da saúde e de prevenção de danos;\nVIII - desenvolver estratégias de informação, de comunicação e de sensibilização da sociedade de que o suicídio é um problema de saúde pública que pode ser prevenido;\nIX - organizar linha de cuidados integrais (promoção, prevenção, tratamento e recuperação) em todos os níveis de atenção, garantindo o acesso às diferentes modalidades terapêuticas;\nX - identificar a prevalência dos determinantes e condicionantes do suicídio e tentativas, assim como os fatores protetores e o desenvolvimento de ações intersetoriais de responsabilidade pública, sem excluir a responsabilidade de toda a sociedade;\nXI - fomentar e executar projetos estratégicos fundamentados em estudos de custo-efetividade, eficácia e qualidade, bem como em processos de organização da rede de atenção e intervenções nos casos de tentativas de suicídio;\nXII - contribuir para o desenvolvimento de métodos de coleta e análise de dados, permitindo a qualificação da gestão, a disseminação das informações e dos conhecimentos;\nXIII - promover intercâmbio entre o Sistema de Informações do SUS e outros sistemas de informações setoriais afins, implementando e aperfeiçoando permanentemente a produção de dados e garantindo a democratização das informações;\nXIV - promover a educação permanente dos profissionais de saúde das unidades de atenção básica, inclusive do Programa Saúde da Família, dos serviços de saúde mental, das unidades de urgência e emergência, de acordo com os princípios da integralidade e da humanização; e\nXV - promover caminhadas ou outras iniciativas mobilizadoras em parceria com as entidades que atuam na área de saúde mental no Município de São Paulo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de dezembro de 2017, 464º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 15 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16766",
+   "short": "Lei 16766/2017",
+   "title": "Lei nº 16.766, de 20/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16766-de-20-de-dezembro-de-2017",
+   "first_law": "lei-2017-16766",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16766-de-20-de-dezembro-de-2017",
+     "sha256": "a63677c2b623b0ffcd545df8a0f7437678a8adc293224c8607c2e658d6d1be11",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.766, DE 20 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 582/17, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nAutoriza a alienação da participação societária detida pelo Município de São Paulo na São Paulo Turismo S.A., nas condições que especifica; altera a Lei nº 4.236, de 26 de junho de 1952.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a alienar a participação societária detida pelo Município de São Paulo na São Paulo Turismo S.A. - SPTuris.\n§ 1º A alienação da participação societária referida no \"caput\" deste artigo será realizada no âmbito do Plano Municipal de Desestatização, devendo ser precedida de estudos técnico-operacionais, econômico-financeiros e jurídicos, sem prejuízo de outros estudos que se façam necessários, a critério da Administração Municipal.\n§ 2º A SPTuris deverá fornecer, em tempo hábil, à Secretaria Municipal de Desestatização e Parcerias as informações necessárias ao procedimento de alienação da participação societária ora autorizada.\n§ 3º A Administração Municipal promoverá a ampla divulgação das informações relativas à alienação, mediante a publicação, no Diário Oficial da Cidade, de sua justificativa e dos elementos que permitam a análise da situação econômica, financeira e operacional da empresa.\n§ 4º Os recursos auferidos com a alienação da participação societária referida no \"caput\" serão destinados exclusivamente ao Fundo Municipal de Desenvolvimento Social - FMD, com destinação obrigatória de no mínimo 20% (vinte por cento) dos recursos para investimentos na Zona Norte da cidade de São Paulo, nas áreas definidas no art. 6º da Lei nº 16.651, de 16 de maio de 2017.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Aplicar-se-á o disposto no § 3º do art. 4º da Lei Federal nº 9.491, de 9 de setembro de 1997, ao processo de alienação de participação societária autorizada por esta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os contratos firmados com fundamento na autorização constante desta lei poderão prever o emprego de mecanismos privados de resolução de conflitos deles decorrentes ou a eles relacionados, inclusive mediação e arbitragem, para dirimir questões referentes a direitos patrimoniais disponíveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a realização de eventos de Carnaval, eventos religiosos e outros, o Município de São Paulo terá o direito de utilizar a quadra 283 (duzentos e oitenta e três) do imóvel no qual estão localizados o Polo Cultural e Esportivo Grande Otelo - Sambódromo e as áreas de concentração e dispersão de escolas de samba, mediante a instituição de ônus real ou concessão de direito de uso pela SPTuris ou sucessora.\n§ 1º A utilização prevista no \"caput\" deste artigo será de 75 (setenta e cinco) dias por ano, consecutivos ou não, não cumulativos, conforme programação prévia a ser acordada entre o Poder Executivo e a SPTuris ou a sua sucessora.\n§ 2º A utilização da quadra 283 (duzentos e oitenta e três) prevista no \"caput\" deste artigo para eventos religiosos poderá ser substituída, a critério do Município de São Paulo, pela utilização de auditórios ou salões de eventos, localizados na quadra 284 (duzentos e oitenta e quatro), com capacidade para, no mínimo, 800 (oitocentas) pessoas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Prefeitura promoverá as adequações necessárias à realização dos eventos de Carnaval e elaborará plano logístico, sem qualquer ônus para terceiros, contemplando os seguintes pontos:\nI - áreas de desembarque e acesso de pedestres ao Sambódromo;\nII - área de concentração das escolas de samba;\nIII - área para a montagem e desmontagem dos carros alegóricos;\nIV - área para a realização de ensaios técnicos das escolas de samba.\n§ 1º Para fins de implantação do plano logístico previsto no \"caput\" deste artigo, a Prefeitura deverá prever a utilização das áreas públicas próximas ao Sambódromo, garantindo a segurança e facilitando o acesso dos frequentadores e integrantes das escolas de samba ao Sambódromo.\n§ 2º Enquanto não implementadas as providências referidas no \"caput\" deste artigo, a Prefeitura deverá garantir a infraestrutura necessária para a utilização prevista em seus incisos I a IV.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A alínea \"c\" do art. 1º da Lei nº 4.236, de 26 de junho de 1952, passa a vigorar com a seguinte redação:\n\"Art. 1º ......................................................\nc) avenida sul de contorno do Campo de Marte com a largura de 30,00m, numa extensão aproximada de 2.300,00m, entre a ponte da Casa Verde e a praça ao norte da Ponte das Bandeiras.\" (NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Previamente à alienação de que trata esta lei, os índices e parâmetros de uso e ocupação do solo para a Zona de Ocupação Especial - ZOE do Anhembi serão definidos em projeto de lei específico e posteriormente detalhados em Projeto de Intervenção Urbana - PIU.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A utilização da quadra 283 referida no art. 6º será gratuita quando destinada à realização de eventos de Carnaval.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de dezembro de 2017, 464º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS LOPES, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 20 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16767",
+   "short": "Lei 16767/2017",
+   "title": "Lei nº 16.767, de 21/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16767-de-21-de-dezembro-de-2017",
+   "first_law": "lei-2017-16767",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16767-de-21-de-dezembro-de-2017",
+     "sha256": "892f4d3415a6bcd485f76abb25bec00cfe17d7f7a13f6f5ea4f7b1c21b0cbbd8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.767, DE 21 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 649/17, do Executivo)\nIntroduz alterações na Lei nº 16.694, de 11 de agosto de 2017, que autoriza o pagamento de indenização em caso de morte ou de incapacidade permanente para o trabalho, total ou parcial, de integrante da Guarda Civil Metropolitana ou, alternativamente, a contratação de seguro destinado a essa finalidade, bem como nas Leis nº 13.271, de 4 de janeiro de 2002, e nº 15.509, de 15 de dezembro de 2011, relativamente à forma de provimento do cargo de Superintendente da Autarquia Hospitalar Municipal.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 7 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os arts. 1º, 3º, 7º e 9º da Lei nº 16.694, de 11 de agosto de 2017, passam a vigorar com as seguintes alterações:\n\"Art. 1º Fica o Executivo autorizado a realizar, alternativamente, uma das seguintes medidas em face de eventual ocorrência de morte ou de incapacidade permanente para o trabalho, total ou parcial, de integrante da Guarda Civil Metropolitana, desde que relacionados a uma das hipóteses referidas nos incisos I, II e III do art. 3º desta lei:\n...................................................................\" (NR)\n\"Art. 3º ................................................................\nIII - em decorrência de ato ilícito cometido contra integrante da Guarda Civil Metropolitana, em razão dessa condição.\" (NR)\n\"Art. 7º A natureza do evento lesivo e sua relação com uma das hipóteses previstas nos incisos I, II e III do art. 3º desta lei, bem como o valor da indenização, serão estabelecidos, em cada caso, em procedimento administrativo específico, de natureza simplesmente investigativa, a ser instaurado e realizado pela Corregedoria Geral da Guarda Civil Metropolitana, colhendo-se, obrigatoriamente, nos casos de incapacidade permanente para o trabalho, total ou parcial, o pronunciamento do órgão médico municipal com competência para, nos termos da legislação em vigor, realizar perícias médicas em servidores municipais.\nParágrafo único..........................................................\nIII - inquérito policial ou ação penal instaurados em razão do fato tratado no inciso III do art. 3º desta lei.\" (NR)\n\"Art. 9º.................................................................\nParágrafo único..........................................................\nI - .....................................................................\na) enquadramento ou não da situação em uma das hipóteses previstas nos incisos I, II e III do art. 3º desta lei;\n...................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O art. 11, \"caput\" e § 1º, da Lei nº 13.271, de 4 de janeiro de 2002, passa a vigorar com a seguinte redação:\n\"Art. 11. O Superintendente será nomeado, em comissão, pelo Prefeito, dentre profissionais Médicos ou graduados ou pós-graduados em Administração Hospitalar ou Administração de Serviços de Saúde ou Administração em Saúde Pública.\n§ 1º O indicado deverá apresentar memorial do qual constem informações curriculares, relacionando todas as empresas das quais tenha participado, com comprovação de experiência mínima de 10 (dez) anos na área de gestão de serviços de saúde e/ou hospitais.\n...................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica alterado o campo Forma de Provimento do Cargo de Superintendente, símbolo SUP, da Autarquia Hospitalar Municipal, na coluna Situação Nova da Tabela \"B\" - Cargos em Comissão do Nível de Direção Superior da Administração Indireta, constante do Anexo II da Lei nº 15.509, de 15 de dezembro de 2011, para constar o seguinte:\n\"Livre provimento em comissão pelo Prefeito, dentre profissionais Médicos ou graduados ou pós-graduados em Administração Hospitalar ou Administração de Serviços de Saúde ou Administração em Saúde Pública\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de dezembro de 2017, 464º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 21 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16768",
+   "short": "Lei 16768/2017",
+   "title": "Lei nº 16.768, de 21/12/2017 (Atualiza os valores unitários de metro quadrado de construção e de terreno previstos na Lei nº 10.235, de 16 de dezembro de 1986.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16768-de-21-de-dezembro-de-2017",
+   "first_law": "lei-2017-16768",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16768-de-21-de-dezembro-de-2017",
+     "sha256": "7bd4f123d889d829f7398d905b401b7f1cbbfc01be1ecf24300aac496c3d4d21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.768, DE 21 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 716/17, do Executivo)\nAtualiza os valores unitários de metro quadrado de construção e de terreno previstos na Lei nº 10.235, de 16 de dezembro de 1986.\nJOÃO DORIA, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Tabela VI - Tipos e Padrões de Construção - Valores Unitários de Metro Quadrado de Construção e a Listagem de Valores Unitários de Metro Quadrado de Terreno, integrantes da Lei nº 10.235, de 16 de dezembro de 1986, com as alterações posteriores, utilizadas na apuração do valor venal, para fins de lançamento do Imposto Predial e do Imposto Territorial Urbano - IPTU, passa a vigorar na conformidade do Anexo Único desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2018.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de dezembro de 2017, 464º da fundação de São Paulo.\nJOÃO DORIA, PREFEITO\nANDERSON POMINI, Secretário Municipal de Justiça\nJULIO FRANCISCO SEMEGHINI NETO, Secretário do Governo Municipal\nBRUNO COVAS, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 21 de dezembro de 2017.\nANEXOS:\nTabela VI - Tipos e Padrões de Construção\nListagem de Valores Unitários de Metro Quadrado de Terreno\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16769",
+   "short": "Lei 16769/2017",
+   "title": "Lei nº 16.769, de 26/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16769-de-26-de-dezembro-de-2017",
+   "first_law": "lei-2017-16769",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16769-de-26-de-dezembro-de-2017",
+     "sha256": "bf8ef80731719999eb69cb3154a44325f074f06b68df0de1d6c9a7fc8773f73b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.769, DE 26 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 29/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Waldomiro Battaglia Filho o espaço livre delimitado pela Rua Francisco Coelho, Avenida Elísio Cordeiro de Siqueira, Distrito de São Domingos, Prefeitura Regional Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Waldomiro Battaglia Filho o espaço livre delimitado pela Rua Francisco Coelho, Avenida Elísio Cordeiro de Siqueira, Passagem Subterrânea Fandi Chaquib Kalil e por lotes particulares, situado no Setor 78, Quadra 435, Distrito de São Domingos, Prefeitura Regional Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nANDERSON POMINI, Secretário Municipal de Justiça\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 26 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16770",
+   "short": "Lei 16770/2017",
+   "title": "Lei nº 16.770, de 26/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16770-de-26-de-dezembro-de-2017",
+   "first_law": "lei-2017-16770",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16770-de-26-de-dezembro-de-2017",
+     "sha256": "2a88ac7da4fd24b0513faafbe7d1a56357f84a48200200ebcea65cd945ba897d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.770, DE 26 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 228/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Praça Alfredo Antiquera o logradouro público que especifica, localizado no Distrito de Pirituba, Prefeitura Regional de Pirituba/Jaraguá, e dá outras providências.\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Praça Alfredo Antiquera o logradouro público delimitado pela Avenida Agenor Couto de Magalhães e pela Rua Stéfano Mauser, situado no Setor 105, Quadra 125, localizado no Distrito de Pirituba, Prefeitura Regional de Pirituba/Jaraguá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nANDERSON POMINI, Secretário Municipal de Justiça\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 26 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16771",
+   "short": "Lei 16771/2017",
+   "title": "Lei nº 16.771, de 26/12/2017 (Denomina Rua Antonio Brito Marques o logradouro que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16771-de-26-de-dezembro-de-2017",
+   "first_law": "lei-2017-16771",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16771-de-26-de-dezembro-de-2017",
+     "sha256": "1b56169dc5d2430b4ca61f0663918c960e6bbc682479abde9726e4af23dd0e76",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.771, DE 26 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 454/16, do Vereador Eliseu Gabriel - PSB)\nDenomina Rua Antonio Brito Marques o logradouro que especifica, localizado no Distrito da Lapa, Prefeitura Regional da Lapa, e dá outras providências.\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Rua Antonio Brito Marques, Codlog 27.842-4, o logradouro conhecido como Acesso Esquerdo Viaduto Elias Nagib Blein, com início na Rua William Speers, entre a Rua Romeu Alberti e o Viaduto Comendador Elias Nagib Blein, e término na Rua Felix Guilhem, Setor 99, Quadra 41, localizado no Distrito da Lapa, Prefeitura Regional da Lapa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nANDERSON POMINI, Secretário Municipal de Justiça\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 26 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16772",
+   "short": "Lei 16772/2017",
+   "title": "Lei nº 16.772, de 27/12/2017 (Estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2018.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16772-de-27-de-dezembro-de-2017",
+   "first_law": "lei-2017-16772",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16772-de-27-de-dezembro-de-2017",
+     "sha256": "18bb05cc52b581f35301aaebca278b763d165db09e7c35b517c0a02c3d924b6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.772, DE 27 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 686/17, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nEstima a receita e fixa a despesa do Município de São Paulo para o exercício de 2018.\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei estima a receita e fixa a despesa do Município de São Paulo para o exercício de 2018, compreendendo, nos termos do § 5º do art. 137 da Lei Orgânica do Município de São Paulo:\nI - o Orçamento Fiscal referente aos Poderes Executivo e Legislativo, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta;\nII - o Orçamento de Investimentos das Empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.\nParágrafo único. As rubricas de receita e os créditos orçamentários constantes desta lei e dos quadros que a integram estão expressos em reais, a preços correntes de 2018.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Orçamento Fiscal Consolidado\nArt. 2º Os Orçamentos Fiscais dos Poderes do Município, seus Fundos Especiais, Órgãos e Entidades da Administração Direta e Indireta, para o exercício de 2018, discriminado nos Anexos desta lei, estima a receita e fixa a despesa em R$ 56.370.560.562,00 (cinquenta e seis bilhões, trezentos e setenta milhões, quinhentos e sessenta mil e quinhentos e sessenta e dois reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A receita do Orçamento Fiscal será arrecadada de acordo com a legislação em vigor e está orçada segundo os seguintes desdobramentos:\nAnexo: Demonstrativo das Receitas\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A despesa do Orçamento Fiscal está fixada com a seguinte distribuição institucional:\nAnexo: Despesa por órgão parte 1\nAnexo: Despesa por órgão parte 2\nAnexo: Despesa por orgão parte 3\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Do Orçamento de Investimentos das Empresas\nArt. 5º A despesa total das empresas, nela incluída a de investimentos, com recursos próprios, de terceiros e do Tesouro Municipal, para o exercício de 2018, está fixada em R$ 5.063.155.193,00 (cinco bilhões, sessenta e três milhões, cento e cinquenta e cinco mil e cento e noventa e três reais), com a seguinte distribuição:\nAnexo: Despesa por empresa\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Autorização para a Contratação de Operação de Crédito\nArt. 6º Fica o Executivo autorizado a contratar operações de crédito no País e no Exterior, expressamente previstas em lei aprovada pelo Legislativo Municipal, observado o disposto na Constituição Federal, nas resoluções do Senado Federal que disciplinam o endividamento dos Municípios, na Lei Orgânica do Município de São Paulo e nas leis autorizativas das operações de crédito.\n§ 1º As taxas de juros, os prazos, as comissões e os demais encargos serão os vigentes à época das contratações e das eventuais repactuações dos respectivos empréstimos, admitidos pelo Banco Central do Brasil, para registro de operações da espécie, obedecidas as demais prescrições e normas aplicáveis à matéria, inclusive as operações de crédito previstas na Lei nº 15.390, de 6 de julho de 2011, alterada pela Lei nº 15.687, de 27 de março de 2013.\n§ 2º Os orçamentos do Município consignarão, anualmente, os recursos necessários ao atendimento das despesas relativas à amortização, juros e demais encargos decorrentes das operações de crédito autorizadas nos termos do \"caput\" deste artigo.\n§ 3º Os recursos provenientes das operações de crédito serão consignados como receita no orçamento do Município, ficando a Secretaria Municipal da Fazenda autorizada a adotar as providências que se façam necessárias.\n§ 4º Os prazos de carência e amortização poderão ser contratualmente repactuados perante a instituição financeira por iniciativa do Poder Executivo Municipal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para assegurar o pagamento integral de operações de crédito contratadas com a Caixa Econômica Federal - CEF, Banco do Brasil - BB e com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES, fica o Executivo autorizado a ceder ou dar em garantia, por qualquer forma em direito admitida, os direitos e créditos relativos ou resultantes das cotas ou parcelas da participação do Município na arrecadação da União, bem como das suas receitas próprias, na forma do disposto, respectivamente, no art. 159, inciso I, alíneas \"b\", \"d\" e \"e\", e no art. 158, ambos da Constituição Federal.\nParágrafo único. A cessão ou constituição de garantia em favor da CEF, do BB e do BNDES deverá atender às condições usualmente praticadas por aquelas instituições financeiras, incluindo, dentre outras, as seguintes prescrições:\nI - caráter irrevogável e irretratável;\nII - cessão dos direitos e créditos a título \"pro solvendo\", ficando a quitação condicionada ao efetivo recebimento dos valores cedidos pelo credor;\nIII - sub-rogação automática da vinculação em garantia ou da cessão sobre os direitos e créditos que venham a substituir os impostos previstos no art. 159, inciso I, alíneas \"b\", \"d\" e \"e\", da Constituição Federal, no caso de sua extinção, assim como em relação aos novos fundos que sejam criados em substituição;\nIV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça às vezes de seu agente financeiro, os direitos e créditos dados em garantia, até o montante necessário ao pagamento integral das parcelas da dívida vencidas e não pagas, incluindo os respectivos acessórios, no caso de inadimplemento do Município;\nV - outorga de poderes ao credor para cobrar e receber diretamente da União, ou do banco centralizador que faça as vezes de seu agente financeiro, os direitos e créditos que tenham sido objeto de cessão, na data de vencimento das parcelas da dívida de responsabilidade do Município, até o limite do valor devido, incluindo os respectivos acessórios.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As operações de crédito externas com instituições financeiras internacionais, dentre elas o Banco Interamericano de Desenvolvimento - BID e o Banco Mundial, serão garantidas pela União Federal.\n§ 1º Para obter as garantias da União, visando às contratações de operações de crédito externas, fica o Executivo autorizado a prestar contragarantias ao Tesouro Nacional.\n§ 2º As contragarantias de que trata o § 1º deste artigo compreendem a cessão de:\nI - direitos e créditos relativos a cotas ou parcelas da participação do Município na arrecadação da União, na forma do disposto no art. 159, inciso I, alíneas \"b\", \"d\" e \"e\", da Constituição Federal, ou resultantes de tais cotas ou parcelas transferíveis de acordo com os preceitos da Constituição Federal;\nII - receitas próprias do Município previstas no art. 158 da Constituição Federal, nos termos do § 4º de seu art. 167.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Nos termos do disposto no inciso III do § 1º do art. 8º da Medida Provisória nº 2185-35, de 24 de agosto de 2001, na redação conferida pela Lei Federal nº 11.131, de 1º de julho de 2005, fica o Executivo autorizado a participar do projeto de melhoria em sistemas de iluminação pública, no âmbito do Programa Nacional de Iluminação Pública Eficiente - Reluz.\nParágrafo único. O Executivo poderá oferecer garantias para consecução do disposto no \"caput\" deste artigo, aplicando-se, no que couber, o disposto no art. 7º desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Poder Executivo autorizado a firmar com a União Programa de Acompanhamento Fiscal, sob a gestão do Ministério da Fazenda, previsto no art. 5º da Lei Complementar nº 148, de 25 de novembro de 2014, com as alterações introduzidas pela Lei Complementar nº 151, de 5 de agosto de 2015, assumir os compromissos previstos no seu § 1º e adotar as medidas necessárias à implementação do Programa.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Seção IV\n## Das Adequações Orçamentárias\nArt. 11. Fica o Poder Executivo autorizado a utilizar a permissão de adequação orçamentária contida no \"caput\" do art. 25 da Lei nº 16.693, de 31 de julho de 2017, até o limite de 8% (oito por cento) do total da despesa fixada no art. 2º desta lei.\n§ 1º A adequação orçamentária a que se refere o \"caput\" deste artigo, mediante decreto, nos termos do que dispõe a Lei Federal nº 4.320, de 17 de março de 1964, abrange a Administração Direta, Indireta e seus Fundos Especiais, podendo, se necessário, criar elemento de despesa e fonte de recurso dentro de cada projeto, atividade ou operação especial.\n§ 2º (VETADO)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Ficam excluídos do limite estabelecido no art. 11 desta lei as adequações orçamentárias:\nI - com redução de recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nII - destinadas a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIII - destinadas a suprir insuficiências nas dotações dos Fundos Especiais decorrentes do recebimento de recursos extraordinários;\nIV - destinadas a suprir insuficiências nas dotações de pessoal, autorizada a redistribuição prevista no art. 66, parágrafo único, da Lei Federal nº 4.320, de 1964;\nV - destinadas a suprir insuficiências nas dotações das funções Educação, Assistência Social, Saúde, Habitação e Saneamento;\nVI - com realocação de recursos entre órgãos da Administração Direta e Indireta;\nVII - com recursos originados de operações de crédito autorizadas e/ou contratadas durante o exercício;\nVIII - com recursos provenientes de emendas parlamentares estaduais ou federais;\nIX - com recursos provenientes do Orçamento do Estado de São Paulo para cobertura de quaisquer despesas, em especial na área de mananciais.\nParágrafo único. Os recursos destinados ao pagamento do grupo de natureza de despesa de pessoal poderão ser realocados para outras despesas, desde que, comprovadamente, os eventos que subsidiaram a previsão da despesa de pessoal não se concretizem.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica o Poder Executivo, observadas as normas de controle e acompanhamento da execução orçamentária, com a finalidade de facilitar o cumprimento da programação aprovada nesta lei, autorizado a realocar recursos entre despesas de mesmo grupo inseridas em atividades, projetos e operações especiais de um mesmo programa, sem onerar o limite estabelecido no art. 11 desta lei.\nParágrafo único. Fica a critério do Poder Executivo autorizar a abertura de créditos adicionais suplementares, mediante portaria dos respectivos Titulares dos Órgãos, exclusivamente para os casos em que o elemento de despesa a ser suplementado ou anulado seja da mesma atividade, modalidade de aplicação e fonte, com a devida justificativa.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares à conta de excesso de arrecadação ou superávit financeiro de receitas específicas e vinculadas a determinada finalidade, nos termos do art. 43 da Lei Federal nº 4.320, de 1964, e do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A adequação orçamentária autorizada à Câmara Municipal e ao Tribunal de Contas do Município pelo art. 26 da Lei nº 16.693, de 31 de julho de 2017:\nI - fica excluída do limite estabelecido no art. 11 desta lei;\nII - poderá, se necessário, criar elemento de despesa e fonte de recurso dentro de cada projeto ou atividade;\nIII - poderá suplementar as dotações dos respectivos Fundos Especiais, com recursos provenientes de excesso de arrecadação ou de superávit financeiro desses Fundos, nos termos do parágrafo único do art. 8º da Lei Complementar Federal nº 101, de 4 de maio de 2000.\nParágrafo único. Sem prejuízo da adequação de que trata o \"caput\" deste artigo, ficam a Câmara Municipal e o Tribunal de Contas do Município autorizados a transpor, remanejar, transferir ou utilizar, total ou parcialmente, as dotações orçamentárias aprovadas na lei orçamentária de 2018 e em créditos adicionais.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Ficam as entidades da Administração Indireta autorizadas a utilizar a permissão de adequação orçamentária contida no \"caput\" do art. 27 da Lei nº 16.693, de 2017, até o percentual de 8% (oito por cento) do total da despesa fixada, individualmente considerado, para cada Autarquia e Fundação, criando, se necessário, elemento de despesa e fonte de recurso dentro de cada projeto, atividade ou operação especial.\n§ 1º Aplicam-se, no que couber, a cada entidade, as disposições previstas nos arts. 12 e 13 desta lei.\n§ 2º Os pedidos de adequação orçamentária a que se refere o \"caput\" deste artigo deverão ser analisados pela Secretaria à qual a entidade esteja vinculada e ratificados pela Secretaria Municipal da Fazenda.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Seção V\n## Das Disposições Finais\nArt. 17. Para efeito do disposto no art. 9º da Lei Complementar Federal nº 101, de 2000, e art. 44 da Lei nº 16.693, de 2017, serão preservadas, prioritariamente, as dotações das áreas de Educação, Saúde, Habitação, Transporte e Assistência Social.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Os compromissos assumidos pelas unidades deverão se limitar aos recursos orçamentários disponibilizados, em especial àqueles de natureza continuada.\nParágrafo único. Eventuais despesas realizadas sem a devida cobertura orçamentária deverão ser objeto de apuração de responsabilidade.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os órgãos responsáveis por entidades da Administração Indireta deverão acompanhar efetivamente as respectivas atividades e, em especial, coordenar o uso dos recursos autorizados nesta lei.\nParágrafo único. As entidades da Administração Indireta, incluindo as fundações, as empresas públicas e as sociedades de economia mista, publicarão, no respectivo sítio na internet, em até 30 (trinta) dias, as receitas e despesas do mês anterior de forma detalhada.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Para cumprir o Programa de Trabalho estabelecido nesta lei, os órgãos orçamentários da Administração Direta e Indireta poderão delegar competência entre si por meio de Nota de Transferência.\n§ 1º A unidade cedente permanecerá responsável pelo mérito do Programa de Trabalho e a unidade executora pela respectiva execução orçamentária, com base nas normas de licitação em vigor.\n§ 2º A transferência financeira na modalidade de aplicação 91 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes do Orçamento Fiscal, também poderá ser utilizada, mediante despacho decisório do titular do órgão cedente, declarando expressamente a delegação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Durante a execução orçamentária, mediante controle interno, deverão ser identificados e avaliados os componentes de custos das ações, para dimensionar se os recursos orçamentários disponíveis comportarão eventual expansão ou geração de novas despesas.\n§ 1º Sempre que cabível deverá ser verificada a possibilidade de financiamento por outras fontes em complemento aos recursos do Tesouro Municipal.\n§ 2º Os recursos correspondentes às outras fontes que não as do Tesouro Municipal deverão ser aplicados plenamente, com o acompanhamento e orientação das áreas centrais de orçamento, de finanças e dos negócios jurídicos, quando necessário, minimizando-se eventuais restituições.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Fica o Poder Executivo autorizado a aplicar no subsídio do Transporte Público Coletivo os recursos oriundos de economia com a redução e renegociação de contratos originalmente orçados, sem onerar o limite estabelecido no art. 11 desta lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. Para o ano de 2018, a meta fiscal de resultado primário, que compõe o Volume 1 - Demonstrativos Gerais, prevalece sobre a meta fixada pela Lei nº 16.693, de 31 de julho de 2017.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. (VETADO)\nParágrafo único. (VETADO)\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. (VETADO)\n§ 1º (VETADO)\n§ 2º (VETADO)\n§ 3º (VETADO)\n§ 4º (VETADO)\n§ 5º (VETADO)\n§ 6º (VETADO)\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. O valor total da despesa liquidada da Secretaria Municipal de Cultura para 2018 não será inferior ao valor total da despesa liquidada da referida Secretaria em 2017 reajustado pelo IPCA - Índice de Preços ao Consumidor Amplo acumulado no período.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Consoante o art. 45 da Lei nº 16.693, de 31 de julho de 2017, havendo eventual saldo de dotação orçamentária da Câmara Municipal de São Paulo e Tribunal de Contas do Município de São Paulo que não será utilizado, deverão ser oferecidos tais recursos preferencialmente para a conclusão das obras em andamento referentes a UPAs, UBSs, EMEIs e EMEFs, como fonte para abertura de créditos adicionais pelo Poder Executivo.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Fica o Poder Executivo autorizado a gerir os projetos da ação \"1193 - Obras e Serviços nas Áreas de Riscos Geológicos\" por meio da Secretaria Municipal das Prefeituras Regionais.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. Esta lei entrará em vigor em 1º de janeiro de 2018.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nVLADIMIR DE SOUZA ALVES, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 27 de dezembro de 2017.\nObs.: Anexo desta lei foi publicado no DOC de 20/10/2018 - Suplemento.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16773",
+   "short": "Lei 16773/2017",
+   "title": "Lei nº 16.773, de 27/12/2017 (Dispõe sobre o Plano Plurianual para o quadriênio 2018/2021.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16773-de-27-de-dezembro-de-2017",
+   "first_law": "lei-2017-16773",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16773-de-27-de-dezembro-de-2017",
+     "sha256": "e35019ed04edc10b435d221f13f2517f9cbb28b89cad48cac02882d5e41b867d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.773, DE 27 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 687/17, do Executivo, aprovado na forma de Substitutivo do Legislativo)\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\nDispõe sobre o Plano Plurianual para o quadriênio 2018/2021.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Plano Plurianual para o quadriênio 2018/2021, em cumprimento ao disposto no § 1º do art. 165 da Constituição Federal e nos arts. 69, inciso X, e 137, inciso I, da Lei Orgânica do Município de São Paulo, estabelecendo programas, ações, valores e metas da Administração Pública Direta e Indireta do Poder Executivo e do Poder Legislativo para as despesas de capital e outras delas decorrentes e para as relativas aos programas de duração continuada.\nParágrafo único. Fazem parte desta lei os seguintes anexos:\nI - Apresentação do Cenário Econômico e Demonstrativo da Previsão de Receitas para o Quadriênio 2018/2021;\nII - Demonstrativo dos Programas e Ações da Administração Pública para o Quadriênio 2018/2021;\nIII - Relação de Indicadores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os programas constantes do anexo referido no inciso II do parágrafo único do art. 1º desta lei obedecem à diretriz da regionalização das ações e estão em consonância com os projetos que compõem o Programa de Metas 2017-2020, os 17 (dezessete) Objetivos do Desenvolvimento Sustentável elaborados no âmbito da Agenda 2030 da Organização das Nações Unidas - ONU e o Plano Diretor vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As metas físicas e os valores estimados para execução das despesas previstas neste Plano Plurianual estão condicionados à efetiva arrecadação das receitas nele previstas.\n§ 1º As estimativas de valores de receita e de despesas constantes dos anexos desta lei, bem como suas metas físicas, foram fixadas de modo a conferir consistência ao Plano Plurianual, não se constituindo em obrigatoriedade ou limites à programação das despesas nas leis orçamentárias anuais.\n§ 2º A Lei de Diretrizes Orçamentárias estabelecerá as metas e prioridades para cada ano, promovendo os ajustes eventualmente necessários ao Plano Plurianual.\n§ 3º As leis orçamentárias anuais para o período de 2018 a 2021 devem ser compatíveis com os programas e metas constantes desta lei, observado o disposto no \"caput\" deste artigo.\n§ 4º As metas referidas no \"caput\" deste artigo norteiam as ações da Administração Municipal e correspondem a quantidades e valores estimados, não constituindo limites para o cumprimento dos objetivos do plano de que trata esta lei.\n§ 5º Considera-se revisão do Plano Plurianual a inclusão, a exclusão ou a alteração de programas.\n§ 6º As leis orçamentárias anuais e seus anexos poderão criar, alterar ou excluir ações orçamentárias para o ano de sua vigência.\n§ 7º Fica o Poder Executivo autorizado a compatibilizar os anexos desta lei a eventuais diferenças com relação à Lei Orçamentária Anual de 2018, em seus exatos limites.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As codificações de programas e ações constantes do Plano Plurianual serão observadas nas leis de diretrizes orçamentárias, nas leis orçamentárias e nos projetos que as modifiquem.\n§ 1º Cada programa é composto por:\nI - ações necessárias à consecução das políticas públicas prioritárias para a Administração Municipal, com as respectivas metas físicas e financeiras;\nII - valor global e respectivas fontes de financiamento, com a identificação, quando cabível, das Prefeituras Regionais e Distritos a serem beneficiados pelos investimentos;\nIII - indicadores de acompanhamento e respectivos resultados esperados para o período 2018/2021, quando cabível;\nIV - vínculo com o Programa de Metas 2017-2020 e a Agenda 2030 da ONU;\nV - órgão responsável e órgãos participantes.\n§ 2º A identificação das ações regionalizadas, nos termos do inciso II do § 1º deste artigo, dar-se-á a partir do Detalhamento de Ação - DA, composto pelo Código de Endereçamento Postal - CEP do local onde serão aplicados os recursos, de forma a conferir maior transparência ao processo de planejamento e execução orçamentária, não se constituindo em limites vinculantes para as despesas.\n§ 3º As codificações de que trata este artigo permanecerão até a extinção dos programas e ações a que se vinculam.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A avaliação física e financeira dos programas é inerente às responsabilidades do órgão responsável e objetivará:\nI - aferir o resultado com base nas metas fixadas;\nII - subsidiar a alocação dos recursos.\n§ 1º Anualmente, a Secretaria Municipal da Fazenda disponibilizará relatórios de acompanhamento da execução física e financeira dos programas estabelecidos por esta lei.\n§ 2º A execução das leis orçamentárias anuais para o período de 2018 a 2021 poderá ser acompanhada por meio do portal da Secretaria Municipal da Fazenda na internet.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os programas que comportarem parcerias com financiamento de ações por outras fontes que não as do Tesouro Municipal deverão ser executados de acordo com as condições pactuadas, observando especialmente a utilização adequada da fonte de recursos externa ao Município e, quando for o caso, da contrapartida municipal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para cada programa será designado um coordenador no órgão responsável, com as seguintes atribuições:\nI - acompanhar e avaliar a execução do programa e das respectivas ações;\nII - coletar e manter dados atualizados e relevantes de sua área de competência;\nIII - zelar pela compatibilidade e coerência do programa com relação às leis, planos e instrumentos de planejamento;\nIV - zelar pela integração e coerência entre o programa e as ações previstas para os fundos, autarquias, fundações e empresas a ele relacionadas, quando for o caso;\nV - adotar eventuais medidas corretivas no sentido de compatibilizar os projetos e as atividades com os resultados planejados;\nVI - justificar os motivos de eventual descumprimento das metas físicas ou financeiras relativas aos projetos e atividades sob sua responsabilidade;\nVII - subsidiar a Secretaria Municipal da Fazenda na elaboração do relatório a que se refere o § 1º do art. 5º desta lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor em 1º de janeiro de 2018.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nVLADIMIR DE SOUZA ALVES, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 27 de dezembro de 2017.\nObs.: Os anexos desta lei serão publicados na íntegra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16774",
+   "short": "Lei 16774/2017",
+   "title": "Lei nº 16.774, de 27/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16774-de-27-de-dezembro-de-2017",
+   "first_law": "lei-2017-16774",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16774-de-27-de-dezembro-de-2017",
+     "sha256": "ee789aa9302e55cf6ec6e5f5f85a5d9d64adb7daa408998d2f3b5d2e66c2fd69",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.774, DE 27 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 817/17, do Executivo)\nAutoriza o Poder Executivo a doar áreas de propriedade municipal ao Fundo de Arrendamento Residencial - FAR, representado pela Caixa Econômica Federal, para fins de construção de moradias destinadas à alienação no âmbito do Programa Minha Casa Minha Vida - PMCMV.\nBRUNO COVAS, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a doar ao Fundo de Arrendamento Residencial - FAR, representado pela Caixa Econômica Federal - CEF, responsável por sua gestão e pela operacionalização do Programa Minha Casa Minha Vida - PMCMV, nos termos da Lei Federal nº 10.188, de 10 de fevereiro de 2001, com vistas à construção de moradias destinadas à alienação no âmbito do referido Programa, as seguintes áreas de propriedade municipal:\nI - um terreno sem número, com frente para Rua Virgínia Torezin Forte, situado no Distrito Jardim São Luís, Prefeitura Regional M'Boi Mirim, que assim se descreve: tem início no ponto 1, seguindo pelo alinhamento definido na planta expropriatória P-31.029-A1, confrontando com o passeio da Rua Virgínia Torezin Forte numa distância de 101,50m até encontrar o ponto 2; daí continua pelo mesmo alinhamento definido na planta expropriatória P-31.029-A1, confrontando com o passeio da Rua Virgínia Torezin Forte numa distância de 56,50m até encontrar o ponto 3; daí deflete à direita e segue em reta confrontando lateralmente com o imóvel do contribuinte 094.163.0055-1, numa distância de 4,00m até encontrar o ponto 4; daí deflete à direita e segue em reta confrontando pelos fundos com os imóveis dos contribuintes 094.163.0055-1, 094.163.0054-3, 094.163.0053-5, 094.163.0052-7, 094.163.0051-9 e um trecho do fundo do imóvel do contribuinte 094.163.0050-0, numa distância de 55,00m até encontrar o ponto 5; daí continua pelo mesmo alinhamento confrontando ainda pelos fundos com os imóveis dos contribuintes 094.163.0050-0, 094.163.0049-7, 094.163.0048-9, 094.163.0047-0, 094.163.0046-2, 094.163.0064-0, 094.163.0045-4, 094.163.0063-2, 094.163.0062-4, 094.163.0060-8, 094.163.0061-6 e 094.163.0069-1, numa distância de 131,00m até encontrar o ponto 6; daí continua pelo mesmo alinhamento confrontando ainda pelos fundos com o imóvel do contribuinte 094.163.0069-1 e com os fundos do lote do contribuinte 094.163.0057-8, numa distância de 11,30m até encontrar o ponto 7; daí deflete à direita e segue em reta confrontando lateralmente com o imóvel do contribuinte 094.163.0067-5, numa distância de 9,50m até encontrar o ponto 8; daí deflete à direita e segue em reta confrontando ainda lateralmente com o imóvel do contribuinte 094.163.0067-5, numa distância de 31,00m até encontrar o ponto 9; daí deflete à direita seguindo pelo alinhamento definido na planta expropriatória P-31.029-A1, confrontando com o passeio da Rua Virgínia Torezin Forte numa distância de 4,50m até encontrar o ponto 1, início da presente descrição, perfazendo assim o perímetro: 01-02-03-04-05-06-07-08-09-01, com área total de 4.594,80m², adjudicado à Municipalidade de São Paulo e registrado nas matrículas nº 432.573 (antiga certidão da transcrição nº 218.434 - 11 S.R.I.) e nº 435.808 (antiga certidão da inscrição de loteamento nº 436 - 11 S.R.I.), do 11º Cartório de Registro de Imóveis da Capital, cuja avaliação totaliza o montante de R$ 2.915.506,87 (dois milhões, novecentos e quinze mil, quinhentos e seis reais e oitenta e sete centavos);\nII - um terreno sem número, com frente para Rua Campo das Pitangueiras, situado no Distrito Ponte Rasa, Prefeitura Regional Ermelino Matarazzo, que assim se descreve: inicia no ponto 1 e segue em reta numa distância de 18,00m até encontrar o ponto 2; daí segue em reta pelo alinhamento da Rua Campo das Pitangueiras numa distância de 18,00m até encontrar o ponto 5; daí deflete à direita e segue em reta confrontando com a lateral do imóvel de matrícula 139.853 do 12º S.R.I., numa distância de 73,00m até encontrar o ponto 6; daí deflete à direita e segue em reta numa distância de 18,00m até encontrar o ponto 4; daí deflete à direita confrontando com a lateral do imóvel de matrícula 66.333 - 12 S.R.I. numa distância de 69,70m até encontrar o ponto 1, início da presente descrição, perfazendo assim o perímetro: 1-2-5-6-10-11-12-4-1, com área total de 2.567,00m², adjudicado à Municipalidade de São Paulo e registrado nas matrículas nº 129.503 e nº 17.872, do 12º Cartório de Registro de Imóveis da Capital, cuja avaliação totaliza o montante de R$ 2.997.763,04 (dois milhões, novecentos e noventa e sete mil, setecentos e sessenta e três reais e quatro centavos);\nIII - um terreno sob os números 846 e 850, com frente para Avenida Academia de São Paulo, situado no Distrito Itaim Paulista, Prefeitura Regional Itaim Paulista, que assim se descreve: tem início no ponto 1, seguindo em reta confrontando lateralmente com a calçada, numa distância de 0,88m até encontrar o ponto 2; daí continua em linha reta mantendo o mesmo alinhamento confrontando lateralmente com os imóveis dos contribuintes 134.295.0032-9, 134.295.0030-2, 130.295.0029-9, 130.295.0028-0, 134.295.0026-4, 134.295.0027-2, 134.295.0025-6, 134.295.0040-1, 134.295.0039-6, 134.295.0023-1, 134.295.0022-1, 134.295.0056-6, 134.295.0055-8, 134.295.0020-5 e 134.295.0019-1, numa distância de 148,67m até encontrar o ponto 3; daí deflete à direita e segue em reta confrontando nos fundos com a Viela 32, numa distância de 20,00m até encontrar o ponto 4; daí segue em linha reta mantendo o mesmo alinhamento confrontando ainda com a Viela 32, numa distância de 13,68m até encontrar o ponto 5; daí deflete à direita e segue em reta confrontando lateralmente com a Viela 32, numa distância de 5,53m até encontrar o ponto 6; daí deflete à direita e segue em reta confrontando ainda lateralmente com a Viela 32 e com o imóvel do contribuinte 134.295.0009-4, numa distância de 30,99m até encontrar o ponto 7; daí deflete à direita e segue em reta confrontando lateralmente com os imóveis dos contribuintes 134.295.0009-4, 134.295.0008-6, 134.295.0007-8, 134.295.0006-1, 134.295.0005-1, 134.295.0004-3, 134.295.0038-8, 134.295.0037-1, 134.295.0036-1, 134.295.0035-3 e com o imóvel do contribuinte 134.295.0001-9, numa distância de 87,69m até encontrar o ponto 8; daí deflete à direita e segue em reta confrontando ainda lateralmente com o imóvel do contribuinte 134.295.0001-9, numa distância de 26,33m até encontrar o ponto 9; daí deflete à direita e segue em reta confrontando com a calçada pelo alinhamento da Avenida Academia de São Paulo, numa distância de 18,56m até encontrar o ponto 10; daí deflete à esquerda e segue em reta ainda confrontando com a calçada pelo alinhamento da Avenida Academia de São Paulo, numa distância de 20,00m até encontrar o ponto 1, início da presente descrição, perfazendo assim o perímetro: 01-02-03-04-05-06-07-08-09-10-01, com área total de 5.784,36m², adjudicado à Municipalidade de São Paulo e registrado sob as matrículas nº 130.486 e nº 130.815, do 12º Cartório de Registro de Imóveis da Capital, cuja avaliação totaliza o montante de R$ 4.033.333,02 (quatro milhões, trinta e três mil, trezentos e trinta e três reais e dois centavos).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os bens imóveis descritos no art. 1º desta lei serão utilizados exclusivamente no âmbito do Programa Minha Casa Minha Vida - PMCMV e integrarão o patrimônio do Fundo de Arrendamento Residencial - FAR, com fins específicos de manter a segregação patrimonial e contábil dos haveres financeiros e imobiliários, observadas as seguintes restrições:\nI - não integrarão o ativo da CEF;\nII - não responderão direta ou indiretamente por qualquer obrigação da CEF;\nIII - não comporão a lista de bens e direitos da CEF, para efeito de liquidação judicial ou extrajudicial;\nIV - não poderão ser dados em garantia de débito de operação da CEF;\nV - não serão passíveis de execução por quaisquer credores da CEF, por mais privilegiados que possam ser;\nVI - não poderão ser constituídos quaisquer ônus reais sobre o imóvel.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A donatária deverá utilizar os imóveis doados, exclusivamente, para a construção de unidades residenciais destinadas à população de baixa renda, sob pena de revogação das doações.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As doações de que trata esta lei serão revogadas caso a donatária deixe de dar início à execução das obras de engenharia civil nos imóveis doados, no prazo de 2 (dois) anos a contar da doação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os imóveis objeto das doações ficarão isentos do recolhimento dos seguintes tributos:\nI - ITBI - Imposto de Transmissão de Bens Imóveis, quando da transferência do imóvel objeto da doação para os beneficiários finais do programa;\nII - IPTU - Imposto Predial e Territorial Urbano, enquanto permanecerem sob a propriedade do FAR.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data da sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2017, 464º da fundação de São Paulo.\nBRUNO COVAS, Prefeito em Exercício\nVLADIMIR DE SOUZA ALVES, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nPublicada na Casa Civil, em 27 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16775",
+   "short": "Lei 16775/2017",
+   "title": "Lei nº 16.775, de 28/12/2017 (Altera a denominação da parte do leito da Avenida Dr. Arnaldo, situada sobre a Avenida Paulo VI, para Viaduto Cap. Adalberto Mendes – S.E. Palmeiras – 1942.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16775-de-28-de-dezembro-de-2017",
+   "first_law": "lei-2017-16775",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16775-de-28-de-dezembro-de-2017",
+     "sha256": "e50fbc163dcbe9b5e88350ac4677a8a82059509f8c93efb136bc68fde0130b0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.775, DE 28 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 366/17, dos Vereadores Abou Anni - PV, Antonio Donato - PT, Camilo Cristófaro - PSB, Fábio Riva - PSDB, João Jorge - PSDB, Reis - PT, Ricardo Nunes - PMBD, Sandra Tadeu - DEMOCRATAS, Senival Moura - PT, Soninha Francine - PPS e Toninho Vespoli - PSOL)\nAltera a denominação da parte do leito da Avenida Dr. Arnaldo, situada sobre a Avenida Paulo VI, para Viaduto Cap. Adalberto Mendes - S.E. Palmeiras - 1942, e dá outras providências.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 13 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação da parte do leito da Avenida Dr. Arnaldo, situada sobre a Avenida Paulo VI, para Viaduto Cap. Adalberto Mendes - S.E. Palmeiras - 1942.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2017, 464º da fundação de São Paulo.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nLUCIANO PINTO, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nORLANDO LINDÓRIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 28 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16776",
+   "short": "Lei 16776/2017",
+   "title": "Lei nº 16.776, de 29/12/2017 (Altera o art. 1º da Lei n° 9.479, de 8 de junho de 1982, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16776-de-29-de-dezembro-de-2017",
+   "first_law": "lei-2017-16776",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16776-de-29-de-dezembro-de-2017",
+     "sha256": "a3c7fb7db0349144e07f4c09a35adcd00a25cc4a97d5db2c849469362c28cdb6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.776, DE 29 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 546/17, do Vereador Eduardo Tuma - PSDB)\nAltera o art. 1º da Lei n° 9.479, de 8 de junho de 1982, e dá outras providências.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Poder Executivo, por Ato Administrativo, a renovar a concessão de área municipal, por até 20 (vinte) anos, situada na Avenida Marquês de São Vicente, 2724 - Barra Funda, São Paulo - SP, 05036-040, CODLOG 06.471-8, para manutenção de centro esportivo, considerando os relevantes serviços sociais e culturais prestados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A concessão poderá ser renovada por mais uma única vez subsequente por até 20 (vinte) anos, desde que atendida a contrapartida fixada pelo Poder Executivo Municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente lei no prazo de 120 (cento e vinte) dias, contados da data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta lei correrão à conta das dotações próprias consignadas no orçamento vigente, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2017, 464º da fundação de São Paulo.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nLUCIANO PINTO, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nORLANDO LINDÓRIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 29 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16777",
+   "short": "Lei 16777/2017",
+   "title": "Lei nº 16.777, de 29/12/2017 (Denomina Escola Municipal de Ensino Fundamental Professor José Rezende a EMEF situada na Vila do Encontro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16777-de-29-de-dezembro-de-2017",
+   "first_law": "lei-2017-16777",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16777-de-29-de-dezembro-de-2017",
+     "sha256": "d2c829a676c8a71999ebd8094fb9d0630fe92d0a2321624b4b063e600eb59fac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.777, DE 29 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 479/16, do Vereador Antonio Donato - PT)\nDenomina Escola Municipal de Ensino Fundamental Professor José Rezende a EMEF situada na Vila do Encontro, e dá outras providências.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Escola Municipal de Ensino Fundamental Professor José Rezende a EMEF localizada na Avenida Engenheiro Armando de Arruda Pereira nº 5241, Bairro Vila do Encontro, equipamento integrante do Centro Educacional Unificado Caminho do Mar - Profª Dulce Salles Cunha Braga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2017, 464º da fundação de São Paulo.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nLUCIANO PINTO, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nORLANDO LINDÓRIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 29 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16778",
+   "short": "Lei 16778/2017",
+   "title": "Lei nº 16.778, de 29/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16778-de-29-de-dezembro-de-2017",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2017-16778"
+   ],
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16778-de-29-de-dezembro-de-2017",
+     "sha256": "b84cb459091a8f44fc16ef12c7ef5b9b011fbc54df64349d00be4ab594d0cb31",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.778, DE 29 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 88/15, do Vereador José Américo - PT)\nDenomina Casa de Cultura da Brasilândia - Sonia Franieck o próprio situado na Praça Benedito Cavalheiro, no bairro da Vila Brasilândia, e dá outras providências.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Casa de Cultura da Brasilândia - Sonia Franieck e João Terra o próprio municipal situado na Praça Benedito Cavalheiro s/nº, na Travessa Estrada do Sabão, no bairro da Vila Brasilândia, na cidade de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2017, 464º da fundação de São Paulo.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nLUCIANO PINTO, Secretário Municipal de Justiça - Substituto\nMILTON FLAVIO MARQUES LAUTENSCHLAGER, Secretário do Governo Municipal - Substituto\nORLANDO LINDÓRIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 29 de dezembro de 2017.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 16.778, de 29/12/2017 was altered by acts of 1 date(s), the latest 2026-01-16."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-16779",
+   "short": "Lei 16779/2017",
+   "title": "Lei nº 16.779, de 29/12/2017",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16779-de-29-de-dezembro-de-2017",
+   "first_law": "lei-2017-16779",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16779-de-29-de-dezembro-de-2017",
+     "sha256": "7a648772c3143590de16f756091f5966bcd0f1cd7a60f936d2eff70c441682d0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 16.779, DE 29 DE DEZEMBRO DE 2017\n(Projeto de Lei nº 81/17, dos Vereadores Reis - PT, Alessandro Guedes - PT, Alfredinho - PT, Antonio Donato - PT, Arselino Tatto - PT, Eduardo Matarazzo Suplicy - PT, Juliana Cardoso - PT, Jair Tatto - PT e Senival Moura - PT)\nDenomina Viaduto Dona Marisa Letícia o espaço viário inominado que passa por cima da Rua Daniel Klein e inicia-se na Estrada do M'Boi Mirim com término na confluência da Avenida Luiz Gushiken com a Rua Adilson Brito e dá outras providências.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 11 de dezembro de 2017, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Viaduto Dona Marisa Letícia o espaço viário inominado que passa por cima da Rua Daniel Klein e inicia-se na Estrada do M´Boi Mirim com término na confluência da Avenida Luiz Gushiken com a Rua Adilson Brito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica denominado Avenida Cecilia Lottenberg o prolongamento da Avenida Chucri Zaidan até a Rua Laguna, localizado na Chácara Santo Antônio, Prefeitura Regional de Santo Amaro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 2017, 464º da fundação de São Paulo.\nMILTON LEITE, Presidente da Câmara Municipal de São Paulo em exercício no cargo de Prefeito\nLUCIANO PINTO, Secretário Municipal de Justiça - Substituto\nORLANDO LINDÓRIO DE FARIA, Secretário-Chefe da Casa Civil - Substituto\nPublicada na Casa Civil, em 29 de dezembro de 2017.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
