@@ -1,0 +1,968 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2001",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "11 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2001-13249": {
+   "label": "Lei nº 13.249, de 26/12/2001",
+   "title": "AUTORIZA A DOACAO DE AREAS MUNICIPAIS A COMPANHIA METROPOLITANA DE HABITACAO DE SAO PAULO - COHAB-SP, SITUADAS NO BRAS, E DA OUTRAS PROVIDENCIAS. (PL206/98)",
+   "kind": "law",
+   "enacted": "2001-12-26",
+   "published": "2001-12-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13249-de-26-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13250": {
+   "label": "Lei nº 13.250, de 27/12/2001",
+   "title": "Altera a Lei 6.989, de 29 de dezembro de 1966, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2001-12-27",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13250-de-27-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13251": {
+   "label": "Lei nº 13.251, de 27/12/2001",
+   "title": "REVOGA ISENCAO DO IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - ISS CONCEDIDA A COMPANHIA DE GAS DE SAO PAULO - COMGAS, E DA OUTRAS PROVIDENCIAS. (PL 311/00)",
+   "kind": "law",
+   "enacted": "2001-12-27",
+   "published": "2001-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13251-de-27-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13253": {
+   "label": "Lei nº 13.253, de 27/12/2001",
+   "title": "Fixa o valor da menor remuneração bruta mensal a ser paga aos servidores municipais que especifica, dispõe sobre concessão de abono, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2001-12-27",
+   "published": "2001-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13253-de-27-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13254": {
+   "label": "Lei nº 13.254, de 27/12/2001",
+   "title": "Modifica a composição do Conselho Deliberativo e Fiscal do Instituto de Previdência Municipal de São Paulo - IPREM, prevista no artigo 4º da Lei nº 9.157, de 1º de dezembro de 1980.",
+   "kind": "law",
+   "enacted": "2001-12-27",
+   "published": "2001-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13254-de-27-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13257": {
+   "label": "Lei nº 13.257, de 28/12/2001",
+   "title": "Dispõe sobre o Plano Plurianual para o quadriênio 2002/2005, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2001-12-28",
+   "published": "2001-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13257-de-28-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13258": {
+   "label": "Lei nº 13.258, de 28/12/2001",
+   "title": "ESTIMA A RECEITA E FIXA A DESPESA DAS ADMINISTRACOES DIRETA E INDIRETA DO MUNICIPIO DE SAO PAULO, PARA O EXERCICIO DE 2002. (PL 545/01) OBS.:SUPLEMENTO DOM 24/01/02",
+   "kind": "law",
+   "enacted": "2001-12-28",
+   "published": "2001-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13258-de-28-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13259": {
+   "label": "Lei nº 13.259, de 28/11/2001",
+   "title": "Disciplina a dação em pagamento de bens imóveis como forma de extinção da obrigação tributária no Município de São Paulo, prevista no inciso XI do artigo 156 do Código Tributário Nacional, acrescido pela Lei Complementar Federal nº 104, de 10 de janeiro de 2001.",
+   "kind": "law",
+   "enacted": "2001-11-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13259-de-28-de-novembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13260": {
+   "label": "Lei nº 13.260, de 28/12/2001",
+   "title": "Estabelece diretrizes urbanísticas para a área de influência da atual Avenida Água Espraiada, de interligação entre a Avenida Nações Unidas (Marginal do Rio Pinheiros) e a Rodovia dos Imigrantes, cria incentivos por meio de instrumentos de política urbana para sua implantação, institui o Grupo de Gestão, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2001-12-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13260-de-28-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13262": {
+   "label": "Lei nº 13.262, de 28/12/2001",
+   "title": "AUTORIZA O EXECUTIVO A ACEITAR DOACAO COM ENCARGO DOS IMOVEIS QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS. (PL 448/98)",
+   "kind": "law",
+   "enacted": "2001-12-28",
+   "published": "2001-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13262-de-28-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2001-13263": {
+   "label": "Lei nº 13.263, de 28/12/2001",
+   "title": "DESINCORPORA DA CLASSE DE BENS DE USO COMUM DO POVO AREAS DE PROPRIEDADE MUNICIPAL SITUADAS NO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 636/98)",
+   "kind": "law",
+   "enacted": "2001-12-28",
+   "published": "2001-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13263-de-28-de-dezembro-de-2001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2001-13249",
+   "short": "Lei 13249/2001",
+   "title": "Lei nº 13.249, de 26/12/2001 (AUTORIZA A DOACAO DE AREAS MUNICIPAIS A COMPANHIA METROPOLITANA DE HABITACAO DE SAO PAULO - COHAB-SP, SITUADAS NO BRAS, E DA OUTRAS PROVIDENCIAS. (PL206/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13249-de-26-de-dezembro-de-2001",
+   "first_law": "lei-2001-13249",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13249-de-26-de-dezembro-de-2001",
+     "sha256": "61a74638d6d46cd7be5d926d66abc22b2b49f51b7d774d337e0ddbc63e18b917",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.249, 26 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 206/98, do Executivo)\nAutoriza a doação de áreas municipais à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP, situadas no Brás, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 05 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a doar à Companhia Metropolitana de Habitação de São Paulo - COHAB-SP, áreas de propriedade municipal situadas no Brás, destinadas a conjuntos habitacionais já implantados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As áreas mencionadas no artigo anterior, configuradas nas plantas anexas nº A-12.662/00 e A-12.663/00 do arquivo do Departamento Patrimonial, as quais, rubricadas pelo Prefeito, ficam fazendo parte integrante desta lei, assim se caracterizam:\nI - Planta nº A-12.662/00:\na) Área 1: avaliada em R$ 333.171,29 (trezentos e trinta e três mil, cento e setenta e um reais e vinte e nove centavos) e delimitada pelo perímetro 10-11-11'-11''-14-15-10, de formato irregular, com cerca de 811,00 m2 (oitocentos e onze metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Visconde de Parnaíba: pela frente, linha reta 15-10, medindo 19,00 metros, confrontando com a Rua Visconde de Parnaíba; pelo lado direito, linha quebrada 10-11-11', medindo 54,50 metros, confrontando em toda a sua extensão com a Quadra Fiscal 87 do Setor 27, assim parcelada: trecho 10-11, linha reta, medindo 3,00 metros, e trecho 11-11', linha reta, medindo 51,50 metros; pelo lado esquerdo, linha quebrada 11''-14-15, medindo 49,50 metros, confrontando em toda a sua extensão com a Quadra Fiscal 87 do Setor 27, assim parcelada: trecho 11''-14, linha reta, medindo 47,50 metros, e trecho 14-15, linha reta, medindo 2,00 metros; pelos fundos, linha reta 11'-11'', medindo 16,50 metros, confrontando com a Rua Ariry;\nb) Área 2: avaliada em R$ 156.184,26 (cento e cinqüenta e seis mil, cento e oitenta e quatro reais e vinte e seis centavos) e delimitada pelo perímetro 99-100-101-102-103-104-105-106-107-108-109-99, de formato irregular, com cerca de 475,00 m2 (quatrocentos e setenta e cinco metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Visconde de Parnaíba: pela frente, linha reta 109-99, medindo 3,00 metros, confrontando com a Rua Visconde de Parnaíba; pelo lado direito, linha quebrada 99-100-101-102-103, medindo 54,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 88 do Setor 27, assim parcelada: trecho 99-100, linha reta, medindo 18,00 metros; trecho 100-101, linha reta, medindo 3,50 metros; trecho 101-102, linha reta, medindo 3,00 metros, e trecho 102-103, linha reta, medindo 29,50 metros; pelo lado esquerdo, linha quebrada 106-107-108-109, medindo 57,50 metros, confrontando em toda a sua extensão com a Quadra Fiscal 88 do Setor 27, assim parcelada: trecho 106-107, linha reta, medindo 25,00 metros; trecho 107-108, linha reta, medindo 7,00 metros, e trecho 108-109, linha reta, medindo 25,50 metros; pelos fundos, linha quebrada 103-104-105-106, medindo 16,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 88 do Setor 27, assim parcelada: trecho 103-104, linha reta, medindo 12,50 metros; trecho 104-105, linha reta, medindo 1,00 metro, e trecho 105-106, linha reta, medindo 2,50 metros;\nc) Área 3: avaliada em R$ 833.695,89 (oitocentos e trinta e três mil, seiscentos e noventa e cinco reais e oitenta e nove centavos) delimitada pelo perímetro 114-115-116-117-118-119-120-121-121'-121''-114, de formato irregular, com cerca de 1.549,00 m2 (hum mil, quinhentos e quarenta e nove metros quadrados), e assim descrita, para quem de dentro da área olha para a Rua Marques de Oliveira: pela frente, linha reta 115-116, medindo 4,50 metros, confrontando com a Rua Marques de Oliveira; pelo lado direito, linha quebrada 116-117-118-119-120, medindo 144,50 metros, assim parcelada: trecho 116-117, linha reta, medindo 31,00 metros, confrontando com a Quadra Fiscal 88 do Setor 27; trecho 117-118, linha reta, medindo 90,50 metros, confrontando com a Quadra Fiscal 88 do Setor 27, trecho 118-119, linha reta, medindo 2,00 metros, confrontando com a Quadra Fiscal 88 do Setor 27, e trecho 119-120, linha reta, medindo 21,00 metros, confrontando com a Rua Bresser; pelo lado esquerdo, linha quebrada 121''-114-115, medindo 50,50 metros, confrontando em toda sua extensão com a Quadra Fiscal 88 do Setor 27, assim parcelada: trecho 121''-114, linha reta, medindo 18,50 metros, e trecho 114-115, linha reta, medindo 32,00 metros; pelos fundos, linha quebrada 120-121-121'-121'', medindo 120,00 metros, assim parcelada: trecho 120-121, linha reta, medindo 4,00 metros, confrontando com a Quadra Fiscal 88 do Setor 27; trecho 121-121', linha reta, medindo 60,00 metros, confrontando com a Quadra Fiscal 88 do Setor 27, e trecho 121'-121'', linha reta, medindo 56,00 metros, confrontando com a Rua Visconde de Parnaíba;\nII - Planta nº A-12.663/00:\na) Área 1: avaliada em R$ 948.521,81 (novecentos e quarenta e oito mil, quinhentos e vinte e um reais e oitenta e um centavos) e delimitada pelo perímetro 5-8-9-10-11-12-13-5, de formato irregular, com cerca de 2.037,00 m2 (dois mil e trinta e sete metros quadrados) e assim descrita para quem de dentro da área olha para a Rua Azevedo Júnior: pela frente, linha reta 11-12, medindo 19,00 metros, confrontando com a Rua Azevedo Júnior; pelo lado direito, linha mista 12-13-5, medindo 139,50 metros, confrontando em toda a sua extensão com a Quadra Fiscal 17 do Setor 3, assim parcelada: trecho 12-13, linha curva, medindo 2,50 metros, e trecho 13-5, linha reta, medindo 137,00 metros; pelo lado esquerdo, linha quebrada 8-9-10-11, medindo 142,50 metros, confrontando em toda a sua extensão com a Quadra Fiscal 18 do Setor 3, assim parcelada: trecho 8-9, linha reta, medindo 12,00 metros; trecho 9-10, linha reta, medindo 128,00 metros, e trecho 10-11, linha reta, medindo 2,50 metros; pelos fundos, linha reta 5-8, medindo 8,50 metros, confrontando com a Rua Wandenkolk;\nb) Área 2: avaliada em R$ 369.439,14 (trezentos e sessenta e nove mil, quatrocentos e trinta e nove reais e quatorze centavos) e delimitada pelo perímetro 65-69-70-71-72-73-65, de formato irregular, com cerca de 824,00 m2 (oitocentos e vinte e quatro metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Campos Sales: pela frente, linha reta 71-72, medindo 12,00 metros, confrontando com a Rua Campos Sales; pelo lado direito, linha quebrada 72-73-65, medindo 107,00 metros, confrontando em toda sua extensão com a Quadra Fiscal 13 do Setor 3, assim parcelada: trecho 72-73, linha reta, medindo 4,00 metros, e trecho 73-65, linha reta, medindo 103,00 metros; pelo lado esquerdo, linha quebrada 69-70-71, medindo 103,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 14 do Setor 3, assim parcelada: trecho 69-70, linha reta, medindo 101,00 metros, e trecho 70-71, linha reta, medindo 2,00 metros; pelos fundos, linha reta 65-69, medindo 8,50 metros, confrontando com a Rua Professor Batista de Andrade;\nc) Área 3: avaliada em R$ 130.376,56 (cento e trinta mil, trezentos e setenta e seis reais e cinqüenta e seis centavos) e delimitada pelo perímetro 84-85-86-87-88-89-90-91-84, de formato irregular, com cerca de 384,00 m2 (trezentos e oitenta e quatro metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Melo Barreto: pela frente, linha quebrada 90-91-84-85-86-87, medindo 49,50 metros, assim parcelada: trecho 90-91, linha reta, medindo 17,00 metros, confrontando com a Quadra Fiscal 14 do Setor 3; trecho 91-84, linha reta, medindo 9,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3; trecho 84-85, linha reta, medindo 5,00 metros, confrontando com a Rua Melo Barreto; trecho 85-86, linha reta, medindo 9,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3, e trecho 86-87, linha reta, medindo 8,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelo lado direito, linha reta 87-88, medindo 12,00 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelo lado esquerdo, linha reta 89-90, medindo 12,00 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelos fundos, linha reta 89-88, medindo 29,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3;\nd) Área 4: avaliada em R$ 353.232,28 (trezentos e cinqüenta e três mil, duzentos e trinta e dois reais e vinte e oito centavos) e delimitada pelo perímetro 2-24-25-26-27-28-29-30-31-14-2, de formato irregular, com cerca de 754,00 m2 (setecentos e cinqüenta e quatro metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Claudino Pinto: pela frente, linha reta 27-28, medindo 11,50 metros, confrontando com a Rua Claudino Pinto; pelo lado direito, linha quebrada 28-29-30-31-14, medindo 99,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 18 do Setor 3, assim parcelada: trecho 28-29, linha reta, medindo 3,00 metros; trecho 29-30, linha reta, medindo 10,00 metros; trecho 30-31, linha reta, medindo 1,50 metros, e trecho 31-14, linha reta, medindo 84,50 metros; pelo lado esquerdo, linha quebrada 2-24-25-26-27, medindo 100,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 17 do Setor 3, assim parcelada: trecho 2-24, linha reta, medindo 84,00 metros; trecho 24-25, linha reta, medindo 2,50 metros; trecho 25-26, linha reta, medindo 9,50 metros, e trecho 26-27, linha reta, medindo 4,00 metros; pelos fundos, linha reta 14-2, medindo 8,50 metros, confrontando com a Rua Wandenkolk;\ne) Área 5: avaliada em R$ 64.568,39 (sessenta e quatro mil, quinhentos e sessenta e oito reais e trinta e nove centavos) e delimitada pelo perímetro 32-33-34-35-36-37-32, de formato irregular, com cerca de 189,00 m2 (cento e oitenta e nove metros quadrados), e assim descrita para quem de dentro da área olha para a Rua Campos Sales: pela frente, linha reta 37-32, medindo 37,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelo lado direito, linha reta 32-33, medindo 10,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelo lado esquerdo, linha reta 36-37, medindo 5,50 metros, confrontando com a Quadra Fiscal 14 do Setor 3; pelos fundos, linha quebrada 33-34-35-36, medindo 42,00 metros, confrontando em toda a sua extensão com a Quadra Fiscal 14 do Setor 3, assim parcelada: trecho 33-34, linha reta, medindo 5,00 metros; trecho 34-35, linha reta, medindo 6,00 metros, e trecho 35-36, linha reta, medindo 31,00 metros.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - A donatária ficará obrigada a:\nI - Manter, nas áreas doandas, conjunto habitacional, em conformidade com as diretrizes da legislação pertinente;\nII - Arcar com todas as despesas oriundas da doação, inclusive as relativas à lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A extinção ou dissolução da entidade donatária, a alteração do destino das áreas, bem como a inobservância das condições estabelecidas por esta lei ou pelas cláusulas que constarem do instrumento de doação, implicarão a resolução de pleno direito da doação, revertendo ao domínio do Município e incorporando-se ao seu patrimônio todas as edificações, acessões e benfeitorias erigidas, ainda que necessárias, sem direito de retenção e independentemente de qualquer indenização, por parte da Municipalidade, seja a que título for.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Fica assegurado à Prefeitura o direito de fiscalizar o cumprimento das obrigações estatuídas por esta lei e pelo instrumento de doação, o qual deverá prever os encargos cometidos à donatária, os prazos a serem observados e a cláusula de reversão, em caso de inadimplemento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de dezembro de 2001, 448º da fundação de São Paulo.\nHélio Bicudo, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nLUIZ PAULO TEIXEIRA FERREIRA , Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 26 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13250",
+   "short": "Lei 13250/2001",
+   "title": "Lei nº 13.250, de 27/12/2001 (Altera a Lei 6.989, de 29 de dezembro de 1966, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13250-de-27-de-dezembro-de-2001",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2001-13250"
+   ],
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13250-de-27-de-dezembro-de-2001",
+     "sha256": "9daa69ba293031ff39fa610ade2340075e9a05b9f4e959734206ea15bc856a61",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.250, 27 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 606/01, do Executivo)\nAltera a Lei 6.989, de 29 de dezembro de 1966, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 2001, decretou e eu promulgo a presente lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - A Lei 6.989, de 29 de dezembro de 1966, passa a vigorar com as seguintes alterações:\n\"Art. 7º - O imposto calcula-se à razão de 1,0% sobre o valor venal do imóvel, para imóveis utilizados exclusiva ou predominantemente como residência.\"\n\"Art. 7º-A - Ao valor do imposto, apurado na forma do artigo 7º, adiciona-se o desconto ou o acréscimo, calculados sobre a porção do valor venal do imóvel compreendida em cada uma das faixas de valor venal da tabela a seguir, sendo o total do desconto ou do acréscimo determinado pela soma dos valores apurados na conformidade deste artigo.\"\nFaixas de valor venal Desconto/Acréscimo\naté R$ 50.000 -0,2%\nacima de R$ 50.000 até R$ 100.000 0,0%\nacima de R$ 100.000 até R$ 200.000 +0,2%\nacima de R$ 200.000 até R$ 400.000 +0,4%\nacima de R$ 400.000 +0,6%\n\"Art. 8º - O imposto calcula-se à razão de 1,5% sobre o valor venal do imóvel, para imóveis construídos com utilização diversa da referida no artigo 7º.\"\n\"Art. 8º-A - Ao valor do imposto, apurado na forma do artigo 8º, adiciona-se o desconto ou o acréscimo, calculados sobre a porção do valor venal do imóvel compreendida em cada uma das faixas de valor venal da tabela a seguir, sendo o total do desconto ou do acréscimo determinado pela soma dos valores apurados na conformidade deste artigo.\"\nFaixas de valor venal Desconto/Acréscimo\naté R$ 60.000 -0,3%\nacima de R$ 60.000 até R$ 120.000 -0,1%\nacima de R$ 120.000 até R$ 240.000 +0,1%\nacima de R$ 240.000 +0,3%\n\"Art. 19 - O pagamento do imposto poderá ser efetuado de uma só vez ou em até 10 (dez) prestações, iguais, mensais e sucessivas, na forma e prazo regulamentares, respeitado o limite mínimo, por prestação, de R$ 20,00 (vinte reais), ficando facultado ao contribuinte o pagamento simultâneo de diversas prestações.\n§ 1º - O recolhimento do imposto não importa em presunção, por parte da Prefeitura, para quaisquer fins, do direito de propriedade, do domínio útil ou da posse do imóvel.\n§ 2º - Do valor do imposto integral, ou do valor das prestações em que se decomponha, poderão ser desprezadas as frações de moeda.\n§ 3º - Será concedido desconto de 5% (cinco por cento) sobre o imposto que for pago de uma só vez, até o vencimento normal da primeira prestação.\"\n\"Art. 21 - Enquanto não vencida a última prestação, poderá ser efetuado o pagamento de quaisquer parcelas.\n§ 1º - Decorrido o prazo fixado para pagamento da última prestação, somente será admitido o pagamento integral do débito, que será considerado vencido à data da primeira prestação não paga.\n§ 2º - O débito vencido será encaminhado para cobrança, com inscrição na Dívida Ativa e, sendo o caso, ajuizamento, ainda que no mesmo exercício a que corresponda o lançamento.\"\n\"Art. 27 - O imposto calcula-se à razão de 1,5% sobre o valor venal do imóvel.\"\n\"Art. 28 - Ao valor do imposto, apurado na forma do artigo 27, adiciona-se o desconto ou o acréscimo, calculados sobre a porção do valor venal do imóvel compreendida em cada uma das faixas de valor venal da tabela a seguir, sendo o total do desconto ou do acréscimo determinado pela soma dos valores apurados na conformidade deste artigo.\"\nFaixas de valor venal Desconto/Acréscimo\naté R$ 60.000 -0,3%\nacima de R$ 60.000 até R$ 120.000 -0,1%\nacima de R$ 120.000 até R$ 240.000 +0,1%\nacima de R$ 240.000 +0,3%\n\"Art. 39 - O pagamento do imposto poderá ser efetuado de uma só vez ou em até 10 (dez) prestações, iguais, mensais e sucessivas, na forma e prazo regulamentares, respeitado o limite mínimo, por prestação, de R$ 20,00 (vinte reais), ficando facultado ao contribuinte o pagamento simultâneo de diversas prestações.\n§ 1º - O recolhimento do imposto não importa em presunção, por parte da Prefeitura, para quaisquer fins, do direito de propriedade, do domínio útil ou da posse do imóvel.\n§ 2º - Do valor do imposto integral, ou do valor das prestações em que se decomponha, poderão ser desprezadas as frações de moeda.\n§ 3º - Será concedido desconto de 5% (cinco por cento) sobre o imposto que for pago de uma só vez, até o vencimento normal da primeira prestação.\"\n\"Art. 41 - Enquanto não vencida a última prestação, poderá ser efetuado o pagamento de quaisquer parcelas.\n§ 1º - Decorrido o prazo fixado para pagamento da última prestação, somente será admitido o pagamento integral do débito, que será considerado vencido à data da primeira prestação não paga.\n§ 2º - O débito vencido será encaminhado para cobrança, com inscrição na Dívida Ativa e, sendo o caso, ajuizamento, ainda que no mesmo exercício a que corresponda o lançamento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Ficam atualizados, na forma do Anexo I, integrante desta lei, os valores unitários de metro quadrado da construção constantes da Tabela VI, que integra a Lei nº 10.235, de 16 de dezembro de 1986, e aprovados os valores unitários de metro quadrado de terreno, contidos na Listagem de Valores constantes do Anexo II, da presente lei, a serem considerados para o lançamento dos Impostos Predial e Territorial Urbano, relativo ao exercício de 2002, na forma prevista na legislação específica.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Ficam isentos dos Impostos Predial e Territorial Urbano, no exercício de 2002, os imóveis construídos, cujo valor venal correspondente, em 1º de janeiro de 2002, seja igual ou inferior a R$ 20.000,00 (vinte mil reais), exceto:\nI - as unidades autônomas de condomínio tributadas como garagem em edifícios de uso residencial, não residencial, misto ou em prédio de garagens;\nII - os estacionamentos comerciais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Ficam isentos do Imposto Predial, no exercício de 2002, os imóveis construídos, utilizados exclusiva ou predominantemente como residência, de padrões A, B ou C, dos tipos 1 ou 2 da Tabela V, anexa à Lei nº 10.235, de 16 de dezembro de 1986, e cujo valor venal correspondente, em 1º de janeiro de 2002, seja superior a R$ 20.000,00 (vinte mil reais) e igual ou inferior a R$ 50.000,00 (cinqüenta mil reais).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Para fins de lançamento do Imposto Predial fica concedido, para o exercício de 2002, desconto de R$ 20.000,00 (vinte mil reais) sobre o valor venal dos imóveis construídos, utilizados exclusiva ou predominantemente como residência, de padrões A, B ou C, dos tipos 1 ou 2 da Tabela V, anexa à Lei nº 10.235, de 16 de dezembro de 1986, e cujo valor venal correspondente, em 1º de janeiro de 2002, seja superior a R$ 50.000,00 (cinqüenta mil reais) e igual ou inferior a R$ 120.000,00 (cento e vinte mil reais).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Para o exercício de 2002, os percentuais de variação nominal do crédito decorrente do lançamento dos Impostos Predial e Territorial Urbano ficam limitados a:\nI - 60% (sessenta por cento), no Imposto Predial, para os imóveis com utilização exclusiva ou predominantemente residencial;\nII - 75% (setenta e cinco por cento), nos Impostos Predial e Territorial Urbano, para os demais casos.\nParágrafo único - Em qualquer hipótese, o percentual de variação será calculado em relação ao que seria lançado em 2002 se considerados a alíquota e os valores unitários de terreno e de construção utilizados no exercício de 2001 para a apuração da base de cálculo, remitindo-se os valores correspondentes à porção excedente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam isentos do Imposto Predial e Territorial Urbano os imóveis utilizados como templo de qualquer culto, desde que:\nI - comprovada a atividade religiosa no imóvel na data do fato gerador;\nII - apresentado contrato de locação ou instrumento de cessão, comodato ou equivalente.\n§ 1º A isenção aplica-se ao imóvel em sua totalidade, não se aplicando, no entanto, às áreas cedidas ou utilizadas por terceiros ou nas quais se desenvolvam atividades de natureza empresarial.\n§ 2º Para fazer jus à isenção de que trata o \"caput\" deste artigo, deverão ser apresentados pela interessada os seguintes elementos:\nI - cópia do estatuto social e dos documentos de identificação do seu representante legal;\nII - cópia do contrato de locação ou instrumento equivalente, conforme inciso II do \"caput\" deste artigo;\nIII - programação dos cultos, a ser renovada anualmente, na forma do regulamento;\nIV - declaração do responsável legal, sob as penas da lei, a respeito da existência de áreas alcançadas pelo § 1º deste artigo, com a respectiva metragem.\n§ 3º Especificamente para os casos nos quais a requerente da isenção não detenha condições de apresentar os elementos referidos no § 2º deste artigo, o Poder Executivo poderá, caso necessário, estabelecer outros requisitos para a concessão do benefício.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - A partir de 2002, ficam remitidos os créditos decorrentes do lançamento dos Impostos Predial e Territorial Urbano com valor total igual ou inferior a R$ 10,00 (dez reais), sendo emitida notificação sem valor a pagar.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2002.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nPublicado na Secretaria do Governo Municipal, em 27 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\nANEXO I DA LEI Nº 13.250, DE 27 DE DEZEMBRO DE 2001\nTipo-padrão......Valor (R$)\n1-A..................225,00\n1-B..................275,00\n1-C..................350,00\n1-D..................450,00\n1-E..................575,00\n2-A..................250,00\n2-B..................325,00\n2-C..................425,00\n2-D..................550,00\n2-E..................750,00\n3-A..................250,00\n3-B..................350,00\n3-C..................450,00\n3-D..................550,00\n4-A..................325,00\n4-B..................425,00\n4-C..................550,00\n4-D..................775,00\n5-A..................200,00\n5-B..................250,00\n5-C..................325,00\n5-D..................475,00\n5-E..................700,00\n6-A..................225,00\n6-B..................300,00\n6-C..................425,00\n6-D..................550,00\nOBSERVAÇÃO: O Anexo II, integrante da presente lei, está sendo publicado nesta data, em suplemento.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.250, de 27/12/2001 was altered by acts of 2 date(s), the latest 2019-05-23."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13251",
+   "short": "Lei 13251/2001",
+   "title": "Lei nº 13.251, de 27/12/2001 (REVOGA ISENCAO DO IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - ISS CONCEDIDA A COMPANHIA DE GAS DE SAO PAULO - COMGAS, E DA OUTRAS PROVIDENCIAS. (PL 311/00))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13251-de-27-de-dezembro-de-2001",
+   "first_law": "lei-2001-13251",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13251-de-27-de-dezembro-de-2001",
+     "sha256": "77c2a1798de2c0117945a794dd0286d04c721d7bca9d38fc8aa4cde95d032d75",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.251, 27 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 311/00, do Executivo)\nRevoga isenção do Imposto sobre Serviços de Qualquer Natureza - ISS concedida à Companhia de Gás de São Paulo - COMGÁS, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica revogada a isenção do Imposto sobre Serviços de Qualquer Natureza - ISS concedida à Companhia de Gás de São Paulo - COMGÁS.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2002, revogadas as disposições em contrário, em especial as da Lei nº 7.481, de 25 de junho de 1970.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13253",
+   "short": "Lei 13253/2001",
+   "title": "Lei nº 13.253, de 27/12/2001 (Fixa o valor da menor remuneração bruta mensal a ser paga aos servidores municipais que especifica, dispõe sobre concessão de abono, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13253-de-27-de-dezembro-de-2001",
+   "first_law": "lei-2001-13253",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13253-de-27-de-dezembro-de-2001",
+     "sha256": "074bb0690c10676d22b8b0204200ad93065fe1a7ff8a9e483029e7d89c3dce6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.253, 27 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 596/01, do Executivo)\nFixa o valor da menor remuneração bruta mensal a ser paga aos servidores municipais que especifica, dispõe sobre concessão de abono, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de dezembro de 2001, decretou e eu promulgo a presente lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Considerado exclusivamente o vínculo funcional-base mantido com a Prefeitura do Município de São Paulo, a menor remuneração bruta mensal a ser paga aos servidores municipais, submetidos à jornada de 40 (quarenta) horas semanais de trabalho, fica fixada, a partir de 1º de janeiro de 2002, na seguinte conformidade:\nI - no valor de R$ 400,00 (quatrocentos reais), para aqueles que percebem seus vencimentos por uma das referências relacionadas nas Tabelas \"A\" e \"B\" do Anexo I, integrante desta lei;\nII - no valor de R$ 500,00 (quinhentos reais), para aqueles que percebem seus vencimentos por uma das referências relacionadas nas Tabelas \"A\", \"B\" e \"C\" do Anexo II, integrante desta lei.\n§ 1º - Excluem-se dos valores fixados no \"caput' deste artigo as verbas remuneratórias pagas a título de:\nI - gratificação de difícil acesso;\nII - serviço noturno;\nIII - horas suplementares de trabalho e demais eventos de idêntica natureza;\nIV - adicional de insalubridade ou periculosidade;\nV - gratificação por tarefas especiais.\n§ 2º - Aos servidores cuja remuneração bruta mensal seja inferior aos pisos fixados no \"caput\" deste artigo será concedido abono, no valor correspondente à diferença entre a respectiva remuneração bruta e a importância de R$ 400,00 (quatrocentos reais) ou R$ 500,00 (quinhentos reais), de acordo com seus enquadramentos nos anexos ali referidos.\n§ 3º - Para os servidores submetidos a outras jornadas de trabalho, a menor remuneração será calculada proporcionalmente à jornada a que estiverem sujeitos.\n§ 4º - O disposto no § 3º não se aplica aos servidores que, independentemente de suas respectivas jornadas de trabalho, percebam seus vencimentos de acordo com a jornada de 40 (quarenta) horas semanais de trabalho.\n§ 5º - Aplica-se o reajustamento dos vencimentos do funcionalismo municipal, na forma da legislação específica, aos valores previstos neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O abono de que trata o artigo anterior não se incorporará à remuneração do servidor para quaisquer efeitos e será devido até que seus beneficiários venham a ser integrados em novos planos de cargos e carreiras.\nParágrafo único - Sobre o abono não incidirão:\nI - quaisquer vantagens de ordem pecuniária, exceto o décimo-terceiro salário;\nII - os descontos relativos às contribuições devidas ao Instituto de Previdência Municipal de São Paulo - IPREM e ao Hospital do Servidor Público Municipal - HSPM.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As disposições constantes desta lei aplicam-se:\nI - aos proventos dos inativos;\nII - aos vencimentos dos servidores regidos pelas Leis nºs 9.160, de 3 de dezembro de 1980, 9.168, de 4 de dezembro de 1980, e 10.793, de 21 de dezembro de 1989;\nIII - às pensões normais e vitalícias pagas pela Prefeitura;\nIV - às pensões devidas pelo Instituto de Previdência Municipal de São Paulo - IPREM aos beneficiários dos servidores de que trata esta lei, sendo o encargo financeiro suportado pela Prefeitura do Município de São Paulo que, diante da comprovação das despesas, fará repasses mensais ao referido órgão;\nV - no que couber, aos servidores, aposentados e pensionistas das autarquias do Município de São Paulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta lei entrará em vigor em 1º de janeiro de 2002, revogadas as disposições em contrário, em especial os artigos 4º e 5º da Lei nº 13.117, de 9 de abril de 2001.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILLA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Urbano\nHELENA KERR DO AMARAL, Secretária Municipal de Gestão Publica\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\nAnexo I a que se refere o inciso I do artigo 1º da Lei nº 13.253 de 27 de dezembro de 200l\nTabela A - Cargos e Funções de Nível Operacional e Básico\nREFERÊNCIAS\nNO-1 a NO-5\nNB-1 a NB-5\nQPS-1 a QPS-4\nQPE-1 a QPE-5\nQPA-1 a QPA-6\nQPD-1 a QPD-6\nQCE-1 a QCE-6\nTabela B - Cargos e Funções de Referências DA e DAI\nREFERÊNCIAS\nDA-1 a DA-4\nDAI-1 a DAI-4\nAnexo II a que se refere o inciso II do artigo 1º da Lei nº 13.253 de 27 de dezembro de 2001\nTabela A - Cargos e Funções de Nível Médio e Nível Médio Técnico\nREFERÊNCIAS\nNM-1 a NM-5\nEM-1 a EM-2\nEMS-1\nAAF-1\nGCM-1 a GCM-4\nQPS-5 a QPS-7\nQPE-7 a QPE-11\nQPA-7 a QPA-9\nQPP-1 a QPP-4\nQCE-4 a QCE-7\nQPF-1 a QPF-5\nTabela B - Cargos e Funções de Referências DA e DAI\nREFERÊNCIAS\nDA-5 a DA-8\nDAI-5 a DAÍ-7\nTabela C - Cargos e Funções do Quadro de Atividades Artísticas\nREFERÊNCIAS\nAA-1 a AA-3\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13254",
+   "short": "Lei 13254/2001",
+   "title": "Lei nº 13.254, de 27/12/2001",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13254-de-27-de-dezembro-de-2001",
+   "first_law": "lei-2001-13254",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13254-de-27-de-dezembro-de-2001",
+     "sha256": "a85c057231e12bc27e95fe88a64c5955dc108e2db37194236338034bd3e958a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.254, 27 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 597/01, do Executivo)\nModifica a composição do Conselho Deliberativo e Fiscal do Instituto de Previdência Municipal de São Paulo - IPREM, prevista no artigo 4º da Lei nº 9.157, de 1º de dezembro de 1980.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 23 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O \"caput\" do artigo 4º da Lei nº 9.157, de 1º de dezembro de 1980, passa a vigorar com a seguinte redação:\n\"Art. 4º - O Conselho Deliberativo e Fiscal será composto por oito servidores, sendo quatro de livre nomeação e exoneração pelo Prefeito e quatro eleitos pelos servidores públicos municipais na forma a ser estabelecida em decreto.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nHELENA KERR DO AMARAL, Secretária Municipal de Gestão Pública\nPublicada na Secretaria do Governo Municipal, em 27 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13257",
+   "short": "Lei 13257/2001",
+   "title": "Lei nº 13.257, de 28/12/2001 (Dispõe sobre o Plano Plurianual para o quadriênio 2002/2005, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13257-de-28-de-dezembro-de-2001",
+   "first_law": "lei-2001-13257",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13257-de-28-de-dezembro-de-2001",
+     "sha256": "e2176e425295fe884ecc30a92fd86d3c058b2e7ebbacf76289446bcabc90f679",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.257, 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 547/2001, do Executivo)\nDispõe sobre o Plano Plurianual para o quadriênio 2002/2005, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 27 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Esta lei institui o Plano Plurianual para o quadriênio 2002/2005, em cumprimento ao disposto nos artigos 69, inciso X, e 137, inciso I, da Lei Orgânica do Município de São Paulo, na forma dos seguintes anexos:\na) Anexo I - Diagnóstico sócio-econômico;\nb) Anexo II - Previsão das Receitas, hipóteses adotadas e metodologia de cálculos;\nc) Anexo III - Definição do volume de recursos para o Plano Plurianual 2002/2005;\nd) Anexo IV - Definição dos \"Objetivos\", \"Programas\", \"Ações\", \"Metas\" e \"Indicadores\";\ne) Anexo V - Consolidação Geral do Plano Plurianual 2002/2005.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Os valores constantes do Plano Plurianual 2002/2005 são os de junho de 2001.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Os programas, projetos, atividades e ações previstos para o exercício de 2002 foram incorporados ao Projeto de Lei do Orçamento Anual daquele exercício, com a codificação prevista na Portaria Interministerial nº 163, de 4 de maio de 2001, do Secretário do Tesouro Nacional do Ministério da Fazenda e do Secretário de Orçamento Federal do Ministério do Planejamento, Orçamento e Gestão, e na Portaria nº 180, de 21 de maio de 2001, do Secretário do Tesouro Nacional do Ministério da Fazenda.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A inclusão de novos programas, projetos, atividades e ações será proposta pelo Poder Executivo por meio de projeto de lei específica.\nParágrafo único - O projeto de lei conterá, no mínimo:\na) diagnóstico sobre a atual situação do problema que se deseja enfrentar ou sobre a demanda da sociedade que se queira atender com a inclusão;\nb) a indicação dos recursos que financiarão a inclusão proposta.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O Poder Executivo promoverá as medidas necessárias à efetiva execução, no período, do Plano Plurianual, que poderá ser revisado ou modificado, ao longo de sua vigência, mediante lei específica, em decorrência de alterações de prioridades ou do contexto social, econômico ou financeiro.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Esta lei entrará em vigor em 1º de janeiro de 2002, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHélio Bicudo, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\nPLANO PLURIANUAL 2002/2005\nANEXO III\nDEFINIÇÃO DO VOLUME DE RECURSOS\nEm milhões de reais de junho/01\n2002 2003 2004 2005\nRECEITA TOTAL 9.580,0 9.882,6 10.207,9 10.538,2\nDESPESA TOTAL 9.580,0 9.882,6 10.207,9 10.538,2\nVINCULAÇÕES 2.879,5 3.036,8 3.119,3 3.225,5\n- Educação 2.048,6 2.137,2 2.168,0 2.223,9\n- Saúde 830,9 899,6 951,3 1.001,6\nOUTRAS CORRENTES 3.499,1 3.410,3 3.493,0 3.599,4\nDÍVIDAS 1.497,3 1.572,8 1.623,7 1.698,9\n- Amortização 145,4 151,6 190,3 226,6\n- Juros 873,2 909,7 912,4 918,9\n- Outras Dívidas 116,7 116,7 116,7 116,7\n- Precatórios 230,0 294,8 324,3 356,7\n- DEA's 132,0 100,0 80,0 80,0\nPLANO PLURIANUAL (*) 1.704,1 1.862,7 1.971,9 2.014,4\n- Vinculadas 1.004,5 1.085,1 1.211,5 1.327,5\nEducação 421,0 486,7 589,1 673,9\n. Saúde 583,5 598,4 622,4 653,6\n- Financiadas 229,8 245,0 154,0 0,0\n- Contrapartida de financiamento 131,5 161,6 106,0 0,0\n- Com recursos próprios 338,3 371,0 500,4 686,9\n(*) Despesas de Capital, custeio delas decorrentes e novos programas de duração continuada.\nNo Anexo IV, realizar as seguintes alterações nos valores propostos para 2002:\nÁREA DE APLICAÇÃO PROGRAMA NOVO VALOR, EM MILHÕES DE REAIS\nENSINO 1 36,052\n2 72,508\n6 53,859\nSAÚDE 1 77,450\n2 220,802\n3 224,300\nINCLUSÃO SOCIAL 1 8,800\n3 3,200\n4 32,102\n6 22,002\n7 52,300\nTRANSFORMAÇÕES URBANAS 1 26,634\n2 20,090\n5 101,491\n8 40,021\n9 10,499\nNa área de Inclusão Social:\na) incluir a seguinte ação:\nAÇÃO ... : Bolsa Auxílio para Desportistas Olímpicos\nMETA: Apoiar o desenvolvimento das diversas modalidades esportivas\nINDICADOR: Cidadão atendido\nb) alterar o Programa 3, ação 2 para:\nAÇÃO 2: Melhoria, reforma e manutenção dos equipamentos dos Corpos de Bombeiros e da Guarda Civil Metropolitana\nNa área de Transformações Urbanas, Programa 1, a ação 5 terá a seguinte redação:\nAÇÃO 5: Construção e recuperação de próprios municipais\nOBS: Os anexos serão publicados na integra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13258",
+   "short": "Lei 13258/2001",
+   "title": "Lei nº 13.258, de 28/12/2001",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13258-de-28-de-dezembro-de-2001",
+   "first_law": "lei-2001-13258",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13258-de-28-de-dezembro-de-2001",
+     "sha256": "fddf1ff6af903ea4aae9402daff4521c45a982c44859ff974783b83b6047835a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.258, 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 545/01, do Executivo)\nEstima a receita e fixa a despesa das Administrações Direta e Indireta do Município de São Paulo, para o exercício de 2002.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O Orçamento da Administração Direta do Município de São Paulo, para o exercício de 2002, discriminado pelos anexos desta lei, estima a receita e fixa a despesa, a preços de junho de 2001, em R$ 9.580.000.000,00 (nove bilhões, quinhentos e oitenta milhões de reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A receita da Administração Direta será realizada, em reais, de acordo com a legislação específica em vigor, segundo as seguintes estimativas:\nReceitas Correntes 9.188.449.000\nReceita Tributária 4.453.071.000\nReceita Patrimonial 139.123.000\nReceita Industrial 1.037.000\nReceita de Serviços 32.338.000\nTransferências Correntes 3.573.349.000\nOutras Receitas Correntes 989.531.000\nReceitas de Capital 391.551.000\nOperações de Crédito 229.786.000\nTransferências de Capital 2.365.000\nAlienação de Bens 130.000.000\nOutras Receitas de Capital 29.400.000\nTOTAL DA RECEITA 9.580.000.000\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Fica o Executivo autorizado a contratar operações de crédito junto a organismos nacionais ou internacionais, até o valor de US$ 80.000.000,00 (oitenta milhões de dólares), para a continuidade do Programa Guarapiranga/Billings.\nParágrafo único - Em garantia das operações de crédito, fica autorizada a vinculação de cotas do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A despesa da Administração Direta, em reais, está fixada, com a seguinte distribuição entre os Órgãos:\nCâmara Municipal 203.296.000\nTribunal de Contas 75.100.000\nGabinete da Prefeita 123.690.900\nSecretaria de Implementação das Subprefeituras 446.417.300\nSecretaria Municipal de Planejamento Urbano 11.510.500\nSecretaria da Habitação e Desenvolvimento Urbano 248.161.000\nSecretaria Municipal da Gestão Pública 48.795.000\nSecretaria Municipal de Educação 1.769.889.900\nSecretaria de Finanças e Desenvolvimento Econômico 98.691.000\nSecretaria Municipal da Saúde/ Fundo Municipal de Saúde 1.365.180.500\nSecretaria Municipal de Esportes, Lazer e Recreação 82.209.500\nSecretaria Municipal de Transportes 633.038.400\nSecretaria dos Negócios Jurídicos 73.435.000\nSecretaria de Infra-Estrutura Urbana 324.910.000\nSecretaria de Serviços e Obras 496.865.900\nSecretaria Municipal da Assistência Social 182.153.000\nSecretaria Municipal de Cultura 118.900.000\nSecretaria Municipal de Abastecimento 201.388.000\nSecretaria Municipal do Meio Ambiente 65.241.800\nEncargos Gerais do Município 2.779.558.300\nSecretaria Municipal de Comunicação e Informação Social 42.260.000\nSecretaria do Desenvolvimento, Trabalho e Solidariedade 186.227.000\nSecretaria Municipal de Relações Internacionais 1.821.000\nOuvidoria Geral do Município de São Paulo 1.260.000\nTOTAL DA DESPESA 9.580.000.000\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - A despesa da Administração Direta, em reais, está fixada, com a seguinte distribuição por funções:\nLegislativa 278.396.000\n02 Judiciária 72.562.000\n04 Administração 350.739.601\n05 Defesa Nacional 3.349.575\n06 Segurança Pública 81.441.230\n07 Relações Exteriores 1.821.000\n08 Assistência Social 185.954.000\n09 Previdência Social 1.185.001.000\n10 Saúde 1.553.433.791\n11 Trabalho 35.947.579\n12 Educação 1.948.180.900\n13 Cultura 138.902.000\n14 Direitos da Cidadania 1.260.000\n15 Urbanismo 1.112.693.985\n16 Habitação 191.331.062\n17 Saneamento 130.962.448\n18 Gestão Ambiental 73.423.255\n20 Agricultura 22.479.914\n22 Indústria 610.000\n23 Comércio e Serviços 17.000.000\n24 Comunicações 42.310.000\n25 Energia 71.000.000\n26 Transportes 617.442.760\n27 Desporto e Lazer 80.139.500\n28 Encargos Especiais 1.383.447.140\n99 Reserva de Contingência 171.260\nTOTAL DA DESPESA 9.580.000.000\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O Orçamento das Autarquias do Município de São Paulo, para o exercício de 2002, estima a receita e fixa a despesa, a preços de junho de 2001, em R$ 488.204.700,00 (quatrocentos e oitenta e oito milhões, duzentos e quatro mil, e setecentos reais).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - A receita das Autarquias, em reais, será realizada de acordo com a legislação específica em vigor, segundo as seguintes estimativas:\nReceitas Próprias das Autarquias 433.058.557\nReceitas Correntes 429.722.557\nReceitas de Capital 3.336.000\nTransferências da Administração Direta 50.346.143\nTransferências Correntes 50.346.143\nTransferências da União 4.800.000\nTransferências Correntes 4.800.000\nTOTAL DA RECEITA 488.204.700\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - A despesa das Autarquias, em reais, está fixada com a seguinte distribuição entre os Órgãos:\nHospital do Servidor Público Municipal 114.270.200\nInstituto de Previdência Municipal de São Paulo 300.934.500\nServiço Funerário do Município de São Paulo 73.000.000\nTOTAL DA DESPESA 488.204.700\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - A despesa das Autarquias, em reais, está fixada com a seguinte distribuição por funções:\n06 Segurança Pública 678.000\n09 Previdência Social 274.725.900\n10 Saúde 113.563.200\n15 Urbanismo 42.811.000\n22 Indústria 1.000\n23 Comércio e Serviços 14.474.000\n26 Transporte 7.483.000\n99 Reserva de Contingência 34.468.600\nTOTAL DA DESPESA 488.204.700\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Fica o Executivo autorizado a adequar o orçamento de cada uma das Autarquias Hospitalares de Regime Especial que eventualmente vierem a ser criadas, respeitando as dotações orçamentárias consignadas sob a denominação \"Contribuição a Autarquias Hospitalares de Regime Especial\".\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A despesa de investimentos das empresas está fixada em R$ 220.855.561,00 (duzentos e vinte milhões, oitocentos e cinqüenta e cinco mil e quinhentos e sessenta e um reais), a serem aplicados em consonância com o orçamento de investimentos que integra esta lei, apresentando a seguinte distribuição por empresa:\nANHEMBI Turismo e Eventos da Cidade de São Paulo S/A 3.000.000\nCia. de Engenharia do Tráfego - CET 1.000\nCia. de Processamento de Dados do Município de São Paulo - PRODAM 5.000.000\nCia. Metropolitana de Habitação de São Paulo-COHAB 96.496.370\nSão Paulo Transportes S/A 112.698.191\nEmpresa Municipal de Urbanização - EMURB 3.660.000\nTotal da Despesa de Investimento das Empresas 220.855.561\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O Orçamento dos Fundos Municipais, para o exercício de 2002, estima a receita e fixa a despesa, a preços de junho de 2001, em R$ 1.547.365.496,00 (um bilhão, quinhentos e quarenta e sete milhões, trezentos e sessenta e cinco mil e quatrocentos e noventa e seis reais).\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A receita dos Fundos Municipais, em reais, será realizada de acordo com a legislação específica em vigor, segundo as seguintes estimativas:\nReceitas Próprias dos Fundos Municipais 85.476.996\nReceitas Correntes 34.216.754\nReceitas de Capital 51.260.242\nTransferências da Administração Direta 1.180.511.977\nTransferências Correntes 1.140.592.477\nTransferências de Capital 39.919.500\nTransferências do Estado e da União 281.376.523\nTransferências Correntes 281.376.523\nTOTAL DA RECEITA 1.547.365.496\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A despesa dos Fundos Municipais, em reais, está fixada com a seguinte distribuição entre os Órgãos:\nFUMDES - Fundo Municipal de Saúde 1.365.180.500\nFEPAC - Fundo Especial de Promoção de Atividades Culturais 1.400.000\nFUTUR - Fundo Municipal de Turismo 300.000\nFUMCAD - Fundo Municipal dos Direitos da Criança e do Adolescente 20.000.000\nFUNCOR - Fundo Municipal do Sistema dos Corredores Segregados Exclusivos para o Tráfego de Ônibus 33.305.000\nFMH - Fundo Municipal de Habitação - COHAB 100.363.242\nFEMA - Fundo Especial do Meio Ambiente e Desenvolvimento Sustentável 6.815.754\nFMAS - Fundo Municipal de Assistência social 20.000.000\nFUNCAP - Fundo de Proteção do Patrimônio Cultural e Ambiental Paulistano 1.000\nTOTAL DA DESPESA 1.547.365.496\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - As receitas e despesas discriminadas nesta lei e em seus anexos são estimadas a preços de junho de 2001.\n§ 1º - Face do disposto no \"caput\", fica o Executivo autorizado a atualizar as dotações orçamentárias da Administração Direta e das Autarquias, para mais ou para menos, sempre que a inflação medida pelo Índice de Preços ao Consumidor da FIPE assim o justificar, tendo como limite o comportamento da receita e respeitadas as condições estabelecidas nos seguintes incisos:\nI - no mês em que ocorrer a primeira atualização, em percentual que represente a variação de julho de 2001 ao mês imediatamente anterior ao da atualização, medida pelo IPC-FIPE, incidente sobre o \"saldo não pago\" de cada dotação orçamentária constante do Sistema de Execução Orçamentária - SEO, apurado no último dia útil do mês precedente ao da atualização;\nII - em meses subseqüentes, em percentual que represente a variação do período a atualizar, medida pelo IPC-FIPE, incidente sobre o \"saldo não pago\" de cada dotação orçamentária constante do Sistema de Execução Orçamentária - SEO, apurado no último dia útil do mês precedente ao da atualização.\n§ 2º - As atualizações orçamentárias de que trata este artigo serão feitas por decreto, fundamentando devidamente as reprojeções, tanto da inflação como das receitas, e terão como limite a reprojeção da Receita Total, composta de:\nI - reprojeção da Receita Própria a ser feita com base na receita efetivamente realizada e na sua tendência de evolução real até o final do exercício;\nII - reprojeção da Receita de Operações de Crédito, a ser feita com base no potencial de liberação de recursos pelas fontes financiadoras.\n§ 3º - As Autarquias, individualmente consideradas, poderão atualizar suas dotações orçamentárias nos termos do \"caput\" e parágrafos deste artigo.\n§ 4º - O Executivo poderá, por decreto, delegar competência às Autarquias para, por ato próprio, proceder à atualização orçamentária de suas dotações.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Fica o Executivo autorizado, nos termos do artigo 7º da Lei Federal nº 4.320, de 17 de março de 1964, a abrir créditos adicionais suplementares, até o limite de 12% (doze por cento) do total da despesa fixada por esta lei para a Administração Direta e Autárquica e atualizada conforme previsto no artigo 14, criando, se necessário, elementos de despesa dentro de cada projeto ou atividade.\n§ 1º - Excluem-se desse limite os créditos adicionais suplementares:\nI - que não alterem o valor total da dotação atribuída a cada projeto ou atividade;\nII - abertos com recursos da Reserva de Contingência, em conformidade com o disposto no Decreto-Lei Federal nº 1.763, de 16 de janeiro de 1980;\nIII - destinados a suprir insuficiências nas dotações referentes ao serviço da dívida pública;\nIV - destinados a suprir insuficiências nas dotações referentes a precatórios judiciais;\nV - destinados a suprir insuficiências nas dotações do DEMAT/SGP, sempre que sejam oferecidos recursos da mesma natureza pelas outras Secretarias;\nVI - destinados a suprir insuficiências na dotação do \"Fundo Municipal de Habitação - COHAB\" decorrentes do efetivo recebimento dos recursos desse fundo, das aplicações financeiras efetuadas no ano, bem como do saldo de caixa da passagem do ano;\nVII - destinados a suprir insuficiências na dotação da SMS/FUMDES, decorrentes do efetivo recebimento de recursos do Governo Federal, das aplicações financeiras efetuadas no ano, bem como do saldo de caixa da passagem do ano;\nVIII - destinados a suprir insuficiências na dotação do FUTUR, decorrentes do efetivo recebimento dos itens de receita externos à PMSP, previstos no artigo 8º da lei da criação do Fundo e das aplicações financeiras efetuadas no ano;\nIX - destinados a suprir insuficiências na dotação do FUMCAD, decorrentes do efetivo recebimento dos recursos desse fundo, das aplicações financeiras efetuadas no ano, bem como do saldo de caixa da passagem do ano;\nX - destinados a suprir insuficiências na dotação do FEPAC, decorrentes do efetivo recebimento dos recursos desse fundo, das aplicações financeiras efetuadas no ano, bem como do saldo de caixa da passagem do ano;\nXI - destinados a suprir insuficiências na dotação do FUNCOR, decorrentes do efetivo recebimento dos recursos desse fundo, das aplicações financeiras efetuadas no ano;\nXII - destinados a suprir insuficiências na dotação do FEMA, decorrentes do efetivo recebimento dos recursos desse fundo e das aplicações financeiras efetuadas no ano;\nXIII - destinados a suprir insuficiências na dotação do FMAS, decorrentes do efetivo recebimento dos recursos desse fundo e das aplicações financeiras efetuadas no ano;\nXIV - destinados a suprir insuficiências na dotação do FUNCAP, decorrentes do efetivo recebimento dos recursos desse fundo, das aplicações financeiras efetuadas no ano, bem como do saldo de caixa da passagem do ano;\nXV - destinados a suprir insuficiências nas dotações de pessoal, ficando, também, autorizada a redistribuição das dotações de pessoal, nos termos do artigo 66, parágrafo único, da Lei nº 4.320, de 17 de março de 1964;\nXVI - destinados à realocação dos recursos entre as dotações relativas à construção de creches e de unidades de educação e saúde, criando, se necessário, novas dotações orçamentárias, desde que para o mesmo programa;\nXVII - destinados a suprir insuficiências em dotações de projetos e atividades, decorrentes do efetivo recebimento de recursos a eles legalmente vinculados, conforme estabelece o artigo 8º, parágrafo único, da Lei Complementar nº 101, de 4 de maio de 2000.\n§ 2º - O Executivo poderá, por decreto, delegar competência às Autarquias para abrir créditos adicionais suplementares, por ato próprio, observados os limites desta lei.\n§ 3º - Os decretos de abertura de créditos adicionais suplementares, autorizados nesta lei, serão acompanhados de justificativa em relação às dotações orçamentárias a serem anuladas ou a eventuais recursos do excesso de arrecadação previsto para o exercício.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Sem prejuízo do disposto no artigo 15 desta lei, fica o Executivo autorizado, nos termos do artigo 7º da Lei Federal nº 4.320, de 17 de março de 1964, a abrir créditos adicionais suplementares às dotações de \"Despesas de Capital\", até o limite de 15% (quinze por cento) do total da \"Despesa de Capital\" fixado nesta lei, conforme a classificação da despesa por categoria econômica, e atualizada nos termos do artigo 14 desta lei.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Excluem-se também dos limites fixados nos artigos 15 e 16 desta lei, os créditos adicionais suplementares destinados à transposição de recursos entre as dotações dentro de cada uma das Secretarias Municipais de Educação, da Saúde/Fundo Municipal da Saúde, de Assistência Social e da Habitação e Desenvolvimento Urbano, bem como os créditos adicionais suplementares às dotações orçamentárias dessas Secretarias, abertos com recursos do excesso de arrecadação previsto para o exercício.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - As dotações orçamentárias das Secretarias Municipais de Educação, da Saúde/Fundo Municipal da Saúde, de Assistência Social e da Habitação e Desenvolvimento Urbano não poderão ser anuladas para fins de abertura de créditos adicionais suplementares às dotações de outras Secretarias, com exceção dos eventualmente abertos no último mês do exercício para suprir insuficiências nas dotações de pessoal.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - A Câmara Municipal de São Paulo terá 180 (cento e oitenta) dias, a contar da publicação desta lei, para readequação do seu orçamento, em decorrência de reforma administrativa.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - No cômputo do percentual das receitas destinado à educação para cumprimento dos artigos 200, 203 e 208 da Lei Orgânica do Município de São Paulo, poderão ser consideradas as despesas definidas na Lei nº 13.245, de 26 de dezembro de 2001.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Serão consideradas não autorizadas, irregulares e lesivas ao patrimônio público a geração de despesa ou assunção de obrigação que não atendam o disposto nos artigos 16 e 17 da Lei Complementar nº 101/00, de 4 de maio de 2000.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - Nos trinta dias após cada bimestre, os titulares dos Poderes Executivo e Legislativo deverão contingenciar dotações orçamentárias e, se necessário, cancelar empenhos e cotas de liquidação de despesa, caso a realização das receitas não comporte o cumprimento das metas de resultado primário ou nominal fixadas no Anexo de Metas Fiscais da Lei nº 13.616, de 02 de julho de 2001.\n§ 1º - As mesmas providências poderão ser aplicadas nos casos em que limites legais de endividamento e de comprometimento da receita corrente líquida forem ultrapassados.\n§ 2º - O disposto não se aplica às despesas referentes a obrigações constitucionais e legais.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Esta lei entrará em vigor em 1º de janeiro de 2002, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHélio Bicudo, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\nOBS: Os anexos serão publicados na integra posteriormente.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13259",
+   "short": "Lei 13259/2001",
+   "title": "Lei nº 13.259, de 28/11/2001",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13259-de-28-de-novembro-de-2001",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2001-13259"
+   ],
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13259-de-28-de-novembro-de-2001",
+     "sha256": "5880e25c12be91e08d6eb3fa0f6a9bd4c51372987ff5c436a6cbe71d370a7cb6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.259, DE 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 605/2001, do Executivo)\nDisciplina a dação em pagamento de bens imóveis como forma de extinção da obrigação tributária no Município de São Paulo, prevista no inciso XI do artigo 156 do Código Tributário Nacional, acrescido pela Lei Complementar Federal nº 104, de 10 de janeiro de 2001.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 28 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Os créditos tributários inscritos na dívida ativa do Município de São Paulo poderão ser extintos pelo devedor, pessoa física ou jurídica, parcial ou integralmente, mediante dação em pagamento de bem imóvel, situado neste Município, a qual só se aperfeiçoará após a aceitação expressa da Fazenda Municipal, observados o interesse público, a conveniência administrativa e os critérios dispostos nesta lei.\nParágrafo único - Quando o crédito for objeto de execução fiscal, a proposta de dação em pagamento poderá ser formalizada em qualquer fase processual, desde que antes da designação de praça dos bens penhorados, ressalvado o interesse da Administração de apreciar o requerimento após essa fase.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Para os efeitos desta lei, só serão admitidos imóveis comprovadamente livres e desembaraçados de quaisquer ônus ou dívidas, exceto aquelas apontadas junto ao Município de São Paulo, e cujo valor, apurado em regular avaliação, seja compatível com o montante do crédito fiscal que se pretenda extingüir.\nParágrafo único. De acordo com o art. 304 do Código Civil, a dação em pagamento poderá ser formalizada através de imóvel de terceiro, em benefício do devedor, desde que este intervenha como anuente na operação, tanto no requerimento previsto no art. 4º desta Lei, quanto na respectiva escritura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O procedimento destinado à formalização da dação em pagamento compreenderá as seguintes etapas, sucessivamente:\nI - análise do interesse e da viabilidade da aceitação do imóvel pelo Município;\nII - avaliação administrativa do imóvel;\nIII - lavratura da escritura de dação em pagamento, que acarretará a extinção das ações, execuções e embargos relacionados ao crédito tributário que se pretenda extingüir.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O devedor ou terceiro interessado em extinguir crédito tributário municipal, mediante dação em pagamento, deverá formalizar requerimento junto ao Secretário Municipal da Fazenda, contendo, necessariamente, a indicação pormenorizada do crédito tributário objeto do pedido, bem como a localização, dimensões e confrontações do imóvel oferecido, juntamente com cópia autêntica do título de propriedade.\n§ 1º - O requerimento será também instruído, obrigatoriamente, com as seguintes certidões atualizadas em nome do proprietário:\nI - certidão vintenária de inteiro teor, contendo todos os ônus e alienações referentes ao imóvel, expedida pelo Cartório de Registro de Imóveis competente;\nII - certidão do Cartório Distribuidor de Protesto de Letras e Títulos da Capital de São Paulo e dos municípios onde o devedor e o terceiro interessado, quando for o caso, tenham tido sede ou domicílio nos últimos 5 (cinco) anos;\nIII - certidões do Cartório Distribuidor Cível da Comarca da Capital e dos municípios onde devedor e o terceiro interessado, quando for o caso, tenham tido sede ou domicílio nos últimos 5 (cinco) anos, inclusive relativas a execuções fiscais;\nIV - certidões da Justiça Federal, inclusive relativas a execuções fiscais, e da Justiça do Trabalho;\nV - certidões de \"objeto e pé\" das ações eventualmente apontadas, inclusive embargos à execução.\n§ 2º - No caso do devedor ou terceiro interessado tratar-se de pessoa jurídica, poderão também, a critério da comissão mencionada no artigo 6º desta lei, ser exigidas as certidões previstas nos incisos II, III, IV e V deste artigo dos municípios onde a empresa tenha exercido atividades, nos últimos 5 (cinco) anos.\n§ 3º - Se o crédito tributário que se pretenda extingüir for objeto de discussão em processo judicial ou administrativo promovido pelo devedor, este deverá apresentar declaração de ciência de que o deferimento de seu pedido de dação em pagamento importará, a final, no reconhecimento da dívida e na extinção do respectivo processo, hipótese em que o devedor renunciará, de modo irretratável, ao direito de discutir a origem, o valor ou a validade do crédito tributário reconhecido.\n§ 4º - Se o crédito for objeto de execução fiscal movida pela Fazenda Pública Municipal o deferimento do pedido de dação em pagamento igualmente importará no reconhecimento da dívida exeqüenda e na renúncia ao direito de discutir sua origem, valor ou validade.\n§ 5º - Os débitos judiciais relativos a custas e despesas processuais, honorários periciais e advocatícios deverão ser apurados e recolhidos pelo devedor, no Departamento Fiscal da Procuradoria Geral do Município, ou nos autos dos processos judiciais a que se refiram.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Uma vez protocolado o requerimento mencionado no artigo 4º desta lei, deverão ser tomadas as seguintes providências:\nI - o Departamento Fiscal da Procuradoria Geral do Município deverá requerer, em juízo, a suspensão dos feitos que envolvam o crédito indicado pelo devedor, pelo prazo de 60 (sessenta) dias, prorrogáveis se houver fundada necessidade, desde que esse ato não acarrete prejuízos processuais ao Município;\nII - os órgãos competentes informarão sobre a existência de débitos tributários relacionados ao imóvel oferecido pelo devedor, inclusive os referentes a contribuições de melhoria, Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU e Imposto de Transmissão de Bens Imóveis - ITBI incidente sobre a aquisição do bem.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O interesse do Município na aceitação do imóvel oferecido pelo devedor será avaliado por uma comissão constituída, obrigatoriamente, por servidores ocupantes de cargos efetivos, lotados nas Secretarias Municipais da Fazenda, de Licenciamento e Urbanismo, de Habitação, de Gestão e de Governo Municipal.\n§ 1º - Na apreciação da conveniência e da oportunidade da dação em pagamento serão considerados, dentre outros, os seguintes fatores:\nI - utilidade do bem imóvel para os órgãos da Administração Direta;\nII - interesse na utilização do bem por parte de outros órgãos públicos da Administração Indireta;\nIII - viabilidade econômica da aceitação do imóvel, em face dos custos estimados para sua adaptação ao uso público;\nIV - compatibilidade entre o valor do imóvel e o montante do crédito tributário que se pretenda extingüir.\n§ 2º A comissão deverá emitir seu parecer no prazo de 10 (dez) dias, seguindo-se despacho do Secretário Municipal da Fazenda, declarando, em tese, a existência ou não de interesse do Município em receber o imóvel e a sua destinação prioritária.\n§ 3º - Se for assegurada, prioritariamente, a utilização do imóvel para fins habitacionais, este será destinado ao Fundo Municipal de Habitação ou será alienado para promotores de habitação de interesse social da Administração Pública Direta ou Indireta ou cooperativos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Exclusivamente nos casos em que houver interesse do Município em receber o imóvel oferecido pelo devedor, será procedida a sua avaliação administrativa, para determinação do preço do bem a ser dado em pagamento, nos termos do art. 357 do Código Civil.\n§ 1º A avaliação administrativa do imóvel ficará a cargo de uma equipe avaliadora, composta por servidores efetivos, lotados preferencialmente nos órgãos municipais responsáveis pela administração fazendária e pela gestão do patrimônio imobiliário municipal, conforme regulamento.\n§ 2º - O Poder Executivo estabelecerá os procedimentos relativos à avaliação dos bens, inclusive no que concerne ao processamento dos pedidos de revisão das avaliações, bem como disciplinará as funções da equipe avaliadora, prevista no parágrafo anterior.\n§ 3º - O Poder Executivo encaminhara à Câmara Municipal, anualmente, relatório das transações efetuadas no período.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Uma vez concluída a avaliação mencionada no artigo anterior, o devedor será intimado para manifestar sua concordância com o valor apurado, no prazo de cinco dias.\n§ 1º - Se não concordar com o valor apontado, o devedor poderá formular, em igual prazo, pedido de revisão da avaliação, devidamente fundamentado, ouvindo-se novamente o órgão avaliador no prazo de quinze dias.\n§ 2º - Em nenhuma hipótese, o imóvel poderá ser aceito por valor superior ao da avaliação efetuada pela Administração Municipal.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Se o devedor concordar com o valor apurado na avaliação do imóvel, o Secretário Municipal da Fazenda decidirá, em 5 (cinco) dias, o requerimento de dação em pagamento para extinção do crédito tributário.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Deferido o requerimento, deverá ser lavrada, em 15 (quinze) dias, a escritura de dação em pagamento, com a anuência e participação da Procuradoria Geral do Município - PGM, arcando o devedor com as despesas e tributos incidentes na operação.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Após formalizado o registro da escritura de dação em pagamento, será providenciada, concomitantemente, a extinção da obrigação tributária e a respectiva baixa na dívida ativa, nos limites do valor do imóvel dado em pagamento pelo devedor.\n§ 1º A Procuradoria Geral do Município - PGM adotará as providências necessárias, no âmbito das suas atribuições.\n§ 2º - Se houver débito remanescente, deverá ser cobrado nos próprios autos da execução fiscal, caso ajuizada; se não houver ação ou execução em curso, esta deverá ser proposta pelo valor do saldo apurado.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Na hipótese de o valor do imóvel ser superior ao do débito tributário, o Poder Público, a pedido do interessado, poderá emitir um certificado cujo valor de face será representativo de crédito em favor do devedor, para quitação de tributos devidos ao Município de São Paulo, até o limite de 40% (quarenta por cento) do montante apurado na avaliação, nos termos do regulamento a ser expedido pelo Poder Executivo.\n§ 1º - Se o devedor não solicitar a emissão desse certificado, não haverá, em nenhuma hipótese, saldo credor ou valor a ser-lhe restituído, devendo renunciar a qualquer importância que porventura exceda ao valor da dívida atualizado.\n§ 2º - O regulamento de que trata o \"caput\" deste artigo conterá dispositivos que visam estabelecer:\nI - o prazo máximo para o devedor solicitar a emissão do certificado;\nII - o prazo máximo para o devedor fazer uso do valor constante do certificado;\nIII - a unidade responsável pela emissão, controle e baixa do valor constante do certificado;\nIV - a forma como será efetuada a quitação dos tributos;\nV - o procedimento formal e o prazo a serem obedecidos pelo devedor para renunciar ao valor excedente, quando houver.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O devedor responderá pela evicção, nos termos do art. 359 do Código Civil.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O Executivo regulamentará esta lei no prazo de 180 (cento e oitenta) dias, contados de sua publicação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHélio Bicudo Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.259, de 28/11/2001 was altered by acts of 2 date(s), the latest 2023-03-07."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13260",
+   "short": "Lei 13260/2001",
+   "title": "Lei nº 13.260, de 28/12/2001",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13260-de-28-de-dezembro-de-2001",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2001-13260"
+   ],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13260-de-28-de-dezembro-de-2001",
+     "sha256": "17cbd9cdcef64929a9609174dec1cb776e45b7a86208baa5a9ac926e181ff96b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.260, 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 656/01, do Executivo)\nEstabelece diretrizes urbanísticas para a área de influência da atual Avenida Água Espraiada, de interligação entre a Avenida Nações Unidas (Marginal do Rio Pinheiros) e a Rodovia dos Imigrantes, cria incentivos por meio de instrumentos de política urbana para sua implantação, institui o Grupo de Gestão, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DO CONCEITO E DO PROGRAMA DE INTERVENÇÕES\n## SEÇÃO I\n## DO CONCEITO\nArt. 1º - Fica aprovada a Operação Urbana Consorciada Água Espraiada, que compreende um conjunto de intervenções coordenadas pela Prefeitura, através da Empresa Municipal de Urbanização - EMURB, com a participação dos proprietários, moradores, usuários e investidores, visando a melhoria e transformações urbanísticas, sociais e ambientais na área de influência da atual Avenida Água Espraiada.\n§ 1º - Todo aquele que quiser se utilizar da presente lei, além do pagamento da contrapartida, deverá observar rigorosamente as diretrizes estabelecidas nos artigos 5º, incisos I a VII, 6º e 17, bem como as demais disposições e restrições urbanísticas contidas nesta lei.\n§ 2º Fica delimitada a área objeto da Operação Urbana Água Espraiada pelo perímetro assinalado na Planta nº BE-04-7B-001, que integra o arquivo da Empresa Municipal de Urbanização - EMURB, que começa na Avenida Nova Independência, esquina com a Avenida dos Bandeirantes, segue até a confluência com a Rua Soberana, deflete à esquerda, segue até a confluência com a Rua Porto Martins, deflete à direita, segue até a confluência com a Rua Kansas, deflete à direita, segue até a confluência com a Avenida Nova Independência, deflete à esquerda, segue até a confluência com a Rua Flórida, deflete à esquerda, segue até a confluência com a Rua Arandu, deflete à direita, segue até a confluência com a Rua Arizona, deflete à esquerda, segue até a confluência com a Rua Ribeiro do Vale, deflete à esquerda, segue até a confluência com a Rua Michigan, deflete à direita, segue até a confluência com a Rua Califórnia, deflete à esquerda, segue até a confluência com a Rua Flórida, deflete à direita, segue até a confluência com a Rua Nova Iorque, deflete à direita, segue até a confluência com a Rua Michigan, deflete à esquerda, segue até a confluência com a Avenida Portugal, deflete à esquerda, segue até a confluência com a Rua Flórida, deflete à direita, segue até a confluência com a Avenida Santo Amaro, deflete à esquerda, segue até a confluência com a Rua Álvaro Luís Roberto de Assumpção, deflete à direita, segue até a confluência com a Avenida Vereador José Diniz, deflete à direita, segue até a confluência com a Rua Edson, deflete à esquerda, segue até a confluência com a Rua João Alvares Soares, deflete à esquerda, segue até a confluência com a Rua João de Souza Dias, deflete à direita, segue até sua mudança de nome para Rua Ibituruna, segue até a confluência com a Estevão Baião, deflete à direita, segue até a confluência com a Rua Nhu-Guaçú, deflete à esquerda, segue até a confluência com a Avenida Washington Luís, deflete à direita, segue até a confluência com a Rua Tapes, deflete à esquerda, segue até a confluência com a Rua Padre Leonardo, deflete à direita, segue até a confluência com a Rua Vapabussu, deflete à esquerda, segue até a confluência com a Rua Galileu, deflete à direita, segue até a confluência com a Rua Moreira Cardoso, deflete à esquerda, segue até a confluência com a Rua Prof.ª Heloísa Carneiro, deflete à direita, segue até a confluência com a Rua Viaza, deflete à esquerda, segue até a confluência com a Avenida Dr. Lino de Moraes Leme, deflete à direita, segue até a confluência com a Rua Myron Clark, deflete à esquerda, segue até a confluência com a Rua João de Lery, deflete à direita, segue até a confluência com a Rua Benjamim Hunnicutt, deflete à esquerda, segue até a confluência com a Rua Nicolau Zarvos, deflete à direita, segue até a confluência com a Avenida Pedro Bueno, deflete à esquerda, segue até a confluência com a Rua Pe. Arnaldo Pereira, deflete à direita, segue até a confluência com a Rua Angélica de Jesus, deflete à direita, segue até a confluência com a Rua Luciano Carneiro, deflete à esquerda, segue até a confluência com a Avenida Hélio Lobo, deflete à esquerda, segue até a confluência com a Rua Taciba, deflete à direita, segue até a confluência com a Rua Alba, deflete à direita, segue até a confluência com a Rua Artemis Correia Junior, deflete à esquerda, segue até a confluência com a Rua Armando Esteves Sevilha, deflete à direita, segue até a confluência com a Rua Ipaobi Rubens Matar, deflete à esquerda, segue até a confluência com a Rua Benedito Ferreira, deflete à esquerda, segue até confluência com a Rua Prof. Carlos Rizzini, deflete à direita, segue até a confluência com a Rua Dr. Vitor Eugênio de Sacramento, deflete à direita, segue até a confluência com a Rua Parnaíba Paolielo, deflete à direita, segue até a confluência com a Rua Geraldo S. Romeo, deflete à esquerda, segue até sua mudança de nome para Rua das Grumixamas, segue até a confluência com a Avenida Eng. George Corbisier, deflete à direita, segue até a confluência com a Avenida Gen. Daltro Filho, deflete à esquerda, segue até à confluência com a Rua das Guassatungas, deflete à direita, segue até a confluência com a Rua dos Beija-Flores, deflete à esquerda, segue até a confluência com a Rua dos Azulões, deflete à direita, segue até a confluência com a Rua das Rolinhas, deflete à esquerda, segue até a confluência com a Rua dos Pica-Paus, deflete à esquerda, segue até a confluência com a Rua Garam, deflete à direita, segue até a confluência com a Rua Santa Rita D´Oeste, deflete à direita, segue até a confluência com a Rua João Turriano, deflete à esquerda, segue até a confluência com a Rua Cel. Luís de Faria e Souza, deflete à esquerda, segue até a confluência com a Rua Olteiro, deflete à direita, segue até a confluência com a Avenida Eng. Armando Arruda Pereira, deflete à direita, segue até a confluência com a Rua das Pérolas, deflete à esquerda, segue até a confluência com a Avenida Eulália, deflete à direita, segue até a confluência com a Rodovia dos Imigrantes, deflete à direita, segue até a confluência com a Rua Alfenas, deflete à direita, segue até a confluência com a Avenida Eng. Armando Arruda Pereira, deflete à direita, segue até a confluência com a Rua Felipe D´Oliveira, deflete à esquerda, segue até a confluência com a Rua Hugo Vitor Silva, deflete à esquerda, segue até a confluência com a Rua Simão Rodrigues, deflete à direita, segue até a confluência com a Avenida Muzambinho, deflete à esquerda, segue até a confluência com a Rua Cidade de Santos, deflete à direita, segue até a confluência com a Rua Cap. Brasílio Carneiro, deflete à esquerda, segue até a confluência com a Rua David J. Curi, deflete à direita, segue até a confluência com a Avenida Rodrigues Montemor, deflete à esquerda, segue até a confluência com a Avenida Benigno Carrera, deflete à direita, segue até sua mudança de nome para Avenida Santa Catarina, segue até a confluência com a Rua Alba, deflete à direita, segue até a confluência com a Rua Tenente Américo Moretti, deflete à esquerda, segue até a confluência com a Rua Jorge Duprat Figueiredo, deflete à direita, segue até a confluência com a Rua Durval Fontoura Castro, deflete à esquerda, segue até a confluência com a Avenida Túlio Teodoro de Campos, deflete à direita, segue até a confluência com a Rua Saraiva, deflete à esquerda, segue até a confluência com a Rua João da Matta, deflete à direita, segue até a confluência com a Rua Gastão da Cunha, deflete à direita, segue até a confluência com a Rua Domas Filho, deflete à direita, segue até a confluência com a Rua Ciridião Durval, deflete à esquerda, segue até a confluência com a Avenida Dr. Lino de Moraes Leme, deflete à esquerda, segue até sua mudança de nome para Rua Rodes, segue até a confluência com a Rua Palacete das Águias, deflete à esquerda, segue até a confluência com a Rua Palestina, deflete à direita, segue até a confluência com a Avenida Washington Luís, deflete à direita, segue até a confluência com a Rua Joaquim Nabuco, deflete à esquerda, segue até a confluência com a Rua Vicente Leporace, deflete à direita, segue até a confluência com a Rua Bernardino de Campos, deflete à esquerda, segue até a confluência com a Rua Conde de Porto Alegre, deflete à direita, segue até a confluência com a Rua José dos Santos Jr., deflete à esquerda, segue até a confluência com a Avenida Vereador José Diniz, deflete à esquerda, segue até a confluência com a Rua Bernardino de Campos, deflete à direita, segue até a Avenida Santo Amaro, deflete à direita, segue até a confluência com a Rua Francisco Dias Velho, deflete à esquerda, segue até a confluência com a Rua Ministro José Gallotti, deflete à direita, segue até a confluência com a Rua Bartolomeu Feio, deflete à esquerda, segue até a confluência com a Rua Gabriel de Lara, deflete à esquerda, segue até confluência com a Rua Francisco Dias Velho, deflete à direita, segue até a confluência com a Rua Miguel Sutil, deflete à esquerda, segue até a confluência com a Rua Baltazar Fernandes, deflete à esquerda, segue até a confluência com a Avenida Morumbi, deflete à esquerda, segue até a confluência com a Rua Santo Arcádio, deflete à direita, segue até sua mudança de nome para Rua Cancioneiro Popular, segue até a confluência com a Rua Diogo de Quadros, deflete à direita, segue até sua mudança de nome para Rua Antônio Pacheco Valente, segue até a confluência com a Rua Adriano Ribeiro de Souza, deflete à esquerda, segue até a confluência com a Rua Dr. José Áureo Bustamante, deflete à esquerda, segue até a confluência com a Rua Tomás Deloney, deflete à direita, segue até a confluência com a Rua Bela Vista, deflete à direita, segue até a confluência com a Rua Henri Dunant, deflete à direita, segue até a confluência com a Rua Amaro Guerra, deflete à esquerda, segue até a confluência com a Rua Américo Brasiliense, deflete à direita, segue até a confluência com a Rua José Guerra, deflete à esquerda, segue até a confluência com a Avenida Alexandre Dumas, deflete à esquerda, segue até a confluência com a Rua Antônio de Oliveira, deflete à direita, segue até a confluência com a Rua Verbo Divino, deflete à direita, segue até a confluência com a Rua Booker Pittman, deflete à esquerda, segue até a confluência com a Rua Ricardo Lunardelli, deflete à direita, segue até a confluência com a Avenida João C. da Silva Borges, deflete à esquerda, segue até a confluência com a Avenida Prof. Alceu Maynard Araújo, deflete à direita, segue até a confluência com a Rua Dona. Aurora Alegretti, deflete à esquerda, segue até a confluência com a Rua Ferreira do Alentejo, deflete à direita, segue até a confluência com a Rua Laguna, deflete à esquerda, segue até a confluência com a Avenida João Dias, deflete à direita, segue pela Ponte João Dias até a confluência com a Marginal Pinheiros, deflete à direita, segue até a confluência com o prolongamento da Rua Oagy Calile, deflete à esquerda, segue até a confluência com a Rua Prof. Benedito Montenegro, deflete à direita, segue até a confluência com o prolongamento da Rua Jaime Costa (ponto A do segmento A-B), deflete à direita, segue pelo segmento A-B até o ponto B, segue pela Rua Jaime Costa, deflete à direita, segue até a confluência com a Rua General Pereira da Cunha, deflete à direita, segue até a confluência com a Rua Leite de Vasconcelos, deflete à direita, segue até a confluência com a Rua Silvio Tramontano, deflete à esquerda, segue até a confluência com Avenida Morumbi, deflete à direita, segue até a confluência com a Rua Francisco Tramontano, deflete à esquerda, segue até a confluência com a Avenida Duquesa de Goiás, deflete à esquerda, segue até a confluência com a Rua Paulo Bourroul, deflete à direita, segue até a confluência com a Rua César Vallejo, deflete à direita, segue até a confluência com a Marginal Pinheiros, deflete à esquerda, segue até a confluência com o ponto C (do segmento C-D), deflete à esquerda, segue pelo segmento C-D até o ponto D, deflete à esquerda e segue pela Rua Pedro Avancine até a confluência com a Rua Ana Vieira de Carvalho, deflete à direita, segue até a confluência com o ponto E (coordenadas 326248.22167281, 7388699.3895154), deflete à direita, até o ponto F (coordenadas 326480.0829211, 7388686.3942225), deflete à esquerda até o cruzamento com a Rua Zabumba - codlog 712493 (coordenadas 326464.66628568, 7388759.824638), deflete à direita e segue pela Rua Zabumba até o cruzamento com a Rua Francisco Rebolo - codlog 614009 (coordenadas 326515.75955061, 7388770.6763049), deflete a esquerda e segue pela Rua Francisco Rebolo até o cruzamento com o PS DOIS (J. PANORAMA-BUT) (coordenadas 326574.1429211, 7388944.6492225), deflete a esquerda e segue pela PS DOIS (J. PANORAMA-BUT) até o cruzamento com a Rua Pacoba - (coordenadas 326526.9129211, 7388985.1892225), deflete à direita e segue pela Rua Pacoba até a Rua Armando Petrella , segue pela Rua Armando Petrella até a confluência com o ponto G (coordenadas 326531.00167281, 7389080.2495154), confluência com a Rua Joapé ponto H, (coordenadas 326565.72167281, 7389325.8095154), deflete à direita, segue até a Marginal Pinheiros (Avenida Alcides Sangirardi), deflete à esquerda, segue até o ponto I (coordenadas 327022.07167281, 7389613.5195154) do segmento I-J, deflete à direita, segue pelo segmento I-J até o ponto inicial na confluência da Rua Saí de Sete Cores ponto J (coordenadas 327296.15537065, 7389524.6149546) com a Avenida Nações Unidas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Com o objetivo de tratar de forma diferenciada as desigualdades existentes na região e privilegiando as funções urbanas relacionadas com a distribuição espacial da população, das atividades econômicas e sociais, da oferta de infra-estrutura e de serviços urbanos, são criados os seguintes setores:\nI - SETOR JABAQUARA, compreendido pelo perímetro que começa na R. Myron Clark, esquina com a Av. Dr. Lino de Moraes Leme, segue até a confluência com a R. João de Lery, deflete à direita, segue até a confluência com a R. Benjamim Hunnicutt, deflete à esquerda, segue até a confluência com a Av. Pedro Bueno, deflete à esquerda, segue até a confluência com a R. Pe. Arnaldo Pereira, deflete à direita, segue até a confluência com a R. Angélica de Jesus, deflete à direita, segue até a confluência com a R. Luciano Carneiro, deflete à esquerda, segue até a confluência com a Av. Hélio Lobo, deflete à esquerda, segue até a confluência com a R. Taciba, deflete à direita, segue até a confluência com a R. Alba, deflete à direita, segue até a confluência com a R. Artemis Correia Junior, deflete à esquerda, segue até a confluência com a R. Armando Esteves Sevilha, deflete à direita, segue até a confluência com a R. Ipaobi Rubens Matar, deflete à esquerda, segue até a confluência com a R. Benedito Ferreira, deflete à esquerda, segue até confluência com a R. Profº Carlos Rizzini, deflete à direita, segue até a confluência com a R. Dr. Vitor Eugênio de Sacramento, deflete à direita, segue até a confluência com a R. Parnaíba Paolielo, deflete à direita, segue até a confluência com a R. Geraldo S. Romeo, deflete à esquerda, segue até sua mudança de nome para R. das Grumixamas, segue até a confluência com a Av. Engº George Corbisier, deflete à direita, segue até a confluência com a Av. Gen. Daltro Filho, deflete à esquerda, segue até a confluência com a R. das Guassatungas, deflete à direita, segue até a confluência com a R. dos Beija-Flores, deflete à esquerda, segue até a confluência com a R. dos Azulões, deflete à direita, segue até a confluência com a R. Austrália, deflete à direita, segue até a confluência com a R. Marcelino Antonio Dutra, deflete à esquerda, segue até a confluência com a R. Hildebrando Siqueira, deflete à esquerda, segue até a confluência com a Av. Engº Armando de Arruda Pereira, deflete à direita, segue até a confluência com o prolongamento da R. João Batista, deflete à esquerda, segue até a confluência com a R. Existente, deflete à esquerda, segue até a confluência com a R. Nilópolis, deflete à direita, segue até a confluência com a Rodovia dos Imigrantes, deflete à direita, segue até a confluência com a R. Alfenas, deflete à direita, segue até a confluência com a Av. Engº Armando Arruda Pereira, deflete à direita, segue até a confluência com a R. Felipe D´Oliveira, deflete à esquerda, segue até a confluência com a R. Hugo Vitor Silva, deflete à esquerda, segue até a confluência com a R. Simão Rodrigues, deflete à direita, segue até a confluência com a Av. Muzambinho, deflete à esquerda, segue até a confluência com a R. Cidade de Santos, deflete à direita, segue até a confluência com a R. Dr. Alcides de Campos, deflete à direita, segue até a confluência com a R. José Gaspar, deflete à esquerda, segue até a confluência com a Av. Rodrigues Montemor, deflete à esquerda, segue até a confluência com a Av. Benigno Carrera, deflete à direita, segue até a confluência com a Av. João Maria de Almeida, deflete à direita, segue até a confluência com a R. Mendes Nunes, deflete à esquerda, segue até a confluência com a R. Rainha Vitória Eugênia, deflete à esquerda, segue até a confluência com a R. Guian, deflete à direita, segue até a confluência com a R. Afonso XIII, deflete à esquerda, segue até a confluência com a R. Luísa Álvares, deflete à direita, segue até a confluência com a Av. José E. de Magalhães, deflete à esquerda, segue até a confluência com a R. Concepcion Arenal, deflete à direita, segue até a confluência com a R. Belmiro Zanetti Esteves, deflete à direita, segue até a confluência com a R. Mianos, deflete à esquerda, segue até a confluência com a R. Belfort Duarte, deflete à direita, segue até a confluência com a R. Navarra, deflete à esquerda, segue até a confluência com a R. Simão Rocha, deflete à direita, segue até a confluência com o prolongamento da R. Nelson Washington Pereira, deflete à esquerda, segue até a confluência com a R. Alba, deflete à esquerda, segue até a confluência com a R. Tenente Américo Moretti, deflete à direita, segue até a confluência com a R. Jorge Duprat Figueiredo, deflete à direita, segue até a confluência com a R. Durval Fontoura Castro, deflete à esquerda, segue até a confluência com a Av. Túlio Teodoro de Campos, deflete à direita, segue até a confluência com a R. Saraiva, deflete à esquerda, segue até a confluência com a R. João da Matta, deflete à direita, segue até a confluência com a R. Gastão da Cunha, deflete à direita, segue até a confluência com a R. Domas Filho, deflete à direita, segue até a confluência com a R. Ciridião Durval, deflete à esquerda, segue até a confluência com a Av. Dr. Lino de Moraes Leme, deflete à direita, segue até o ponto inicial, na confluência com a R. Myron Clark, conforme indicado na Planta nº BE-04-7B-001.\nII - SETOR BROOKLIN, compreendido pelo perímetro que começa na R. Arizona esquina com a R. Arandu, segue até a confluência com a R. Ribeiro do Vale, deflete à esquerda, segue até a confluência com a R. Michigan, deflete à direita, segue até a confluência com a R. Califórnia, deflete à esquerda, segue até a confluência com a R. Flórida, deflete à direita, segue até a confluência com a R. Nova Iorque, deflete à direita, segue até a confluência com a R. Michigan, deflete à esquerda, segue até a confluência com a Av. Portugal, deflete à esquerda, segue até a confluência com a R. Flórida, deflete à direita, segue até a confluência com a Av. Santo Amaro, deflete à esquerda, segue até a confluência com a R. Álvaro Luis Roberto de Assumpção, deflete à direita, segue até a confluência com a Av. Vereador José Diniz, deflete à direita, segue até a confluência com a R. Edson, deflete à esquerda, segue até a confluência com a R. João Alvares Soares, deflete à esquerda, segue até a confluência com a R. João de Souza Dias, deflete à direita, segue até sua mudança de nome para R. Ibituruna, segue até a confluência com a Estevão Baião, deflete à direita, segue até a confluência com a R. Nhu-Guaçú, deflete à esquerda, segue até a confluência com a Av. Washington Luís, deflete à direita, segue até a confluência com a R. Tapes, deflete à esquerda, segue até a confluência com a R. Padre Leonardo, deflete à direita, segue até a confluência com a R. Vapabussu, deflete à esquerda, segue até a confluência com a R. Galileu, deflete à direita, segue até a confluência com a R. Moreira Cardoso, deflete à esquerda, segue até a confluência com a R. Profª Heloísa Carneiro, deflete à direita, segue até a confluência com a R. Viaza, deflete à esquerda, segue até a confluência com a Av. Dr. Lino de Moraes Leme, deflete à direita, segue até sua mudança de nome para R. Rodes, segue até a confluência com a R. Palacete das Águias, deflete à esquerda, segue até a confluência com a R. Palestina, deflete à direita, segue até a confluência com a Av. Washington Luís, deflete à direita, segue até a confluência com a R. Joaquim Nabuco, deflete à esquerda, segue até a confluência com a R. Vicente Leporace, deflete à direita, segue até a confluência com a R. Bernardino de Campos, deflete à esquerda, segue até a confluência com a R. Conde de Porto Alegre, deflete à direita, segue até a confluência com a R. José dos Santos Jr., deflete à esquerda, segue até a confluência com a Av. Vereador José Diniz, deflete à esquerda, segue até a confluência com a R. Bernardino de Campos, deflete à direita, segue até a Av. Santo Amaro, deflete à direita, segue até a confluência com a R. Francisco Dias Velho, deflete à esquerda, segue até a confluência com a R. Ministro José Gallotti, deflete à direita, segue até a confluência com a R. Bartolomeu Feio, deflete à esquerda, segue até a confluência com a R. Gabriel de Lara, deflete à esquerda, segue até confluência com a R. Francisco Dias Velho, deflete à direita, segue até a confluência com a R. Miguel Sutil, deflete à direita, segue até a confluência com a Av. Água Espraiada, deflete à esquerda, segue até a confluência com a R. Araçaiba, deflete à direita, segue até a confluência com a R. Charles Coulomb, deflete à esquerda, segue até a confluência com a R. George Ohm, deflete à direita, segue até a confluência com a R. Samuel Morse, deflete à esquerda, segue até a confluência com a R. Arandu, deflete à direita, segue até encontrar o ponto inicial, na confluência com a R. Arizona, conforme indicado na Planta nº BE-04-7B-001.\nIII - SETOR BERRINI, compreendido pelo perímetro que começa na Av. Nova Independência, esquina com a Av. dos Bandeirantes, segue até a confluência com a R. Soberana, deflete à esquerda, segue até a confluência com a R. Porto Martins, deflete à direita, segue até a confluência com a R. Kansas, deflete à direita, segue até a confluência com a Av. Nova Independência, deflete à esquerda, segue até a confluência com a R. Flórida, deflete à esquerda, segue até a confluência com a R. Arandu, deflete à direita, segue até a confluência com a R. Samuel Morse, deflete à esquerda, segue até a confluência com a R. George Ohm, deflete à direita, segue até a confluência com a R. Charles Coulomb, deflete à esquerda, segue até a confluência com a R. Araçaiba, deflete à direita, segue até a confluência com a Av. Água Espraiada, deflete à esquerda, segue até a confluência com a R. Miguel Sutil, deflete à direita, segue até a confluência com a R. Baltazar Fernandes, deflete à esquerda, segue até a confluência com a Av. Morumbi, deflete à direita, segue até a Av. Nações Unidas, deflete à direita, segue até a R. Saí de Sete Cores, deflete à direita, segue até a Av. Bandeirantes, deflete à direita, segue até encontrar o ponto inicial no encontro com Av. Nova Independência, conforme indicado na Planta nº BE-04-7B-001.\nIV - SETOR MARGINAL PINHEIROS, compreendido pelo perímetro que começa na Avenida Nações Unidas, esquina com a Rua Saí de Sete Cores ponto J (coordenadas 327296.15537065, 7389524.6149546) segue até a confluência com a Ponte do Morumbi (Ponte Caio Pompeu de Toledo), deflete à direita, atravessa o Rio Pinheiros, até a confluência com a Avenida Magalhães de Castro, deflete à esquerda, segue até a confluência com o prolongamento da Rua Oagy Kalile (coordenadas 324809.32909217, 7385589.7958596), deflete à direita, segue até a confluência com a Rua Prof. Benedito Montenegro, deflete à direita, segue até a confluência com o prolongamento da Rua Jaime Costa ponto A (coordenadas 325083.08909217, 7386563.7358596), deflete à direita, segue pelo segmento A-A1 até o ponto A1 (coordenadas 325382.54909217, 7386766.4558596) segue pelo segmento A1 até o ponto B (coordenadas 325565.10909217, 7386669.5758596), segue pela Rua Jaime Costa, deflete à direita, segue até a confluência com a Rua General Pereira da Cunha, deflete à direita, segue até a confluência com a Rua Leite de Vasconcelos, deflete à direita, segue até a confluência com a Rua Silvio Tramontano, deflete à esquerda, segue até a confluência com Avenida Morumbi, deflete à direita, segue até a confluência com a Rua Francisco Tramontano, deflete à esquerda, segue até a confluência com a Avenida Duquesa de Goiás, deflete à esquerda, segue até a confluência com a Rua Paulo Bourroul, deflete à direita, segue até a confluência com a Rua César Vallejo, deflete à direita, segue até a confluência com a Marginal Pinheiros (Avenida Magalhaes de Castro), deflete à esquerda, segue até a confluência com o ponto C (coordenadas 326642.93167281, 7388467.2595154) do segmento C-D, deflete à esquerda, segue pelo segmento C-D até o ponto D, (coordenadas 326536.96167281, 7388482.4895154) segue pela Rua Pedro Avancine até a confluência com a Rua Ana Vieira de Carvalho, deflete à direita, segue até a confluência com o ponto E (coordenadas 326248.22167281, 7388699.3895154), deflete à direita, até o ponto F (coordenadas 326480.0829211, 7388686.3942225), deflete à esquerda até o cruzamento com a Rua Zabumba - codlog 712493 (coordenadas 326464.66628568, 7388759.824638), deflete à direita e segue pela Rua Zabumba até o cruzamento com a Rua Francisco Rebolo - codlog 614009 (coordenadas 326515.75955061, 7388770.6763049), deflete a esquerda e segue pela Rua Francisco Rebolo até o cruzamento com o PS DOIS (J. PANORAMA-BUT) (coordenadas 326574.1429211, 7388944.6492225), deflete a esquerda e segue pela PS DOIS (J. PANORAMA-BUT) até o cruzamento com a Rua Pacoba - (coordenadas 326526.9129211, 7388985.1892225), deflete à direita e segue pela Rua Pacoba até a Rua Armando Petrella , segue pela Rua Armando Petrella até a confluência com o ponto G (coordenadas 326531.00167281, 7389080.2495154), confluência com a Rua Joapé ponto H, (coordenadas 326565.72167281, 7389325.8095154), deflete à direita, segue até a Marginal Pinheiros (Avenida Alcides Sangirardi), deflete à esquerda, segue até o ponto I (coordenadas 327022.07167281, 7389613.5195154) do segmento I-J, deflete à direita, segue pelo segmento I-J até o ponto inicial na confluência da Rua Saí de Sete Cores ponto J (coordenadas 327296.15537065, 7389524.6149546) com a Avenida Nações Unidas.\nV - SETOR CHUCRI ZAIDAN, compreendido pelo perímetro que começa na R. Santo Arcádio, esquina com a Av. Morumbi, segue até sua mudança de nome para R. Cancioneiro Popular, segue até a confluência com a R. Diogo de Quadros, deflete à direita, segue até sua mudança de nome para R. Antônio P. Valente, segue até a confluência com a R. Adriano Ribeiro de Souza, deflete à esquerda, segue até a confluência com a R. Dr. José Áureo Bustamante, deflete à esquerda, segue até a confluência com a R. Tomás Deloney, deflete à direita, segue até a confluência com a R. Bela Vista, deflete à direita, segue até a confluência com a R. Henri Dunant, deflete à direita, segue até a confluência com a R. Amaro Guerra, deflete à esquerda, segue até a confluência com a R. Américo Brasiliense, deflete à direita, segue até a confluência com a R. José Guerra, deflete à esquerda, segue até a confluência com a Av. Alexandre Dumas, deflete à esquerda, segue até a confluência com a R. Antônio de Oliveira, deflete à direita, segue até a confluência com a R. Verbo Divino, deflete à direita, segue até a confluência com a R. Booker Pittman, deflete à esquerda, segue até a confluência com a R. Ricardo Lunardelli, deflete à direita, segue até a confluência com a Av. João C. da Silva Borges, deflete à esquerda, segue até a confluência com a Av. Prof. Alceu Maynard Araújo, deflete à direita, segue até a confluência com a R. Dª Aurora Alegretti, deflete à esquerda, segue até a confluência com a R. Ferreira do Alentejo, deflete à direita, segue até a confluência com a R. Laguna, deflete à esquerda, segue até a confluência com a Av. João Dias, segue pela Ponte João Dias até a confluência com a Marginal Pinheiros, deflete à direita, segue até a confluência com a Ponte do Morumbi, deflete à direita, atravessa o Rio Pinheiros, segue pela Av. Morumbi até encontrar o ponto inicial, na confluência com a R. Santo Arcádio, conforme indicado na Planta nº BE-04-7B-001.\nVI - SETOR AMERICANÓPOLIS, onde será priorizada a implantação de Programas Habitacionais, compreendendo os seguintes perímetros:\na) o primeiro, que começa na R. das Rolinhas, deflete à esquerda, segue até a confluência com a R. dos Pica-Paus, deflete à esquerda, segue até a confluência com a R. Garam, deflete à direita, segue até a confluência com a R. Santa Rita D´Oeste, deflete à direita, segue até a confluência com a R. João Turriano, deflete à esquerda, segue até a confluência com a R. Cel. Luís de Faria e Souza, deflete à esquerda, segue até a confluência com a R. Olteiro, deflete à direita, segue até a confluência com a Av. Engº Armando Arruda Pereira, deflete à direita, segue até a confluência com a R. das Pérolas, deflete à esquerda, segue até a confluência com a Av. Eulália, deflete à direita, segue até a confluência com a Rodovia dos Imigrantes, deflete à direita, segue até a confluência com a R. Existente, deflete à direita, segue até a confluência com R. João Batista, deflete à direita, segue até a confluência com a Av. Engº Armando Arruda Pereira, deflete à direita, segue até a confluência com a R. Hildebrando Siqueira, deflete à direita, segue até a confluência com a R. Marcelino Antonio Dutra, deflete à direita, segue até a confluência com a R. Austrália, deflete à direita, segue até encontrar o ponto inicial na confluência com a R. das Rolinhas, conforme indicado na Planta nº BE-04-7B-001;\nb) o segundo, que começa na R. Dr. Alcides de Campos, esquina com a R. Cidade de Santos, segue até a confluência com a R. José Gaspar, deflete à esquerda, segue até a confluência com a Av. Rodrigues Montemor, deflete à esquerda, segue até a confluência com a R. David J. Curi, deflete à esquerda, segue até a confluência com a R. Cap. Brasílio Carneiro, deflete à esquerda, segue até a confluência com a R. Cidade de Santos, deflete à direita, segue até o ponto inicial, na confluência com a R. Dr. Alcides de Campos, conforme indicado na Planta nº BE-04-7B-001;\nc) o terceiro, que começa na Av. Benigno Carrera, esquina com a R. João Maria de Almeida, segue pela Av. Benigno Carrera até sua troca de nome para Av. Santa Catarina, segue até a confluência com a R. Alba, deflete à direita, segue até a confluência com a R. Nelson Washington Pereira, deflete à direita, segue até a confluência com a R. Simão Rocha, deflete à direita, segue até a confluência com a R. Navarra, deflete à esquerda, segue até a confluência com a R. Belfort Duarte, deflete à direita, segue até a confluência com a R. Mianos, deflete à esquerda, segue até a confluência com a R. Belmiro Zanetti Esteves, deflete à direita, segue até a confluência com a R. Concepcion Arenal, deflete à esquerda, segue até a confluência com a R. Luisa Álvares, deflete à direita, segue até a confluência com a R. Afonso XIII, deflete à esquerda, segue até a confluência com a R. Guian, deflete à direita, segue até a confluência com a R. Rainha Vitória Eugênia, deflete à direita, segue até a confluência com a R. Mendes Nunes, deflete à direita, segue até a confluência com a R. João Maria de Almeida, deflete à direita, segue até encontrar o ponto inicial na confluência com a Av. Benigno Carrera, conforme indicado na Planta nº BE-04-7B-001.\nVII - SETOR ZEIS, considerado ZONA ESPECIAL DE INTERESSE SOCIAL, tendo como objetivo a consolidação das famílias moradoras e a produção de Habitações de Interesse Social, determinado pelos seguintes perímetros, conforme indicado na Planta nº BE-04-7B-001:\na) inicia-se na Av. Eng. Luís Carlos Berrini, segue até a confluência com a R. Charles Coulomb, deflete à direita, segue até a confluência com a R. George Ohm, deflete à direita, segue até a confluência com a Av. Água Espraiada, deflete à direita e segue até a confluência com a Av. Eng. Luís Carlos Berrini.\nb) inicia-se na R. Bragança Paulista, segue até a confluência com a R. Marcileia, deflete à direita, segue até a confluência com a R. Carmo do Rio Verde, deflete à direita, segue até a confluência com a R. dos Missionários, deflete à direita e segue até a confluência com a R. Bragança Paulista.\nc) inicia-se na R. Luís Seraphico Jr., segue até a confluência com o futuro prolongamento da Av. Chucri Zaidan, deflete à direita, segue até a confluência com a Av. Prof. Alceu Maynard Araújo, deflete à direita, segue até a confluência com a R. Luís Seraphico Jr.\nd) inicia-se na R. Iguaçú, segue até a confluência com a Rua Sônia Ribeiro, deflete à direita, segue até a confluência com a R. Gutemberg, deflete à direita, segue até a confluência com a R. Casimiro de Abreu, deflete à direita, segue até a confluência com a R. Iguaçú.\ne) inicia-se na Av. Água Espraiada, segue até a confluência com a R. Prof. Miguel Maurício da Rocha, deflete à direita, segue a confluência com a R. Acapurana, deflete à direita, segue até a confluência com a R. Tibiriçá, deflete à direita e segue até a confluência com a Av. Água Espraiada.\nf) inicia-se na R. Alba, segue até a confluência com a R. Tenente Américo Moretti, deflete à direita, segue até a confluência com a R. Jorge Duprat Figueiredo, deflete à direita, segue até a confluência com a R. Prof. Francisco Emygdio da Fonseca Telles, deflete à direita e segue até a confluência com a R. Alba.\ng) inicia-se na R. Prof. Francisco Emygdio da Fonseca Telles, segue até a confluência com a R. Estevão Mendonça, deflete à direita, segue até a confluência com a R. Nelson Washington Pereira, deflete à direita, segue até a confluência com a R. Rishin Matsuda, deflete à direita e segue até a confluência com a R. Prof. Francisco Emygdio da Fonseca Telles.\nh) inicia-se na R. Gustavo da Silveira, segue até a confluência com a R. Henrique Wickbold, deflete à direita, segue até a confluência com a R. Conselheiro Elias de Carvalho, segue até a confluência com a Av. Santa Catarina, deflete à direita, segue até a confluência com a R. Rishin Matsuda, deflete à direita, segue até a confluência com a R. Gustavo da Silveira.\ni) inicia-se na R. Franklin Magalhães, segue até a confluência com a R. Navarra, deflete à direita, segue até a confluência com a R. Rodolfo Garcia, deflete à direita, segue até a confluência com a R. Guaipeva, deflete à direita, segue até a confluência com a R. Franklin Magalhães.\nj) inicia-se na R. Embiara, segue até a confluência com a R. Franklin Magalhães, deflete à direita, e segue até o futuro prolongamento da Av. Água Espraiada, deflete à direita, segue até a confluência com a R. Alexandre Martins Rodrigues, deflete à direita, segue até a confluência com a R. Embiara.\nl) inicia-se na R. Navarra, segue até a confluência com a R. Bertold Duarte, deflete à direita, segue até a confluência com a R. Tenente Américo Moretti, deflete à direita, segue até a confluência com a R. Coriolano Durand, deflete à direita, segue até a confluência com a R. Navarra.\nm) inicia-se na R. Camilo Carrera, segue até a confluência com a R. Brasilina Fonseca, deflete à direita, segue até a confluência com a R. Concepcion Arenal, deflete à direita, segue até a confluência com a R. Cidade de Bagdá, deflete à direta, e segue até a confluência com a R. Camilo Carrera.\nn) inicia-se na R. Concepcion Arenal, segue até a confluência com a R. Dr. Ruy de Azevedo Sodré, deflete à esquerda, segue até a confluência com o prolongamento da R. Afonso XIII, deflete à esquerda, segue até a confluência com a Av. José E. de Magalhães, deflete à esquerda, segue até a confluência com a R. Concepcion Arenal.\no) inicia-se na R. Dr. Ruy de Azevedo Sodré, segue até a confluência com o prolongamento futuro da Av. Eng. George Corbisier, deflete à direita, segue até a confluência com a Av. Santa Catarina, deflete à direita, segue até a confluência com a R. Dr. Ruy de Azevedo Sodré.\np) inicia-se na R. das Rolinhas, segue até a confluência com a R. Lagoa dos Salgueiros, deflete à direita, segue até a confluência com a R. Arnaldo Augusto de Sá, deflete à direita, segue até a confluência com a R. Lagoa dos Salgueiros, deflete à direita, segue até a confluência com a R. Cap. Valdir Alves de Siqueira, deflete à direita, segue até a confluência com a R. do Céu, deflete à direita, segue até a confluência com a R. das Rolinhas.\nq) inicia-se na R. Cap. Valdir Alves de Siqueira, segue até a confluência com a R. Lagoa dos Salgueiros, deflete à direita, segue até a confluência com a Av. Barro Branco, deflete à direita, segue até a confluência com a R. do Céu, deflete à direita, segue até a confluência com a R. Cap. Valdir Alves de Siqueira.\nr) inicia-se na R. das Jóias, segue até a confluência com a Av. Barro Branco, deflete à direita, segue até a confluência com a R. Lagoa dos Salgueiros, deflete à direita, segue até a confluência com a R. Capitão Valdir Alves de Siqueira, deflete à direita, segue até a confluência com a R. das Jóias.\ns) inicia-se na R. Santa Rita D´Oeste, segue até a confluência com a Av. Barro Branco, deflete à direita, segue até a confluência com a R. Porcelana, deflete à direita, segue até a confluência com a R. Cap. Valdir Alves de Siqueira, deflete à direita, segue até a confluência com a R. Santa Rita D´Oeste.\nt) inicia-se na R. Coroa Imperial, segue até a confluência com a Av. Muzambinho, deflete à direita, segue até a confluência com a R. Onofre Silveira, deflete à direita, segue até a confluência com a R. Charles Hoyt, deflete à direita, segue até a confluência com a R. Coroa Imperial.\nu) inicia-se na R. Onofre Silveira, segue até a confluência com a Av. Muzambinho, deflete à direita, segue até a confluência com a R. Hildebrando Siqueira, deflete à direita, segue até a confluência com a R. Charles Hoyt, deflete à direita, segue até a confluência com a R. Onofre Silveira.\nv) inicia-se na R. Hildebrando Siqueira, segue até a confluência com a Av. Muzambinho, deflete à direita, segue até a confluência com a Tr. Bierremback, deflete à direita, segue até a confluência com a R. Charles Hoyt, deflete à direita, segue até a confluência com a R. Hildebrando Siqueira.\nx) inicia-se na R. Dr. Alcides de Campos, segue até a confluência com a R. Cidade de Santos, deflete à direita, segue até a confluência com a R. Dr. Mário de Campos, deflete à direita, segue até a confluência com a R. José Gaspar, deflete à direita, segue até a confluência com a R. Dr. Alcides de Campos.\ny) inicia-se na R. Natalino Amaro Teixeira, segue até a confluência com a R. Agapito Silva, deflete à esquerda, segue até a confluência com a Av. Eng.º Armando de Arruda Pereira, deflete à esquerda, segue até a confluência com a R. Natalino Amaro Teixeira.\nz) inicia-se na R. José Bonifácio, segue até a confluência com o prolongamento da R. Marcelo Pascoal, deflete à direita, segue até a confluência com a R. Déborah Pascoal, deflete à direita, segue até a confluência com a projeção do prolongamento da Av. Água Espraiada, deflete à esquerda, segue até a confluência com a Rodovia dos Imigrantes, deflete à direita, segue até a R. Alfenas, deflete à direita, segue até a confluência com a Av. Engº Armando de Arruda Pereira, deflete à direita, segue até a confluência com a R. José Bonifácio.\n§ 1º Fica assegurada aos proprietários de imóveis contidos nos perímetros descritos nos incisos I a V e VII deste artigo a opção de utilizar os benefícios concedidos nos termos desta lei, como alternativa às disposições da legislação de uso e ocupação do solo em vigor.\n§ 2º O perímetro descrito no inciso VI deste artigo caracteriza-se, nos termos do art. 141, inciso II da Lei nº 16.050, de 31 de julho de 2014, como o Perímetro Expandido da Operação Urbana Consorciada Água Espraiada, estando apto a receber recursos originados da venda de CEPAC para atendimento habitacional de interesse social, drenagem, mobilidade de média capacidade, bem como intervenções complementares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DO PROGRAMA DE INTERVENÇÕES\nArt. 3º - O Programa de Intervenções, garantindo o pleno desenvolvimento urbano e preservando a qualidade ambiental da região, tem por objetivo a complementação do sistema viário e de transportes, priorizando o transporte coletivo, a drenagem, a oferta de espaços livres de uso público com tratamento paisagístico e o provimento de Habitações de Interesse Social para a população moradora em favelas atingida pelas intervenções necessárias, e será realizado através das seguintes obras e intervenções:\nI) Desapropriações para a realização das obras necessárias à implementação da Operação Urbana Consorciada aprovada nesta lei;\nII) conclusão e adequação da Avenida Água Espraiada em Avenida Parque, conforme projeto a ser desenvolvido pelo Executivo, contemplando, no mínimo:\na) conclusão da Av. Água Espraiada (atualmente denominada Av. Jornalista Roberto Marinho), a partir da Av. Dr. Lino de Moraes Leme até sua interligação com a Rodovia dos Imigrantes, com os complementos viários necessários, podendo, para viabilizar o atingimento dos objetivos desta lei, estender-se parcialmente além do perímetro definido no § 2º de seu art. 1º.\nb) implantação de viadutos com acessos à Avenida Água Espraiada: - Av. Eng. Luís Carlos Berrini - Av. Santo Amaro - Av. Pedro Bueno - Av. George Corbisier;\nc)\nd) implantação de complexo viário, com pontes, interligando a Avenida Água Espraiada com as marginais do Rio Pinheiros;\ne)\nf)\nIII - implantação de unidades de Habitação de Interesse Social - HIS, melhoramentos e reurbanização, assegurando-se o atendimento habitacional definitivo das famílias de baixa renda atingidas pelas obras e outras intervenções previstas nesta lei, no perímetro desta Operação Urbana Consorciada.\na) Para a implantação das unidades de Habitação de Interesse Social - HIS, na forma anteriormente prevista, a Prefeitura poderá conceder à empresa privada que construir aquelas unidades através de quaisquer Programas de Subsídio à Habitação de Interesse Social - PSH, estabelecidos pela Medida Provisória nº 2.212, de 30 de agosto de 2001, como, por exemplo, o Programa de Arrendamento Residencial - PAR, instituído pelo Governo Federal através da Lei nº 10.188, de 12 de fevereiro de 2001, o valor complementar do preço do terreno estabelecido nesses programas até o limite de R$ 7.500,00 (sete mil e quinhentos reais) por unidade construída.\nb) o atendimento habitacional mencionado no presente inciso deverá ser efetivado no perímetro da OUCAE para as famílias previamente cadastradas, desde que se enquadrem nos critérios dos programas habitacionais de interesse social em vigor no Município de São Paulo à época da intervenção;\nc) até a viabilização do atendimento habitacional definitivo, as famílias receberão atendimento habitacional provisório continuado, de acordo com os programas disponíveis no momento;\nd) novas remoções para frentes de obras somente poderão ocorrer mediante prévia apresentação de Plano de Atendimento para totalidade das famílias já inseridas em auxílio-aluguel, bem como as famílias a serem removidas indicando os empreendimentos habitacionais previstos e a fonte de recursos para sua viabilização.\ne) a provisão de Habitação de Interesse Social, com recursos provenientes desta Lei e para atendimento das intervenções nela previstas, poderá ocorrer através do Programa Pode Entrar - Aquisição, mediante colaboração intersecretarial, respeitados os termos da Lei nº 17.638, de 9 de setembro de 2021;\nIV) Prolongamento da Avenida Chucri Zaidan até a Avenida João Dias.\nV) Implantação de sistema de áreas verdes e de espaços públicos.\nVI) Alargamento da Av. Washington Luís no trecho compreendido no perímetro desta Operação Urbana.\nVII) Implementação de programas públicos de atendimento econômico e social para a população de baixa renda diretamente afetada por esta Operação.\nVIII) Implantação de outras obras e ações necessárias para a consecução dos objetivos desta Operação Urbana Consorciada. Parágrafo único - Os investimentos necessários para implantação do Programa de Intervenções, inclusive para o pagamento das desapropriações das obras necessárias, serão oriundos de recursos auferidos pela Operação Urbana Consorciada Água Espraiada, nos termos desta lei, bem como de verbas orçamentárias e financiamentos.\n"
+      },
+      "art-0003-a": {
+       "label": "Art. 3º-A",
+       "kind": "article",
+       "text": "Art. 3º-A. Para fins de consecução da intervenção prevista no inciso II do art. 3º, poderão ser utilizados os recursos da própria Operação Urbana Consorciada na elaboração e celebração de concessão ou Parceria Público-Privada em que a Avenida referida seja o objeto.\n"
+      },
+      "art-0003-b": {
+       "label": "Art. 3º-B",
+       "kind": "article",
+       "text": "Art. 3º-B. A fim de garantir o desenho urbano do projeto mencionado no inciso II do art. 3º, o Executivo fica autorizado a designar áreas públicas internas aos limites estabelecidos nas plantas BE-04-7B-002 e BE-04-7B-003, para fins de:\nI - alienação privada; ou\nII - outorgar concessões e permissões de serviços.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DOS OBJETIVOS E DAS DIRETRIZES\n## SEÇÃO I\n## DOS OBJETIVOS E DAS DIRETRIZES GERAIS\nArt. 4º - A Operação Urbana Consorciada Água Espraiada tem como objetivos gerais:\nI - Promover a ocupação ordenada da região, segundo diretrizes urbanísticas, visando a valorização dos espaços de vivência e uso públicos;\nII - Desenvolver um programa que garanta o atendimento à população que vive em habitações subnormais, atingida pelas intervenções urbanísticas previstas nesta lei, em conjunto com os órgãos municipais, estaduais e federais competentes, com implantação de unidades de Habitação de Interesse Social, melhoramentos e reurbanização;\nIII - Criar estímulos para a implantação de usos diversificados, com índices e parâmetros urbanísticos compatíveis com as tendências e potencialidades dos lotes inclusos no perímetro da Operação Urbana Consorciada Água Espraiada, visando alcançar as transformações urbanísticas e ambientais desejadas;\nIV - Incentivar a mescla de usos para estimular a dinâmica urbana;\nV - Dotar o perímetro da Operação Urbana Consorciada de qualidades urbanísticas compatíveis com os adensamentos propostos;\nVI - Criar condições para que proprietários, moradores e investidores participem das transformações urbanísticas objetivadas pela presente Operação Urbana Consorciada;\nVII - Implantar os melhoramentos viários constantes do Programa de Intervenções descrito no artigo 3º desta lei, em especial a conclusão da Avenida Água Espraiada, preservando a qualidade de vida do seu entorno mediante a ampliação das áreas verdes e de lazer, com tratamento paisagístico, visando a minimização do impacto decorrente da intensidade do tráfego;\nVIII - Incentivar o remembramento de lotes e a criação de áreas de circulação e acesso público, de acordo com o que dispõe esta lei;\nIX - Estabelecer um mínimo de espaços por setor destinados à implementação de áreas verdes sob a forma de praças e/ou parques lineares, além das áreas destinadas na quadrícula das vias à implantação de passeios públicos arborizados e ajardinados;\nX - Prever a implantação, em cada nova edificação, de dispositivo de drenagem, por retenção, com capacidade proporcional à área impermeabilizada.\nParágrafo único - Respeitando-se integralmente o Programa de Intervenções previsto nesta lei, bem como todas as medidas urbanísticas necessárias, a presente Operação Urbana Consorciada deverá considerar os planos diretores de bairros que eventualmente venham a ser legalmente definidos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DAS DIRETRIZES ESPECÍFICAS\nArt. 5º - Para o perímetro delimitado na Planta nº BE-04-7B-001 do arquivo da Empresa Municipal de Urbanização - EMURB, que integra a presente lei, e constante do artigo 1º, § 2º desta lei, observadas as limitações previstas na Seção V, do Capítulo III desta lei, ficam estabelecidas as seguintes diretrizes:\nI - Para os lotes contidos no SETOR JABAQUARA:\na) Faixa suplementar de adequação viária para a implantação de área pública de circulação e acessibilidade dentro dos limites dos melhoramentos previstos no artigo 28 desta lei e de acordo com projeto a ser desenvolvido pela Empresa Municipal de Urbanização - EMURB;\nb) faixa de 2 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei;\nc) lote mínimo de 1.000 m2, com frente mínima de 16 metros, exceto para C1, I1, S1 e E1, para os quais será mantido o lote mínimo exigido em lei específica vigente;\nd)\ne) coeficiente de aproveitamento máximo de 4,0;\nf)\ng) recuos mínimos:\ng.1) frente = 5 metros, contados a partir das faixas definidas nas alíneas \"a\" e \"b\" desse inciso;\ng.2) lateral = 3 metros, contados a partir da faixa definida na alínea \"b\", ou contados da divisa com outro lote;\ng.3) fundo = 5 metros, contados a partir da faixa definida na alínea \"b\", ou contados da divisa com outro lote.\nh) gabarito: sem limite.\nII - Para os lotes contidos no SETOR BROOKLIN:\na) Faixa suplementar de adequação viária para a implantação de área pública de circulação e acessibilidade dentro dos limites dos melhoramentos previstos no artigo 28 desta lei e de acordo com projeto a ser desenvolvido pela Empresa Municipal de Urbanização - EMURB;\nb) faixa de 4 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei;\nc) lote mínimo de 1.000m² (mil metros quadrados) com frente mínima de 16,00m (dezesseis metros), exceto para os usos nR1 e nR2 para os quais será mantido o lote mínimo exigido na Lei nº 16.402, de 22 de março de 2016.\nd)\ne)\nf) coeficiente de aproveitamento máximo de 4,0;\ng) recuos mínimos do térreo e térreo + 1:\ng.1) frente = 5 metros, contados a partir das faixas definidas nas alíneas \"a\" e \"b\" desse inciso;\ng.2) lateral = 3 metros, contados a partir da faixa definida na alínea \"b\" desse inciso; ou contados da divisa com outro lote;\ng.3) fundo = 5 metros, contados a partir da faixa definida na alínea \"b\" desse inciso, ou contados da divisa com outro lote;\nh) recuos mínimos acima do térreo + 1:\nh.1) frente = 6 metros;\nh.2) lateral = 4,5 metros;\nh.3) fundo = 5 metros;\ni) gabarito: sem limite;\nj) para os lotes contidos no perímetro definido pelas avenidas Vereador José Diniz, Jornalista Roberto Marinho, Washington Luís, ruas Joaquim Nabuco, Vicente Leporace, Bernardino de Campos, Conde de Porto Alegre e José dos Santos Jr.:\nj.1) admitem-se os usos R1, R2h, R2v, HIS, HMP, nR1, nR2 e nR3-2, exceto as categorias nR1-12, nR1-13, nR1-14, nR1-15 e nR1-16, nR2-8, nR2-9, nR2-10, nR2-11, nR2-12, nR2-13, nR2-14 e nR2-15;\nj.2) o acesso viário por via limítrofe à ZER 1 não contido no perímetro da Operação Urbana Consorciada Água Espraiada só será admitido para empreendimentos de uso residencial;\nj.3) enquanto as vias laterais definidas no inciso II do § 1º do art. 28 da Lei nº 13.260, de 28 de dezembro de 2001, não estejam implantadas:\nj.3.1) os lotes que tiverem testada para a Avenida Jornalista Roberto Marinho somente terão acesso por essa testada.\nj.4) o gabarito de altura máximo é de 18m (dezoito metros).\nk)\nl) os terrenos de até 1000 m² (mil metros quadrados) , integrantes do perímetro da OUCAE, classificados na zona de uso ZER 1 e que comprovadamente não possam ser remembrados a lotes vizinhos, de forma a atender as disposições da alínea \"c\", do inciso II do art. 5º da Lei nº 13.260, de 28 de dezembro de 2001, poderão solicitar a modificação de uso de seus imóveis, desde que atendidas as seguintes condições:\nl.1) os usos admitidos são aqueles descritos na alínea \"d\" do inciso II do art. 5º da Lei nº 13.260, de 28 de dezembro de 2001;\nl.2) os parâmetros de ocupação são os definidos para a ZPR no Quadro 3 anexo à Lei nº 16.402, de 22 de março de 2016;\nI.3. O pedido de modificação de uso é oneroso e será equivalente a 0,1 (um decimo) CEPAC por metro quadrado de terreno objeto do pedido e será convertido em reais com base no valor do CEPAC alcançado no último leilão realizado, podendo ser pago parceladamente pelo interessado, a critério da SP Urbanismo.\nIII - Para os lotes contidos no SETOR BERRINI:\na) Faixa suplementar de adequação viária para a implantação de área pública de circulação e acessibilidade dentro dos limites dos melhoramentos previstos no artigo 28 desta lei e de acordo com projeto a ser desenvolvido pela Empresa Municipal de Urbanização - EMURB;\nb) faixa de 2 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei;\nc) lote mínimo de 1.000 m2, com frente mínima de 16 metros, exceto C1, I1, E1 e S1, para os quais será mantido o lote mínimo exigido em lei específica vigente;\nd)\ne) coeficiente de aproveitamento máximo de 4,0;\nf)\ng) recuos mínimos:\ng.1) frente = 5 metros, contados a partir das faixas definidas nas alíneas \"a\" e \"b\" desse inciso;\ng.2) lateral = 3 metros, contados a partir da faixa definida na alínea \"b\" desse inciso, ou contados da divisa com outro lote;\ng.3) fundo = 5 metros, contados a partir da faixa definida na alínea \"b\" desse inciso, ou contados da divisa com outro lote;\nh) gabarito: sem limite;\ni) para os lotes contidos no perímetro compreendido pelas Ruas Soberana, Porto Martins, Kansas e pela Av. Nova Independência, cujos proprietários aderirem à presente Operação Urbana Consorciada, serão admitidos apenas os usos R1, R2 e R3.\nIV - Para os lotes contidos no SETOR MARGINAL PINHEIROS:\na) faixa de 2 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei;\nb) lote mínimo de 1.000 m2, com frente mínima de 16 metros, exceto para C1, E1 e S1, para os quais será mantido o lote mínimo exigido em lei específica vigente;\nc)\nd) coeficiente de aproveitamento máximo de 4,0;\ne)\nf) recuos mínimos:\nf.1) frente = 5 metros, contados a partir da faixa definida na alínea \"a\" desse inciso;\nf.2) lateral = 3 metros, contados a partir da faixa definida na alínea \"a\" desse inciso, ou contados da divisa com outro lote;\nf.3) fundo = 5 metros, contados a partir da faixa definida na alínea \"a\" desse inciso, ou contados da divisa com outro lote;\ng) gabarito: sem limite.\nV - Para os lotes contidos no SETOR CHUCRI ZAIDAN:\na) faixa de 2 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei;\nb) lote mínimo de 1.000 m2, com frente mínima de 16 metros, exceto para C1, E1 e S1, para os quais será mantido o lote mínimo exigido em lei específica vigente;\nc)\nd) coeficiente de aproveitamento máximo de 4,0;\ne)\nf) recuos mínimos:\nf.1) frente = 5 metros, contados a partir da faixa definida na alínea \"a\" desse inciso;\nf.2) lateral = 3 metros, contados a partir da faixa definida na alínea \"a\" desse inciso, ou contados da divisa com outro lote;\nf.3) fundo = 5 metros, contados a partir da faixa definida na alínea \"a\" desse inciso, ou contados da divisa com outro lote;\ng) gabarito: sem limite.\nVI - para os lotes contidos no setor Americanópolis aplicam-se os índices e parâmetros urbanísticos contidos no Quadro 3 da Lei nº 16.402, de 22 de março de 2016, bem como as disposições dos arts. 115 e 116 da Lei nº 16.050, de 31 de julho de 2014, relativos à outorga onerosa do direito de construir.\nVII - Para os lotes localizados no SETOR ZEIS, os parâmetros de uso e ocupação do solo serão aqueles contidos no Decreto nº 31.601/92, que estabelece critérios para a construção de unidades de Habitações de Interesse Social do Município, bem como legislação posterior pertinente, observando-se:\na) faixa suplementar de adequação viária para a implantação de área pública de circulação e acessibilidade dentro dos limites dos melhoramentos previstos no artigo 28 desta lei e de acordo com projeto a ser desenvolvido pela Empresa Municipal de Urbanização - EMURB;\nb) faixa de 2 metros para alargamento da calçada, conforme disposto no artigo 17 desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - A utilização do estoque de potencial adicional de construção para cada setor deverá observar o percentual abaixo para a mescla de usos admitidos:\nI - mínimo de 30% (trinta por cento), para usos residenciais;\nII - máximo de 70% (setenta por cento), para os demais usos admitidos nesta lei.\n§ 1º - Será admitido, de forma onerosa, o uso misto residencial e comercial, ou de serviços, excetuados postos de abastecimento e comércio de produtos perigosos, quando não permitido na legislação de zoneamento vigente.\n§ 2º - O eventual ajuste dos percentuais permitidos em cada setor caberá à Empresa Municipal de Urbanização - EMURB, ouvida a Secretaria Municipal de Planejamento - SEMPLA, e a Comissão Normativa de Legislação Urbanística - CNLU, e o Grupo de Gestão definido no § 1º do artigo 19, obedecendo o disposto nos incisos I e II.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Nos setores de implantação de Habitações de Interesse Social - HIS, no âmbito desta Operação Urbana Consorciada, deverão ser previstos usos complementares à função habitacional, bem como espaços públicos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DOS MEIOS, RECURSOS E CONTRAPARTIDAS DA OPERAÇÃO URBANA CONSORCIADA ÁGUA ESPRAIADA\n## SEÇÃO I\n## DA OUTORGA ONEROSA DE ÍNDICES E CARACTERÍSTICAS DO PARCELAMENTO, USO E OCUPAÇÃO DO SOLO E SUBSOLO\nArt. 8º - Fica o Poder Executivo autorizado a outorgar, de forma onerosa, o potencial adicional de construção e a modificação dos usos e parâmetros urbanísticos estabelecidos na legislação vigente de uso e ocupação do solo para os lotes contidos no interior do perímetro da Operação Urbana Consorciada Água Espraiada, nos termos desta lei.\n§ 1º - Para o uso do subsolo deverão ser observados os recuos e demais disposições definidos na legislação vigente até a data da promulgação desta lei.\n§2º - A contrapartida da outorga onerosa do potencial adicional de construção e modificação do uso do solo e parâmetros urbanísticos prevista neste artigo será realizada através da venda de Certificados de Potencial Adicional de Construção, nos termos da Seção II deste Capítulo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Para os fins desta lei, entende-se por potencial adicional de construção a área construída passível de ser acrescida, mediante contrapartida, à área permitida pela legislação vigente na data do protocolamento do respectivo pedido de vinculação de CEPAC, realizado na forma do decreto regulamentador da Operação Urbana Consorciada.\n§ 1º O total da área adicional construída para o setor Jabaquara será de 250.000m² (duzentos e cinquenta mil metros quadrados).\n§ 2º O total da área adicional construída para o setor Brooklin não poderá exceder a 1.400.000m² (um milhão e quatrocentos mil metros quadrados).\n§ 3º O total da área adicional construída para o setor Berrini não poderá exceder a 350.000m² (trezentos e cinquenta mil metros quadrados), desde que 113.895,09m² (cento e treze mil, oitocentos e noventa e cinco metros quadrados e nove decímetros quadrados), disponibilizados a partir da promulgação desta lei.\n§ 4º O total da área adicional construída para o setor Marginal Pinheiros não poderá exceder a 600.000m² (seiscentos mil metros quadrados).\n§ 5º O total da área adicional construída para o setor Chucri Zaidan não poderá exceder a 2.000.000m² (dois milhões de metros quadrados), desde que 216.442,47m² (duzentos e dezesseis mil, quatrocentos e quarenta e dois metros quadrados e quarenta e sete decímetros quadrados), disponibilizados a partir da promulgação desta lei, sejam destinados exclusivamente ao uso residencial.\n§ 6º Fica instituída reserva técnica de potencial adicional de construção de 250.000m² (duzentos e cinquenta mil metros quadrados) a ser distribuída pela SP Urbanismo para fins de atendimento dos objetivos da Operação Urbana Consorciada Água Espraiada, após avaliação técnica do impacto urbanístico-ambiental da medida.\n§ 7º A avaliação técnica prevista no § 6º deste artigo será realizada pela SP Urbanismo, ouvidos o Grupo de Gestão da Operação Urbana Consorciada Água Espraiada e a Secretaria do Verde e do Meio ambiente, tendo por objetivo o setor no qual restar, no máximo 50.000m² (cinquenta mil metros quadrados) do estoque de potencial adicional de construção.\n§ 8º A avaliação técnica prevista no parágrafo anterior deverá considerar o efetivo adensamento dos setores em relação às estimativas de adensamento que constam do EIA-RIMA desta Operação Urbana e demais elementos relevantes do ponto de vista econômico, urbanístico e ambiental, tais como adensamento habitacional, demanda por equipamentos públicos, geração de tráfego e demanda por transporte público, aspectos climáticos, paisagem urbana e patrimônio natural e cultural, entre outros.\n§ 9º A avaliação técnica relativa aos setores que já se encontram na situação descrita no parágrafo sétimo deverá ser iniciada imediatamente após a publicação desta lei.\n§ 10 Como incentivo à produção de Habitação de Interesse Social (HIS) no perímetro da Operação Urbana Consorciada Águas Espraiadas, a cada 3m² (três metros quadrado) de área computável de HIS produzida no Setor Jabaquara poderá ser disponibilizado ao interessado, de forma onerosa, 1m² (um metro quadrado) do estoque de reserva técnica de potencial adicional construtivo de 250.000m² (duzentos e cinquenta mil metros quadrados) prevista no art.6º deste em CEPAC, para ser transferido para qualquer outro setor da OUCAE, à escolha do interessado.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Para os fins desta lei, entende-se por modificação de uso a possibilidade de se obter, mediante contrapartida, a permissão de usos não conformes com a legislação vigente que passam a ser admitidos a partir da data da promulgação desta lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DA EMISSÃO DE CERTIFICADOS DE POTENCIAL ADICIONAL DE CONSTRUIR\nArt. 11. Fica autorizado o Executivo a emitir até 4.490.999 (quatro milhões, quatrocentos e noventa mil e novecentos e noventa e nove) Certificados de Potencial Adicional de Construção, para a outorga onerosa de potencial adicional de construção e modificação de uso do solo e demais parâmetros urbanísticos, que serão convertidos de acordo com a tabela de equivalência a seguir descrita:\nSETORES 1 (um) CERTIFICADO equivale a:\nÁrea Adicional de Área de terreno referente\nConstrução à Modificação de Usos e\nParâmetros\nJABAQUARA 3 m² 2 m²\nBROOKLIN 1 m² 1 m²\nBERRINI 1 m² 2 m²\nMARG. PINHEIROS 2 m² 2 m²\nCHUCRI ZAIDAN 1 m² 2 m²\n§ 1º - O valor mínimo estabelecido para cada Certificado de Potencial Adicional de Construção é de R$ 300,00 (trezentos reais), podendo ser reajustado pela Empresa Municipal de Urbanização - EMURB, ouvindo-se a Secretaria Municipal de Planejamento - SEMPLA, a Comissão Normativa de Legislação Urbanística - CNLU e o Grupo de Gestão previsto no § 1º do artigo 19 desta lei.\n§ 2º - A Empresa Municipal de Urbanização - EMURB fica autorizada a receber o pagamento das contrapartidas definidas nesta lei, realizado através da venda de Certificados de Potencial Adicional de Construção, à vista ou em parcelas.\n§ 3º - O valor da venda dos Certificados poderá ser recebido pela Empresa Municipal de Urbanização - EMURB parceladamente, com no mínimo 20% (vinte por cento) à vista, e o saldo restante em até 18 (dezoito) prestações mensais, iguais e consecutivas, devidamente corrigidas por índice oficial a ser definido pela Empresa Municipal de Urbanização - EMURB.\n§ 4º - Os Certificados referidos neste artigo deverão ser alienados em leilão público ou utilizados para o pagamento das obras previstas no Programa de Intervenções da presente Operação Urbana Consorciada.\n§ 5º - A quantidade de Certificados a ser ofertada em cada leilão público será mensurada pela Empresa Municipal de Urbanização - EMURB de acordo com a demanda, de modo a prever a retenção de uma reserva para efeito de estoque regulador.\n§ 6º - O edital referente a cada leilão público a ser realizado para a venda dos Certificados referidos neste artigo deverá prever mecanismos que garantam o maior grau possível de pulverização dos Certificados, observando-se os princípios gerais contidos na Lei nº 8.666/93.\n§ 7º - A Empresa Municipal de Urbanização - EMURB será responsável pelo controle de emissão e abatimento de Certificados e da área adicional construída, dentro dos totais previstos nos artigos 9º e 11 desta lei.\n§ 8º - Os Certificados poderão ser negociados livremente até que seus direitos sejam vinculados a projeto de edificação para um lote específico, que deverá ser submetido aos trâmites normais de aprovação junto à Prefeitura Municipal de São Paulo.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DAS DESAPROPRIAÇÕES\nArt. 12 - Todas as disposições reguladas nesta Seção, que se referem às desapropriações a serem efetivadas em função das obras necessárias à Operação Urbana Consorciada Água Espraiada observarão o disposto no Decreto-Lei nº 3.365, de 21 de junho de 1941, e demais disposições pertinentes à matéria.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Na hipótese de realização de acordo para se estabelecer o valor da indenização a ser paga aos proprietários de imóveis atingidos pelas desapropriações, a Empresa Municipal de Urbanização - EMURB fica autorizada a realizar o pagamento do valor da indenização em Certificados de Potencial Adicional de Construção.\n§ 1º - A possibilidade de que proprietário de imóvel expropriado para os fins da presente Operação Urbana Consorciada, através de acordo, venha a receber o valor da indenização na forma prevista no \"caput\", não impede que a Empresa Municipal de Urbanização - EMURB opte por realizar o pagamento em dinheiro, ou, ainda, parte em dinheiro e parte em Certificados de Potencial Adicional de Construção.\n§ 2º - Havendo opção pelo pagamento da indenização em Certificados de Potencial Adicional de Construção, o valor destes será aquele obtido no último leilão realizado antes do pagamento, levando-se em conta a quantidade de metros quadrados desapropriada para fins de outorga de potencial adicional de construção e modificação de uso do solo e dos parâmetros urbanísticos.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Havendo remanescente de área desapropriada e optando a Empresa Municipal de Urbanização - EMURB pela alienação, esta deverá ser realizada na forma da legislação específica, e os recursos obtidos destinados à conta vinculada prevista no artigo 22 desta lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A desocupação de imóveis, quando atingidos pelas intervenções viárias e implantação de sistemas de áreas verdes e espaços públicos desta Operação Urbana Consorciada, deverá atentar para o direito de atendimento habitacional das famílias previamente cadastradas, desde que se enquadrem nos critérios dos programas habitacionais de interesse social em vigor no Município de São Paulo à época da intervenção, sejam eles conduzidos exclusivamente pela Prefeitura ou em parceria com outros órgãos da administração direta ou indireta municipal, estadual ou federal ou com particulares.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DOS INCENTIVOS E DAS LIMITAÇÕES URBANÍSTICAS\nArt. 16 - Os proprietários de imóveis que aderirem à Operação Urbana Consorciada Água Espraiada, respeitando as diretrizes específicas estabelecidas nos artigos 5º, incisos I a VII, 6º e 17, bem como as demais disposições e restrições urbanísticas contidas na presente lei, poderão usufruir dos seguintes incentivos:\nI - aos lotes resultantes de remembramento de outros lotes com área inferior a 2.000 m², que atingirem área superior a 2.500 m², será concedida, de forma gratuita, área adicional de construção computável equivalente a 10% da área do lote resultante do remembramento, respeitado o coeficiente de aproveitamento máximo do setor que contiver o lote remembrado.\nII - aos lotes resultantes de remembramento de outros lotes com área inferior a 2.000 m², que atingirem área superior a 5.000 m², será concedida, de forma gratuita, área adicional de construção computável equivalente a 20% da área do lote resultante do remembramento, respeitado o coeficiente de aproveitamento máximo do setor que contiver o lote remembrado.\nParágrafo único - Não poderão ser utilizados para os efeitos desta lei os incentivos obtidos em outras Operações Urbanas.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Além das diretrizes específicas estabelecidas nos artigos 5º, incisos I a VII e 6º, e do pagamento da contrapartida, para a utilização dos benefícios previstos nesta lei, os proprietários de imóveis contidos no perímetro desta Operação Urbana Consorciada deverão doar ao Município a faixa destinada a alargamento de calçada mencionada nos incisos I, alínea \"b\", II, alínea \"b\", III, alínea \"b\", IV, alínea \"a\", V, alínea \"a\" e VII, alínea \"b\", do artigo 5º desta lei, recebendo como incentivo o acréscimo do dobro da área doada à área remanescente do imóvel, para fins de aplicação dos índices e parâmetros urbanísticos, respeitado o coeficiente de aproveitamento máximo do setor que contiver o lote.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Todos os empreendimentos destinados aos usos não residenciais que fizerem uso dos dispositivos da citada lei deverão atender o Quadro 4A - Condições de Instalação por Subcategoria de uso anexo à Lei nº 16.402, de 22 de março de 2016.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DO GRUPO DE GESTÃO\nArt. 19 - Fica instituído o Grupo de Gestão da Operação Urbana Consorciada Água Espraiada, coordenado pela Empresa Municipal de Urbanização - EMURB, contando com a participação de órgãos municipais, de entidades representativas da sociedade civil organizada, visando a definição e implementação do Programa de Intervenções da Operação Urbana Consorciada.\n§ 1º - O Grupo de Gestão será composto da seguinte maneira:\na) Empresa Municipal de Urbanização - EMURB;\nb) 1 (um) representante de cada uma das seguintes Secretarias Municipais: SEMPLA, SF, SMT, SMMA, SEHAB, SIURB, AR/SA e AR/JA;\nc) 1 (um) representante de cada uma das entidades da sociedade civil a seguir descritas: Movimento Defenda São Paulo, IAB, Instituto de Engenharia - IE, APEOP, SECOVI, OAB, FAU/USP, União dos Movimentos de Moradia e associação de moradores das favelas contidas no perímetro desta Operação.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Ao Grupo de Gestão da Operação Urbana Consorciada Água Espraiada, coordenado pela Empresa Municipal de Urbanização - EMURB, caberá formular e acompanhar os planos e projetos urbanísticos previstos no Programa de Intervenções, o controle geral da presente Operação Urbana Água Espraiada, e, ainda, propor a revisão da presente lei.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - Cabe à Empresa Municipal de Urbanização - EMURB, como coordenadora da Operação Urbana Consorciada Água Espraiada, as seguintes atribuições:\nI - Implementar o Programa de Intervenções definido na presente lei e o programa de obras necessárias e complementares à efetivação desta Operação Urbana Consorciada;\nII - Regulamentar os mecanismos de estoque regulador de emissão de Certificados de Potencial Adicional de Construção, até o limite previsto para cada setor nos artigos 9º, 10 e 11 desta lei;\nIII - Coordenar o Grupo de Gestão definido no § 1º do artigo 19 desta lei.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Os recursos auferidos pela Operação Urbana Consorciada Água Espraiada serão administrados pela Empresa Municipal de Urbanização - EMURB através de conta vinculada à presente Operação, a ser regulamentada por Decreto.\n§ 1º - Na gestão dos recursos auferidos pela Operação Urbana Consorciada Água Espraiada, a Empresa Municipal de Urbanização - EMURB, transferirá para conta específica, administrada pela Secretaria de Habitação e Desenvolvimento Urbano - SEHAB, as quantias destinadas aos investimentos habitacionais desta Operação Urbana Consorciada, definidos no plano de prioridades de investimentos.\n§ 2º - Os recursos serão utilizados de acordo com o Programa de Intervenções previsto no artigo 3º desta lei, cujas prioridades serão estabelecidas pelo Grupo de Gestão.\n§ 3º - Os recursos auferidos pela Operação Urbana Consorciada Água Espraiada também serão utilizados para o pagamento das desapropriações necessárias e para a promoção e divulgação da Operação.\n§ 4º - Enquanto não forem efetivamente utilizados, todos os recursos deverão ser aplicados em operações financeiras, objetivando a manutenção de seu valor real.\n§ 5º No mínimo 35% (trinta e cinco por cento) dos recursos arrecadados a partir da promulgação desta Lei com a alienação de CEPACs deverão ser aplicados em Habitação de Interesse Social no perímetro de abrangência da Operação Urbana Consorciada Água Espraiada, até o reassentamento definitivo de todas as famílias previamente cadastradas e atingidas pelas obras e outras intervenções previstas na Lei, devendo o empenhamento dos recursos arrecadados a cada leilão e destinados a essa finalidade ser efetuado em até 5 (cinco) anos da sua data de realização.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - O Poder Executivo fixará remuneração a ser paga à Empresa Municipal de Urbanização - EMURB pelos serviços prestados para a implantação e coordenação da presente Operação Urbana Consorciada Água Espraiada.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS\nArt. 24 - Expedido o alvará para construção, o proponente deverá afixar placa detalhada com todos os dados do empreendimento no terreno, fazendo referência, em local visível, para conhecimento de todos, à Operação Urbana Consorciada Água Espraiada.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. A São Paulo Obras - SPObras e a São Paulo Urbanismo - SPUrbanismo ficam autorizadas a praticar todos os atos necessários à realização da Operação Urbana Consorciada Água Espraiada, em especial para atender o Programa de Intervenções estabelecido no art. 3º desta lei, visando a redução dos impactos e resguardando a qualidade de vida e o interesse coletivo.\n§ 1º. As desapropriações judiciais serão obrigatoriamente conduzidas pela São Paulo Obras e pela São Paulo Urbanismo, com o apoio técnico e jurídico da Procuradoria Geral do Município, em especial do Departamento de Desapropriações.\n§ 2º. A fase declaratória da desapropriação, a avaliação e a desapropriação amigável poderão ser realizadas pela Municipalidade, nos termos do Decreto nº 51.638, de 19 de julho de 2010.\n§ 3º. A São Paulo Urbanismo fará publicar, no Diário Oficial da Cidade e em, pelo menos, um jornal de grande tiragem, com frequência semestral, relatório com todas as informações referentes à implantação das obras, recursos e receita financeira auferidos.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - A aplicação desta lei atenderá as exigências da Licença Ambiental a ser obtida junto à Secretaria Municipal do Meio Ambiente, mediante a apresentação e aprovação do respectivo Estudo de Impacto Ambiental - EIA/RIMA.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - A Prefeitura de São Paulo e a Empresa Municipal de Urbanização - EMURB ficam autorizadas a oferecer como garantia para financiamentos obtidos para a implementação desta Operação Urbana os Certificados de Potencial Adicional de Construção.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Ficam aprovados os melhoramentos viários constantes das plantas BE-04-7B-002, BE-04-7B-003, BE-04-7B-004, BE-04-7B-005, BE-04-7B-006, BE-04-7B-007 e BE-04-7B-008, com as alterações constantes das plantas nºs 26.933/01 a 26.933/09, classificação T-1202 do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei, descritos nos §§ 1º e 2º deste artigo.\n§ 1º. Para os Distritos de Itaim Bibi, Campo Belo e Jabaquara:\nI - abertura de vias ao longo do córrego Água Espraiada, desde a Av. Lino de Moraes Leme até as proximidades da Rua Leno, consistindo em uma via parque, com 2 (duas) vias laterais para distribuição de tráfego local, abrangendo uma faixa de largura variável para implantação de parque;\nII - abertura de 2 (duas) vias laterais de distribuição de tráfego local, desde a Av. Eng. Luís Carlos Berrini até a Av. Washington Luís, ao longo do trecho implantado da Av. Água Espraiada (atualmente denominada Av. Jornalista Roberto Marinho), abrangendo uma faixa de largura variável;\nIII - passagem em desnível nos cruzamentos com as seguintes vias:\na) Rua Guaraiúva / Rua Miguel Sutil;\nb) Rua Nova Iorque / Rua Pascoal Paes;\nc) Av. Santo Amaro;\nd) Av. Pedro Bueno;\ne) Av. Eng. George Corbisier;\nIV - execução de via expressa subterrânea em túnel, promovendo a ligação da atual Av. Jornalista Roberto Marinho à Rodovia dos Imigrantes, a partir das proximidades da Av. Pedro Bueno;\nV - execução de alças direcionais de acesso e saída para a Rodovia dos Imigrantes junto ao túnel de que trata o inciso IV deste parágrafo;\nVI - complexo viário com pontes sobre o Rio Pinheiros, interligando a Av. Água Espraiada (atualmente denominada Av. Jornalista Roberto Marinho), já executada, com as Marginais do Rio Pinheiros;\nVII - formação de parque entre as vias locais de que trata o inciso I deste parágrafo, visando a proteção ambiental.\n§ 2º. Para o Distrito de Santo Amaro:\nI - prolongamento da Av. Dr. Chucri Zaidan até a Rua da Paz;\nII - alargamento da Rua José Guerra, entre as ruas da Paz e Fernandes Moreira;\nIII - alargamento das ruas José Guerra e Prof. Manoelito de Ornelas, entre a Rua Fernandes Moreira e a Av. Alfredo Egídio de Souza Aranha;\nIV - alargamento da Rua Luís Seraphico Jr., desde a Praça Embaixador Ciro de Freitas Vale até a Av. Prof. Alceu Maynard Araújo;\nV - abertura de via entre a Av. Prof. Alceu Maynard Araújo e a Rua Ferreira do Alentejo;\nVI - alargamento da Rua Laguna, desde a Rua Ferreira do Alentejo até a Av. João Dias;\nVII - execução de via subterrânea em túnel sob a Rua José Guerra, no trecho entre as proximidades das ruas Antonio das Chagas e Dr. Aramis Ataide;\nVIII - execução de ponte entre as Pontes do Morumbi e João Dias, em razão de estudos exigidos pela Licença Ambiental Prévia nº 17/SVMA-G/2003, item 2-a, bem como sua ligação viária até o prolongamento da Av. Dr. Chucri Zaidan.\n§ 3º. Ficam igualmente aprovadas as concordâncias de alinhamentos constantes das plantas nºs BE-04-7B-006, BE-04-7B-007 e BE-04-7B-008, bem como das plantas nºs 26.933/01 a 26.933/09, classificação T-1202, do arquivo da Superintendência de Projetos Viários.\n§ 4º. Os imóveis atingidos pelos melhoramentos ora aprovados, bem como pelas obras complementares necessárias, serão declarados de utilidade pública para efeito de desapropriação.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - Esta lei será regulamentada pelo Poder Executivo, no prazo de 60 (sessenta) dias, contados da data de sua publicação.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nLUIZ PAULO TEIXEIRA FERREIRA, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 13.260, de 28/12/2001 was altered by acts of 5 date(s), the latest 2024-12-27."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13262",
+   "short": "Lei 13262/2001",
+   "title": "Lei nº 13.262, de 28/12/2001 (AUTORIZA O EXECUTIVO A ACEITAR DOACAO COM ENCARGO DOS IMOVEIS QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS. (PL 448/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13262-de-28-de-dezembro-de-2001",
+   "first_law": "lei-2001-13262",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13262-de-28-de-dezembro-de-2001",
+     "sha256": "2367c71af83699e3df8f47c778cf23cb629ce8d2f0248fdfb1866ddd241846c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.262, 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 448/98, do Executivo)\nAutoriza o Executivo a aceitar doação com encargo dos imóveis que especifica, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O Executivo fica autorizado a aceitar doação de imóveis localizados na Capela do Socorro, registrados no 11º Cartório de Registro de Imóveis de São Paulo, sob matrículas nºs 265.894, 265.895, 265.896, 265.897, 265.898, 265.899, 265.900, 265.901 e 265.902, cada um deles encerrando a área de 250,00m² (duzentos e cinqüenta metros quadrados), com o encargo de manter uma creche no local.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Todas as obrigações e débitos, quanto aos imóveis mencionados no artigo 1º desta lei, existentes até a data do recebimento do imóvel, em comodato, pela Prefeitura, serão de exclusiva responsabilidade dos doadores.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nEVILÁSIO CAVALCANTE DE FARIAS, Secretário Municipal de Assistência Social\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2001-13263",
+   "short": "Lei 13263/2001",
+   "title": "Lei nº 13.263, de 28/12/2001 (DESINCORPORA DA CLASSE DE BENS DE USO COMUM DO POVO AREAS DE PROPRIEDADE MUNICIPAL SITUADAS NO BUTANTA, E DA OUTRAS PROVIDENCIAS. (PL 636/98))",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13263-de-28-de-dezembro-de-2001",
+   "first_law": "lei-2001-13263",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-13263-de-28-de-dezembro-de-2001",
+     "sha256": "36adb5f341878c3d7ed5d3e6b4e18bc833790184c17ca87cd0f17417fe030fde",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 13.263, 28 DE DEZEMBRO DE 2001\n(Projeto de Lei nº 636/98, do Executivo)\nDesincorpora da classe de bens de uso comum do povo áreas de propriedade municipal situadas no Butantã, e dá outras providências.\nHÉLIO BICUDO, Vice-Prefeito, em exercício no cargo de Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 05 de dezembro de 2001, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam desincorporadas da classe dos bens de uso comum do povo e transferidas para a dos bens dominiais, as áreas de propriedade municipal situadas nas Ruas José Longo, Vera Janacopulos, Raul Soares, Antônio Augusto Filho, Bartolomeu Venetto, João Francisco de Melo, Francisco Francolino de Oliveira, Orlando Luppo, Camarazal e Avenida Pujais Sabate, no Butantã, destinadas à implantação do Programa de Verticalização e Urbanização de Favelas - PROVER/CINGAPURA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As áreas referidas no artigo anterior, configuradas na planta anexa nº A-12.675/00 do arquivo do Departamento Patrimonial, assim se descrevem:\nI - área delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, de formato irregular, com 2.229,50 m2 (dois mil, duzentos e vinte e nove metros e cinqüenta centímetros quadrados), localizada entre as Ruas José Longo, Vera Janacopulos e Raul Soares;\nII - área delimitada pelo perímetro 9-10-11-12-13-14-9, de formato irregular, com 4.990,00 m2 (quatro mil, novecentos e noventa metros quadrados), localizada entre a Rua Antônio Augusto Filho e a Avenida Pujais Sabate;\nIII - área delimitada pelo perímetro 15-16-17-18-19-20-21-15, de formato irregular, com 2.710,00 m2 (dois mil, setecentos e dez metros quadrados), localizada entre a Rua Bartolomeu Venetto e a Avenida Pujais Sabate;\nIV - área delimitada pelo perímetro 22-23-24-25-26-27-22, de formato irregular, com 1.850,00 m2 (um mil, oitocentos e cinqüenta metros quadrados), localizada entre as Ruas João Francisco de Melo e Francisco Francolino de Oliveira;\nV - área delimitada pelo perímetro 33-34-35-36-37-38-39-40-33, de formato irregular, com 2.932,70 m2 (dois mil, novecentos e trinta e dois metros e setenta centímetros quadrados), localizada entre as Ruas Orlando Luppo e Camarazal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Fica o Executivo autorizado a proceder à alienação das unidades habitacionais edificadas nas áreas descritas no artigo anterior, de acordo com as disposições estabelecidas pela Lei nº 12.217, de 2 de dezembro de 1996.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\nArt. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 2001, 448º da fundação de São Paulo.\nHÉLIO BICUDO, Prefeito em Exercício\nANNA EMILIA CORDELLI ALVES, Secretária dos Negócios Jurídicos\nFERNANDO HADDAD, Respondendo pelo Cargo de Secretário de Finanças e Desenvolvimento Econômico\nLUIZ PAULO TEIXEIRA FERREIRA, Secretário da Habitação e Desenvolvimento Urbano\nPublicada na Secretaria do Governo Municipal, em 28 de dezembro de 2001.\nRUI GOETHE DA COSTA FALCÃO, Secretário do Governo Munic\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
