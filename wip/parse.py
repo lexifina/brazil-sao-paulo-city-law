@@ -256,6 +256,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--today', required=True)
     ap.add_argument('--part-size', type=int, default=50)
+    ap.add_argument('--only-year', type=int, help='parse only this year (the others stay as they are)')
     a = ap.parse_args()
     why = {}
     act, l, w = act_of('lei-0-de-04-de-abril-de-1990', {'ementa': 'Lei Orgânica do Município de São Paulo'}, a.today,
@@ -268,6 +269,8 @@ def main():
     done = json.loads(done_p.read_text(encoding='utf-8')) if done_p.exists() else []
     left = {}
     for y in sorted(done):
+        if a.only_year and int(y) != a.only_year:
+            continue
         acts = {}
         for slug, e in sorted(idx.items()):
             if e['year'] != y or slug == 'lei-0-de-04-de-abril-de-1990' or 'REVOGADO(A)' in e['situacao']:
@@ -291,7 +294,10 @@ def main():
             for _, l in chunk:
                 laws.update(l)
             print(part(name, [x[0] for x in chunk], laws, a.today, f'the Leis of {y}'), len(chunk))
-    (HERE / 'left-out.json').write_text(json.dumps(left, indent=0, ensure_ascii=False), encoding='utf-8')
+    lp = HERE / 'left-out.json'
+    if a.only_year and lp.exists():
+        left = {**{k: v for k, v in json.loads(lp.read_text(encoding='utf-8')).items() if k not in left}, **left}
+    lp.write_text(json.dumps(left, indent=0, ensure_ascii=False), encoding='utf-8')
     print(why)
 
 
