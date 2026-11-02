@@ -1,0 +1,1364 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1976",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "13 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1976-08376": {
+   "label": "Lei nº 8.376, de 30/03/1976",
+   "title": "Discrimina os cargos de provimento por acesso, nos termos das disposições do Capítulo III da Lei nº 8.183, de 20 de dezembro de 1974, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-03-30",
+   "published": "1976-03-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8376-de-30-de-marco-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08382": {
+   "label": "Lei nº 8.382, de 13/04/1976",
+   "title": "Institui o cadastro de edificações do município e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-04-13",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8382-de-13-de-abril-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08383": {
+   "label": "Lei nº 8.383, de 13/04/1976",
+   "title": "Reorganiza o Serviço Funerário do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-04-13",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8383-de-13-de-abril-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08384": {
+   "label": "Lei nº 8.384, de 20/04/1976",
+   "title": "Dispõe sobre concessão de afastamento a Professores Substitutos do Ensino Municipal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-04-20",
+   "published": "1976-04-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8384-de-20-de-abril-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08401": {
+   "label": "Lei nº 8.401, de 08/06/1976",
+   "title": "Organiza o Departamento de Teatros, institui o quadro de atividades artísticas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-06-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8401-de-8-de-junho-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08406": {
+   "label": "Lei nº 8.406, de 16/06/1976",
+   "title": "Altera a redação dos artigos 21, 41 e 120 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-06-16",
+   "published": "1976-06-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8406-de-16-de-junho-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08424": {
+   "label": "Lei nº 8.424, de 18/08/1976",
+   "title": "Autoriza a celebração de novo contrato de concessão com a Companhia Municipal de Transportes Coletivos - CMTC, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-08-18",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8424-de-18-de-agosto-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08428": {
+   "label": "Lei nº 8.428, de 26/08/1976",
+   "title": "Modifica parcialmente os alinhamentos da Rua Heitor Penteado, aprovados pela Lei nº 7.358, de 25 de setembro de 1969, no limite dos 19º e 39º subdistritos - Perdizes e Vila Madalena, respectivamente.",
+   "kind": "law",
+   "enacted": "1976-08-26",
+   "published": "1976-08-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8428-de-26-de-agosto-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08429": {
+   "label": "Lei nº 8.429, de 26/08/1976",
+   "title": "Aprova plano de melhoramentos no 18º subdistrito - Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-08-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8429-de-26-de-agosto-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08435": {
+   "label": "Lei nº 8.435, de 14/09/1976",
+   "title": "Confere nova redação ao artigo 2º da Lei nº 8.212, de 06 de março de 1975, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-09-14",
+   "published": "1976-09-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8435-de-14-de-setembro-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08486": {
+   "label": "Lei nº 8.486, de 01/12/1976",
+   "title": "Aprova plano de melhoramentos nos 18º, 21º e 42º subdistritos - Ipiranga, Saúde e Jabaquara, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-12-01",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8486-de-1-de-dezembro-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08491": {
+   "label": "Lei nº 8.491, de 14/12/1976",
+   "title": "Dispõe sobre a reestruturação da Secretaria de Serviços e Obras, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-12-14",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8491-de-14-de-dezembro-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08497": {
+   "label": "Lei nº 8.497, de 20/12/1976",
+   "title": "Dispõe sobre remissão de débitos relativos à taxa de pavimentação e de serviços preparatórios de pavimentação; sobre insenção desse tributo e concessão de descontos sobre os valores venais dos imóveis urbanos, para fins de lançamento dos impostos predial e territorial urbano, no exercício 1977, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-12-20",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8497-de-20-de-dezembro-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1976-08376",
+   "short": "Lei 8376/1976",
+   "title": "Lei nº 8.376, de 30/03/1976 (Discrimina os cargos de provimento por acesso, nos termos das disposições do Capítulo III da Lei nº 8.183, de 20 de dezembro de 1974, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8376-de-30-de-marco-de-1976",
+   "first_law": "lei-1976-08376",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1976-03-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8376-de-30-de-marco-de-1976",
+     "sha256": "bc3f7d58e84b3d8beec2f0e617dda3d4d064f01f551ec35c43530519fb911a75",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8376, DE 30 DE MARÇO DE 1976.\nDiscrimina os cargos de provimento por acesso, nos termos das disposições do Capítulo III da Lei nº 8.183, de 20 de dezembro de 1974, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam reservados para provimento por acesso, nos termos das disposições do Capítulo III da Lei nº 8183, de 20 de dezembro de 1974, os cargos assim discriminados no Anexo que integra a presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica parcialmente modificado o Anexo II da Lei nº 8183, de 20 de dezembro de 1974, em conformidade com as alterações resultantes das transferências de cargos constantes do mesmo Anexo a que se refere o artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As modificações de natureza dos cargos de chefia lotados na Coordenações das Administrações Regionais e nas Administrações Regionais, que passam de provimento em comissão a provimento efetivo por acesso, entrarão em vigor a 1º de março de 1979, salvo casos especiais em que a transformação, antes dessa data, venha a ser objeto de lei específica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os cargos criados pela Lei nº 8099, de 12 de agosto de 1974, e que constam do Anexo integrante desta lei, serão providos por acesso mediante concurso de provas, observadas as condições dos padrões de eficiência estabelecidos para as funções correspondentes do quadro do pessoal extranumerário-diarista.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 30 de março de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Pereira de Almeida\nO Secretário Municipal de Educação, Hilário Torloni\nO Secretário de Abastecimento, Mário Osassa\nO Secretário de Serviços e Obras, Aurélio Araújo\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Armando Simões Neto\nO Secretário Municipal de Transporte, Olavo Guimarães Cupertino\nO Secretário Municipal de Esportes, Caio Sérgio Pompeu de Toledo\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 30 de março de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08382",
+   "short": "Lei 8382/1976",
+   "title": "Lei nº 8.382, de 13/04/1976 (Institui o cadastro de edificações do município e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8382-de-13-de-abril-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08382"
+   ],
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8382-de-13-de-abril-de-1976",
+     "sha256": "189a45b0bc3f81998cdf16cba9e15e328455ac60be4280451b113693efbddadb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8382 DE 13 DE ABRIL DE 1976.\nInstitui o cadastro de edificações do município, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 2 de abril de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Cadastro de Edificações do Município, destinado ao registro de todo e qualquer tipo de edificação.\n§ 1º O Cadastro de Edificações conterá, entre outros, os seguintes dados:\nI - Local do imóvel;\nII - Nome do proprietário e respectivo endereço;\nIII - Número de registro no Cadastro;\nIV - Testada e área do lote;\nV - Área ocupada do terreno e área total da construção.\n§ 2º O Cadastro será dividido em setores específicos para Edificações Regulares e para Edificações Irregulares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Na implantação do Cadastro de Edificações do Município serão incluídas, inicialmente, as edificações constantes do Cadastro Imobiliário Fiscal, tomando-se por base os dados a que se refere o § 1º do artigo anterior, registrados a 1º de janeiro de 1976, observado o seguinte procedimento:\nI - No setor de Edificações Regulares serão registradas:\na) as edificações que, em 1º de janeiro de 1976, estejam tributadas sem os acréscimos previstos em lei, decorrentes da falta de Auto de Conclusão (Habite-se ou Auto de Vistoria) ou de Auto de Conservação;\nb) as moradias econômicas com áreas construída de, no máximo, 72m², ainda que, em 1º de janeiro de 1976, estejam tributadas com os acréscimos previstos em lei, decorrentes da falta de Auto de Conclusão (Habite-se ou Auto de Vistoria) ou de Auto de Conservação;\nII - No setor de Edificações Irregulares serão registradas as edificações que, na data mencionada no item anterior, estejam tributadas com os acréscimos ali referidos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Cadastro de Edificações serão também incluídas:\nI - No setor de Edificações Regulares, as edificações para as quais tenha sido ou venha a ser expedido Auto de Conclusão (Habite-se ou Auto de Vistoria) ou Auto de Conservação;\nII - No setor de Edificações Irregulares, as edificações:\na) que não constem do Cadastro Imobiliário Fiscal em 1º de janeiro de 1976 e para as quais não venha a ser expedido Auto de Conclusão ou Auto de Conservação;\nb) que se apresentem, a qualquer tempo, em desconformidade com os dados cadastrados, ressalvado o disposto nos artigos 4º e 5º;\nc) que, em razão do desvirtuamento da destinação dos terrenos a elas vinculados em decorrência de lei, passem a infringir a legislação de zoneamento ou de edificações;\nd) cuja regularidade seja objeto de procedimento judicial.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A requerimento dos interessados, poderão ser feitas correções ou retificações nos dados constantes do setor de Edificações Regulares, as quais, após regularmente processadas, serão incluídas nos certificados que vierem a ser expedidos na conformidade do artigo 7º.\nParágrafo Único. As retificações ou correções serão efetivadas após comprovado, pelos órgãos técnicos, que não implicam em violação da legislação vigente à época da execução\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O registro no Cadastro de Edificações do Município não implica no reconhecimento da regularidade do uso dado ao imóvel, objeto de controle específico por meio do \"Certificado de Uso\", ou da regularidade da situação fiscal do imóvel.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Com base no Cadastro de Edificações, ora criado, a Prefeitura, utilizando-se dos serviços de processamento de dados, expedirá, \"ex officio\", aos interessados, nas hipóteses previstas no item I do artigo 2º, no item I do artigo 3º, e nos artigos 4º e 5º, um Certificado de Regularidade de Edificação, onde serão transcritos os dados constantes do cadastro.\nParágrafo Único. Nas mesmas hipóteses, será igualmente expedido o Certificado a que se refere este artigo, sempre que solicitado pelos interessados.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Certificado de Regularidade de Edificação referido no artigo anterior será considerado documento hábil para os efeitos previstos nos artigos 524, 525, 558, 559, 560, 561, e 562 da Lei nº 8266, de 20 de junho de 1975, bem como para fins comprobatórios perante os cartórios de Registro de Imóveis, nos termos da legislação federal pertinente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O registro das edificações, no Cadastro ora criado, não exime os proprietários das glebas arruadas ou os respectivos responsáveis das obrigações que lhes cabem em virtude da legislação aplicável ao parcelamento do solo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 As providências de que trata esta lei, a seguir indicadas, ficarão sujeitas:\nI - Nas hipóteses do artigo 4º e do parágrafo único do artigo 7º - ao prévio pagamento do preço dos serviços administrativos;\nII - Na hipótese do artigo 5º ao prévio pagamento da taxa de licença para obras, construções, armamentos e loteamentos (exame e verificação de projetos de construções em geral).\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 Os imóveis mencionados no artigo 2º, item I, alínea \"b\", registrados no Cadastro Imobiliário Fiscal em 1º de janeiro de 1976, ficam isentos, a partir do exercício de 1977, inclusive, dos acréscimos tributários previstos em lei, decorrentes da falta de Auto de Conclusão (Habite-se ou Auto de Vistoria) ou de Auto de Conservação.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 13 de abril de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário de Serviços e Obras, Aurélio Araújo\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 13 de abril de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.382, de 13/04/1976 was altered by acts of 2 date(s), the latest 2017-05-09."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08383",
+   "short": "Lei 8383/1976",
+   "title": "Lei nº 8.383, de 13/04/1976 (Reorganiza o Serviço Funerário do Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8383-de-13-de-abril-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08383"
+   ],
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8383-de-13-de-abril-de-1976",
+     "sha256": "d07dba80c4771150c92dd68aab544b4f2dbfad424e9b089a9ead7b179ff43f74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.383, DE 19 DE ABRIL DE 1976.\nReorganiza o Serviço Funerário do Município de São Paulo, e dá outras providências.\nOlavo Egydio Setúbal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei.\nFaço saber que a Câmara Municipal, em sessão de 2 de abril de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "## CAPITULO I\n## Da Natureza, Denominação e Competência.\nArt.1º - O Serviço Funerário do Município de São Paulo, entidade autárquica, criada pela Lei nº 5.562, de 13 de novembro de 1958, alterada pela Lei nº 7.430, de 24 de março de 1970, diretamente vinculada à Secretaria de Serviços e Obras, com sede e foro na cidade de São Paulo, personalidade jurídica, patrimônio próprio e autonomia financeira, será regido pela presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Compete ao Serviço Funerário do Município de São Paulo, por meio de Concessionárias, a prestação dos serviços cemiteriais e funerários.\nParágrafo único. O Poder Executivo regulamentará o disposto no \"caput\" deste artigo, observadas as normas técnicas vigentes.\n"
+      },
+      "art-0003": {
+       "label": "Art.3º",
+       "kind": "article",
+       "text": "Art.3º - O Serviço Funerário do Município de São Paulo prestará também, quando solicitado, serviços auxiliares ou complementares, tais como:\nI - Fornecimento de aparelhos de ozona;\nII -\nIII - Providências administrativas junto aos Cartórios de Registro Civil e Cemitérios.\nParágrafo único - Outros serviços, relacionados com a finalidade da Autarquia, poderão ser executados, a critério da Administração Municipal.\n"
+      },
+      "art-0004": {
+       "label": "Art.4º",
+       "kind": "article",
+       "text": "Art.4º - A forma de execução dos serviços funerários será objeto de regulamentação, definindo-se as classes, padrões, os tipos de caixões e paramentos, a espécie de transporte e os serviços auxiliares complementares.\n"
+      },
+      "art-0005": {
+       "label": "Art.5º",
+       "kind": "article",
+       "text": "## CAPITULO II\n## Dos Órgãos Diretores\nArt.5º - O Serviço Funerário do Município de São Paulo será dirigido por um Superintendente e por um Conselho Deliberativo e Fiscal, composto de 4 (quatro) membros, constituindo-se, na forma que for estabelecida em decreto, de setores Administrativos e setores Técnicos.\nSECÇÃO I\nDos Conselhos Deliberativo e Fiscal\n"
+      },
+      "art-0006": {
+       "label": "Art.6º",
+       "kind": "article",
+       "text": "Art.6º - Os Conselhos Deliberativo e Fiscal compõem-se de:\na) Presidente, de livre nomeação e demissão pelo Prefeito, dentre pessoas de comprovada experiência e capacidade;\nb) Superintendente do Serviço Funerário do Município de São Paulo, como membro nato;\nc) 2 (dois) representantes da Secretaria de Serviços e Obras, nomeados pelo Prefeito, por indicação do titular daquela Pasta.\nParágrafo único - O mandato dos Conselheiros terá a duração de 2 (dois) anos, permitida a recondução.\n"
+      },
+      "art-0007": {
+       "label": "Art.7º",
+       "kind": "article",
+       "text": "Art.7º - Ao Conselho Deliberativo e Fiscal compete:\nI - Deliberar sobre:\na) planos do Serviço Funerário do Município de São Paulo, bem como suas modificações;\nb) celebração de contrato em geral, inclusive convênios com entidades públicas ou particulares;\nc) orçamento e programas anuais de trabalho;\nd) concessões para exploração de bens da Autarquia;\ne) regulamento interno da Autarquia;\nf) relatórios e prestação de contas anuais do Superintendente;\ng) alienação de bens imóveis.\nII - Aprovar os balancetes mensais e anuais, encaminhando-os ao Prefeito, por intermédio do Superintendente e do Secretario de Serviços e Obras, para os efeitos legais;\nIII - Aprovar a criação e estruturação dos serviços, cargos e funções necessários ao desempenho das atribuições do Serviço Funerário do Município de São Paulo, bem como a fixação do quadro de seu pessoa e respectiva remuneração, encaminhando-os ao Prefeito, por intermédio do Superintendente e do Secretario de Serviços e Obras;\nIV - Aprovar a proposta orçamentária para o exercício subseqüente e remete-la à Prefeitura com seu parecer, por intermédio do Superintendente, para apreciação do Secretario de Serviços e Obras e aprovação do Prefeito, observados os prazos legais;\nV - Manifestar-se a respeito de quaisquer assuntos afetos à Autarquia, \"ex oficio\" ou a pedido da Superintendência.\nVI - Elaborar o seu Regimento Interno.\n§1º - O Conselho Deliberativo e Fiscal reunir-se-á, ordinariamente, uma vez por semana e, extraordinariamente, sempre que necessário, mediante convocação do Presidente.\n§2º - No caso de impedimento do Presidente, a reunião do Conselho poderá ser convocada pelo Superintendente, funcionando nesse caso, sob a Presidência do mais idoso de seus membros presente à reunião.\n§3º - As deliberações do Conselho serão tomadas por maioria de votos dos membros presentes, cabendo ao Presidente, nos casos de empate, além do voto comum, o de desempate.\n§4º - O Superintendente do Serviço Funerário do Município de São Paulo não terá, no Conselho, direito a voto, nas deliberações referentes à prestação anual de contas da Superintendência.\n§5º - As deliberações do Conselho serão, imediata e obrigatoriamente, submetidas à aprovação do Secretario de Serviços e Obras, através do Superintendente.\nSECÇÃO II\nDo Superintendente\n"
+      },
+      "art-0008": {
+       "label": "Art.8º",
+       "kind": "article",
+       "text": "Art.8º - Ao Superintendente, de livre nomeação e demissão pelo Prefeito, dentre pessoas de nível universitário ou de comprovada experiência e capacidade profissional compete:\na) administrar a Autarquia;\nb) representar o Serviço Funerário do Município de São Paulo, ativa e passivamente, judicial e extrajudicialmente;\nc) submeter à deliberação do Conselho Deliberativo e Fiscal, todos os assuntos da competência desse órgão;\nd) admitir e dispensar o pessoal da Autarquia, bem como definir suas atribuições de acordo com as leis e regulamentos vigentes;\ne) movimentar os fundos da Autarquia, emitir títulos de credito e autorizar pagamentos, assinando, juntamente com o responsável pelo setor de Contabilidade, os respectivos cheques, observadas as exigências legais e regulamentares;\nf) elaborar e submeter ao Conselho Deliberativo e Fiscal, para ulterior aprovação do Secretario de Serviços e Obras, os programas anuais de trabalho e respectivos orçamentos;\ng) aprovar os processos e documentos relativos às concorrências procedidas e adjudicar as obras e serviços aos concorrentes declarados vencedores, obedecidas as disposições legais;\nh) autorizar dispensa de concorrência pública nos casos previstos em lei;\ni) instaurar sindicância e inquéritos administrativos e aplicar penalidades a servidores;\nj) submeter à aprovação do Conselho Deliberativo e Fiscal os projetos de organização ou reorganização dos serviços da Autarquia, encaminhando-os ao Prefeito, por intermédio da Secretaria de Serviços e Obras;\nl) promover as medidas necessárias à elaboração , pelos órgãos competentes, do orçamento anual da Autarquia, em prazo que possibilite a respectiva aprovação em tempo hábil, de acordo com a legislação em vigor;\nm) apresentar ao Conselho Deliberativo e Fiscal, para os fins previstos em lei, balancetes trimestrais e, anualmente, balanço e relatório circunstanciado;\nn) exercer outras atribuições que lhe forem cometidas em regulamento.\n§1º - O Superintendente poderá delegar atribuições a servidores categorizados da Autarquia, mediante previa autorização do Secretario de Serviços e Obras.\n§2º - Nos impedimentos e faltas do Superintendente, suas funções serão desempenhadas por servidores da Autarquia, na forma que dispuser o regulamento.\n"
+      },
+      "art-0009": {
+       "label": "Art.9º",
+       "kind": "article",
+       "text": "## CAPITULO III\n## Da Estrutura\n## SECÇÃO I\n## Do Setor de Contabilidade\nArt.9º - Ao Setor de Contabilidade compete:\na) a orientação e controle geral dos registros contábeis;\nb) o controle orçamentário dos bens patrimoniais;\nc) os controles do almoxarifado e dos débitos e créditos da Autarquia;\nd) fornecer ao Conselho Deliberativo e Fiscal, através do Superintendente, em tempo hábil, balancetes e balanços;\ne) desempenhar outras atribuições pertinentes ao Setor, que lhe sejam cometidas em regulamento;.\n"
+      },
+      "art-0010": {
+       "label": "Art.10",
+       "kind": "article",
+       "text": "Art.10 - O plano de contas da Autarquia será organizado pelo Setor Contábil e aprovado pelos órgãos competentes da Secretaria das Finanças.\n"
+      },
+      "art-0011": {
+       "label": "Art.11",
+       "kind": "article",
+       "text": "Art.11 - A proposta orçamentária do ano subseqüente será preparada pelo Órgão Contábil da Autarquia e encaminhada à aprovação do Conselho Deliberativo Fiscal.\nSECÇÃO II\nDo Setor de Tesouraria\n"
+      },
+      "art-0012": {
+       "label": "Art.12",
+       "kind": "article",
+       "text": "Art.12 - Ao Setor de Tesouraria compete:\na) efetuar os pagamentos e recebimentos depois de devidamente autorizados, na forma da legislação em vigor;\nb) fornecer os elementos necessários à boa ordem dos registros contábeis, obedecidas as normas da legislação vigente;\nc) desempenhar outras atribuições atinentes à sua especialidade, que lhe sejam cometidas em regulamento.\n"
+      },
+      "art-0013": {
+       "label": "Art.13",
+       "kind": "article",
+       "text": "## CAPITULO IV\n## Do Orçamento.\nArt.13 - No orçamento anual, a receita e a despesa serão classificadas de acordo com a legislação aplicável ao Município.\n"
+      },
+      "art-0014": {
+       "label": "Art.14",
+       "kind": "article",
+       "text": "Art.14 - Nenhuma despesa será ordenada ou satisfeita, sem que exista recurso hábil para seu atendimento.\n"
+      },
+      "art-0015": {
+       "label": "Art.15",
+       "kind": "article",
+       "text": "## CAPITULO V\n## Da Administração Financeira\nArt.15 - A aquisição de materiais e a execução de obras e serviços serão efetuadas na forma da legislação em vigor.\n"
+      },
+      "art-0016": {
+       "label": "Art.16",
+       "kind": "article",
+       "text": "Art.16 - Serão enviados à Prefeitura, trimestralmente, até o ultimo dia do mês seguinte, balancetes acompanhados das respectivas demonstrações.\n"
+      },
+      "art-0017": {
+       "label": "Art.17",
+       "kind": "article",
+       "text": "Art.17 - O balanço anual será enviado à Prefeitura, até o dia 31 de janeiro, obedecidas as disposições legais.\n"
+      },
+      "art-0018": {
+       "label": "Art.18",
+       "kind": "article",
+       "text": "## CAPITULO VI\n## Do regime do Pessoal\nArt.18 - O pessoal da Autarquia será admitido ou contratado mediante concurso, seleção ou prova de capacidade e inspeção de saúde.\n"
+      },
+      "art-0019": {
+       "label": "Art.19",
+       "kind": "article",
+       "text": "Art.19 - O regime jurídico a que ficarão sujeitos os servidores da Autarquia é o estabelecido pela legislação municipal e pela Consolidação das Leis do Trabalho.\n"
+      },
+      "art-0020": {
+       "label": "Art.20",
+       "kind": "article",
+       "text": "Art.20 - O Executivo criará, modificará, extinguirá e denominará por decreto, os setores técnicos e administrativos, bem como os cargos e funções necessários ao funcionamento do Serviço Funerário do Município de São Paulo.\n"
+      },
+      "art-0021": {
+       "label": "Art.21",
+       "kind": "article",
+       "text": "Art.21 - A remuneração do pessoal, inclusive do Superintendente e dos membros do Conselho Deliberativo e Fiscal, será estabelecida por decreto executivo.\n"
+      },
+      "art-0022": {
+       "label": "Art.22",
+       "kind": "article",
+       "text": "Art.22 - Aos cargos e funções da Autarquia serão atribuídos padrões de vencimento e gratificações idênticas aos existentes na Prefeitura, quando houver.\n"
+      },
+      "art-0023": {
+       "label": "Art.23",
+       "kind": "article",
+       "text": "## CAPITULO VII\n## Da Fiscalização\nArt.23 - Os encargos de fiscalização financeira, econômica e contábil serão exercidos pelos órgãos próprios da Prefeitura.\n"
+      },
+      "art-0024": {
+       "label": "Art.24",
+       "kind": "article",
+       "text": "Art.24 - Para os efeitos de que trata o artigo anterior, fica assegurado aos funcionários municipais dela incumbidos, livre acesso a qualquer dependência, instalação e serviço da Autarquia, ressalvado à sua Administração o direito de assistir ou de fazer-se representar em todas as visitas e inspeções.\n"
+      },
+      "art-0025": {
+       "label": "Art.25",
+       "kind": "article",
+       "text": "Art.25 - A fiscalização e revisão tarifárias serão exercidas pela Secretaria de Serviços e Obras e, após examinadas as necessidades de alterações das tarifas, serão elas submetidas à aprovação do Prefeito.\nCAPITUO VIII\nDa Receita\n"
+      },
+      "art-0026": {
+       "label": "Art.26",
+       "kind": "article",
+       "text": "Art.26 - A receita do Serviço Funerário do Município de São Paulo serão constituída dos seguintes recursos:\na) taxas específicas criadas pela Prefeitura e arrecadadas pela Autarquia;\nb) tarifas e emolumentos cobrados pelos serviços executados pela Autarquia;\nc) juros e depósitos bancários/\nd) alugueis de bens patrimoniais;\ne) cauções e depósitos que reverterem aos cofres da Autarquia, por inadimplemento contratual;\nf) produto de alienações de materiais inservíveis ou de bens patrimoniais que se tornarem desnecessários aos serviços;\ng) legados, donativos de quaisquer outras rendas;\nh) salários não reclamados;\ni) subvenções, particulares ou públicas;\nj) auxílios, particulares ou públicos;\nk) produção de operação de credito realizada nos termos da legislação vigente.\n"
+      },
+      "art-0027": {
+       "label": "Art.27",
+       "kind": "article",
+       "text": "## CAPITULO IX\n## Da Estrutura Econômico-Industrial\nArt.27 - O Serviço Funerário do Município de São Paulo obedecerá às normas consagradas no regime de serviço pelo custo, a fim de garantir a equação econômico-financeira, mediante taxas e tarifas justas e adequadas, que permitam a manutenção e a renovação das instalações, maquinas e equipamentos, bem como o custeio das despesas de operação.\n"
+      },
+      "art-0028": {
+       "label": "Art.28",
+       "kind": "article",
+       "text": "Art.28 - Para garantir o equilíbrio entre a receita e a despesa, nos exercícios de renda insuficiente, fica criado, junto à Autarquia, um \"Fundo de Manutenção e Melhoria\".\n§1º - O fundo será formado em cada exercício, por excesso de receita em relação à despesa, entendido como despesa o custo do serviço, como definido no artigo anterior.\n§2º - Na apuração da receita total não serão computadas eventuais subvenções.\n§3º - O saldo acumulado no \"Fundo de Manutenção e Melhoria\" não poderá ultrapassar a 15% do investimento resultante em 31 de dezembro do exercício anterior e os eventuais excessos serão utilizados a credito do \"custo dos serviços\" no exercício subseqüente.\n§4º - O \"Fundo de Manutenção e Melhoria\" terá uma conta especifica no \"plano de contas\" da Autarquia e todas as suas movimentações serão clara e separadamente evidenciadas.\n§5º - As movimentações a debito do \"Fundo de Manutenção e Melhoria\" exigirão a aprovação do Conselho Deliberativo e Fiscal da Autarquia.\n§6º - A aplicação dos recursos orçamentários oriundos do fundo far-se-á através de dotações especificas consignadas na Lei de Meios, na forma prevista no artigo 72 da Lei Federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0029": {
+       "label": "Art.29",
+       "kind": "article",
+       "text": "## CAPITULO X\n## Disposições Finais\nArt.29 - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias da Autarquia.\n"
+      },
+      "art-0030": {
+       "label": "Art.30",
+       "kind": "article",
+       "text": "Art.30 - Revogadas as disposições em contrário e, em especial as Leis nºs 3.773, de 24 de junho de 1949, 5.562, de 13 de novembro de 1958 e 7.430, de 24 de março de 1970, esta lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 19 de abril de 1976, 423° da fundação de São Paulo.\nOLAVO EGYDIO SETÚBAL, Prefeito\nTEÓFILO RIBEIRO DE ANDRADE FILHO, Secretário de Negócios Internos e Jurídicos\nSÉRGIO SILVA DE FREITAS, Secretário das Finanças\nAURÉLIO ARAUJO, Secretário de Serviços e Obras\nCLÁUDIO SALVADOR LEMBO, Secretário dos Negócios Extraordinários\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.383, de 13/04/1976 was altered by acts of 4 date(s), the latest 2019-09-25."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08384",
+   "short": "Lei 8384/1976",
+   "title": "Lei nº 8.384, de 20/04/1976 (Dispõe sobre concessão de afastamento a Professores Substitutos do Ensino Municipal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8384-de-20-de-abril-de-1976",
+   "first_law": "lei-1976-08384",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1976-04-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8384-de-20-de-abril-de-1976",
+     "sha256": "12971427b484fc52412895f52aad5e21ee0b280b17793510107fb9e7201ada6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.384 DE 20 DE ABRIL DE 1976.\nDispõe sobre concessão de afastamento a Professores Substitutos do Ensino Municipal, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 2 de abril de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Dependerão de concessão do Secretário Municipal de Educação, mediante solicitação do interessado e após audiência do Diretor do Departamento Municipal de Ensino ou do Departamento de Educação Infantil, as seguintes medidas referentes aos Professores Substitutos:\na) afastamento por gestação, até 120 dias;\nb) afastamento para tratamento da própria saúde, até 60 dias;\nc) afastamento por motivo de gala ou nojo, até 8 dias;\nd) afastamento por motivo de força maior, devidamente justificado, até 60 dias por ano, sem remuneração.\nParágrafo Único - As solicitações previstas neste artigo deverão, em qualquer caso, ser instruídos com comprovantes, exigindo-se inspeção ou reinspeção por médico da Prefeitura, nos casos a que se referem as letras \"a\" e \"b\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nos casos de afastamento com base nas letras \"a\", \"b\" e \"c\" do artigo anterior, o Professor Substituto não perderá o direito à remuneração fixada no artigo 21, § 3º, da Lei nº 7.693, de 6 de janeiro de 1972.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Professor Substituto, afastado para tratamento da própria saúde não poderá dedicar-se a qualquer atividade remunerada, sob pena de ter cancelado o afastamento e de ser dispensado por abandono de serviço.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Professor Substituto poderá desistir do afastamento desde que, mediante inspeção médica, seja considerado apto para o exercício.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data da sua publicação, revogados o artigo 22 da Lei nº 7.693, de 6 de janeiro de 1972, e demais disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de abril de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças respondendo pelo expediente, Epaminondas José da Cunha\nO Secretário Municipal de Educação, Hilário Torloni\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito em 20 de abril de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08401",
+   "short": "Lei 8401/1976",
+   "title": "Lei nº 8.401, de 08/06/1976 (Organiza o Departamento de Teatros, institui o quadro de atividades artísticas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8401-de-8-de-junho-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08401"
+   ],
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8401-de-8-de-junho-de-1976",
+     "sha256": "5429f227a247b39f827b3fbca8727355543d78c1fbe03280d19e5323785d7801",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8401, DE 8 DE JUNHO DE 1976.\nOrganiza o Departamento de Teatros, institui o quadro de atividades artísticas, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 2 de junho de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei organiza o Departamento de Teatros da Secretaria Municipal de Cultura, criada pela Lei nº 8204, de 13 de janeiro de 1975, e institui o Quadro de Atividades Artísticas, observadas as diretrizes básicas da Lei nº 8183, de 20 de dezembro de 1974.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As atividades artísticas correspondem às atribuições do pessoal que integra os Corpos Estáveis, as Unidades de Iniciação Artística e os Órgãos de Apoio Técnico e Cenotécnico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## Capítulo I\n## DO DEPARTAMENTO DE TEATROS\nArt. 3º O Departamento de Teatros compreende:\nI - Diretoria;\nII - Coordenação dos Corpos Estáveis;\nIII - Coordenação das Unidades de Iniciação Artística;\nIV - Coordenação e Supervisão Cenotécnica dos Teatros Municipais;\nV - Divisão Administrativa;\nVI - Teatros e Auditórios.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Gabinete da Diretoria é composta de:\nI - Diretor Técnico e Artístico do Departamento;\nII - Assistência Técnica e Artística;\nIII - Assistência Jurídica;\nIV - Assistência de Divulgação;\nV - Auxiliar de Gabinete;\nVI - Seção de Contabilidade;\nVII - Seção de Contratos;\nVIII - Seção de Redação Artística e Programação Visual;\nIX - Teatros e Auditórios.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º À Coordenação dos Corpos Estáveis estão subordinados:\nI - A Orquestra Sinfônica Municipal;\nII - O Corpo de Baile Municipal;\nIII - O Coral Municipal, constituído do Coral Lírico e do Coral Paulistano;\nIV - A Seção de Arquivo Artístico, com um Serviço de Cópias e Reprografia.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º À Coordenação das Unidades de Iniciação Artística estão subordinadas:\nI - A Orquestra Sinfônica Jovem;\nII - A Escola Municipal de Música;\nIII - A Escola Municipal de Bailado.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º À Coordenação e Supervisão Cenotécnica dos Teatros Municipais estão subordinadas:\nI - A Seção de Cenotécnica, com os seguintes Serviços:\na) Carpintaria;\nb) Pintura;\nc) Decoração;\nd) Adereços;\nII - A Seção de Guarda-Roupa, com os seguintes Serviços:\na) Costura;\nb) Chapelaria;\nc) Sapataria;\nd) Maquiagem;\ne) Peruqueria;\nIII - A Seção de Serviços Técnicos de Palco e Produção, com os seguintes Serviços:\na) Produção;\nb) Maquinaria de Palco;\nc) Montagem e Guarda de Instrumentos;\nd) Sonoplastia;\ne) Contrarregra;\nf) Acessórios;\ng) Mecânica;\nIV - A Seção de Iluminação, com os seguintes Serviços:\na) Eletrônica;\nb) Iluminação;\nV - A Seção de Equipamento Geral e Almoxarifado Técnico.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Divisão Administrativa constitui-se de:\nI - Diretoria da Divisão;\nII - Seção de Expediente;\nIII - Seção de Pessoal;\nIV - Seção de Almoxarifado;\nV - Seção de Zeladoria, com um Serviço de Vigilância e Portaria;\nVI - Serviço de Bilheteria, com uma Agência Arrecadadora.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Observadas as normas de competência do Departamento de Teatros, fixadas pelo artigo 14 da Lei nº 8204, de 13 de janeiro de 1975, as atribuições específicas de suas unidades serão definidas por decreto.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 Os cargos de direção, assistência, coordenadoria e chefia necessários à estrutura do Departamento de Teatros, nos termos da Organização que ora lhe é dada, são definidos no Anexo I, que integra a presente lei, passando a fazer parte do Quadro Geral do Pessoal.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Capítulo II\n## DO QUADRO DE ATIVIDADES ARTÍSTICAS\nArt. 11 Os cargos de provimento efetivo e em comissão do Quadro de Atividades Artísticas são definidos no Anexo II, integrante desta lei, com suas respectivas denominações e referências de vencimento.\nParágrafo Único.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 O Quadro de Atividades Artísticas constitui-se de:\nI - Quadro dos Corpos Estáveis:\na) Orquestra Sinfônica Municipal;\nb) Coral Municipal;\nc) Corpo de Baile Municipal;\nII - Quadro das Unidades de Iniciação Artística:\na) Orquestra Sinfônica Jovem;\nb) Escola Municipal de Música;\nc) Escola Municipal de Bailado;\nIII - Quadro dos Órgãos de Apoio:\na) Técnico;\nb) Cenotécnico.\nParágrafo Único.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## Capítulo III\n## DA AJUDA DE CUSTO E DAS GRATIFICAÇÕES\nArt. 13\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## Capítulo IV\n## DO REGIME DE TRABALHO\nArt. 16 Os integrantes do Quadro de Atividades Artísticas ficam sujeitos ao regime ordinário de trabalho, de acordo com as normas legais vigentes para o funcionalismo municipal em geral.\nParágrafo Único. Normas especiais de horário de trabalho serão baixadas pela Secretaria Municipal de Cultura, consideradas as peculiaridades de cada atividade.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Capítulo V\n## DISPOSIÇÕES FINAIS\nArt. 17 Aplicam-se ao pessoal do Quadro de Atividades Artísticas, no que for cabível, as normas da Lei nº 8183, de 20 de dezembro de 1974, bem como as normas estatutárias que regem os funcionários públicos municipais.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 Os atuais cargos de direção, assistência, coordenadoria e chefia do Departamento de Teatros ficam alterados na conformidade do disposto no Anexo I desta lei.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 Os atuais cargos que compõem os Corpos Estáveis, as Unidades de Iniciação Artística e os Órgãos de Apoio ficam alterados em conformidade com o disposto no Anexo II desta lei.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 Ficam criados os cargos que, não figurando na coluna \"Situação Atual\", são discriminados na coluna \"Situação Nova\" dos Anexos I e II desta lei.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 São criadas as funções gratificadas constantes do Anexo III desta lei.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 Ficam extintos os cargos que, figurando na coluna \"Situação Atual\", não apareçam na coluna \"Situação Nova\", dos Anexos I e II desta lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 A remuneração do pessoal contratado será fixada em decreto do Executivo.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 Poderão ser admitidos, para o Corpo de Baile Municipal, até dez estagiários, aos quais serão atribuídas bolsas de estudo, observados os princípios da Lei nº 7742, de 9 de junho de 1972, e legislação complementar regulamentadora.\nParágrafo Único. Os estagiários e as bolsas de estudo, que não poderão exceder a duração de dois anos, serão destinados a cinco estagiários do sexo masculino e cinco do sexo feminino, os quais deverão estar dentro dos limites mínimo e máximo, respectivamente, de 15 e 22 anos.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 As reclassificações dos cargos discriminados nos Anexos que integram esta lei estendem-se ao pessoal inativo cuja situação, quando em atividade, tem correspondência com os cargos reclassificados.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 Fica extinta a Assessoria de Expansão Cultural da Secretaria Municipal de Cultura, mantida a Seção de Administração a que se refere o artigo 13 da Lei nº 8204, de 13 de janeiro de 1975, a qual passa a integrar o Gabinete do Secretário, com as atribuições que lhe forem conferidas em regulamento.\nParágrafo Único. O cargo de chefe da referida seção fica incluído na Tabela I (PPI), do Quadro Geral do Pessoal.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 3829, de 28 de dezembro de 1949; a Lei nº 3937, de 29 de agosto de 1950; a Lei nº 7137, de 6 de maio de 1968; o artigo 2º da Lei nº 7265, de 17 de janeiro de 1969; a Lei nº 8094, de 8 de agosto de 1974; o item III do artigo 3º, os artigos 4º, 5º, 6º, 7º, 8º, 9º, 12, 13, 27 e 28 da Lei nº 8204, de 13 de janeiro de 1975; e os artigos 4º e 10 da Lei nº 8210, de 4 de março de 1975.\nPrefeitura do Município de São Paulo, aos 8 de junho de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 8 de junho de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.401, de 08/06/1976 was altered by acts of 2 date(s), the latest 2001-07-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08406",
+   "short": "Lei 8406/1976",
+   "title": "Lei nº 8.406, de 16/06/1976 (Altera a redação dos artigos 21, 41 e 120 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8406-de-16-de-junho-de-1976",
+   "first_law": "lei-1976-08406",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1976-06-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8406-de-16-de-junho-de-1976",
+     "sha256": "1d821d27be2c477c2a573880b54372b597a105301ac1ee9a4a41ecf5c032ba4d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.406, DE 16 DE JUNHO DE 1976.\nAltera a redação dos artigos 21, 41 e 120 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 9 de junho de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os artigos 21 e 41 da Lei nº 6.989, de 29 de dezembro de 1966, com a alteração da Lei nº 7.954, de 20 de novembro de 1973, passam a ter a seguinte redação:\nI - \"Art. 21 Não será admitido o pagamento de qualquer prestação sem que estejam quitadas todas as anteriores.\n§ 1º Observado o disposto neste artigo, e enquanto não vencida a última prestação, poderá ser efetuado o pagamento de quaisquer parcelas.\n§ 2º Decorrido o prazo fixado para pagamento da última prestação, somente será admitido o pagamento integral do débito, que será considerado vencido à data da primeira prestação não paga.\n§ 3º O débito vencido permanecerá em cobrança amigável, na repartição competente, pelo prazo de 90 dias, sendo, a seguir, inscrito, como dívida ativa, para efeito de cobrança judicial, ainda que no mesmo exercício a que corresponda o tributo.\"\nII - \"Art. 41 Não será admitido o pagamento de qualquer prestação sem que estejam quitadas todas as anteriores.\n§ 1º Observado o disposto neste artigo, e enquanto não vencida a última prestação, poderá ser efetuado o pagamento de quaisquer parcelas.\n§ 2º Decorrido o prazo fixado para o pagamento da última prestação, somente será admitido o pagamento integral do débito, que será considerado vencido à data da primeira prestação não paga.\n§ 3º O débito vencido permanecerá em cobrança amigável, na repartição competente, pelo prazo de 90 dias, sendo, a seguir, inscrito, como dívida ativa, para efeito de cobrança judicial, ainda que no mesmo exercício a que corresponde o tributo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 120 da Lei nº 6.989, de 29 de dezembro de 1966, com as alterações da Lei nº 7.410, de 30 de dezembro de 1969, e da Lei nº 7.687, de 29 de dezembro de 1971, passa a ter a seguinte redação:\n\"Art. 120 Não será admitido o pagamento de qualquer prestação sem que estejam quitadas todas as anteriores.\n§ 1º Observado o disposto neste artigo, e enquanto não vencida a última prestação, poderá ser efetuado o pagamento de quaisquer parcelas.\n§ 2º Decorrido o prazo fixado para pagamento da última prestação, somente será admitido o pagamento integral do débito, que será considerado vencido à data da primeira prestação não paga.\n§ 3º O débito vencido permanecerá em cobrança amigável, na repartição competente, pelo prazo de 90 dias, sendo, a seguir, inscrito, como dívida ativa, para efeito de cobrança judicial.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Nas hipóteses do § 2º dos artigos 21, 41 e 120, os acréscimos previstos, respectivamente, nos artigos 20, 40 e 119 da Lei nº 6.989, de 29 de dezembro de 1966, com a redação dada pela Lei nº 7.410, de 30 de dezembro de 1969, serão devidos a partir da data de vencimento da primeira prestação não paga.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 16 de junho de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 16 de junho de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08424",
+   "short": "Lei 8424/1976",
+   "title": "Lei nº 8.424, de 18/08/1976 (Autoriza a celebração de novo contrato de concessão com a Companhia Municipal de Transportes Coletivos - CMTC, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8424-de-18-de-agosto-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08424"
+   ],
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8424-de-18-de-agosto-de-1976",
+     "sha256": "417761b947385c6a327433efcc6d33dcddd3ead544ad11dce41eb0fd3567d870",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8424, DE 18 DE AGOSTO DE 1976.\nAutoriza a celebração de novo contrato de concessão com a Companhia Municipal de Transportes Coletivos - CMTC, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 6 de agosto de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica a Prefeitura do Município de São Paulo autorizada a celebrar com a Companhia Municipal de Transportes Coletivos - CMTC, sociedade anônima com sede na cidade de São Paulo, organizada nos termos do Decreto-lei Estadual nº 15.958, de 14 de agosto de 1946, do Decreto municipal nº 901, de 10 de setembro de 1946, e do Decreto-lei Municipal nº 365, de 10 de outubro de 1946, novo contrato de concessão para continuar a prestar e explorar, com exclusividade, o serviço público de transporte coletivo de passageiros no Município da Capital.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A concessão a que se refere o artigo anterior, compreenderá o transporte coletivo de passageiros no Município da Capital, por meio de ônibus, troleibus e qualquer outra modalidade de transporte, exceto o metroviário, desde que previamente aprovada pela Prefeitura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - A Prefeitura, nos limites de sua competência e através da Secretaria Municipal de Transportes - SMT, fixará ou complementará as diretrizes básicas da política de transportes coletivos, as características operacionais das linhas e as especificações a que devem atender os serviços.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O prazo de concessão será de 30 anos, contados da assinatura do respectivo contrato.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O serviço público de transporte coletivo de passageiros será prestado e explorado pela Concessionária, no regime de serviço pelo custo, e mediante a cobrança de tarifas estabelecidas pela Prefeitura, de modo a permitir a obtenção de recursos suficientes para:\na) despesas de exploração e melhoria dos serviços, abrangendo operação, manutenção, administração e expansão, bem como tributos e encargos de qualquer espécie;\nb) constituição de fundo de depreciação dos bens perecíveis;\nc) remuneração adequada do investimento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - As tarifas deverão ser revistas, atendidas as exigências da legislação pertinente, sempre que incorrer o equilíbrio econômico-financeiro previsto no artigo anterior.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - À Prefeitura compete regulamentar e fiscalizar a execução do serviço concedido, através de seus órgãos próprios e sob os aspectos técnicos, econômico, administrativo e financeiro.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - No prazo de 180 dias, a contar da data da vigência desta lei, a Prefeitura, por ato executivo e nos limites de sua competência, expedirá a regulamentação do serviço concedido, estabelecendo regras de execução e de operação, direitos e obrigações, penalidades ou outras providências julgadas de interesse público.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - A Concessionária é vedado ceder ou transferir, no todo ou em parte, a presente concessão, sem prévia autorização, por escrito, da Prefeitura.\nParágrafo Único. Para o cabal desempenho de sua missão e sob sua única e exclusiva responsabilidade, poderá a Companhia Municipal de Transportes Coletivos - CMTC contratar com terceiros, na forma da legislação vigente, por prazo não inferior a 6 anos, a operação das linhas que julgar conveniente, com prévia justificação e autorização final do Prefeito, em cada caso, dando-se preferência, em igualdade de condições, às empresas permissionárias que à data da contratação estejam em efetivo e regular funcionamento no Município.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A Concessionária poderá promover desapropriações por utilidade pública, e sem ônus para a Prefeitura, de bens e direitos necessários à execução e prestação do serviço concedido, seu melhoramento e ampliação, mediante solicitação de ato próprio ao Executivo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A qualquer tempo poderá a Prefeitura encampar o serviço concedido, mediante indenização de seu patrimônio líquido, calculada segundo o critério do custo histórico corrigido pelos índices oficiais pertinentes, e deduzidas as depreciações admitidas em lei.\nParágrafo Único - Ao término do prazo estabelecido no artigo 4º, não havendo lei que autorize novo instrumento em continuação, a reversão do serviço concedido operar-se-á nas mesmas condições do caput deste artigo.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - A Prefeitura e a Companhia Municipal de Transportes Coletivos - CMTC não poderão conceder isenção de pagamento de passagem, em veículo de transporte coletivos, inclusive para seus servidores, salvo os casos expressos em lei.\n§ 1º Excepcionalmente, a Prefeitura poderá conceder isenção integral do pagamento da tarifa aos estudantes do Ensino Fundamental, Médio e Superior, bem como de cursos preparatórios ao vestibular de ingresso no Ensino Superior.\n§ 2º A Prefeitura, observado o limite de desconto previsto no parágrafo anterior, concederá redução de, pelo menos, 10% (dez por cento) no preço das tarifas, quando pagas adiantadamente pelo usuário mediante a compra de lotes mínimos de passes, na forma a ser disciplinada por decreto.\n§ 3º Os passes comprados em lotes, na forma do parágrafo anterior, não terão prazo de validade para a sua utilização nem precisarão ser trocados quando da superveniência de alterações tarifárias.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A presente lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 18 de agosto de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 18 de agosto de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.424, de 18/08/1976 was altered by acts of 3 date(s), the latest 2014-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08428",
+   "short": "Lei 8428/1976",
+   "title": "Lei nº 8.428, de 26/08/1976",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8428-de-26-de-agosto-de-1976",
+   "first_law": "lei-1976-08428",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1976-08-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8428-de-26-de-agosto-de-1976",
+     "sha256": "056dbda40c98615e9d5e1d1d5e1d758acca9dac46684495e059d4963e2c22f21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8428, DE 26 DE AGOSTO DE 1976.\n(Projeto de Lei Nº 86/1976)\nModifica parcialmente os alinhamentos da Rua Heitor Penteado, aprovados pela Lei nº 7.358, de 25 de setembro de 1969, no limite dos 19º e 39º subdistritos - Perdizes e Vila Madalena, respectivamente.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 18 de agosto de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25.752-A-70, do arquivo do Departamento de Projetos, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, ficam modificados, no trecho compreendido entre a Rua Engenheiro Francisco Azevedo e 47,00 metros além da Rua General Góis Monteiro, os alinhamentos da Rua Heitor Penteado, aprovados pela Lei nº 7.358, de 25 de setembro de 1969, no limite dos 19º e 39º subdistritos - Perdizes e Vila Madalena, respectivamente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 26 de agosto de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 26 de agosto de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08429",
+   "short": "Lei 8429/1976",
+   "title": "Lei nº 8.429, de 26/08/1976 (Aprova plano de melhoramentos no 18º subdistrito - Ipiranga, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8429-de-26-de-agosto-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08429"
+   ],
+   "versions": [
+    {
+     "from": "1988-09-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8429-de-26-de-agosto-de-1976",
+     "sha256": "4dead3a4ff75cd352e049f764ea638f1c6bccaf8ca59e33cfeb0287e04e0d269",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8429, DE 26 DE AGOSTO DE 1976.\nAprova plano de melhoramentos no 18º subdistrito - Ipiranga, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 18 de agosto de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25.812-A-252, do arquivo do Departamento de Projetos, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de melhoramentos no 18º subdistrito - Ipiranga, a saber:\nI - Abertura de via em continuação ao prolongamento da Rua das Juntas Provisórias, aprovado pela Lei nº 5254, de 4 de julho de 1957, desde a Rua do Grito até a Rua Comandante Taylor, com largura variável, sendo a mínima de 34,00 metros;\nII - Alargamento da Rua Malvina Ferrara Samarone, para 41,00 metros, desde a Rua do Lago até 210,00 metros aquém da mesma;\nIII - Reserva de área, destinada à implantação de sistema viário e obras complementares de urbanização, na área delimitada, ao norte, pela Rua Comandante Taylor; a leste, pela Rua Carneiro de Campos, via de ligação entre a via de que trata o item I e a Avenida Almirante Delamare, limite da área ajardinada entre a Avenida Almirante Delamare e a Rua Coronel Silva Castro, via de ligação entre a Rua Coronel Silva Castro e a Estrada das Lágrimas; ao sul, pela via de ligação entre a Estrada das Lágrimas e a Via Anchieta, limite da área ajardinada entre a Via Anchieta e a Rua Américo Samarone, Ruas Américo Samarone, \"2\", Mário Oliano Gerasi, via de ligação entre as Ruas Mário Oliano Gerasi e \"D\", e limite da área ajardinada entre a via de que trata o item II e a Rua Capão Bonito, definido pela Lei nº 5500, de 2 de maio de 1958; a oeste, pela Rua Capão Bonito, via de ligação entre as Ruas Capão Bonito e Bom Pastor, Rua Bom Pastor, via de ligação entre as Ruas Silva Bueno e Manoel Buchalla, alinhamento da Rua Manoel Buchalla, aprovada pela Lei nº 7357, de 25 de setembro de 1969, limite da área ajardinada entre as Ruas Manoel Buchalla e Silva Bueno, Rua Silva Bueno, via de ligação entre as Ruas Silva Bueno e do Manifesto e a Rua do Manifesto;\nIV - Fixação de alinhamento da Rua Greenfeld, no trecho compreendido entre a Rua Arroio Hondo e a curva de concordância com a Rua Silva Bueno, na extensão aproximada de 30,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos e áreas ajardinadas constantes da planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados, nos trechos indicados na planta mencionada no artigo anterior, os alinhamentos aprovados pelas Leis nºs. 5254, de 4 de julho de 1957; 5500, de 2 de maio de 1958, e 7357, de 25 de setembro de 1969.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 26 de agosto de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 26 de agosto de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.429, de 26/08/1976 was altered by acts of 1 date(s), the latest 1988-09-16."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08435",
+   "short": "Lei 8435/1976",
+   "title": "Lei nº 8.435, de 14/09/1976 (Confere nova redação ao artigo 2º da Lei nº 8.212, de 06 de março de 1975, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8435-de-14-de-setembro-de-1976",
+   "first_law": "lei-1976-08435",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1976-09-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8435-de-14-de-setembro-de-1976",
+     "sha256": "53ad58ef6d0d954480cc6883a45daba2950ddfcc8adb7bba8bd3d5c3cc9675ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.435, DE 15 DE SETEMBRO DE 1976\nConfere nova redação ao artigo 2º da Lei nº 8.212, de 06 de março de 1975, e dá outras providências.\nOLAVO EGYDIO SETURBAL, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei,\nFaço saber que a Câmara Municipal, em sessão de 8 de setembro de 1976, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º - O artigo 2º da Lei nº 8.212, de 06 de março de 1975, passa a ter a seguinte redação:\n\"Art.2º - Aos que deixarem de apresentar a declaração prevista no artigo anterior, ou o fizerem com dados inexatos ou omissão de elementos indispensáveis à apuração do imposto devido, na forma, condições e prazos estabelecidos pelo Executivo, será aplicada multa de valor equivalente a 150% (cento e cinquenta por cento) da U.F.M.\"\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º - Ficam sujeitos à multa de valor a 150% (cento e cinquenta por cento) da U.F.M., os contribuintes que deixarem de apresentar declarações especificas relativas às atividades por eles exercidas, na forma, prazo e condições estabelecidas pela autoridade administrativa competente.\n"
+      },
+      "art-0003": {
+       "label": "Art.3º",
+       "kind": "article",
+       "text": "Art.3º - Ficam sujeitos à multa de importância igual a 10(dez) U.F.M. os contribuintes que:\nI - Deixarem de emitir nota fiscal ou outro documento admitido pela Administração;\nII - Recusarem a exibição de livros ou documentos fiscais;\nIII - Sonegarem documentos para apuração do preço dos serviços ou de fixação de estimativa;\nIV - Embaraçarem ou iludirem a ação fiscal.\n"
+      },
+      "art-0004": {
+       "label": "Art.4º",
+       "kind": "article",
+       "text": "Art.4º - Os contribuintes dos tributos mobiliários deverão comunicar, à repartição competente, a transferência, a venda e o encerramento da atividade.\n"
+      },
+      "art-0005": {
+       "label": "Art.5º",
+       "kind": "article",
+       "text": "Art.5º - O prazo para os contribuintes promoverem sua inscrição inicial no Cadastro de Contribuintes Mobiliários, bem assim comunicarem qualquer alteração de dados ou procederem o cancelamento da inscrição será de 30 (trinta) dias, contados do evento, como tal definido em regulamento.\n"
+      },
+      "art-0006": {
+       "label": "Art.6º",
+       "kind": "article",
+       "text": "Art.6º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrario.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 15 de setembro de 1976, 423º da fundação d São Paulo.\nOLAVO EGYDIO SETURBAL, Prefeito.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08486",
+   "short": "Lei 8486/1976",
+   "title": "Lei nº 8.486, de 01/12/1976 (Aprova plano de melhoramentos nos 18º, 21º e 42º subdistritos - Ipiranga, Saúde e Jabaquara, respectivamente, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8486-de-1-de-dezembro-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08486"
+   ],
+   "versions": [
+    {
+     "from": "1988-08-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8486-de-1-de-dezembro-de-1976",
+     "sha256": "82af5488c543797e4fe3fbf3ba1acab67ddaa8af29a8a9132bb4bc2d58565d7d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8486, DE 1º DE DEZEMBRO DE 1976.\nAprova plano de melhoramentos nos 18º, 21º e 42º subdistritos - Ipiranga, Saúde e Jabaquara, respectivamente, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs. 25.789, 25.790, 25.791, 25.792, 25.793, 25.794, 25.795, 25.796, 25.797 e 25.798-A-252, do arquivo do Departamento de Projetos, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado plano de melhoramentos nos 18º, 21º e 42º subdistritos - Ipiranga, Saúde e Jabaquara, respectivamente, a saber:\nI - Modificação do limite da área destinada à interligação da Avenida Professor Abrahão de Moraes (antiga Água Funda) e avenida ao longo do Córrego Água Vermelha, aprovada pela Lei nº 7691, de 5 de janeiro de 1972, e alterada pela Lei nº 8005, de 8 de janeiro de 1974, no trecho compreendido entre 35,00 metros além da Avenida Miguel Estéfano e 169,00 metros além dessa mesma avenida, face sul;\nII - Traçado de faixa de terreno necessária à implantação de sistema de interligação da avenida ao longo do Córrego Água Vermelha, aprovada pela Lei nº 7691, de 5 de janeiro de 1972, e o prolongamento da Rua das Juntas Provisórias, e obras complementares de urbanização, desde a área a que se refere o item anterior até a Rua do Lago, na extensão aproximada de 3.800,00 metros;\nIII - Formação de praças:\na)\nb)\nc)\nd) entre aproximadamente 150,00 metros aquém da Avenida Nossa Senhora da Saúde e cerca de 30,00 metros aquém dessa mesma avenida, face sul (planta nº 25.793-A-252);\ne) entre aproximadamente 250,00 metros aquém da Avenida Nossa Senhora das Mercês e esta, face leste (planta nº 25.794-A-252);\nf) entre as Ruas Belgrado e Abaúna, face leste (planta nº 25.797-A-252);\ng) formação de praças de retorno nas Ruas América, Harmonia, 1º de Maio, sem nome (travessa da Rua Evolução), São José, Condor, Salvador Rosa, \"B\", travessa particular e travessa particular Anatole France.\ng) formação de praças nas Ruas B (atual Rua Estéfano Franceschini), travessa particular e travessa particular Anatole France.\nParágrafo Único. Ficam igualmente aprovadas as concordâncias de alinhamentos e áreas ajardinadas constantes das plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As construções, reconstruções ou reformas que se fizerem, nos lotes lindeiros à faixa de terreno, praças e áreas ajardinadas referidas no artigo anterior, não poderão ter para elas, nos trechos indicados nas plantas anexas à presente lei, qualquer modalidade de acesso ou abertura, sendo-lhes permitida apenas servidão de luz e ar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados os alinhamentos estabelecidos pelas Leis nºs 4998, de 24 de maio de 1956, 7893, de 24 de abril de 1973, e 8005, de 8 de janeiro de 1974, nos trechos indicados nas plantas referidas no artigo 1º, bem como os artigos 1º e 2º da Lei nº 5012, de 21 de junho de 1956, exceto o alargamento da Avenida Nazaré, no trecho compreendido entre a Rua Marquês de Olinda e a Avenida Fagundes (linha de transmissão da Light), mantido o perfil atual.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, a 1º de dezembro de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 1º de dezembro de 1976.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.486, de 01/12/1976 was altered by acts of 3 date(s), the latest 1988-08-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08491",
+   "short": "Lei 8491/1976",
+   "title": "Lei nº 8.491, de 14/12/1976 (Dispõe sobre a reestruturação da Secretaria de Serviços e Obras, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8491-de-14-de-dezembro-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08491"
+   ],
+   "versions": [
+    {
+     "from": "1993-10-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8491-de-14-de-dezembro-de-1976",
+     "sha256": "d33e24f8b4c81e856dc801f317dc486d883551410adc8b27c9143bcd012cbd05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8491, DE 14 DE DEZEMBRO DE 1976.\nDispõe sobre a reestruturação da Secretaria de Serviços e Obras, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Secretaria de Serviços e Obras - S.S.O. tem por atribuição planejar, organizar, dirigir, controlar e coordenar as diversas atividades de seus Departamentos e demais órgãos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Secretaria de Serviços e Obras constitui-se de:\nI - Gabinete do Secretário, com:\na) Serviço de Treinamento e Desenvolvimento do Pessoal;\nb) Oficial de Gabinete;\nc) Assessoria Jurídica;\nd) Assessoria Econômico-financeira;\ne) Assessoria Técnica, com Seção de Programação;\nf) Divisão Técnica de Contabilidade e Orçamento, com Seção Técnica de Contabilidade e Seção Técnica de Tarifas e Avaliações;\ng) Divisão Técnica de Licitação e Cadastramento, com Seção Técnica de Licitações e Seção Técnica de Cadastro;\nh) Divisão Técnica de Frotas e Oficinas, com Seção Administrativa; Seção Técnica de Controle e Especificações, com Seção de Almoxarifado; Seção Técnica de Contabilidade, com Seção de Serviços de Terceiros e Seção de Apropriação de Custos; e Seção Técnica de Operação e Conservação, com Seção de Oficinas e Seção de Tráfego;\ni) Divisão Administrativa, com Serviços de Prontuários e Seção de Expediente;\nII - Departamento de Edificações - EDIF;\nIII - Departamento de Limpeza Urbana - LIMPURB;\nIV - Departamento de Parques e Áreas Verdes - DEPAVE;\nV - Departamento de Serviços Diversos - SERDI.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º À Assessoria Jurídica compete assessorar o Secretário nos assuntos dessa natureza, particularmente emitindo pareceres e elaborando minutas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º À Assessoria Econômico-Financeira compete assessorar o Secretário nos assuntos dessa natureza, particularmente os de orçamento e controle de execução orçamentária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º À Assessoria Técnica compete assessorar o Secretário nos assuntos de natureza técnica, de planejamento e programação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º À Divisão Técnica de Contabilidade e Orçamento compete o controle e execução de aplicação das verbas do Gabinete e de todos os Departamentos, bem como Verificar os custos e as tarifas dos serviços de gás, proceder a verificação ou fiscalização contábil junto à concessionária, revendo as porcentagens e os componentes de custos previstos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º À Divisão Técnica de Licitação e Cadastramento compete organizar e montar o controle do registro cadastral das firmas individuais, sociedades civis ou comerciais, capacitando-as a participar de licitações, elaborar editais de concorrência e tomadas de preços, lavrar os contratos, bem como exercer as demais atividades pertinentes.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Divisão Técnica de Frotas e Oficinas compete planejar, supervisionar e controlar tecnicamente os serviços de operação, manutenção, reparos e suprimento de frota e equipamentos sob sua responsabilidade.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º À Divisão Administrativa compete coordenar e controlar as atividades da Seção de Expediente, distribuir expedientes e processos aos Assessores e Departamentos, organizar o prontuário do pessoal e controlar a tabela de lotação de pessoal do Gabinete e Departamentos.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 Ao Departamento de Edificações compete:\na) projetar, orçar, fiscalizar a execução, manter, conservar, ampliar e reformar edifícios públicos em geral, cemitérios, monumentos arquitetônicos, inclusive suas instalações e equipamentos;\nb) elaborar normas, no âmbito da Administração Municipal, em tudo que diga respeito à matéria de sua competência.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 O Departamento de Edificações compõe-se de:\na) Gabinete do Diretor, com Serviço de Treinamento e Desenvolvimento do Pessoal;\nb) Assistência Técnica;\nc) Assistência Jurídica;\nd) Divisão Técnica de Orçamento, com Seção Técnica de Especificações e Pré-Licitação; Seção Técnica de Cadastro, com Seção de Arquivo Técnico, e Seção Técnica de Orçamento;\ne) Divisão Técnica de Projetos, com Seção Técnica de Projetos Preliminares e Complementares, com Seção de Topografia; e Seção Técnica de Projetos Arquitetônicos, com Seção de Desenho;\nf) Divisão Técnica de Manutenção, com Seção Técnica de Instalações; Seção Técnica de Oficina, com Seção de Expediente, Seção de Controle de Material e Seção de Execução; e Seção Técnica de Manutenção;\ng) Divisão Técnica de Obras com Seção Técnica de Obras Educacionais e Seção Técnica de Obras Gerais;\nh) Divisão Técnica de Reforma e Ampliação, com Seção Técnica de Reforma e Ampliações Educacionais; Seção Técnica de Vistoria e Seção Técnica de Reformas e Ampliações Gerais;\ni) Divisão Administrativa, com Seção de Arquivo; Seção de Expediente; Seção de Pessoal; e Seção Técnica de Contabilidade.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 À Divisão Técnica de Orçamento compete programar os serviços e obras do Departamento, organizar e coordenar o preparo das licitações, elaborar elementos para pré-contrato de prestação de serviços, bem como cumprir outras funções afins.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 A Divisão Técnica de Projetos compete organizar a programação para os projetos arquitetônicos; estudar, avaliar e zelar pelo atendimento das restrições legais para as edificações; elaborar estudos, anteprojetos e projetos arquitetônicos, orientar, fiscalizar e receber projetos arquitetônicos contratados, bem como cumprir outras atribuições afins.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 A Divisão Técnica de Manutenção compete assistir e orientar tecnicamente os órgãos da Administração Municipal sobre instalações de eletricidade, hidráulica e especiais; fiscalizar os serviços de instalação e manutenção de poços artesianos e piscinas, pesquisar, estudar e propor medidas relativas à manutenção de próprios municipais, bem como executar outras tarefas afins.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 À Divisão Técnica de Obras compete programar, coordenar e fiscalizar a execução da construção de próprios municipais, bem como cumprir atribuições afins.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 À Divisão Técnica de Reforma e Ampliação compete vistoriar edificações municipais, procedendo a levantamentos quantitativos de obras de reforma e ampliação; preparar memoriais e especificações para estes serviços, respondendo diretamente pelas obras e serviços de pequeno porte, executando, outrossim, as demais tarefas similares.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 À Divisão Administrativa compete organizar e manter o arquivo do Departamento; receber e distribuir processos e demais expedientes; preparar e manter o prontuário de pessoal; elaborar folhas mensais de ocorrências nas datas estabelecidas; orientar e fiscalizar os serviços de manutenção e limpeza das dependências e instalações do Departamento, realizando, também, outros encargos que lhe sejam atribuídos.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 Ao Departamento de Limpeza Urbana compete:\na) elaborar estudos e pesquisas sobre a execução dos serviços de limpeza urbana;\nb) pesquisar, avaliar e propor sistemas de execução ou operação de limpeza urbana;\nc) organizar, programar e manter as atividades de operações das Usinas de Compostagem;\nd) pesquisar e escolher áreas necessárias à execução dos aterros sanitários, fiscalizando a respectiva operação;\ne) operar e manter os incineradores e estações de transbordo de lixo;\nf) pesquisar, estudar, organizar e propor os processos de industrialização do lixo;\ng) elaborar normas, no âmbito da Administração Municipal, em tudo que diga respeito à matéria de sua competência, bem como cumprir outras tarefas afins.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 O Departamento de Limpeza Urbana compõe-se de:\na) Gabinete do Diretor, com Serviço de Treinamento e Desenvolvimento do Pessoal;\nb) Assistência Técnica;\nc) Assistência Jurídica;\nd) Divisão Técnica de Estudos e Pesquisas, com Seção Técnica de Levantamento de Dados; Seção Técnica de Pesquisas e Convênios; Seção Técnica de Estudos e Seção Técnica de Arquivo;\ne) Divisão Técnica de Normas e Especificações, com Seção Técnica de Coleta e Transporte do Lixo; Seção Técnica de Varrição, Conservação e Instalação de Caixas Coletoras e Seção Técnica de Limpeza e Conservação do Sistema de Águas Superficiais;\nf) Divisão Técnica de Compostagem, com Seção Técnica da Usina de São Mateus; Seção Técnica da Usina de Vila Leopoldina; e Seção Técnica de Subprodutos;\ng) Divisão Técnica de Aterros Sanitários, com Seção Técnica de Execução e Seção Técnica de Estudos e Projetos;\nh) Divisão Técnica de Incineração e Transbordo, com: Unidade de Supervisão de Oficinas e Controle de Normas Técnicas, com Equipe Volante de Manutenção; Seção Técnica das Instalações de Pinheiros; Seção Técnica das Instalações da Ponte Pequena, com Seção de Oficina; Seção Técnica das Instalações do Vergueiro, com Seção de Oficina; Seção Técnica de Manutenção das Instalações, com Seção de Oficina.\ni) Divisão Técnica de Industrialização, com Seção Técnica de Produtos Combustíveis e Seção Técnica de Produtos Diversos;\nj) Divisão Administrativa, com Seção Técnica de Contabilidade; Seção Técnica do Patrimônio; Seção de Almoxarifado e Seção de Expediente.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 À Divisão Técnica de Estudos e Pesquisas compete colecionar dados referentes à execução dos serviços de coleta, varrição, destinação do lixo e demais atividades correlatas, realizando pesquisas e estudos para a destinação das suas características e seu melhor aproveitamento, bem como cumprir outras funções afins.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 À Divisão Técnica de Normas e Especificações compete pesquisar, avaliar e propor sistemas de execução de operação de limpeza urbana.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 À Divisão Técnica de Compostagem compete organizar a programação de atividades, manutenção preventiva e venda dos produtos da operação das usinas.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 À Divisão Técnica de Aterros Sanitários compete planejar os aterros sanitários e escolher áreas onde possam ser localizados.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 À Divisão Técnica de Incineração e Transbordo compete operar os incineradores e as estações do transbordo de lixo, bem como pesquisar, estudar, organizar e propor normas de industrialização do lixo.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 À Divisão Técnica de Industrialização compete pesquisar, estudar, organizar e propor recursos de industrialização do lixo.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 À Divisão Administrativa compete coordenar e controlar as atividades da Seção Técnica de Contabilidade, Seção Técnica do Patrimônio, Seção de Almoxarifado e Seção de Expediente.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 Ao Departamento de Serviços Diversos compete:\na) organizar os serviços de utilidade pública em geral, promovendo o relacionamento com as concessionárias sobre assuntos que lhe são pertinentes;\nb) adotar medidas preventivas contra incêndios;\nc) orientar e fiscalizar convênios celebrados entre o Município e o Estado no tocante à prestação de serviços de extinção de incêndios;\nd) orientar e supervisionar os sistemas de telecomunicações nas unidades da Prefeitura;\ne) conceder autorização para a instalação de bancas de flores e fiscalizar seu funcionamento;\nf) pesquisar, selecionar, catalogar e fiscalizar áreas necessárias a obras e serviços a cargo da Secretaria, propondo desapropriações e acompanhando os processos respectivos;\ng) elaborar normas, no âmbito da Administração Municipal, em tudo que diga respeito à matéria de sua competência.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36 O Departamento de Serviços Diversos compõe-se de:\na) Gabinete do Diretor, com Serviço de Treinamento e Desenvolvimento do Pessoal;\nb) Assistência Técnica;\nc) Assistência Jurídica;\nd) Divisão Técnica de Serviços Públicos, com Seção Técnica de Instalações; Seção Técnica de Inspeções; Seção Técnica de Controle Econômico, Tarifas e Preços Públicos; Seção Técnica de Pesquisa, Seleção e Controle de Áreas e Seção Técnica de Avaliações;\ne) Divisão Técnica de Segurança Contra Incêndios, com Seção Técnica de Prevenção; Seção Técnica de Fiscalização de Edifícios, com Seção de Cadastramento de Edifícios; Seção Técnica de Treinamento, com Seção de Instruções e Adestramento;\nf) Divisão Técnica de Telecomunicações, com Seção Técnica de Telefonia; Seção Técnica de Telex, com Seção de Treinamento;\ng) Divisão Administrativa, com Seção Técnica de Contabilidade; Seção de Expediente; Seção do Pessoal e Seção de Instalação de Bancas de Flores.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 À Divisão Técnica de Serviços Públicos compete promover o relacionamento com concessionárias de serviços públicos, prevendo, programando, coordenando e controlando as atividades das Seções Técnicas; levantar as áreas necessárias a obras e serviços a cargo da Secretaria de Serviços e Obras; pesquisar áreas a desapropriar; proceder estudos técnicos dos próprios municipais a serem locados, adquiridos ou cedidos em locação, bem como executar outras tarefas afins.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38 À Divisão Técnica de Segurança Contra Incêndios compete adotar medidas preventivas contra incêndios em próprios municipais, visando a proteção do patrimônio da Prefeitura e a segurança dos usuários; orientar e fiscalizar os convênios celebrados entre o Município e o Estado no tocante à prestação de serviço de extinção de incêndio; inspecionar os equipamentos de prevenção e de combate a incêndios instalados nos edifícios, particulares não industriais, bem como executar demais atribuições pertinentes ao assunto.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39 À Divisão Técnica de Telecomunicações compete orientar, supervisionar e manter os sistemas de telecomunicações da Prefeitura; organizar e manter pessoal de treinamento para ministrar instruções aos servidores designados para operar equipamentos de telecomunicação, bem como cumprir outras funções afins.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40 À Divisão Administrativa compete organizar e manter o arquivo do Departamento; receber e distribuir processos e demais expedientes: preparar e manter o prontuário de pessoal; elaborar folhas mensais de ocorrências nas datas estabelecidas; orientar e fiscalizar os serviços de manutenção e limpeza das dependências e instalações do Departamento, realizando, também, outros encargos que lhe sejam atribuídos.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41 Os cargos de direção, chefia e assessoramento, bem como as funções gratificadas da Secretaria de Serviços e Obras são os constantes das Tabelas anexas, que integram esta lei, observadas as seguintes normas:\na) ficam criados os cargos e funções gratificadas que, não figurando na coluna \"SITUAÇÃO ATUAL\", constam da coluna \"SITUAÇÃO NOVA\";\nb) ficam extintos os cargos e funções gratificadas que, figurando na coluna \"SITUAÇÃO ATUAL\", não constam da coluna \"SITUAÇÃO NOVA\";\nc) são mantidos os cargos e funções gratificadas que figuram nas colunas \"SITUAÇÃO ATUAL\" e \"SITUAÇÃO NOVA\", com as alterações que constarem desta última coluna.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42 A Tabela de Lotação do Pessoal será fixada por decreto do Executivo, no prazo de 90 dias.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 O Executivo regulamentará a presente lei, no que for julgado necessário a sua execução, dentro do prazo de 90 dias.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de dezembro de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário Municipal de Educação, Hilário Torloni\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa\nO Secretário de Abastecimento, Mário Osassa\nO Secretário de Serviços e Obras, Aurélio Araújo\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Armando Simões Neto\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino\nO Secretário Municipal de Esportes, Caio Sérgio Pompeu de Toledo\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 14 de dezembro de 1976.\nChefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.491, de 14/12/1976 was altered by acts of 4 date(s), the latest 1993-10-18."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08497",
+   "short": "Lei 8497/1976",
+   "title": "Lei nº 8.497, de 20/12/1976",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8497-de-20-de-dezembro-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08497"
+   ],
+   "versions": [
+    {
+     "from": "1986-12-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8497-de-20-de-dezembro-de-1976",
+     "sha256": "28b8f12afa8e0a5f17607ffcbb171b053f60c13e77ad8c9c7fcc4754900776e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.497, DE 20 DE DEZEMBRO DE 1976.\nDispõe sobre remissão de débitos relativos à taxa de pavimentação e de serviços preparatórios de pavimentação; sobre insenção desse tributo e concessão de descontos sobre os valores venais dos imóveis urbanos, para fins de lançamento dos impostos predial e territorial urbano, no exercício 1977, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a conceder remissão total ou parcial de débitos vencidos ou vincendos, relativos à Taxa de Pavimentação e de Serviços Preparatórios de Pavimentação, por serviços já executados, para as moradias econômicas com até 72 metros quadrados de área construída, registradas no Cadastro Imobiliário à época do fato gerador, observada, para este efeito, a área máxima de terreno de 250 metros quadrados.\nParágrafo Único. O disposto neste artigo não abrange os débitos já quitados e não autoriza a restituição de importâncias já recolhidas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Nos lançamentos dos Impostos Predial e Territorial Urbano para o exercício de 1977, sobre o valor venal dos imóveis, apurados de acordo com as Plantas Genéricas de Valores, serão concedidos descontos na seguinte conformidade:\nI - 1ª subdivisão da zona urbana - 3%;\nII - 2ª subdivisão da zona urbana - 9%;\nIII - 3ª subdivisão da zona urbana - 46%.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O artigo 87 da Lei nº 6.989, de 29 de dezembro de 1966, alterado pela Lei nº 7.687, de 29 de dezembro de 1971, passa a vigorar com a seguinte redação:\n\"Art. 87 - A Taxa calcula-se:\nI - Tratando-se de imóvel construído, em função da sua localização e da sua área construída, na conformidade da seguinte tabela:\n__________________________________________________________________\nSubdivisão da zona urbana | VALOR ANUAL POR M² CONSTRUÍDO Cr$\n1ª| 4,20\n2ª| 1,95\n3ª| 1,30\n_____________________________|____________________________________\nII - Tratando-se de imóvel não construído, em função da sua localização e da sua área de terreno, na conformidade da seguinte tabela:\n__________________________________________________________________\nSubdivisão da zona urbana | VALOR ANUAL POR M² de TERRENO\n1ª| 1,30\n2ª| 0,45\n3ª| 0,12\n_____________________________|____________________________________\nParágrafo Único. Nenhum lançamento da taxa a que se referem os incisos I e II será inferior, respectivamente, a Cr$ 65,00 (sessenta e cinco cruzeiros) e a Cr$ 16,00 (dezesseis cruzeiros).\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O artigo 89 da Lei nº 6.989, de 29 de dezembro de 1966, passa a vigorar com a seguinte redação:\n\"Art. 89 - A Taxa de Limpeza Pública será devida a partir do primeiro dia do exercício seguinte àquele em que se der o início do efetivo funcionamento dos serviços a que se refere o artigo 86, ressalvado o disposto no artigo 88.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O artigo 94 da Lei nº 6.989, de 29 de dezembro de 1966, alterado pela Lei nº 7.687, de 29 de dezembro de 1971, passa a vigorar com a seguinte redação:\n\"Art. 94 - A Taxa calcula-se por metro linear ou fração, em toda a extensão do imóvel, no seu limite com a via ou logradouro público, à razão anual de:\nI - Cr$ 9,00 (nove cruzeiros), quando pavimentado no todo ou em parte de sua largura;\nII - Cr$ 3,60 (três cruzeiros e sessenta centavos), quando não pavimentado, com assentamento de guias e construção de sarjetas ou sarjetões;\nIII - Cr$ 2,30 (dois cruzeiros e trinta centavos) quando não compreendido nos itens anteriores.\nParágrafo Único. A taxa calculada nos termos deste artigo não poderá ser inferior a Cr$ 45,00 (quarenta e cinco cruzeiros).\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de dezembro de 1976, 423º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo\nPublicada na Chefia do Gabinete do Prefeito, em 20 de dezembro de 1976.\nChefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.497, de 20/12/1976 was altered by acts of 1 date(s), the latest 1986-12-11."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
