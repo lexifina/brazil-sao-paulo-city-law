@@ -1,0 +1,1652 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "22 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1975-08204": {
+   "label": "Lei nº 8.204, de 13/01/1975",
+   "title": "Dispõe sobre a criação da Secretaria Municipal de Cultura, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-01-13",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8204-de-13-de-janeiro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08206": {
+   "label": "Lei nº 8.206, de 20/02/1975",
+   "title": "Confere nova redação ao artigo 4 da Lei nº 8180, de 17 de dezembro de 1974.",
+   "kind": "law",
+   "enacted": "1975-02-20",
+   "published": "1975-02-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8206-de-20-de-fevereiro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08210": {
+   "label": "Lei nº 8.210, de 04/03/1975",
+   "title": "Dispõe sobre a aplicação da Lei nº 8.183, de 20 de dezembro de 1974, aos cargos criados pela Lei nº 8.204, de 13 de janeiro de 1975, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-03-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8210-de-4-de-marco-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08215": {
+   "label": "Lei nº 8.215, de 07/03/1975",
+   "title": "Revoga o parágrafo único do artigo 4º da lei nº 7747, de 27 de junho de 1972, com a nova redação dada pelo artigo 5º da lei nº 7865, de 15 de março de 1973; regula a concessão de gratificação de representação ou gabinete; restabelece em novos termos o artigo 37 da lei nº 8183, de 20 de dezembro de 1974, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-03-07",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8215-de-07-de-marco-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08216": {
+   "label": "Lei nº 8.216, de 12/03/1975",
+   "title": "Altera referências e denominações de cargos constantes da Lei nº 8183, de 20 de dezembro de 1974, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-03-12",
+   "published": "1975-03-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8216-de-12-de-marco-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08228": {
+   "label": "Lei nº 8.228, de 25/03/1975",
+   "title": "Aprova traçado de faixa de terreno, no 8º subdistrito - Santana, em substituição ao estabelecido pela Lei nº 4.713, de 4 de junho de 1955, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-03-25",
+   "published": "1975-03-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8228-de-25-de-marco-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08251": {
+   "label": "Lei nº 8.251, de 19/05/1975",
+   "title": "Modifica parcialmente os alinhamentos do prolongamento da avenida ao longo do Córrego do Tatuapé, aprovados pela Lei nº 5.493, de 25 de abril de 1958, e alterados pela Lei nº 7.352, de 9 de setembro de 1969, no limite dos 10º e 27º subdistritos-Belenzinho e Tatuapé, respectivamente.",
+   "kind": "law",
+   "enacted": "1975-05-19",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8251-de-19-de-maio-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08252": {
+   "label": "Lei nº 8.252, de 20/05/1975",
+   "title": "Dispõe sobre a criação do Departamento de Informação e Documentação Artística, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-05-20",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8252-de-20-de-maio-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08261": {
+   "label": "Lei nº 8.261, de 30/05/1975",
+   "title": "Altera a redação dos artigos 11 e 12 da Lei nº 7.736, de 26 de maio de 1972.",
+   "kind": "law",
+   "enacted": "1975-05-30",
+   "published": "1975-05-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8261-de-30-de-maio-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08286": {
+   "label": "Lei nº 8.286, de 12/09/1975",
+   "title": "Modifica o plano de alargamento da Rua Cerro Corá, aprovado pela Lei nº 7.358, de 25 de setembro de 1969, no 14º subdistrito - Lapa, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-09-12",
+   "published": "1975-09-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8286-de-12-de-setembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08305": {
+   "label": "Lei nº 8.305, de 08/10/1975",
+   "title": "Aprova plano de abertura de via de ligação no 29º Subdistrito - Santo Amaro.",
+   "kind": "law",
+   "enacted": "1975-10-08",
+   "published": "1975-10-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8305-de-8-de-outubro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08306": {
+   "label": "Lei nº 8.306, de 16/10/1975",
+   "title": "Modifica a redação do artigo 5º da Lei nº 7.670, de 24 de novembro de 1971; introduz artigo à referida Lei, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-10-16",
+   "published": "1975-10-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8306-de-16-de-outubro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08310": {
+   "label": "Lei nº 8.310, de 27/10/1975",
+   "title": "Altera a redação do artigo 3º da Lei nº 6.738, de 16 de novembro de 1965.",
+   "kind": "law",
+   "enacted": "1975-10-27",
+   "published": "1975-10-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8310-de-27-de-outubro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08319": {
+   "label": "Lei nº 8.319, de 13/11/1975",
+   "title": "Modifica parcialmente o plano de ligação das Avenidas Sumaré e Brasil, aprovado pela Lei nº 7.350, de 9 de setembro de 1969, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-11-13",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8319-de-13-de-novembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08327": {
+   "label": "Lei nº 8.327, de 28/11/1975",
+   "title": "Altera o cálculo das Taxas de Licença; confere nova redação ao artigo 21 da Lei nº 7.687, de 29 de dezembro de 1971; fixa normas relativas ao Imposto sobre Serviços de Qualquer Natureza; e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-11-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8327-de-28-de-novembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08329": {
+   "label": "Lei nº 8.329, de 03/12/1975",
+   "title": "Autoriza a transformação da Companhia do Metropolitano de São Paulo - METRÔ em sociedade anônima de capital autorizado, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-12-03",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8329-de-3-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08330": {
+   "label": "Lei nº 8.330, de 03/12/1975",
+   "title": "Dispõe sobre o cálculo do Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-12-03",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8330-de-3-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08332": {
+   "label": "Lei nº 8.332, de 10/12/1975",
+   "title": "Altera o parágrafo único do artigo 3º da Lei nº 8.050, de 22 de abril de 1974.",
+   "kind": "law",
+   "enacted": "1975-12-10",
+   "published": "1975-12-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8332-de-10-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08338": {
+   "label": "Lei nº 8.338, de 16/12/1975",
+   "title": "Confere nova redação aos artigos 19, 39 e 195 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1975-12-16",
+   "published": "1975-12-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8338-de-16-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08340": {
+   "label": "Lei nº 8.340, de 19/12/1975",
+   "title": "Retifica descrição das áreas a que se refere o artigo 1º, item II da Lei nº 8.176, de 16 de dezembro de 1974.",
+   "kind": "law",
+   "enacted": "1975-12-19",
+   "published": "1975-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8340-de-19-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1975-08353": {
+   "label": "Lei nº 8.353, de 30/12/1975",
+   "title": "Introduz alterações na Lei nº 7.329, de 11 de julho de 1969.",
+   "kind": "law",
+   "enacted": "1975-12-30",
+   "published": "1975-12-31",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8353-de-30-de-dezembro-de-1975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1976-08394": {
+   "label": "Lei nº 8.394, de 28/05/1976",
+   "title": "Autoriza a constituição da Companhia de Engenharia de Tráfego — CET, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1976-05-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8394-de-28-de-maio-de-1976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1975-08204",
+   "short": "Lei 8204/1975",
+   "title": "Lei nº 8.204, de 13/01/1975 (Dispõe sobre a criação da Secretaria Municipal de Cultura, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8204-de-13-de-janeiro-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08204"
+   ],
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8204-de-13-de-janeiro-de-1975",
+     "sha256": "799e95d6446086d1d4e601ab0b8356d3fd519a05a435c39d9bdebbbd01543aa3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.204, DE 13 DE JANEIRO DE 1975.\nDispõe sobre a criação da Secretaria Municipal de Cultura, e dá outras providências.\nMIGUEL COLASUONNO, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 23 dezembro de 1974, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA ORGANIZAÇÃO E ATRIBUIÇÕES\nArt. 1º - Fica criada a Secretaria Municipal de Cultura, destinada a promover o desenvolvimento de atividades, instituições e iniciativas de natureza artística e cultural no âmbito do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Constitui campo funcional da Secretaria Municipal de Cultura:\nI - Planejar, coordenar e supervisionar atividades e iniciativas que propiciem a oportunidade de acesso da população aos benefícios da educação artística e cultural;\nII - Manter e administrar teatros, museus e outras instituições culturais de propriedade do Município;\nIII - Criar, organizar e manter rede de bibliotecas gerais e especializadas, zelando pela atualização e ampliação do acervo bibliográfico, de acordo com o desenvolvimento da ciência, da técnica, da arte e da cultura em geral;\nIV - Organizar e manter documentação relacionada com a história da cidade de São Paulo;\nV - Promover, organizar, patrocinar e executar programas visando à difusão e ao aperfeiçoamento da arte em geral e, especialmente, da música, do canto, da dança e da arte dramática;\nVI - Planejar e executar medidas necessárias ao levantamento, ao tombamento e à defesa do patrimônio artístico e cultural do Município;\nVII - Incentivar e prestar assistência artística, técnica e financeira a iniciativas particulares ou de caráter comunitário, que possam contribuir para a elevação do nível educacional, artístico e cultural da população;\nVIII - Desenvolver, mediante programação própria ou convênios com entidades públicas ou particulares, atividades relacionadas com os vários setores de sua área de atuação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - A Secretaria Municipal de Cultura compreende:\nI - Conselho Municipal de Cultura;\nII - Gabinete do Secretário;\nIII -\nIV - Departamento de Teatros;\nV - Departamento de Bibliotecas Públicas;\nVI - Departamento de Bibliotecas Infanto-Juvenis;\nVII - Departamento do Patrimônio Artístico-Cultural.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO CONSELHO MUNICIPAL DE CULTURA\nArt. 4º -\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º -\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º -\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º -\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º -\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º -\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO GABINETE DO SECRETÁRIO\nArt. 10 - Ao Gabinete do Secretário Municipal de Cultura compete o exame e o preparo do expediente encaminhado à consideração ou decisão do Titular da Pasta e as atividades de divulgação e representação.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - O Gabinete do Secretário contará com uma Secção de Expediente e uma Secção de Contabilidade.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA ASSESSORIA DE EXPANSÃO CULTURAL\nArt. 12 - À Assessoria de Expansão Cultural compete:\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 -\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DO DEPARTAMENTO DE TEATROS\nArt. 14 - Ao Departamento de Teatros compete:\nI - Planejar, coordenar, executar e controlar as atividades artísticas, objetivando a difusão e o aperfeiçoamento da arte, especialmente da música, do canto, da dança e da arte dramática;\nII - Administrar, coordenar e controlar as atividades desenvolvidas nos teatros de propriedade do Município;\nIII - Examinar e decidir sobre as propostas de cessão dos teatros municipais para a realização de espetáculos, manifestações artístico-culturais, solenidades e certames em geral.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O Departamento de Teatros é constituído de:\nI - Assistência Coordenadora dos Corpos Estáveis, compreendendo:\na) Orquestra Sinfônica Municipal;\nb) Coral Municipal;\nc) Corpo de Baile.\nII - Assistência Coordenadora das Unidades de Iniciação Artística, compreendendo:\na) Escola de Música;\nb) Escola de Bailado;\nc) Orquestra Jovem;\nIII - Secção de Contabilidade;\nIV - Supervisão Cênico-Técnica;\nV - Divisão Administrativa, com 4(quatro) Secções administrativas.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DO DEPARTAMENTO DE BIBLIOTECAS PÚBLICAS\nArt. 16 - Ao Departamento de Bibliotecas Públicas compete:\nI - Oferecer ao público, através de coleções bibliográficas organizadas, as condições para o estudo, a pesquisa e a leitura, visando ao aprimoramento intelectual e à elevação do nível cultural da população;\nII - Criar, organizar e manter bibliotecas públicas gerais e especializadas, destinadas, principalmente, ao atendimento da população adolescente e adulta.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O Departamento de Bibliotecas Públicas é constituído de:\nI - Secção de Extensão Cultural;\nII - Secção de Contabilidade;\nIII - Divisão de Processos Técnicos, compreendendo:\na) 3(três) Secções Técnicas;\nb) Subdivisão de Aquisição e Registro, com 3(três) Secções Técnicas e i(uma Secção de Encadernação;\nc) Subdivisão de Classificação e Catalogação, com 4(quatro) Secções Técnicas e 1(uma Secção de Duplicação de Fichas;\nIV - Biblioteca \"Mário de Andrade\" - Divisão Técnica - compreendendo:\na) Secção de Expediente;\nb) Secção de Reprografia;\nc) Secção de Restauração e Reencadernação;\nd) Subdivisão da Coleção Geral, com 3 (três) Secções Técnicas;\ne) Subdivisão de Periódicos, com 5 (cinco) Secções Técnicas;\nf) Subdivisão de Coleções Especiais, com 4(quatro) Secções Técnicas;\nV - Supervisão de Bibliotecas Ramais, compreendendo:\na) Secção de Expediente;\nb) Secção de Restauração e Reencadernação;\nc) Biblioteca Braille;\nd) 12(doze) Bibliotecas Ramais;\nVI - Divisão de Administração, com 4(quatro) Secções Administrativas.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DO DEPARTAMENTO DE BIBLIOTECAS INFANTO-JUVENIS\nArt. 18 - Ao Departamento de Bibliotecas Infanto-Juvenis compete:\nI - Oferecer à população infanto-juvenil condições de desenvolvimento educacional, objetivando contribuir para sua integração e participação na sociedade e cultura do mundo contemporâneo;\nII - criar, organizar e manter bibliotecas;\nIII - Programar, desenvolver e coordenar atividades artísticas, literárias e recreativas, visando contribuir para o desenvolvimento da criança na área da comunicação e expressão.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - O Departamento de Bibliotecas Infanto-Juvenis é constituído de:\nI - Secção de Contabilidade;\nII - Divisão Técnico-Normativa, compreendendo:\na) Biblioteca \"Monteiro Lobato\" - Subdivisão Técnica - com 3(três) Secções Técnicas;\nb) Subdivisão de Processos Técnicos, com 4(quatro) Secções Técnicas e 1(uma Secção de Encadernação;\nIII - Supervisão de Atividades de Comunicação e Expressão, abrangendo os campos de:\na) Teatro;\nb) Cinema;\nc) Música;\nd) Dança;\ne) Artes Plásticas;\nf) Jornal e Academia;\ng) Jogos e Competições;\nIV - Supervisão de Bibliotecas Ramais compreendendo:\na) Secção de Expediente;\nb) Secção de Restauração e Reencadernação;\nc) 24(vinte e quatro) Bibliotecas Ramais;\nV - Divisão de Administração, com 4(quatro) Secções Administrativas.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## CAPÍTULO VIII\n## DO DEPARTAMENTO DE PATRIMÔNIO ARTÍSTICO-CULTURAL\nArt. 20 - Ao Departamento de Patrimônio Artístico-Cultural compete:\nI - Proceder ao levantamento, ao cadastramento, à preservação e à fiscalização de obras e monumentos artísticos do Município;\nII - Recolher, organizar, restaurar e divulgar documentos de valor histórico e outros materiais que possibilitem a pesquisa e o estudo sobre a história da cidade de São Paulo;\nIII - Administrar, coordenar e controlar as atividades dos museus de propriedade do Município;\nIV - Organizar e manter documentação artística, abrangendo todos os ramos da arte, de modo a possibilitar a pesquisa, o estudo e a montagem de exposições de artes plásticas;\nV - Administrar e manter um planetário, destinado à divulgação de conhecimentos sobre astronomia e ciências afins.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - O Departamento do Patrimônio Histórico é constituído de:\nI - Secção de Contabilidade;\nII - Planetário Municipal de São Paulo;\nIII - Divisão do Arquivo Histórico, com:\na) 4(quatro) Secções Técnicas;\n1) Estudos e Pesquisas;\n2) Classificação e Catalogação;\n3) Intercâmbio;\n4) Manuscritos;\nb) 4(quatro) Secções Administrativas:\n1) Expediente;\n2) Denominação de Logradouros Públicos;\n3) Restauração e Encadernação;\n4) Zeladoria e Manutenção;\nIV - Divisão de Iconografia e Museus, com:\na) 2(duas) Secções Técnicas:\n1) Secção de Administração de Museus;\n2) Museu Histórico da Imagem Fotográfica da Cidade de São Paulo;\nb) 4 (quatro) Secções Administrativas:\n1) Expediente;\n2) Restauração e Montagem;\n3) Arquivo de Negativos;\n4) Fotografias da Cidade;\nV - Divisão de Preservação, com:\na) 5(cinco) Secções Técnicas:\n1) Levantamentos e Pesquisas;\n2) Crítica e Tombamentos;\n3) Programas de Revitalização;\n4) Projeto, restauro e Conservação;\n5) Divulgação e Publicações;\nb) 2(duas) Secções Administrativas:\n1) Expediente;\n2) Laboratório de Restauro;\nVI - Divisão de Administração, com:\na) 4(quatro Secções Administrativas:\n1) Expediente;\n2) Pessoal;\n3) Material e Almoxarifado;\n4) Zeladoria e Manutenção.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## CAPÍTULO IX\n## DISPOSIÇÕES GERAIS\nArt. 22 - A identificação das Secções e o detalhamento das atribuições dos órgãos previstos nesta lei serão objeto de decreto.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - Ficam criados e integrados no Quadro Geral do Funcionalismo Municipal os cargos constantes do Anexo nº 1, parte integrante desta lei.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Fica extinto o departamento de Cultura da Secretaria Municipal de Educação e Cultura.\nParágrafo Único - O pessoal, o material e os recursos e encargos do Departamento de Cultura, ora extinto, ficam transferidos para a Secretaria Municipal de Cultura, criada pela presente lei.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - A denominação da Secretaria de Educação e Cultura fica alterada para Secretaria Municipal de Educação.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Ficam extintas as funções gratificadas de Encarregado de Biblioteca (FG- 5), criadas pela Lei nº 8.098, de 12 de agosto de 1974.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 -\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 -\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - As despesas com a execução desta Lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Revogam-se as disposições em contrário, especialmente o artigo 4º, e seu parágrafo único, e o artigo 6º, e seu parágrafo único, da Lei nº 8.094, de 8 de agosto de 1974, bem como a Lei nº 8.138, de 22 de outubro de 1974.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Esta Lei entrará em vigor na data de sua publicação.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 13 de janeiro de 1975, 421º da fundação de São Paulo.\nMIGUEL COLASUONNO, Prefeito.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.204, de 13/01/1975 was altered by acts of 5 date(s), the latest 2001-07-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08206",
+   "short": "Lei 8206/1975",
+   "title": "Lei nº 8.206, de 20/02/1975 (Confere nova redação ao artigo 4 da Lei nº 8180, de 17 de dezembro de 1974.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8206-de-20-de-fevereiro-de-1975",
+   "first_law": "lei-1975-08206",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-02-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8206-de-20-de-fevereiro-de-1975",
+     "sha256": "1d28f660f4175ac87e9fa4fa81bc74a404be9763acb7ab34dcff86936ce9b272",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.206, DE 20 DE FEVEREIRO DE 1975.\nConfere nova redação ao artigo 4 da Lei nº 8180, de 17 de dezembro de 1974.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 14 de fevereiro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 4º da Lei nº 8180, de 17 de dezembro de 1974, passa a vigorar com a seguinte redação:\n\"Art. 4º Para atender às despesas de que trata o item II do parágrafo único do artigo 1º, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, no exercício de 1975, um crédito adicional especial de Cr$ 15.000.000,00 (quinze milhões de cruzeiros) a ser coberto com recursos provenientes da anulação parcial de igual importância, da verba 28.17.03.08.033.8581.43111 do orçamento de 1975.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 20 DE FEVEREIRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Vicente de Paula Oliveira.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Chefia do Gabinete do Prefeito, em 20 de fevereiro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08210",
+   "short": "Lei 8210/1975",
+   "title": "Lei nº 8.210, de 04/03/1975 (Dispõe sobre a aplicação da Lei nº 8.183, de 20 de dezembro de 1974, aos cargos criados pela Lei nº 8.204, de 13 de janeiro de 1975, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8210-de-4-de-marco-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08210"
+   ],
+   "versions": [
+    {
+     "from": "1982-05-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8210-de-4-de-marco-de-1975",
+     "sha256": "b15b4ac2a9f40533e4bb425392bc6091721156c0c5463f0befc15436f888be11",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8210, DE 4 DE MARÇO DE 1975.\nDispõe sobre a aplicação da Lei nº 8.183, de 20 de dezembro de 1974, aos cargos criados pela Lei nº 8.204, de 13 de janeiro de 1975, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 28 de fevereiro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Aos cargos criados pelo artigo 23 da Lei nº 8204, de 13 de janeiro de 1975, aplica-se o disposto na Lei nº 8183, de 20 de dezembro de 1974.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os cargos a que se refere o artigo anterior ficam distribuídos em grupos, com as denominações, referências de vencimentos, tabelas e partes e requisitos de provimento alterados de conformidade com o Anexo integrante desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O enquadramento nos termos do Anexo desta lei, para os atuais cargos que passarão a integrar os Grupos I e II do citado Anexo, só se efetivará a partir de 1º de julho de 1975.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Tabela anexa à Lei nº 8094, de 8 de agosto de 1974, é alterada na parte relativa à lotação do cargo de Cantor de Coral, que passa a ser de 109 (cento e nove).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os proventos dos inativos serão reajustados com base nos enquadramentos previstos na Lei nº 8094, de 8 de agosto de 1974.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os cargos de Pianista e de Professor de Bailado terão seus vencimentos fixados no padrão VIII-A, até que seja instituído o Quadro de Atividades Artísticas, a que se refere o § 1º do artigo 22 da Lei nº 8183, de 20 de dezembro de 1974.\nParágrafo Único - O cargo de Professor de Escola de Bailado passa a denominar-se Professor de Bailado, com os vencimentos fixados na forma do \"caput\" deste artigo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A lotação do cargo de Professor de Bailado fica fixada em 15 (quinze) e a do cargo de Pianista em 5 (cinco).\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os contratos para a função de Professor da Escola de Música serão reajustados em bases equivalentes à remuneração correspondente ao cargo de Professor de Bailado.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Revogadas as disposições em contrário, esta lei entrará em vigor na data da publicação, produzindo seus efeitos a partir de 1º de março de 1975.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 4 DE MARÇO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Klaus Dietmar Alvarez, Respondendo pelo Expediente\nO Secretário de Obras, Ivan Lubachescki.\nO Secretário Municipal de Educação, Roberto Ferreira do Amaral.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário Municipal de Cultura, Luiz Mendonça de Freitas, Respondendo pelo Expediente.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Chefia do Gabinete do Prefeito, em 4 de março de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.210, de 04/03/1975 was altered by acts of 2 date(s), the latest 1982-05-06."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08215",
+   "short": "Lei 8215/1975",
+   "title": "Lei nº 8.215, de 07/03/1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8215-de-07-de-marco-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08215"
+   ],
+   "versions": [
+    {
+     "from": "1979-10-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8215-de-07-de-marco-de-1975",
+     "sha256": "8be1757f716f92a301aef62ed766fd25746dee8a31a2733d24fe45b1ff9d4ab0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.215, DE 7 DE MARÇO DE 1975.\nRevoga o parágrafo único do artigo 4º da lei nº 7747, de 27 de junho de 1972, com a nova redação dada pelo artigo 5º da lei nº 7865, de 15 de março de 1973; regula a concessão de gratificação de representação ou gabinete; restabelece em novos termos o artigo 37 da lei nº 8183, de 20 de dezembro de 1974, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 5 de março de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o parágrafo único do artigo 4º da lei nº 7747, de 27 de junho de 1972, com a nova redação que lhe conferiu o artigo 5º da lei nº 7865, de 15 de março de 1973.\n§ 1º O disposto neste artigo vigorará a partir de 1º de março de 1975 para os servidores incluídos nos grupos III, IV e V, e a partir de 1º de julho de 1975 para os servidores dos grupos I e II, todos do Anexo II da lei nº 8183, de 20 de dezembro de 1974.\n§ 2º Fica ressalvado o direito de incorporação aos proventos de aposentadoria previsto no artigo 1º da Lei nº 8097, de 12 de agosto de 1974, observado o prazo constante do artigo 40 da lei nº 8183, de 20 de dezembro de 1974.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O serviço extraordinário somente será retribuído quando for considerado de absoluta necessidade.\nParágrafo Único. A convocação para a prestação de serviço extraordinário dependerá de prévia autorização do Prefeito.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A partir de 1º de março de 1975, a retribuição máxima do serviço extraordinário não será superior a 15 % (quinze por cento) do vencimento ou salário do servidor.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os servidores e os inativos da Prefeitura não poderão receber retribuição mensal ou provento excedente a duas vezes o valor atribuído à maior referência da escala de vencimentos do pessoal, conforme Anexo I, parte B, da lei nº 8183, de 20 de dezembro de 1974.\nParágrafo Único. O limite de retribuição fixado neste artigo poderá ser excedido no caso de acumulação de proventos de aposentadoria com vencimentos de cargo em comissão e verba de representação, se houver.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Prefeito poderá conceder gratificação a servidores convocados para dois períodos de trabalho, com a prestação mínima de 40 (quarenta) horas semanais de serviço.\n§ 1º Esta gratificação não poderá exceder a 30% (trinta por cento) do valor do padrão do respectivo cargo e só será atribuída a Secretários Municipais, Chefe do Gabinete do Prefeito, Coordenador das Administrações Regionais, Coordenador Geral de Planejamento, bem como a servidores em exercício nos Gabinetes do Prefeito, dos Secretários Municipais, do Coordenador das Administrações Regionais e do Coordenador Geral de Planejamento, desde que exerçam cargo ou função de chefia, direção, assistência ou assessoramento.\n§ 2º A gratificação ora instituída é inacumulável com a gratificação pela prestação de serviço extraordinário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º É instituído o Regime de Dedicação Profissional Exclusiva para os cargos cujo provimento exija formação em nível universitário.\n§ 1º A colocação no regime ora instituído será efetuada por categorias profissionais, tendo em vista as necessidades da Administração, e definidas em decreto a ser baixado pelo Prefeito.\n§ 2º A inclusão de cada funcionário pertencente à categoria profissional colocada no referido regime dependerá de autorização do Prefeito, mediante prévia indicação feita pelo Secretário Municipal, Chefe do Gabinete do Prefeito, Coordenador das Administrações Regionais ou Coordenador Geral de Planejamento a que estiver subordinado o funcionário.\n§ 3º Aos titulares dos cargos incluídos no regime que trata este artigo fica vedado o exercício profissional respectivo em qualquer modalidade própria da profissão, a não ser no desempenho do cargo ou função.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Em compensação pela restrição estabelecida no parágrafo 3º do artigo anterior e em razão da fixação em 40 (quarenta) horas da jornada semanal de trabalho a que fica sujeito, o funcionário terá direito a um adicional correspondente a 50% (cinquenta por cento) do valor atribuído ao padrão de vencimentos do cargo de que for titular.\nParágrafo Único. Para os funcionários de nível universitário, inscritos nos regimes especiais de trabalho extintos pelo artigo 12 da Lei nº 6226, de 4 de janeiro de 1963, que forem incluídos no Regime de Dedicação Profissional Exclusiva, fica assegurada a percepção da diferença entre o adicional calculado nos termos dos regimes extintos pelo citado artigo 12 e o adicional previsto no caput deste artigo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A gratificação devida aos funcionários incluídos no Regime de Dedicação Profissional Exclusiva é inacumulável com qualquer outra gratificação vinculada a regimes especiais de trabalho.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Fica assegurado aos ocupantes de cargos, cuja categoria profissional tenha sido incluída no Regime de Dedicação Profissional Exclusiva, o direito de opção pelo ingresso nesse regime.\nParágrafo Único. A opção de que trata este artigo será expressa em requerimento dirigido ao Prefeito e poderá ser realizada a qualquer tempo, quando a categoria profissional respectiva for incluída no regime.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - As transgressões ao Regime de Dedicação Profissional Exclusiva sujeitarão o funcionário às sanções disciplinares cabíveis, inclusive a perda do cargo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Serão obrigatoriamente comunicadas aos órgãos fiscalizadores das respectivas profissões, as inscrições de servidores no Regime de Dedicação Profissional Exclusiva.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O Regime de Dedicação Profissional Exclusiva será objeto de regulamentação do Executivo.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O artigo 37 da lei nº 8183, de 20 de dezembro de 1974, entra em vigor com a seguinte redação:\n\"Art. 37 - Respeitado o disposto nos artigos 23 e 25,os atuais funcionários e extranumerários mensalistas e diaristas, bem como os servidores inativos, serão classificados em função do tempo de exercício na carreira em que se encontram, na seguinte conformidade:\nI - No grau E, se tiverem vinte e cinco anos ou mais na carreira;\nII - No grau D, se tiverem vinte anos ou mais na carreira;\nIII - No grau C, se tiverem quinze anos ou mais na carreira;\nIV - No grau B, se tiverem dez anos ou mais na carreira;\nV - No grau A, se tiverem menos de dez anos na carreira.\n§ 1º Para os fins deste artigo considera-se como tempo na carreira acrescendo-o:\nI - O tempo em cargos de chefia correspondentes à carreira;\nII - O tempo em cargo isolado transferido para carreira e para cujo exercício tenha sido exigido a mesma habilitação profissional prevista para o ingresso na carteira.\n§ 2º No caso de cargo isolado, será computado, para os efeitos deste artigo, o tempo de exercício no cargo.\n§ 3º O primeiro enquadramento previsto neste artigo terá como base o tempo na carreira completado em 1º de julho de 1975 e, para os inativos, na data da aposentadoria.\n§ 4º Na apuração do tempo a que se refere o parágrafo anterior serão arredondadas para um ano as frações superiores a 330 dias.\n§ 5º No caso de extranumerários mensalistas e diaristas, será considerado o tempo de exercício na função em que se encontram, nos termos e para os efeitos do disposto neste artigo.\"\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - O artigo 41 da lei nº 8183, de 20 de dezembro de 1974, passa a vigorar com a seguinte redação:\n\"Art. 41 - Será computado para efeito de contagem dos prazos previstos no artigo 3º da Lei nº 8097, de 12 de agosto de 1974, o tempo de exercício, a qualquer título, de servidor da Prefeitura em cargo de chefia, assessoramento ou em comissão dos quadros da Câmara Municipal, do Tribunal de Contas do Município de São Paulo e das autarquias municipais.\"\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O artigo 28 da lei nº 8183, de 20 de dezembro de 1974, fica acrescido do seguinte parágrafo único.\n\"Parágrafo Único. Não havendo cargos de mesma denominação, o reajuste será efetuado, mediante decreto, no grau \"A\" da referência do cargo assemelhado ou análogo, tendo presente os grupos ocupacionais definidos no artigo 6º.\"\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - A gratificação de produtividade fiscal, a que se refere o artigo 5º da Lei nº 7623, de 28 de junho de 1971, será devida:\nI - No caso de afastamento decorrente de licença para gestante;\nII - Aos Inspetores Fiscais ocupantes, inclusive em substituição, de cargos, ou que exercerem as funções de direção, chefia, assistência ou assessoramento no Gabinete do Prefeito e na Secretaria das Finanças.\n§ 1º No caso previsto no inciso I deste artigo, a referida gratificação será calculada, para efeito de pagamento, de acordo com o disposto no artigo 10 da Lei nº 7623, de 28 de junho de 1971.\n§ 2º No caso do inciso II deste artigo, a gratificação de produtividade será paga por inteiro a partir da vigência desta lei.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - O disposto na Lei nº 7623, de 28 de junho de 1971, aplica-se, a partir da vigência da presente lei, aos inativos, aposentados antes ou depois da vigência da referida Lei nº 7623/71, ficando revogado o artigo 12 da citada lei.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Ficam revalorizadas em 30% (trinta por cento), a partir de 1º de março de 1975:\nI - A gratificação de produtividade fiscal;\nII - As pensões vitalícias, pagas pela Prefeitura;\nIII - O valor do salário esposa e do salário família, por alimentário.\nParágrafo Único. Ficam arredondadas para Cr$ 1,00 (um cruzeiro) as frações inferiores a essa importância, resultante da revalorização prevista neste artigo.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - O disposto nesta lei aplica-se, no que couber, ao pessoal dos quadros do Tribunal de Contas do Município de São Paulo e das autarquias municipais.\nParágrafo Único. Continuam em vigor as disposições legais específicas que regulam os direitos, vantagens, restrições e impedimentos dos Conselheiros do Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Fica revogado o artigo 6º da lei nº 7747, de 27 de junho de 1972.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de março de 1975, 422º da fundação de São Paulo.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Klaus Dietmar Alvarez, Respondendo pelo Expediente.\nO Secretário de Obras, Ivan Lubachescki.\nO Secretário Municipal de Educação, Roberto Ferreira do Amaral.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário Municipal de Cultura, Luiz Mendonça de Freitas, Respondendo pelo Expediente.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Chefia do Gabinete do Prefeito, em 7 de março de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.215, de 07/03/1975 was altered by acts of 2 date(s), the latest 1979-10-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08216",
+   "short": "Lei 8216/1975",
+   "title": "Lei nº 8.216, de 12/03/1975 (Altera referências e denominações de cargos constantes da Lei nº 8183, de 20 de dezembro de 1974, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8216-de-12-de-marco-de-1975",
+   "first_law": "lei-1975-08216",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-03-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8216-de-12-de-marco-de-1975",
+     "sha256": "17df7510a21e4da0df061ccfd8384456dba3b99320a2edcdd542391264f35d62",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8216, DE 12 DE MARÇO DE 1975.\nAltera referências e denominações de cargos constantes da Lei nº 8183, de 20 de dezembro de 1974, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 7 de março de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cargos constantes do Anexo II da Lei nº 8183, de 20 de dezembro de 1974, a seguir relacionados, ficam com as respectivas referências de vencimentos alteradas, na seguinte conformidade:\nI - Do Grupo I:\na) Administrador de Mercado - Referência DA-6;\nII - Do Grupo III:\na) Encarregado de Subunidade Central (Administração) - Referência 19;\nb) Encarregado de Subunidade Regional (Administração) - Referência 19;\nc) Técnico de Contabilidade - Referência 17;\nIII - Do Grupo IV:\na) Encarregado de Marcenaria - Referência 13;\nb) Encarregado de Serviço de Eletricidade - Referência 13;\nc) Encarregado de Serviços Mecânicos - Referência 13;\nd) Encarregado de Tráfego - Referência 13;\ne) Encarregado de Borracharia - Referência 10;\nf) Encarregado de Costura - Referência 10;\ng) Encarregado de Jardinagem - Referência 10;\nh) Encarregado de Lavanderia - Referência 10;\ni) Gráfico - Referência 12;\nj) Linotipista - Referência 12;\nl) Motorista - Referência 9;\nm) Tipógrafo - Referência 9;\nn) Operador de Máquinas Motrizes - Referência 9.\nParágrafo Único - O cargo de Encarregado de Jardinagem, constante do Anexo II, Grupo IV, da Lei nº 8183, de 1974, fica transferido da Tabela PPIII para a Tabela PPII.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O cargo de Mecânico Eletricista, constante do Anexo II, Grupo IV, da Lei nº 8183/74, passa a denominar-se Revisor de Eletromecânica, e fica enquadrado na Referência 12.\nParágrafo Único - Fica introduzida a seguinte alteração no Anexo III da Lei nº 8183/74:\n_______________________________________________________________________\nSITUAÇÃOATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO | PADRÃO\nVerificador Mecânico E-|II-B |Revisor de Eletromecâni-|12\nletricista | |ca\n________________________|__________|________________________|__________\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O cargo de Médico Encarregado, constante do Anexo II, Grupo II, da Lei nº 8183/74, passa a denominar-se Médico-Chefe, ficando enquadrado na Referência 24.\nParágrafo Único - Fica introduzida a seguinte alteração no Anexo III da Lei nº 8183/74:\nSITUAÇÃOATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO |REFERÊNCIA\nMédico-Chefe de Clínica |XII-B |Médico-Chefe |24\n________________________|__________|________________________|__________\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam incluídos no Anexo II, Grupo III, da Lei nº 8183/74, 24 (vinte e quatro) cargos, Tabela PPII, de Subencarregado de Setor (Limpeza Pública), Referência 15.\nParágrafo Único - Ficam introduzidas as seguintes alterações no Anexo III da Lei nº 8183/74:\n_______________________________________________________________________\nSITUAÇÃOATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO |REFERÊNCIA\na) Auxiliar de Encarre-|VIII-A |Subencarregado de Setor|15\ngado de Serviço de Lim-| |(Limpeza Pública)\npeza Pública\nb) Subencarregado de Se-|IX-A |Subencarregado de Setor|15\ntor de Limpeza Pública | |(Limpeza Pública)\n________________________|__________|________________________|__________\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica incluído no Anexo II, Grupo II, da Lei nº 8183/74, 1 (um) cargo de Chefe de Secção Técnica, Tabela PPII, Referência 24.\nParágrafo Único - Fica introduzida a seguinte alteração no Anexo III da Lei nº 8183/74:\n_______________________________________________________________________\nSITUAÇÃOATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO |REFERÊNCIA\nMédico-Chefe de Clínica |XII-B |Médico-Chefe |24\n________________________|__________|________________________|__________\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica incluído no Anexo II, Grupo III, da Lei nº 8183/74, 1 (um) cargo de Encarregado de Setor, Tabela PS, Referência 17.\nParágrafo Único - Fica incluído no Anexo III da citada lei o seguinte cargo:\n_______________________________________________________________________\nSITUAÇÃOATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO |REFERÊNCIA\nInspetor Musical |X-B |Encarregado de Setor |17\n________________________|__________|________________________|__________\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam criados e incluídos no Anexo II, Grupo I, da Lei nº 8183/74, 8 (oito) cargos, Tabela PPIII, de Técnico de Seleção e Treinamento de Pessoal, e enquadrados na Referência 21.\nParágrafo Único - O cargo de Auxiliar Técnico de Seleção, Padrão VI-A, e o cargo de Auxiliar Técnico de Treinamento, Padrão VI-A, constantes do Anexo III da citada lei, passam a ser enquadrados como Técnico de Seleção e Treinamento de Pessoal, Referência 21.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O cargo de Chefe de Unidade Central (Comunicação) Tabela PPII, fica transferido do Grupo III para o Grupo I do Anexo II da Lei nº 8183/74, e enquadrados na Referência DA-6.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O cargo de Técnico de Ortótica, Tabela PPIII, fica transferido do Grupo III para o Grupo II do Anexo II da Lei nº 8183/74, e enquadrados na Referência 20.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O cargo de Supervisor Regional (Obras Públicas e Urbanização), DA-11, constantes do Anexo II, Grupo I, da Lei nº 8183/74, fica transferido da Tabela PPI para a Tabela PPII.\nParágrafo Único - O cargo mencionado neste artigo poderá ser provido em substituição do titular efetivo, por profissional legalmente habilitado.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Ficam excluídos do Grupo III, do Anexo II da Lei nº 8183, de 1974, 64 (sessenta e quatro) cargos de Chefe de Unidade Regional (Administração), bem como incluídos no mesmo Anexo II, Grupo I, 48 (quarenta e oito) cargos de Chefe de Unidade Regional (Administração), Tabela PPII, enquadrados na Referência DA-6, e no Grupo II, do citado Anexo, 16 (dezesseis) cargos de Chefe de Unidade Regional (Administração Financeira), Tabela PPII, enquadrados na Referência 24.\nParágrafo Único - Ficam introduzidas as seguintes alterações no Anexo III da Lei nº 8183/74:\n_______________________________________________________________________\nSITUAÇÃO ATUAL | SITUAÇÃO NOVA\nDENOMINAÇÃO | PADRÃO | DENOMINAÇÃO |REFERÊNCIA\na) Chefe de Unidade |XII-B |a) Chefe de Unidade Re-|DA-6\n(COAR-Regionais Depósi-| |gional (Administração)\ntos e Oficinas)\nb) Chefe de Unidade |XII-B |b) Chefe de Unidade Re-|24\n(COAR-Regionais Finan-| |gional (Administração\nças) | |Financeira)\n________________________|__________|________________________|__________\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O cargo de Regente Titular, padrão XII-B, constante do item I da Tabela anexa à Lei nº 8094, de 8 de agosto de 1974, passa a ser de provimento em comissão, pelo Prefeito, mediante seleção de provas e títulos.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os 6 (seis) cargos de Regente Titular, padrão XII-B, de provimento em comissão, constantes da Tabela anexa à Lei 8094, de 8 de agosto de 1974, passam a denominar-se Regente.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Os cargos de Arquivista, padrão IX-A, constantes dos itens IV e XII da Tabela anexa à Lei nº 8094, de 8 de agosto de 1974, passam a denominar-se Arquivista-Chefe e ficam reclassificados no padrão X-A.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Fica criado e incluído na Tabela anexa à Lei nº 8094, de 8 de agosto de 1974, 1 (um) cargo de Inspetor de Orquestra, padrão X-D, isolado, em comissão, de livre provimento pelo Prefeito.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Ficam criadas, no Departamento de Serviços Diversos, da Secretaria de Serviços Municipais, e incorporadas à Tabela \"B\" anexa à Lei nº 7108, de 10 de janeiro de 1968, 6 (seis) Funções Gratificadas, FG.2, de Operador de Telex.\nParágrafo Único - Das funções gratificadas ora criadas, 4 (quatro) destinam-se ao Gabinete do Prefeito e 2 (duas) à Secretaria Municipal de Cultura, observado o disposto no artigo 2º da Lei nº 7812, de 16 de novembro de 1972.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de março de 1975, 422º da fundação de São Paulo.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Klaus Dietmar Alvarez, Respondendo pelo Expediente.\nO Secretário de Obras, Ivan Lubachescki.\nO Secretário Municipal de Educação, Roberto Ferreira do Amaral.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário Municipal de Cultura, Luiz Mendonça de Freitas, Respondendo pelo Expediente.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Chefia do Gabinete do Prefeito, em 12 de março de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08228",
+   "short": "Lei 8228/1975",
+   "title": "Lei nº 8.228, de 25/03/1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8228-de-25-de-marco-de-1975",
+   "first_law": "lei-1975-08228",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-03-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8228-de-25-de-marco-de-1975",
+     "sha256": "33ddd047f8d256beed3f9398c832cb42d6d54f90e691648263296a64f0eef3bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8228, DE 25 DE MARÇO DE 1975.\n(Projeto de Lei Nº 7/1975)\nAprova traçado de faixa de terreno, no 8º subdistrito - Santana, em substituição ao estabelecido pela Lei nº 4.713, de 4 de junho de 1955, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 10 de março de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25468-S-1056, do arquivo do Departamento Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado traçado de faixa de terreno, em substituição ao estabelecido pela Lei nº 4.713, de 4 de junho de 1955, no trecho compreendido entre o final do 2º trecho da viela da Rua Engenheiro Mac Lean, aprovado no arruamento nº 111, e a Rua General Bagueira, com largura de 4,00 metros; extensão aproximada de 84,00 metros, necessária à abertura de faixa sanitária ou à constituição de área gravada de servidão \"non aedificandi\" ao 8º subdistrito - Santana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Se a faixa de terreno a que se refere o artigo anterior for utilizada para abertura de viela sanitária, as construções, reconstruções ou reformas que se fizerem nos lotes lindeiros ficarão sujeitas ao recuo mínimo de 1,50 metros, em relação aos alinhamentos da viela, e não poderão ter para esta qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação ou instituição de servidão, ficando, outrossim, o Executivo autorizado a recebê-los em doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 25 DE MARÇO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08251",
+   "short": "Lei 8251/1975",
+   "title": "Lei nº 8.251, de 19/05/1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8251-de-19-de-maio-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08251"
+   ],
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8251-de-19-de-maio-de-1975",
+     "sha256": "a30512221efe9d8b16eebe78387341e23d5eea19b2ad423e5b7f304cd5a144aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8251, DE 19 DE MAIO DE 1975.\nModifica parcialmente os alinhamentos do prolongamento da avenida ao longo do Córrego do Tatuapé, aprovados pela Lei nº 5.493, de 25 de abril de 1958, e alterados pela Lei nº 7.352, de 9 de setembro de 1969, no limite dos 10º e 27º subdistritos-Belenzinho e Tatuapé, respectivamente.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 5 de maio de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 19 DE MAIO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sergio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 19 de maio de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.251, de 19/05/1975 was altered by acts of 1 date(s), the latest 2009-07-02."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08252",
+   "short": "Lei 8252/1975",
+   "title": "Lei nº 8.252, de 20/05/1975 (Dispõe sobre a criação do Departamento de Informação e Documentação Artística, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8252-de-20-de-maio-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08252"
+   ],
+   "versions": [
+    {
+     "from": "1982-05-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8252-de-20-de-maio-de-1975",
+     "sha256": "0427bb09700e0dd96999abc93bcae18a94093100f77ded30d28ffde16042fc23",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.252, DE 20 DE MAIO DE 1975\nDispõe sobre a criação do Departamento de Informação e Documentação Artística, e dá outras providências.\nOLAVO EGYDIO SETUBAL, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 09 de Maio de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica criado, na Secretaria Municipal de Cultura, o Departamento de Informação e Documentação Artísticas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Ao Departamento de Informação e Documentação Artísticas compete:\nI - Proceder ao levantamento, cadastro, tombamento, conservação e fiscalização de obras de arte de suas várias especializações, pertencentes a dependências de seus próprios órgãos, situadas em logradouros ou colocadas em edifícios públicos municipais, para fins de ornamentação;\nII - Organizar e manter atualizados arquivos documentários da arte brasileira, abrangendo todos os ramos de suas especializações, de modo a possibilitar a pesquisa, o estudo e a utilização reprográfica desses materiais;\nIII - Organizar e manter atualizadas bibliotecas que reúnam livros, álbuns, periódicos e outras publicações de arte brasileira e internacional, nos vários campos de suas especialidades;\nIV - Administrar e supervisionar as atividades culturais, técnicas e burocráticas das unidades a ele subordinadas;\nV - Promover a edição de uma revista de artes e outras publicações nas várias especialidades do Departamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O Departamento ora criado compõe-se de:\nI - Secção de Contabilidade;\nII - Secção de Tombamento e Fiscalização de Acervo Municipal de Arte Contemporânea;\nIII - Divisão de Administração, com:\na) Secção de Expediente;\nb) Secção de Pessoal;\nc) Secção de Almoxarifado;\nd) Secção de Zeladoria e Manutenção;\nIV - Divisão de Bibliotecas de Artes, com:\na) Secção de Expediente;\nb) Atelier de Conservação, Restauração e Montagem;\nc) 6 (seis) Secções Técnicas:\n1 - Aquisição e Tombamento;\n2 - Livros de Arte Internacional;\n3 - Periódicos de Arte Internacional;\n4 - Publicações de Arte Brasileira;\n5 - Reproduções e Originais de Obras de Arte;\n6 - Pesquisas Bibliográficas e Informação;\nV - Divisão de Discoteca e Biblioteca de Música, com:\na) Secção de Expediente;\nb) Atelier de Conservação, Restauração e Montagem;\nc) 6 (seis) Secções Técnicas:\n1 - Aquisição e Tombamento;\n2 - Discoteca e outro Registros Sonoros;\n3 - Livros de Música e Folclore Musical;\n4 - Periódicos de Música;\n5 - Partituras e Música Impressa;\n6 - Pesquisas Bibliográficas e Informação;\nVI - Centro de Documentação e Informação sobre Arte Brasileira Contemporânea, com:\na) 6(seis) Assessorias Técnicas de Pesquisa, com 10(dez) Equipes de Pesquisa, constituídas, cada uma, basicamente, por 5(cinco) pesquisadores;\nb) 1(uma) Assessoria Técnica de Tombamento, Catalogação e Referência;\nc) 1(uma) Assessoria Técnica de Informação;\nd) Secção de Expediente;\ne) Atelier de Conservação, Restauração e Montagem.\nParágrafo único - O Departamento contará com 1(um) Assistente Jurídico.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Às Divisões e ao Centro ora criados caberão, no campo específico de sua especialidade, realizar pesquisas de bibliografia, documentação e informação e consequente tombamento, classificação e catalogação dos seguintes materiais recolhidos ou existentes:\nI - Obras de arte brasileira contemporânea, de qualquer técnica, nos campos erudito, popular ou folclórico;\nII - Discos, tapes e outros registros sonoros;\nIII - Partituras e outras músicas impressas;\nIV - Livros, álbuns, periódicos e publicações de naturezas diversas, nacionais e estrangeiras;\nV - Hemeroteca sobre os vários aspectos das artes brasileiras, reunindo pesquisas em periódicos da atualidade e por obtenção de periódicos antigos;\nVI - Catálogos de exposições de arte brasileira e realizadas no país;\nVII - Programas de concertos musicais, espetáculos de teatro, dança, circo, cinema, televisão e outras atividades musicais e cênicas brasileiras ou realizadas no país;\nVIII - Diapositivos, fotografias e outros materiais afins;\nIX - Reproduções de artes plásticas brasileiras e aspectos iconográficos de outras artes nacionais, editadas para venda avulsa ou por empresas particulares, em veículos de propaganda;\nX - Cartazes de exposições de artes, filmes e espetáculos nacionais;\nXI - Folhetos selecionados de propaganda, cartazes, out-doors, m arcas, símbolos e quaisquer outras manifestações que documentem atividades e manifestações das artes gráficas nacional;\nXII - Manuscritos de artistas plásticos, músicos, musicólogos, artistas de teatro, cinema, televisão ou críticos e especialistas dessas diversas áreas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - As Divisões e o Centro ora criados deverão no campo específico de suas especialidades realizar as seguintes atividades culturais:\nI - Proporcionar consultas e pesquisas, colocando o acervo à disposição de estudantes, pesquisadores e do público em geral;\nII - promover exposições didáticas, utilizando materiais de seus respectivos acervos e em intercâmbio interno e externo, com outras instituições;\nIII - Organizar concursos de monografias e estudos, propondo a instituição de prêmios de incentivos;\nIV - Organizar concursos para promoções de natureza publicitária, estimulando a divulgação documentária dos vários aspectos da arte brasileira, pela criação de prêmios honoríficos e de estímulo a especialistas em artes gráficas;\nV - Publicar monografias ou estudos premiados em concursos realizados pelo Departamento;\nVI - Publicar bibliografias preparadas pelos vários campos das Assessorias Técnicas e por bibliotecas especializadas;\nVII - Promover conferências, cursos e palestras;\nVIII - Promover concertos e espetáculos em geral;\nIX - Organizar concursos, propondo a criação de prêmios, para capas de discos de música brasileira, considerando-as matéria de informação documentária e aspecto criativo das artes gráficas;\nX - Estudar e aplicar processos promocionais, que estimulem a doação de livros, periódicos e quaisquer outros materiais documentários;\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Ficam criados e integrados no Quadro Geral de Pessoal, os cargos constantes do Anexo I e Anexo II, partes integrantes desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Fica alterada a denominação do Departamento do Patrimônio Artístico Cultural, da Secretaria Municipal de Cultura, para Departamento do Patrimônio Histórico da referida Secretaria.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Os órgãos da Divisão de Documentação Artística, do Departamento do Patrimônio Histórico, serão reaproveitados em outras unidades do mesmo departamento, ficando extinto o cargo de Diretor da citada Divisão.\nParágrafo único - o pessoal, o material e encargos da Divisão ficam transferidos para o Departamento ora criado.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Um dos cargos de Assistente Jurídico, criado no Anexo I, destina-se ao Departamento do Patrimônio Histórico.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Ficam criados os seguintes órgãos na estrutura do Departamento do Patrimônio Histórico: a) Divisão de Iconografia e Museus; b) Secção de Manuscritos, subordinada à Divisão do Arquivo Histórico.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A Secção de Iconografia e a Secção de Administração de Museus, ambas da Divisão do Arquivo Histórico, passam de administrativas para técnicas, ficando subordinadas à Divisão de Iconografia e Museus. Parágrafo único - A denominação da Secção de Iconografia é alterada para Secção de Museu Histórico da Imagem Fotográfica da Cidade de São Paulo.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Ficam criados, no Departamento do Patrimônio Histórico, conforme Anexo II, 1(um) cargo de Diretor de Divisão Técnica e 1(um) cargo de Chefe de Secção Técnica, bem como transformados em Chefe de Secção Técnica 2(dois) cargos de Chefe de Secção Administrativa.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O artigo 21 da Lei nº 8.204, de 13 de janeiro de 1975, face à necessidade de remanejamento dos órgãos, passa a vigorar com a seguinte redação:\n\"Art. 21 - O Departamento do Patrimônio Histórico é constituído de:\nI - Secção de Contabilidade;\nII - Planetário Municipal de São Paulo;\nIII - Divisão do Arquivo Histórico, com:\na) 4(quatro) Secções Técnicas;\n1) Estudos e Pesquisas;\n2) Classificação e Catalogação;\n3) Intercâmbio;\n4) Manuscritos;\nb) 4(quatro) Secções Administrativas:\n1) Expediente;\n2) Denominação de Logradouros Públicos;\n3) Restauração e Encadernação;\n4) Zeladoria e Manutenção;\nIV - Divisão de Iconografia e Museus, com:\na) 2(duas) Secções Técnicas:\n1) Secção de Administração de Museus;\n2) Museu Histórico da Imagem Fotográfica da Cidade de São Paulo;\nb) 4 (quatro) Secções Administrativas:\n1) Expediente;\n2) Restauração e Montagem;\n3) Arquivo de Negativos;\n4) Fotografias da Cidade;\nV - Divisão de Preservação, com:\na) 5(cinco) Secções Técnicas:\n1) Levantamentos e Pesquisas;\n2) Crítica e Tombamentos;\n3) Programas de Revitalização;\n4) Projeto, restauro e Conservação;\n5) Divulgação e Publicações;\nb) 2(duas) Secções Administrativas:\n1) Expediente;\n2) Laboratório de Restauro;\nVI - Divisão de Administração, com:\na) 4(quatro Secções Administrativas:\n1) Expediente;\n2) Pessoal;\n3) Material e Almoxarifado;\n4) Zeladoria e Manutenção.\"\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 20 de maio de 1975, 422º da fundação de São Paulo.\nOLAVO EGYDIO SETUBAL, Prefeito\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.252, de 20/05/1975 was altered by acts of 1 date(s), the latest 1982-05-06."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08261",
+   "short": "Lei 8261/1975",
+   "title": "Lei nº 8.261, de 30/05/1975 (Altera a redação dos artigos 11 e 12 da Lei nº 7.736, de 26 de maio de 1972.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8261-de-30-de-maio-de-1975",
+   "first_law": "lei-1975-08261",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-05-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8261-de-30-de-maio-de-1975",
+     "sha256": "82662fbf75567f1a30676632fa91955095c758fa06bd6d167d55678cf31d7c4e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8261, DE 30 DE MAIO DE 1975.\nAltera a redação dos artigos 11 e 12 da Lei nº 7.736, de 26 de maio de 1972.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal em sessão de 21 de maio de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os artigos 11 e 12 da Lei nº 7.736, de 26 de maio de 1972, passam a vigorar com a seguinte redação:\nI - \"Art. 11 - Consideram-se contribuintes obrigatórios do H.S.P.M.:\na) todos os servidores municipais, inclusive os titulares de cargos em comissão que não estejam amparados por outro regime previdenciário, com exceção dos beneficiários mencionados no parágrafo único deste artigo, que gozarão de assistência médico hospitalar independente de contribuições;\nb) os servidores de autarquias municipais, com a exceção estabelecida na alínea anterior;\nc) as viúvas dos servidores e os inativos, salvo se requererem o cancelamento de sua condições de contribuinte, no prazo de 180 (cento e oitenta) dias, a contar do falecimento do contribuinte ou da data da aposentadoria.\nParágrafo Único - Ficam dispensados da contribuição para o H.S.P.M., gozando do benefício da assistência médico hospitalar na forma prevista neste artigo:\na) os extranumerários diaristas até o nível II, inclusive;\nb) os servidores integrados pela Lei nº 8.099, de 12 de agosto de 1974, cujos vencimentos não sejam superiores ao fixado para a Referência \"3\", Grau \"A\", inclusive;\nc) os inativos que se hajam aposentado em cargo ou classe salarial de padrão ou salário-base correspondente ao valor fixado para a Referência \"3\", Grau \"A\", inclusive;\nd) os pensionistas, beneficiários de servidores que, à data do falecimento, estavam na situação funcional prevista nos itens anteriores.\"\nII - \"Art. 12 - A contribuição instituída na letra \"a\" do artigo 10, descontada em folha de pagamento pelo órgão pagador e entregue ao H.S.P.M., impreterivelmente, no prazo de 45 (quarenta e cinco) dias, é fixada em 3% (três por cento) com incidência sobre:\nI - O padrão de vencimento do servidor;\nII - O salário-base do contratado;\nIII - O salário-base do extranumerário;\nIV - O padrão de vencimento ou salário-base considerado na fixação dos proventos do inativo;\nV - O valor proporcional ao padrão de vencimento ou salário-base considerado na fixação da pensão.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 30 DE MAIO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário Municipal de Educação, Hilário Torloni.\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa.\nO Secretário de Abastecimento, Mario Osassa.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário de Bem Estar Social, Leopoldina Saraiva.\nO Secretário de Turismo e Fomento, Armando Simões Neto.\nO Secretário Municipal de Transportes, Alberto Soukup, respondendo pelo expediente.\nO Secretário Municipal de Esportes, Caio Sérgio Pompeu de Toledo.\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 30 de maio de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08286",
+   "short": "Lei 8286/1975",
+   "title": "Lei nº 8.286, de 12/09/1975 (Modifica o plano de alargamento da Rua Cerro Corá, aprovado pela Lei nº 7.358, de 25 de setembro de 1969, no 14º subdistrito - Lapa, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8286-de-12-de-setembro-de-1975",
+   "first_law": "lei-1975-08286",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-09-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8286-de-12-de-setembro-de-1975",
+     "sha256": "1206137a68f79cd951ca009dff644464eefa71362c5863edf2f35bc526079493",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8286, DE 12 DE SETEMBRO DE 1975.\n(Projeto de Lei Nº 77/1975)\nModifica o plano de alargamento da Rua Cerro Corá, aprovado pela Lei nº 7.358, de 25 de setembro de 1969, no 14º subdistrito - Lapa, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 8 de setembro de 1975, decretou e eu promulgo a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 25.428, 25.429, 25.430, 25.431, 25.432 e 25.433-A-70, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta Lei, fica modificado, no trecho compreendido entre a Rua Heitor Penteado e a Avenida Diógenes Ribeiro de Lima, o plano de alargamento da Rua Cerro Corá, aprovado pela Lei nº 7.358, de 25 de setembro de 1969, no 14º subdistrito - Lapa, adotando-se, para o referido trecho, a largura básica de 28,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos da Rua Cerro Corá com as vias transversais, constantes das plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 12 DE SETEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08305",
+   "short": "Lei 8305/1975",
+   "title": "Lei nº 8.305, de 08/10/1975 (Aprova plano de abertura de via de ligação no 29º Subdistrito - Santo Amaro.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8305-de-8-de-outubro-de-1975",
+   "first_law": "lei-1975-08305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-10-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8305-de-8-de-outubro-de-1975",
+     "sha256": "5dfb62c1d81ac6481056d6bcb7d09ab82912af4f1dc889042b97b9f3affad171",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8305, DE 8 DE OUTUBRO DE 1975.\nAprova plano de abertura de via de ligação no 29º Subdistrito - Santo Amaro.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 29 de setembro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25.602 M-748, do arquivo do Departamento de Projetos, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de abertura de via de ligação entre a Avenida da Ampliação e a Estrada do Morumbi, com largura de 12,00 metros e extensão aproximada de 757,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas na planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação, ficando, outrossim, o Executivo autorizado a recebê-los em doação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 8 DE OUTUBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 8 de outubro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08306",
+   "short": "Lei 8306/1975",
+   "title": "Lei nº 8.306, de 16/10/1975 (Modifica a redação do artigo 5º da Lei nº 7.670, de 24 de novembro de 1971; introduz artigo à referida Lei, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8306-de-16-de-outubro-de-1975",
+   "first_law": "lei-1975-08306",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-10-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8306-de-16-de-outubro-de-1975",
+     "sha256": "825051afb500445b8bf067d6b9e1293a45bb6dc1190ab99c4b5fd4aabbee09bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.306, DE 16 DE OUTUBRO DE 1975.\nModifica a redação do artigo 5º da Lei nº 7.670, de 24 de novembro de 1971; introduz artigo à referida Lei, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 5º da Lei nº 7670, de 24 de novembro de 1971, passa a vigorar com a seguinte redação:\n\"Art. 5º A EMURB terá como objetivo fundamental a execução de programas e obras de desenvolvimento urbano, obedecendo planos elaborados de acordo com os órgãos próprios da Prefeitura e aprovados previamente pela Câmara Municipal, compreendendo:\nI - A reurbanização de áreas em processo de transformação, ou em vias de deterioração;\nII - A urbanização de áreas não ocupadas;\nIII - A recuperação e reciclagem de edifícios em processo de deterioração, ou de inadequação de uso, do ponto de vista urbano.\nParágrafo Único - Para consecução de seus fins, a EMURB poderá desenvolver toda e qualquer atividade econômica a tal efeito necessária, inclusive adquirir, alienar e promover a desapropriação de imóveis, obedecida a legislação pertinente, em função da estrita execução dos programas e planos de melhoramentos específicos aprovados pelo Legislativo Municipal; realizar financiamentos e outras operações de crédito, observada a legislação pertinente; e celebrar convênios com entidades públicas ou particulares, com a autorização legislativa.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica introduzido na Lei nº 7670, de 24 de novembro de 1971, como nº 6º, o seguinte artigo:\n\"Art. 6º A EMURB terá, ainda, como objetivos:\nI - Promover a implantação e a exploração econômica de equipamentos urbanos e atividades complementares, na forma e em locais definidos por decreto do Executivo, de modo a elevar a qualidade da vida urbana;\nII - Prestar serviços ou executar obras mediante contrato celebrado com entidade pública da administração centralizada ou descentralizada, bem como com as entidades em que o Poder Público seja o detentor da maioria do capital social, estipulando-se no contrato a remuneração a ser paga à EMURB.\nParágrafo Único - Na contratação de obras, em função de contrato com a Prefeitura, a EMURB obedecerá a legislação pertinente às licitações e reajustamentos a que estaria sujeita a própria Prefeitura.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam renumerados os atuais artigos 6º e seguintes da Lei nº 7670, de 24 de novembro de 1971, de modo que o artigo 6º passe a ser o 7º e assim por diante.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 16 DE OUTUBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 16 de outubro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08310",
+   "short": "Lei 8310/1975",
+   "title": "Lei nº 8.310, de 27/10/1975 (Altera a redação do artigo 3º da Lei nº 6.738, de 16 de novembro de 1965.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8310-de-27-de-outubro-de-1975",
+   "first_law": "lei-1975-08310",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-10-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8310-de-27-de-outubro-de-1975",
+     "sha256": "47d9aee740e4bea868902a0c02308105e0d5a25496957b80af6a8d73059d05ce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8310, DE 27 DE OUTUBRO DE 1975.\nAltera a redação do artigo 3º da Lei nº 6.738, de 16 de novembro de 1965.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 17 de outubro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 3º da Lei nº 6738, de 16 de novembro de 1965, passa a ter a seguinte redação:\n\"Art. 3º Para atender às finalidades determinadas na Lei Federal nº 4380, de 21 de agosto de 1964, bem assim àquelas estabelecidas em instruções normativas baixadas pelo Banco Nacional da Habitação, poderão ser desapropriadas, nos termos do Decreto-Lei Federal nº 3365, de 21 de junho de 1941:\na) áreas de terrenos não edificadas;\nb) áreas de terrenos que integram loteamentos irregulares, edificadas ou não, para o fim especial de sua urbanização, observado o disposto nas leis municipais e legislação vigente, aplicáveis à espécie.\n§ 1º A COHAB-SP fica autorizada a firmar convênios, mediante autorização prévia do Prefeito, com entidades privadas ou públicas, inclusive as Sociedades de Economia Mista, as Autarquias e, para o uso de áreas que atendam ao interesse comum e que objetivem o propósito desta lei, com os Municípios limítrofes ao da Capital.\n§ 2º Para consecução de suas finalidades, a COHAB-SP poderá promover, às suas expensas, a desapropriação de imóveis, obedecida a legislação pertinente.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE OUTUBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário de Bem Estar Social, Leopoldina Saraiva.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 27 de outubro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08319",
+   "short": "Lei 8319/1975",
+   "title": "Lei nº 8.319, de 13/11/1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8319-de-13-de-novembro-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08319"
+   ],
+   "versions": [
+    {
+     "from": "1986-06-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8319-de-13-de-novembro-de-1975",
+     "sha256": "9bfa6d0b83a7e5159189923d257ecacc568b0d4dcacd0a19acd8cfffaa226b84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8319, DE 12 DE NOVEMBRO DE 1975.\nModifica parcialmente o plano de ligação das Avenidas Sumaré e Brasil, aprovado pela Lei nº 7.350, de 9 de setembro de 1969, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 31 de outubro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 25.668, 25.669, 25.670, 25.671 e 25.672-B-112, do arquivo do Departamento de Projetos, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, ficam introduzidas as seguintes alterações no plano de ligação das Avenidas Sumaré e Brasil, aprovado pela Lei nº 7.350, de 9 de setembro de 1969:\nI - Modificação de alinhamento da via de que trata o item IV do artigo 1º da Lei nº 7.350, de 1969, nos seguintes trechos:\na)\nb) entre um ponto situado na Rua Henrique Schaumann distante cerca de 40,00 metros da Rua Luiz Murat e outro situado a 21,00 metros aquém da Rua Lisboa, na extensão aproximada de 100,00 metros;\nII - Alargamento da Rua Galeno de Almeida, no trecho compreendido entre as Ruas Lisboa e Capote Valente, na extensão aproximada de 460,00 metros;\nIII - Modificação de alinhamentos da via de que trata o item II do artigo 1º da Lei nº 7.350, de 1969, entre as Ruas Galeno de Almeida e Oscar Freire, na extensão aproximada de 140,00 metros;\nIV - Alargamento da Rua Oscar Freire, no trecho compreendido entre a Rua Galeno de Almeida e o alinhamento da via aprovada pela Lei nº 7.350, de 1969, na extensão aproximada de 60,00 metros;\nV - Alargamento da Avenida Sumaré, entre um ponto situado cerca de 65,00 metros além da sua confluência com a Rua Pombal e outro situado a 10,00 metros aquém da Rua Atalaia, na extensão aproximada de 260,00 metros;\nVI - Reserva de área situada entre a Avenida Dr. Arnaldo e Ruas Petrópolis e Pombal, necessária à implantação de sistema viário;\nVII - Alargamento da Rua Petrópolis, entre esta e a Avenida Dr. Arnaldo, na extensão aproximada de 18,00 metros.\nParágrafo Único. Ficam igualmente aprovadas as concordâncias de alinhamento constantes das plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os alinhamentos estabelecidos pela Lei nº 7.350, de 9 de setembro de 1969, nos trechos indicados nas plantas mencionadas no artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Nos trechos indicados nas plantas que integram a presente lei, as construções, reconstruções ou reformas lindeiras às vias de que tratam os itens I, II, III e V do artigo 1º, bem como à área a que se refere o item VIII do artigo 1º da Lei nº 7.350, de 9 de setembro de 1969, não poderão ter para elas qualquer modalidade de acesso ou abertura, sendo-lhes permitida, apenas, servidão de luz e ar.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em rigor na data de sua publicação, revogadas as Disposições em contrário.\nMUNICÍPIO DE SÃO PAULO, AOS 12 DE NOVEMBRO DE 1975, 422º FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade.\nO Secretário das Finanças, Sérgio Silva e Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 12 de novembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.319, de 13/11/1975 was altered by acts of 1 date(s), the latest 1986-06-13."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08327",
+   "short": "Lei 8327/1975",
+   "title": "Lei nº 8.327, de 28/11/1975",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8327-de-28-de-novembro-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08327"
+   ],
+   "versions": [
+    {
+     "from": "2002-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8327-de-28-de-novembro-de-1975",
+     "sha256": "da99ec2034124b49ff90c29ff6627d219a09e8830196591ca0acfe5295a29e14",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.327, DE 28 DE NOVEMBRO DE 1975.\nAltera o cálculo das Taxas de Licença; confere nova redação ao artigo 21 da Lei nº 7.687, de 29 de dezembro de 1971; fixa normas relativas ao Imposto sobre Serviços de Qualquer Natureza; e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 21 de novembro de 1975, decretou e eu promulgo a seguinte lei:\nDAS TAXAS - CÁLCULO DAS TAXAS\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Serão calculadas na conformidade da Tabela anexa as taxas de licença para:\nI - Localização, Funcionamento e Instalação de Atividades Comerciais, Industriais, Profissionais, de Prestação de Serviços e Similares, referidas no artigo 126 da Lei nº 6.989, de 29 dezembro de 1966 modificado pelo artigo 15 da Lei nº 7.687, de 29 de dezembro de 1971;\nII - Tráfego de Veículos, referida no artigo 135 da Lei nº 6.989, de 29 de dezembro de 1966;\nIII - Publicidade, referida no artigo 151 da Lei nº 6.989, de 29 de dezembro de 1966;\nIV - Escavação e Retirada de Materiais do Sub-solo, referida no artigo 170 da Lei nº 6.989, de 29 de dezembro de 1966 modificado pela letra \"a\" do artigo 24 da Lei nº 7.687, de 29 de dezembro de 1971;\nV - Obras, Construções, Armamentos e Loteamentos, referida no artigo 177 da Lei nº 6.989, de 29 de dezembro de 1966;\nVI - Elevadores, Monta-Cargas e Escadas-Rolantes, referida no artigo 28 da Lei nº 7.047, de 6 de setembro de 1967.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para o cálculo das taxas tomar-se-á o valor da Unidade de Valor Fiscal do Município de São Paulo-UFM, vigente a 1º de janeiro do exercício a que se referir o lançamento.\nPENALIDADES\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 21 da Lei nº 7.687, de 29 de dezembro de 1971, passa a vigorar com a seguinte redação:\n\"Art. 21 - As infrações serão punidas com:\nI - multa correspondente ao valor de 1 (uma) UFM:\na) àqueles que forem encontrados estabelecidos sem que tenham promovido sua regular inscrição e obtido a necessária licença, sem prejuízo, se for o caso, do fechamento do local, com o auxílio de força, quando necessário;\nb) aos que tiverem declarado elementos falsos no pedido de inscrição;\nII - multa correspondente a 1/3 (um terço) da UFM:\na) aos que promoverem a inscrição fora do prazo regulamentar;\nb) aos que deixarem de renovar os dados de sua inscrição, no prazo regulamentar;\nc) aos que cometerem infração, para a qual não haja penalidade expressamente prevista;\nIII - multa correspondente ao valor da diferença que houver, aos que tiverem recolhido, em pagamento da taxa, importância inferior à efetivamente devida, obedecido o limite mínimo de 20% (vinte por cento) da UFM;\nIV - multa correspondente a 20% (vinte por cento) do valor da taxa anual devida, por dia de não cumprimento à intimação de fechamento administrativo do estabelecimento e de 50% (cinquenta por cento) daquele valor, por dia, no caso de desobediência ao termo de fechamento;\nV - multa correspondente a 25% (vinte e cinco por cento) da UFM, aos que não mantiverem afixado, em local visível de seu estabelecimento, os documentos comprobatórios da inscrição e licença, fornecidos pela Administração.\"\nDO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA HOMOLOGAÇÃO: VALOR MÍNIMO PARA LANÇAMENTO\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º\nINSTRUMENTOS DE CONTROLE DA FISCALIZAÇÃO\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Sendo insatisfatórios os meios normais de fiscalização, o Executivo poderá exigir a adoção de instrumentos ou documentos especiais necessários à perfeita apuração dos serviços prestados, da receita auferida e do imposto devido.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## DAS DISPOSIÇÕES GERAIS E FINAIS\nArt. 6º\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor a 1º de janeiro de 1976, revogadas, as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 28 DE NOVEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nSecretário das Finanças, Sérgio Silva de Freitas.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 28 de novembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.327, de 28/11/1975 was altered by acts of 1 date(s), the latest 2002-12-30."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08329",
+   "short": "Lei 8329/1975",
+   "title": "Lei nº 8.329, de 03/12/1975 (Autoriza a transformação da Companhia do Metropolitano de São Paulo - METRÔ em sociedade anônima de capital autorizado, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8329-de-3-de-dezembro-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08329"
+   ],
+   "versions": [
+    {
+     "from": "1978-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8329-de-3-de-dezembro-de-1975",
+     "sha256": "f31c21361484472b1926f15eb07e95cf462544c7bc69cc35cf9c073a999c4a67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.329, DE 3 DE DEZEMBRO DE 1975.\nAutoriza a transformação da Companhia do Metropolitano de São Paulo - METRÔ em sociedade anônima de capital autorizado, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a promover as medidas e atos necessários a transformar a Companhia do Metropolitano de São Paulo METRÔ em sociedade anônima de capital autorizado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 3 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 3 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.329, de 03/12/1975 was altered by acts of 1 date(s), the latest 1978-12-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08330",
+   "short": "Lei 8330/1975",
+   "title": "Lei nº 8.330, de 03/12/1975 (Dispõe sobre o cálculo do Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8330-de-3-de-dezembro-de-1975",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1975-08330"
+   ],
+   "versions": [
+    {
+     "from": "1978-10-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8330-de-3-de-dezembro-de-1975",
+     "sha256": "972329626c294c553bcd0ba6a09baa8c08421c6df31e6abcd62b0af5533d8624",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.330, DE 3 DE DEZEMBRO DE 1975.\nDispõe sobre o cálculo do Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Para o cálculo do Imposto sobre Serviços de Qualquer Natureza, devido pelos prestadores dos serviços mencionados nos incisos I a VIII e XI a XIII da lista de serviços prevista no artigo 49 da Lei nº 6.989, de 29 de dezembro de 1966, com a redação dada pela letra \"F\" do artigo 1º da Lei nº 7.410, de 30 de dezembro de 1969, tomar-se-á o valor da Unidade de Valor Fiscal do Município de São Paulo - UFM.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A tabela a que se refere o artigo 53 da Lei nº 6.989, de 29 de dezembro de 1966, com as alterações estabelecidas pelas Leis nºs 7.047, de 6 de setembro de 1967, 7.410, de 30 de dezembro de 1969, e 8.197, de 27 de dezembro de 1974, passa a ter a seguinte redação:\n\"I - artigo 49, incisos I a VIII e XI a XIII: 250% (duzentos e cinquenta por cento) da UFM;\nII - artigo 49, inciso IX: 1% (um por cento) sobre os preços constantes de convênios de assistência médica ou hospitalar com pessoas jurídicas de direito público interno, à base de leitos-dia, deduzido o valor dos medicamentos e dos honorários médicos (quando o profissional não mantiver relação de emprego com o estabelecimento e for inscrito no Cadastro de Contribuintes Mobiliários), e 2% (dois por cento) nos demais casos e serviços;\nIII - artigo 49, incisos XIV a XVI, XX a XXII, XXXIII, XXXIV, XXXVI, XXXIX, XL, LVIII, LXI e LXII: 2% (dois por cento) sobre o preço dos serviços;\nIV - artigo 49, inciso XXVII:\na) barbeiros - 125% (cento e vinte e cinco por cento) da UFM, anualmente, por profissional ou por cadeira, o que for em maior número, pago em 4 (quatro) prestações, até o dia 15 do mês inicial de cada trimestre;\nb) cabeleireiros - 125% (cento e vinte e cinco por cento) da UFM, anualmente, por profissional ou por secador, o que for em maior número, pago em 4 (quatro) prestações, até o dia 15 do mês inicial de cada trimestre;\nc) manicures, pedicures, tratamento de pele e outros serviços de salões de beleza 125% (cento e vinte e cinco por cento) da UFM, anualmente, por profissional, pago em 4 (quatro) prestações, até o dia 15 do mês inicial de cada trimestre;\nV - artigo 49, inciso XXXV: representação de produtos nacionais, 2% (dois por cento) sobre o total das comissões; demais formas de agenciamento, representação e corretagem ou intermediação de quaisquer títulos, 5% (cinco por cento) sobre o montante das comissões;\nVI - artigo 49, inciso XXXVIII: 2% (dois por cento) sobre as comissões, inclusive bonificações a qualquer título, percebidas na veiculação, e 5% (cinco por cento) sobre o preço dos serviços de confecção, redação, produção e veiculação, esta última quando efetuada diretamente;\nVII - artigo 49, inciso XLVII:\na) auto escolas - 125% (cento e vinte e cinco por cento) da UFM, anualmente, por carro licenciado, pago em 4 (quatro) prestações, até o dia 15 do mês inicial de cada trimestre;\nb) escolas de cabeleireiros e escolas de danças - 5% (cinco por cento) sobre o preço dos serviços;\nc) ensino pré-escolar, de 1º Grau, de 2º Grau, complementar, supletivo e superior, sob inspeção federal ou estadual, e demais escolas ou estabelecimentos de ensino - 2% (dois por cento) sobre o preço dos serviços;\nVIII - artigo 49, incisos XXIX e LXVII: 125% (cento e vinte e cinco por cento) da UFM, anualmente, pago em 4 (quatro) prestações, até o dia 15 do mês inicial de cada trimestre;\nIX - artigo 49, inciso XXXI:\na) cinemas - 5% (cinco por cento) sobre o custo ou o valor do ingresso;\nb) demais atividades - 10% (dez por cento) sobre o custo ou o valor do ingresso;\nX - artigo 49, demais incisos: 5% (cinco por cento) sobre o preço dos serviços.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor a 1º de janeiro de 1976, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 3 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 3 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.330, de 03/12/1975 was altered by acts of 1 date(s), the latest 1978-10-31."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08332",
+   "short": "Lei 8332/1975",
+   "title": "Lei nº 8.332, de 10/12/1975 (Altera o parágrafo único do artigo 3º da Lei nº 8.050, de 22 de abril de 1974.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8332-de-10-de-dezembro-de-1975",
+   "first_law": "lei-1975-08332",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-12-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8332-de-10-de-dezembro-de-1975",
+     "sha256": "a0bf312e8a6853bdf1f027b020128e8917e298192564d0ce883956b81fa7b019",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.332, DE 10 DE DEZEMBRO DE 1975.\nAltera o parágrafo único do artigo 3º da Lei nº 8.050, de 22 de abril de 1974.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 28 de novembro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Parágrafo único do artigo 3º da Lei nº 8050, de 22 de abril de 1974 passa a ter a seguinte redação:\n\"Os projetos modificativos de que trata este artigo, após aceitos e aprovados, terão seus alvarás apostilados por mais 180 dias, descontado o tempo consumido pela Municipalidade entre o protocolamento do pedido de alteração do projeto e a data da apostila.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 10 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 10 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08338",
+   "short": "Lei 8338/1975",
+   "title": "Lei nº 8.338, de 16/12/1975 (Confere nova redação aos artigos 19, 39 e 195 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8338-de-16-de-dezembro-de-1975",
+   "first_law": "lei-1975-08338",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-12-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8338-de-16-de-dezembro-de-1975",
+     "sha256": "fe4cbf43c67e607368fe19ec459f1edd0ed2e4b1013c46625287a17f32e5d816",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.338, DE 16 DE DEZEMBRO DE 1975.\nConfere nova redação aos artigos 19, 39 e 195 da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 19 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pela Lei nº 7.954, de 20 de novembro de 1973, passa a vigorar com a seguinte redação:\n\"Art. 19 - O imposto será pago em prestações, mensais e iguais, na forma regulamentar, respeitado o máximo de 8 (oito).\nParágrafo Único - O recolhimento do imposto não importa em presunção, por parte da Prefeitura, para quaisquer fins, da legitimidade da propriedade, do domínio útil ou da posse do imóvel.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 39 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pela Lei nº 7.954, de 20 de novembro de 1973, passa a vigorar com a seguinte redação:\n\"Art. 39 - O imposto será pago em prestações, mensais e iguais, na forma regulamentar, respeitado o máximo de 8 (oito).\nParágrafo Único - O recolhimento do imposto não importa em presunção, por parte da Prefeitura, para quaisquer fins, da legitimidade da propriedade, do domínio útil ou da posse do imóvel.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 195 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pela Lei nº 7.834, de 27 de dezembro de 1972, passa a vigorar com a seguinte redação:\n\"Art. 195 - O Executivo atualizará, anualmente, a expressão monetária da base de cálculo dos impostos Predial e Territorial Urbano, das multas e das taxas de Limpeza Pública e de Conservação de Vias e Logradouros Públicos, com base nos coeficientes de atualização monetária previstos na Lei Federal nº 6.205, de 29 de abril de 1975.\nParágrafo Único - Salvo a edição de novas Plantas Genéricas de Valores, as em vigor serão atualizadas pelo Executivo, na forma deste artigo.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A falta de impugnação, no prazo regulamentar, do lançamento devidamente notificado, importa em aceitação pelo contribuinte dos elementos utilizados para aferição da base de cálculo dos impostos Predial e Territorial Urbano e das taxas de Limpeza Pública e de Conservação de Vias e Logradouros Públicos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ressalvados os casos de modificação substancial nas características físicas do imóvel, nenhum lançamento, para o exercício de 1976, será calculado sobre valor venal inferior ao adotado no lançamento de 1975.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Nos lançamentos dos impostos Predial e Territorial Urbano, para o exercício de 1976, serão concedidos descontos sobre os valores venais apurados de acordo com as Plantas Genéricas de Valores, na seguinte conformidade:\nI - primeira subdivisão da Zona Urbana - 10% (dez por cento);\nII - segunda subdivisão da Zona Urbana - 16% (dezesseis por cento);\nIII - terceira subdivisão da Zona Urbana - 50% (cinquenta por cento);\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 16 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 16 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08340",
+   "short": "Lei 8340/1975",
+   "title": "Lei nº 8.340, de 19/12/1975 (Retifica descrição das áreas a que se refere o artigo 1º, item II da Lei nº 8.176, de 16 de dezembro de 1974.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8340-de-19-de-dezembro-de-1975",
+   "first_law": "lei-1975-08340",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8340-de-19-de-dezembro-de-1975",
+     "sha256": "04ede57c61fb150bfbc0d0731f288cf697ced83d15304ed4dfdd111d67e3b967",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8340, DE 19 DE DEZEMBRO DE 1975.\nRetifica descrição das áreas a que se refere o artigo 1º, item II da Lei nº 8.176, de 16 de dezembro de 1974.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 12 de dezembro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº A-2.707, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, as áreas devolutas discriminadas no artigo 1º, item II, da Lei nº 8.176, de 16 de dezembro de 1974 necessárias à execução do plano de melhoramentos aprovado pela Lei nº 4.708, de 4 de julho de 1955 passam a ter a seguinte descrição:\na) delimitada pelo perímetro 6-3-8-11-14-14A-15-19A-20-9-10-130-131-132-133-134-136-137-140-141-4-7-6, de formato irregular, situada entre a Avenida Regente Feijó, Rua Água Rasa e Avenida Álvaro Ramos.\nb) delimitada pelo perímetro 146-143-148-149-154-159-160-165-8-169-170-176-175-171-167-164-163-158-153-152-147-146, de formato irregular, situada entre a Avenida Álvaro Ramos, Rua Major Basílio e Rua do Acre.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 19 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 19 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1975-08353",
+   "short": "Lei 8353/1975",
+   "title": "Lei nº 8.353, de 30/12/1975 (Introduz alterações na Lei nº 7.329, de 11 de julho de 1969.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8353-de-30-de-dezembro-de-1975",
+   "first_law": "lei-1975-08353",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1975-12-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8353-de-30-de-dezembro-de-1975",
+     "sha256": "8d6d08c4f2b6decad576952e708e4483e8575357c3ae5be0ed066b2a779d82ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.353, DE 30 DE DEZEMBRO DE 1975.\nIntroduz alterações na Lei nº 7.329, de 11 de julho de 1969.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 17 de dezembro de 1975, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O parágrafo único do artigo 12 e os artigos 23 e 25 da Lei nº 7.329, de 11 de julho de 1969, passam a vigorar com a seguinte redação:\n\"Parágrafo Único - Os veículos dotados de 2 (duas) portas não poderão transportar mais de 2 (dois) passageiros.\"\n\"Art. 23 - Os alvarás vencidos a partir de 1º de janeiro de 1976, cuja renovação não for efetivada na época prevista, poderão ser renovados, observado o limite máximo de 3 (três) anos contados do vencimento, desde que os interessados o requeiram e paguem, por ano ou fração decorrida, além das taxas e demais tributos devidos, acrescidos dos juros de mora e correção monetária, multa correspondente a 1 (uma) Unidade de Valor Fiscal do Município de São Paulo.\"\n\"Art. 25 - O permissionário poderá pleitear a substituição do veículo indicado no Alvará por outro de fabricação mais recente, de 2 (duas) ou 4 (quatro) portas, observadas as demais exigências estabelecidas em regulamento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os parágrafos 2º e 3º do artigo 22 da Lei nº 7.329, de 11 de julho de 1969, passando o atual § 1º a constituir o parágrafo único.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 30 DE DEZEMBRO DE 1975, 422º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 30 de dezembro de 1975.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1976-08394",
+   "short": "Lei 8394/1976",
+   "title": "Lei nº 8.394, de 28/05/1976 (Autoriza a constituição da Companhia de Engenharia de Tráfego — CET, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8394-de-28-de-maio-de-1976",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1976-08394"
+   ],
+   "versions": [
+    {
+     "from": "1989-12-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8394-de-28-de-maio-de-1976",
+     "sha256": "f6e1285501fde807b9fdef003a825a1222b5cba3ade17a6ffd5b8506514839aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.° 8.394, DE 28 DE MAIO DE 1976\n(Projeto de Lei nº 31/1976 - EXECUTIVO)\nAutoriza a constituição da Companhia de Engenharia de Tráfego - CET, e dá outras providências.\nOlavo Egydio Setúbal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual n.° 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.° - Fica o Executivo autorizado a promover as medidas e atos necessários à constituição de sociedade anônima, de economia mista, sob a denominação de Companhia de Engenharia de Tráfego - CET, com sede e foro no Município de São Paulo e com prazo de duração indeterminado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2",
+       "kind": "article",
+       "text": "Art. 2.° - É objetivo social da Companhia:\nI-Planejar e implantar, nas vias e logradouros do Município, a operação do sistema viário, com o fim de assegurar maior segurança e fluidez do trânsito e do tráfego;\nII - Promover a implantação e a exploração econômica de equipamentos urbanos e atividades complementares, na forma e em locais definidos por decreto do Executivo, de modo a melhorar as condições do trânsito e do tráfego;\nIII - Prestar serviços ou executar obras relacionados à operação do sistema viário, mediante contratos com pessoas de direito público ou privado e, ainda, com pessoas físicas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3",
+       "kind": "article",
+       "text": "Art. 3.° - O capital inicial da Companhia será de Cr$ 10.000.000,00 (dez milhões de cruzeiros), dividido em ações ordinárias e nominativas e do qual a Prefeitura do Município de São Paulo subscreverá e realizará, no mínimo ,51% (cinqüenta e um por cento).\nArt .4.°-A Companhia será administrada por uma diretoria composta de três membros, cujas atribuições, mandato e remuneração serão fixados na assembléia geral de sua constituição.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5",
+       "kind": "article",
+       "text": "Art. 5.° - A Companhia exercerá suas atividades com pessoal próprio, sujeito ao regime das leis trabalhistas ou com servidores públicos que lhe forem postos à disposição.\n§ 1- Os servidores municipais postos à disposição da Companhia terão assegurados todos os direitos e vantagens dos respectivos cargos ou funções.\n§ 2.° - Respeitados os preceitos da legislação aplicável, a Companhia exercerá poder disciplinar sobre o pessoal posto à sua disposição.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6",
+       "kind": "article",
+       "text": "Art. 6.° - O estatuto social da Companhia obedecerá às prescrições da Lei de Sociedade Por Ações e às demais disposições legais que lhe forem aplicáveis.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7",
+       "kind": "article",
+       "text": "Art. 7.°\nParágrafo único -\n"
+      },
+      "art-0008": {
+       "label": "Art. 8",
+       "kind": "article",
+       "text": "Art. 8.° - O Executivo deverá, no prazo de 90 (noventa) dias, adotar as medidas necessárias à constituição da Companhia de Engenharia de Tráfego - CET.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9",
+       "kind": "article",
+       "text": "Art. 9.° - Para atender às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial no valor de Cr$ 10.000.000,00 (dez milhões de cruzeiros), com vigência até 31 de dezembro de 1976, a ser coberto com recursos provenientes de operações de crédito, mediante colocação de Letras e Apólices Reajustáveis do Tesouro Municipal, nos termos da Resolução n.° 46, de 10 de setembro de 1975, do Senado Federal, e da Lei n.° 8.295, de 19 de setembro de 1975.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de maio de 1976, 423.° da fundação de São Paulo.\n- O Prefeito, Olavo Egydio Setúbal\n- O Secretário de Negócios Internos e Jurídicos, Teófllo Ribeiro de Andrade Filho\n- O Secretário das Finanças, Sérgio Silva de Freitas\n- O Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\n- O Secretário Municipal de Educação, Hilário Torloni\n- O Secretário de Higiene e Saúde, Fernando Proença de Gouvêa\n- O Secretário de Abastecimento, Mario Os assa\n- O Secretário de Serviços e Obras, Aurélio Araújo\n- O Secretário de Bem Estar Social, Leopoldina Saraiva\n- O Secretário de Turismo e Fomento, Armando Simões Neto\n- O Secretário Municipal de Transportes, Olavo Guimarães Cupertino\n- O Secretário Municipal de Esportes, Caio Sérgio Pompeu de Toledo\n- O Secretário Municipal de Cultura, Sábato Antônio Magaldi\n- O Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 28 de maio de 1976. - O Chefe do Gabinete, Erwin Friedricb Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.394, de 28/05/1976 was altered by acts of 2 date(s), the latest 1989-12-22."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
