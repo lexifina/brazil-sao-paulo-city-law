@@ -1,0 +1,2163 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "20 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1980-09044": {
+   "label": "Lei nº 9.044, de 14/04/1980",
+   "title": "Dispõe sobre a concessão de auxílio à Fundação Cinemateca Brasileira.",
+   "kind": "law",
+   "enacted": "1980-04-14",
+   "published": "1980-04-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9044-de-14-de-abril-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09055": {
+   "label": "Lei nº 9.055, de 08/05/1980",
+   "title": "Dispõe sobre o cancelamento de débitos, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1980-05-08",
+   "published": "1980-05-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9055-de-8-de-maio-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09075": {
+   "label": "Lei nº 9.075, de 12/06/1980",
+   "title": "Aprova plano de alargamento da Avenida Engenheiro José Salles, no 32º subdistrito - Capela do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-06-12",
+   "published": "1980-06-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9075-de-12-de-junho-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09083": {
+   "label": "Lei nº 9.083, de 27/06/1980",
+   "title": "Dispõe sobre concessão de uso de área municipal ao Ipê Clube, e dá outra providências.",
+   "kind": "law",
+   "enacted": "1980-06-27",
+   "published": "1980-06-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9083-de-27-de-junho-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09100": {
+   "label": "Lei nº 9.100, de 12/09/1980",
+   "title": "Dispõe sobre criação de cargos destinados a atender, complementarmente, o disposto no artigo 2º da Lei nº 7747, de 27 de junho de 1972, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-09-12",
+   "published": "1980-09-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9100-de-12-de-setembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09102": {
+   "label": "Lei nº 9.102, de 15/09/1980",
+   "title": "Altera o artigo 6º da Lei nº 7.670, de 24 de novembro de 1971, na redaçao que lhe deu a Lei nº 8.306, de 16 de outubro de 1975.",
+   "kind": "law",
+   "enacted": "1980-09-15",
+   "published": "1980-09-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9102-de-15-de-setembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09104": {
+   "label": "Lei nº 9.104, de 19/09/1980",
+   "title": "Aprova plano de melhoramentos no 32º subdistrito - Capela do Socorro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-09-19",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9104-de-19-de-setembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09121": {
+   "label": "Lei nº 9.121, de 14/10/1980",
+   "title": "Dispõe sobre pagamento fora do prazo, infrações e penalidades referentes ao Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-10-14",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9121-de-14-de-outubro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09134": {
+   "label": "Lei nº 9.134, de 27/10/1980",
+   "title": "Exclui as moradias econômicas dos acréscimos previstos no artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pelo artigo 5º da Lei nº 7.785, de 20 de setembro de 1972; altera e complementa dispositivos da Lei nº 8.822, de 24 de novembro de 1978, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-10-27",
+   "published": "1980-10-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9134-de-27-de-outubro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09156": {
+   "label": "Lei nº 9.156, de 26/11/1980",
+   "title": "Concede isenção de Imposto sobre Serviços de Qualquer Natureza; altera a redação dos artigos 19 e 39 da Lei nº 6.989, de 29 de dezembro de 1966, e da outras providências.",
+   "kind": "law",
+   "enacted": "1980-11-26",
+   "published": "1980-11-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9156-de-26-de-novembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09157": {
+   "label": "Lei nº 9.157, de 01/12/1980",
+   "title": "Reformula o regime de concessão de benefícios previdenciários aos servidores municipais, e dá outras providencias.",
+   "kind": "law",
+   "enacted": "1980-12-01",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9157-de-1-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09158": {
+   "label": "Lei nº 9.158, de 01/12/1980",
+   "title": "Dispõe sobre a criação de Comissão de Licitação Permanente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-12-01",
+   "published": "1980-12-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9158-de-1-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09159": {
+   "label": "Lei nº 9.159, de 01/12/1980",
+   "title": "Dispõe sobre benefícios devidos em virtude de Acidente de Trabalho e Doença Profissional, de que trata a Lei nº 8.989, de 29 de outubro de 1979, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-12-01",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9159-de-1-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09160": {
+   "label": "Lei nº 9.160, de 03/12/1980",
+   "title": "Institui o regime jurídico dos servidores admitidos em serviço de caráter temporário e contratados para funções de natureza técnica especializada, nos termos do artigo 106 da constituição federal.",
+   "kind": "law",
+   "enacted": "1980-12-03",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9160-de-03-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09167": {
+   "label": "Lei nº 9.167, de 03/12/1980",
+   "title": "Dispõe sobre a reorganização, competência, jurisdição e funcionamento do Tribunal de Contas do Município de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-12-03",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9167-de-03-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09168": {
+   "label": "Lei nº 9.168, de 04/12/1980",
+   "title": "Reorganiza o Quadro de Atividades Artísticas instituído pela Lei nº 8401, de 8 de junho de 1976, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1980-12-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9168-de-4-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09170": {
+   "label": "Lei nº 9.170, de 04/12/1980",
+   "title": "Organiza e institui as carreiras de Nivel Universitario que especifica, e da outras providencias",
+   "kind": "law",
+   "enacted": "1980-12-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9170-de-4-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09178": {
+   "label": "Lei nº 9.178, de 05/12/1980",
+   "title": "Institui o \"dia do alcoolatra recuperado\" no municipio de sao paulo, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1980-12-05",
+   "published": "1980-12-06",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9178-de-5-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09188": {
+   "label": "Lei nº 9.188, de 11/12/1980",
+   "title": "Reestrutura a Procuradoria da Fazenda Municipal, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1980-12-11",
+   "published": "1980-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9188-de-11-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1980-09204": {
+   "label": "Lei nº 9.204, de 18/12/1980",
+   "title": "Altera a organização do Departamento de Rendas Imobiliárias — RI, estabele­cida pela Lei n.o 8645, de. 21 de no­vembro de 1977, e dá outras providên­cias.",
+   "kind": "law",
+   "enacted": "1980-12-18",
+   "published": "1980-12-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9204-de-18-de-dezembro-de-1980",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1980-09044",
+   "short": "Lei 9044/1980",
+   "title": "Lei nº 9.044, de 14/04/1980 (Dispõe sobre a concessão de auxílio à Fundação Cinemateca Brasileira.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9044-de-14-de-abril-de-1980",
+   "first_law": "lei-1980-09044",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-04-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9044-de-14-de-abril-de-1980",
+     "sha256": "ee1e6d010dfe9db549bea5ce04ad0fa5127426610ba96a42e2a8b8b992b1fa4e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9044, DE 14 DE ABRIL DE 1980\nDispõe sobre a concessão de auxílio à Fundação Cinemateca Brasileira.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 26 de março de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica o Executivo autorizado a conceder à Fundação Cinemateca Brasileira um auxílio de Cr$ 4.000.000,000 (quatro milhões de cruzeiros), destinado à colaborar com a entidade nas despesas de aquisição, recuperação de móveis, utensílios e equipamentos de suas instalações no Parque da Conceição.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de abril de 1980, 427º da fundação de São Paulo. - O Prefeito, Reynaldo Emygdio de Barros\n- O Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\n- O Secretário das Finanças, Pedro Cipollari\n- O Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefiado Gabinete do Prefeito, em 14 de abril de 1980.\n- O Secretário-Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09055",
+   "short": "Lei 9055/1980",
+   "title": "Lei nº 9.055, de 08/05/1980 (Dispõe sobre o cancelamento de débitos, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9055-de-8-de-maio-de-1980",
+   "first_law": "lei-1980-09055",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-05-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9055-de-8-de-maio-de-1980",
+     "sha256": "dc97965212e80fb5179a14569ae8fbe38f2ec091983b98c714eebd6b3770f54e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9055, DE 8 DE MAIO DE 1980.\n(Projeto de Lei Nº 28/1980)\nDispõe sobre o cancelamento de débitos, e da outras providencias.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam cancelados os débitos para com a Administração Direta e Autarquias, inscritos ou não na dívida ativa, cujo valor originário não exceda a Cr$ 1.000,00 (hum mil cruzeiros), na seguinte conformidade:\na) até 31 de dezembro de 1974, quando referentes a tributos e multas;\nb) até 31 de dezembro de 1979, nos demais casos.\nParágrafo Único - O cancelamento de débito previsto nesta lei não abrange as multas aplicadas a infrações de trânsito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Quando se tratar de tributo para o qual a legislação admita o pagamento em prestações, o limite referido no artigo anterior aplicar-se-á em relação ao valor originário lançado, mesmo que quitadas parcelas nas quais se decomponha.\nParágrafo Único - O disposto neste artigo não dá direito à restituição das importâncias já pagas, no todo ou em parte.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Será providenciado o arquivamento dos procedimentos judiciais que objetivem a cobrança dos débitos cancelados na forma dos artigos 1º e 2º.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Administração Direta e as Autarquias poderão cancelar débitos apurados em nome de ex-servidores exonerados, demitidos, falecidos ou aposentados, bem como os débitos oriundos de danos causados a bens materiais do Município, cujo valor originário não exceda a importância equivalente a 1 (uma) Unidade de Valor Fiscal do Município de São Paulo - UFM, desde que a cobrança se revele antieconômica.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 8 DE MAIO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal em 8 de maio de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09075",
+   "short": "Lei 9075/1980",
+   "title": "Lei nº 9.075, de 12/06/1980 (Aprova plano de alargamento da Avenida Engenheiro José Salles, no 32º subdistrito - Capela do Socorro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9075-de-12-de-junho-de-1980",
+   "first_law": "lei-1980-09075",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-06-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9075-de-12-de-junho-de-1980",
+     "sha256": "50da2e8e0c87a4e80b14eb220ca9631f2adbd971fbacca6ad61f77e0538c5e83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9075, DE 12 DE JUNHO DE 1980.\nAprova plano de alargamento da Avenida Engenheiro José Salles, no 32º subdistrito - Capela do Socorro, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal em sessão de 22 de maio de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 26.102/1 e 26.102/2-J-685, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado plano de alargamento da Avenida Engenheiro José Salles, para 20,00 metros, no trecho compreendido entre a Praça Guido Boni e a Avenida Interlagos, na extensão aproximada de 485,00 metros, no 32º subdistrito - Capela do Socorro.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas nas plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão, oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 12 DE JUNHO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 12 de junho de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09083",
+   "short": "Lei 9083/1980",
+   "title": "Lei nº 9.083, de 27/06/1980 (Dispõe sobre concessão de uso de área municipal ao Ipê Clube, e dá outra providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9083-de-27-de-junho-de-1980",
+   "first_law": "lei-1980-09083",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-06-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9083-de-27-de-junho-de-1980",
+     "sha256": "b8c76b8bd9571bba4dcf3458780713518319d23bd64784e3889515571f0f7d68",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9083, DE 27 DE JUNHO DE 1980.\nDispõe sobre concessão de uso de área municipal ao Ipê Clube, e dá outra providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 10 de junho de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a ceder ao Ipê Clube, mediante concessão administrativa, independentemente de concorrência pública e pelo prazo de 40 (quarenta) anos, o uso de área municipal situada no 24º subdistrito - Indianópolis, para o fim de promover atividades esportivas amadorísticas e recreativas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área referida no artigo anterior, configurada na planta anexa nº A-5419, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, de formato irregular, com cerca de 21.800,00m² (vinte e um mil e oitocentos metros quadrados), confrontando, para quem de dentro da área olha para a Rua Estado de Israel: pela frente, linha 2-3, medindo, mais ou menos, 181,50 metros, confrontando com a Rua Estado de Israel, segundo seu alinhamento; pelo lado direito, linha mista 3-4-5-6, medindo, mais ou menos, 125,50 metros, confrontando em toda sua extensão com área municipal, assim parcelada: trecho 3-4, linha curva, com, mais ou menos, 8,00 metros, trecho 4-5, linha reta, com, mais ou menos, 105,50 metros, e trecho 5-6, linha curva, com, mais ou menos, 12,00 metros; pelo lado esquerdo, linha mista 7-8-1-2, medindo, mais ou menos, 75,50 metros, confrontando em toda sua extensão com a área municipal cedida em permissão de uso através do Decreto nº 11.225/74, assim parcelada: trecho 7-8, linha curva, com, mais ou menos, 12,00 metros, trecho 8-1, linha mista, com, mais ou menos, 53,00 metros, e trecho 1-2, linha curva, com, mais ou menos, 10,50 metros; pelos fundos, linha curva 6-7, medindo, mais ou menos, 226,50 metros, confrontando com a área municipal cedida em permissão de uso através do Decreto nº 11.225/74.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das condições que forem exigidas pela Prefeitura, por ocasião da assinatura do instrumento de concessão, no sentido de resguardar os interesses da Prefeitura, fica a concessionária obrigada a:\na) proporcionar, na área concedida, permanentemente, o exercício de atividades esportivas amadorísticas e recreativas para seus associados e familiares;\nb) manter, na área concedida, serviço de educação e recreação destinado à população infantil das vizinhanças, a ser prestado, gratuitamente, mesmo aos que não sejam filhos de associados;\nc) manter as instalações e o imóvel sempre em perfeitas condições de utilização para os fins visados, providenciando, às suas expensas, quaisquer obras de manutenção que se fizerem necessárias;\nd) submeter à prévia aprovação da Prefeitura, mediante apresentação de projeto e memoriais, eventuais planos de novas construções ou de ampliação das existentes;\ne) não ceder o imóvel e benfeitorias, no todo ou em parte, a terceiros seja a que título for;\nf) zelar pelo imóvel, não permitindo que terceiros venham dele se apossar, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verifique;\ng) responder, perante terceiros, por quaisquer prejuízos decorrentes da execução de obras, serviços ou trabalhos que realizar;\nh) responder, perante o Poder Público, por todos os impostos, taxas e demais encargos referentes ao imóvel e às atividades nele exercidas;\ni) arcar com todas as despesas oriundas da concessão, inclusive as relativas à lavratura e registro do competente instrumento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A extinção ou dissolução da entidade concessionária, a alteração de suas finalidades com objetivo incompatível ao uso, a modificação do destino da área, a inobservância das condições estatuídas nesta lei ou das cláusulas que constarem do instrumento de concessão, implicarão na automática, e de pleno direito, rescisão da concessão, revertendo a área ao Município, incorporando-se ao seu patrimônio todas as benfeitorias nela construídas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, seja a que título for, o mesmo ocorrendo uma vez findo o prazo da concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica a Prefeitura com o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estatuídas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE JUNHO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal de Esportes, Roberto Roschel Roth\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 27 de junho de1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09100",
+   "short": "Lei 9100/1980",
+   "title": "Lei nº 9.100, de 12/09/1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9100-de-12-de-setembro-de-1980",
+   "first_law": "lei-1980-09100",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-09-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9100-de-12-de-setembro-de-1980",
+     "sha256": "c6163ab28471acf10ffe529f51e6cb406e2e34646598a4e7eeeaffe290e20fab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9100, DE 12 DE SETEMBRO DE 1980.\nDispõe sobre criação de cargos destinados a atender, complementarmente, o disposto no artigo 2º da Lei nº 7747, de 27 de junho de 1972, e dá outras providências.\nReynaldo Emygdio de Baixos, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados os cargos discriminados na coluna \"Situação Antiga\" da Tabela anexa à presente lei, com as alterações constantes da coluna \"Situação Nova\", destinados a atender, complementarmente, o disposto no artigo 2º da Lei nº 7747, de 27 de junho de 1972.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 27 de junho de 1972.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 12 DE SETEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS.\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz.\nO Secretário das Finanças, Pedro Cipollari.\nO Secretário Municipal da Administração, João Lopes Guimarães.\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Secretaria do Governo Municipal, em 12 de setembro de 1980.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud.\nO Secretário das Finanças, Pedro Cipollari.\nO Secretário Municipal da Administração, João Lopes Guimarães.\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Secretaria do Governo Municipal, em 12 de setembro de 1980.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud.\nTABELA ANEXA À LEI 9100, DE 12 DE SETEMBRO DE 1980.\n___________________________________________________________________________________________________\nSITUAÇÃO ANTIGA | SITUAÇÃO NOVA\nNOME DO CARGO OU | QUANTIDADE| PP | PADRÃO | NOME DO CARGO OU | QUANTIDADE | PP | REFERÊNCIA\nFUNÇÃO | | | | FUNÇÃO\n1 - Técnico em | 1|PS |II-A | 1 - Técnico em | 1|III | 15\nEletrocardiografia | | | | Eletrocardiografia\n2 - Instrutor (Esc.| 2|PS |II-D | 2 - Assistente de | 2|II | 15\nMun. Astrofísica) | | | | Astronomia\n3 - Serviços | 1|PS |II-C | 3 - Encarregado de | 1|PS | 13\nTécnicos de | | | | Serviço\nOrientação e | | | | (Fiscalização de\nFiscalização de | | | | Próprios Municipais)\nPróprios Municipais\n4 - Assistente | 1|PS |XII-C | 4 - Assessor Técnico| 1|I |DA-12\n(ABAST.)\n____________________|___________|____|________|_____________________|____________|____|____________\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09102",
+   "short": "Lei 9102/1980",
+   "title": "Lei nº 9.102, de 15/09/1980 (Altera o artigo 6º da Lei nº 7.670, de 24 de novembro de 1971, na redaçao que lhe deu a Lei nº 8.306, de 16 de outubro de 1975.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9102-de-15-de-setembro-de-1980",
+   "first_law": "lei-1980-09102",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-09-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9102-de-15-de-setembro-de-1980",
+     "sha256": "e73945b4026ae8dbb00cb6dcda96fdfc0a49c439e1bde4f4b5b099d909d7bae3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9102, DE 15 DE SETEMBRO DE 1980.\nAltera o artigo 6º da Lei nº 7.670, de 24 de novembro de 1971, na redaçao que lhe deu a Lei nº 8.306, de 16 de outubro de 1975.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 6º da Lei nº 7670, de 24 de novembro de 1971, na redação que lhe deu o artigo 2º da Lei nº 8306, de 16 de outubro de 1975, passa a vigorar com o seguinte teor:\n\"Art. 6º - A EMURB terá, ainda, como objetivos:\nI - Promover a implantação e exploração econômica, inclusive publicitária, de equipamentos urbanos e atividades complementares, na forma e em locais definidos por decreto do Executivo, de modo a elevar a qualidade da vida urbana;\nII - Prestar serviços ou executar obras mediante contrato celebrado com entidade pública da Administração Centralizada ou Descentralizada, bem como com as entidades em que o Poder Público seja detentor da maioria do capital social, estipulando-se no contrato a remuneração a ser paga à EMURB.\n§ 1º - Os recursos obtidos nos termos do inciso I deverão ser aplicados pela EMURB na implantação, manutenção, conservação e melhoria de equipamentos urbanos.\n§ 2º - Na contratação de obras, serviços e compras, a EMURB obedecerá aos princípios da licitação.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 15 DE SETEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 15 de setembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09104",
+   "short": "Lei 9104/1980",
+   "title": "Lei nº 9.104, de 19/09/1980 (Aprova plano de melhoramentos no 32º subdistrito - Capela do Socorro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9104-de-19-de-setembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09104"
+   ],
+   "versions": [
+    {
+     "from": "1985-07-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9104-de-19-de-setembro-de-1980",
+     "sha256": "cff63fefe899534b86bd352592abb9fcadf8684895a56909653f75d5a539693b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9104, DE 19 DE SETEMBRO DE 1980.\nAprova plano de melhoramentos no 32º subdistrito - Capela do Socorro, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.136-P-1038, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado, no 32º subdistrito - Capela do Socorro, o seguinte plano de melhoramentos:\nI - Alargamento da Estrada de Parelheiros, no trecho compreendido entre, mais ou menos, 40,00 metros além da rua \"A\" e o prolongamento da Estrada de Parelheiros, de que trata o item seguinte, com largura variável de 35,00 a 54,00 metros e extensão aproximada de 170,00 metros;\nII - Prolongamento da Estrada de Parelheiros, desde o trecho descrito no item anterior até a Estrada do Rio Bonito, com largura variável de 35,00 a 54,00 metros e extensão aproximada de 320,00 metros;\nII - Alargamento da Estrada do Rio Bonito, no trecho compreendido entre a Rua Cambuci do Vale e a Estrada de Parelheiros, com largura variável de 40,00 a 57,00 metros e extensão aproximada de 320,00 metros;\nIV - Alargamento da Estrada de Parelheiros, desde a Estrada do Rio Bonito até, mais ou menos, 83,00 metros aquém da confluência das Ruas Borba, Alberto Nunes e Domingos Tarroso, com largura variável de 35,00 a 75,00 metros e extensão aproximada de 850,00 metros;\nV - Prolongamento da rua \"A\", desde, mais ou menos, 70,00 metros além da Estrada de Parelheiros até a Rua Frederico René de Jaegher, com largura variável de 20,00 a 24,00 metros e extensão aproximada de 100,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas na planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Conforme indicado na planta mencionada no artigo anterior, as construções, reconstruções ou reformas que se fizerem nos lotes lindeiros à Estrada do Rio Bonito, no trecho compreendido entre as Ruas Silves e Cambuci do Vale, lado oeste, não poderão ter, para a referida estrada, qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 19 DE SETEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 19 de setembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.104, de 19/09/1980 was altered by acts of 2 date(s), the latest 1985-07-25."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09121",
+   "short": "Lei 9121/1980",
+   "title": "Lei nº 9.121, de 14/10/1980 (Dispõe sobre pagamento fora do prazo, infrações e penalidades referentes ao Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9121-de-14-de-outubro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09121"
+   ],
+   "versions": [
+    {
+     "from": "2005-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9121-de-14-de-outubro-de-1980",
+     "sha256": "a13042ddb6fe85bd23b261563d5ad3f8cece72dc957c9db282e53b6a8faf5314",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.121, DE 14 DE OUTUBRO DE 1980.\nDispõe sobre pagamento fora do prazo, infrações e penalidades referentes ao Imposto sobre Serviços de Qualquer Natureza, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º .\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 -\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 -\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Esta lei entrará em vigor a partir de sua regulamentação, a ser baixada pelo Executivo dentro de 120 (cento e vinte) dias, revogando-se as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 14 DE OUTUBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 14 de outubro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.121, de 14/10/1980 was altered by acts of 4 date(s), the latest 2005-12-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09134",
+   "short": "Lei 9134/1980",
+   "title": "Lei nº 9.134, de 27/10/1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9134-de-27-de-outubro-de-1980",
+   "first_law": "lei-1980-09134",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-10-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9134-de-27-de-outubro-de-1980",
+     "sha256": "5c40a946ad5a86937853327ffc204e075bcaa7ce2d51e08678eff82631b8e743",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.134, DE 27 DE OUTUBRO DE 1980.\nExclui as moradias econômicas dos acréscimos previstos no artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pelo artigo 5º da Lei nº 7.785, de 20 de setembro de 1972; altera e complementa dispositivos da Lei nº 8.822, de 24 de novembro de 1978, e dá outras providências.\nReynaldo Emygdio de Barres, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 7 de outubro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os acréscimos previstos no artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pelo artigo 5º da Lei nº 7.785, de 20 de setembro de 1972, não se aplicam às moradias econômicas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 4º da Lei nº 8.822, de 24 de novembro de 1978, alterado pelo artigo 3º da Lei nº 8.834, de 14 de dezembro de 1978, passa a vigorar com a seguinte redação, acrescido de § 2º e transformado o parágrafo único em § 1º:\n\"Art. 4º - A Taxa, devida anualmente, será calculada à razão de 0,0012 de 1 (uma) UFM - Unidade de Valor Fiscal do Município de São Paulo por metro quadrado de área construída, do prédio localizado na zona urbana.\n§ 1º - A Taxa será paga em prestações, na forma e nos prazos regulamentares.\n§ 2º - Nenhum lançamento de Taxa será inferior a 7% (sete por cento)da UFM.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica concedida, para o exercício de 1979, isenção da Taxa instituída pela Lei nº 8.822, de 24 de novembro de 1978.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE OUTUBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário da Habitação e Desenvolvimento Urbano, Luiz Gomes Cardim Sangirardi\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 27 de outubro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09156",
+   "short": "Lei 9156/1980",
+   "title": "Lei nº 9.156, de 26/11/1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9156-de-26-de-novembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09156"
+   ],
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9156-de-26-de-novembro-de-1980",
+     "sha256": "787afe928f7d75a8294093a825a7a37306db2c88cfdc770366e8bcd8c792624d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.156, DE 26 DE NOVEMBRO DE 1980.\nConcede isenção de Imposto sobre Serviços de Qualquer Natureza; altera a redação dos artigos 19 e 39 da Lei nº 6.989, de 29 de dezembro de 1966, e da outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 19 da Lei nº 6989, de 29 de dezembro de 1966, modificado pela Lei nº 8338, de 16 de dezembro de 1975, passa a vigorar com a seguinte redação, mantido o seu parágrafo único.\n\"Art. 19 - O Imposto será pago em prestações mensais, na forma regulamentar respeitado o máximo de 10 (dez).\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 39 da Lei nº 6989, de 29 de dezembro de 1966, modificado pela Lei nº 8338, de 16 de dezembro de 1975, passa a vigorar com a seguinte redação, mantido seu parágrafo único:\n\"Art. 39 - O Imposto será pago em prestações mensais, na forma regulamentar, respeitado o máximo de 10 (dez).\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para o exercício de 1981, o valor de 1 (uma) UFM será de Cr$ 4.440,00 (quatro mil, quatrocentos e quarenta cruzeiros).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 26 DE NOVEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 26 de novembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.156, de 26/11/1980 was altered by acts of 1 date(s), the latest 2006-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09157",
+   "short": "Lei 9157/1980",
+   "title": "Lei nº 9.157, de 01/12/1980 (Reformula o regime de concessão de benefícios previdenciários aos servidores municipais, e dá outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9157-de-1-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09157"
+   ],
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9157-de-1-de-dezembro-de-1980",
+     "sha256": "ad5e9f44584ed5158ef5c2efd8664ca12a3da2a01e7c1adb615de5c7ad7571a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.157, DE 1º DE DEZEMBRO DE 1980.\n(Projeto de Lei Nº 233/1980 - EXECUTIVO)\nReformula o regime de concessão de benefícios previdenciários aos servidores municipais, e dá outras providencias.\nREYNALDO EMYGIO DE BARROS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º - O regime de benefícios previdenciários concedidos pela Prefeitura do Município de São Paulo aos seus servidores passa a ser regido por esta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º - O Montepio Municipal de São Paulo passa a denominar-se Instituto de Previdência Municipal de São Paulo - IPREM, mantidas a sua forma autárquica e vinculação à Secretaria Municipal da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art.3º",
+       "kind": "article",
+       "text": "Art.3º - O IPREM será dirigido por um Superintendente e por um Conselho Deliberativo e Fiscal, na forma e comas atribuições e remuneração a serem estabelecidas por decreto do Executivo, observadas as disposições desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Conselho Deliberativo e Fiscal será composto por oito servidores, sendo quatro de livre nomeação e exoneração pelo Prefeito e quatro eleitos pelos servidores públicos municipais na forma a ser estabelecida em decreto. (Regulamantado pelo Decreto nº 44.446/2004)\n§1º - Além de outras exigências que venham a ser estabelecidas, somente poderão participar das eleições as associações que comprovem existência legal há mais de dois anos da data do pleito.(Regulamantado pelo Decreto nº 44.446/2004)\n§2º - Somente poderão ser eleitos ou nomeados servidores efetivos e estáveis no serviço público municipal.(Regulamantado pelo Decreto nº 44.446/2004)\n§3º - Fica mantida, sob a forma de legislação atual, a eleição prevista para o corrente exercício, preservados até o final os mandatos dos servidores eleitos.(Regulamantado pelo Decreto nº 44.446/2004)\n"
+      },
+      "art-0005": {
+       "label": "Art.5º",
+       "kind": "article",
+       "text": "Art.5º - Para atender às exigências desta lei, o IPREM será reestruturado administrativamente por decreto do Executivo, a ser baixado dentro de 180 (cento e oitenta) dias.\nParágrafo único - Enquanto não forem editados os atos previstos neste artigo e no artigo 3º, o IPREM funcionará com a estrutura e atribuições atuais, observadas as disposições desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art.6º",
+       "kind": "article",
+       "text": "Art.6º\n"
+      },
+      "art-0007": {
+       "label": "Art.7º",
+       "kind": "article",
+       "text": "Art.7º - .\n"
+      },
+      "art-0008": {
+       "label": "Art.8º",
+       "kind": "article",
+       "text": "Art.8º -\n"
+      },
+      "art-0009": {
+       "label": "Art.9º",
+       "kind": "article",
+       "text": "Art.9º -\n"
+      },
+      "art-0010": {
+       "label": "Art.10",
+       "kind": "article",
+       "text": "Art.10 -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 -\n"
+      },
+      "art-0012": {
+       "label": "Art.12",
+       "kind": "article",
+       "text": "Art.12 -\n"
+      },
+      "art-0013": {
+       "label": "Art.13",
+       "kind": "article",
+       "text": "Art.13 -\n"
+      },
+      "art-0014": {
+       "label": "Art.14",
+       "kind": "article",
+       "text": "Art.14\n"
+      },
+      "art-0015": {
+       "label": "Art.15",
+       "kind": "article",
+       "text": "Art.15 -\n"
+      },
+      "art-0016": {
+       "label": "Art.16",
+       "kind": "article",
+       "text": "Art.16 -\n"
+      },
+      "art-0017": {
+       "label": "Art.17",
+       "kind": "article",
+       "text": "Art.17 -\n"
+      },
+      "art-0018": {
+       "label": "Art.18",
+       "kind": "article",
+       "text": "Art.18 -\n"
+      },
+      "art-0019": {
+       "label": "Art.19",
+       "kind": "article",
+       "text": "Art.19 -\n"
+      },
+      "art-0020": {
+       "label": "Art.20",
+       "kind": "article",
+       "text": "Art.20 -\n"
+      },
+      "art-0021": {
+       "label": "Art.21",
+       "kind": "article",
+       "text": "Art.21 -\n"
+      },
+      "art-0022": {
+       "label": "Art.22",
+       "kind": "article",
+       "text": "Art.22 -\n"
+      },
+      "art-0023": {
+       "label": "Art.23",
+       "kind": "article",
+       "text": "Art.23\n"
+      },
+      "art-0024": {
+       "label": "Art.24",
+       "kind": "article",
+       "text": "Art.24 -(\n"
+      },
+      "art-0025": {
+       "label": "Art.25",
+       "kind": "article",
+       "text": "Art.25 -\n"
+      },
+      "art-0027": {
+       "label": "Art.27",
+       "kind": "article",
+       "text": "Art.27 -\n"
+      },
+      "art-0028": {
+       "label": "Art.28",
+       "kind": "article",
+       "text": "Art.28 -\n"
+      },
+      "art-0029": {
+       "label": "Art.29",
+       "kind": "article",
+       "text": "Art.29\n"
+      },
+      "art-0030": {
+       "label": "Art.30",
+       "kind": "article",
+       "text": "Art.30 -\nDA ASSISTENCIA FINANCEIRA\n"
+      },
+      "art-0031": {
+       "label": "Art.31",
+       "kind": "article",
+       "text": "Art.31 - O IPREM fica autorizado a conceder aos segurados e pensionistas financiamentos imobiliários e empréstimos, mediante consignação em folha de pagamento, juros e demais condições a serem estabelecidos em decreto regulamentador.\nDA DECLARAÇÃO DE FAMILIA\n"
+      },
+      "art-0032": {
+       "label": "Art.32",
+       "kind": "article",
+       "text": "Art.32 - Todos os segurados são obrigados a prestar, ao IPREM, declaração de família da qual conste o nome, idade, estado civil e profissão do cônjuge, descendentes e de outros que possam ser instituídos como beneficiários na forma desta lei.\n§1º - A declaração será, obrigatoriamente, atualizada sempre que houver qualquer modificação a ser feita na apresentada anteriormente.\n§2º - O IPREM poderá exigir do segurado quaisquer outros elementos e documentos julgados necessários à perfeita comprovação dos dados oferecidos pelo segurado.\n§3º - É vedada a concessão de qualquer empréstimo ou financiamento a segurado que não estiver com sua declaração de família atualizada.\nDO FUNDO DE PREVIDENCIA.\n"
+      },
+      "art-0033": {
+       "label": "Art.33",
+       "kind": "article",
+       "text": "Art.33\n"
+      },
+      "art-0034": {
+       "label": "Art.34",
+       "kind": "article",
+       "text": "Art.34 - Em hipótese alguma os benefícios concedidos ou a conceder sofrerão redução em decorrência de \"Déficit\" Técnico apurado.\n"
+      },
+      "art-0035": {
+       "label": "Art.35",
+       "kind": "article",
+       "text": "## DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS\nArt.35 - Além dos benefícios previstos nesta lei, o IPREM poderá instituir outros, desde que seja promovida a respectiva fonte de custeio total.\n"
+      },
+      "art-0036": {
+       "label": "Art.36",
+       "kind": "article",
+       "text": "Art.36 - A falta de cumprimento de exigência de qualquer dos requerentes, não prejudicará o processamento dos pedidos dos demais habilitados ou beneficiários.\n"
+      },
+      "art-0037": {
+       "label": "Art.37",
+       "kind": "article",
+       "text": "Art.37 - Concedida a pensão, qualquer impugnação ou habilitação posterior, que implique a exclusão ou inclusão de beneficiários, produzirá efeito a partir do respectivo protocolamento no IPREM, ou da ciência da Autarquia de decisão judicial transitado em julgado.\n"
+      },
+      "art-0038": {
+       "label": "Art.38",
+       "kind": "article",
+       "text": "Art.38 - O IPREM não responde por pagamento indevido resultante de erro ou omissão nas declarações dos segurados ou dos beneficiários.\n"
+      },
+      "art-0039": {
+       "label": "Art.39",
+       "kind": "article",
+       "text": "Art.39 - O recolhimento de contribuições indevidas não produz direito aos benefícios de que trata esta lei,mas serão restituídas, sem juros e sem correção monetária.\n"
+      },
+      "art-0040": {
+       "label": "Art.40",
+       "kind": "article",
+       "text": "Art.40 - O IPREM poderá resolver administrativamente casos de pedidos de habilitação, quando ocorrerem questões ligadas a falta de designação expressa de beneficiários, salvo quando ocorrerem casos de alta indagação, quando remeterá os interessados às vias judiciais.\n"
+      },
+      "art-0041": {
+       "label": "Art.41",
+       "kind": "article",
+       "text": "Art.41 - Fica ressalvado o direito de opção,dentro do prazo de 180 (cento e oitenta) dias a contar da vigência desta lei, aos segurados que estejam incluídos no regime de pensão total facultativa, nos termos do artigo 29 da Lei nº 7.447, de 16 de abril de 1970, pelo novo regime de pensão instituído pela presente lei.\n"
+      },
+      "art-0042": {
+       "label": "Art.42",
+       "kind": "article",
+       "text": "Art.42 - As pensões devida pela Prefeitura com base no Decreto-Lei nº 289, de 7 de junho de 1945, serão absorvidas pelo IPREM, na forma a ser estabelecida em decreto.\nArt,43 - As pensões concedidas pela Prefeitura, com base no Decreto-Lei nº 289, de7 de junho de 1945, e as concedidas pelo Montepio Municipal de São Paulo fundadas na Lei nº 7.447, de 16 de abril de 1970, continuarão a ser pagas e regidas pelos diplomas legais mencionados, respectivamente, até a sua extinção.\n"
+      },
+      "art-0044": {
+       "label": "Art.44",
+       "kind": "article",
+       "text": "Art.44 - A fiscalização dos assuntos contábeis e financeiros do IPREM será exercida pela Secretaria das Finanças.\n"
+      },
+      "art-0045": {
+       "label": "Art.45",
+       "kind": "article",
+       "text": "Art.45 - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0046": {
+       "label": "Art.46",
+       "kind": "article",
+       "text": "Art.46 - Esta lei entrará em vigor a partir de 1 de janeiro de 1981, revogadas as disposições em contrário, em especial as Leis nºs 3.682, de 17 de dezembro de 1947, 5.055, de 27 de setembro de 1956, e o artigo 28 da Lei nº 7.447, de 16 de abril de 1970, alterado pelo artigo 20 da Lei nº 8.807, de 26 de outubro de 1978.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, a 1 de dezembro de 1980, 427º da fundação de São Paulo.\nREYNALDO EMYGIO DE BARROS, Prefeito.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.157, de 01/12/1980 was altered by acts of 2 date(s), the latest 2009-12-17."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09158",
+   "short": "Lei 9158/1980",
+   "title": "Lei nº 9.158, de 01/12/1980 (Dispõe sobre a criação de Comissão de Licitação Permanente, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9158-de-1-de-dezembro-de-1980",
+   "first_law": "lei-1980-09158",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-12-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9158-de-1-de-dezembro-de-1980",
+     "sha256": "8bb30ac25aa304f0b2da52ed11234ca573ad20db0458125775d5dbf1d6f5dfe3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.158, DE 1 DE DEZEMBRO DE 1980\nDispõe sobre a criação de Comissão de Licitação Permanente, e dá outras providências.\nREYNALDO EMYGIO DE BARROS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º - De acordo com as necessidades do serviço, em cada unidade, as Secretarias Municipais e órgãos equivalentes deverão constituir comissões de licitação para funcionar em caráter permanente.\nParágrafo único - As comissões serão compostas por 3 (três) membros, um dos quais designado presidente, e um secretário.\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º - Aos servidores que participarem das comissões de licitação constituídas nos termos do artigo anterior, sem prejuízo de suas atribuições normais, poderá ser atribuída gratificação com base nas disposições do artigo 100, inciso III , da Lei nº 8.989, de 29 de outubro de 1979.\n§1º - A gratificação de que trata este artigo corresponderá à metade do valor da Unidade de Valor Fiscal do Município de São Paulo (UFM), por efetivo comparecimento à reunião registrada em ata, até o máximo de 8 (oito) reuniões remuneradas por mês.\n§2º - Aos secretários das comissões poderá ser atribuída uma gratificação mensal, correspondente à metade do valor da Unidade de Valor Fiscal do Município de São Paulo (UFM).\n"
+      },
+      "art-0003": {
+       "label": "Art.3º",
+       "kind": "article",
+       "text": "Art.3º - As Secretarias Municipais e órgãos equivalentes poderão, em virtude da natureza do objeto de determinada licitação, constituir comissões especiais independentemente de remuneração aos servidores componentes da comissão.\n"
+      },
+      "art-0004": {
+       "label": "Art.4º",
+       "kind": "article",
+       "text": "Art.4º - O Executivo estabelecerá, por decreto as condições de atribuição da gratificação e o número de comissões em cada unidade.\n"
+      },
+      "art-0005": {
+       "label": "Art.5º",
+       "kind": "article",
+       "text": "Art.5º - A gratificação do Presidente e dos Membros da Comissão de Julgamento de Compras do Departamento de Materiais, da Secretaria Municipal da Administração, continua fixada nos termos do parágrafo único do artigo 3º da Lei nº 8.731, de 12 de junho de 1978.\n"
+      },
+      "art-0006": {
+       "label": "Art.6º",
+       "kind": "article",
+       "text": "Art.6º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art.7º",
+       "kind": "article",
+       "text": "Art.7º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICIPIO DE SÃO PAULO, a 1 de dezembro de 1980, 427º da fundação de São Paulo.\nREYNALDO EMYGIO DE BARROS, Prefeito.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09159",
+   "short": "Lei 9159/1980",
+   "title": "Lei nº 9.159, de 01/12/1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9159-de-1-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09159"
+   ],
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9159-de-1-de-dezembro-de-1980",
+     "sha256": "30522cbe1f1ec2b87401dd7e7a3fa56b21bc73eec2d8020e01d0cb87b85966b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.159, DE 1 DE DEZEMBRO DE 1980.\nDispõe sobre benefícios devidos em virtude de Acidente de Trabalho e Doença Profissional, de que trata a Lei nº 8.989, de 29 de outubro de 1979, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os benefícios previstos na presente lei são devidos, independentemente do tempo de serviço, aos agentes da Administração Direta, vitimados por acidente do trabalho.\nParágrafo Único. Os benefícios de que trata esta lei são extensivos aos agentes autárquicos, desde que submetidos ao regime estatuário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os conceitos de acidente do trabalho e respectivas equiparações, bem como a relação das moléstias profissionais e as situações propiciadoras da concessão do auxílio-acidentário, são os adotados pela legislação federal vigente à época do acidente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O agente acidentado em serviço, com perda temporária da capacidade para o trabalho, será licenciado, enquanto perdurar a incapacidade, com vencimento ou salário e demais vantagens a que faria jus independentemente da ocorrência do acidente.\nParágrafo único. O estado de incapacidade, para os efeitos deste artigo, será atestado por médico da Coordenadoria de Gestão de Saúde do Servidor da Secretaria Municipal de Gestão.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ao agente acidentado em serviço, com redução parcial e permanente da capacidade para o trabalho, será concedida, mensalmente, vantagem pecuniária de ordem pessoal, denominada Auxílio-Acidentário, devida a partir do mês do evento, calculada de acordo com o parágrafo 2º deste artigo, nos seguintes percentuais:\nI - 20% (vinte por cento) para o acidentado portador de sequelas definitivas consequentes do acidente, que não mais possua condições de exercer a função que desempenhava à época do acidente, mas que conserve capacidade laborativa residual para outra função;\nII - 10% (dez por cento) para o acidentado que apresentar, como resultantes do acidente, sequelas definitivas, perdas anatômicas ou redução da capacidade funcional, que demandem, permanentemente, maior esforço na realização da mesma função que exercia à época do acidente.\n§ 1º - As situações propiciadoras da concessão do auxílio-acidentário, referido neste artigo, correspondem às do auxílio-acidente e do auxílio suplementar, previstos na legislação federal, para os casos dos incisos I e II, respectivamente.\n§ 2º - O auxílio-acidentário terá por base de cálculo o valor do padrão de vencimento ou salário-base vigente na datado despacho concessivo do benefício, inclusive as parcelas vencidas, levando-se em consideração, todavia, o padrão ou salário-base que o acidentado recebia na data do infortúnio, consideradas as revalorizações posteriores, ainda que o servidor mude de cargo ou seja promovido.\n§ 3º - O auxílio-acidentário não se incorpora aos vencimentos ou salários do agente. Essa vantagem, entretanto, será computada para efeito de cálculo de proventos ou pensão, exclusivamente nas hipóteses de aposentadoria ou morte do agente não decorrentes do mesmo acidente.\n§ 4º - A percepção do auxílio-acidentário cessará nas hipóteses de aposentadoria ou morte decorrentes do agravamento da lesão que deu origem à concessão do benefício, quando, então, o agente ou seus beneficiários farão jus aos pecúlios previstos nos artigos 8º e 10, no caso de aposentadoria ou morte, respectivamente, sem prejuízo da aplicação, conforme o caso, do disposto nos artigos 6º e 9º desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A verificação de incapacidade, para efeito de concessão de auxílio-acidentário, será feita em exame pericial, procedido por junta médica designada pelo Coordenador da Coordenadoria de Gestão de Saúde do Servidor da Secretaria Municipal de Gestão e constituída de 3 (três) membros, sendo, no mínimo, 2 (dois) especialistas na área da moléstia ou lesão incapacitante.\nParágrafo Único. A decisão da junta médica, para efeito de concessão do auxílio-acidentário, dar-se-á por maioria de votos de seus membros.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O agente acidentado em serviço com perda total e permanente de capacidade para o trabalho, será aposentado com proventos correspondentes ao vencimento ou salário, acrescido das vantagens, suscetíveis de incorporação, que esteja recebendo à época do acidente.\n§ 1º - Para os efeitos deste artigo, as vantagens serão acrescidas independentemente de prazo previsto em lei para a respectiva incorporação.\n§ 2º A incapacidade, para os efeitos deste artigo, será declarada em exame pericial, por junta médica designada pelo Coordenador da Coordenadoria de Gestão de Saúde do Servidor da Secretaria Municipal de Gestão, constituída de 5 (cinco) membros, sendo, ao menos, 4 (quatro) especialistas na área da moléstia ou lesão incapacitante.\n§ 3º - A decisão da junta médica dar-se-á por maioria de, no mínimo, 4/5 (quatro quintos) dos seus membros.\n§ 4º A requerimento do interessado, a decisão da junta médica a que se refere o § 2º deste artigo poderá ser revista, observada a mesma forma de votação, por outra, especialmente designada pelo Coordenador da Coordenadoria de Gestão de Saúde do Servidor da Secretaria Municipal de Gestão, sendo constituída de igual número de membros, dela não podendo participar os integrantes que tenham emitido parecer contrário na junta anterior.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Nos casos necessários, as juntas designadas poderão valer-se de pareceres de médicos estranhos ao quadro funcional, de facultativos do Hospital do Servidor Público Municipal, bem assim poderão solicitar que o acidentado apresente exames subsidiários realizados em instituições externas.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Em caso de aposentadoria resultante de acidente do trabalho, o agente terá direito, ainda, a um pecúlio, a ser pago de uma só vez, na importância de 15 (quinze) vezes o valor do padrão 1-A, da escala de vencimentos do pessoal da Prefeitura, ou de seu eventual equivalente, vigente na data do despacho concessivo do benefício.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Em caso de morte do agente, resultante de acidente do trabalho, será devida pensão a seus dependentes, cujo valor inicial corresponderá ao total do vencimento ou salário, acrescido das demais vantagens que o acidentado percebia na data do óbito.\nParágrafo Único. A pensão a cargo do Montepio Municipal de São Paulo será calculada nos termos deste artigo, independentemente da complementação do prazo de carência.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Se do acidente resultar morte, além de pensão prevista no artigo anterior, será concedido aos dependentes do agente pecúlio consistente em pagamento único, no total correspondente a 30 (trinta) vezes o valor do padrão 1-A, da escala de vencimentos do pessoal da Prefeitura, ou de seu eventual equivalente, vigente na data do despacho concessivo do benefício.\n"
+      },
+      "art-0010-a": {
+       "label": "Art. 10-A",
+       "kind": "article",
+       "text": "Art. 10-A. Para cálculo do valor do pecúlio previsto nos arts. 8º e 10 desta Lei serão observadas as seguintes diretrizes:\nI - data do despacho concessivo a partir de 20 de abril de 1994: o valor correspondente ao padrão QPA-1A, da Tabela da Jornada de 40 horas semanais de trabalho - J40, da Lei nº 11.511, de 19 de abril de 1994;\nII - data do despacho concessivo a partir de 21 de fevereiro de 1998: o valor correspondente ao padrão QPA-1A, da Tabela da Jornada de 30 horas semanais de trabalho - J30, da Lei nº 11.511, de 1994, conforme art. 98 da Lei nº 12.568, de 20 de fevereiro de 1998;\nIII - data do despacho concessivo a partir de 26 de setembro de 2003: o valor correspondente à referência B1, da Tabela da Jornada de 30 horas semanais de trabalho - J30, da Lei nº 13.652, de 25 de setembro de 2003;\nIV - data do despacho concessivo a partir de 1º de janeiro de 2022: o valor correspondente ao símbolo QB1, da Tabela da Jornada de 30 horas semanais de trabalho - J30, da Lei nº 17.721, de 7 de dezembro de 2021.\nParágrafo único. O valor correspondente ao símbolo QB1, da Tabela da Jornada de 30 horas semanais de trabalho - J30, da Lei nº 17.721, de 2021, será sucessivamente atualizado pelo seu equivalente em decorrência de reestruturações posteriores, observada a vigência.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Consideram-se dependentes, beneficiários ou legatários do agente, para os efeitos desta lei, os assim reconhecidos pela legislação municipal específica.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Ao agente acidentado em serviço fica assegurada, gratuitamente, integral assistência médica domiciliar, ambulatorial, hospitalar e cirúrgica, ainda que plástico-estética, farmacêutica e dentária, assim como serviços de prótese e órtese, desde o momento do evento e enquanto for julgada necessária, a critério médico.\nParágrafo Único. A Administração custeará a reparação ou a substituição dos aparelhos de prótese e órtese avariados ou desgastados pelo uso normal.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Se o acidentado não se sujeitar ao tratamento, ou a ele não se submeter pela forma e nas condições que lhe forem exigidas, ou se o abandonar antes de lhe ser concedida, por escrito, a alta médica, a Administração não responderá pelos agravamentos ou complicações do acidente, ainda que dele resulte a morte.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O acidente do trabalho deverá ser comunicado, imediatamente, pelo acidentado por qualquer pessoa que dele houver tido conhecimento, à chefia imediata do agente vitimado.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O chefe imediato do agente acidentado deverá comunicar o acidente ao setor de pessoal da unidade em que tem exercício, no prazo máximo de 72 (setenta e duas) horas, contado do conhecimento do fato, sob pena de responsabilidade.\nParágrafo Único. A Secretaria Municipal da Administração é competente para expedir normas a respeito da comunicação interna para a participação do acidente do trabalho.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Com exceção dos benefícios previstos nos artigos 3º e 12, nenhum outro será concedido sem prévia sindicância, procedida pelo órgão competente, que apurará as circunstâncias do fato e sugerirá as medidas que julgar convenientes, não só para prevenir ocorrências semelhantes, como também para apurar responsabilidade.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A liquidação do auxílio-acidentário ou do pecúlio, decorrentes de acidente do trabalho, será feita no prazo máximo de 90 (noventa) dias, contados do despacho concessivo do benefício.\nParágrafo Único. O valor dos benefícios não liquidados no prazo previsto neste artigo só será corrigido, na conformidade da variação mensal nominal das ORTN, quando houver fato ou omissão imputável à Prefeitura.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - O acidentado que apresentar, após o tratamento a que se submeter, na forma prevista nesta lei, incapacidade parcial para seu trabalho, será readaptado, se necessário, em função compatível com sua condição, por expressa indicação da junta médica constituída na forma do artigo 5º.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Os benefícios previstos nesta lei deverão ser pleiteados no prazo de 5 (cinco) anos, contados:\nI - Da data da perícia médica, nos casos de agravamento da incapacidade;\nII - Da data da verificação, pelo médico ou por junta médica, quando se tratar de doença do trabalho;\nIII - Da data do acidente, nos demais casos.\nParágrafo Único. Para os efeitos do inciso III deste artigo, a comunicação feita na forma do artigo 14 equipara-se ao pedido de concessão dos benefícios previstos nesta lei.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - Esta lei entrará em vigor na data de sua publicação, a partir da qual serão devidos os benefícios ora disciplinados, revogadas as disposições em contrário e, em especial, as Leis nºs 5.153, de 22 de abril de 1957, e 6.881, de 10 de maio de 1966.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, A 1 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 1 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.159, de 01/12/1980 was altered by acts of 3 date(s), the latest 2023-09-28."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09160",
+   "short": "Lei 9160/1980",
+   "title": "Lei nº 9.160, de 03/12/1980",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9160-de-03-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09160"
+   ],
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9160-de-03-de-dezembro-de-1980",
+     "sha256": "d5919e3c1338fa65d9651690d9647a7e9ab9be3d124b148424b0e4f041c981e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9160, DE 3 DE DEZEMBRO DE 1980.\n(Projeto de Lei Nº 224/1980 - EXECUTIVO)\nInstitui o regime jurídico dos servidores admitidos em serviço de caráter temporário e contratados para funções de natureza técnica especializada, nos termos do artigo 106 da constituição federal.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA ADMISSÃO E DA CONTRATAÇÃO\nArt. 1º Além dos funcionários públicos poderá haver na administração municipal servidores admitidos em serviços de caráter temporário e contratados para funções de natureza técnica especializada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Consideram-se serviços de caráter temporário:\nI - O exercício de funções públicas, até a criação e provimento dos cargos respectivos;\nII - O trabalho desenvolvido na execução de obras e serviços determinados, até seu término.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É vedada a admissão prevista no artigo 1º:\nI - Para funções correspondentes a cargos de direção, chefia ou encarregatura;\nII - Para funções que não correspondam à classe inicial, quando se tratar de carreira;\nIII - Quando existir cargo vago e candidatos aprovados em concurso com prazo de a validade não extinto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Terão preferência para ser admitidos, nos termos desta lei, os candidatos habilitados em concursos públicos municipais com prazo em vigor, sem prejuízo do direito à nomeação e obedecida, em qualquer caso, a ordem de classificação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Trienalmente, o Executivo procederá o levantamento dos servidores admitidos nos termos da presente lei, criando os cargos e providenciando a realização de concursos públicos para seu provimento.\nParágrafo Único -\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A contratação para o exercício de funções técnicas especializadas ocorrerá no caso em que se exija particular domínio de ramo determinado de conhecimento ou arte, podendo fazer-se:\nI - A prazo certo e determinado, não superior a dois anos, renovável por uma única vez;\nII - Para trabalhos desenvolvidos na execução de serviços certos e determinados, até seu término.\nParágrafo Único - É vedada a contratação para o cumprimento de tarefas que correspondam a funções normais pertinentes a cargos existentes nos quadros do funcionalismo público.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As admissões e contratações serão sempre precedidas de processo, iniciado por proposta devidamente justificada, e serão feitas com autorização do Prefeito, ouvida a Secretaria Municipal da Administração.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Constarão obrigatoriamente das propostas de admissão a função a ser desempenhada, o salário, a dotação orçamentária própria e a demonstração da existência de recursos.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A proposta de contratação será instruída com os seguintes documentos:\nI - Justificação da necessidade da contratação, contendo pormenorizada descrição das atividades a serem desempenhadas;\nII - Indicação do salário;\nIII - Indicação da dotação orçamentária própria e demonstração da existência de recursos;\nIV - Minuta de contrato;\nV - Prova de estar em dia com as obrigações relativas ao serviço militar, e no gozo dos direitos políticos, se brasileiro o candidato;\nVI - Prova de situação regular no país, que possibilite a contratação, se estrangeiro o candidato;\nVII - Declaração de bons antecedentes, firmada pelo candidato ou seu procurador;\nVIII - Títulos científicos ou profissionais que comprovem a habilitação para o desempenho da função e recomendem a contratação;\nIX - Comprovação de, no mínimo, 5 (cinco) anos de experiência no ramo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO EXERCÍCIO\nArt. 10 - O servidor admitido deve assumir o exercício no prazo de 15 (quinze) dias.\nParágrafo Único - Se o exercício não se iniciar dentro do prazo estabelecido neste artigo será a admissão declarada sem efeito.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Para assumir o exercício o servidor admitido deverá comprovar os seguintes requisitos:\nI - Ser brasileiro;\nII - Ter completado dezoito anos de idade;\nIII - Estar no gozo dos direitos políticos;\nIV - Estar quite com as obrigações militares;\nV - Ter boa conduta;\nVI - Gozar de boa saúde física e mental e não ser portador de deficiência física incompatível com o exercício das funções;\nVII - Possuir habilitação profissional para o exercício das funções, quando for o caso;\nVIII - Atender às condições especiais, prescritas em lei ou decreto, para determinadas funções.\n§ 1º - A contagem do prazo a que se refere o artigo 10 poderá ser suspensa pelo tempo necessário, a partir da data em que o admitido apresentar guia ao órgão médico encarregado da inspeção, até a data da expedição do laudo de sanidade e capacidade física e mental.\n§ 2º - A suspensão de prazo prevista no parágrafo anterior poderá, a juízo da Administração, não ser considerada se o admitido deixar de submeter-se aos exames nas épocas determinadas.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O servidor contratado assumirá o exercício dentro do prazo convencionado, apresentando na oportunidade a comprovação de suas condições físicas e mentais aptas ao cumprimento das funções, consubstanciada em laudo de sanidade e capacidade emitido pelo órgão referido no artigo anterior.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A apuração do tempo de serviço do servidor admitido ou contratado obedecerá, no que couber, ao disposto nos artigos 63 e 64 da Lei nº 8989, de 29 de outubro de 1979.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Para os efeitos de Aposentadoria compulsória ou voluntária, será computado integralmente o tempo em que o servidor estava afastado em licença para tratamento da próprias saúde.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Aplicam-se aos servidores regidos por esta lei as disposições vigentes para os funcionários públicos do Município de São Paulo relativas a horário, ponto e regimes de trabalho, salvo cláusula contratual específica, na hipótese de função técnica especializada.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DOS DIREITOS E VANTAGENS EM GERAL\nArt. 16 - O salário do servidor admitido não poderá ultrapassar os limites fixados por lei para o vencimento do grau A da referência do cargo a que corresponder; o do servidor contratado será livremente, convencionado entre as partes, observado sempre o limite máximo de duas vezes e meia o valor da mais elevada referência de vencimentos do funcionalismo municipal.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O servidor perderá;\nI - O salário do dia, quando não comparecer ao serviço, quando o fizer após a hora seguinte à marcada para o início dos trabalhos, ou se retirar antes da última hora;\nII - 1/3 (um terço) do salário do dia, quando comparecer ao serviço dentro da hora seguinte à marcada para o início dos trabalhos, ou quando se retirar dentro da última hora;\nIII - O salário correspondente aos domingos, feriados e dias de ponto facultativo intercalados, no caso de faltas sucessivas justificadas ou injustificadas.\nParágrafo Único - As faltas ao serviço até o máximo de 10 (dez) por ano, não excedendo a 2 (duas) por mês, poderão ser abonadas por moléstia ou por outro motivo justificado a critério da autoridade competente, no primeiro dia em que o servidor comparecer ao serviço.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Ao servidor admitido nos termos da presente lei assistem os seguintes direitos e vantagens dos funcionários públicos do Município de São Paulo, previstos nos artigos 96 e seu parágrafo único e 97; 99 a 106; 112 a 114; 115 e 116; 117 a 123; 125 e seu parágrafo único; 126; 128 e 129; 130 e 131; 132 a 135 e 137; 139 a 142; 143 a 145; 146 e 147; 148; 150 a 152; 157 a 159; 166 a 168 e 170 a 174; 176 e 177 da Lei nº 8989, de 29 de outubro de 1979, conforme abaixo discriminados:\nI - Reposições parceladas;\nII - Gratificações por:\na) prestação de serviço extraordinário;\nb) prestação de serviço noturno;\nc) prestação de serviço especial, com risco de vida ou saúde;\nd) outros casos previstos em lei;\ne) exercício em Gabinete do Prefeito, de Secretário Municipal e de outras autoridades, até o nível de Diretor de Departamento;\nf) elaboração ou execução de trabalho técnico ou científico de utilidade para o serviço público;\ng) participação em Conselhos, Comissões ou Grupos de Trabalho especiais, quando sem prejuízo das atribuições normais;\nIII -\nIV - Qüinqüênios;\nV - Sexta-parte;\nVI - Salário-família e salário-esposa;\nVII - Auxílio funeral;\nVIII - Auxílio doença;\nIX - Diárias e ajuda de custo;\nX - Gratificação de caixa;\nXI - Férias anuais;\nXII - Licença, a ser concedida:\na) para tratamento de saúde;\nb) por motivo de doença em pessoa da família;\nc) à gestante;\nd) para cumprir serviços obrigatórios por lei;\ne) compulsória;\nXIII - Aposentadoria, por invalidez, compulsória e voluntária;\nXIV - Direito de petição.\n§ 1º - Por necessidade de serviço ou qualquer outro motivo justo, devidamente comprovado, poderá o servidor admitido converter em tempo de serviço, para todos os efeitos legais, as férias não gozadas, que serão contadas em dobro.\n§ 2º - Ao servidor admitido estudante de curso superior será permitido entrarem serviço até uma hora mais tarde, ou retirar-se uma hora mais cedo da marcada para início ou fim do expediente normal, bem como ausentar-se do serviço nos dias em que se realizarem provas, sem qualquer desconto no salário e demais vantagens.\n§ 3º - Assistem ao servidor admitido os benefícios decorrentes de acidente do trabalho ou doença profissional, nos termos dos artigos 160 a 163 da Lei nº 8989, de 29 de outubro de 1979.\n§ 4º - Os servidores admitidos nos termos da presente lei terão direito à assistência médica prestada pela Municipalidade aos funcionários públicos e previdenciária nos termos da legislação própria.\n§ 5º - Aplicam-se aos servidores admitidos as normas de afastamento previstas nos artigos 46 a 48 da Lei nº 8989, de 29 de outubro de 1979, e a licença prevista no artigo 149 da mesma lei.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Aos servidores contratados nos termos da presente lei assistem os seguintes direitos e vantagens dos funcionários públicos do Município de São Paulo:\nI - Reposições parceladas;\nII -\nIII - Salário-família e salário-esposa;\nIV - Auxílio funeral;\nV - Auxílio doença;\nVI - Diárias e ajuda de custo;\nVII - Férias anuais;\nVIII - Licença, a ser concedida:\na) para tratamento de saúde;\nb) por motivo de doença em pessoa da família;\nc) à gestante;\nd) para cumprir serviços obrigatórios por lei;\ne) compulsória;\nIX - Direito de petição.\n§ 1º - Assiste também ao servidor contratado, nos termos do artigo anterior, o direito à aposentadoria por invalidez.\n§ 2º - Aplicam-se ao servidor contratado as disposições contidas nos parágrafos 3º e 4º do artigo anterior.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DOS DEVERES, PROIBIÇÕES E RESPONSABILIDADE\nArt. 20 - Os servidores admitidos ou contratados nos termos da presente lei estão sujeitos aos mesmos deveres, às mesmas proibições e ao mesmo regime de responsabilidade, bem como às penas de repreensão e suspensão, vigentes para o funcionário público municipal.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - Estendem-se aos servidores admitidos ou contratados as proibições de acumulação de cargos e funções previstas nos artigos 58 a 61 da Lei nº 8989, de 29 de outubro de 1979.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - É vedado o afastamento do servidor para exercício em órgãos ou entidades diversas para os quais foi admitido ou contratado, salvo autorização expressa do Prefeito, em casos excepcionais.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA DISPENSA E DAS RESCISÕES CONTRATUAIS\nArt. 23 - Ocorrerá a dispensa do servidor admitido:\nI - A pedido;\nII - Pela conveniência da administração, a juízo da autoridade que procedeu à admissão;\nIII - Quando o desempenho do servidor não corresponder às necessidades do serviço;\nIV - Quando o servidor incorrer em responsabilidade disciplinar;\nV -\n§ 1º - A dispensa, no caso do inciso II deste artigo, somente poderá efetuar-se após notificação ao servidor, com 30 (trinta) dias de antecedência e mediante a redução da jornada de trabalho, nesse período, na proporção de 50% (cinquenta por cento), sem qualquer desconto no salário e demais vantagens.\n§ 2º - A dispensa, nos casos dos incisos III e IV deste artigo, dependerá de procedimento sumário, no qual após a instrução, dar-se-á vista dos autos ao servidor para apresentação de defesa, em 5 (cinco) dias.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 -\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - Na hipótese do inciso II do artigo 23, o servidor terá direito a:\nI - Receber em pecúnia as férias não gozadas, ou averbá-las em dobro;\nII -\nIII - Um mês de salário e demais vantagens por ano de serviços prestados a partir da vigência da presente lei.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Nos casos em que ocorrer o recebimento da importância prevista no artigo 25, inciso III, o servidor não poderá ser novamente admitido pelo prazo de um ano.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - As disposições deste Capítulo aplicam-se aos casos de rescisão contratual.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DISPOSIÇÕES GERAIS\nArt. 28 - O tempo de serviço como admitido ou contratado será considerado como tempo de serviço municipal, para os efeitos previstos em lei.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - No prazo de 60 (sessenta) dias, será expedido decreto estabelecendo o número máximo de contratos admissíveis na administração municipal.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DISPOSIÇÕES TRANSITÓRIAS E FINAIS\nArt. 30 - Os atuais servidores contratados para funções correspondentes às dos cargos públicos passam a ser considerados admitidos e ficam enquadrados no inciso I do artigo 2º desta lei, com salários equivalentes ao vencimento do Grau A da classe correspondente.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Os atuais servidores contratados para funções não correspondentes às dos cargos públicos, bem como para as funções enumeradas no inciso I do artigo 3º desta lei, terão seu enquadramento revisto e procedido pela Secretaria Municipal da Administração.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias suplementadas, se necessário.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - A presente lei entrará em vigor em 1 de janeiro de 1981, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, A 1 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 3 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.160, de 03/12/1980 was altered by acts of 4 date(s), the latest 2018-01-23."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09167",
+   "short": "Lei 9167/1980",
+   "title": "Lei nº 9.167, de 03/12/1980 (Dispõe sobre a reorganização, competência, jurisdição e funcionamento do Tribunal de Contas do Município de São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9167-de-03-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09167"
+   ],
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9167-de-03-de-dezembro-de-1980",
+     "sha256": "ce88f6c0a0c56c594c04a3c205fa64e1bbf52f6f63ef95138c5ae2b80054beeb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.167, DE 3 DE DEZEMBRO DE 1980.\n(Projeto de Lei Nº 274/1980 - Executivo)\nDispõe sobre a reorganização, competência, jurisdição e funcionamento do tribunal de contas do município de são paulo, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal em sessão de 25 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## TÍTULO I\n## DA ORGANIZAÇÃO\n## CAPÍTULO I\n## DA CRIAÇÃO E CONSTITUIÇÃO\nArt. 1º - O Tribunal de Contas do Município de São Paulo, órgão de auxílio do Legislativo Municipal, criado pela Lei Municipal nº 7213, de 20 de novembro de 1968, e mantido pela Emenda Constitucional nº 1, de 17 de outubro de 1969, reger-se-á pelas normas constitucionais federais e estaduais, pela presente lei, pela legislação municipal pertinente e por seu Regimento Interno.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Tribunal constitui-se de 5 (cinco) membros, com o título de Conselheiros.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O órgão máximo do Tribunal é o Plenário.\nParágrafo Único - O Tribunal poderá funcionar em regime de Câmaras e Juízos Singulares, com a competência que dispuser o seu Regimento Interno.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º -\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DOS CONSELHEIROS\n## SEÇÃO I\n## DO PROVIMENTO\nArt. 5º - Os Conselheiros serão nomeados pelo Prefeito, após aprovação da Câmara Municipal, dentre brasileiros natos, maiores de trinta e cinco anos, de idoneidade Moral, com notórios conhecimentos jurídicos, econômicos, financeiros ou de administração pública, portadores de diploma universitário correspondente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DAS GARANTIAS, PRERROGATIVAS E IMPEDIMENTOS\nArt. 6º - Desde a posse, aplicar-se-ão aos Conselheiros as mesmas garantias, prerrogativas e impedimentos da Magistratura.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Não poderão ser, contemporaneamente, Conselheiros, parentes consanguíneos, na linha ascendente ou descendente, na linha colateral até o segundo grau, ou ligados pela afinidade.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Desde a posse, é vedado, aos Conselheiros, sob pena de perda do cargo, mediante sentença judicial transitada em julgado:\nI - Exercer:\na) ainda que em disponibilidade, qualquer outro cargo ou função no serviço público, nas entidades da Administração Indireta, exceto um cargo de magistério público ou particular, de nível universitário, observada a correlação de matérias, compatibilidade de horários e vedado, em qualquer hipótese, o desempenho de função de direção administrativa ou técnica de estabelecimento de ensino;\nb) profissão liberal, qualquer atividade profissional remunerada ou emprego em empresa privada;\nc) comércio, bem como gerência ou cargo diretivo de sociedade comercial.\nII - Celebrar contrato com pessoa jurídica de direito público interno, com entidade da Administração Indireta ou empresa concessionária de serviço público ou contratada pela União, Estado ou Município, para execução de obras, fornecimento ou execução de serviços, exceto quando o contrato obedecer a normas uniformes.\nIII - Receber, a qualquer título e sob qualquer pretexto, vantagens pecuniárias ou de qualquer outra natureza em razão de processos submetidos a seu exame e decisão, ou que devam ser apreciados pelo Tribunal.\nIV - Exercer atividade político-partidária.\nV - Exercer cargo de direção ou técnica de sociedade civil, associação ou fundação, de qualquer natureza ou finalidade, salvo de associação de classe e sem remuneração.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DAS SUBSTITUIÇÕES E VACÂNCIAS\nArt. 9º - Os Conselheiros serão substituídos, em suas férias, licença ou impedimentos e, em caso de vacância do cargo, até o provimento deste, por integrante da lista de que trata o artigo seguinte, de livre escolha do Prefeito.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O Tribunal, anualmente, enviará ao Prefeito, para os efeitos do disposto no artigo anterior, uma lista de 10 (dez) nomes, cujos integrantes, atendidos os pressupostos do artigo 5º, sejam titulares de cargos na Administração Municipal há mais de 5 (cinco) anos.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Enquanto durar a substituição no cargo de Conselheiro, dele não poderá ser afastado quem para tanto haja sido escolhido, assegurados apenas os afastamentos provisórios, para gozo de férias, licença, nojo, gala e para prestar serviços obrigatórios por lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Ocorrendo vaga de cargo de Conselheiro, o Prefeito submeterá, dentro do prazo de 15 (quinze) dias, à aprovação da Câmara Municipal, o nome da pessoa que pretende nomear.\nParágrafo Único - Se a Câmara não estiver funcionando, ou não for convocada a reunir-se extraordinariamente, a mensagem a que se refere este artigo será enviada no primeiro decêndio dos trabalhos legislativos imediatos.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA DIREÇÃO\n## SEÇÃO I\n## DA ELEIÇÃO DO PRESIDENTE E DO VICE-PRESIDENTE\nArt. 13. O Presidente, o Vice-Presidente e o Corregedor do Tribunal serão eleitos por seus pares para mandato de 2 (dois) anos, permitida recondução para igual período.\n§ 1º - Terão direito a voto apenas os Conselheiros titulares em exercício, bem como os que estiverem em gozo de férias ou de licença, para esse fim devidamente convocados.\n§ 2º A eleição far-se-á por escrutínio secreto, na primeira quinzena de dezembro, preferencialmente no dia 15, ou, em se tratando de vaga eventual, até 5 (cinco) dias após a ocorrência.\n§ 3º - Considerar-se-á eleito o que alcançar o mínimo de 3 (três) votos.\n§ 4º - Se nenhum alcançar esse número de votos, terá lugar segundo escrutínio.\n§ 5º - Se, ainda assim, não se atingir o \"quorum\", proceder-se-á a novo escrutínio, dando-se por eleito o que tiver obtido maioria relativa, e, se houver empate, o Conselheiro mais antigo no cargo, ou o de mais idade, se tiverem a mesma antiguidade.\n§ 6º - Será eleito e proclamado, em primeiro lugar o Presidente e, logo após, o Vice-Presidente.\n§ 7º - Em caso de vacância da Presidência, assumirá esta o Vice-Presidente, completando o tempo do mandato.\n§ 8º - Vaga a Vice-Presidência, proceder-se-á a nova escolha, obedecidos os critérios fixados nesta Seção.\n§ 9º Após a recondução de que trata o caput, admitir-se-á uma nova, exclusivamente na hipótese de inexistência de outros candidatos aos referidos cargos.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DAS ATRIBUIÇÕES DO PRESIDENTE E DO VICE-PRESIDENTE\nArt. 14 - Compete ao Presidente do Tribunal:\na) prover os cargos da Secretaria-Diretoria Geral e das Secretarias Processual e Administrativa, na forma da lei;\nb) decidir sobre exonerações, demissões, aposentadoria, disponibilidade, férias, licenças ou outras vantagens legais do pessoal das Secretarias, bem como conceder adicionais e gratificações, nos termos da lei;\nc) admitir, dentro das dotações orçamentárias próprias e da legislação aplicável, pessoal para serviços temporários ou de natureza técnica especializada;\nd) executar a direção suprema do Tribunal e de seus serviços;\ne) representar o Tribunal, em suas relações externas;\nf) dar posse e exercício aos Conselheiros e aos servidores do Tribunal;\ng) expedir os atos relativos às relações jurídico-funcionais dos Conselheiros e do pessoal das Secretarias;\nh) votar, em casos expressos, ou nos de empate;\ni) requisitar ou expedir ordens relativas às despesas, bem como autorizar os respectivos pagamentos;\nj) apresentar ao Tribunal, anualmente até o dia 31 de março do ano seguinte, relatório dos trabalhos do exercício;\nk) autorizar a abertura de licitações e homologá-las, proceder ao seu cancelamento ou anulação, conforme o caso.\nParágrafo Único. O Regimento Interno estabelecerá os casos em que o Presidente poderá delegar poderes e funções.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Compete ao Vice-Presidente do Tribunal substituir o Presidente em suas férias, licenças, impedimentos e ausências, bem como em caso de vacância da Presidência.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## TÍTULO II\n## DA COMPETÊNCIA GERAL, DA COMPETÊNCIA EXCLUSIVA DO TRIBUNAL PLENO E DA JURISDIÇÃO\n## CAPÍTULO I\n## DA COMPETÊNCIA GERAL\n## SEÇÃO I\n## DA ADMINISTRAÇÃO DIRETA\nArt. 18 - A competência do Tribunal compreende a apreciação das contas do Prefeito Municipal e as da Mesa da Câmara Municipal, a apreciação da aplicação das parcelas ou quotas-partes transferidas ao Município, provenientes de recursos tributários arrecadados pela União, o desempenho das funções de auditoria financeira e orçamentária sobre as contas das unidades administrativas dos órgãos municipais, e o julgamento das contas dos administradores e demais responsáveis por bens e valores públicos e da legalidade das concessões iniciais de aposentadorias e pensões concedidas pelo Município, bem como o exame e o julgamento da aplicação de auxílios e subvenções concedidos pelo Município a entidades particulares de caráter assistencial.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Compete ao Tribunal:\nI - Dar parecer, no prazo de 90 (noventa) dias da data do recebimento, sobre as contas anuais encaminhadas pelo Prefeito.\nII - Dar parecer, no mesmo prazo assinado no inciso anterior, sobre as contas anuais encaminhadas pela Mesa da Câmara Municipal ao Prefeito.\nIII - No exercício de suas funções proceder à auditoria financeira e orçamentária da Administração Municipal e da Câmara.\nIV - Julgar da regularidade das contas dos ordenadores de despesa, administradores e demais responsáveis por bens e valores públicos, bem como de quem haja recebido benefício por antecipação ou adiantamento.\nV - Apreciar a legalidade das concessões iniciais de aposentadorias e das pensões concedidas pelo Município.\nVI - Representar ao Prefeito e à Câmara Municipal sobre irregularidades e abusos que verificar no exercício do controle da administração financeira e orçamentária.\nVII - Assinar prazo para que o órgão da Administração pública adote as providências necessárias ao exato cumprimento da lei, se verificar ilegalidade ou irregularidade de qualquer despesa, inclusive as decorrentes de contratos, aposentadorias, transações e pensões concedidas pelo Município.\nVIII - Sustar a execução do ato, em caso de não atendimento da determinação do inciso anterior, exceto em relação aos contratos.\nIX - Solicitar à Câmara Municipal a sustação do ato ou outras medidas que julgar necessárias ao resguardo dos objetivos legais, em caso de não atendimento da determinação do inciso VIII, na hipótese de contrato.\nX - Examinar e julgar a aplicação de auxílios e subvenções concedidos pelo Município a entidades particulares de caráter assistencial ou que exerçam atividade de relevante interesse público.\nXI - Apreciar, nos termos do Decreto-Lei Federal nº 1805, de 1 de outubro de 1980, a aplicação das parcelas ou quotas-partes transferidas ao Município, provenientes de recursos tributários arrecadados pela União.\nXII - Decretar a prisão administrativa, em caráter cautelar e pelo prazo máximo de 90 (noventa) dias, sempre que houver iminente risco de dano patrimonial ou perda de prova, de servidor declarado em alcance, ou de pessoas consideradas responsáveis por valores ou bens municipais, sem prejuízo da competência de outras autoridades que a lei indicar.\nXIII - Aplicar multas aos servidores responsáveis por ilegalidades ou irregularidades apuradas no exercício de suas funções, ligadas à execução da despesa pública, observado o disposto no artigo 55.\nXIV - Atender a consultas da Administração Municipal, na forma desta lei.\n§ 1º - O ordenador da despesa da unidade orçamentária à época da ocorrência de qualquer ilegalidade ou irregularidade previstas no inciso XIII será o responsável direto pelas mesmas, salvo se da apuração, pelos meios competentes, resultar a identidade de outrem.\n§ 2º - A Câmara Municipal deliberará sobre a solicitação de que trata o inciso IX, no prazo de 30 (trinta) dias, findo o qual, sem pronunciamento do Legislativo, será considerada insubsistente a impugnação.\n§ 3º - O Prefeito poderá ordenar a execução do ato a que se refere o inciso VIII, \"ad referendum\" da Câmara Municipal.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DA ADMINISTRAÇÃO INDIRETA\nArt. 20 - A competência do Tribunal se estende também à fiscalização financeira das entidades com personalidade jurídica de direito privado, cujo capital pertença exclusiva ou majoritariamente ao Município, ou a qualquer entidade da respectiva Administração Indireta, sem prejuízo do controle exercido pelo Executivo.\n§ 1º - A fiscalização prevista neste artigo respeitará as peculiaridades de funcionamento da entidade, limitando-se a verificar a exatidão das contas e a legitimidade dos atos, e levará em conta os seus objetivos, natureza empresarial e operação, segundo os métodos do setor privado da economia.\n§ 2º - É vedada a imposição de normas não previstas na legislação geral ou específica.\n§ 3º - Aplicam-se os preceitos deste artigo, no que couber, às Fundações instituídas ou mantidas pelo Município.\n§ 4º - O Tribunal, no exercício da fiscalização referida neste artigo, não interferirá na política adotada pela entidade para a consecução dos objetivos estatutários e contratuais.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - No julgamento das contas, o Tribunal tomará por base o relatório anual, os balanços relativos ao encerramento do exercício, assim como os certificados de auditoria e o parecer dos órgãos que devem se pronunciar sobre as contas.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA COMPETÊNCIA EXCLUSIVA DO TRIBUNAL PLENO\nArt. 22 - É da competência exclusiva do Tribunal Pleno:\nI - Oferecer parecer:\na) nas contas e balanço geral do exercício financeiro, apresentados pelo Prefeito, nos termos do artigo 19, inciso I;\nb) nas contas anuais da Câmara Municipal, encaminhadas por sua Mesa ao Prefeito.\nII - Emitir parecer, relativamente às consultas formuladas pela Administração Municipal.\nIII - Apreciar as representações previstas no parágrafo único do artigo 72 da Lei Municipal nº 8248, de 7 de maio de 1975, e as que envolverem matéria de sua competência geral.\nIV - Julgar as contas das entidades referidas no artigo 7º e nos termos do artigo 10, ambos da Lei Federal nº 6223, de 14 de julho de 1975, no prazo de 180 (cento e oitenta) dias, nos termos do artigo 38, inciso IV, desta lei.\nV - Apreciar a aplicação das parcelas ou quotas-partes de que trata o inciso XI do artigo 19.\nVI - Conceder férias, licenças e afastamentos a seus Conselheiros.\nVII - Apreciar a aposentadoria de seus Conselheiros.\nVIII - Deliberar sobre a composição da lista de que trata o artigo 10.\nIX - Eleger o Presidente e o Vice-Presidente.\nX - Aprovar e alterar o Regimento Interno.\nXI - Expedir instruções.\nXII - Propor ao Legislativo, ouvido o Executivo sobre as repercussões financeiras, a criação ou a extinção de cargos dos seus quadros e a fixação dos respectivos vencimentos.\nXIII - Prestar informações à Câmara Municipal sobre matéria de fiscalização financeira e orçamentária.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA JURISDIÇÃO\nArt. 23 - O Tribunal tem jurisdição sobre pessoas e matérias sujeitas à sua competência, abrangendo todo aquele que arrecadar ou gerir dinheiro, valores e bens do Município ou pelos quais responda, bem como os administradores das entidades da Administração Indireta e das Fundações instituídas pelo Município.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Sob a jurisdição do Tribunal, ficam sujeitos, mediante exame e apreciação de suas contas e aferição da respectiva responsabilidade:\nI - Os ordenadores de despesa e as demais pessoas indicadas no artigo 19, inciso IV.\nII - Todos os servidores públicos, qualquer pessoa ou entidade que seja ou não estipendiada ou subvencionada pelos cofres públicos municipais, e que derem causa a perda, subtração, extravio ou dano em valores, bens e materiais do Município.\nParágrafo Único. Na apreciação da matéria contida neste artigo, o Tribunal, quando for o caso, poderá promover procedimento especial de Tomada de Contas, na forma que dispuser o Regimento Interno, obedecidos os princípios do Título VI desta lei.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "## TÍTULO III\n## DAS CONTAS DO PREFEITO E DA MESA DA CÂMARA\nArt. 25 - Para os fins previstos no artigo 19, incisos I e II, o Prefeito encaminhará ao Tribunal, até o dia 31 de março, em 2 (duas) vias, as contas e o balanço geral do exercício financeiro e orçamentário imediatamente anterior, bem como as contas da Mesa da Câmara, nos termos do artigo 87, parágrafo 2º, do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, compreendendo a sua totalidade, e serão acompanhadas das peças acessórias e de relatório circunstanciado.\nParágrafo Único. Se até o dia 31 de março, inclusive, o Tribunal não houver recebido as contas e o balanço geral, representará à Câmara Municipal, para os fins de direito.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - No prazo de 60 (sessenta) dias, o Tribunal emitirá parecer sobre as contas e os balanços, remetendo-os à Câmara, acompanhados dos respectivos relatórios.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - O parecer consistirá em apreciação geral e fundamentada das contas do exercício financeiro e concluirá pela sua aprovação ou rejeição, especificando, no segundo caso, os itens impugnados.\n§ 1º - O parecer compreenderá os atos e contratos, apreciados no decorrer do exercício financeiro, e que hajam envolvido despesa pública.\n§ 2º - O parecer não impedirá o posterior exame de atos e contratos eventualmente não apreciados, de que tenham decorrido despesa pública no exercício em questão.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - O Tribunal enviará cópia do relatório e do parecer das contas do Executivo, ao Prefeito.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "## TÍTULO IV\n## DAS CONSULTAS\nArt. 29 - O Tribunal emitirá parecer sobre consulta que lhe for feita pela Administração, por intermédio do Prefeito ou Presidente da Câmara Municipal, a respeito de dúvidas suscitadas na execução de disposições legais concernentes à matéria financeira e orçamentária.\nParágrafo Único. A consulta a que se refere este artigo será acompanhada de exposição precisa da dúvida, com formulação de quesitos, instruída, obrigatoriamente, com parecer do órgão competente.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Os pareceres emitidos em virtude de consulta da Administração terão força obrigatória, importando em pré-julgamento pelo Tribunal.\n§ 1º - Desses pareceres caberá apenas pedido de reexame, apresentado pelo próprio consulente, dentro de 30 (trinta) dias, a contar da data de sua publicação, se alegar necessidade de explicações complementares ou elucidativas.\n§ 2º - A qualquer tempo poderá a Administração repetir a consulta, se sobrevierem fatos ou fundamentos que possam importar na modificação do parecer.\n§ 3º - É facultado ao Tribunal, por iniciativa do Presidente, ou de quaisquer dos Conselheiros, reexaminar \"ex officio\", o ponto de vista firmado em parecer, e, ocorrendo alteração do pré-julgado, a orientação que vier a ser adotada terá força obrigatória a partir de sua publicação.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "## TÍTULO V\n## DAS REPRESENTAÇÕES\nArt. 31 - O Tribunal conhecerá de representações que lhe sejam dirigidas, com fundamento no parágrafo único do artigo 72 da Lei Municipal nº 8248, de 7 de maio de 1975, ou que envolvam matéria de sua competência.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - As conclusões a que chegar o Tribunal serão comunicadas às pessoas físicas ou jurídicas interessadas na representação, bem como ao Prefeito ou ao Presidente da Câmara Municipal, conforme o caso.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - Por inépcia, por ausência de fundamento jurídico, ou, ainda, por espírito de emulação, a representação será arquivada pelo Tribunal.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "## TÍTULO VI\n## DO PROCESSO\n## CAPÍTULO I\n## DA FORMAÇÃO\nArt. 34 - O Tribunal apreciará toda matéria de sua competência através de processo que se inaugurará da seguinte forma:\na) com os documentos e comunicados previstos no artigo 38;\nb) por iniciativa de Conselheiro;\nc) por consulta;\nd) por representação.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 - Todo processo estará sob a direção do Conselheiro a quem for distribuído o feito.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS PARTES\nArt. 36 - São partes do processo:\nI - As pessoas sujeitas à jurisdição do Tribunal.\nII - O terceiro que comprovar legítimo interesse em integrá-lo.\nIII - O terceiro convocado a integrá-lo, seja por outra parte ou por iniciativa do Conselheiro que presidir o processo.\nParágrafo Único. A parte, querendo, poderá ser representada no processo, através de advogado, legalmente habilitado.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - A Procuradoria da Fazenda Municipal, regida por lei própria, exercerá o procuratório da Fazenda Pública junto ao Tribunal e intervirá, obrigatoriamente, em todos os processos submetidos à apreciação da Corte, exceção feita aos processos relativos à administração interna do Tribunal.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA INSTRUÇÃO\nArt. 38 - Serão obrigatoriamente enviados ao Tribunal, no prazo e forma que dispuserem esta lei e o Regimento Interno, os documentos e comunicações dos seguintes fatos:\nI - As contas anuais do Prefeito, no prazo do artigo 25.\nII - As contas anuais encaminhadas ao Prefeito pela Mesa da Câmara Municipal, no mesmo prazo a que se refere o inciso anterior.\nIII - As demonstrações da aplicação dos recursos recebidos da União, a que se refere o inciso II do artigo 19, no mesmo prazo estabelecido para as contas anuais do Prefeito.\nIV - As contas anuais das entidades da Administração Indireta, até 15 (quinze) dias seguintes à data da Assembléia Geral dos acionistas que aprovar o balanço.\nV - As comunicações de ocorrências de alcance ou desvio de bens do patrimônio do Município ou de entidade a este vinculada, no prazo de 10 (dez) dias da ocorrência.\nVI - As licitações, contratos, ordens de execução de serviços, notas de empenho, convênios, termos de compromisso e autorização, termos de permissão de uso, termos de doação, consórcios, e outros análogos, bem como seus eventuais aditamentos, da Administração Direta, dentro de 30 (trinta) dias, mediante cópia autêntica, para acompanhamento e verificação da regularidade da despesa.\nVII - As prestações de contas oriundas de adiantamentos, dentro de 30 (trinta) dias após esgotado o prazo de apreciação pelo controle interno.\nVIII - Os atos que concederem aposentadorias ou pensões pelo Município, dentro de 60 (sessenta) dias da data de sua formalização.\n§ 1º Os órgãos da Administração Direta somente cumprirão o disposto no inciso VI deste artigo mediante requisição do Tribunal, observando o prazo correspondente, a partir do recebimento da requisição.\n§ 2º Sem prejuízo do disposto no parágrafo anterior, o Tribunal poderá, por meio de Resolução, exigir dos órgãos da Administração Direta a remessa de relações mensais dos documentos e comunicações elencados no inciso VI deste artigo.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39 - O Tribunal, por si, seus Conselheiros ou órgãos delegados, poderá requisitar os documentos ou informações necessárias à instrução do processo.\n§ 1º - Para o mesmo fim deste artigo, o Tribunal poderá, a qualquer tempo, proceder a auditorias, vistorias ou exames em processos ou documentos, no próprio local onde se encontrem.\n§ 2º - Na instrução do processo, admitir-se-ão todas as provas conhecidas em direito, no prazo e forma que dispuser o Regimento Interno, obedecidos os critérios da lei processual civil.\n§ 3º - As requisições previstas neste artigo, bem como as provas exigidas pelo Tribunal, se não atendidas, sujeitarão os responsáveis por sua guarda à penalidade estatutária cabível, sem prejuízo daquelas previstas no Título X.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "## TÍTULO VII\n## DAS DECISÕES\n## CAPÍTULO I\n## DAS DECISÕES DO PROCESSO\nArt. 40 - Na apreciação dos processos sujeitos à sua competência, o Tribunal manifestar-se-á, de forma definitiva, através de:\nI - Decisões, quando prolatadas por Juízo Singular ou Câmara.\nII - Acórdãos, quando prolatados pelo Tribunal Pleno, em matéria de sua competência exclusiva, ou em grau de recurso.\nParágrafo Único. As decisões e os acórdãos serão lançados em notas nos autos e registrados em livros próprios e publicados na Imprensa Oficial.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS DECISÕES RELATIVAS A \"INTERNA CORPORIS\"\nArt. 41 - Na apreciação de matéria que lhe seja submetida a exame e que diga respeito à sua própria administração, o Tribunal manifestar-se-á pela forma que dispuser o Regimento Interno.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "## TÍTULO VIII\n## DOS RECURSOS\nArt. 42 - Têm legitimidade para recorrer as partes definidas no artigo 36, bem como a Procuradoria da Fazenda Municipal.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 - Das decisões definitivas proferidas por Juízo Singular ou Câmara, caberá recurso ao Tribunal Pleno.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 - Das decisões proferidas por Câmara ou Juízo Singular, que considerarem irregular ou ilegal qualquer ato ou despesa executados por pessoa física ou jurídica que se encontre sob a jurisdição do Tribunal, haverá sempre recurso \"ex officio\" ao Tribunal Pleno.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 - Caberá, ainda, recurso ao Tribunal Pleno, quando:\nI - O acórdão apresentar falta de clareza em seu entendimento.\nII - Houver manifesto conflito entre o acórdão recorrido e outro proferido pelo próprio Tribunal Pleno, em igual questão de direito.\nIII - O acórdão se basear em erro de cálculo ou documentos falsos.\nIV - Ocorrerem novos fatos com eficácia para modificar a prova produzida.\nV - Quando a decisão ou o acórdão for proferido contra expressa disposição de lei.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46 - O prazo para recorrer é de 15 (quinze) dias, contados da data da intimação da decisão ou do acórdão.\nParágrafo Único. Será de 5 (cinco) anos o prazo de recurso nas hipóteses dos incisos III, IV e V do artigo 45.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47 - O recurso será recebido nos efeitos devolutivo e suspensivo.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "## TÍTULO IX\n## DA EXECUÇÃO DAS DECISÕES\nArt. 48 - Comportarão execução as decisões prolatadas por Juízo Singular, Câmara ou pelo Tribunal Pleno, transitadas em julgado, e que contenham ordem de regularização, de sustação de despesa, comunicação ou sanção.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49 - A execução far-se-á:\nI - Por ordem escrita, para que, no prazo assinado, seja regularizado o ato que deu origem à despesa ou seja ela sustada.\nII - Por comunicação e solicitação à Câmara Municipal, na hipótese do artigo 19, inciso IX.\nIII - Por anotação, no prontuário do funcionário envolvido, da sanção ou cominação imposta.\nIV - Por desconto, nos vencimentos, do montante a que for o funcionário condenado a pagar como multa ou a repor, nos casos de alcance, de desfalque ou de responsabilidade por despesa ilegal.\nV - Por decretação, em caráter cautelar, pelo prazo máximo de 30 (trinta) dias, da prisão administrativa do funcionário reincidente, genérico ou específico, em alcance ou desfalque.\nVI - Por sequestro de bens, quando o montante do alcance ou do desfalque for superior a 30 (trinta) vezes o valor da Unidade de Valor Fiscal do Município de São Paulo - UFM, vigente à época da infração, sem prejuízo do disposto no inciso IV.\nVII - Por desconto, nos vencimentos, salários ou honorários, do valor da multa aplicada às pessoas sujeitas à jurisdição do Tribunal, nos termos do artigo 24.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50 - A execução das decisões do Tribunal previstas nos incisos XII e XIII do artigo 19, e III, IV, V, VI e VII do artigo anterior far-se-á através da autoridade competente.\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "Art. 51 - A Secretaria-Diretoria Geral, através da Secretaria Processual, manterá livro de registro das execuções.\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "## TÍTULO X\n## DAS PENALIDADES\nArt. 52 - As infrações à presente lei, segundo a sua gravidade, ensejarão as seguintes sanções:\nI - Advertência.\nII - Multa.\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53 - A multa variará de uma a cinco vezes o valor da Unidade de Valor Fiscal do Município de São Paulo - UFM, à data da sua imposição, e seu valor será atualizado, de acordo com a legislação pertinente.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "Art. 54 - Havendo cominação especial, não serão aplicadas as sanções previstas no artigo 52.\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55 - Sem prejuízo do disposto no artigo 53, a desobediência aos prazos fixados na presente lei, bem como nas instruções do Tribunal, poderá implicar a imposição de multa:\nI - Ao responsável que não prestar contas de adiantamento, ou as apresentar fora do prazo, ou não recolher saldo dentro do prazo fixado.\nII - Ao funcionário de repartição encarregado de proceder inicialmente à tomada e liquidação de contas ou exame das prestações de contas ou de adiantamentos.\nIII - Aos responsáveis por tesourarias e demais órgãos pagadores da Fazenda Pública Municipal, que não comunicarem a entrega de numerário de adiantamento requisitado.\nIV - Aos administradores de fundos especiais, que não prestarem suas contas, ou o fizerem fora do prazo prescrito.\nParágrafo Único. A multa poderá deixar de ser imposta se a justificativa apresentada evidenciar a inexistência de má-fé ou a ocorrência de força maior, de livre convencimento do Corpo Julgador.\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "## TÍTULO XI\n## DA ORGANIZAÇÃO INTERNA\nArt. 56 - O Tribunal terá sua atividade interna exercida pelos órgãos previstos neste Título.\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DOS GABINETES\nArt. 57 - O Gabinete da Presidência compõe-se de 1 (uma) Chefia de Gabinete, 1 (uma) Chefia de Cerimonial, 1 (uma) Assessoria de Imprensa e 1 (uma) Seção Administrativa.\n"
+      },
+      "art-0058": {
+       "label": "Art. 58",
+       "kind": "article",
+       "text": "Art. 58 - Os Gabinetes de Conselheiros compõem-se de 1 (uma) Chefia de Gabinete, 1 (uma) Assessoria de Gabinete e uma Seção Administrativa.\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA SECRETARIA-DIRETORIA GERAL\nArt. 59 - As funções de controle externo, destinadas à fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Município e das entidades da administração direta e indireta serão exercidas por intermédio da S-D.G., subordinada ao Colegiado, cujas atribuições se distribuirão entre a Secretaria de Fiscalização e Controle, a Secretaria da Administração e a Secretaria da Informática.\n"
+      },
+      "art-0060": {
+       "label": "Art. 60",
+       "kind": "article",
+       "text": "Art. 60 - A S-D.G., com 1 (uma) Consultoria, 1 (uma) Seção Administrativa e 1 (um) setor operacional, é constituída por:\nI - Subchefia;\nII - Departamento Processual, composto de:\na) Divisão Técnica de Cartório e Controle de processos, com:\n1) Seção Técnica de Cadastramento e Expedição, com:\n- 1 (um) setor técnico;\n- 2 (duas) unidades administrativas;\n2) Seção Técnica de Autuação, com:\n- 2 (duas) unidades administrativas;\n3) Seção de Protocolo;\n4) Seção de Arquivo;\nb) Divisão Técnica Processual, com:\n1) Seção Técnica de Pauta e Juízo Singular, com:\n- 2 (duas) unidades administrativas;\n2) Seção Técnica de Redação, com:\n- 2 (duas) unidades administrativas;\n3) Seção Técnica de Ofícios;\nc) Seção Administrativa;\nIII - Divisão Técnica de Biblioteca e Documentação, com:\na) Seção Técnica de Biblioteca;\nb) Seção Técnica de Documentação, com:\n- 1 (um) setor operacional.\n"
+      },
+      "art-0061": {
+       "label": "Art. 61",
+       "kind": "article",
+       "text": "Art. 61 - As atribuições da S.D.G. serão disciplinadas pelo disposto nesta lei e no Regimento Interno.\n"
+      },
+      "art-0062": {
+       "label": "Art. 62",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA SECRETARIA DE FISCALIZAÇÃO E CONTROLE\nArt. 62 - A Secretaria de Fiscalização e Controle, com 1 (um) Grupo de Apoio e Planejamento e 1 (uma) Seção Administrativa, é constituída por:\nI - Assessoria Técnica, composta de:\na) 3 (três) Subchefias;\nb) Seção Técnica de Aposentadoria e Pensão;\nc) Seção Administrativa;\nII - Departamento de Auditoria I, composto de:\na) Divisão Técnica I, com: 1) 3 (três) Seções Técnicas;\nb) Divisão Técnica II, com: 1) 2 (duas) Seções Técnicas;\nc) Divisão Técnica III, com: 1) 2 (duas) Seções Técnicas;\nd) Seção Administrativa;\nIII - Departamento de Auditoria II, composto de:\na) Divisão Técnica IV, com: 1) 2 (duas) Seções Técnicas;\nb) Divisão Técnica V, com: 1) 2 (duas) Seções Técnicas;\nc) Divisão Técnica VI, com: 1) 2 (duas) Seções Técnicas;\nd) Seção Administrativa.\n"
+      },
+      "art-0063": {
+       "label": "Art. 63",
+       "kind": "article",
+       "text": "Art. 63 - As atribuições da Secretaria de Fiscalização e Controle serão disciplinadas pelo disposto nesta Lei e no Regimento Interno.\n"
+      },
+      "art-0064": {
+       "label": "Art. 64",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA SECRETARIA DA ADMINISTRAÇÃO\nArt. 64 - A Secretaria da Administração, com 1 Seção Administrativa, é constituída por:\nI - Departamento da Administração, composto de:\na) Divisão Técnica de Recursos Humanos, com:\n1 - Seção Técnica de Recursos Humanos;\n2 - Seção Técnica de Pessoal, com:\n- 5 unidades administrativas.\n3 - Seção Técnica de Saúde.\nb) Divisão Técnica Administrativa, com:\n1 - Seção Técnica de Contratos, com:\n- 2 setores técnicos.\n2 - Seção de Reparos e Manutenção, com:\n- 1 unidade administrativa;\n- 1 setor operacional.\n3 - Seção de Almoxarifado;\n4 - Seção de Serviços Gerais, com:\n- 9 setores operacionais.\n5 - Seção de Transportes, com:\n- 1 unidade administrativa;\n- 1 setor operacional.\nc) Seção Administrativa.\nII - Departamento de Contabilidade e Finanças, composto de:\na) Divisão Técnica de Contabilidade, com;\n1 - Seção Técnica de Escrituração, com:\n- 2 unidades administrativas.\n2 - Seção Técnica de Empenho e Execução Orçamentária.\nb) Divisão Técnica de Finanças, com:\n1 - Seção Técnica de Folha de Pagamento;\n2 - Seção de Tesouraria.\nc) Seção Administrativa.\nIII - Creche.\n"
+      },
+      "art-0065": {
+       "label": "Art. 65",
+       "kind": "article",
+       "text": "Art. 65 - As atribuições da Secretaria da Administração serão disciplinadas pelo disposto nesta Lei e no Regimento Interno.\n"
+      },
+      "art-0066": {
+       "label": "Art. 66",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA SECRETARIA DA INFORMÁTICA\nArt. 66 - A Secretaria de Informática, com 1 Seção Administrativa, é constituída por:\nI - Supervisão de Suporte ao Usuário;\nII - Supervisão de Desenvolvimento de Sistemas.\n"
+      },
+      "art-0067": {
+       "label": "Art. 67",
+       "kind": "article",
+       "text": "Art. 67 - As atribuições da Secretaria de Informática serão disciplinadas pelo disposto nesta Lei e no Regimento Interno.\n"
+      },
+      "art-0068": {
+       "label": "Art. 68",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DO PESSOAL\nArt. 68 - Os atuais cargos do Tribunal de Contas do Município de São Paulo que integram as tabelas constantes dos Anexos VI e VII, a que se referem ao artigos 5º e 9º da Lei nº 10.430, de 29 de fevereiro de 1988, ficam com as denominações, referências de vencimentos e forma de provimento estabelecidas de conformidade com os Anexos I e II, que integram a presente lei, observadas as seguintes normas:\nI - criados, os que constam na \"Situação Nova\", sem correspondência na \"Situação Atual\";\nII - extintos ou transferidos, os que figuram apenas na \"Situação Atual\";\nIII - mantidos, com as transformações eventualmente ocorridas, os que figuram nas duas situações.\n§ 1º Os cargos ora criados que correspondem a carreiras já instituídas ficam incluídos nos anexos próprios das respectivas leis, alterada a estrutura da carreira quando for o caso.\n§ 2º Serão extintos os cargos de Topógrafo e os vagos da carreira de Procurador e, à medida em que vagarem, os cargos da carreira de Técnico de Contabilidade.\n§ 3º Por opção do respectivo titular serão transferidos para o Quadro do Poder Executivo Municipal, carreira de Procurador, passando a integrar o Anexo I da Lei nº 10.182, de 30 de outubro de 1986, os cargos ocupados da carreira de Procurador do Tribunal de Contas do Município de São Paulo, mantido o provimento no nível em que se encontram.\n"
+      },
+      "art-0069": {
+       "label": "Art. 69",
+       "kind": "article",
+       "text": "Art. 69 - O provimento e a lotação do quadro de pessoal do Tribunal de Contas do Município de São Paulo serão feitos na forma prevista na presente lei e no Regimento Interno.\n"
+      },
+      "art-0070": {
+       "label": "Art. 70",
+       "kind": "article",
+       "text": "Art. 70 - Aos servidores do Tribunal de Contas do Município de São Paulo aplica-se a legislação estabelecida para os servidores da Câmara Municipal de São Paulo, inclusive os valores e formas de cálculo das vantagens e das escalas de vencimentos por elas adotadas, ainda que não expressamente prevista essa extensão, e, no que couber, a legislação estabelecida para o servidor da Prefeitura.\nParágrafo Único - Na regulamentação de matéria inserida no \"caput\" deste artigo, o Tribunal, sempre que necessário, se manifestará através de resolução.\n"
+      },
+      "art-0071": {
+       "label": "Art. 71",
+       "kind": "article",
+       "text": "Art. 71 - Pelo exercício de cargos de provimento em comissão, cuja natureza corresponda a encarregatura, chefia, direção, assistência ou assessoramento técnico, os servidores efetivos do Tribunal de Contas do Município de São Paulo farão jus a uma gratificação de função, de conformidade com os percentuais e bases estabelecidos para a Administração Municipal.\n§ 1º A gratificação a que se refere este artigo, desde que percebida por 5 anos, adquire caráter de permanência.\n§ 2º (VETADO).\n"
+      },
+      "art-0072": {
+       "label": "Art. 72",
+       "kind": "article",
+       "text": "Art. 72 - Os Conselheiros do Tribunal de Contas do Município de São Paulo terão as mesmas garantias, prerrogativas, impedimento, vencimento e vantagens dos Conselheiros do Tribunal de Contas do Estado de São Paulo e somente poderão aposentar-se com as vantagens do cargo quando o tiverem exercido efetivamente por mais de 5 anos.\nTÍTULO XII\nDAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 3 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 3 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.167, de 03/12/1980 was altered by acts of 8 date(s), the latest 2026-07-10."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09168",
+   "short": "Lei 9168/1980",
+   "title": "Lei nº 9.168, de 04/12/1980 (Reorganiza o Quadro de Atividades Artísticas instituído pela Lei nº 8401, de 8 de junho de 1976, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9168-de-4-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09168"
+   ],
+   "versions": [
+    {
+     "from": "1992-07-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9168-de-4-de-dezembro-de-1980",
+     "sha256": "c54a9f42ad58b5a53d3f5600ac21acfe3b28c37df5e0bed1e84ba57b45b05d9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9168, DE 4 DE DEZEMBRO DE 1980.\nReorganiza o Quadro de Atividades Artísticas instituído pela Lei nº 8401, de 8 de junho de 1976, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criada a Tabela de Vencimentos e Salários do pessoal do Quadro de Atividades Artísticas, constituída de Referências indicadas pelos códigos \"AA\" a \"AA-23\", na conformidade do Anexo I, integrante desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Quadro de Atividades Artísticas instituído pela Lei nº 8401, desde junho de 1976, passa a ser constituído pelos cargos indicados no Anexo II desta lei, distribuídos na conformidade das Tabelas A e B.\nParágrafo Único - A Tabela A é integrada por cargos pertencentes à PP-I, cargos de natureza permanente de provimento em comissão, e a Tabela B compreende cargos da PS-Parte Suplementar, a serem extintos na medida em que se vagarem.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os cargos e funções gratificadas relacionados, respectivamente, nos Anexos III e IV desta lei, ficam integrados no Quadro Geral do Pessoal, lotados no Departamento de Teatros da Secretaria Municipal de Cultura.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criados os cargos e funções gratificadas que, não figurando na coluna \"Situação Atual\", são discriminados na coluna correspondente à \"Situação Nova\" dos Anexos II, III e IV, e extintos aqueles que, indicados na coluna \"Situação Atual\", não figuram na coluna \"Situação Nova\" dos referidos anexos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Aos integrantes dos Corpos Estáveis e das Unidades de Iniciação Artística, é assegurada ajuda de custo, mensal, destinada à manutenção e conservação de instrumentos, materiais ou indumentárias, e fixada de acordo com os valores percentuais a seguir indicados:\nI - Regente Titular, Regente Assistente e Regente da Orquestra Sinfônica Municipal, Regente da Orquestra Sinfônica Jovem Municipal, Regente do Coral Municipal e Professor de Escola subordinada à Coordenadoria das Unidades de Iniciação Artística - 5% do valor da Referência AA-23;\nII - Diretor Artístico, Diretor Artístico Assistente, Coreógrafo, Assistente de Coreógrafo, Professor de Balé do Corpo de Baile Municipal, Bailarino, Cantor de Coral e Pré-Profissional - 6% do valor da Referência AA-23;\nIII - Professor de Orquestra e Instrumentista - 15% do valor da Referência AA-23.\nIV - Pianista Ensaiador - 2% do valor da Referência AA-23.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os integrantes dos Corpos Estáveis e da Orquestra Sinfônica Jovem Municipal farão jus à gratificação por apresentação pública, de valor variável, na seguinte conformidade:\nI - Regente Titular, Regente Assistente e Regente da Orquestra Sinfônica Municipal - 11% (onze por cento) do valor da Referência AA-23;\nII - Regente da Orquestra Sinfônica Jovem Municipal - 16% (dezesseis por cento) do valor da Referência AA-23;\nIII - Regente do Coral Municipal - 3% (três por cento) do valor da Referência AA-23;\nIV - Diretor Artístico do Corpo de Baile Municipal, Diretor Artístico Assistente do Corpo de Baile Municipal, Coreógrafo e Coreógrafo Assistente, Bailarino e Pré-Profissional - 2% (dois por cento) do valor da Referência AA-23;\nV - Professor de Orquestra e Instrumentista - 6% do valor da Referência AA-23.\nVI - Cantor de Coral - 3% (três por cento) do valor da Referência AA-23.\n§ 1º - Todo aquele que não comparecer à apresentação pública decairá do direito de percepção da gratificação. Entretanto, o Diretor Artístico, o Diretor Artístico Assistente, o Coreógrafo e o Assistente de Coreógrafo do Corpo de Baile Municipal a ela terão direito toda vez que, efetivamente, assistirem o Corpo de Baile nas suas apresentações.\n§ 2º - Sempre que o Professor de Orquestra, Bailarino ou Cantor de Coral, em consequência da música ou da coreografia, não participar da apresentação pública do Corpo respectivo e, por força da programação, não se apresentar em substituição, em outros conjuntos ou individualmente, ser-lhe-á garantida a percepção da gratificação.\n§ 3º -\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A gratificação a que se refere o artigo anterior será incorporada aos vencimentos dos servidores, para os efeitos de aposentadoria, observada as seguintes condições:\nI - O valor a ser incorporado corresponderá a 1/24 avos do valor total a esse título recebido pelo servidor nos últimos dois anos, corrigidas monetariamente as concedidas antes dos últimos doze meses, de acordo com os coeficientes de reajustamento que, em cada período, ditaram as majorações respectivas.\nII - O valor a ser incorporado não poderá exceder ao da gratificação percebida na data em que a aposentadoria for requerida.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Será assegurada a percepção da gratificação prevista no artigo 6º, durante o período de férias efetivamente gozadas, cujo valor corresponderá a 1/12 avos do \"quantum\" a esse título recebido pelo servidor nos doze meses imediatamente anteriores ao período de férias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Aos Regentes, ao Diretor Artístico do Corpo de Baile, Diretor Artístico Assistente do Corpo de Baile, Coreógrafo, Coreógrafo Assistente, Professor de Orquestra, Bailarino, Cantor de Coral, Professor de Balé do Corpo de Baile Municipal e Professor de Unidade de Iniciação Artística, sempre que exercitarem atividade especial, em apresentação pública, além das atribuições do seu cargo ou função, poderá ser concedida gratificação, não excedente a 15% (quinze por cento) do valor da Referência AA-23, a juízo do Diretor do Departamento de Teatros.\nParágrafo Único - As atividades normais dos cargos e funções integrantes dos Corpos Estáveis serão fixadas em regulamento a ser baixado pelo Executivo. Não constituem atividades estranhas, entre outras:\na) a apresentação do servidor, individualmente ou em conjunto, em programação oficial, sempre que, pela natureza da música ou coreografia, não for exigida a participação integral do Corpo Estável;\nb) a execução de solo, na forma regulamentar;\nc)\nc) a substituição, em apresentação pública, do Regente Titular pelo Regente ou pelo Regente Assistente; do Diretor Artístico do Corpo de Baile Municipal pelo Diretor Artístico Assistente; e do Coreógrafo pelo Coreógrafo Assistente.(Alínea designada pela Lei nº 9.320/1981)\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Ao servidor, exceto o Coreógrafo do Corpo de Baile Municipal, que criar coreografia cujos direitos forem cedidos à Administração, e por esta aceitos, será assegurado o pagamento de gratificação especial, de valor não excedente ao de duas vezes o da Referência AA-23, a ser fixada pelo Secretário Municipal de Cultura.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As atribuições e situação funcional no caso de gravação, reprodução, transmissão ou retransmissão, por empresa de radiodifusão, de interpretações e execuções de natureza artística dos integrantes dos Corpos Estáveis ou das Unidades de Iniciação Artística, serão objeto de regulamentação em decreto.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Os cargos de Professor de Orquestra, categorias \"A\", \"B\", \"C\" e \"D\", e os cargos de Cantor de Coral, constantes do Anexo II, Grupo I, da Lei nº 8401, de 8 de junho de 1976, ficam reclassificados na forma do Anexo II desta lei, observadas as atuais funções exercidas no conjunto por seus ocupantes.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O enquadramento nas categorias indicadas no artigo anterior será feito com base no Anexo V desta lei.\nParágrafo Único - As dúvidas quanto ao enquadramento de que trata este artigo serão dirimidas por comissão, a ser designada pelo Secretário Municipal de Cultura, no prazo de 30 (trinta) dias a partir da data da vigência da presente lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O Quadro da Composição Básica dos Corpos Estáveis, das Unidades de Iniciação Artística e dos Órgãos de Apoio, obedecidas as referências salariais constantes do Anexo VI desta lei, será estabelecido por decreto, podendo novas funções e respectivas remunerações serem previstas, sempre que indispensáveis, igualmente por decreto.\n§ 1º - As funções destinadas ao preenchimento da composição básica a que se refere o \"caput\" deste artigo serão exercidas mediante admissão, ou contratação para a prestação de serviços técnicos especializados, permitida a contratação de menores e estrangeiros.\n§ 2º - A avaliação da capacidade dos candidatos à admissão ou contratação para prestação de serviços técnicos especializados será efetuada por comissão própria da Secretaria Municipal de Cultura.\n§ 3º - A contratação será feita a prazo certo e determinado, renovável por prazos iguais ou superiores, no interesse da Administração.\n§ 4º - Em caráter excepcional, desde que comprovado o relevante valor artístico, a contratação poderá efetivar-se mesmo quando para o cumprimento de tarefas correspondentes a funções normais pertinentes a cargos existentes no Quadro de Atividades Artísticas, dispensada, se for o caso, a comprovação de 5 (cinco) anos de experiência no ramo.\n§ 5º - A admissão ou a contratação de pessoal técnico especializado, a que se refere o § 1º deste artigo, poderá ser formalizada, no caso de estrangeiro, independente de prévio exame médico do profissional. Entretanto, qualquer dos atos administrativos mencionados somente subsistirá, desde que os servidores sejam aprovados nos exames médicos, que deverão estar concluídos no prazo de noventa dias.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - A reclassificação de cargos a que se refere o artigo 2º aplica-se ao pessoal inativo, cuja situação, quando em atividade, tinha correspondência com os cargos constantes dos Anexos II e III.\n§ 1º Aos inativos que, por força da extensão da presente reclassificação e de revalorizações posteriores, quer do Quadro de Atividades Artísticas, quer do Quadro Geral da Pessoal, venham a sofrer prejuízo em seus proventos, fica assegurado o pagamento de importância correspondente à diferença entre o padrão antigo e a nova referencia decorrente da reclassificação, como vantagem de ordem pessoal.\n§ 2º - O Instituto de Previdência Municipal de São Paulo reajustará, de acordo com a reclassificação operada para o Quadro de Atividades Artísticas, as pensões devidas aos beneficiários de servidores falecidos até 28 de fevereiro de 1981, onerando a despesa a dotação do orçamento vigente.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Aos atuais titulares de cargos efetivos, cujos vencimentos passam a ser os da Tabela referida no artigo 1º, fica assegurada, como vantagem pessoal, a diferença que percebam a mais na situação atual.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Esta lei entrará em vigor a 1 de janeiro de 1981, revogadas as disposições em contrário, especialmente o parágrafo único do artigo 11, o parágrafo único do artigo 12, e os artigos 13, 14 e 15 da Lei nº 8401, de 8 de junho de 1976.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 4 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 4 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.168, de 04/12/1980 was altered by acts of 5 date(s), the latest 1992-07-06."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09170",
+   "short": "Lei 9170/1980",
+   "title": "Lei nº 9.170, de 04/12/1980 (Organiza e institui as carreiras de Nivel Universitario que especifica, e da outras providencias)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9170-de-4-de-dezembro-de-1980",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1980-09170"
+   ],
+   "versions": [
+    {
+     "from": "1988-12-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9170-de-4-de-dezembro-de-1980",
+     "sha256": "bcb393b6164ae213214a76283629580f3559cb54070c8196d4f8ce51834e06a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9170, DE 4 DE DEZEMBRO DE 1980.\n(Projeto de Lei Nº 223/1980 - executivo)\nOrganiza e institui as carreiras de Nivel Universitario que especifica, e da outras providencias\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 11 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei organiza as carreiras de Procurador, Médico, Médico de Saúde Escolar, Médico Veterinário, Engenheiro, Engenheiro Agrônomo, Cirurgião Dentista, Cirurgião Dentista de Saúde Escolar, Enfermeiro, Contador, Assistente Social, Técnico de Educação Física, Arquiteto e Bibliotecário, e institui as de Técnico de Administração e de Obstetriz.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As carreiras referidas no artigo 1º ficam constituídas de 4 (quatro) classes identificadas por algarismos romanos, de I a IV, com as Referências de vencimentos e atribuições constantes do Anexo I desta lei.\nParágrafo Único. As atribuições constantes do Anexo I caracterizam cada classe da carreira, podendo ser exercidas, em caráter excepcional, por integrantes das demais classes, superiores ou inferiores, de acordo com as necessidades da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O provimento dos cargos constantes do Anexo III far-se-á:\nI - Mediante concurso público, para os cargos da classe inicial;\nII - Mediante concurso de acesso, dentre titulares de cargos da classe imediatamente inferior, para os cargos das classes intermediárias e final.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criados os cargos de Direção, Supervisão, Chefia, Assistência e Encarregatura, privativos das carreiras a que se refere o artigo 1º, constantes do Anexo II desta lei.\n§ 1º - As nomeações para os cargos constantes do Anexo II serão feitas de acordo com as exigências de provimento constantes do mesmo Anexo.\n§ 2º - Em casos de excepcional interesse para a Administração, os titulares de cargos das carreiras referidas nesta lei poderão ser nomeados para os cargos, em comissão, privativos da classe inferior ou superior à classe em que estão enquadrados, na carreira respectiva.\n§ 3º - Os atuais titulares, cujos cargos em comissão são integrados nas carreiras pelo Anexo III, poderão ser nomeados, no primeiro provimento dos cargos a eles correspondentes do Anexo II, ainda que não sejam integrantes das respectivas carreiras.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os cargos indicados no presente artigo, desde que não incluídos no Anexo III desta lei, ficam com as respectivas Referências de vencimentos alteradas na forma a seguir especificada:\nI - Os de provimento efetivo, integrados nas Tabelas II ou III, da Parte Permanente, do Quadro Geral do Pessoal ou do Quadro Técnico Especial:\na) Ref. DA-11 para Ref. \"26\";\nb) Ref. DA-10 para Ref. \"25\";\nc) Ref. DA-8 para Ref. \"23\";\nd) Ref. DA-6 para Ref. \"21\";\nII - Os de provimento em comissão, da Tabela I, da Parte Permanente, do Quadro Geral do Pessoal, a seguir indicados:\na) Ref. \"24\" para Ref. DA-9;\nb) Ref. \"23\" para Ref. DA-8;\nc) Ref. \"20\" para Ref. DA-5;\nd) Ref. \"19\" para Ref. DA-4.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Ficam com a denominação alterada para Educador de Saúde Pública os cargos de Educador Sanitário, das Tabelas I e III, da Parte Permanente, e os cargos de igual denominação da Parte Suplementar, do Quadro Geral do Pessoal.\n§ 1º - Aplica-se aos cargos de que trata este artigo, integrados na Parte Suplementar, o disposto na Lei nº 9087, de 7 de julho de 1980, a partir de sua.\n§ 2º - O disposto neste artigo aplica-se aos Educadores Sanitários contratados e inativos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Passam a integrar a carreira de Procurador, na forma do Anexo III, 1 (um) cargo de Procurador Chefe, padrão 24-E, e 3 (três) cargos de Procurador, padrão 22-E, pertencentes à extinta Procuradoria Jurídica do Serviço Funerário do Município de São Paulo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A constituição das carreiras a que se refere o artigo 2º desta lei será feita mediante a integração dos cargos existentes, na forma do Anexo III.\nParágrafo Único. Os titulares de cargos da Tabela I, da Parte Permanente, constantes do Anexo a que se refere este artigo, só serão integrados nas classes indicadas, das carreiras de que trata esta lei, se tiverem assegurada por lei a situação de efetividade nesses cargos.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A integração de cargos nas três classes superiores das carreiras organizadas ou instituídas por esta lei será feita por antiguidade, dos respectivos titulares, na carreira, obedecida a precedência de cada classe e respeitados os limites constantes do Anexo III.\n§ 1º - Ao tempo obtido nos termos deste artigo será acrescido o tempo de serviço prestado na Prefeitura do Município de São Paulo, no exercício de tarefas privativas da profissão, na qualidade de nomeado ou admitido para cargo ou função da mesma natureza da carreira.\n§ 2º - A integração prevista neste artigo será feita através de decreto específico para cada carreira, com vigência a partir de 1º de fevereiro de 1981.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Serão automaticamente extintos os cargos excedentes indicados no Anexo III, vagos na data desta lei ou que vierem a se vagar.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Serão extintos, à medida em que seus titulares forem investidos, por acesso, em cargos de Médico de Saúde Escolar II, 48 (quarenta e oito) cargos de Médico de Saúde Escolar I, indicados no Anexo III como \"Cargos Provisórios\".\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Os cargos lotados na Secretaria das Administrações Regionais, constantes do Anexo IV desta lei, passam a integrar a Tabela I, da Parte Permanente, com as exigências de provimento constantes do mesmo Anexo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O artigo 3º da Lei nº 8.097, de 12 de agosto de 1974, passa a vigorar com a seguinte redação:\n\"Art. 3º - Ao servidor que, há mais de 5 (cinco) anos sem interrupção ou 10 (dez) anos descontínuos, tenha exercido cargo de direção, chefia, encarregatura, assistência ou assessoramento, de provimento efetivo ou em comissão, ficam asseguradas as vantagens decorrentes desse exercício, para efeito de aposentadoria ou disponibilidade.\n§ 1º - Quando mais de um cargo houver sido desempenhado, serão atribuídas:\nI - As vantagens do cargo de maior padrão, desde que lhe corresponda um exercício mínimo de 2 (dois) anos;\nII - As vantagens do cargo de padrão imediatamente inferior, cujo exercício, acrescido do tempo em cargo ou cargos de padrão igual ou superior, some, no mínimo, e 2(dois) anos.\n§ 2º - Os prazos estabelecidos neste artigo serão reduzidos à metade no caso de aposentadoria por invalidez ou compulsória.\n§ 3º - No caso de transformação de função gratificada em cargo, será acrescido ao tempo de cargo, para os efeitos de que trata este artigo, aquele exercido pelo servidor como ocupante da função gratificada.\n§ 4º - Os prazos estabelecidos no § 1º deste artigo serão reduzidos à metade, no caso da aposentadoria do servidor vier a ocorrer dentro de 3 (três) anos da data da publicação desta lei.\n§ 5º - O servidor que, pelo implemento dos prazos, tiver assegurada a incorporação prevista neste artigo, fará jus, no mês que anteceder a sua aposentadoria ou disponibilidade, ao percebimento da vantagem pecuniária respectiva, independentemente de se encontrar, nesse momento no exercício de cargo de direção, chefia, encarregatura, assistência ou assessoramento. .\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Fica o Executivo autorizado a incluir, por decreto, no Regime de Dedicação Profissional Exclusiva - RDPE, os cargos de provimento em comissão e as funções cujos titulares sejam portadores de habilitação profissional de nível universitário, obedecidas as disposições constantes dos parágrafos 2º e 3º do artigo 8º, e artigos 9º a 13 da Lei nº 8.215, de 7 de março de 1975.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - As disposições desta lei serão estendidas, no que couber, às Autarquias Municipais, através de decreto.\nParágrafo Único. Dentro de 60 (sessenta) dias, as Autarquias encaminharão à Secretaria Municipal da Administração proposta para atendimento do disposto neste artigo.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Esta lei entrará em vigor na data de sua publicação, salvo quanto aos artigos 4º, 7º, 8º, 9º, 10 e 11, que vigorarão a partir de 1º de fevereiro de 1981.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Revogam-se as disposições em contrário e, em especial, a Lei nº 8867, de 20 de março de 1979, ressalvados os seus artigos 4º, 8º e 9º, que permanecem em vigor.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 4 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 4 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.170, de 04/12/1980 was altered by acts of 16 date(s), the latest 1988-12-09."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09178",
+   "short": "Lei 9178/1980",
+   "title": "Lei nº 9.178, de 05/12/1980 (Institui o \"dia do alcoolatra recuperado\" no municipio de sao paulo, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9178-de-5-de-dezembro-de-1980",
+   "first_law": "lei-1980-09178",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-12-06",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9178-de-5-de-dezembro-de-1980",
+     "sha256": "b6ca144aefd6ea7049dced0f194612a045ef6df9c9e1822cc766c2c91f4480b0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9178, DE 5 DE DEZEMBRO DE 1980.\nInstitui o \"dia do alcoolatra recuperado\" no municipio de sao paulo, e da outras providencias.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 20 de novembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de São Paulo, o \"Dia do Alcoólatra Recuperado\", a ser comemorado, anualmente, no dia 9 de dezembro.\n§ 1º - O evento ora instituído será incluído no \"Calendário Oficial de Eventos\", a que se refere o Decreto nº 9051, de 12 de outubro de 1970.\n§ 2º - A comemoração de que trata este artigo será promovida pelos órgãos próprios da Prefeitura Municipal de São Paulo, principalmente nos estabelecimentos da rede municipal de ensino, onde serão feitas breves preleções a respeito dos malefícios da bebida alcoólica, dos programas e entidades de recuperação de alcoólicos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 5 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal de Educação, Jair de Moraes Neves\nO Secretário de Higiene e Saúde, Mário de Moraes Altenfeider Silva\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 5 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09188",
+   "short": "Lei 9188/1980",
+   "title": "Lei nº 9.188, de 11/12/1980 (Reestrutura a Procuradoria da Fazenda Municipal, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9188-de-11-de-dezembro-de-1980",
+   "first_law": "lei-1980-09188",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9188-de-11-de-dezembro-de-1980",
+     "sha256": "a6551a9413d24768006798128e7932a09000ff1eb7b19723058d395961864f06",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9188, DE 11 DE DEZEMBRO DE 1980.\nReestrutura a Procuradoria da Fazenda Municipal, e da outras providencias.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 3 de dezembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## TÍTULO I\n## DA ORGANIZAÇÃO\n## Capítulo I\n## DA REPRESENTAÇÃO E FINALIDADES\nArt. 1º A Procuradoria da Fazenda Municipal, subordinada diretamente ao Prefeito, como órgão autônomo de apoio técnico do seu Gabinete, exerce o procuratório da Fazenda Pública junto ao Tribunal de Contas do Município de São Paulo, intervindo, obrigatoriamente, em todos os processos submetidos à apreciação da Corte, exceção feita aos relativos à administração interna do Tribunal.\nParágrafo Único - A organização e finalidades da Procuradoria são estabelecidas nesta lei e no Regimento Interno a ser aprovado pelo Prefeito, e baixado por decreto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Procuradoria da Fazenda Municipal, como órgão auxiliar da execução orçamentária e da fiscalização financeira, representa, com exclusividade, a Fazenda Pública junto ao Tribunal de Contas do Município de São Paulo, inclusive quando da apreciação das contas da Administração Indireta.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Procuradoria da Fazenda Municipal será dirigida e representada pelo Procurador-Geral, nomeado, em comissão, pelo Prefeito, dentre Bacharéis em Ciências Jurídicas e Sociais, de reconhecido saber jurídico, de ilibada reputação e com mais de 35 (trinta e cinco) anos de idade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## Capítulo II\n## DA CONSTITUIÇÃO\nArt. 4º Constituem a Procuradoria da Fazenda Municipal, o Procurador-Geral da Fazenda e os Procuradores da Fazenda.\nParágrafo Único - Os serviços administrativos da Procuradoria serão atendidos pela Seção de Administração Geral a que se refere o artigo 8º.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Procurador-Geral da Fazenda, nomeado em comissão, na forma do disposto no artigo 3º, exerce a direção da Procuradoria e de seus serviços.\nParágrafo Único - O Procurador-Geral da Fazenda será substituído nas férias, licenças, afastamentos, faltas ou impedimentos ocasionais, por Procurador da Fazenda designado pelo Prefeito.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os cargos de Procurador da Fazenda serão em comissão, de livre provimento pelo Prefeito, dentre integrantes da carreira de Procurador da Prefeitura, com mais de 5 (cinco) anos de efetivo exercício, obedecidas, no que se refere ao número, denominação e padrão de vencimento, as disposições contidas na Tabela I do Anexo I, integrante da presente lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Procurador da Fazenda, nos casos de férias, licença ou afastamento, será substituído por integrante da carreira de Procurador da Prefeitura, designado pelo Prefeito, obedecidas as condições do artigo anterior.\nParágrafo Único - Designar-se-á substituto a Procurador da Fazenda, somente quando 5 (cinco) deles não se acharem no exercício do cargo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Fica criada, na Procuradoria da Fazenda Municipal, uma Seção de Administração Geral, e extinta a Seção de Expediente, Protocolo e Datilografia, referida no artigo 3º da Lei nº 8185, de 24 de dezembro de 1974.\nParágrafo Único - As atribuições e competência da Seção de Administração Geral serão fixadas no Regimento Interno.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## TÍTULO II\n## DA COMPETÊNCIA DA PROCURADORIA DA FAZENDA MUNICIPAL DA COMPETÊNCIA DO PROCURADO-GERAL E DO PROCURADOR DA FAZENDA\n## Capítulo I\n## DA COMPETÊNCIA DA PROCURADORIA DA FAZENDA MUNICIPAL\nArt. 9º Compete à Procuradoria da Fazenda Municipal:\nI - Defender, perante o Tribunal de Contas do Município de São Paulo, em Plenário ou fora dele, os interesses da Fazenda Pública, inclusive quando da apreciação das contas da Administração Indireta, promovendo e requerendo o que for de direito.\nII - Promover o exame de processos e documentos, intervindo nos expedientes administrativos de tomada de contas e de imposição de multas, quando da alçada do Tribunal.\nIII - Opinar, verbalmente ou por escrito, nos processos sujeitos a parecer, julgamento e decisão do Tribunal.\nIV - Comparecer às Sessões do Tribunal, com a faculdade de falar e de declarar a sua presença ao pé das decisões, registrando-se as suas intervenções.\nV - Levar ao conhecimento da Administração Direta ou Indireta do Município, para fins de direito, qualquer dolo, falsidade, concussão, peculato ou outras irregularidades de que venha a ter ciência.\nVI - Remeter à autoridade competente cópia autêntica dos atos de imposição de multa e das decisões referentes ao pagamento de alcance, ou restituição de quantias, em processos de tomada de contas.\nVII - Interpor recurso das decisões, acórdãos e de julgamentos, bem como requerer revisão de julgado nos casos previstos na lei do Tribunal de Contas.\nVIII - Representar a Fazenda Pública, perante a Câmara Municipal, nos processos impugnativos de contratos e despesas.\nIX - Apresentar, anualmente, ao Prefeito, relatório de suas atividades.\nParágrafo Único - A Procuradoria intervirá, obrigatoriamente, em todos os processos submetidos à apreciação da Corte exceção feita aos relativos à administração interna do Tribunal e, especialmente, nos casos de:\na) exame, aprovação ou impugnação de demonstrações contábeis ou financeiras de receita e despesa realizadas pelo Executivo, Legislativo, Tribunal de Contas, Autarquias, Sociedades de Economia Mista, Empresas Públicas e Fundações;\nb) consulta da Administração Pública;\nc) tomada de contas dos responsáveis;\nd) aposentadoria e pensões de quaisquer espécies;\ne) representação;\nf) prescrição;\ng) recurso e pedido de revisão de julgado interpostos por terceiros.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - As repartições ou órgãos, ligados à Administração Direta ou Indireta do Município, são obrigados a atender às requisições da Procuradoria da Fazenda Municipal, a exibir-lhes seus livros e documentos e a prestar-lhe as informações necessárias ao desempenho de duas funções.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Capítulo II\n## DA COMPETÊNCIA DO PROCURADOR-GERAL\nArt. 11 - Além de outras atribuições legais e das fixadas no Regimento Interno da Procuradoria, compete ao Procurador-Geral:\nI - Representar a Fazenda Pública no Plenário do Tribunal de Contas.\nII - Exercer a direção da Procuradoria e de seus serviços.\nIII - Prestar as informações que lhe forem solicitadas pelo Prefeito, pelo Presidente da Câmara Municipal, pelos Conselheiros do Tribunal de Contas e pelos órgãos da Administração Direta ou Indireta do Município.\nIV - Distribuir os processos entre os Procuradores, avocando os que entender devam ser por ele diretamente apreciados, para posterior encaminhamento ao Tribunal de Contas.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## Capítulo III\n## DA COMPETÊNCIA DO PROCURADOR DA FAZENDA\nArt. 12 - Além de outras atribuições legais e das fixadas no Regimento Interno da Procuradoria, compete ao Procurador da Fazenda:\nI - Opinar nos feitos que lhe forem distribuídos.\nII - Comparecer às Sessões do Tribunal, quando designado pelo Procurador-Geral.\nIII - Propor ou representar ao Procurador-Geral tudo quanto cumpra e caiba no resguardo do erário público.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## TÍTULO III\n## DO PESSOAL\nArt. 13 - Os cargos que constituem a lotação da Procuradoria da Fazenda Municipal são os constantes dos Anexos I e II, integrantes desta lei.\nParágrafo Único - Ficam criados, nas Tabelas I e III da Parte Permanente do Quadro Geral do Pessoal da Prefeitura do Município de São Paulo, os cargos novos incluídos nos Anexos referidos neste artigo.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Poderá ser transferido para o Quadro Geral do Pessoal da Prefeitura do Município de São Paulo, em cargo criado por esta lei e reservado para esse fim no Anexo II, referido no artigo anterior, o titular efetivo de um cargo de Escriturário, Referência 12, do Quadro do Tribunal de Contas do Município de São Paulo, que se encontra prestando serviços junto à Procuradoria da Fazenda Municipal, há mais de 5 (cinco) anos, à data da publicação desta lei.\n§ 1º - A transferência prevista neste artigo dependerá de pedido do interessado e da aquiescência do Presidente do Tribunal de Contas.\n§ 2º - Ao funcionário transferido nos termos deste artigo, ficam garantidos o mesmo grau do respectivo padrão de vencimento, e os demais direitos e vantagens que lhe tenham sido assegurados por lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## TÍTULO IV\n## DAS DISPOSIÇÕES FINAIS\nArt. 15 - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 11 DE DEZEMBRO DE 1980, 427º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, REYNALDO EMYGDIO DE BARROS\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretario das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran\nPublicada na Secretaria do Governo Municipal, em 11 de dezembro de 1980\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1980-09204",
+   "short": "Lei 9204/1980",
+   "title": "Lei nº 9.204, de 18/12/1980 (Altera a organização do Departamento de Rendas Imobiliárias — RI, estabele­cida pela Lei n.o 8645, de. 21 de no­vembro de 1977, e dá outras providên­cias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9204-de-18-de-dezembro-de-1980",
+   "first_law": "lei-1980-09204",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1980-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9204-de-18-de-dezembro-de-1980",
+     "sha256": "cabd3fbf40284daf41945259d7c23e81693efb1eead7c63966404ad1196fcda1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9204, DE 18 DE DEZEMBRO DE 1980\nAltera a organização do Departamento de Rendas Imobiliárias - RI, estabelecida pela Lei nº 8.645, de. 21 de novembro de 1977, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 4 de dezembro de 1980, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O artigo 22 da Lei nº 8.645, de 21 de novembro de 1977, passa a vigorar com a seguinte redação:\n\"Art. 22 - O Departamento de Rendas Imobiliárias é constituído de:\nI - Gabinete do Diretor;\nII- Divisão Administrativa, composta de:\na) Seção de Controle Operacional, com:\n1 - Setor de Protocolo;\n2 - Setor de Controle Estatístico;\n3 - Setor de Controle de Processamento;\n4 - Setor de Triagem e Distribuição;\nb) Seção de Atividades Complementares, com:\n1 - Setor de Pessoal;\n2 - Setor de Patrimônio e Almoxarifado;\n3 - Setor de Expediente;\n4 - Setor de Zeladoria;\n5 - Setor de Controle Orçamentário;\nIII - Divisão do Mapa de Valores, composta de:\na) Subdivisão de Pesquisa e Análise de Valores Imobiliários, com:\n1 - Seção de Pesquisa de Valores;\n2 - Seção de Preparação de Dados;\nb) Subdivisão de Cartografia Fiscal, com:\n1 - Seção de Desenho;\n2 - Seção de Reprografia;\n3 - Seção de Arquivo;\nc) Subdivisão de Cadastro de Logradouros, com:\n1 - Seção de Cadastramento, com 1 (um) Setor de Atualização do Cadastro e 1 (um) Setor de Operações Especiais;\n2 - Seção de Manutenção do Mapa, com 1 (um) Setor de Vistorias, 1 (um) Setor de Desenho e 1 (um) Setor de Serviços Diversos;\n3 - Seção de Denominação de Logradouros;\n4 - Seção de Arquivo e Informações, com 1 (um) Setor de Informações, 1 (um) Setor de Conferência e 1 (um) Setor de Arquivo;\nIV - Divisão do Cadastro Imobiliário Fiscal, composta de:\na) Seção de Microfilmagem, com:\n1 - Setor de Expediente;\n2 - Setor de Triagem e Preparação;\n3 - Setor de Microfilmagem e Indexação de Microfilmes;\n4 - Setor de Laboratório de Microfotografia;\nb) Seção de Informações e Arquivo, com:\n1 - Setor de Expediente;\n2 - Setor de Arquivo Imobiliário;\n3 - Setor de Análise e Informações;\nc) Seção de Certidão sobre Tributos Imobiliários, com:\n1 - Setor de Expediente;\n2 - Setor de Recepção e Entrega;\n3 - Setor de Análise e Instrução;\n4 - Setor de Emissão e Conferência;\nV - Divisão de Serviços Especiais, composta de:\na) Subdivisão de Serviços ao Público, com:\n1 - Seção de Cadastramento e Informações ao Público, com 1 (um) Setor de Cadastramento Rural, 1 (um) Setor de Inscrição e Declaração Imobiliária e 1 (um) Setor de Informações ao Público;\n2 - Seção de Controle de Entrega, com 1 (um) Setor de Entregas Especiais e Editais e 1 (um) Setor de Arquivo de Comprovantes;\nb) Subdivisão de Expedição de Documentos Fiscais, com:\n1 - Seção de Programação e Preparação de Expedição, com 1 (um) Setor de Programação de Roteiros e I (um) Setor de Preparação e Distribuição de Tarefas;\n2 - Seção de Entrega de Notificações e Avisos, com 1 (um) Setor de Guichês de Entrega de Notificações e Avisos e 4 (quatro) Setores de Entregas de Notificações e Avisos;\nc) Subdivisão de Imunidades, Isenções e Apoio Fiscal, com:\n1 - Setor de Lançamento de Taxa de Pavimentação;\n2 - Setor de Lançamentos Manuais;\n3 - Setor de Conferência;\nVI - 4 (quatro) Inspetorias de Fiscalização Tributária, cada uma composta de 3 (três) Subinspetorias Fiscais, com 1 (um) Setor de Conferência e 1 (um) Setor de Atividades Auxiliares em cada Subinspetoria.\nParágrafo único - Junto a cada Divisão, Subdivisão, Inspetoria e Subinspetoria haverá 1 (um) Setor de Expediente.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Quadro de Cargos e Funções Gratificadas da Secretaria das Finanças, constantes do Anexo I, Parte A, Anexo II e Anexo III, Parte B, que integram a Lei n.o 8.645, de 21 de novembro de 1977, fica alterado na conformidade dos Anexos à presente lei, observadas as regras a seguir:\na) extintos os que, figurando na \"Situação Atual\", não figurem na \"Situação Nova\";\nb) criados os que, não figurando na \"Situação Atual\", figurem na \"Situação Nova\";\nc) mantidos, com as transformações efetuadas, os constantes de ambas as situações.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 18 de dezembro de 1980, 427.0 da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Secretaria do Governo Municipal, em 18 de dezembro de 1980.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
