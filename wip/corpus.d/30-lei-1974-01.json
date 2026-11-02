@@ -1,0 +1,1631 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1974",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "26 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1974-08005": {
+   "label": "Lei nº 8.005, de 08/01/1974",
+   "title": "MODIFICA PARCIALMENTE O PLANO APROVADO PELA LEI Nº 7.691, DE 5 DE JANEIRO DE 1972, NO 42º SUBDISTRITO - JABAQUARA, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "1974-01-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8005-de-8-de-janeiro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08012": {
+   "label": "Lei nº 8.012, de 14/02/1974",
+   "title": "Cria cargos de Diretor de Parque Infantil, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-02-14",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8012-de-14-de-fevereiro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08021": {
+   "label": "Lei nº 8.021, de 07/03/1974",
+   "title": "Aprova traçado de faixa de terreno, no 33º subdistrito - Alto da Moóca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-03-07",
+   "published": "1974-03-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8021-de-7-de-marco-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08041": {
+   "label": "Lei nº 8.041, de 01/04/1974",
+   "title": "Dispõe sobre transformação da Seção de Divulgação e Publicidade do Departamento de Assistência Escolar em Seção de Almoxarifado, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-04-01",
+   "published": "1974-04-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8041-de-1-de-abril-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08050": {
+   "label": "Lei nº 8.050, de 22/04/1974",
+   "title": "Dispõe sobre adaptação de edifícios e projetos as condições de segurança de uso.",
+   "kind": "law",
+   "enacted": "1974-04-22",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8050-de-22-de-abril-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08056": {
+   "label": "Lei nº 8.056, de 14/05/1974",
+   "title": "Dá nova redação ao artigo 2º da Lei nº 8.012, de 14 de fevereiro de 1974.",
+   "kind": "law",
+   "enacted": "1974-05-14",
+   "published": "1974-05-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8056-de-14-de-maio-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08059": {
+   "label": "Lei nº 8.059, de 17/05/1974",
+   "title": "Dá nova redação ao artigo 4º da Lei nº 7.670, de 24 de novembro de 1971.",
+   "kind": "law",
+   "enacted": "1974-05-17",
+   "published": "1974-05-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8059-de-17-de-maio-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08063": {
+   "label": "Lei nº 8.063, de 22/05/1974",
+   "title": "Dá nova redação ao artigo 27 da Lei nº 7.687, de 29 de dezembro de 1971.",
+   "kind": "law",
+   "enacted": "1974-05-22",
+   "published": "1974-05-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8063-de-22-de-maio-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08069": {
+   "label": "Lei nº 8.069, de 03/06/1974",
+   "title": "Dispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-06-03",
+   "published": "1974-06-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8069-de-3-de-junho-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08075": {
+   "label": "Lei nº 8.075, de 26/06/1974",
+   "title": "Dispõe sobre concessão do serviço de transporte metroviário, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-06-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8075-de-26-de-junho-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08084": {
+   "label": "Lei nº 8.084, de 01/07/1974",
+   "title": "Dá nova redação a dispositivos da Lei nº 6.989/1966, já modificado pela Lei nº 7.410/1969.",
+   "kind": "law",
+   "enacted": "1974-07-01",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8084-de-1-de-julho-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08087": {
+   "label": "Lei nº 8.087, de 12/07/1974",
+   "title": "Torna obrigatória a instalação de unidades geradoras de eletricidade nas edificações destinadas a hospitais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-07-12",
+   "published": "1974-07-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8087-de-12-de-julho-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08088": {
+   "label": "Lei nº 8.088, de 12/07/1974",
+   "title": "Introduz alterações na Lei nº 7.329, de 11 de julho de 1969.",
+   "kind": "law",
+   "enacted": "1974-07-12",
+   "published": "1974-07-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8088-de-12-de-julho-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08093": {
+   "label": "Lei nº 8.093, de 08/08/1974",
+   "title": "Dispõe sobre criação do cargo de Chefe da Seção de Atendimento e Informação, assim como de funções gratificadas, na Divisão de Biblitoecas do Departamento de Cultura, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-08-08",
+   "published": "1974-08-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8093-de-8-de-agosto-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08098": {
+   "label": "Lei nº 8.098, de 12/08/1974",
+   "title": "Dispõe sobre reclassificação dos cargos que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-08-12",
+   "published": "1974-08-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8098-de-12-de-agosto-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08099": {
+   "label": "Lei nº 8.099, de 12/08/1974",
+   "title": "Dispõe sobre integração de servidories extranumerários-diaristas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-08-12",
+   "published": "1974-08-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8099-de-12-de-agosto-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08104": {
+   "label": "Lei nº 8.104, de 15/08/1974",
+   "title": "Aprova plano de alargamento de trecho da Rua das Juntas Provisórias, no 18º subdistrito - Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-08-15",
+   "published": "1974-08-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8104-de-15-de-agosto-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08112": {
+   "label": "Lei nº 8.112, de 02/09/1974",
+   "title": "Dispõe sobre a construção de velórios, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-09-02",
+   "published": "1974-09-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8112-de-2-de-setembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08130": {
+   "label": "Lei nº 8.130, de 04/10/1974",
+   "title": "Estabelece nova prorrogação do prazo para pagamento das Taxas de Conservação de Terrenos no Cemitério Vila Nova Cachoeirinha, a que alude o artigo 2º, parágrafo único, da Lei nº 7.960, de 22 de novembro de 1973.",
+   "kind": "law",
+   "enacted": "1974-10-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8130-de-4-de-outubro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08143": {
+   "label": "Lei nº 8.143, de 31/10/1974",
+   "title": "Altera disposições da Lei nº 4060, de 14 de junho de 1951.",
+   "kind": "law",
+   "enacted": "1974-10-31",
+   "published": "1974-11-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8143-de-31-de-outubro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08146": {
+   "label": "Lei nº 8.146, de 07/11/1974",
+   "title": "Dá nova redação aos artigos 4º, 8º, 11 e 12 da Lei nº 5.062, de 18 de outubro de 1956.",
+   "kind": "law",
+   "enacted": "1974-11-07",
+   "published": "1974-11-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8146-de-7-de-novembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08169": {
+   "label": "Lei nº 8.169, de 11/12/1974",
+   "title": "Dispõe sobre a criação, na Secretaria Municipal de Esportes, de Centro Educacional e Esportivo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-12-11",
+   "published": "1974-12-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8169-de-11-de-dezembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08176": {
+   "label": "Lei nº 8.176, de 16/12/1974",
+   "title": "Declara reservadas áreas devolutas municipais, necessárias à execucao de melhoramentos públicos nos 21º, 27º e 33º subdistritos, respectivamente Saúde, Tatuapé e Alto da Moóca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-12-16",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8176-de-16-de-dezembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08180": {
+   "label": "Lei nº 8.180, de 17/12/1974",
+   "title": "Autoriza a Prefeitura do município de São Paulo a participar como acionista majoritária da ANHEMBI S/A - Centro de Feiras e Salões, bem como celebrar convênios, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-12-17",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8180-de-17-de-dezembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08183": {
+   "label": "Lei nº 8.183, de 20/12/1974",
+   "title": "Dispõe sobre as diretrizes e a estrutura dos Quadros de Pessoal da Prefeitura, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-12-20",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8183-de-20-de-dezembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1974-08197": {
+   "label": "Lei nº 8.197, de 27/12/1974",
+   "title": "Desdobra a alíquota do imposto sobre serviços de qualquer natureza para os serviços de diversões públicas, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1974-12-27",
+   "published": "1974-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8197-de-27-de-dezembro-de-1974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1974-08005",
+   "short": "Lei 8005/1974",
+   "title": "Lei nº 8.005, de 08/01/1974 (MODIFICA PARCIALMENTE O PLANO APROVADO PELA LEI Nº 7.691, DE 5 DE JANEIRO DE 1972, NO 42º SUBDISTRITO - JABAQUARA, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8005-de-8-de-janeiro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08005"
+   ],
+   "versions": [
+    {
+     "from": "1982-04-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8005-de-8-de-janeiro-de-1974",
+     "sha256": "00fa39f770d6391577e46203e25cf1383816f49859b7be11738ffdf9a857049a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8005, DE 8 DE JANEIRO DE 1974.\nMODIFICA PARCIALMENTE O PLANO APROVADO PELA LEI Nº 7.691, DE 5 DE JANEIRO DE 1972, NO 42º SUBDISTRITO - JABAQUARA, E DÁ OUTRAS PROVIDÊNCIAS.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 31 de dezembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo, com as plantas anexas nºs. 25.320, 25.321, 25.322, 25.323 e 25.324-J-590, do Departamento de Urbanismo, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, ficam introduzidas as seguintes alterações no plano de melhoramentos de 1972, no 42º subdistrito - Jabaquara:\nI - Modificação do limite da área descrita no item XXII do artigo 1º da Lei nº 7.691/1972, no cruzamento da avenida ao longo do Córrego Água Vemelha com a Avenida Professor Abrahão de Moraes (antiga Água Funda), necessária à implantação de sistema de interligação daquelas vias e ligações auxiliares;\nII - Abertura de via em prolongamento da Rua dos Democráticos, desde um ponto situado, aproximadamente, 110,00 metros além da Rua Francisco Mesquita até um ponto situado, mais ou menos, 80,00 metros além da Rua Palermo, modificando o traçado do prolongamento de que trata o item XIX do artigo 1º da Lei nº 7.691/1972;\nIII - Formação de área ajardinada entre as Ruas Soares Avelar, Omega e a área referida no item I deste artigo;\nIV - Abertura de via em prolongamento da Rua Soares Avelar, desde a área ajardinada a que se refere o item anterior até um ponto situado 200,00 metros, aproximadamente, além da Rua Frederico Hoene;\nV - Modificação do traçado das duas vias de contorno a leste da área referida no item I deste artigo, sendo uma delas no trecho compreendido entre as Ruas São Fernando e César Antonio Bosco e a outra no trecho compreendida entre um ponto situado, mais ou menos, 110,00 metros aquém da Rua Cezar Batista e a Avenida 1;\nVI - Supressão da via ligando a Rua Soares Avelar à Rua Juibara, bem como do prolongamento desta última via, de que tratam, respectivamente, os itens XX e XXI do artigo 1º da Lei nº 7691/1972.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de janeiro de 1974, 420º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, João Pedro de Carvalho Neto\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito em 8 de janeiro de 1974.\nO Chefe do Gabinete, Rui Mazzei de Alencar\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.005, de 08/01/1974 was altered by acts of 1 date(s), the latest 1982-04-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08012",
+   "short": "Lei 8012/1974",
+   "title": "Lei nº 8.012, de 14/02/1974 (Cria cargos de Diretor de Parque Infantil, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8012-de-14-de-fevereiro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08012"
+   ],
+   "versions": [
+    {
+     "from": "1974-05-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8012-de-14-de-fevereiro-de-1974",
+     "sha256": "e10de2be154d66015a7a535b996786bd57fc852f9bcb0b8a8fb1df3c3c5ab6df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.012, DE 14 DE FEVEREIRO DE 1974.\nCria cargos de Diretor de Parque Infantil, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 11 de fevereiro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e lotados no Departamento de Educação e Recreio da Secretaria de Educação e Cultura, 120 cargos de Diretor de Parque Infantil, padrão VIII-A, a serem providos mediante promoção, dentre titulares de cargos da classe de padrão mais elevado da carreira de Educador Recreacionista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para o primeiro provimento dos cargos ora criados, somente poderão concorrer titulares dos cargos de Educador Recreacionista, padrão V-C, que, até a data da publicação da presente lei, contém 5 anos ou mais de serviço público municipal e, pelo menos, 2 anos nas funções de Dirigentes de Parque Infantil.\n§ 1º Observado o critério estabelecido neste artigo, serão as vagas remanescentes providas mediante promoção de titulares dos cargos de padrão V-B e V-A, sucessivamente.\n§ 2º Para os provimentos posteriores, também dentre Educadores Recreacionistas e observada a regra geral do Art. 1º, deverá ser exigido, como requisito essencial, diploma em curso superior (licenciatura plena) de Pedagogia, Psicologia, Música, Educação Física ou Serviço Social, excetuando-se desse requisito os atuais titulares do Padrão V-C, bem como os atuais titulares dos padrões V-A e V-B, que forem promovidos ao padrão V-C.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As demais condições de acesso serão regulamentadas por ato do Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Diretor de Parque Infantil fica sujeito à jornada de 44 horas semanais de trabalho, fazendo jus à gratificação mensal correspondente a 1/3 do respectivo padrão de vencimentos e exercerá suas atividades em dois períodos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A forma de provimento do cargo de Chefe da Seção Técnica Assistencial, padrão X-A, constante do item XIV da Tabela II anexa à Lei nº 7.265, de 17 de janeiro de 1969, passa a ser dentre titulares dos cargos de Diretor de Parque Infantil, ora criados.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução da presente lei correrão por conta das verbas próprias do orçamento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de fevereiro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Obras, João Pedro de Carvalho Neto\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário Municipal de Transportes, Mário Alves de Melo\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento José Maria Mendes Pereira\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 14 de fevereiro de 1974.\nO Chefe de Gabinete, Rui Mazzei de Alencar\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.012, de 14/02/1974 was altered by acts of 1 date(s), the latest 1974-05-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08021",
+   "short": "Lei 8021/1974",
+   "title": "Lei nº 8.021, de 07/03/1974 (Aprova traçado de faixa de terreno, no 33º subdistrito - Alto da Moóca, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8021-de-7-de-marco-de-1974",
+   "first_law": "lei-1974-08021",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-03-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8021-de-7-de-marco-de-1974",
+     "sha256": "c4380d504f2ed02124ca6a261938f63fa3d940c24cbdae1693a08c77aaf5f91e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8021, DE 7 DE MARÇO DE 1974.\nAprova traçado de faixa de terreno, no 33º subdistrito - Alto da Moóca, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 18 de fevereiro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25.297-A-21, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado traçado de faixa de terreno, no 33º subdistrito - Alto da Moóca, destinada à abertura de viela sanitária ou à constituição de área gravada de servidão \"non aedificandi\", na extensão aproximada de 29,00 metros e largura de 4,00 metros, no trecho compreendido entre a Avenida Alvaro Ramos, e a avenida ao longo do Córrego Tatuapé, aprovado pela Lei nº 4.708, de 4 de junho de 1955.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Se a faixa de terreno a que se refere o artigo anterior for utilizada para a abertura de viela sanitária, as construções, reconstruções ou reformas que se fizerem nos lotes lindeiros ficarão sujeitas ao recuo mínimo de 1,50 metros, em relação aos alinhamentos da viela, e não poderão ter para esta qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação ou de instituição de servidão ficando, outrossim, o Executivo autorizado a recebê-los em doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de março de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 7 de março de 1974.\nO Chefe do Gabinete, Rui Mazzei de Alencar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08041",
+   "short": "Lei 8041/1974",
+   "title": "Lei nº 8.041, de 01/04/1974 (Dispõe sobre transformação da Seção de Divulgação e Publicidade do Departamento de Assistência Escolar em Seção de Almoxarifado, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8041-de-1-de-abril-de-1974",
+   "first_law": "lei-1974-08041",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-04-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8041-de-1-de-abril-de-1974",
+     "sha256": "189b73b5d1b70bf7f4e03e1851041a4269ae3087a3c0eafac4d4f88a8793c8a8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8041, DE 1 DE ABRIL DE 1974.\nDispõe sobre transformação da Seção de Divulgação e Publicidade do Departamento de Assistência Escolar em Seção de Almoxarifado, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal em sessão de 20 de março de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Seção de Divulgação e Publicidade do Departamento de Assistência Escolar, da Secretaria de Educação e Cultura, fica transformada na Seção de Almoxarifado da Divisão de Assistência e Nutrição do mesmo Departamento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O cargo de Oficial Administrativo Chefe da Seção de Divulgação e Publicidade, padrão X-A, constante do item XV, letra \"b\", nº 40, da Tabela II anexa à Lei nº 7.265, de 17 de janeiro de 1969, fica transformado no cargo de Chefe de Seção de Almoxarifado, da Divisão de Assistência e Nutrição, padrão X-A, e incorporado à Tabela I anexa à citada lei.\nParágrafo Único - O cargo a que se refere este artigo é isolado, de livre provimento, em comissão, pelo Prefeito, dentre integrantes da carreira de Almoxarife ou de Escriturário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, a 1 de abril de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário dos Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, João Pedro de Carvalho Neto\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mário Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 1 de abril de 1974.\nO Chefe do Gabinete, Rui Mazzei de Alencar\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08050",
+   "short": "Lei 8050/1974",
+   "title": "Lei nº 8.050, de 22/04/1974 (Dispõe sobre adaptação de edifícios e projetos as condições de segurança de uso.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8050-de-22-de-abril-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08050"
+   ],
+   "versions": [
+    {
+     "from": "1975-12-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8050-de-22-de-abril-de-1974",
+     "sha256": "f5e69720828f2ca3a9d598136d5f353196cd3d0bed2fcac0a8af49ff7a0288d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.050, DE 22 DE ABRIL DE 1974.\nDispõe sobre adaptação de edifícios e projetos as condições de segurança de uso.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 19 de abril de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Nas adaptações dos edifícios para atendimento das condições de segurança, previstas nas regulamentações edilícias, os eventuais acréscimos de área construída destinados aos espaços de circulação e acesso de uso coletivo, bem como os espaços cobertos decorrentes de laje de cobertura para proteção de pessoas e eventual pouso de emergência de helicóptero:\na) não serão computados no cálculo do coeficiente de aproveitamento do lote;\nb) não serão computados no cálculo da taxa de ocupação do lote;\nc) poderão ocupar parcialmente as faixas de recuos obrigatórios das divisas do lote, com exclusão do recuo do alinhamento dos logradouros;\nd) poderão ocupar parcialmente as áreas obrigatórias de insolação, iluminação e ventilação dos compartimentos;\ne) poderão ultrapassar os gabaritos de altura previstos em lei.\n§ 1º A ocupação de que trata as letras \"c\" e \"d\" deste artigo não poderá ter proporção que venha a invalidar a finalidade da faixa de recuo ou da área de insolação, iluminação e ventilação.\n§ 2º O disposto neste artigo aplica-se também à eventual execução de:\na) \"abas de proteção\" que avancem além das fachadas dos edifícios;\nb) passagens, balanços ou pinguelas que liguem edificações, ou parte de edificações, com o objetivo exclusivo de proporcionar escoamento ou áreas de refúgios para usuários dos edifícios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A faculdade estabelecida no artigo anterior se aplica:\na) às edificações existentes ou em construção, com projetos que tenham sido aprovados antes de 8 de fevereiro de 1974;\nb) aos projetos aprovados antes da mesma data com alvará em vigor e cujas obras não tenham sido iniciadas;\nc) aos pedidos de aprovação de plantas protocolados anteriormente à mencionada data.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As alterações de projetos constantes do artigo anterior, que se enquadrarem no Decreto 10.878 de 8 de fevereiro de 1974 e atos complementares, bem como seus posteriores projetos modificativos, não poderão agravar a eventual desconformidade com a legislação em vigor, admitidas porém, além do disposto no artigo 1º, a majoração do número de unidades residenciais e a mudança de destino, desde que a nova destinação seja permitida pela legislação de zoneamento e respeitados os recuos nela fixados.\nParágrafo Único. Os projetos modificativos de que trata este artigo, após aceitos e aprovados, terão seus alvarás apostilados por mais 180 dias, descontado o tempo consumido pela Municipalidade entre o protocolamento do pedido de alteração do projeto e a data da apostila.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A presente lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 22 de abril de 1974.\nO Secretário dos Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, João Pedro de Carvalho Neto\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 22 de abril de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.050, de 22/04/1974 was altered by acts of 1 date(s), the latest 1975-12-10."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08056",
+   "short": "Lei 8056/1974",
+   "title": "Lei nº 8.056, de 14/05/1974 (Dá nova redação ao artigo 2º da Lei nº 8.012, de 14 de fevereiro de 1974.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8056-de-14-de-maio-de-1974",
+   "first_law": "lei-1974-08056",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8056-de-14-de-maio-de-1974",
+     "sha256": "c4e6e5543846dfbfdcaeff5cea39ef0d0cc3f64cac14e7f0eb1dd6e4e98ea853",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.056, DE 14 DE MAIO DE 1974.\nDá nova redação ao artigo 2º da Lei nº 8.012, de 14 de fevereiro de 1974.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de maio de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 2º - mantidos os seus parágrafos 1º e 2º - da Lei nº 8.012, de 14 de fevereiro de 1974, passa a ter a seguinte redação:\n\"Art. 2º Para o primeiro provimento dos cargos ora criados, somente poderão concorrer titulares dos cargos de Educador Recreacionista, padrão V-C, que, até a data da publicação da presente lei, contém 5 anos ou mais de serviço público municipal e, pelo menos, 2 anos nas funções de Dirigentes de Parque Infantil.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de maio de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário dos Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 14 de maio de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08059",
+   "short": "Lei 8059/1974",
+   "title": "Lei nº 8.059, de 17/05/1974 (Dá nova redação ao artigo 4º da Lei nº 7.670, de 24 de novembro de 1971.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8059-de-17-de-maio-de-1974",
+   "first_law": "lei-1974-08059",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-05-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8059-de-17-de-maio-de-1974",
+     "sha256": "35ce85da64ce04d4c3c03f6b80e7fb921509931d6daaeb4b50a39da570a8ba6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8059, DE 17 DE MAIO DE 1974.\nDá nova redação ao artigo 4º da Lei nº 7.670, de 24 de novembro de 1971.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de maio de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 4º da Lei nº 7670, de 24 de novembro de 1971, acrescido de parágrafo único, passa a ter a seguinte redação:\n\"Art. 4º O capital inicial da EMURB, uma vez integralizado, poderá ser aumentado por ato do Executivo, mediante a incorporação de dotações orçamentárias que lhe forem consignadas, de reservas decorrentes de lucros líquidos de suas atividades, de reavaliação de seu ativo ou pela transferência de bens imóveis municipais, na mesma forma dos artigos 2º e 3º.\nParágrafo Único - A transferência de bens imóveis municipais, para efeito do aumento de capital a que se refere este artigo, observará o limite de Cr$ 51.800.000,00.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 17 de maio de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário dos Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Chefe do Gabinete, respondendo pelo expediente da Secretaria de Obras, Ivan Lubachescki\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 17 de maio de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08063",
+   "short": "Lei 8063/1974",
+   "title": "Lei nº 8.063, de 22/05/1974 (Dá nova redação ao artigo 27 da Lei nº 7.687, de 29 de dezembro de 1971.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8063-de-22-de-maio-de-1974",
+   "first_law": "lei-1974-08063",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-05-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8063-de-22-de-maio-de-1974",
+     "sha256": "2d54195eb9ab9389556fd17b5346e986e5730c9d14c048942d76b259aef73ebc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.063, DE 22 DE MAIO DE 1974.\nDá nova redação ao artigo 27 da Lei nº 7.687, de 29 de dezembro de 1971.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 15 de maio de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 27 da Lei nº 7.687, de 29 de dezembro de 1971, acrescido de dois parágrafos, passa a vigorar com a seguinte redação:\n\"Art. 27 São isentos do pagamento da taxa o exame e a verificação de plantas para edificação de moradia econômica e de pequenas reformas.\n§ 1º Para os fins do disposto neste artigo, consideram-se \"moradia econômica\" e \"pequenas reformas\" as que assim forem definidas pelo Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA, nos termos da legislação federal.\n§ 2º Sobrevindo alterações nos conceitos estabelecidos pelo Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA, o Executivo, nos termos da Lei nº 7.420, de 30 de dezembro de 1969, se necessário, expedirá regulamento para estabelecer medidas visando a facilitar a fiscalização das construções.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 22 de maio de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário dos Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Chefe do Gabinete, respondendo pelo expediente da Secretaria de Obras, Ivan Lubachescki\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 22 de maio de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08069",
+   "short": "Lei 8069/1974",
+   "title": "Lei nº 8.069, de 03/06/1974 (Dispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8069-de-3-de-junho-de-1974",
+   "first_law": "lei-1974-08069",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-06-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8069-de-3-de-junho-de-1974",
+     "sha256": "67ff68ae9a9201623ec3c311aad9102bfd96e4928b52d7cf4e26f4f9cd06425a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8069, DE 3 DE JUNHO DE 1974.\nDispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 29 de maio de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado e incorporado à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - anexa à Lei nº 7.265, de 17 de janeiro de 1969, 1 cargo de Encarregado de Usina de Tratamento de Lixo, da Vila Leopoldina, padrão X-A, de livre provimento pelo Prefeito, lotado no Departamento de Limpeza Pública, da Secretaria de Serviços Municipais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica criada, passando a integrar a Tabela \"B\" anexa à Lei nº 7.108, de 10 de janeiro de 1968, 1 função gratificada de Auxiliar de Encarregado de Usina de Tratamento de Lixo, da Vila Leopoldina, F.G.2, no Departamento de Limpeza Pública, da Secretaria de Serviços Municipais, de livre designação pelo Secretário, dentre servidores municipais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 3 de junho de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, Ivan Lubachescki\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 3 de junho de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08075",
+   "short": "Lei 8075/1974",
+   "title": "Lei nº 8.075, de 26/06/1974 (Dispõe sobre concessão do serviço de transporte metroviário, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8075-de-26-de-junho-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08075"
+   ],
+   "versions": [
+    {
+     "from": "1978-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8075-de-26-de-junho-de-1974",
+     "sha256": "24e38f9dd8202da38a964c98693b1d12b93bacf1eb59540a8ab949f266f71a74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8075, DE 26 DE JUNHO DE 1974.\nDispõe sobre concessão do serviço de transporte metroviário, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 21 de junho de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 2º do Decreto-lei nº 365, de 10 de outubro de 1946, passa a vigorar com a seguinte redação:\n\"Art. 2º A concessão referida no artigo anterior compreenderá o transporte coletivo de passageiros no Município por meio de troleibus e ônibus, ou qualquer outro meio de transporte, exceto o metroviário.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 3º da Lei nº 6988, de 26 de dezembro de 1966, passa a vigorar com a seguinte redação:\n\"Art. 3º Ficam assegurados os direitos de natureza contratual da Companhia Municipal de Transportes Coletivos - CMTC - nos termos do que dispõe o artigo 2º do Decreto-lei nº 365, de 10 de outubro de 1946, em sua nova redação - e cuja participação na nova empresa é prevista e autorizada.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 26 de junho de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 26 de junho de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.075, de 26/06/1974 was altered by acts of 1 date(s), the latest 1978-12-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08084",
+   "short": "Lei 8084/1974",
+   "title": "Lei nº 8.084, de 01/07/1974 (Dá nova redação a dispositivos da Lei nº 6.989/1966, já modificado pela Lei nº 7.410/1969.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8084-de-1-de-julho-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08084"
+   ],
+   "versions": [
+    {
+     "from": "1987-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8084-de-1-de-julho-de-1974",
+     "sha256": "d788e40202b6981115ce5d057243cb925dc861bd73fbe0c0a9d6d0ecd4ed38ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.084, DE 1º DE JULHO DE 1974.\nDá nova redação a dispositivos da Lei nº 6.989/1966, já modificado pela Lei nº 7.410/1969.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 26 de junho de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, a 1º de julho de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, Ivan Lubachescki\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 1º de julho de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.084, de 01/07/1974 was altered by acts of 1 date(s), the latest 1987-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08087",
+   "short": "Lei 8087/1974",
+   "title": "Lei nº 8.087, de 12/07/1974 (Torna obrigatória a instalação de unidades geradoras de eletricidade nas edificações destinadas a hospitais, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8087-de-12-de-julho-de-1974",
+   "first_law": "lei-1974-08087",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-07-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8087-de-12-de-julho-de-1974",
+     "sha256": "b2adb92b5a194e0b66037c7e84547c138166ad06ee5dd09d7f08e9f9435081a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8087, DE 12 DE JULHO DE 1974.\n(Projeto de Lei Nº 179/1973)\nTorna obrigatória a instalação de unidades geradoras de eletricidade nas edificações destinadas a hospitais, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 26 de junho de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ao Capítulo \"5 - Edificações para fins especiais\", \"5.5 - HOSPITAIS\", da Lei nº 4.615, de 13 de janeiro de 1955, acrescenta-se: \"5.5.23 - Os hospitais, sanatórios, maternidades e casas de saúde, deverão dispor de unidades geradoras, de ligação automática em caso de emergência, para fornecimento da energia necessária à continuidade do funcionamento das seções de cirurgia obstetrícia, curativos, recuperação e seus acessos, inclusive escadas, rampas e, pelo menos 1 elevador de transporte de leitos ou macas\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos citados no artigo anterior terão o prazo máximo de 180 dias para atender às exigências nele contidas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de julho de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário de Obras, Ivan Lubachescki\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 12 de julho de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08088",
+   "short": "Lei 8088/1974",
+   "title": "Lei nº 8.088, de 12/07/1974 (Introduz alterações na Lei nº 7.329, de 11 de julho de 1969.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8088-de-12-de-julho-de-1974",
+   "first_law": "lei-1974-08088",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-07-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8088-de-12-de-julho-de-1974",
+     "sha256": "3f51a090e36ac64b9be9593c9eb6da065aab5a22c79391203899df43bb43c93f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.088, DE 12 DE JULHO DE 1974.\nIntroduz alterações na Lei nº 7.329, de 11 de julho de 1969.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 24 de junho de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 7.329, de 11 de julho de 1969, passa a vigorar com as seguintes alterações:\n\"I - VETADO.\nII - Fica revogado, em todos os seus termos, o § 2º do Art. 25, passando o § 1º a constituir `Parágrafo Único`.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de julho de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Nelson Mortada\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 12 de julho de 1974.\nO Chefe do Gabinete, Edmundo de Menezes Guimarães\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08093",
+   "short": "Lei 8093/1974",
+   "title": "Lei nº 8.093, de 08/08/1974",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8093-de-8-de-agosto-de-1974",
+   "first_law": "lei-1974-08093",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-08-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8093-de-8-de-agosto-de-1974",
+     "sha256": "760dbc5def8d6babe6bd5f99a751412475222b6f960d45477126b03676a2deed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.093, DE 8 DE AGOSTO DE 1974.\nDispõe sobre criação do cargo de Chefe da Seção de Atendimento e Informação, assim como de funções gratificadas, na Divisão de Biblitoecas do Departamento de Cultura, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 7 de agosto de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado e incorporado à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - anexa à Lei nº 7.265, de 17 de janeiro de 1969, o cargo de Chefe da Seção de Atendimento e Informação, da Divisão de Bibliotecas do Departamento de Cultura, padrão XI-A, de livre provimento pelo Prefeito, dentre titulares da carreira de Bibliotecário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criadas, na Seção de Atendimento e Informação, da Divisão de Bibliotecas do Departamento de Cultura, as funções gratificadas constantes da Tabela anexa, integrante da presente lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de agosto de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nRespondendo pelo Expediente da Secretaria de Educação e Cultura, Januário Juliano Júnior\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 8 de agosto de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\nTABELA ANEXA À LEI Nº 8.093 DE 8 DE AGOSTO DE 1974\nFUNÇÕES GRATIFICADAS\n________________________________________________________________________\nDenominação - Lotação |Quantidade|Gratificação| Forma de Designação\n1 - Seção de Atendimento\ne Informação da Divisão\nde Bibliotecas\na) Encarregado do Setor| 1|F.G. 2 |Designação pelo Diretor\nde Informações | | |do Departamento de Cul-\ntura, dentre Bibliote-\ncários Municipais, me-\ndiante indicação da\nChefia da Divisão de\nBibliotecas.\nb) Encarregado do Setor| 1|F.G. 2 |Designação pelo Diretor\nde Atendimento | | |do Departamento de Cul-\ntura, dentre servidores\nmunicipais, mediante\nindicação da Chefia da\nDivisão de Bibliotecas.\nc) Encarregado do Setor| 1|F.G. 2 |Idem.\nde Reprografia\n________________________|__________|____________|_______________________\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08098",
+   "short": "Lei 8098/1974",
+   "title": "Lei nº 8.098, de 12/08/1974 (Dispõe sobre reclassificação dos cargos que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8098-de-12-de-agosto-de-1974",
+   "first_law": "lei-1974-08098",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-08-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8098-de-12-de-agosto-de-1974",
+     "sha256": "db6d86fa22bf1061f86f2c05406e2eb730b0c5a435f614d6572e9d564a7d0555",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.098, DE 12 DE AGOSTO DE 1974.\nDispõe sobre reclassificação dos cargos que especifica, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 12 de agosto de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cargos das carreiras de Bibliotecário e de Educador Musical, constantes da Tabela II - Parte Permanente - e o cargo de Inspetor Musical, constante da Tabela única - Parte Suplementar, anexas à Lei nº 7.265, de 17 de janeiro de 1969, ficam reclassificados de acordo com a Tabela \"A\" anexa à presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criadas, na Divisão de Bibliotecas do Departamento de Cultura, 37 Funções Gratificadas de Encarregado de Biblioteca, F.G.5, e 3 Funções Gratificadas de Encarregado de Turma, F.G.2.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam reclassificados no Padrão VII-A os 25 cargos remanescentes de Gráfico, Padrão III-A, constantes da Tabela anexa à Lei nº 7.747, de 27 de junho de 1972.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criadas, junto à Gráfica Municipal do Departamento de Administração do Município de São Paulo, as funções gratificadas constantes da Tabela \"B\" anexa à presente lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de agosto de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nRespondendo pelo Expediente da Secretaria de Educação e Cultura, Januário Juliano Júnior\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 12 de agosto de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08099",
+   "short": "Lei 8099/1974",
+   "title": "Lei nº 8.099, de 12/08/1974 (Dispõe sobre integração de servidories extranumerários-diaristas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8099-de-12-de-agosto-de-1974",
+   "first_law": "lei-1974-08099",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-08-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8099-de-12-de-agosto-de-1974",
+     "sha256": "12aecabed953a8daf382fe52b830dbea7e8341fe7aa8581611ce2000f27b7e4a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8099, DE 12 DE AGOSTO DE 1974.\nDispõe sobre integração de servidories extranumerários-diaristas, e dá outras providências\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 12 de agosto de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam integrados no Quadro Geral do Funcionalismo, em cargos correspondentes às funções que ora exercem, os atuais extranumerários-diaristas estáveis no serviço público municipal, nos termos do parágrafo 2º do artigo 177 da Constituição do Brasil, de 24 de janeiro de 1967.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criados e incluídos na Tabela única - Parte Suplementar - anexa à Lei nº 7.265, de 17 de janeiro de 1969, os cargos constantes da Tabela anexa à presente lei, nos quais são providos os extranumerários-diaristas de que trata o artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Aos padrões de vencimentos dos cargos constantes da Tabela anexa são atribuídos os seguintes valores mensais:\na) Padrão 1 - Cr$ 407,00\nb) Padrão 2 - Cr$ 549,00\nc) Padrão 3 - Cr$ 666,00\nd) Padrão 4 - Cr$ 786,00\ne) Padrão 5 - Cr$ 908,00\nf) Padrão 6 - Cr$ 1.035,00\ng) Padrão 7 - Cr$ 1.138,00\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os servidores integrados na forma desta lei e que contem menos de 45 anos de idade serão obrigatoriamente inscritos como contribuintes do Montepio Municipal, não lhes sendo, porém, aplicável o disposto no artigo 3º do Decreto-lei nº 366, de 14 de outubro de 1946, bem como não farão jus à devolução prevista no artigo 4º da Lei nº 7.447, de 16 de abril de 1970.\nParágrafo Único - Para fins de concessão de pensão ou legado, no caso de servidor integrado nos termos do artigo 1º e que vier a falecer durante o período de carência, aplicar-se-á o disposto na legislação anterior à data da presente lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução da presente lei onerarão as verbas próprias do orçamento, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de agosto de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nRespondendo pelo Expediente da Secretaria de Educação e Cultura, Januário Juliano Júnior\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 12 de agosto de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08104",
+   "short": "Lei 8104/1974",
+   "title": "Lei nº 8.104, de 15/08/1974 (Aprova plano de alargamento de trecho da Rua das Juntas Provisórias, no 18º subdistrito - Ipiranga, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8104-de-15-de-agosto-de-1974",
+   "first_law": "lei-1974-08104",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-08-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8104-de-15-de-agosto-de-1974",
+     "sha256": "647abe918223482c9b96240eb1805a820f7668cccd035e47de7b24b744a0754d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8104, DE 15 DE AGOSTO DE 1974.\nAprova plano de alargamento de trecho da Rua das Juntas Provisórias, no 18º subdistrito - Ipiranga, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 9 de agosto de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 25.386-A-101, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de alargamento da Rua das Juntas Provisórias, face leste, no trecho compreendido entre as Ruas Cisplatina e Lucas Obes, no 18º subdistrito - Ipiranga - revogado, nesse mesmo trecho, o alinhamento estabelecido pela Lei nº 5206, de 7 de junho de 1957.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamento constantes da planta mencionada neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 15 de agosto de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 15 de agosto de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08112",
+   "short": "Lei 8112/1974",
+   "title": "Lei nº 8.112, de 02/09/1974 (Dispõe sobre a construção de velórios, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8112-de-2-de-setembro-de-1974",
+   "first_law": "lei-1974-08112",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-09-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8112-de-2-de-setembro-de-1974",
+     "sha256": "f5d64707d2207496373c066bb34585f026ec3d2dcb3fea6b59fab2371d47db53",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.112, DE 2 DE SETEMBRO DE 1974.\nDispõe sobre a construção de velórios, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 23 de agosto de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Nos cemitérios particulares que vierem a ser instalados por associações religiosas, é obrigatória a construção de velórios.\n§ 1º Os velórios deverão ser ventilados e iluminados, dispondo de sala de vigília, compartimento de descanso e instalações sanitárias independentes para ambos os sexos.\n§ 2º As paredes terão cantos arredondados e receberão revestimento liso, resistente ou impermeável, até dois metros de altura, no mínimo, sendo também impermeável o piso da construção.\n§ 3º O recuo com relação aos terrenos vizinhos será de três metros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 2 de setembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 2 de setembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08130",
+   "short": "Lei 8130/1974",
+   "title": "Lei nº 8.130, de 04/10/1974",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8130-de-4-de-outubro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08130"
+   ],
+   "versions": [
+    {
+     "from": "1977-11-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8130-de-4-de-outubro-de-1974",
+     "sha256": "4a7aa2637f5fd6ea114020a6c6f8e9738321809ec5e25f11b7d3df97c77e2755",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.130, DE 4 DE OUTUBRO DE 1974.\nEstabelece nova prorrogação do prazo para pagamento das Taxas de Conservação de Terrenos no Cemitério Vila Nova Cachoeirinha, a que alude o artigo 2º, parágrafo único, da Lei nº 7.960, de 22 de novembro de 1973.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 27 de setembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Prefeitura poderá outorgar novas concessões, mediante pagamento apenas das taxas de conservação em atraso, aos antigos concessionários de terrenos no Cemitério Vila Nova Cachoeirinha, cujas concessões hajam sido automaticamente extintas, nos termos do artigo 2º, § 1º, da Lei nº 7.179, de setembro de 1968, cujo prazo foi prorrogado pelo parágrafo único do artigo 2º da Lei 7.960, de 22 de novembro de 1973.\nParágrafo Único - O prazo para a outorga das novas concessões referidas neste artigo será de seis meses a contar da vigência da presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 4 de outubro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 4 de outubro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.130, de 04/10/1974 was altered by acts of 1 date(s), the latest 1977-11-07."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08143",
+   "short": "Lei 8143/1974",
+   "title": "Lei nº 8.143, de 31/10/1974 (Altera disposições da Lei nº 4060, de 14 de junho de 1951.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8143-de-31-de-outubro-de-1974",
+   "first_law": "lei-1974-08143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-11-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8143-de-31-de-outubro-de-1974",
+     "sha256": "deb61878a96f375186de99cc3795fd93afdfdf5d0f06d02ff49527532f7d8960",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.143, DE 31 DE OUTUBRO DE 1974.\nAltera disposições da Lei nº 4060, de 14 de junho de 1951.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 18 de outubro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A alínea \"d\" do artigo 62 da Lei nº 4060, de 14 de junho de 1951, passa a vigorar da seguinte forma:\n\"d) pelo não comparecimento ao trabalho, sem causa justificável, por mais de sessenta dias interpolados, durante o exercício.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 66 da Lei nº 4060, de 14 de junho de 1951, passa a ter a seguinte redação:\n\"Art. 66 Para o efeito da alínea \"h\" do artigo 62 é considerado abandono do emprego o não comparecimento ao trabalho por mais de trinta dias consecutivos.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 63 da Lei nº 4060, de 14 de junho de 1951, ora restabelecido, passa a conter as seguintes disposições:\n\"Art. 63 O servidor preso em flagrante ou preventivamente, por crime comum ou funcional, será considerado afastado do trabalho até a condenação ou absolvição passadas em julgado.\n§ 1º Durante o afastamento, o servidor perderá um terço (1/3) do salário ordinário de trabalho, tendo direito à diferença, se for, afinal, absolvido.\n§ 2º No caso de condenação, e se esta não for de natureza que determine a dispensa do servidor, continuará ele afastado, na forma deste artigo, até o cumprimento total da pena, recebendo apenas um terço (1/3) do salário ordinário de trabalho.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 31 de outubro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nO Secretário de Educação, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nRespondendo pelo Expediente da Secretaria de Serviços Municipais, José de Ávila Aguiar Coimbra\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 31 de outubro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08146",
+   "short": "Lei 8146/1974",
+   "title": "Lei nº 8.146, de 07/11/1974 (Dá nova redação aos artigos 4º, 8º, 11 e 12 da Lei nº 5.062, de 18 de outubro de 1956.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8146-de-7-de-novembro-de-1974",
+   "first_law": "lei-1974-08146",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-11-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8146-de-7-de-novembro-de-1974",
+     "sha256": "5021d110a1db17170359322f70c6c5a69ca2ffb2f85943bb10f49efd8a5dba25",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.146, DE 7 DE NOVEMBRO DE 1974.\nDá nova redação aos artigos 4º, 8º, 11 e 12 da Lei nº 5.062, de 18 de outubro de 1956.\nMIGUEL COLASUONNO, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 23 de outubro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º - Os artigos 4º, 8º, 11 e 12 da Lei nº 5.062, de 18 de outubro de 1956, passam a vigorar com a seguinte redação:\n\"Art.4º - A permissão de que trata esta lei será dada a titulo precário, sem direito a indenização caso seja determinada à remoção ou supressão da barraca ou banca, devendo os interessados na permissão apresentar, juntamente com a proposta, em envelope separado, os seguintes comprovantes:\na) prova de identidade;\nb) folha corrida;\nc) prova de sanidade;\nd) prova de quitação com o serviço militar;\ne) croquis cotado do local pretendido\"\n"
+      },
+      "art-0008": {
+       "label": "Art.8º",
+       "kind": "article",
+       "text": "Art.8º - A permissão para exploração de barraca ou banca é pessoal e intransferível, não podendo o permissionário doar, vender, emprestar ou sublocar o seu ponto, salvo em se verificando o falecimento ou aposentadoria definitiva do permissionário, quando o seu cônjuge ou, na falta ou desistência deste, os filhos maiores do permissionário, seus pais e irmãos, na ordem mencionada, poderão prosseguir na exploração do ponto, com os mesmos direitos e deveres do antecessor.\n§1º - Para obter o direito à sucessão por morte do permissionário, o pretendente deverá, dentro de 90 (noventa) dias da data do falecimento, apresentar requerimento, comprovando sua condição de cônjuge ou parente do permissionário falecido e oferecendo a competente certidão de óbito e os documentos previstos no artigo 4º.\n§2º - Para obter o direito à sucessão por aposentadoria definitiva do permissionário, o pretendente deverá, com anuência expressa do permissionário, requerer a transferência do ponto, comprovando sua condição de cônjuge ou parente e oferecendo os documentos previstos no artigo 4º.\n§3º - Autorizada à transferência nos termos do parágrafo anterior, fica o permissionário obrigado a apresentar, dentro de 90 (noventa) dias, a contar da data da autorização, a prova de sua aposentadoria, sob pena de extinção automática da permissão.\n"
+      },
+      "art-0011": {
+       "label": "Art.11",
+       "kind": "article",
+       "text": "Art.11 - A taxa inicial corresponderá ao mês do calendário em que for expedido o alvará de licença, reajustada, anualmente, com base percentual dos novos índices salariais fixados para o Município, sendo as subseqüentes pagas adiantadamente até o dia 10 de cada mês, sob pena de serem cobradas com acréscimo de 10% (dez por cento) , sem prejuÍzo da cassação da permissão da permissão.\n"
+      },
+      "art-0012": {
+       "label": "Art.12",
+       "kind": "article",
+       "text": "Art.12 - Aos infratores desta lei será aplicada multa variável entre ½ (meio) a 1 (um) salário mínimo vigente no Município, à data em que for imposta, elevada ao dobro na reincidência e, persistindo, na cassação da permissão\"\nArt.2º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICIPIO DE SÃO PAULO, aos 7 de novembro de 1974, 421º da fundação de São Paulo.\nMIGUEL COLASUONNO, Prefeito.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08169",
+   "short": "Lei 8169/1974",
+   "title": "Lei nº 8.169, de 11/12/1974 (Dispõe sobre a criação, na Secretaria Municipal de Esportes, de Centro Educacional e Esportivo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8169-de-11-de-dezembro-de-1974",
+   "first_law": "lei-1974-08169",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8169-de-11-de-dezembro-de-1974",
+     "sha256": "7dbc514f2fdf9273570d05e3d1a937e51c4f2af8a27eca35033f7c0640b261d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8169, DE 11 DE DEZEMBRO DE 1974.\nDispõe sobre a criação, na Secretaria Municipal de Esportes, de Centro Educacional e Esportivo, e dá outras providência.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 18 de novembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado, na Secretaria Municipal de Esportes, e subordinado ao Departamento de Execução Esportiva, o Centro Educacional e Esportivo localizado à Praça do Café, na Vila Guarani.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criados os cargos e funções gratificadas constantes das tabelas anexas \"A\" e \"B\", nas quais se discriminam as respectivas denominações, lotações, quantidades, padrões de vencimentos ou remunerações, gratificações e formas de provimento ou designação, e que passam a integrar, respectivamente, as Tabelas \"A\" e \"C\" anexas à Lei nº 7323, de 23 de junho de 1969.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 11 de dezembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 11 de dezembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08176",
+   "short": "Lei 8176/1974",
+   "title": "Lei nº 8.176, de 16/12/1974",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8176-de-16-de-dezembro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08176"
+   ],
+   "versions": [
+    {
+     "from": "1975-12-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8176-de-16-de-dezembro-de-1974",
+     "sha256": "bcb5462af9d27c97e3af9795a71814a7012c9a21df55eb737ae1fd93856d9022",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8176, DE 16 DE DEZEMBRO DE 1974.\nDeclara reservadas áreas devolutas municipais, necessárias à execucao de melhoramentos públicos nos 21º, 27º e 33º subdistritos, respectivamente Saúde, Tatuapé e Alto da Moóca, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 27 de novembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam declaradas reservadas, nos termos do artigo 5º da lei nº 3.859, de 31 de março de 1950, com a nova redação que lhe conferiu a Lei nº 7.730, de 8 de maio de 1972, áreas devolutas pertencentes ao Município, necessárias à execução de planos de melhoramentos públicos, assinaladas nas plantas anexas nºs. A-2.707, B-3.780 e B-3.794, do arquivo do Departamento Patrimonial - rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei e que assim se descreve:\nI - Área necessária à execução do plano de melhoramentos aprovado pela Lei nº 4.097, de 28 de agosto de 1951: delimitada pelo perímetro A-E-F-D-A, assinalada na referida planta nº B-3.794, de formato retangular, situada à Rua Tuiuti, distante, mais ou menos, 18,00 metros da Rua Maria Eleonora, com cerca de 102,00m², confrontando: pela frente (linha reta D-A), na extensão aproximada de 6,00 metros, segundo o atual alinhamento da Rua Tuiuti, com o leito dessa mesma via; pelo lado direito (linha reta A-E), na extensão aproximada de 17,00 metros, com área devoluta municipal; pelo lado esquerdo (linha reta F-D), na extensão aproximada de 17,00 metros, com área devoluta municipal; pelos fundos (linha reta E-F), na extensão aproximada de 6,00 metros, segundo o atual alinhamento aprovado pela Lei nº 4.097, de 28 de agosto de 1951, com área devoluta municipal;\nII - Áreas necessárias à execução do plano de melhoramentos aprovado pela Lei nº 4.708, de 4 de junho de 1955:\na) delimitada pelo perímetro 6-3-8-11-14-14A-15-19A-20-9-10-130-131-132-133-134-136-137-140-141-4-7-6, de formato irregular, situada entre a Avenida Regente Feijó, Rua Água Rasa e Avenida Álvaro Ramos.\nb) delimitada pelo perímetro 146-143-148-149-154-159-160-165-8-169-170-176-175-171-167-164-163-158-153-152-147-146, de formato irregular, situada entre a Avenida Álvaro Ramos, Rua Major Basílio e Rua do Acre.\nIII - Área necessária à execução do plano de melhoramentos aprovado pela Lei nº 6.080, de 23 de outubro de 1962: delimitada pelo perímetro A-B-C-D-A, assinalada na referida planta nº B-3.780, de formato irregular, situada à rua Particular, no 21º subdistrito - Saúde - com cerca de 272,55m², confrontando: pela frente (linha reta D-A), de quem da área olha para a rua Particular, na extensão aproximada de 6,90 metros, segundo o atual alinhamento da rua Particular, com o leito dessa mesma via; pelo lado direito (linha reta A-B), na extensão aproximada de 39,00 metros, segundo o atual alinhamento da Rua Afonso Mariano Fagundes, com o leito dessa mesma via; pelo lado esquerdo (linha reta C-D), na extensão aproximada de 40,00 metros, com área devoluta municipal; pelos fundos (linha reta B-C), na extensão aproximada de 7,05 metros, com área devoluta municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 16 de dezembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivani Lubachescki\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 16 de dezembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.176, de 16/12/1974 was altered by acts of 1 date(s), the latest 1975-12-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08180",
+   "short": "Lei 8180/1974",
+   "title": "Lei nº 8.180, de 17/12/1974",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8180-de-17-de-dezembro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08180"
+   ],
+   "versions": [
+    {
+     "from": "1975-02-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8180-de-17-de-dezembro-de-1974",
+     "sha256": "276dc4ba315937aa714bd033f1e219d41917339cdc8faa80320f28bd2740cc1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.180, DE 17 DE DEZEMBRO DE 1974.\nAutoriza a Prefeitura do município de São Paulo a participar como acionista majoritária da ANHEMBI S/A - Centro de Feiras e Salões, bem como celebrar convênios, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 16 de dezembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Município autorizado a participar, como acionista majoritário, da ANHEMBI S/A - Centro de Feiras e Salões.\nParágrafo Único. A participação do Município no capital social da referida Sociedade Anônima será de Cr$ 313.650.000,00, assim integralizados:\nI - Cr$ 298.650.000,00, por conferência de bens;\nII - Cr$ 15.000.000,00, em dinheiro ou crédito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o Executivo autorizado a transferir para a ANHEMBI S/A - Centro de Feiras e Salões, como parte da integralização do capital social a ser subscrito pela Prefeitura, o terreno de propriedade municipal situado entre as avenidas Auxiliar e marginal direita do Rio Tietê, com cerca de 400.336,00m², avaliado em Cr$ 298.650.000,00, que - assinalado na planta anexa nº A-1801, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei - assim se descreve:\nÁrea de formato irregular, com cerca de 400.336,00m², delimitada pelo perímetro A-B-C-D-E-F-G-A, que se inicia no índice A, situado no alinhamento oeste da praça criada pela Lei nº 4236, de 26 de junho de 1952, a 204,00 metros da interseção daquele alinhamento com a avenida marginal direita do Rio Tietê, fixada pela Lei nº 3065, de 15 de julho de 1927; do índice A, segue o rumo norte, na extensão aproximada de 178,00 metros, acompanhando o citado alinhamento da Lei nº 4236, de 1952, ate alcançar o índice B; deste ponto percorre, para oeste, um arco de círculo, com, mais ou menos, 22,48 metros de extensão, até encontrar, no índice C, o alinhamento sul da avenida auxiliar; do índice C segue, ao longo do referido alinhamento sul, na distância aproximada de 2.041,00 metros, até encontrar o índice D; daí percorre arco de círculo, com, mais ou menos, 59,00 metros de extensão, até atingir, no índice E, o alinhamento norte da avenida marginal direita do Rio Tietê; do índice E segue, para leste, segundo o mencionado alinhamento norte, na extensão aproximada de 1.656,00 metros, até alcançar o índice F; daí deflete à esquerda em reta perpendicular à avenida marginal direita do Rio Tietê, e segue na extensão de 198,00 metros, mais ou menos, até o índice G; desse ponto, prossegue em linha reta, na extensão aproximada de 355,00 metros, até atingir o índice A, início do perímetro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica o Executivo autorizado a celebrar, juntamente com a EMBRATUR - Empresa Brasileira de Turismo e o BADESP - Banco de Desenvolvimento do Estado de São Paulo, convênio com a ANHEMBI S/A - Centro de Feiras e Salões, a Alcântara Machado Congressos S/C Ltda., a Distribuidora de Títulos e Valores Mobiliários Anhembi Ltda. e a Alcântara Machado Comércio e Empreendimentos Ltda., de acordo com o texto anexo, rubricado pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para atender às despesas de que trata o item II do parágrafo único do artigo 1º, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, no exercício de 1975, um crédito adicional especial de Cr$ 15.000.000,00 (quinze milhões de cruzeiros) a ser coberto com recursos provenientes da anulação parcial de igual importância, da verba 28.17.03.08.033.8581.43111 do orçamento de 1975.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 17 de dezembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mário Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 17 de dezembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\nCÓPIA DE FLS.7/10 DO PROCESSO Nº 48.472/74\nConvênio que fazem entre si, de um lado a Prefeitura do Município de São Paulo, a Empresa Brasileira de Turismo - EMBRATUR e o Banco de Desenvolvimento do Estado de São Paulo, de outro lado, ANHEMBI S/A Centro de Feiras e Salões, a Alcântara Machado Congressos Sociedade Civil Ltda., a Distribuidora de Títulos e Valores Mobiliários - ANHEMBI LTDA, e a Alcântara Machado Comércio e Empreendimentos Ltda.\nCONSIDERANDO\nQue o projeto do PARQUE ANHEMBI possui características nítidas de obras de infraestrutura, que são qualificadas como um bem público e na esfera de ação do Governo;\nQue o volume de investimentos necessários à plena operação do empreendimento é compensado pela sua elevada rentabilidade social;\nQue a EMBRATUR, o BADESP, e o Poder Público Municipal resolveram apressar o término da implantação do complexo do PARQUE ANHEMBI, que consideram de interesse nacional, como capaz de fomentar o desenvolvimento da indústria e do comércio do País, de maneira especial, pelo incremento da exportação de manufaturados e pela divulgação, no próprio País e no exterior, das possibilidades de comercialização do produto brasileiro, bem como pelo maior intercâmbio comercial, turístico, cultural e científico;\nQue para tanto se torna indispensável não apenas aumentar a participação acionária do Poder Público, como torná-la majoritária; RESOLVE O SEGUINTE:\nI - O MUNICÍPIO DE SÃO PAULO reforçará sua atual participação no capital, com direito a voto, na ANHEMBI S/A - Centro de Feiras e Salões, a fim de torná-la majoritária, subscrevendo - Cr$ 313.650.000,00 assim integralizados:\n1 - Cr$ 298.650.000,00, por conferência de bens;\n2 - Cr$ 15.000.000,00, em dinheiro e/ou créditos.\nII - A EMBRATUR e o BADESP - reforçam as suas atuais participações no capital com direito a voto, da seguinte forma:\n1 - A EMBRATUR, com Cr$ 5.000.000,00, integralizados em dinheiro;\n2 - O BADESP - Banco de Desenvolvimento do Estado de São Paulo, subscreverá através do FUNAC - Fundo de Apoio ao Contribuinte, Cr$ 45. 000.000,00 integralizados em dinheiro.\nIII - Os participantes deste Convênio eximem, expressamente, a ANHEMBI S/A - Centro de Feiras e Salões, do cumprimento da obrigação de recompra das ações anteriormente por elas subscritas, nos termos do Convênio assinado a 20-09-71, e da compra das ações bonificadas, conforme o consignado nos respectivos pactos de subscrição.\nIV - A ALCÂNTARA MACHADO COMÉRCIO E EMPREENDIMENTOS LTDA., a ALCÂNTARA MACHADO CONGRESSOS S/C LTDA., e a DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS ANHEMBI LTDA., se obrigam a rever os efeitos futuros de todos os contratos que mantêm com a ANHEMBI S/A - Centro de Feiras e Salões, para seu eventual prosseguimento, respeitando também os procedimentos dos itens V e VI abaixo.\nV - Se, dentro de 90 dias contados desta data, os participantes deste Convênio, através da Comissão a que se refere o item VI, não chegarem a um acordo definitivo quanto às condições das revisões a que se refere o item IV, então ficam rescindidos, de pleno direito, os contratos que aquelas sociedades mantêm com ANHEMBI S/A - Centro de Feiras e Salões, e suspensos seus efeitos geradores de obrigações.\nV-A - Para resguardo da posição de ANHEMBI S/A - Centro de Feiras e Salões, os contratos a serem revistos ou rescindidos, na forma retro, não serão modificados doravante sem prévia aprovação da Comissão a que se refere o item VIII abaixo.\nVI - Os eventos relativos a feiras, salões e outras promoções para o Pavilhão de Exposições, já contratados no ato da assinatura deste Convênio, e relacionados no \"calendário\" para o biênio de 1975/1976, estarão sujeitos, através da comissão especial referida, a rediscussão de condições estipulatórias de preços, receitas e percentagem, a fim de se proceder ao reajuste destas, em níveis que sejam considerados economicamente satisfatórios pela Comissão prevista na cláusula VIII.\nVII - Os diversos órgãos dos Poderes Públicos, aos quais caiba a execução, por partes, do presente Convênio, adotarão as medidas necessárias e firmarão os instrumentos hábeis, respeitadas as normas legais e regulamentares.\nVIII - Os participantes deste Convênio organizarão, desde logo, uma Comissão, para todas as providências necessárias à boa execução deste, bem como para a obtenção de outros recursos necessários ao empreendimento. Caberá, também a esta Comissão, o estabelecimento de novas cláusulas e condições para os contratos referidos nos itens IV e V.\nParágrafo Único. A Referida Comissão será composta por representante - de cada uma das seguintes entidades: EMBRATUR, BADESP, PREFEITURA DE SÃO PAULO, ANHEMBI S/A - Centro de Feiras e Salões, ALCÂNTARA MACHADO COMÉRCIO E EMPREENDIMENTOS LTDA., ALCÂNTARA MACHADO CONGRESSOS S/C LTDA. e DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS ANHEMBI LTDA., devendo estas três últimas indicar um único representante.\nIX - Durante o período compreendido entre a assinatura do presente Convênio e a complementação de todas as formalidades para integração das subscrições de capital, referidas no item I, retro, a ANHEMBI S/A - Centro de Feiras e Salões não assumirá quaisquer responsabilidades ou obrigações novas, sem a participação ou prévia autorização de seu Diretor representante da Municipalidade de São Paulo, indicado pelo Senhor Prefeito.\nX - A diretoria da ANHEMBI S/A - Centro de Feiras e Salões convocará a Assembleia Geral Extraordinária no prazo de 5 dias, contados da data da publicação no Diário Oficial do Município, da lei que autorizar o Município da Capital a participar como acionista majoritária, daquela entidade.\nXI - Na diretoria da sociedade anônima a que se refere o presente Convênio figurará, obrigatoriamente, um diretor indicado pelo Banco de Desenvolvimento do Estado de São Paulo.\nE por estarem assim acordes, assinam o presente termo, na presença das testemunhas abaixo.\nSão Paulo, de de 1974.\nPrefeito do Município de São Paulo\nEmpresa Brasileira de Turismo - EMBRATUR\nBanco de Desenvolvimento do Estado de São Paulo - BADESP\nANHEMBI S/A - Centro de Feiras e Salões\nAlcântara Machado - CONGRESSOS SOCIEDADE CIVIL LTDA.\nDistribuidora de Títulos e Valores Mobiliários - ANHEMBI S/A\nAlcântara Machado - COMÉRCIO E EMPREENDIMENTOS LTDA.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.180, de 17/12/1974 was altered by acts of 1 date(s), the latest 1975-02-20."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08183",
+   "short": "Lei 8183/1974",
+   "title": "Lei nº 8.183, de 20/12/1974 (Dispõe sobre as diretrizes e a estrutura dos Quadros de Pessoal da Prefeitura, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8183-de-20-de-dezembro-de-1974",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1974-08183"
+   ],
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8183-de-20-de-dezembro-de-1974",
+     "sha256": "e1d9531dbb6534682911d067fa50bb9bc2e0917284ac1b3f59b2ceba80e20553",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.183, DE 20 DE DEZEMBRO DE 1974.\nDispõe sobre as diretrizes e a estrutura dos Quadros de Pessoal da Prefeitura, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 11 de dezembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## Capítulo I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1º Esta lei dispõe sobre as diretrizes básicas e sobre a estrutura dos quadros do pessoal da Prefeitura Municipal de São Paulo, e estabelece níveis de vencimentos para os cargos, de acordo com a formação escolar mínima necessária ao seu provimento e, ainda, consoante a sua natureza, complexidade e o grau de responsabilidade das atribuições que lhes correspondem.\nParágrafo Único - Os princípios desta lei aplicam-se, no que couber, aos quadros da Secretaria da Câmara Municipal e do Tribunal de Contas do Município de São Paulo e, mediante decretos, às autarquias municipais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O serviço público municipal da Administração Direta compreende:\nI - Atividades permanentes;\nII - Atividades eventuais ou de caráter transitório.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As atividades permanentes são exercidas por funcionários públicos nomeados em caráter efetivo ou em comissão, cujas atribuições correspondam ao exercício de trabalhos contínuos e indispensáveis ao desenvolvimento normal do Serviço Público Municipal.\n§ 1º O exercício de atividades de natureza permanente, mediante contrato, só será permitido para o atendimento de necessidade inadiável, até a criação e provimento dos cargos correspondentes.\n§ 2º Os contratos de que trata o parágrafo anterior não poderão exceder o prazo de 2 anos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As atividades eventuais ou de natureza transitória, exercidas por prazo determinado, compreendem:\nI - Funções de natureza técnica que envolvam reconhecida especialização e experiência;\nII - Funções de natureza artística;\nIII - Funções correspondentes a ofícios e ocupações de nível elementar e médio, necessárias à execução de determinada obra ou serviço.\nParágrafo Único - A forma de admissão do pessoal para o exercício das atividades de que trata este artigo será regulamentada por decreto.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para os efeitos da presente lei, considera-se:\nI - Cargo - o criado por lei, em número certo, com denominação própria e pago pelos cofres municipais, a que corresponde o conjunto de atribuições e responsabilidades cometidas a um funcionário;\nII - Classe - o conjunto de cargos da mesma denominação e atribuições iguais ou assemelhadas;\nIII - Referência - o símbolo numérico indicativo da posição da classe na escala de vencimentos, prevista no Anexo I, integrante desta lei;\nIV - Grau - o símbolo indicativo do valor progressivo da referência;\nV - Padrão - a conjugação de referência e grau.\n§ 1º A escala de referência segue a ordem natural dos números a partir de \"1\", o grau é indicado por letras, observada a ordem alfabética a partir de \"A\".\n§ 2º Todo cargo se situa, inicialmente, no grau \"A\" e a ele retorna quando vago.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os cargos em função do nível de complexidade das atribuições, responsabilidade e nível de escolaridade mínima necessária ao seu exercício, distribuem-se em 5 grupos, a saber:\nGrupo I - Cargos de direção de órgãos técnicos e administrativos, de assistência e de assessoramento do Prefeito, dos Secretários Municipais, da Coordenadoria Geral de Planejamento, da Coordenadoria das Administrações Regionais e de dirigentes de órgãos da administração intermediária e superior, observada a habilitação específica, quando for o caso, na conformidade da legislação própria.\nGrupo II - Cargos de natureza técnica ou técnico-científica, correspondentes a profissões regulamentadas ou não em lei federal, cujo exercício exija formação mínima de grau superior ou habilitação legal equivalente; de chefias correspondentes.\nGrupo III - Cargos de natureza técnica, técnico-auxiliar e administrativa de nível médio, cujo exercício exija formação escolar correspondente ao 2º grau completo ou equivalente, com habilitação profissional específica, quando for o caso; de chefias correspondentes.\nGrupo IV - Cargos correspondentes a atividades de escritório e auxiliares, e de artífices qualificados, cujo exercício exija formação escolar de 1º grau completo ou equivalente ou, ainda, 1º grau incompleto, suplementado por conhecimentos e habilidades especiais, adquiridos mediante cursos de aprendizagem, qualificação ou de treinamento em serviço.\nGrupo V - Cargos correspondentes a atividades simples e pouco variadas, cujo exercício exija conhecimento de 1º grau incompleto e experiência que possa ser adquirida em tempo limitado no próprio serviço.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os cargos serão integrados, segundo os critérios definidos no artigo anterior, em Quadros Gerais de Pessoal ou em Quadros Especiais, conforme ficar estabelecido em lei.\nParágrafo Único - Na criação de novos cargos deverá ser observada a nomenclatura de cargos e os princípios estabelecidos nesta lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os cargos de provimento efetivo são providos mediante:\nI - Concurso público;\nII - Acesso, conforme conceituação estabelecida na presente lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ficam instituídas as escalas de padrões de vencimentos, compreendendo as referências e graus constantes do Anexo I, parte integrante desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## Capítulo II\n## DA PROMOÇÃO\nArt. 10 Promoção é a passagem do funcionário e do cargo por ele ocupado de um grau ao imediatamente superior da mesma referência.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 As promoções obedecerão ao critério de antiguidade e ao critério de merecimento e serão efetuadas anualmente; em junho, por antiguidade; em dezembro, por merecimento.\nParágrafo Único - As promoções serão processadas a partir de 1976.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 Serão promovidos anualmente, por antiguidade, até 10% dos funcionários do total de cada grau em cada classe, observado o interstício previsto nesta lei.\nParágrafo Único - As promoções por antiguidade obedecerão exclusivamente aos critérios de tempo de serviço e tempo no cargo, de acordo com as normas estabelecidas na legislação em vigor.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 Merecimento é a demonstração positiva, pelo funcionário, durante a sua permanência na classe, de pontualidade e assiduidade, capacidade e eficiência, espírito de colaboração, ética profissional e compreensão dos deveres.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 Será promovido por merecimento para o grau imediatamente superior o funcionário que atingir o mínimo de pontos a seguir especificado:\nI - Para o grau \"B\" - 95;\nII - Para o grau \"C\" - 120;\nIII - Para o grau \"D\" - 135;\nIV - Para o grau \"E\" - 150.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 Os pontos referidos no artigo anterior serão obtidos da seguinte forma:\nI - Tempo de serviço público: 2 pontos por ano de efetivo exercício no serviço público do Município de São Paulo;\nII - Tempo no cargo: 4 pontos por ano de efetivo exercício no cargo;\nIII - Mérito: até 80 pontos obtidos pela média aritmética da soma dos pontos atribuídos a essa condição, com base na avaliação do desempenho durante o ano que antecede a data da promoção;\nIV - Cursos: até 15 pontos, computando-se, tão somente os pertinentes à função, desde que promovidos, patrocinados ou indicados pelo órgão municipal competente e realizados durante a permanência do funcionário em cada grau.\n§ 1º Nos casos dos itens I e II deste artigo, serão desprezadas as frações de tempo inferiores a 180 dias e computadas com 1 ano as frações iguais ou superiores a esse limite.\n§ 2º Do total de pontos obtidos na forma deste artigo, serão deduzidos, quando for o caso, pontos negativos que serão atribuídos às faltas injustificadas ocorridas e às penalidades impostas durante o ano que antecede a data da promoção, na seguinte conformidade:\na) cada falta injustificada, 1 ponto;\nb) cada advertência, 3 pontos;\nc) cada repreensão, 5 pontos;\nd) cada suspensão disciplinar, 6 pontos, acrescidos de 1 ponto por dia a partir do trigésimo primeiro dia.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 Será de 3 anos de efetivo exercício no grau o interstício mínimo para concorrer à promoção.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Capítulo III\n## DO ACESSO\nArt. 17 Acesso é a elevação do funcionário, dentro do respectivo Quadro, a cargo da mesma natureza de trabalho, de maior responsabilidade e maior complexidade de atribuições, obedecendo o interstício de 3 anos na classe, a habilitação legal e as qualificações que couberem em cada caso específico, podendo ser observadas, nos quadros da Secretaria da Câmara Municipal e do Tribunal de Contas do Município de São Paulo, as peculiaridades que lhes são próprias.\n§ 1º Serão reservados para acesso os cargos cujas atribuições exijam experiência prévia no exercício de outro cargo.\n§ 2º O acesso será feito mediante aferição do mérito, entre titulares de cargos cujo exercício proporcionar a experiência necessária ao desempenho das atribuições dos cargos referidos no parágrafo anterior.\n§ 3º Os cargos cujo provimento far-se-á por acesso serão discriminados em lei especial.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 A aferição do mérito para acesso será feita por meio de provas, de títulos, ou de provas e títulos.\nParágrafo Único - Para os fins deste artigo são considerados títulos, os abaixo indicados, quando diretamente relacionados com o conteúdo ocupacional ou com a natureza do cargo a ser provido por acesso:\nI - Trabalhos realizados;\nII - Certificado de conclusão de cursos observado o critério estabelecido no item IV do artigo 15;\nIII - Tempo de exercício em cargos afins;\nIV - Exercício de cargos em comissão, em substituição, ou de função gratificada;\nV - Exercício de atividades afins em órgãos da administração pública direta ou indireta, ou entidades oficializadas ou reconhecidas.\nVI - Tempo de exercício em cargos vinculados pela linha de acesso ao cargo a ser provido por acesso.\nVII - Tempo de serviço prestado em órgãos da administração direta em cargos da carreira, não vinculados à linha do acesso, e como extranumerário-mensalista ou contratado, em funções correspondentes às da respectiva carreira.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 A regulamentação do acesso será estabelecida em decreto.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 O funcionário que, por acesso, for elevado a nova classe, conservará o grau em que se encontrava na situação anterior.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## Capítulo IV\n## DOS QUADROS DE PESSOAL\nArt. 21 Os cargos da Administração Direta do Município ficam distribuídos nos seguintes Quadros:\nI - Quadro Geral do Pessoal;\nII - Quadro de Atividades Artísticas;\nIII - Quadro do Ensino Municipal;\nIV - Quadro da Fiscalização.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 Os cargos do Quadro Geral do Pessoal são incluídos em partes e tabelas, a seguir discriminadas:\na) Parte Permanente, - Tabela I (PPI) - Cargos de Provimento em Comissão;\nb) Parte Permanente - Tabela II (PPII) - Cargos de Provimento Efetivo que comportam substituição;\nc) Parte Permanente - Tabela III (PPIII) - Cargos de Provimento Efetivo que não comportam substituição;\nd) Parte Suplementar (PS) - Cargos destinados à extinção na vacância.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 Os cargos de cada classe, integrantes dos Quadros, Grupos, Partes e Tabelas desta lei e identificados pelas respectivas denominações, tem seus vencimentos iniciais fixados no Grau \"A\" da referência correspondente, na conformidade do Anexo II, parte integrante desta lei, sem prejuízo do disposto nos artigos 25 e 37.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## Capítulo V\n## DO ENQUADRAMENTO\nArt. 24 Os atuais cargos da Administração Direta do Município ficam com as denominações, referências de vencimentos, tabelas e partes, alteradas na conformidade do Anexo II, observada a correspondência de nomenclatura estabelecida no Anexo III, integrante desta lei.\nParágrafo Único - Fica assegurada a situação de efetividade do funcionário cujo cargo seja transferido para a Tabela I da Parte Permanente.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 Os ocupantes de cargos das diferentes classes das antigas carreiras abrangidas pelo artigo anterior serão classificados, em princípio, e ressalvado o disposto no artigo 37, na seguinte conformidade:\nI - Os da Classe \"A\" no Grau \"A\";\nII - Os da Classe \"B\" no Grau \"B\";\nIII - Os da Classe \"C\" no Grau \"C\";\nIV - Os da Classe \"D\" no Grau \"D\".\nParágrafo Único - Fica assegurado ao funcionário, em qualquer das hipóteses previstas nos artigos anteriores ou no primeiro enquadramento feito em função desta lei, o direito de ser classificado no grau de igual valor ou, não havendo este, no de valor imediatamente superior ao do antigo padrão do cargo, computada, para fins de cálculo, a importância correspondente ao abono previsto no artigo 42.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 O ocupante de cargo efetivo, nomeado para cargo de provimento em comissão, conservará, na nova referência, o mesmo grau em que se encontrar na referência do cargo efetivo.\nParágrafo Único - O disposto neste artigo aplica-se aos casos de designação para substituição.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 Às funções de extranumerário mensalista e diarista aplicam-se os princípios de enquadramento de referência e de grau estabelecidos nesta lei.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 Os salários do pessoal contratado serão reajustados no grau \"A\" da referência correspondente ao cargo de mesma denominação.\nParágrafo Único - Não havendo cargos de mesma denominação, o reajuste será efetuado, mediante decreto, no grau \"A\" da referência do cargo assemelhado ou análogo, tendo presente os grupos ocupacionais definidos no artigo 6º.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 Os proventos dos inativos, cuja situação, quando em atividade, tenha correspondência com os enquadramentos estabelecidos no Anexo III desta lei, serão reajustados de acordo com a nova escala de vencimentos.\n§ 1º Não se verificando a correspondência referida neste artigo, os proventos dos inativos serão reajustados, mediante decreto, com a observância dos critérios de enquadramento previstos nesta lei, tendo presente os grupos ocupacionais definidos no artigo 6º.\n§ 2º As pensões devidas pelo Montepio Municipal de São Paulo serão reajustadas de acordo com o disposto no \"caput\" deste artigo.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 As funções gratificadas serão revistas e transformadas em cargos, desde que correspondam a atribuições indispensáveis, e de caráter permanente, mediante lei.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "## Capítulo VI\n## DISPOSIÇÕES GERAIS\nArt. 31 Bienalmente, a partir da vigência desta lei, a Administração Municipal procederá ao levantamento das necessidades de cargos para as atividades de natureza permanente e proporá sua criação.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 Os cargos constantes do Anexo II serão distribuídos, por decreto, pelas Secretarias e órgãos diretamente subordinados ao Prefeito.\nParágrafo Único - Os conjuntos de cargos e funções resultantes da distribuição prevista neste artigo constituem a lotação básica de cada Secretaria ou órgão diretamente subordinado ao Prefeito.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 Caberá ao Departamento de Administração do Município de São Paulo:\nI - Propor as lotações básicas a que se refere o artigo anterior, ouvidas as Secretarias e os órgãos diretamente subordinados ao Prefeito;\nII - Organizar e manter atualizado o cadastro de cargos da Administração Direta do Município;\nIII - Proceder ao levantamento bienal das necessidades de criação de cargos;\nIV - Realizar, nas épocas próprias, os concursos necessários ao provimento dos cargos vagos;\nV - Propor o enquadramento de cargos nos grupos e a fixação das respectivas referências de vencimentos, observados os princípios estabelecidos nesta lei;\nVI - Processar as promoções e acessos.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34 A identificação das unidades a que correspondem os cargos de direção e de chefia relacionados no Anexo II, será fixada - mediante decreto, observada a qualificação exigida para cada cargo.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 Os cargos atualmente existentes, que não constarem dos anexos desta lei, são considerados excedentes, sendo-lhes aplicáveis os efeitos da presente lei.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "## Capítulo VII\n## DISPOSIÇÕES FINAIS\nArt. 36 A extinção dos atuais cargos de carreira, integrados na Parte Suplementar, far-se-á gradativamente, à medida em que se vagarem, a partir da classe de menor vencimento.\nParágrafo Único - As promoções para as carreiras de que trata este artigo obedecerão às normas anteriores à presente lei e serão processadas normalmente até a extinção dos cargos da classe final.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - Respeitado o disposto nos artigos 23 e 25,os atuais funcionários e extranumerários mensalistas e diaristas, bem como os servidores inativos, serão classificados em função do tempo de exercício na carreira em que se encontram, na seguinte conformidade:\nI - No grau E, se tiverem vinte e cinco anos ou mais na carreira;\nII - No grau D, se tiverem vinte anos ou mais na carreira;\nIII - No grau C, se tiverem quinze anos ou mais na carreira;\nIV - No grau B, se tiverem dez anos ou mais na carreira;\nV - No grau A, se tiverem menos de dez anos na carreira.\n§ 1º Para os fins deste artigo considera-se como tempo na carreira acrescendo-o:\nI - O tempo em cargos de chefia correspondentes à carreira;\nII - O tempo em cargo isolado transferido para carreira e para cujo exercício tenha sido exigido a mesma habilitação profissional prevista para o ingresso na carteira.\n§ 2º No caso de cargo isolado, será computado, para os efeitos deste artigo, o tempo de exercício no cargo.\n§ 3º O primeiro enquadramento previsto neste artigo terá como base o tempo na carreira completado em 1º de julho de 1975 e, para os inativos, na data da aposentadoria.\n§ 4º Na apuração do tempo a que se refere o parágrafo anterior serão arredondadas para um ano as frações superiores a 330 dias.\n§ 5º No caso de extranumerários mensalistas e diaristas, será considerado o tempo de exercício na função em que se encontram, nos termos e para os efeitos do disposto neste artigo.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38 As disposições desta lei que impliquem na mudança da natureza de cargos de provimento em comissão para cargos de provimento efetivo entrarão em vigor a 1º de março de 1976.\nParágrafo Único - A transformação do cargo nos termos deste artigo não assegura ao seu titular o direito de nele efetivar-se.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40 O prazo previsto no parágrafo 2º do artigo 1º da Lei nº 8097, de 12 de agosto de 1974, para aposentadoria do servidor, fica prorrogado de um ano.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41 - Será computado para efeito de contagem dos prazos previstos no artigo 3º da Lei nº 8097, de 12 de agosto de 1974, o tempo de exercício, a qualquer título, de servidor da Prefeitura em cargo de chefia, assessoramento ou em comissão dos quadros da Câmara Municipal, do Tribunal de Contas do Município de São Paulo e das autarquias municipais.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42 Fica concedido aos servidores da Prefeitura e aos inativos, nos meses de janeiro e fevereiro de 1975, um abono provisório igual a 30% dos atuais padrões, referências ou proventos.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 Ficam revalorizados em 30%, a partir de 1º de março de 1975, os padrões dos cargos do pessoal não abrangido pelo disposto na presente lei, bem como os proventos dos inativos que estejam na mesma situação.\n§ 1º Se a aprovação dos quadros referidos neste artigo ocorrer anteriormente a 1º de março de 1975, não se aplicará a revalorização prevista neste artigo.\n§ 2º A revalorização a que se refere este artigo será absorvida quando da aprovação dos respectivos quadros, na forma do § 1º do artigo 22.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 O enquadramento nos termos do Anexo III para os atuais cargos que passarão a ser incluídos nos Grupos I e II do Anexo II só se efetivará a partir de 1º de julho de 1975.\nParágrafo Único - Até que se efetive o enquadramento previsto neste artigo, ficam revalorizados em 30%, a partir de 1º de março de 1975, os atuais padrões dos referidos cargos, bem como os proventos dos inativos que estejam na mesma situação.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 A concessão de gratificação especial, em virtude do grau de responsabilidade das funções ou da jornada extraordinária de trabalho, será objeto de regulamentação do Executivo.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46 A partir do enquadramento previsto no artigo 44, as verbas de representação, instituídas em lei, serão calculadas tendo por base, unicamente, o valor do padrão do respectivo cargo.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47 As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48 Revogadas as disposições em contrário, esta lei entrará em vigor a 1º de março de 1975, com exceção do disposto nos artigos 39, 40, 41, 42, 45, 46 e 47, que vigorarão a partir da data da publicação da presente lei.\nPrefeitura do Município de São Paulo, aos 20 de dezembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugenio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 20 de dezembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.183, de 20/12/1974 was altered by acts of 4 date(s), the latest 2019-10-31."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1974-08197",
+   "short": "Lei 8197/1974",
+   "title": "Lei nº 8.197, de 27/12/1974 (Desdobra a alíquota do imposto sobre serviços de qualquer natureza para os serviços de diversões públicas, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8197-de-27-de-dezembro-de-1974",
+   "first_law": "lei-1974-08197",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1974-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8197-de-27-de-dezembro-de-1974",
+     "sha256": "52bc807674968f52262d42b2a9e99d28de99009eab623cfe0e50678a02ce675c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8197, DE 27 DE DEZEMBRO DE 1974.\nDesdobra a alíquota do imposto sobre serviços de qualquer natureza para os serviços de diversões públicas, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 23 de dezembro de 1974, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O item IX do artigo 3º da Lei nº 7.410, de 30 de dezembro de 1969, que deu nova redação a dispositivos da Lei nº 6.989, de 29 de dezembro de 1966, passa a ter a seguinte redação:\n\"IX - artigo 49, inciso XXXI:\na) cinemas - 5% sobre o custo ou o valor do ingresso;\nb) demais atividades - 10% sobre o custo ou o valor do ingresso;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor a 1º de janeiro de 1975, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 27 de dezembro de 1974, 421º da fundação de São Paulo.\nO Prefeito, Miguel Colasuonno\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho\nO Secretário das Finanças, Vicente de Paula Oliveira\nO Secretário de Obras, Ivan Lubachescki\nO Secretário de Educação e Cultura, Roberto Ferreira do Amaral\nO Secretário de Higiene e Saúde, Aldo Fazzi\nO Secretário de Abastecimento, Euclides Carli\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf\nO Secretário de Bem Estar Social, Henrique Gamba\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira\nO Secretário Municipal de Transportes, Mario Alves de Melo\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas\nPublicada na Chefia do Gabinete do Prefeito, em 27 de dezembro de 1974.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
