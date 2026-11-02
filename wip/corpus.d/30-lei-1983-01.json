@@ -1,0 +1,766 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1983",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "11 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1983-09578": {
+   "label": "Lei nº 9.578, de 06/01/1983",
+   "title": "Dispõe sobre concessão de uso de área municipal a Instituiçao Beneficente \"Nosso Lar\", e da outras providências.",
+   "kind": "law",
+   "enacted": "1983-01-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9578-de-6-de-janeiro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09580": {
+   "label": "Lei nº 9.580, de 06/01/1983",
+   "title": "Altera a redaçao do paragrafo unico do artigo 11 da Lei nº 7.736, de 26 de maio de 1972, modificado pela Lei nº 8.261, de 30 de maio de 1975, dispondo sobre dispensa de contribuiçao ao Hospital do Servidor Publico Municipal, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1983-01-06",
+   "published": "1983-01-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9580-de-6-de-janeiro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09585": {
+   "label": "Lei nº 9.585, de 21/01/1983",
+   "title": "Institui adicional pelo exercício da atividade médica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1983-01-21",
+   "published": "1983-01-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9585-de-21-de-janeiro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09589": {
+   "label": "Lei nº 9.589, de 26/01/1983",
+   "title": "Dispoe sobre reclassificaçao de cargos do QGP e do QPL, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1983-01-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9589-de-26-de-janeiro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09602": {
+   "label": "Lei nº 9.602, de 11/02/1983",
+   "title": "Dispõe sobre a transferência de edificações do Setor de Edificações Irregulares do Cadastro de Edificações do Município para o Setor de Edificações Regulares, e da outras providências.",
+   "kind": "law",
+   "enacted": "1983-02-11",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9602-de-11-de-fevereiro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09603": {
+   "label": "Lei nº 9.603, de 07/04/1983",
+   "title": "Dispoe sobre o artigo 8º e paragrafos da Lei nº 9501, de 1º de julho de 1982, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1983-04-07",
+   "published": "1983-04-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9603-de-7-de-abril-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09613": {
+   "label": "Lei nº 9.613, de 27/05/1983",
+   "title": "Revoga dispositivos da Lei nº 9.403, de 24 de dezembro de 1981, que preve requisito de 60 contribuições ao Instituto de Previdência Municipal de Sao Paulo, para o computo de tempo de serviço prestado em atividades regidas pela legislação da Previdência Social.",
+   "kind": "law",
+   "enacted": "1983-05-27",
+   "published": "1983-05-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9613-de-27-de-maio-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09614": {
+   "label": "Lei nº 9.614, de 27/05/1983",
+   "title": "Autoriza o Executivo Municipal a instalar balanças públicas um feiras livres, varejões e similares localizados no Município de São Paulo.",
+   "kind": "law",
+   "enacted": "1983-05-27",
+   "published": "1983-05-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9614-de-27-de-maio-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09631": {
+   "label": "Lei nº 9.631, de 30/09/1983",
+   "title": "Altera a redação do inciso I do artigo 19 da Lei nº 9.167, de 3 de dezembro de 1980, que dispõe sobre a reorganização, competência, jurisdição e funcionamento do Tribunal de Contas do Municipio de Sao Paulo.",
+   "kind": "law",
+   "enacted": "1983-09-30",
+   "published": "1983-10-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9631-de-30-de-setembro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09660": {
+   "label": "Lei nº 9.660, de 23/12/1983",
+   "title": "Dispoe sobre a revogaçao do paragrafo 4º do artigo 4º da Lei nº 8943, de 12 de julho de 1979, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1983-12-23",
+   "published": "1983-12-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9660-de-23-de-dezembro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1983-09664": {
+   "label": "Lei nº 9.664, de 29/12/1983",
+   "title": "Dispõe sobre o calculo do Imposto sobre Serviço de Qualquer Natureza, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1983-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9664-de-29-de-dezembro-de-1983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1983-09578",
+   "short": "Lei 9578/1983",
+   "title": "Lei nº 9.578, de 06/01/1983 (Dispõe sobre concessão de uso de área municipal a Instituiçao Beneficente \"Nosso Lar\", e da outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9578-de-6-de-janeiro-de-1983",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1983-09578"
+   ],
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9578-de-6-de-janeiro-de-1983",
+     "sha256": "98ec4aac3935d61f79edd93d5fe40e73e8088fc16696a079c44118b72c2b2885",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9578, DE 6 DE JANEIRO DE 1983.\n(Projeto de Lei Nº 245/1982)\nDispõe sobre concessão de uso de área municipal a Instituiçao Beneficente \"Nosso Lar\", e da outras providências\nANTÔNIO SALIM CURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1982, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a ceder a Instituição Beneficente \"Nosso Lar\", mediante concessão administrativa, independentemente de concorrência, e pelo prazo de 40 (quarenta) anos, o uso da área municipal, correspondente a parte da Praça Florence Nightingale, no 37º subdistrito - Aclimação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área referida no artigo anterior, configurada na planta anexa nº A-7484/1, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-13-2-1, de formato irregular, com cerca de 1.460,00m² (um mil, quatrocentos e sessenta metros quadrados), confrontando para quem de dentro da área olha para a viela de acesso: pela frente, linha curva 1-2-13, medindo mais ou menos 105,50 metros, confrontando em toda sua extensão com a viela de acesso, segundo seu alinhamento, assim parcelada: trecho 1-2, linha curva, medindo mais ou menos 18,00 metros, e trecho 2-13, linha curva, medindo mais ou menos 87,50 metros; pelos fundos, linha curva 13-1, medindo mais ou menos 68,00 metros, confrontando com a Rua Aberta (variante da Rua Mesquita), segundo seu alinhamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das condições que, na salvaguarda dos interesses municipais, vierem a ser exigidas pela Prefeitura, por ocasião da lavratura do instrumento de concessão, ficará a concessionária obrigada a:\na) construir, na área concedida, as edificações necessárias a instalação e funcionamento de seus departamentos assistenciais;\nb) apresentar, para aprovação dos órgãos técnicos da Prefeitura e apreciação da secretaria da Família e do Bem-Estar Social - FABES, no prazo máximo de 2 (dois) anos, a partir da lavratura do competente Instrumento de concessão, os projetos e memoriais das edificações a serem executadas, que deverão atender as exigências legais pertinentes a matéria e as restrições impostas pelos artigos 41, 44 e seguintes da Lei nº 7.688, de 30 de dezembro de 1971, em razão da natureza da área, ficando estabelecido que a aprovação respectiva não deve prescindir da adequação do local às restrições de ordem técnica;\nc) iniciar a construção dentro de 2 (dois) anos, a contar da aprovação do respectivo projeto e a terminá-la no prazo máximo de 8 (oito) anos, após o seu início;\nd) zelar pela limpeza e conservação da área municipal, devendo providenciar, às suas expensas, qualquer obra de manutenção que se fizer necessária;\ne) não permitir que terceiros dela se apossem e a dar conhecimento imediato a Prefeitura de qualquer turbação de posse que se verifique;\nf) responder perante o Poder Público, por eventuais impostos e taxas referentes a área e as obras que realizar;\ng) arcar, única e exclusivamente com todas as despesas oriundas da concessão, inclusive as de registro do competente instrumento;\nh) não ceder ou emprestar a área municipal, bem como não transferir seus direitos sobre a mesma.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica a Prefeitura com o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estatuídas nesta lei, e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A extinção ou dissolução da entidade concessionária, a alteração do destino da área, a inobservância das condições estabelecidas nesta lei, ou das cláusulas que, constarem, da instrumento de concessão e ainda a, inadimplemento de qualquer prazo fixado, implicará na perda imediata do uso e gozo da área, ficando rescindida, de pleno direito, a concessão.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Nos casos previstos no artigo 5º, bem como findo o prazo da concessão, a área será restituída ao Município, incorporando-se ao patrimônio municipal todas as benfeitorias nela construídas, mesmo que necessárias, sem direito de retenção e independentemente de qualquer pagamento, ou indenização, seja a, que título for.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de JANEIRO de 1983.\n429º da fundação de São Paulo.\nANTÔNIO SALIM CURIATI, PREFEITO.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.578, de 06/01/1983 was altered by acts of 1 date(s), the latest 2008-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09580",
+   "short": "Lei 9580/1983",
+   "title": "Lei nº 9.580, de 06/01/1983",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9580-de-6-de-janeiro-de-1983",
+   "first_law": "lei-1983-09580",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-01-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9580-de-6-de-janeiro-de-1983",
+     "sha256": "cc74f18a27a815f5b90a96dfe372b638638c563df7e9da45f330e6968e5ad7ca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.580, DE 6 DE JANEIRO DE 1983.\nAltera a redaçao do paragrafo unico do artigo 11 da Lei nº 7.736, de 26 de maio de 1972, modificado pela Lei nº 8.261, de 30 de maio de 1975, dispondo sobre dispensa de contribuiçao ao Hospital do Servidor Publico Municipal, e da outras providencias.\nANTÔNIO SALIM CURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1982, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O parágrafo único do artigo 11 da Lei nº 7.736, de 26 de maio de 1972, modificado pelo artigo 1º da Lei nº 8.261, de 30 de maio de 1975, passa a vigorar com a seguinte redação:\n\"Parágrafo Único - Ficam dispensados da contribuição para o H.S.P.M., gozando, porém, do benefício da assistência médico-hospitalar na forma prevista neste artigo:\na) os servidores municipais e os inativos cujos vencimentos, salários ou proventos sejam iguais ou inferiores ao padrão correspondente ao cargo ou função de Servente - I;\nb) os pensionistas, beneficiários de servidores que, a data do falecimento, estavam na mesma situação prevista na alínea anterior.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 6 de JANEIRO de 1983, 429º da fundação de são Paulo.\nANTÔNIO SALIM CURIATI, PREFEITO.\nMANOEL FIGUEIREDO FERRAZ, Secretário dos Negócios Jurídicos.\nPEDRO CIPOLLARI, Secretário das Finanças.\nJOÃO LOPES GUIMARÃES, Secretário Municipal da Administração.\nSÉRGIO CARLOS NAHAS, Secretário de Higiene e Saúde.\nCLÁUDIO NIWCLES SANCHES ARANTES, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 6 de JANEIRO de 1983.\nANDYARA KLOPSTOCK SPROESSER, Secretário do Governo Municipal.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09585",
+   "short": "Lei 9585/1983",
+   "title": "Lei nº 9.585, de 21/01/1983 (Institui adicional pelo exercício da atividade médica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9585-de-21-de-janeiro-de-1983",
+   "first_law": "lei-1983-09585",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-01-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9585-de-21-de-janeiro-de-1983",
+     "sha256": "b0c52e43bde3db38e75b49049846be8fc5a0000490071420935904071607f6c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.585, DE 21 DE JANEIRO DE 1983.\nInstitui adicional pelo exercício da atividade médica, e dá outras providências.\nANTÔNIO SALIM CURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 12 de janeiro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica intitulado adicional pelo exercício da atividade médica, no valor de 50% da referência do cargo ou função exercido pelo servidor, a que farão jus os ocupantes de cargos ou funções privativos de Médico, e que estejam no exercício real e habitual de atividades ligadas ao ensino médico, a pesquisa científica ou ao atendimento médico-assistencial ou preventivo.\nParágrafo Único. O adicional de que trata este artigo incorpora-se, desde logo, aos vencimentos do servidor.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O disposto nesta lei aplica-se aos inativos, bem como aos servidores das autarquias municipais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 21 de janeiro de 1983.\n429º da fundação de São Paulo.\nANTÔNIO SALIM CURIATI, PREFEITO.\nMANOEL FIGUEIREDO FERRAZ, Secretário dos Negócios Jurídicos.\nPEDRO CIPOLLARI, Secretário das Finanças.\nJOÃO LOPES GUIMARÃES, Secretário Municipal da Administração.\nSÉRGIO CARLOS NAHAS, Secretário de Higiene e Saúde.\nCLÁUDIO NIWCLES SANCHES ARANTES, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 21 de janeiro de 1983.\nANDYARA KLOPSTOCK SPROESSER, Secretário do Governo Municipal.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09589",
+   "short": "Lei 9589/1983",
+   "title": "Lei nº 9.589, de 26/01/1983 (Dispoe sobre reclassificaçao de cargos do QGP e do QPL, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9589-de-26-de-janeiro-de-1983",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1983-09589"
+   ],
+   "versions": [
+    {
+     "from": "1983-04-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9589-de-26-de-janeiro-de-1983",
+     "sha256": "86b56210f8e9e8ed58c6c94d7993382c740aee60e57c80e8ac0e24a22f124acb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.589, DE 26 DE JANEIRO DE 1983.\nDispoe sobre reclassificaçao de cargos do QGP e do QPL, e da outras providencias.\nANTONIO SALIM GURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 21 de janeiro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cargos de Telefonista, Referência 10, do Quadro Geral do Pessoal (QGP), ficam reclassificados na Referência 12.\nParágrafo Único. O disposto neste artigo aplica-se aos inativos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Comissão de Direção da Secretaria da câmara (CD), sob a Presidência do 1º Secretário, será composta pelo Diretor Geral, membro permanente, e por dois titulares do cargo de Assessor Técnico Legislativo Chefe e dois titulares do cargo de Diretor Técnico de Departamento.\n§ 1º A cada um dos membros da CD será dado um suplente, titular de cargo da mesma denominação, para substitui-lo nas faltas e impedimentos.\n§ 2º Entre 1º de fevereiro e 31 de março de cada ano, a Mesa designará os membros não permanentes da CD, bem como os suplentes, os quais funcionarão até a designação de seus sucessores.\n§ 3º O membro designado poderá ser reconduzido.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O cargo de Chefe de Subsecretária Administrativa, referência DA-14, fica incluído na enumeração do art, 8º, alínea \"a\" da Lei nº 9296/81.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam incluídos na Tabela X-PP, do QPL, trinta e dois cargos de Consultor Especial, ref. DA-11, sendo exigido, para o provimento, diploma de grau universitário e revogado, em consequência, o parágrafo único do artigo 1º da Lei nº 8674/78.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Passa a ter a seguinte redação as alíneas \"b\" e \"d\" do artigo 2º da Lei nº 9296, de 10 de julho de 1981:\n\"b) de assessoramento especial: o Gabinete da Presidência, Gabinetes dos Membros da Mesa, Gabinete dos Secretários-Suplentes e dos Líderes e trinta e três Subsecretárias Parlamentares;\"\n\"d) de suporte administrativo: a Diretoria Geral, Departamentos, Gabinetes do Diretor Geral e do Secretário Geral, Subdivisões, Seções Técnicas, três Subsecretarias Administrativas, Seções e Serviços;\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A incorporação ao padrão de vencimentos de titulares efetivos de cargos do QPL, determinada em leis anteriores, de vantagens que, por força de lei ou ato, decorram do exercício de cargo de direção superior ou intermediária e de chefia, assistência ou assessoramento, far-se-á por meio de portaria da Mesa da Câmara, independente mente de requerimento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os cargos de Secretário Parlamentar, ref. DA-13, são lotados no Gabinete da Presidência e nas Subsecretárias Parlamentares, observando-se o critério adotado no artigo 8º, \"a\", da Lei nº 9296/81.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Fica acrescida de trinta a lotação do cargo de Motorista Oficial, referência 13, e de doze a dos cargos de provimento em comissão a que se referem o artigo 1º da Lei nº 8674/78 e artigo 5º da Lei nº 8943/79.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias consignadas a cada um dos órgãos do governo municipal interessados.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 26 de janeiro de 1983.\n430º da fundação de São Paulo.\nANTÔNIO SALIM CURIATI, PREFEITO.\nMANOEL FIGUEIREDO FERRAZ, Secretário dos Negócios Jurídicos.\nPEDRO CIPOLLARI, Secretário das Finanças.\nJOÃO LOPES GUIMARÃES, Secretário Municipal da Administração.\nCLÁUDIO NIWCLES SANCHES ARANTES, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 26 de janeiro de 1983.\nANDYARA KLOPSTOCK SPROESSER, Secretário do Governo Municipal.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.589, de 26/01/1983 was altered by acts of 1 date(s), the latest 1983-04-07."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09602",
+   "short": "Lei 9602/1983",
+   "title": "Lei nº 9.602, de 11/02/1983",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9602-de-11-de-fevereiro-de-1983",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1983-09602"
+   ],
+   "versions": [
+    {
+     "from": "1984-01-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9602-de-11-de-fevereiro-de-1983",
+     "sha256": "9457d12d54f91fac8115d02fb375ab4c3bce107f4cc0383929021dc63f415b44",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.602, DE 11 DE FEVEREIRO DE 1983.\n(Projeto de Lei Nº 256/1982)\nDispõe sobre a transferência de edificações do Setor de Edificações Irregulares do Cadastro de Edificações do Município para o Setor de Edificações Regulares, e da outras providências.\nANTÔNIO SALIM CURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 21 de janeiro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As edificações registradas, até a data desta lei, no Setor de Edificações Irregulares do Cadastro de Edificações do Município - CEDI serão, pagas as taxas devidas, transferidas para o Setor de Edificações Regulares, independentemente das infrações a legislação municipal que apresentem, desde que concluídas até a data desta lei e situadas em qualquer zona de uso, com exceção das zonas. Z1 e Z15, de uso estritamente residencial.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As edificações destinadas exclusivamente a uso residencial unifamiliar, situada sem zonas de uso Z1 e Z15, serão igualmente regularizadas nos termos do artigo 1º, desde que registradas no Setor de Edificações Irregulares do Cadastro de Edificações do Município até a data desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As edificações já classificadas nos Grupos \"A\" e \"B\", nos termos da Lei nº 8.979, de 3 de outubro de 1979, serão transferidas, de imediato, para o Setor de Edificações Regulares do Cadastro de Edificações do Município, nos termos desta lei, sem incidência de novas taxas.\nParágrafo Único. Para as edificações já classificadas no Grupo \"C\" nos termos da Lei nº 8.979, de 3 de outubro de 1979, aplica-se o disposto nos demais artigos da presente lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Será expedido Certificado de Regularidade de Edificação para as edificações regularizadas em decorrência desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para os efeitos desta lei, as alterações de dados físicos de edificações constantes do Cadastro de Edificações do Município ou sua inclusão no mesmo poderão ser feitas desde que comprovada a época da execução e conclusão da edificação, entendendo-se por edificações concluídas, aquelas que satisfaçam as condições mínimas de habitabilidade, higiene e segurança.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Como prova da conclusão da edificação, de que trata o artigo anterior, poderá ser apresentado um dos seguintes documentos:\na) levantamento aerofotogramétrico;\nb) cópia da notificação-recibo do Imposto Predial, com os acréscimos da tributação advindos da irregularidade da edificação;\nc) original ou cópia do auto de infração relativo a construção, lavrado até 30 de novembro de 1982;\nd) prova pericial já produzida em Juízo;\ne) original ou cópia da autuação lavrada pelo Conselho Regional de Engenharia, Arquitetura e Agronomia para, o imóvel em causa, lavrada até a data desta lei;\nf) original ou cópia de documento público hábil para identificação e confronto do existente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam excluídas dos benefícios desta lei as edificações que apresentem uma das irregularidades abaixo elencadas, constatadas a qualquer época:\na) estejam localizadas ou avancem sobre logradouros públicos;\nb) possuam vãos de iluminação, ventilação, insolação e passagem a menos de um metro e meio da divisa de outra propriedade, ressalvados os casos em que haja anuência do proprietário e que tenha decorrido o prazo de ano e dia após a conclusão da obra.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As edificações regularizadas nos termos desta lei não ficam desobrigadas do atendimento integral das exigências especiais de segurança de uso das edificações, devendo obter o Auto de Verificação de Segurança ou a licença de funcionamento para locais de reunião, quando for o caso.\nParágrafo Único. Poderá ser concedido prazo de até trezentos e sessenta dias para a regularização do imóvel, no tocante a exigência do \"caput\" deste artigo, sob pena de ser tornada sem efeito a regularização concedida.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os pedidos relativos ao artigo 5º, após protocolados, serão objeto de vistoria e decisão pelos órgãos da Prefeitura, que expedirão, conforme o caso. Auto de Regularização ou Auto de Irregularidade.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A regularização da edificação, efetuada por esta lei, não implica o reconhecimento da regularidade do uso dado ao imóvel.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A transferência de edificações para o Setor de Edificações Regulares do Cadastro de Edificações do Município, de que trata esta lei, estará sujeita ao prévio pagamento da Taxa de Licença para Obras, Construções, Arruamentos e Loteamentos, estabelecida pelos artigos 177 e seguintes da Lei nº 6.989, de 29 de dezembro de 1966, com as alterações da legislação posterior, concedidos os descontos previstos na Tabela anexa a presente lei.\nParágrafo Único. A taxa mencionada no \"caput\" deste artigo poderá, em função de seu valor, ser objeto de pagamento parcelado, conforme regulamentação a ser estabelecida por ato do Executivo.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Os efeitos desta lei se estendem, inclusive, aos casos sob apreciação judicial, ainda que julgados, mas cuja sentença não tenha sido executada, desde que o réu manifeste sua concordância ao Juízo da causa, em pagar as multas e taxas devidas a Prefeitura e arque com as respectivas custas, honorários e demais cominações legais.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Ficam remitidos os créditos tributários, ainda que não lançados, relativos ao Imposto Sobre Serviços de Qualquer Natureza, nascidos em decorrência das edificações abrangidas pelos artigos 1º, 2º e 3º desta lei, bem como anistiadas as penalidades correspondentes a infrações a legislação tributária, no que se refere ao Imposto Sobre Serviços de Qualquer Natureza, vedada a restituição de importâncias recolhidas aos cofres públicos a esse título.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 -\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O disposto nesta lei será regulamentado por decreto do Executivo.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 11 de fevereiro de 1983.\n430º da fundação de São Paulo.\nANTÔNIO SALIM CURIATI, PREFEITO.\nMANOEL FIGUEIREDO FERRAZ, Secretário dos Negócios Jurídicos.\nPEDRO CIPOLLARI, Secretário das Finanças.\nOCTÁVIO AUGUSTO SPERANZINI, Secretário da Habitação e Desenvolvimento Urbano.\nLUIZ ANTÔNIO NAVES JUNQUEIRA, Secretário do Planejamento.\nCLÁUDIO NIWCLES SANCHES ARANTES, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 11 de fevereiro de 1983.\nANDYARA KLOPSTOCK SPROESSER, Secretário do Governo Municipal.\nTABELA RELATIVA AOS DESCONTOS DA TAXA DE LICENÇA PARA OBRAS E CONSTRUÇÕES, ANEXA A LEI Nº 9602, DE 11 DE fevereiro DE 1983\nCategoria de usoÁreaDesconto\nResidênica Unifamiliar até 72m²100%\nResidênica Unifamiliar mais de 72m²50%\nOutros Usos 0%\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.602, de 11/02/1983 was altered by acts of 1 date(s), the latest 1984-01-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09603",
+   "short": "Lei 9603/1983",
+   "title": "Lei nº 9.603, de 07/04/1983 (Dispoe sobre o artigo 8º e paragrafos da Lei nº 9501, de 1º de julho de 1982, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9603-de-7-de-abril-de-1983",
+   "first_law": "lei-1983-09603",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-04-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9603-de-7-de-abril-de-1983",
+     "sha256": "ff9400fa9e53a730858d8964f4fb241cf1b3b39595db70a2dc8a6f7353587c91",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9603, DE 7 DE ABRIL DE 1983.\nDispoe sobre o artigo 8º e paragrafos da Lei nº 9501, de 1º de julho de 1982, e da outras providencias.\nALTINO LIMA, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei Faz saber que a Câmara Municipal, em sessão de 22 de março de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O cargo de Secretário Geral, DA-15, de que trata o artigo 8º e parágrafos da Lei nº 9501, de 1º de julho de 1982, fica incluído na Parte Suplementar do QPL, destinado a extinção na vacância, revogadas as demais disposições do artigo e parágrafos mencionados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Passa a ter a seguinte redação o \"caput\" do artigo 2º da Lei nº 9589, de 26 de janeiro de 1983:\n\"Art. 2º A Comissão de Direção da Secretaria da câmara (CD), sob a Presidência do 1º Secretário, será composta pelo Diretor Geral, membro permanente, e por dois titulares do cargo de Assessor Técnico Legislativo Chefe e dois titulares do cargo de Diretor Técnico de Departamento\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 7 de abril de 1983.\n430º da fundação de São Paulo.\nALTINO LIMA, PREFEITO.\nJOSÉ AFONSO DA SILVA, Secretário dos Negócios Jurídicos.\nDENISARD CNÉIO DE OLIVEIRA ALVES, Secretário das Finanças.\nJOSÉ RICARDO ALVARENGA TRIPOLI, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 7 de abril de 1983.\nSÉRGIO LAZZARINI, Secretário do Governo Municipal.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09613",
+   "short": "Lei 9613/1983",
+   "title": "Lei nº 9.613, de 27/05/1983",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9613-de-27-de-maio-de-1983",
+   "first_law": "lei-1983-09613",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-05-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9613-de-27-de-maio-de-1983",
+     "sha256": "9b3758998b855bc11df7c0e43df1baeb568ee0723ccdc249f96f93b5eb3ada8d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9613, DE 27 DE MAIO DE 1983.\n(Projeto de Lei Nº 70/1983)\nRevoga dispositivos da Lei nº 9.403, de 24 de dezembro de 1981, que preve requisito de 60 contribuições ao Instituto de Previdência Municipal de Sao Paulo, para o computo de tempo de serviço prestado em atividades regidas pela legislação da Previdência Social.\nMARIO COVAS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 19 de maio de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogados o inciso II e o § 1º do artigo 1º da Lei nº 9.403, de 24 de dezembro de 1981.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de maio de 1983.\n430º da fundação de São Paulo.\nMARIO COVAS, PREFEITO.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09614",
+   "short": "Lei 9614/1983",
+   "title": "Lei nº 9.614, de 27/05/1983 (Autoriza o Executivo Municipal a instalar balanças públicas um feiras livres, varejões e similares localizados no Município de São Paulo.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9614-de-27-de-maio-de-1983",
+   "first_law": "lei-1983-09614",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-05-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9614-de-27-de-maio-de-1983",
+     "sha256": "3f3f3e92661dd4ad74645901d0b642755978756c2ca200bc04515ecbef465fd1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.614, DE 27 DE MAIO DE 1983\nAutoriza o Executivo Municipal a instalar balanças públicas um feiras livres, varejões e similares localizados no Município de São Paulo.\nMário Covas, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 19 de maio de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo Municipal autorizado a instalar balanças públicas nas feiras livres, varejões e similares, localizados no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Prefeito Municipal baixará decreto regulamentando a presente Lei dentro de 90 (noventa) dias, a partir da data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09631",
+   "short": "Lei 9631/1983",
+   "title": "Lei nº 9.631, de 30/09/1983",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9631-de-30-de-setembro-de-1983",
+   "first_law": "lei-1983-09631",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-10-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9631-de-30-de-setembro-de-1983",
+     "sha256": "ed549f77738ba8e714f8b454969b146d34f3d7d029b073fc3123332b587cf1d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.631, DE 30 DE SETEMBRO DE 1983.\n(Projeto de Lei Nº 139/1983)\nAltera a redação do inciso I do artigo 19 da Lei nº 9.167, de 3 de dezembro de 1980, que dispõe sobre a reorganização, competência, jurisdição e funcionamento do Tribunal de Contas do Municipio de Sao Paulo.\nMARIO COVAS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 8 de setembro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso I do artigo 19 da Lei nº 9.167, de 3 de dezembro de 1980, passa a vigorar com a seguinte redação:\n\"I - Dar parecer, no prazo de 90 (noventa) dias da data do recebimento, sobre as contas anuais encaminhadas pelo Prefeito\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de Setembro de 1983.\n430º da fundação de São Paulo.\nMARIO COVAS, PREFEITO.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09660",
+   "short": "Lei 9660/1983",
+   "title": "Lei nº 9.660, de 23/12/1983 (Dispoe sobre a revogaçao do paragrafo 4º do artigo 4º da Lei nº 8943, de 12 de julho de 1979, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9660-de-23-de-dezembro-de-1983",
+   "first_law": "lei-1983-09660",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1983-12-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9660-de-23-de-dezembro-de-1983",
+     "sha256": "acfadc7635e651bb28527a2c93d80d6052df33d17da1d63d589d8e09bdc9693a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.660, DE 23 DE DEZEMBRO DE 1983.\nDispoe sobre a revogaçao do paragrafo 4º do artigo 4º da Lei nº 8.943, de 12 de julho de 1979, e da outras providencias.\nMARIO COVAS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 6 de dezembro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o § 4º do artigo 4º da Lei nº 8.943, de 12 de julho de 1979.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É extensivo aos servidores da Câmara Municipal, qualquer que seja o regime jurídico a que estão sujeitos, bem como aos inativos e pensionistas, o abono concedido na Lei nº 9.650, de 24 de novembro de 1983, nas mesmas condições nela especificadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Sem qualquer alteração da referência atual ou da posição na respectiva linha de acesso, ficam denominados:\na) Auxiliar de Secretaria II, os cargos de, Auxiliar de Plenário;\nb) Auxiliar de Secretaria I, os cargos de Auxiliar de Secretaria e Subencarregado de Setor;\nc) Assistente Técnico Especializado I, os cargos de Técnico de Foto Fotografia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º VETADO.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º VETADO.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Ficam incluídos na Tabela VI-PP, os cargos da Tabela VII-PP, com exceção dos de:\n_______________________________________________________\n38 |Atendente |ref. 11\n6 |Auxiliar de Secretaria II |ref. 16\n16 |Auxiliar de Secretaria I |ref. 15\n47 |Auxiliar de Secretaria I |ref. 15\n1 |Encanador Encarregado |ref. 15\n1 |Encanador de Marcenaria |ref. 15\n1 |Encarregado de Oficina |ref. 15\n1 |Encarregado de Serviços de Eletricidade|ref. 15\n12 |Garção Encarregado |ref. 15\n5 |Operador I |ref. 17\n5 |Telefonista Encarregada |ref. 13\n____|_______________________________________|__________\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º VETADO.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de novembro de 1983.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 23 de dezembro de 1983.\n430º da fundação de São Paulo.\nMARIO COVAS, PREFEITO.\nJOSÉ AFONSO DA SILVA, Secretário dos Negócios Jurídicos.\nDENISARD CNÉIO DE OLIVEIRA ALVES, Secretário das Finanças.\nJOSÉ RICARDO ALVARENGA TRIPOLI, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 23 de dezembro de 1983.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1983-09664",
+   "short": "Lei 9664/1983",
+   "title": "Lei nº 9.664, de 29/12/1983 (Dispõe sobre o calculo do Imposto sobre Serviço de Qualquer Natureza, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9664-de-29-de-dezembro-de-1983",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1983-09664"
+   ],
+   "versions": [
+    {
+     "from": "1987-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9664-de-29-de-dezembro-de-1983",
+     "sha256": "9a9b6fee9dbb63108f497fdc0af207f06c79cf6f5ee2117448ea844200955677",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.664, DE 29 DE DEZEMBRO DE 1983.\nDispõe sobre o calculo do Imposto sobre Serviço de Qualquer Natureza, e da outras providencias.\nMARIO COVAS, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 28 de dezembro de 1983, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O artigo 50 da Lei nº 6.989, de 29 de dezembro de 1966, acrescido dos parágrafos 1º, 2º, 3º e 4º, passa a vigorar com a seguinte redação:\n\"Art. 50 - Considera-se local da prestação do serviço, para efeitos de incidência do imposto:\nI - O do estabelecimento prestador ou, na falta de estabelecimento, o do domicílio do prestador;\nII - No caso de construção civil, o local onde se efetuar a prestação.\n§ 1º Considera-se estabelecimento prestador o local onde são exercidas, de modo permanente ou temporário, as atividades de realização de serviços, sendo irrelevantes para a sua caracterização as denominações de sede, filial, agências, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.\n§ 2º A existência de estabelecimento prestador é indicada pela conjugação, parcial ou total, dos seguintes elementos:\nI - Manutenção de pessoal, material, máquinas, instrumentos e equipamentos necessários à execução dos serviços;\nII - Estrutura organizacional ou administrativa;\nIII - Inscrição nos órgãos previdenciários;\nIV - Indicação como domicílio fiscal para efeito de outros tributos;\nV - Permanência ou ânimo de permanecer no local, para a exploração econômica de atividade de prestação de serviços, exteriorizada através da indicação do endereço em impressos, formulários ou correspondência, contrato de locação do imóvel, propaganda ou publicidade, ou em contas de telefone, de fornecimento de energia elétrica, água ou gás, em nome do prestador, seu representante ou preposto.\n§ 3º A circunstância de o serviço, por sua natureza, ser executado, habitual ou eventualmente, fora de estabelecimento, não o descaracteriza como estabelecimento prestador, para os efeitos deste artigo.\n§ 4º São, também, considerados estabelecimentos prestadores, os locais onde forem exercidas as atividades de prestação de serviços de diversões públicas de natureza itinerante.\"\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, e, em especial, as Leis nº 8.441, de 22 de setembro de 1976, nº 8.573, de 2 de junho de 1977, e nº 9.125, de 23 de outubro de 1980.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 29 de dezembro de 1983.\n430º da fundação de São Paulo.\nMARIO COVAS, PREFEITO.\nJOSÉ AFONSO DA SILVA, Secretário dos Negócios Jurídicos.\nDENISARD CNÉIO DE OLIVEIRA ALVES, Secretário das Finanças.\nJOSÉ RICARDO ALVARENGA TRIPOLI, Secretário dos Negócios Extraordinários.\nPublicada na Secretaria do Governo Municipal, em 29 de dezembro de 1983.\nJOSÉ DUVAL GUEDES FREITAS, Respondendo pelo expediente da Secretaria do Governo Municipal.\nTABELA ANEXA A LEI Nº 9.664, DE 29 DE DEZEMBRO DE 1983.\nIMPOSTO SOBRE SERVIÇOS\n__________________________________________________________________________________________________\nServiços | Alíquotas s/ o | Importâncias\npreço do serviço| fixas, por ano\n(%) | (UFM).\n1. Médicos, dentistas o veterinários | 5,0| 3,5\n2. Enfermeiros, protéticos (prótese dentária), obstetras,| 5,0| 3,5\nortópticos, fonoaudiólogos e psicólogos.\n3. Laboratórios de análises clínicas e eletricidade médica | 5,0| 3,5\n4. Advogados ou provisionados | 5.0| 3,5\n5. Agentes da propriedade industrial | 5,0| 3,5\n6. Economistas | 5,0| 3,5\n7. Contadores, auditores, guarda-livros e técnicos em| 5,0| 3,5\ncontabilidade.\n8. Engenheiros, arquitetos e urbanistas | 5,0| 3,5\n9. Hospitais, sanatórios, ambulatórios, prontos-socorros,|- |-\nbancos de sangue, casas de saúde e do recuperação ou repouso,\nsob orientação médica:\na) quando resultantes de convênio de assistência médica,| 1,0|-\ndefitária ou hospitalar, de natureza social, celebrados com\npessoas jurídicas de direito público interno.\nb) quando resultantes de contratos para prestação de| 1,0|-\nassistência médica, dentária ou hospitalar, executada por\nentidades organizadas na forma de medicina de grupo, quando\ncredenciadas pelo Instituto Nacional do Previdência Social.\nc) quando, incluídos nas letras \"a\" ou \"b\" deste item,| 0.5|-\nexecutados, por entidades sem finalidade lucrativa, assim\nentendidas as que atendam as condições regulamentares.\nd) quando prestados por entidades que assumem o compromisso de| 5,0|-\npagar ou reembolsar as despesas médico-hospitalares e\nassemelhadas de seus clientes ou associados, inclusive através\nda contratação de terceiros para execução de serviços ligados a\nsaúde humana.\nc) demais casos | 2,0|-\n10. Agentes da propriedade artística ou literária | 5,0| 3,5\n11. Peritos o avaliadores | 5,0| 2,5\n12. Tradutores e intérpretes | 5,0| 1,0|\n13. Leiloeiros | 5,0| 2,5\n14. Despachantes | 3,0| 1,0|\n15. Comissários de despachos | 3,0| 2,5\n16. Organização, programação, planejamento, assessoria,| 5,0|-\nprocessamento de dados, consultoria técnica, financeira ou\nadministrativa, inclusive faturização (\"factoring\").\n17. Datilografia, estenografia, secretaria e expediente | 5,0| 1,0|\n18. Administração de bens ou negócios, inclusive o consórcios| 5,0|-\nou fundos mútuos para aquisição de bens.\n19. Recrutamento, colocação, fornecimento e agenciamento de| 5,0|-\nmão-de-obra (inclusive por empregados do prestador de serviços\nou por trabalhadores avulsos por ele contratados); agenciamento\nde emprego.\n20. Projetistas, calculistas e desenhistas técnicos | 5,0| 2,5\n21. Execução, por administração, empreitada ou subempreitada,| 2,0|-\nde construção civil, de obras hidráulicas e outras semelhantes,\ninclusive serviços auxiliares ou complementares.\n22. Demolição, conservação e reparação de edifícios (inclusive| 2,0|-\nelevadores neles instalados), estradas, pontes e congêneres.\n23. Limpeza de Imóveis | 5,0|-\n24. Raspagem e lustração de assoalhos | 5,0|-\n25. Desinfecção e higienização | 5,0|-\n26. Lustração de bens imóveis prestada a usuário final do| 5,0|-\nobjeto\n27. Bombeiros, cabelereiros, manicures, pedicures, tratamento| 5,0|-\nde pelos e outros serviços de salões de beleza.\n28. Banhos, duchas, massagens, ginásticas e congêneres. | 5,0| 2,5\n29. Modelos e manequins. | 5,0| 1,0|\n30. Transporte e comunicações de natureza estritamente| 5,0|-\nmunicipal\n31. diversões públicas: |- |-\na) Cinema (inclusive auto-cine) | 5,0|-\nb) Outros serviços deste item | 10,0|-\n32. Organização de festas, \"buffet\" | 5,0|-\n33. Agências de turismo, passeio excursões, guias de turismo | 3,0| 1,0|\n34. Intermediação, inclusive corretagem, de bens móveis e|- |-\nimóveis, compreendendo agenciamento, corretagem ou\nintermediação de câmbio e de seguros:\na) Intermediação ou corretagem de bens móveis (inclusive| 3,00| 2,5\napostas de loterias) e imóveis\nb) Demais casos, inclusive agenciamento, corretagem ou| 5,0| 2,5\nintermediação de câmbio, de seguros e negócios.\n35. Representação e Agenciamento de qualquer natureza,\ninclusive corretagem ou intermediação de quaisquer títulos:\na) Representação comercial de produtos nacionais | 3,0| 1,0|\nb) Representação comercial de produtos estrangeiros | 5,0| 1,0|\nc) Demais casos, inclusive agenciamentos de cargas e de| 5,0| 2,5\nde assinaturas. | | |\n36. Análises técnicas | 5,0| 3,5\n37. Organização de feiras de amostras, congressos e congêneres | 5,0|_\n38. Propaganda e publicidade, inclusive planejamento de| 5,0|-\ncampanhas ou sistemas de publicidade, elaboração de desenhos,\ntextos e demais materiais publicitários; divulgação de textos,\ndesenhos e outros materiais de publicidade, por qualquer meio;\nagenciamento de propaganda e publicidade.\n39. Armazéns gerais, armazéns frigoríficos e silos; carga,| 5,0|-\ndescarga, arrumação, guarda de bens, inclusive guarda-móveis,\nguarda de bens, guarda joias e serviços correlatos.\n40. Depósito de qualquer natureza. | 5,0|-\n41. Guarda e estacionamento de veículos | 5,0|-\n42. Hospedagem em hotéis, pensões e congêneres, computado o| 5,0|-\nvalor da alimentação quando incluído no preço da diária ou da\nmensalidade.\n43. Lubrificação, limpeza e revisão de máquinas, aparelhos e| 5,0\nequipamentos.\n44. Consertos e restauração de quaisquer objetos. | 5,0|-\n45. Recondicionamento de motores | 5,0|-\n46. Pintura (exceto os serviços relacionados com imóveis) de| 5,0|-\nobjeto não destinados à comercialização ou industrialização.\n47. Ensino de qualquer grau ou natureza: |- |-\na) ensino das escolas de cabeleireiras, autoescolas e| 5,0|-\nmoto-escolas | | |\nb) demais serviços de ensino, escolas de esportes,de ginástica,\nde natação, de judô e de dança | 2,0| 2,5|\n48. Alfaiates, modistas, costureiros, prestadores ao usuário| 5,0|-\nfinal, quando o material, salvo de aviamento, seja fornecido\npelo usuário.\n49. Tintura e lavanderia | 5,0|-\n50. Beneficiamento, lavagem, secagem, tingimento,| 5,0|-\ngalvanoplastia, acondicionamento e operações similares de\nobjetos não destinados a comercialização ou industrialização.\n51. Instalação e montagem de parelhos, máquinas e equipamentos| 5,0|-\nprestados ao usuário final do serviço; exclusivamente com\nmaterial por ele fornecido.\n52. Colocação de tapetes e cortinas com material fornecido pelo| 5,0|-\nusuário final do serviço.\n53. Estúdios fotográficos e cinematográficos, inclusive| 5,0|-\nrevelação, ampliação, cópia e reprodução, estúdios de gravação\nde \"vídeo-tapes\" para televisão, estúdios fonográficos e de\ngravação de sons ou ruídos, inclusive dublagem e mixagem\nsonora.\n54. Cópia de documentos outros papeia, plantas e desenhos, por| 5,0|_\nqualquer processo não incluído no item anterior.\n55. Locação de bens móveis e de espaço em bens imóveis: |- |-\na) arrendamento mercantil (\"leasing\") | 2,0|-\nb) demais serviços de locação | 5,0|-\n56. Composição gráfica, clincheiro, zincografia, litografia | 5,0|-\n57. Guarda, tratamento e amestramento de animais. | 5,0| 2,5\n58. Florestamento e reflorestamento | 5,0|-\n59. Paisagismo e decoração | 5.0|-\n60. Recauchutagem ou regeneração de pneumáticos | 5,0|-\n61. Encadernação de livros e revistas | 5,0| 1,0|\n62. Aerofotogrametria | 5.0|-\n63. Cobrança, Inclusive de direitos autorais | 5.0|-\n64. Distribuição de filmes cinematográficos e de \"vídeo-tapes\" | 5.0|-\n65. Distribuição e venda de bilhetes de loteria | 5.0|-\n66. Empresas funerárias, inclusive agenciamento funerário | 5,0|-\n67. Taxidermistas | 5,0| 1,0|\n68. Fornecimento de trabalho do próprio contribuinte, não|- |-\nespecificado nos demais itens\na) trabalho braçal | 0,0|-\nb) trabalho artístico | 5,0|-\nc) trabalho qualificado | 5,0|-\nd) trabalho de nível superior | 5,0| 3,5\n_______________________________________________________________|_________________|________________\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.664, de 29/12/1983 was altered by acts of 4 date(s), the latest 1987-12-29."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
