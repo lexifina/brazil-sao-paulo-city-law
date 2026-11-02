@@ -1,0 +1,1391 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1989",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "21 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1989-10726": {
+   "label": "Lei nº 10.726, de 08/05/1989",
+   "title": "Dispõe sobre a concessão de licença-paternidade aos servidores municipais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-05-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10726-de-08-de-maio-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10731": {
+   "label": "Lei nº 10.731, de 06/06/1989",
+   "title": "Institui a representação de empregados nos órgaos de administração e fiscalização das empresas e fundações nas quais tenha o Município de Sao Paulo, o controle majoritário.",
+   "kind": "law",
+   "enacted": "1989-06-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10731-de-6-de-junho-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10734": {
+   "label": "Lei nº 10.734, de 30/06/1989",
+   "title": "Dispõe sobre critério para atualização monetária de débitos para com a Fazenda Mu­nicipal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-06-30",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10734-de-30-de-junho-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10746": {
+   "label": "Lei nº 10.746, de 12/09/1989",
+   "title": "Introduz modificações na Lei nº 10.315, de 30 de de abril de 1987, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-09-12",
+   "published": "1989-09-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10746-de-12-de-setembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10762": {
+   "label": "Lei nº 10.762, de 20/10/1989",
+   "title": "Dispoe sobre a obrigatoriedade de utilizacao de meios profilaticos pelos institutos de beleza, barbearias, manicures e estabelecimentos similares, no ambito do municipio de sao paulo.",
+   "kind": "law",
+   "enacted": "1989-10-20",
+   "published": "1989-10-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10762-de-20-de-outubro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10775": {
+   "label": "Lei nº 10.775, de 13/11/1989",
+   "title": "Dispoe da obrigatoriedade do tipo sanguineo e do fator rh, como dado referencial na cedula de identidade funcional, e outras medidas.",
+   "kind": "law",
+   "enacted": "1989-11-13",
+   "published": "1989-11-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10775-de-13-de-novembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10779": {
+   "label": "Lei nº 10.779, de 05/12/1989",
+   "title": "Adapta a gratificação de natal ao disposto nos artigos 39, § 2º, e 7º, inciso viii, da constituição federal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-05",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10779-de-05-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10780": {
+   "label": "Lei nº 10.780, de 05/12/1989",
+   "title": "Transforma em cumprimento o disposto no artigo 201, § 6º, da Constituição Federal, o abono de natal previsto no artigo 1º, \"caput\" da Lei nº 9.147, de novembro de 1980, em decima terceira pensão ou legado, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-05",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10780-de-5-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10784": {
+   "label": "Lei nº 10.784, de 05/12/1989",
+   "title": "Modifica parcialmente os alinhamentos aprovados pela Lei nº 10.175, de 29 de outubro de 1986, no 29º subdistrito - Santo Amaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-05",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10784-de-5-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10790": {
+   "label": "Lei nº 10.790, de 15/12/1989",
+   "title": "Proibe o manuseio de pães e outros produtos de consumo alimentar, sem o uso de protetores higienicos nos estabelecimentos comerciais no municipio de sao paulo, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1989-12-15",
+   "published": "1989-12-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10790-de-15-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10793": {
+   "label": "Lei nº 10.793, de 21/12/1989",
+   "title": "Dispõe sobre contratação por tempo determinado, nos termos do artigo 37, inciso IX, da constituição federal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-21",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10793-de-21-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10795": {
+   "label": "Lei nº 10.795, de 22/12/1989",
+   "title": "Revoga isençoes de tributos municipais, e da outras providencia.",
+   "kind": "law",
+   "enacted": "1989-12-22",
+   "published": "1989-12-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10795-de-22-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10798": {
+   "label": "Lei nº 10.798, de 22/12/1989",
+   "title": "Acrescenta parágrafo ao artigo 194º da Lei nº 8.989, de 29 de outubro de 1979.",
+   "kind": "law",
+   "enacted": "1989-12-22",
+   "published": "1989-12-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10798-de-22-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10804": {
+   "label": "Lei nº 10.804, de 26/12/1989",
+   "title": "Revoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1989-12-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10804-de-26-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10806": {
+   "label": "Lei nº 10.806, de 27/12/1989",
+   "title": "Altera dispositivos da Lei nº 8.989, de 29 de outubro de 1979; e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-27",
+   "published": "1989-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10806-de-27-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10808": {
+   "label": "Lei nº 10.808, de 27/12/1989",
+   "title": "Dispõe sobre a criação de cargos; institui e reestrutura carreiras no Quadro Geral do Pessoal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-27",
+   "published": "1989-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10808-de-27-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10815": {
+   "label": "Lei nº 10.815, de 28/12/1989",
+   "title": "Revoga isençao do Imposto Predial e Territorial Urbano, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1989-12-28",
+   "published": "1989-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10815-de-28-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10817": {
+   "label": "Lei nº 10.817, de 28/12/1989",
+   "title": "Revoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1989-12-28",
+   "published": "1989-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10817-de-28-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10818": {
+   "label": "Lei nº 10.818, de 28/12/1989",
+   "title": "Altera dispositivos da Lei nº 10.423, de 29 de dezembro de 1987, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1989-12-28",
+   "published": "1989-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10818-de-28-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10819": {
+   "label": "Lei nº 10.819, de 28/12/1989",
+   "title": "Dispõe sobre a inscrição e atualização de dados no Cadastro Imobiliário Fiscal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1989-12-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10819-de-28-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1989-10820": {
+   "label": "Lei nº 10.820, de 28/12/1989",
+   "title": "Dá nova redação aos artigos 5º e 10 da Lei nº 10.212, de 11 de dezembro de 1.986, já alterados pela Lei nº 10.558, de 17 de junho de 1988.",
+   "kind": "law",
+   "enacted": "1989-12-28",
+   "published": "1989-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10820-de-28-de-dezembro-de-1989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1989-10726",
+   "short": "Lei 10726/1989",
+   "title": "Lei nº 10.726, de 08/05/1989 (Dispõe sobre a concessão de licença-paternidade aos servidores municipais, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10726-de-08-de-maio-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10726"
+   ],
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10726-de-08-de-maio-de-1989",
+     "sha256": "9e951b08031885cea11100ac492635531d10387c859068d56255cec50fd5d02d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.726, DE 8 DE MAIO DE 1989.\n(Projeto de Lei Nº 50/1989 - executivo)\nDispõe sobre a concessão de licença-paternidade aos servidores municipais, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, PREFEITA do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 26 de abril de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Será concedida licença-paternidade ao servidor municipal, pelo prazo de 6 (seis) dias.\n§ 1º A licença-paternidade poderá ser prorrogada por 14 (catorze) dias, além dos 6 (seis) dias estabelecidos no \"caput\" deste artigo, desde que cumpridos os seguintes requisitos:\nI - seja requerido pelo servidor;\nII - sejam atendidas as condições previstas em regulamentação própria, a ser editada em consonância com os princípios da Lei Federal nº 13.257, de 8 de março de 2016 - Marco Legal da Primeira Infância, e da Lei nº 16.710, de 11 de outubro de 2017 - Plano Municipal pela Primeira Infância.\n§ 2º No caso de criança, nascida ou adotada, com deficiência, a licença-paternidade poderá ser prorrogada por 03 (três) meses, além dos dias estabelecidos no \"caput\" deste artigo, atendidos os requisitos do parágrafo anterior.\n§ 3º A prorrogação prevista no § 1º deste artigo será garantida, na mesma proporção, ao servidor que adotar ou obtiver a guarda judicial para fins de adoção de criança, observados os requisitos previstos na legislação vigente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A licença-paternidade terá início no dia do nascimento do filho do servidor, ou no dia seguinte, se este ocorrer após o término do expediente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O período de licença-paternidade será considerado de efetivo exercício para todos os efeitos legais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O servidor, ao reassumir, deverá apresentar ao órgão do pessoal certidão comprobatória do nascimento de seu filho.\nParágrafo Único - O não cumprimento do disposto neste artigo acarretará a transformação do período de licença em faltas injustificadas, com o conseqüente desconto ou devolução dos vencimentos correspondentes ao período.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 8 DE MAIO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.726, de 08/05/1989 was altered by acts of 1 date(s), the latest 2019-10-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10731",
+   "short": "Lei 10731/1989",
+   "title": "Lei nº 10.731, de 06/06/1989",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10731-de-6-de-junho-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10731"
+   ],
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10731-de-6-de-junho-de-1989",
+     "sha256": "98bb2c6af16ef1d870972cc070426c213fc2dfea75c62dd1f5c3e7bd958672ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.731, DE 6 DE JUNHO DE 1989.\nInstitui a representação de empregados nos órgaos de administração e fiscalização das empresas e fundações nas quais tenha o Município de Sao Paulo, o controle majoritário.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 10 de maio de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Prefeitura do Município de São Paulo deverá, nas empresas nas quais detenha o controle majoritário do capital social com direito a voto, bem como nas fundações por ela mantidas ou instituídas, promover a inclusão, nos estatutos sociais, de disposições que assegurem a representação dos empregados em seus órgãos de administração.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nas empresas com natureza jurídica de sociedade por ações, a representação será resguardada pela participação no Conselho de Administração e na Diretoria, com o exercício das atribuições, conforme o disposto na Lei Federal nº 6.404, de 15 de dezembro de 1976, e alterações posteriores.\nParágrafo Único - Ressalvado o disposto no art. 162, parágrafo 2º da Lei nº 6.404/76, os demais, representantes deverão ser necessariamente empregados da companhia.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Nas fundações, a representação deverá ocorrer nos órgãos de deliberação colegiada e na Diretoria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A eleição dos representantes deverá ocorrer mediante voto direto e secreto de todos os empregados, considerando-se eleitos os que obtiverem a maioria absoluta dos votos.\n§ 1º - Na hipótese de nenhum candidato atingir a maioria absoluta, far-se-á nova votação no prazo de 10 (dez) dias da proclamação dos resultados, concorrendo apenas os dois mais votados no primeiro turno, considerando-se eleito aquele que obtiver a maioria simples.\n§ 2º - Os eleitos serão detentores de mandato, exercendo seus cargos e atribuições pelo período de gestão definido pelo estatuto social para os integrantes dos órgãos referidos, permitida uma reeleição.\n§ 3º - As eleições deverão ser convocadas dentro do período anterior a sessenta a quarenta dias do final do mandato.\n§ 4º - Aos candidatos será resguardada a estabilidade no emprego desde a data do pedido de inscrição, até trinta dias após a proclamação final dos resultados.\n§ 5º - Os eleitos gozarão de estabilidade no emprego até um ano após findo o mandato.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os entes indicados no art. 1º deverão promover a adaptação desta Lei em seus estatutos sociais até 60 (sessenta) dias após a publicação.\nParágrafo Único - VETADO\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A eleição dos primeiros representantes deverá ocorrer no prazo máximo de 120 (cento e vinte) dias da publicação desta Lei.\nParágrafo Único - Os eleitos na forma prevista neste artigo terão o mandato pelo período de gestão que restar aos atuais integrantes dos órgãos, resguardada porem a estabilidade prevista no parágrafo 5º do artigo anterior.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 6 DE JUNHO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.731, de 06/06/1989 was altered by acts of 1 date(s), the latest 2020-07-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10734",
+   "short": "Lei 10734/1989",
+   "title": "Lei nº 10.734, de 30/06/1989 (Dispõe sobre critério para atualização monetária de débitos para com a Fazenda Mu­nicipal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10734-de-30-de-junho-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10734"
+   ],
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10734-de-30-de-junho-de-1989",
+     "sha256": "ceeab1cab7879822493e1a5e98b1e01274286a5b96929b011d1528f07169a4a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.734 , DE 30 DE Junho DE 1989\n(Projeto de Lei Nº 121/1989 - Executivo)\nDispõe sobre critério para atualização monetária de débitos para com a Fazenda Municipal, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 21 de junho de 1989, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os débitos para com a Fazenda Municipal, de qualquer natureza, inclusive os tributários até 31 de dezembro de 2024, constituídos ou não, inscritos ou não, quando não pagos até a data do vencimento, ou pagos a menor, serão atualizados monetariamente pela variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, observado o seguinte:\nI - débitos vencidos a partir da vigência desta lei serão atualizados, mensalmente, pela variação acumulada entre os índices divulgados no mês do vencimento da obrigação e no mês anterior ao do efetivo pagamento;\nII - débitos vencidos até 1º de janeiro de 2000 serão atualizados até essa data pela legislação então vigente. A partir de então serão atualizados pela variação do IPCA acumulada até o início da vigência desta lei;\nIII - débitos vencidos entre 1º de janeiro de 2000 e o início da vigência desta lei serão atualizados pela variação do IPCA acumulada nesse período;\nIV - os débitos de que tratam os incisos II e III deste artigo serão atualizados, mensalmente, a partir da vigência desta lei, na forma do inciso I.\n§ 1º - A Secretaria de Finanças e Desenvolvimento Econômico fica autorizada a divulgar coeficiente de atualização monetária, para os fins do disposto no \"caput\" deste artigo.\n§ 2º - A atualização monetária e os juros de mora incidirão sobre o valor integral do crédito, neste compreendida a multa.\n§ 3º - Os juros moratórios serão calculados à razão de 1% (um por cento) ao mês, sobre o montante do débito corrigido monetariamente, calculados a partir do mês imediato ao vencimento, sendo contado como mês completo qualquer fração dele.\n§ 4º - Em caso de extinção do índice previsto no \"caput\" deste artigo, será adotado outro índice criado por legislação federal e que reflita a perda do poder aquisitivo da moeda.\n§ 5º O disposto neste artigo, quanto aos juros moratórios e atualização monetária, se aplica aos débitos de natureza tributária, constituídos ou não, inscritos ou não, quando não pagos, ou pagos a menor, até a data do vencimento, até 31 de dezembro de 2024, aplicando-se a tais débitos, prospectivamente, a partir de 1º de janeiro de 2025, o disposto no art. 1º-A desta Lei.\n"
+      },
+      "art-0001-a": {
+       "label": "Art. 1º-A",
+       "kind": "article",
+       "text": "Art. 1º-A. A partir de 1º de janeiro de 2025, os débitos para com a Fazenda Municipal de natureza tributária, constituídos ou não, inscritos ou não, quando não pagos, ou pagos a menor, até a data do vencimento, sujeitam-se à incidência de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC, acumulada mensalmente e incidente uma única vez, a partir do primeiro dia do mês subsequente ao do vencimento, aplicando-se 1% (um por cento) no mês em que o pagamento estiver sendo efetuado.\n§ 1º Os juros incidirão sobre o valor integral do crédito tributário, assim considerado o imposto devido acrescido de eventual multa lançada de ofício.\n§ 2º Na hipótese de tributos pagos em atraso espontaneamente, tomar-se-á o valor do débito sem o acréscimo da multa de mora de 0,33% ao dia, e sobre ele aplicar-se-á a taxa SELIC acumulada mensalmente a partir do primeiro dia do mês subsequente ao do vencimento do prazo até o mês anterior ao do pagamento, e de 1% no mês do pagamento.\n§ 3º O disposto neste artigo aplica-se a partir de 1º de janeiro de 2025 a todos os débitos de natureza tributária da Fazenda Municipal, bem como a indébitos da mesma natureza, sobrepondo-se, nas lacunas ou naquilo que for incompatível, a quaisquer regras de cômputo de juros moratórios ou de atualização monetária previstas em leis municipais gerais ou específicas, independentemente da data de sua entrada em vigor, exceto na hipótese de exceção expressa na respectiva lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A atualização estabelecida na forma do dos arts. 1º e 1º-A desta Lei aplicar-se-á, inclusive, aos débitos cuja cobrança seja suspensa por medida administrativa ou judicial, salvo se o interessado houver depositado, em moeda, a importância questionada.\n1º - Na hipótese de depósito parcial, far-se-á a atualização da parcela não depositada.\n2º - O depósito elide, ainda, a aplicação da multa- moratória, dos juros ou de ambos, consoante seja efetuado antes do prazo fixado para a incidência da multa, dos juros ou de ambos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O valor do depósito, se devolvido por terem sido julgados procedentes reclamações, recursos ou medidas judiciais, será atualizado monetariamente,, em consonância com as disposições desta lei.\nParágrafo único - A atualização do depósito cessará se o interessado deixar de comparecer a repartição competente, no prazo de 30 (trinta) dias contados de sua regular notificação, para receber a importância a ser devolvida.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º -0 Executivo atualizará, anualmente, a expressão monetária da base de cálculo dos Impostos Predial e Territorial Urbano, das Multas e das Taxas de Limpeza Pública, de Conservação de Vias e Logradouros Públicos e de Combate a Sinistros, de acordo com os índices referidos no artigo 1º desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - .\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial, a Lei nº 9.054, de 8 de maio de 1980.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 30 de Junho de 1989, 4369 da fundação de São Paulo.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\nHÉLIO PEREIRA BICUDO, Secretário dos Negócios Jurídicos\nAMIR ANTONIO KHAIR, Secretário das Finanças\nLUIZ EDUARDO ALMEIDA CURTI, Respondendo pelo Expediente da Secretaria dos Negócios Extraordinários Publicada na Secretaria do Governo Municipal, em 30 de Junho de 1989.\nJOSÉ EDUARDO MARTINS CARDOZO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.734, de 30/06/1989 was altered by acts of 3 date(s), the latest 2024-03-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10746",
+   "short": "Lei 10746/1989",
+   "title": "Lei nº 10.746, de 12/09/1989 (Introduz modificações na Lei nº 10.315, de 30 de de abril de 1987, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10746-de-12-de-setembro-de-1989",
+   "first_law": "lei-1989-10746",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-09-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10746-de-12-de-setembro-de-1989",
+     "sha256": "ee520b0127f608d685f837e2b75a88ef8351a009f0535e6220ba4c42a3ecf75b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.746, DE 12 DE SETEMBRO DE 1989.\nIntroduz modificações na Lei nº 10.315, de 30 de de abril de 1987, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 24 de agosto de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 23 da Lei nº 10.315, de 30 de abril de 1987, passa a vigorar com a seguinte redação:\n\"Art. 23 - É proibido expor, lançar ou depositar nos passeios, sarjetas, bocas de lobo, canteiros, jardins, área e logradouros públicos, quaisquer materiais, mercadorias, objetos, mostruários, cartazes, faixas, placas e assemelhados, sob pena de apreensão dos bens e pagamento das despesas de remoção.\n§ 1º - Constitui infração de natureza grave, o deposito de entulho, terra e resíduos de qualquer natureza, de peso superior a 50 Kg, em vias, passeios, canteiros, jardins, áreas e logradouros públicos.\n§ 2º - Os veículos que transportarem entulho, terra ou resíduos assemelhados, e os depositarem em vias, passeios, canteiros, jardins, áreas e logradouros públicos serão multados, apreendidos, removidos para os depósitos da Prefeitura e liberados somente após o pagamento das despesas de remoção e multa devidas.\n§ 3º - Estarão, também, sujeitos a apreensão, ao pagamento da multa e despesas de remoção:\nI - os veículos abandonados nas vias públicas, por Mais de 5 (cinco) dias consecutivos;\nII - os materiais de construção depositados nas vias públicas por mais de 2 (dois) dias consecutivos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 42 da Lei nº 10.315, de 30 de abril de 1987, passa a vigorar com a seguinte redação:\n\"Art. 42 - A competência para a fiscalização das disposições desta Lei, bem como para imposição das sanções dela decorrentes, caberá, concorrentemente, à Secretaria das Administrações Regionais, à Secretaria de Serviços e Obras, e à Secretaria Municipal de Defesa Social, esta por meio da Guarda Civil Metropolitana, cumprindo ao Executivo estabelecer, por decreto, os limites e as atribuições de cada uma delas.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Tabela anexa à Lei nº 10.315, de 30 de abril de 1987, fica substituída pela Tabela anexa à presente Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 10.375, de 22 de outubro de 1987.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 12 DE SETEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10762",
+   "short": "Lei 10762/1989",
+   "title": "Lei nº 10.762, de 20/10/1989",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10762-de-20-de-outubro-de-1989",
+   "first_law": "lei-1989-10762",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-10-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10762-de-20-de-outubro-de-1989",
+     "sha256": "b310b639ea2533b30ddc0eafe44622baafc9e59ffd6863749b84ad6472fd6efd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.762, DE 20 DE OUTUBRO DE 1989.\n(Projeto de Lei nº 151/89 do Vereador Walter Feldman)\nDispoe sobre a obrigatoriedade de utilizacao de meios profilaticos pelos institutos de beleza, barbearias, manicures e estabelecimentos similares, no ambito do municipio de sao paulo.\nLUIZ EDUARDO RODRIGUES GREENHALGH, Vice-Prefeito em exercício no cargo de Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 3 de outubro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os Institutos de Beleza, barbearias, manicures e estabelecimentos similares, deverão utilizar, obrigatoriamente no âmbito do Município de são Paulo, produtos químicos ou equipamentos, para esterilização de instrumentais e utensílios necessários a sua função.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para efeito do disposto no artigo 1º, deverão constar obrigatoriamente, como produtos químicos e equipamentos utilizáveis:\nI - Álcool comum;\nII - Hipoclorito de sódio a 1%;\nIII - Glutaraldeído a 2%;\nIV - Água oxigenada a 10 volumes;\nV - Betadina a 0,25%;\nVI - Estufa;\nVII - Autoclave;\nVIII - Panela de pressão.\n§ 1º - O utilitário poderá escolher para esterilização, qualquer um dos meios dispostos nos incisos de I a VIII deste artigo.\n§ 2º - Para os incisos de I a V, os usuários deverão observar pelo menos 30 minutos de imersão dos instrumentais e utensílios utilizados.\n§ 3º - Para os incisos VI e VII deverão observar o procedimento usual.\n§ 4º - Para o inciso VIII deverão observar a sua utilização por pelo menos 30 minutos à temperatura de 100ºc.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Poderão ser utilizados outros produtos, químicos ou equipamentos, desde que de comprovada ação profilática e quando similares ao disposto no artigo 2º.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A não observância do disposto nesta Lei implicará em multa de acordo com a legislação em vigor.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Executivo regulamentará a presente Lei 60 (sessenta) dias a contar de sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 20 DE OUTUBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZ EDUARDO RODRIGUES GREENHALGH, VICE-PREFEITO EM EXERCÍCIO\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10775",
+   "short": "Lei 10775/1989",
+   "title": "Lei nº 10.775, de 13/11/1989 (Dispoe da obrigatoriedade do tipo sanguineo e do fator rh, como dado referencial na cedula de identidade funcional, e outras medidas.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10775-de-13-de-novembro-de-1989",
+   "first_law": "lei-1989-10775",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-11-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10775-de-13-de-novembro-de-1989",
+     "sha256": "b40e4ef876c076290268cc4956182ffa0fbe3db98a6a51ca89d62b849cf70c93",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.775, DE 13 DE NOVEMBRO DE 1989.\n(Projeto de Lei nº 174/89 do Vereador José Ferreira do Nascimento)\nDispoe da obrigatoriedade do tipo sanguineo e do fator rh, como dado referencial na cedula de identidade funcional, e outras medidas.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 19 de outubro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica obrigatório constar o tipo sanguíneo e o fator RH do sangue, de todo servidor da Prefeitura Municipal de São Paulo, além da fotografia, como dados referenciais, para toda nova cédula de Identidade funcional a ser emitida.\nParágrafo Único - A nova cédula de identidade funcional será emitida para reposição, por extravio, ou por motivo de nova admissão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Será facultativo a qualquer servidor a doação de sangue.\nParágrafo Único - A doação do \"caput\" do artigo será regida pela Portaria nº 721, de 9 de agosto de 1989 do Exmo. Sr. Ministro de Estado da Saúde.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO)\nParágrafo Único - (VETADO)\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 13 DE NOVEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10779",
+   "short": "Lei 10779/1989",
+   "title": "Lei nº 10.779, de 05/12/1989 (Adapta a gratificação de natal ao disposto nos artigos 39, § 2º, e 7º, inciso viii, da constituição federal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10779-de-05-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10779"
+   ],
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10779-de-05-de-dezembro-de-1989",
+     "sha256": "12a83794b1140b5c6ffaf34d6564dfa81252d9d405eec1c3ba5f2e435ae29eac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.779, DE 5 DE DEZEMBRO DE 1989.\nAdapta a gratificação de natal ao disposto nos artigos 39, § 2º, e 7º, inciso viii, da constituição federal, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 30 de novembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Gratificação de Natal fica transformada em décimo terceiro salário e passa a ser disciplinada pela presente Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A partir da publicação desta Lei, o décimo terceiro salário será pago aos servidores municipais, até o dia 22 do mês de dezembro de cada ano.\n§ 1º - O décimo terceiro salário corresponderá a 1/12 (um doze avos) da remuneração integral relativa a dezembro, por mês de serviço municipal do ano correspondente.\n§ 2º - A fração superior a 14 (quatorze) dias de trabalho será havida como mês integral para os efeitos do parágrafo anterior.\n§ 3º - O servidor exonerado de cargo em comissão, ou que tiver cessada a designação para substituição, a partir do mês de novembro, terá o décimo terceiro salário calculado pela média dos meses anteriores.\n§ 4º - O décimo terceiro salário é devido aos inativos, com base no valor integral dos proventos de dezembro.\n§ 5º - Para os efeitos desta Lei, não integram a remuneração ou os proventos:\na) o valor do próprio décimo terceiro salário;\nb) os valores decorrentes de conversão de licença prêmio em pecúnia;\nc) os valores pagos a título de indenização em geral, exceto a gratificação de gabinete;\nd) os valores pagos a título de atrasados de meses anteriores;\ne) os valores referentes as férias em pecúnia e aos acréscimos de 1/3 (um terço) a elas relativos;\nf) os valores pagos a qualquer título pela participação em órgãos de deliberação coletiva;\ng) os valores dos créditos de PIS/PASEP e outros, não pertinentes à própria remuneração ou proventos e lançados em folha em virtude de convênios.\n§ 6º Por opção do servidor, o valor do 13º (décimo terceiro) salário poderá ser pago em duas parcelas, a primeira, correspondente a 50% (cinquenta por cento) da integralidade da remuneração, a título de antecipação, até o mês subsequente ao de sua realização, e a segunda no mês de dezembro, até a data fixada no caput deste artigo.\n§ 7º Realizada a opção, que será anual e terá caráter irretratável, a parcela a ser paga em dezembro corresponderá à diferença apurada entre o valor do 13º (décimo terceiro) salário integral e aquele antecipado ao servidor, de acordo com o disposto no § 6º deste artigo.\n§ 8º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O servidor exonerado, demitido ou dispensado receberá o décimo terceiro salário devido, calculado sobre a remuneração a que teria direito no mês do desligamento do serviço público, nos termos do artigo 2º.\n§ 1º. O pagamento do 13º (décimo terceiro) salário na forma do \"caput\" deste artigo será feito juntamente com a remuneração devida ao servidor pelos serviços prestados no mês do desligamento, independentemente de requerimento.\n§ 2º. Caso tenha o servidor realizado a opção de que trata o § 6º do art. 2º desta lei, do 13º (décimo terceiro) salário que lhe é devido será descontado o valor recebido a título de antecipação.\n§ 3º. O débito eventualmente resultante da compensação prevista no § 2º deste artigo será descontado da remuneração devida ao servidor pelos serviços prestados no mês do desligamento e, não sendo esta suficiente, o débito remanescente deverá ser cobrado na conformidade da legislação em vigor.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Em caso de falecimento do servidor, os beneficiários da previdência social ou os sucessores, nos termos da Lei civil, farão jus igualmente, ao décimo terceiro salário, calculado sobre a remuneração a que teria direito no mês do falecimento, nos termos do artigo 2º.\nParágrafo único. Caso o servidor falecido tenha realizado a opção de que trata o § 6º do art. 2º desta lei, no pagamento do 13º (décimo terceiro) salário de que trata este artigo deverá ser efetuada a compensação referida nos §§ 2º e 3º do art. 3º.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam revogados os artigos 105, 106, 107, 108, 109, 110 e 111 da Lei nº 8989, de 29 de outubro de 1979, assim como o inciso III do artigo 18, o inciso II do artigo 19, o artigo 24, e o inciso II do artigo 25 da Lei nº 9160, de 3 de dezembro de 1980.\n§ 1º - Aos servidores que optaram pela licença prêmio, na forma dos dispositivos ora revogados, ficam assegurados, integralmente, os direitos adquiridos por quinquênios completados e, proporcionalmente, os direitos relativos aos quinquênios incompletos até a data desta Lei, facultada a conversão desses direitos em pecúnia, tendo-se por base o pagamento relativo ao mês de conversão, mantendo-se, para esse efeito, a eficácia da Lei nº 8095, de 9 de agosto de 1974.\n§ 2º - Os servidores referidos no parágrafo anterior ficam obrigatoriamente incluídos no regime do décimo terceiro salário a partir da publicação desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As disposições contidas nesta Lei aplicam-se aos Conselheiros e servidores do Tribunal de Contas do Município e aos servidores das Autarquias a funcionários e inativos da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Sobre o benefício ora disciplinado, incidirá contribuição em favor do Instituto de Previdência Municipal de São Paulo - IPREM.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 5 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.779, de 05/12/1989 was altered by acts of 2 date(s), the latest 2022-08-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10780",
+   "short": "Lei 10780/1989",
+   "title": "Lei nº 10.780, de 05/12/1989",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10780-de-5-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10780"
+   ],
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10780-de-5-de-dezembro-de-1989",
+     "sha256": "e0ef372b3562a4a93e4449b466adcd4b392088d32253e4b4daddad9fc0fb10f1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.780, DE 5 DE DEZEMBRO DE 1989.\nTransforma em cumprimento o disposto no artigo 201, § 6º, da Constituição Federal, o abono de natal previsto no artigo 1º, \"caput\" da Lei nº 9.147, de novembro de 1980, em decima terceira pensão ou legado, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 30 de novembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Em cumprimento ao disposto no artigo 201, § 6º, da Constituição Federal, o abono de Natal previsto no artigo 1º, \"caput\", da Lei nº 9.147, de 26 de novembro de 1980, pago aos pensionistas e legatários pela Prefeitura, pelo Instituto de Previdência Municipal de São Paulo - IPREM e pela Câmara Municipal de São Paulo, fica transformado em décima terceira pensão ou legado.\n§ 1º - A décima terceira pensão ou legado, equivalerá a 1/12 (um doze avos) do benefício integral relativo ao mês de dezembro, por mês de pensão ou legado recebidos no ano correspondente, respeitados limites mínimos e máximos estabelecidos em Lei e na Constituição Federal e excluídas as seguintes parcelas:\na) O valor da própria décima terceira pensão ou legado;\nb) Os valores pagos a título de atrasados de exercícios anteriores à vigência desta Lei.\n§ 2º - A fração superior a 14 (quatorze) dias remunerados será considerada como mês integral, para os efeitos do parágrafo anterior.\n§ 3º Por opção do pensionista ou legatário, o valor da 13ª (décima terceira) pensão ou legado poderá ser pago em duas parcelas, a primeira, correspondente a 50% (cinquenta por cento) da respectiva pensão ou legado, a título de antecipação, até o mês subsequente ao de sua realização e a segunda em dezembro, até o dia 22 desse mês, observando-se as seguintes regras:\nI - a opção terá caráter irretratável e será anualmente realizada por cada um dos beneficiários;\nII - a parcela a ser paga em dezembro corresponderá à diferença apurada entre o valor da 13ª (décima terceira) pensão ou legado integral e aquele antecipado ao beneficiário de acordo com o disposto no § 3º deste artigo.\nIII - o disposto nos §§ 1º, 2º e 3º do art. 3º da Lei nº 10.779, de 5 de dezembro de 1989, aplica-se ao pensionista ou legatário que perder essa condição;\nIV - a opção não poderá ser realizada pelo beneficiário no exercício em que completar a idade-limite prevista no inciso III do art. 8º da Lei nº 10.828, de 4 de janeiro de 1990, ou perder a condição estabelecida no inciso V do referido artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A décima terceira pensão ou legado será paga proporcionalmente a cada beneficiário, na conformidade de cada quota-parte, ficando submetido ao mesmo regime jurídico aplicável à pensão ou ao legado a que se referir.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica assegurado ao pensionista ou legatário que venha a perder o direito ao beneficio no decorrer do exercício, o pagamento proporcional da décima terceira pensão ou legado, a título de antecipação, calculada com base no valor do benefício correspondente ao mês em que se verificar o evento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 9.147, de 26 de novembro de 1980.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 5 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.780, de 05/12/1989 was altered by acts of 2 date(s), the latest 2022-08-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10784",
+   "short": "Lei 10784/1989",
+   "title": "Lei nº 10.784, de 05/12/1989 (Modifica parcialmente os alinhamentos aprovados pela Lei nº 10.175, de 29 de outubro de 1986, no 29º subdistrito - Santo Amaro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10784-de-5-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10784"
+   ],
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10784-de-5-de-dezembro-de-1989",
+     "sha256": "d4cbc15f79a73424738817a0b2afc72198d538cad1ff8b4d6d2f06024dcd2de6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.784, DE 5 DE DEZEMBRO DE 1989.\nModifica parcialmente os alinhamentos aprovados pela Lei nº 10.175, de 29 de outubro de 1986, no 29º subdistrito - Santo Amaro, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei.\nFaz saber que a Câmara Municipal, em sessão de 28 de novembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs. 26.587/1-J-609, 26.587/2-J-609 e 26.587/3-J-609, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pela Prefeita como partes integrantes desta Lei, ficam parcialmente modificados os alinhamentos aprovados pela Lei nº 10.175, de 29 de outubro de 1966, no 29º subdistrito - Santo Amaro, no trecho necessário à implantação da canalização e abertura de via de fundo de vale ao longo do Córrego do Morro do \"S\", desde a Avenida Giovanni Gronchi até a Estrada de Itapecerica da Serra, com largura variável e extensão aproximada de 4.200,00 metros.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas nas plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins desta Lei, os imóveis atingidos pelo traçado ora aprovado serão, oportunamente, declarados de utilidade pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º AS despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 5 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.784, de 05/12/1989 was altered by acts of 1 date(s), the latest 2022-06-10."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10790",
+   "short": "Lei 10790/1989",
+   "title": "Lei nº 10.790, de 15/12/1989",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10790-de-15-de-dezembro-de-1989",
+   "first_law": "lei-1989-10790",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10790-de-15-de-dezembro-de-1989",
+     "sha256": "b8f392b02dfb9cf36ef080f6fb3326659716e01d9ef126f2e58d21e560610fa0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.790, DE 15 DE DEZEMBRO DE 1989.\n(Projeto de Lei nº 231/89, do Vereador Walter Abrahão)\nProibe o manuseio de pães e outros produtos de consumo alimentar, sem o uso de protetores higienicos nos estabelecimentos comerciais no municipio de sao paulo, e da outras providencias.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 23 de novembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibido o manuseio de pães, e outros similares de consumo alimentar, sem o uso de protetores higiênicos, nos estabelecimentos comerciais no Município de São Paulo.\nParágrafo Único - Entende-se por produto de consumo alimentar, os pães, doces, biscoitos, bolachas, sanduíches, frios e petiscos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos comerciais usarão pegadores próprios para o manuseio dos produtos que não contenham embalagens adequadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Será obrigatória a afixação desta Lei em local visível ao público.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A fiscalização da aplicação da presente Lei será efetuada pela Secretaria de Abastecimento, através do Departamento de Vigilância e Controle Sanitário - VISA.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Aos infratores aplicar-se-ão sanções estabelecidas na seguinte sequência:\na) advertência;\nb) multa de 50 (cinquenta) Unidades Fiscais do Município;\nc) suspensão da atividade por 5 (cinco) dias;\nd) cancelamento da licença e encerramento da atividade do estabelecimento.\n§ 1º - Quando aplicada a pena de multa, o infrator deverá recolhê-la aos cofres municipais no prazo de 10 (dez) dias, findo o qual serão acrescidos juros de Lei, e atualização do valor da Unidade Fiscal do Município vigente no mês do recolhimento.\n§ 2º - (VETADO)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 15 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10793",
+   "short": "Lei 10793/1989",
+   "title": "Lei nº 10.793, de 21/12/1989 (Dispõe sobre contratação por tempo determinado, nos termos do artigo 37, inciso IX, da constituição federal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10793-de-21-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10793"
+   ],
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10793-de-21-de-dezembro-de-1989",
+     "sha256": "e6f1ba57dc500841186168bc5f1450f35c6327fa5483bd9401b9ec66cca5c148",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.793, DE 21 DE DEZEMBRO DE 1989.\n(Projeto de Lei Nº 524/1989 - executivo)\nDispõe sobre contratação por tempo determinado, nos termos do artigo 37, inciso IX, da constituição federal, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 19 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei disciplina as contratações por tempo determinado para atender a necessidade temporária de excepcional interesse público.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As contratações a que se refere o artigo 1º somente poderão ocorrer nos seguintes casos:\nI - Calamidade pública;\nII - Inundações, enchentes, incêndios, epidemias e surtos,\nIII - Campanhas de saúde pública;\nIV - (Inciso declarado inconstitucional pela 2139944-27.2016.8.26.0000)\nV - De emergência, quando caracterizada a urgência e inadiabilidade de atendimento da situação que possa comprometer a realização de eventos, ou ocasionar prejuízo a saúde: ou à segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares.\nVI - (Inciso declarado inconstitucional pela 2139944-27.2016.8.26.0000)\nVII - necessidade inadiável de pessoal para o regular funcionamento das unidades de prestação de serviços essenciais, notadamente unidades educacionais e de saúde, quando decorrente de fatos imprevisíveis ou, ainda que previsíveis, cujo momento de ocorrência não possa ser previamente conhecido pela Administração, e desde que essa necessidade não possa ser suprida pelo esforço extraordinário dos demais servidores lotados na mesma unidade e encarregados da mesma função ou por remanejamento de pessoal, observados os limites previstos no art. 3º desta lei;\nVIII - necessidade de docente substituto para suprir a falta de professor efetivo em razão de licenças médicas e outros afastamentos que a lei considere como de efetivo exercício, desde que essa necessidade não possa ser suprida pelo esforço extraordinário dos demais servidores lotados na mesma unidade e encarregados da mesma função ou por remanejamento de pessoal, observados os limites previstos no art. 3º desta lei.\nParágrafo único. Nas hipóteses referidas no inciso VII do \"caput\" deste artigo, tratando-se de necessidade que apresente caráter permanente, a contratação somente será celebrada se estiver em trâmite processo para a realização de concurso público ou para a criação de cargos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As contratações serão feitas pelo tempo estritamente necessário para atender às hipóteses elencadas no artigo anterior, observado o prazo máximo de 12 (doze) meses.\n§ 1º - É vedada a prorrogação de contrato, salvo se:\na) houver obstáculo judicial para a realização de concurso;\nb) o prazo da contratação for inferior ao estipulado neste artigo, podendo a prorrogação ser efetuada até aquele limite.\nc) homologado o concurso público destinado ao provimento de cargos cujas funções estejam sendo exercidas por contratados nos termos desta lei, e publicada, no Diário Oficial da Cidade, a autorização para nomeação dos candidatos habilitados no referido certame, poderão, em caráter excepcional, ser prorrogados os contratos em vigor, ao seu término, por uma única vez, pelo prazo máximo de 6 (seis) meses, quando houver necessidade inadiável para o regular funcionamento da unidade onde os contratados se encontrem prestando serviços, desde que tal medida não acarrete o preterimento de candidatos aprovados no respectivo concurso ou qualquer outro prejuízo.\nd) necessária, a critério da Administração, no caso de contratação de profissionais para assegurar a prestação do serviço nas unidades educacionais até o encerramento do ano letivo.\n§ 2º É vedada a contratação da mesma pessoa, ainda que para serviços diferentes, pelo prazo de 2 (dois) anos a contar do término do contrato, salvo na hipótese de contratação de profissionais para assegurar a prestação do serviço nas unidades educacionais, em que o referido prazo será de 1 (um) ano.\n§ 3º A ocorrência de gravidez ou doença do contratado posterior ao início do exercício das funções não servirá de fundamento para impedir nova contratação ou renovação de contrato, autorizada por lei especial ou pelas hipóteses excepcionais desta lei, bem como não servirá de fundamento para a rescisão de contrato em andamento.\n§ 4º Em situações excepcionais, se verificada a necessidade de nova contratação com base nos incisos VII e VIII do art. 2º desta Lei e desde que não configurada a hipótese do parágrafo único do referido artigo, será permitida a prorrogação da contratação do mesmo profissional, a critério da Administração, a fim de se preservar o vínculo, até o limite de 4 (quatro) anos.\n§ 5º Na hipótese do prazo de 4 (quatro) anos findar antes do final do ano letivo, poderá ser prorrogada a contratação do professor até o fim do ano letivo, não podendo superar, sob nenhuma hipótese, 5 (cinco) anos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As contratações serão precedidas de processo, iniciado por proposta dos Secretários Municipais, e mediante, prévia autorização da Prefeita, ouvida a Secretaria Municipal da Administração, para eventuais esclarecimentos.\n§ 1º - A autorização e a respectiva fundamentação legal deverão ser publicadas no Diário Oficial do Município.\n§ 2º - Constarão obrigatoriamente das propostas de contratação:\nI - A justificativa, nos termos do artigo 2º;\nII - O prazo;\nIII - A função a ser desempenhada;\nIV - A remuneração;\nV - A dotação orçamentária;\nVI - Demonstração de existência de recursos;\nVII - Habilitação exigida para a função.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As contratações deverão observar as seguintes condições:\nI - Para funções que correspondam a cargos, com idêntica denominação e referência;\nII - Exigência do mesmo nível de escolaridade e demais requisitos de provimento;\nIII - Fixação de remuneração no grau \"A\" da respectiva referência de vencimento, na classe inicial, quando se tratar de carreira;\nIV - Prestação de horas semanais de trabalho correspondentes à prevista para as funções a serem desempenhadas.\nParágrafo Único. É expressamente vedada a contratação quando existirem cargos vagos e candidatos aprovados em concurso.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Só poderão ser contratados, nos termos desta Lei, os interessados que comprovarem os seguintes requisitos:\nI - Ser brasileiro;\nII - Ter completado 18 (dezoito) anos de idade;\nIII - Estar no gozo dos direitos políticos;\nIV - Estar quite com as obrigações militares;\nV - Ter boa conduta;\nVI - gozar de boa saúde física e mental;\nVII - Possuir habilitação profissional para o exercício das funções, quando for o caso;\nVIII - Atender às condições especiais, prescritas em Lei ou decreto, para determinadas funções.\nParágrafo único. O contratado assumirá o desempenho de suas funções no prazo convencionado no contrato, apresentando, na oportunidade, a comprovação de suas condições físicas e mentais aptas ao cumprimento das funções, consubstanciadas em laudo de sanidade e capacidade emitido por médico.\nArt. 6º-A Nas contratações temporárias, deverá ser reservado o percentual mínimo de 5% (cinco por cento) e máximo de 10% (dez por cento) das vagas para a contratação dentre pessoas com deficiência.\n§ 1º Para fins de aplicação da reserva prevista no \"caput\" deste artigo, utilizar-se-á o conceito de pessoa com deficiência estabelecido no art. 1º do Decreto Federal nº 6.949, de 25 de agosto de 2009, como norteador das hipóteses de deficiência de que trata o art. 2º da Lei Municipal nº 13.398, de 31 de julho de 2002.\n§ 2º As pessoas com deficiência deverão comprovar os requisitos previstos no art. 6º desta lei e também apresentar laudo médico que cite o tipo de deficiência.\n§ 3º Os procedimentos para as contratações de que trata o \"caput\" deste artigo, bem como a avaliação da capacidade funcional serão definidos pela Secretaria Municipal interessada.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os contratados nos termos da presente Lei estão sujeitos aos mesmos deveres e proibições, inclusive no tocante à acumulação de cargos e funções públicas, e ao mesmo regime de responsabilidade vigentes para os demais servidores públicos municipais, no que couber.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Aos contratados nos termos da presente Lei assistem os mesmos direitos e vantagens dos demais servidores públicos municipais, no que couber, e observado sempre o termo final do contrato.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ocorrerá a rescisão contratual:\nI - A pedido do contratado;\nII - Pela conveniência da Administração, a juízo da autoridade que procedeu à contratação;\nIII - Quando o contratado incorrer em falta disciplinar.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Na hipótese do inciso I do artigo anterior, o servidor terá direito ao 13º salário proporcional ao tempo de serviço prestado.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Na hipótese do inciso II do artigo 9º, o contratado terá direito a:\nI - 13º salário proporcional;\nII - Pagamento de indenização correspondente ao valor da última remuneração mensal.\nParágrafo Único. Na hipótese da rescisão ocorrer em período inferior a 30 (trinta) dias do término do contrato, a indenização a que se refere o inciso II deste artigo equivalerá ao valor da remuneração proporcional ao número de dias faltantes para o término.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - É vedado atribuir ao contratado encargos ou serviços diversos daqueles constantes do contrato, bem como designações especiais, nomeações para cargos em comissão, afastamentos de qualquer espécie, exceto os compatíveis com a natureza deste vínculo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - É vedada a contratação para função correspondente a cargo em comissão.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - As disposições desta Lei aplicam-se, no que couber, às Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 21 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\nHÉLIO PEREIRA BICUDO, Secretário dos Negócios Jurídicos\nAMIR ANOTNIO KHAIR, Secretário das Finanças\nFERMINO FECHIO FILHO, Secretario Municipal da Administração\nEDUARDO JORGE MARTINS ALVES SOBRINHO, Secretario Municipal da Saúde\nLADISLAL DOWBOR, Secretario dos Negócios Extraordinários\nPublicada na Secretaria do Governo Municipal, em 21 de Dezembro de 1989.\nJOSE EDUARDO MARTINS CARDOZO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.793, de 21/12/1989 was altered by acts of 11 date(s), the latest 2026-05-13."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10795",
+   "short": "Lei 10795/1989",
+   "title": "Lei nº 10.795, de 22/12/1989 (Revoga isençoes de tributos municipais, e da outras providencia.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10795-de-22-de-dezembro-de-1989",
+   "first_law": "lei-1989-10795",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10795-de-22-de-dezembro-de-1989",
+     "sha256": "87305aa9b71d9faefa1bb4d2b758a10354175f3901a23b946fe8055449f9c409",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei nº 10.795 de 22 de dezembro de 1989\n(Projeto de Lei Nº 465/1989 - Executivo)\nRevoga isençoes de tributos municipais, e da outras providencia.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 14 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogadas, a partir de 1º de janeiro de 1990, as isenções dós impostos municipais incidentes sobre o patrimônio e serviços concedidas a:\nI - Empresa Municipal de Urbanização - EMURB;\nII - Companhia Metropolitana de Habitação do São Paulo - COHAB-SP;\nIII - Companhia de Processamento de Dados do Município de São Paulo - PRODAM;\nIV - Companhia de Engenharia de Tráfego-CET.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada, a partir de 1º de janeiro de 1990, à isenção de tributos municipais instituída pelo art. 7º da Lei 7456, de 28 de abril de 1970, em favor da \"Fundação Museu de Tecnologia de São Paulo\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1990, revogadas as disposições em contrário, em especial o art. 9º da Lei 7670 de 24 de novembro do 1971, parcialmente art. 1º da Lei nº 8118 de 11 de setembro de 1974 e o art. 7º da Lei nº 8394 de 28 de maio de 1976.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 22 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10798",
+   "short": "Lei 10798/1989",
+   "title": "Lei nº 10.798, de 22/12/1989 (Acrescenta parágrafo ao artigo 194º da Lei nº 8.989, de 29 de outubro de 1979.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10798-de-22-de-dezembro-de-1989",
+   "first_law": "lei-1989-10798",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10798-de-22-de-dezembro-de-1989",
+     "sha256": "dc7a26c6b43221b30151cb18c80ed0eaec03f5cabed33ced2bfb34976526a31a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.798, DE 22 DE DEZEMBRO DE 1989.\nAcrescenta parágrafo ao artigo 194º da Lei nº 8.989, de 29 de outubro de 1979.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei.\nFaz saber que a Câmara Municipal, em sessão de 12 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica acrescido um parágrafo ao artigo 194º da Lei nº 8989, de 29 de outubro de 1979, do seguinte teor:\n\"Parágrafo Único - O disposto neste artigo não se aplica, a juízo da autoridade competente para impor a penalidade, aos casos de procedimentos disciplinares instaurados por infração aos incisos I ou II do artigo 188.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO , AOS 22 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO. LUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10804",
+   "short": "Lei 10804/1989",
+   "title": "Lei nº 10.804, de 26/12/1989 (Revoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10804-de-26-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10804"
+   ],
+   "versions": [
+    {
+     "from": "1996-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10804-de-26-de-dezembro-de-1989",
+     "sha256": "5fd047961e8976fff7b213067b9a27ebc020799d95b29833ad4857837c1439b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.804, DE 26 DE DEZEMBRO DE 1989.\nRevoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei.\nFaz saber que a Câmara Municipal, em sessão de 19 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogadas, a partir de 1º de janeiro de 1990, as isenções do Imposto sobre Serviços de Qualquer Natureza concedidas a:\nI -\nII - Serviços de infraestrutura de transporte de natureza não estritamente municipal, consistentes na manutenção de terminais rodoviários, ferroviários e aeroportuários;\nIII - Serviços de diversões públicas consistentes na apresentação individual de artista brasileiro, em espetáculo humorístico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, em especial:\na) a Lei nº 9399, de 23 de dezembro de 1981;\nb) a Lei nº 9269, de 5 de junho do 1981;\nc) a Lei nº 9322, de 25 de setembro de 1981.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 26 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.804, de 26/12/1989 was altered by acts of 1 date(s), the latest 1996-12-27."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10806",
+   "short": "Lei 10806/1989",
+   "title": "Lei nº 10.806, de 27/12/1989 (Altera dispositivos da Lei nº 8.989, de 29 de outubro de 1979; e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10806-de-27-de-dezembro-de-1989",
+   "first_law": "lei-1989-10806",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10806-de-27-de-dezembro-de-1989",
+     "sha256": "2ededdadf0679a2a04debb8e34719abf6547232abab59150b714af03e88ba166",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.806, DE 27 DE DEZEMBRO DE 1989.\nAltera dispositivos da Lei nº 8.989, de 29 de outubro de 1979; e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 12 da Lei nº 8.989, de 29 de outubro de 1979, passa a vigorar com a seguinte redação:\n\"Art 12 - A investidura em cargo público dependerá de aprovação prévia em concurso público de provas, ou provas e títulos.\n§ 1º - Prescindirá de concurso a nomeação para cargo em comissão declarado em Lei, de livre nomeação e exoneração.\n§ 2º - A não observância do disposto no \"caput\" deste artigo implicará a nulidade do ato e a punição da autoridade responsável.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 14 da Lei nº 8.989, de 29 de outubro de 1979, passa a vigorar com a seguinte redação:\n\"Art. 14 - O prazo de validade do concurso será fixado nas respectivas instruções especiais e não excederá a 2 (dois) anos, contados a partir da data da homologação de seus resultados, prorrogável, uma vez, por igual período.\nParágrafo Único - A não observância do disposto no \"caput\" deste artigo implicará a nulidade do ato e a punição da autoridade responsável.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogado o inciso XI do artigo 179 da Lei nº 8.989, de 29 de outubro de 1979.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º É assegurado o direito de greve aos servidores públicos municipais, observado o disposto no artigo 37, inciso VII, da Constituição da República Federativa do Brasil.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O artigo 187 da Lei nº 8.989, de 29 de outubro de 1979, passa a vigorar com a seguinte redação:\n\"Art. 187 - A autoridade que tiver conhecimento de infração funcional que enseje a aplicação de penas de repreensão e suspensão até 5 (cinco) dias deverá notificar por escrito o servidor da infração a ele imputada, com prazo de 3 (três) dias para oferecimento de defesa.\n§ 1º - A defesa dirigida à autoridade notificante deverá ser feita por escrito e entregue contra recibo.\n§ 2º - O não acolhimento da defesa ou sua não apresentação no prazo legal acarretará a aplicação das penalidades previstas no \"caput\" deste artigo, mediante ato motivado, expedindo-se a respectiva portaria e providenciada a anotação, em assentamento, da penalidade aplicada, após publicação no Diário Oficial do Município.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica revogado, em todos os seus termos, o artigo 198 da Lei nº 8.989, de 29 de outubro de 1979, e, em consequência, alterada a denominação do seu Capítulo V, do Titulo VI, que passa a designar-se \"Da Suspensão Preventiva\".\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O artigo 200 da Lei nº 8.989, de 29 de outubro de 1979, passa a vigorar com a seguinte redação:\n\"Art. 200 - Durante o período da suspensão preventiva, o funcionário perderá 1/3 (um terço) do vencimento.\nParágrafo Único - O funcionário terá direito:\n1 - à diferença do vencimento e à contagem de tempo de serviço relativo ao período da suspensão preventiva, quando do processo não resultar punição ou esta se limitar à pena de repreensão;\n2 - à diferença de vencimento e à contagem do tempo de serviço correspondente ao período do afastamento excedente ao prazo de suspensão efetivamente aplicada.\"\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10808",
+   "short": "Lei 10808/1989",
+   "title": "Lei nº 10.808, de 27/12/1989 (Dispõe sobre a criação de cargos; institui e reestrutura carreiras no Quadro Geral do Pessoal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10808-de-27-de-dezembro-de-1989",
+   "first_law": "lei-1989-10808",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10808-de-27-de-dezembro-de-1989",
+     "sha256": "e938516885e34c5c6883e1c703c50fd0d6635c11e87233afb4cb7a3a5230c908",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# DISPÕE SOBRE A CRIAÇÃO DE CARGOS; INSTITUI E REESTRUTURA CARREIRAS NO QUADRO GERAL DO PESSOAL, E DÁ OUTRAS PROVIDÊNCIAS.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 18 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados, na PP-III, do Quadro Geral do Pessoal, os cargos a seguir elencados:\nI - Cargos a serem distribuídos nas respectivas carreiras:\na) Grupo II: 331 de Assistente Social, 226 de Cirurgião Dentista, 595 de Enfermeiro, 52 de Farmacêutico e 1455 de Médico;\nb) Grupo III: 67 de Técnico de Contabilidade, 63 de Técnico de Laboratório e 157 de Técnico em Radiologia;\nc) Grupo IV: 127 de Almoxarife, 1324 de Oficial de Administração Geral, 36 de Técnico de Eletrocardiografia e 22 de Técnico de Gasoterapia;\nd) Grupo V: 58 de Telefonista;\ne) Grupo VI: 17 de Carpinteiro, 250 de Contínuo-Porteiro, 11 de Costureiro, 95 de Cozinheiro, 63 de Eletricista, 51 de Encanador, 31 de Marceneiro, 464 de Motorista, 86 de Operador de Máquinas de Médio Porte, 41 de Pedreiro, 43 de Pintor, 16 de Serralheiro, 691 de Servente, 337 de Vigia e 108 de Zelador.\nII - Cargos destinados às carreiras ora instituídas:\na) Grupo II: 30 de Fisioterapeuta e 22 de Terapeuta-Ocupacional;\nb) Grupo V: 55 de Auxiliar de Laboratório;\nIII - Cargos isolados:\na) Grupo VI - 13 de Auxiliar de Costura e 163 de Auxiliar de Cozinha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em decorrência da criação dos cargos previstos no artigo 1º, inciso I, as respectivas carreiras, constantes dos Anexos I e III da Lei nº 10.430, de 29 de fevereiro de 1988, e do Anexo Único da Lei nº 10.691, de 7 de dezembro de 1988, passam a ter as estruturas indicadas no Anexo I, Partes A, B, C, D e E, integrantes desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam instituídas as carreiras respectivas para os cargos previstos no artigo 1º, inciso II, e constantes do Anexo V - Parte B, da Lei nº 10.430, de 29 de fevereiro de 1988, na conformidade do Anexo I, Partes A e D desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O provimento dos cargos referidos nos artigos 2º e 3º desta Lei, far-se-á:\nI - Mediante concurso público para os cargos da classe inicial;\nII - Mediante concurso de acesso, dentre titulares de cargos da classe imediatamente inferior, para os cargos das classes superiores.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os cargos provisoriamente constantes no nível I, conforme Anexo I, Partes A, B, C, D, e E, desta Lei, correspondem aos cargos vagos existentes nos níveis superiores das carreiras ora reestruturadas ou instituídas, e visam permitir que a Administração conte, de imediato, com a quantidade de servidores suficientes ao atendimento de suas necessidades.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Quando ocorrer a vacância de cargos no nível I, em consequência do acesso de seus titulares a cargos superiores da carreira, observar-se-á o seguinte procedimento:\nI - Quando se tratar de cargo provisoriamente situado no nível I, o mesmo será excluído dessa situação;\nII - Quando se tratar de cargo definitivamente situado no nível 1, será ele preenchido por um titular de cargo em situação provisória, sendo este por sua vez dela excluído.\nParágrafo Único - O procedimento adotado neste artigo será obedecido até que a quantidade de cargos situados no nível I da carreira fique reduzida aos cargos constantes, de forma definitiva, do Anexo I desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A constituição das carreiras referidas no artigo 3º será feita mediante a integração dos cargos atualmente existentes somados aos cargos ora criados, na forma do Anexo I, Partes A e D, desta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A integração de cargos nas classes de níveis superiores das carreiras instituídas por esta Lei será feita por antiguidade dos respectivos titulares nas carreiras, respeitados os limites constantes do Anexo I, Partes A e D.\n§ 1º - Ao tempo obtido nos termos deste artigo será acrescido o tempo de serviço prestado à Prefeitura do Município de São Paulo e suas Autarquias, no exercício de atribuições, próprias do cargo, na qualidade de nomeado ou admitido para cargo ou função da mesma natureza da carreira.\n§ 2º - A integração prevista neste artigo será feita mediante decreto específico, com vigência a partir da publicação desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Em decorrência da criação dos cargos previstos no artigo 1º, inciso III, a quantidade dos cargos constantes dos Anexos I e III da Lei nº 10.430, de 29 de fevereiro de 1988, passa a ser a indicada no Anexo II, integrante desta Lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Os cargos a que se refere o inciso III do artigo 1º serão providos mediante concurso público, na forma da legislação em vigor.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - OS proventos dos inativos e as pensões devidas aos beneficiários correspondentes aos cargos e funções das carreiras ora instituídas - Fisioterapeuta, Terapeuta-Ocupacional e Auxiliar de Laboratório - ficam fixados com base na referência inicial das respectivas carreiras.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - As funções correspondentes aos cargos abrangidos por esta Lei terão alteradas suas referências, na conformidade das fixadas para a classe inicial do cargo sob a mesma denominação, aplicando-se, quando for o caso, sua nova denominação.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A definição das atribuições próprias de cada classe das carreiras ora instituídas será objeto de decreto.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O artigo 4º da Lei Nº 10.252, de 22 de dezembro dei 1986, passa a ter a seguinte redação:\n\"Art. 4º - O provimento dos cargos constantes do Anexo III, far-se-á:\nI - Mediante concurso público, os cargos da classe do nível I;\nII - Mediante concurso de acesso dentre titulares de cargos da classe do nível I, os cargos da classe do nível II\".\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Esta Lei entrará em vigor a partir da data de sua publicação, revogadas as disposições em contrário e, em especial, o artigo 5º da Lei nº 10.252, de 22 de dezembro de 1986.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10815",
+   "short": "Lei 10815/1989",
+   "title": "Lei nº 10.815, de 28/12/1989 (Revoga isençao do Imposto Predial e Territorial Urbano, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10815-de-28-de-dezembro-de-1989",
+   "first_law": "lei-1989-10815",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10815-de-28-de-dezembro-de-1989",
+     "sha256": "c1ce7fe180a2c388b1852ddf771ad4d2350aae327e5ffbdb3f9cb77c5f2166d9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.815, DE 28 DE DEZEMBRO DE 1989.\nRevoga isenção do Imposto Predial e Territorial Urbano, e da outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogadas as isenções do Imposto Predial e Territorial Urbano concedidas:\nI - À Companhia Municipal de Transportes Coletivos - CMTC;\nII - Às empresas da administração indireta da Prefeitura do Município de São Paulo;\nIII - Á Cia. do Metropolitano de São Paulo - METRÔ;\nIV - À Companhia de Gás de São Paulo - COMGÁS-SP;\nV - A Caixa Econômica Federal - CEF;\nVI - A Fundação Maria Luiza e Oscar Americano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a isenção do Imposto Predial Urbano concedida ao imóvel situado à Rua General Jardim, nº 595, Contribuinte nº 007.064.0001-1.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1990, revogadas as disposições em contrário e, em especial as alíneas \"d\", \"e\", \"f\", \"i\", e \"j\", do inciso II, do artigo 18 e as alíneas \"b\", \"c\", \"d\", \"e\", e \"f\", do artigo 38, ambos da Lei nº 6.989, de 29 de dezembro de 1966, a Lei nº 10.084, de 17 de junho de 1986 e a Lei nº 10.514, de 11 de maio do 1988.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 28 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10817",
+   "short": "Lei 10817/1989",
+   "title": "Lei nº 10.817, de 28/12/1989 (Revoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10817-de-28-de-dezembro-de-1989",
+   "first_law": "lei-1989-10817",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10817-de-28-de-dezembro-de-1989",
+     "sha256": "b8cbb62b3f07d5f2860f0a1e35513be8be4de526cd2c8f2bbe8e57e52b725580",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.817, DE 28 DE DEZEMBRO DE 1989.\nRevoga isençoes do Imposto sobre Serviços de Qualquer Natureza, e da outras providencias.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogadas, a partir de 1º de janeiro de 1990, as isenções do Imposto sobre Serviços de Qualquer Natureza concedidas a:\nI - profissional, no seu domicílio, sem porta aberta para a via pública, por conta própria e sem empregados, sem reclames ou letreiros, com receita bruta até NCz$ 2.000,00 (dois mil cruzados novos) anuais, não se considerando empregados os filhos e mulher do sujeito passivo;\nII - pensões familiares até cinco pensionista;\nIII - jornais periódicos, destinados à publicação de noticiário e informação de caráter geral e de interesse da coletividade e estações radio emissoras e de televisão;\nIV - locadores de livros novos e usados;\nV - empresários de espetáculos teatrais E circenses;\nVI - serviços prestados nos termos da Lei nº 10.256/87, pelo concessionário de serviços de estacionamento de veículos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1990, revogadas as disposições em contrário, em especial: item II, IV, VIII e IX do art. 61 da Lei nº 6.989, de 29 de dezembro de 1966, com a redação da letra \"L\" do art. 1º da Lei nº 7410, de 30 de dezembro de 1969; Art. 10 da Lei nº 10.423, de 29 de dezembro de 1987; Art. 11 da Lei nº 10.256, de 11 de fevereiro de 1987.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 28 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10818",
+   "short": "Lei 10818/1989",
+   "title": "Lei nº 10.818, de 28/12/1989 (Altera dispositivos da Lei nº 10.423, de 29 de dezembro de 1987, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10818-de-28-de-dezembro-de-1989",
+   "first_law": "lei-1989-10818",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10818-de-28-de-dezembro-de-1989",
+     "sha256": "d3add8285009de5720b08c258d8ed8800995d7c1b1980bc9c4716a9a3e5706d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.818, DE 28 DE DEZEMBRO DE 1989.\nAltera dispositivos da Lei nº 10.423, de 29 de dezembro de 1987, e da outras providencias.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 5º da Lei nº 10.423/87 e seus parágrafos passam a vigorar com a seguinte redação:\n\"Art. 5º - O imposto, nos casos descritos pelos artigos 3º e 4º, será lançado anualmente pelo próprio contribuinte, podendo, a critério da administração ser lançado de ofício com base nos elementos constantes do Cadastro de Contribuintes Mobiliários - CCM.\n§ 1º - Para os contribuintes já inscritos no CCM, o Imposto considera-se lançado no mês de janeiro de cada exercício.\n§ 2º - Para os contribuintes que vierem a, se inscrever durante o exercício, o Imposto considera-se lançado na data de inscrição no CCM.\n§ 3º - Para o cálculo do Imposto, lançado na forma deste artigo, tomar-se-á por base a Unidade de Valor Fiscal do Município - UFM vigente no mês de lançamento.\n§ 4º - O recolhimento do Imposto lançado na forma deste artigo, poderá ser feito em 05 (cinco) parcelas mensais e sucessivas, na forma, prazos e condições regulamentares.\n§ 5º - Para fins de recolhimento o valor de cada parcela corresponderá a 20% (vinte por conto) da quantidade de UFMs lançadas, que será convertido em moeda corrente, pelo valor da UFM vigente no mês de vencimento.\n§ 6º - O valor de cada parcela, apurado na forma do parágrafo anterior, não poderá ser inferior a 10% (dez por cento) do valor da UFM vigente no mês de vencimento.\n§ 7º - Para os fins de quitação antecipada do Imposto, tomar-se-á o valor da UFM vigente no mês de pagamento de cada uma das parcelas.\n§ 8º - (VETADO)\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1990, revogadas as disposições em contrário, em especial o § 2º do art. 3º da Lei nº 10.423, de 29 de dezembro de 1987.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 28 DE DEZEMBRO DE 1989, 436º DA FUNDAÇÃO DE SÃO PAULO.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10819",
+   "short": "Lei 10819/1989",
+   "title": "Lei nº 10.819, de 28/12/1989 (Dispõe sobre a inscrição e atualização de dados no Cadastro Imobiliário Fiscal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10819-de-28-de-dezembro-de-1989",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1989-10819"
+   ],
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10819-de-28-de-dezembro-de-1989",
+     "sha256": "18d6ff293384338c170968adfaf83fa617ab40cc63573bc6ed691c08a6d91ae0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 10.819 de 28 DE DEZEMBRO DE 1989.\n(Projeto de Lei Nº 553/1989 - EXECUTIVO)\nDispõe sobre a inscrição e atualização de dados no Cadastro Imobiliário Fiscal, e dá outras providências.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faz saber que a Câmara Municipal, em sessão de 20 de dezembro de 1989, decretou e eu promulgo a seguinte lei. Inscrição Imobiliária\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os Impostos Predial e Territorial Urbano e as Taxas de Conservação de Vias e Logradouros Públicos, de Limpeza Pública e de Combate a Sinistros serão lançados com base nos dados do Cadastro Imobiliário Fiscal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Todos os imóveis, construídos ou não, situados na zona urbana do Município, inclusive os que gozem de imunidade ou isenção, devem ser inscritos no Cadastro Imobiliário Fiscal.\n§ 1º Da inscrição, feita em formulário próprio, além de outros dados que venham a ser exigidos, deverão constar:\nI - Nome, qualificação e endereço do proprietário, do titular do domínio útil ou do possuidor a qualquer título;\nII - Dados do título de aquisição da propriedade ou do domínio útil, ou da qualidade em que a posse é exercida;\nIII - Localização do imóvel;\nIV - Área do terreno;\nV - Área construída;\nVI - Endereço para entrega de notificações de lançamento no caso de imóvel não construído.\n§ 2º Ocorrendo modificações de quaisquer dos dados constantes da inscrição, deverá ela ser atualizada, em formulário próprio, observadas as demais condições regulamentares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A inscrição e respectivas atualizações serão promovidas pelo sujeito passivo, nas hipóteses de:\nI - Ocorrência de circunstância que determine a inclusão do imóvel no Cadastro Imobiliário Fiscal, nos termos do art. 2º, dentro do prazo de 60 (sessenta) dias;\nII - Convocação por edital, no prazo nele fixado;\nIII - Intimação, em função de ação fiscal, na forma e prazo regulamentar;\nIV - Modificação de quaisquer dos dados constantes dos incisos I, II, IV e V do § 1º do art. 2º, dentro do prazo de 60 (sessenta) dias;\nV - Modificação dos dados constantes do inciso VI do § 1º do art. 2º, dentro do prazo de 60 (sessenta) dias.\nParágrafo único. A entrega do formulário de inscrição ou atualização não faz presumir a aceitação, pela Administração, dos dados nele declarados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Consideram-se sonegados à inscrição os imóveis cuja inscrição e respectivas atualizações não forem promovidas na forma desta lei, e aqueles cujos formulários de inscrição apresentem falsidade, erro ou omissão quanto a qualquer elemento de declaração obrigatória, ou complementar, quando expressamente exigido.\nParágrafo único. Na hipótese prevista neste artigo, o lançamento dos tributos imobiliários será efetivado com base nos elementos de que dispõe a Administração. Das Infrações e Penalidades\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As infrações às normas relativas aos Impostos Predial e Territorial Urbano sujeitam o infrator às seguintes penalidades:\nI - infrações relativas à apresentação das declarações de inscrição imobiliária, atualização cadastral e demais declarações estabelecidas pela Administração Tributária:\na) multa de R$ 58,80 (cinqüenta e oito reais e oitenta centavos), por declaração, aos que a apresentarem fora do prazo previsto na lei ou no regulamento;\nb) multa de R$ 117,60 (cento e dezessete reais e sessenta centavos), por declaração, aos que deixarem de apresentá-la;\nc) multa equivalente a 50% (cinquenta por cento) do valor do crédito tributário que deixou de ser constituído em função de dados não declarados ou declarados de modo inexato ou incompleto, na forma do regulamento, observada a imposição mínima de R$ 148,20 (cento e quarenta e oito reais e vinte centavos), por declaração, sem prejuízo do lançamento de ofício da diferença de imposto devido;\nII - infrações relativas à ação fiscal:\na) para imóveis utilizados exclusiva ou predominantemente como residência, multa de 0,5% (meio por cento) do valor venal do imóvel no momento da lavratura do respectivo auto de infração, aos que recusarem a exibição de documentos essenciais à apuração de dados do imóvel, embaraçarem a ação fiscal ou não atenderem às convocações efetuadas pela Administração Tributária;\nb) para imóveis com utilização diversa da referida na alínea \"a\", multa de 0,75% (setenta e cinco centésimos por cento) do valor venal do imóvel no momento da lavratura do respectivo auto de infração, aos que recusarem a exibição de documentos essenciais à apuração de dados do imóvel, embaraçarem a ação fiscal ou não atenderem às convocações efetuadas pela Administração Tributária.\n§ 1º Na reincidência da infração a que se refere o inciso II do \"caput\" deste artigo, a penalidade será aplicada em dobro e, a cada reincidência subseqüente, será imposta multa correspondente à reincidência anterior, acrescida de 20% (vinte por cento) sobre o seu valor.\n§ 2º Entende-se por reincidência a nova infração, violando a mesma norma tributária, cometida pelo mesmo infrator, dentro do prazo de 5 (cinco) anos, contado da data em que se tornar definitiva, administrativamente, a penalidade relativa à infração anterior.\n§ 3º No concurso de infrações, as penalidades serão aplicadas conjuntamente, uma para cada infração, ainda que capituladas no mesmo dispositivo legal.\n§ 4º As importâncias fixas, previstas neste artigo, serão atualizadas na forma do disposto no art. 2º da Lei nº 13.105, de 29 de dezembro de 2000.\n§ 5º As infrações e penalidades constantes deste artigo não elidem as demais previstas na legislação tributária específica.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Constatada a ocorrência das infrações previstas no artigo anterior, lavrar-se-á Auto de Infração, na forma regulamentar.\nParágrafo único -\n§ 1º Caso o contribuinte ou o autuado reconheça a procedência do Auto de Infração e Intimação, efetuando o pagamento das importâncias exigidas, dentro do prazo para apresentação de defesa, o valor das multas será reduzido em 50% (cinquenta por cento).\n§ 2º Caso o contribuinte ou o autuado reconheça a procedência do Auto de Infração e Intimação, efetuando o pagamento das importâncias exigidas, no curso da análise da impugnação ou no prazo para interposição de recurso ordinário, o valor das multas será reduzido em 25% (vinte e cinco por cento).\nDisposições Finais\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam anistiadas as infrações previstas no art. 7º, inciso I, da Lei nº 10.208, de 5 de dezembro de 1986, e cancelados os respectivos Autos de Infração lavrados, vedada a restituição parcial ou total das importâncias recolhidas a esse título.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua regulamentação, a ser baixada pelo Executivo dentro de 30 (trinta) dias após sua publicação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Revogam-se as disposições em contrário, em especial a Lei nº 10.208, de 5 de dezembro de 1986.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de Dezembro de 1989, 436º da fundação de São Paulo.\nLUIZA ERUNDINA DE SOUSA, PREFEITA\nHÉLIO PEREIRA BICUDO, Secretário dos Negócios Jurídicos\nAMIR ANTONIO KHAIR, Secretário das Finanças\nLADISLAS DOWBOR, Secretário dos Negócios Extraordinários\nJOSÉ EDUARDO MARTINS CARDOZO, Secretário do Governo Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 10.819, de 28/12/1989 was altered by acts of 5 date(s), the latest 2025-06-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1989-10820",
+   "short": "Lei 10820/1989",
+   "title": "Lei nº 10.820, de 28/12/1989 (Dá nova redação aos artigos 5º e 10 da Lei nº 10.212, de 11 de dezembro de 1.986, já alterados pela Lei nº 10.558, de 17 de junho de 1988.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10820-de-28-de-dezembro-de-1989",
+   "first_law": "lei-1989-10820",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1989-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-10820-de-28-de-dezembro-de-1989",
+     "sha256": "cac09e7d0a1ceaa033bc521d7691a75836608052ec3c615cde60d0076a5cd2d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI 10.820, DE 28 DE DEZEMBRO DE 1.989.\nDá nova redação aos artigos 5º e 10 da Lei nº 10.212, de 11 de dezembro de 1.986, já alterados pela Lei nº 10.558, de 17 de junho de 1988.\nLUIZA ERUNDINA DE SOUSA, Prefeita do Município de São Paulo, usando das atribuições que lhe São conferidas por Lei,\nFaz saber que a Câmara Municipal, em sessão de 22 de dezembro de 1.989, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º o artigo 5º da Lei nº 10.212, de 11 de dezembro de 1.986, já alterado pelo artigo 9º da Lei nº 10.558, de 17 de junho de 1988, passa a vigorar com a seguinte redação:\n\"Art. 5º - Para efeito de cálculo de contribuição de Melhoria, o custo final das obras de pavimentação, relacionadas na Tabela anexa, inclusive os reajustes concedidos na forma da legislação Municipal, será rateado entre os imóveis por ela beneficiados, na proporção da medida linear da testada:\nI. Do bem imóvel sobre a via ou logradouro pavimentado;\nII. Do acesso sobre o alinhamento da via ou logradouro pavimentado, no caso referido no parágrafo 1º do artigo 4º desta Lei.\n§ 1º - Na hipótese referida no item II deste artigo, a Contribuição será dividida igualmente entre os imóveis beneficiados.\n§ 2º - correrão por conta da Prefeitura:\na) as quotas relativas aos imóveis pertencentes ao patrimônio do Município ou isentos da Contribuição de Melhoria;\nb) as importâncias que, em função do limite fixado no § 1º do artigo 10, não puderem ser objeto do lançamento;\nc) a Contribuição que tiver valor inferior a 20% da UFM vigente no mês de emissão da respectiva notificação-recibo;\nd) as importâncias que se referirem a área de beneficio comum;\ne) o saldo remanescente da Contribuição, atribuído à ultima parcela anual, quando inferior a 20% da UFM vigente no mês de emissão da respectiva notificação-recibo.\n§ 3º - as unidades municipais competentes, no prazo máximo de 30 (trinta) dias de sua apuração, sob pena de responsabilidade funcional, deverão encaminhar a Secretaria das Finanças relação detalhada das obras executadas e o correspondente custo final, inclusive reajustes definitivos concedidos, rigorosamente de acordo com a Tabela anexa a esta Lei.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O artigo 10 da Lei nº 10.212, de 11 de dezembro de 1.986, já alterado pelo artigo 9º da Lei nº 10.558, de 17 de junho de 1.988, suprimidos seus parágrafos 4º e 5º, passa a vigorar com a seguinte redação:\n\"Art. 10 - A Contribuição será arrecadada em parcelas anuais, observado o prazo de decadência para constituição do credito tributário, na forma e condições regulamentares.\n§ 1º Nenhuma parcela anual poderá ser superior a 3% (três por cento) do valor do imóvel, apurado para efeito de calculo do Imposto sobre a Propriedade Predial e Territorial Urbana, no exercício da cobrança de cada uma dessas parcelas, desprezados os descontos eventualmente concedidos sobre esse valor em legislação especifica.\n§ 2º - Cada parcela anual será dividida em 12 (doze) prestações mensais, iguais e consecutivas, observado o valor mínimo, por prestação, de 5% (cinco por cento) da UFM vigente no mês de emissão da notificação-recibo.\n§ 3º - O Executivo poderá reduzir o número de prestações mensais, quando a aplicação do parágrafo anterior determinar prestação mensal de valor inferior ao mínimo nele estabelecido.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Ficam cancelados os débitos relativos à Contribuição de melhoria, exigível nos termos da Lei nº 10.212, de 11 de dezembro de 1986, de valor inferior a 20% (vinte por cento) na Unidade de Valor Fiscal do Município de São Paulo - UFM, vigente à data do respectivo fato gerador, vedada a restituição de importâncias recolhidas a esse titulo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 28 de dezembro de 1.989, 436º da Fundação de São Paulo.\nLUIZA ERUNDINA DE SOUSA, Prefeita.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
