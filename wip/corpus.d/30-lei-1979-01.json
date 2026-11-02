@@ -1,0 +1,1966 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "10 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1979-08867": {
+   "label": "Lei nº 8.867, de 20/03/1979",
+   "title": "Reclassifica os cargos de Engenheiro e dispõe sobre normas de progressão funcional dentro da respectiva carreira, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-03-20",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8867-de-20-de-marco-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08884": {
+   "label": "Lei nº 8.884, de 04/04/1979",
+   "title": "APROVA PLANO DE MELHORAMENTOS NO 42º SUBDISTRITO - JABAQUARA; TRANSFERE ÁREAS DA CLASSE DOS BENS PÚBLICOS DE USO COMUM PARA A DOS BENS DOMINICAIS; DISPÕE SOBRE PERMUTA DE ÁREAS; AUTORIZA INTEGRALIZAÇÃO DE AUMENTO DE CAPITAL DA EMPRESA MUNICIPAL DE URBANIZAÇÃO - EMURB, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "1979-04-04",
+   "published": "1979-04-05",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8884-de-4-de-abril-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08893": {
+   "label": "Lei nº 8.893, de 18/04/1979",
+   "title": "Autoriza a concessão administrativa de uso de área municipal do Instituto de Moléstias do Aparelho Digestivo e da Nutrição (Gastroclínica), e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-04-18",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8893-de-18-de-abril-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08900": {
+   "label": "Lei nº 8.900, de 26/04/1979",
+   "title": "Aprova plano de melhoramentos no 26º dubdistrito - Vila Prudente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-04-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8900-de-26-de-abril-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08943": {
+   "label": "Lei nº 8.943, de 11/07/1979",
+   "title": "Dispõe sobre alterações no Quadro de Pessoal do Legislativo (QPL), e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-07-11",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8943-de-11-de-julho-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08968": {
+   "label": "Lei nº 8.968, de 19/09/1979",
+   "title": "Aprova Plano de Melhoramentos no 6 Subdistrito - Brás, transfere áreas da classe de bens públicos de uso comum do povo para dos bens dominicais, dispõe sobre permuta de áreas com a Companhia do Metropolitano de São Paulo - Metrô, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-09-19",
+   "published": "1979-09-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8968-de-19-de-setembro-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08979": {
+   "label": "Lei nº 8.979, de 03/10/1979",
+   "title": "Dispõe sobre a transferência de edificações do Setor de Edificações Irregulares do Cadastro de Edificações do Município - CEDI, para o Setor de Edificações Regulares, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-10-03",
+   "published": "1979-10-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8979-de-3-de-outubro-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08989": {
+   "label": "Lei nº 8.989, de 29/10/1979",
+   "title": "Dispõe sobre o estatuto dos funcionários públicos do município de São Paulo, e dá providências correlatas.",
+   "kind": "law",
+   "enacted": "1979-10-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8989-de-29-de-outubro-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-08990": {
+   "label": "Lei nº 8.990, de 31/10/1979",
+   "title": "Aprova plano de fixação de alinhamento na confluência das Avenidas das Nações Unidas e dos Bandeirantes, no 30º subdistrito - Ibirapuera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-10-31",
+   "published": "1979-11-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8990-de-31-de-outubro-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1979-09010": {
+   "label": "Lei nº 9.010, de 12/12/1979",
+   "title": "Modifica o alinhamento da Rua Pirajá, aprovado pela Lei nº 8721, de 16 de maio de 1978, no 33º subdistrito - Alto da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1979-12-12",
+   "published": "1979-12-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9010-de-12-de-dezembro-de-1979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1979-08867",
+   "short": "Lei 8867/1979",
+   "title": "Lei nº 8.867, de 20/03/1979 (Reclassifica os cargos de Engenheiro e dispõe sobre normas de progressão funcional dentro da respectiva carreira, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8867-de-20-de-marco-de-1979",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1979-08867"
+   ],
+   "versions": [
+    {
+     "from": "1980-12-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8867-de-20-de-marco-de-1979",
+     "sha256": "f99c48c1c9809f32fc3d06a867585d654c90bb121745876acfd6d72b52af4c58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.867, DE 20 DE MARÇO DE 1979.\nReclassifica os cargos de Engenheiro e dispõe sobre normas de progressão funcional dentro da respectiva carreira, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 7 de março de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O parágrafo único do artigo 18 da Lei nº 8183, de 20 de dezembro de 1974, fica acrescido de mais um inciso, de nº VII, com a seguinte redação:\n\"VII - Tempo de serviço prestado em órgãos da administração direta em cargos da carreira, não vinculados à linha do acesso, e como extranumerário-mensalista ou contratado, em funções correspondentes às da respectiva carreira\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de março de 1979, 426º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Jurídicos, Maria Kadunc\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário Municipal de Educação, Hilário Torloni\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa\nO Secretário de Serviços e Obras, Aurélio Araújo\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino\nO Secretário Municipal de Esportes, Sérgio Barbour\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi\nO Secretário das Administrações Regionais, respondendo pelo expediente, José Carlos Conceição Morato Leite\nO Secretário da Habitação e Desenvolvimento Urbano, Ernest Robert de Carvalho Mange\nO Secretário de Serviços Internos, Hélio Martins de Oliveira\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 20 de março de 1979.\nO Secretário-Chefe do Gabinete, Luis Filipe Soares Baptista.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.867, de 20/03/1979 was altered by acts of 1 date(s), the latest 1980-12-04."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08884",
+   "short": "Lei 8884/1979",
+   "title": "Lei nº 8.884, de 04/04/1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8884-de-4-de-abril-de-1979",
+   "first_law": "lei-1979-08884",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1979-04-05",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8884-de-4-de-abril-de-1979",
+     "sha256": "787930968ff4a7b1b2fb7c41f7aa20ab8bdc6926a3e90e822781610b8bebce40",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8884, DE 4 DE ABRIL DE 1979.\nAPROVA PLANO DE MELHORAMENTOS NO 42º SUBDISTRITO - JABAQUARA; TRANSFERE ÁREAS DA CLASSE DOS BENS PÚBLICOS DE USO COMUM PARA A DOS BENS DOMINICAIS; DISPÕE SOBRE PERMUTA DE ÁREAS; AUTORIZA INTEGRALIZAÇÃO DE AUMENTO DE CAPITAL DA EMPRESA MUNICIPAL DE URBANIZAÇÃO - EMURB, E DÁ OUTRAS PROVIDÊNCIAS.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 22 de março de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs. 26.021/1, 26.021/.2, 26.021/3 e 26.021/4-J-590, do arquivo da Superintendência de Projetos Viários, fica aprovado o seguinte plano de melhoramentos, no 42º subdistrito - Jabaquara:\nI - Abertura de via, com largura variável de 36,00 a 40,00 metros, ligando a via de que trata o item XIII do artigo 1º da Lei nº 7.691, de 5 de janeiro de 1972, à Avenida Engenheiro Armando de Arruda Pereira, na extensão aproximada de 75,00 metros;\nII - Fixação de alinhamento da Rua Guaratuba, face leste, no trecho compreendido entre mais ou menos, 27,00 metros aquém da Rua Ibirajá e esta;\nIII - Retificação de alinhamento da Rua das Carnaube as, face sul, no trecho compreendido entre a Avenida Engenheiro Armando de Arruda Pereira e, mais ou menos, 8,00 metros além desta;\nIV - Formação de logradouro público junto à via de que trata o item XIII do artigo 1º da Lei nº 7.691, de 5 de janeiro de 1972, e a Avenida Engenheiro Armando de Arruda Pereira, incorporando trecho da Rua Guajuviras;\nV - Abertura de via, com a largura de 12,00 metros, ligando a Avenida General Daltro Filho à Rua Cruz das Almas, na extensão aproximada de 100,00 metros;\nVI - Fixação de alinhamento da Rua Cruz das Almas, no trecho compreendido entre o alinhamento da Avenida Engenheiro George Corbisier, aprovado pela Lei nº 8524, de 3 de janeiro de 1977, e a Rua dos Buritis, face sul, com largura básica de 11,00 metros e extensão aproximada de 90,00 metros;\nVII - Alargamento da Rua Cruz das Almas, no trecho compreendido entre a Rua dos Buritis e a Avenida Francisco de Paula Quintanilha Ribeiro, com largura básica de 17,00 metros e extensão aproximada de 230,00 metros;\nVIII - Formação de praça de manobras na Rua dos Lingustros;\nIX - Fixação de alinhamento da via em prolongamento da rua 4, face leste, no trecho compreendido entre as Ruas Ibiracema e das Seringueiras, com largura de 15,00 metros e extensão aproximada de 65,00 metros;\nX - Alargamento da Rua das Seringueiras, para 17,00 metros, no trecho compreendido entre a via em prolongamento da rua 4, mencionada no item anterior, e a rua de cuja abertura trata o item seguinte, na extensão aproximada de 280,00 metros;\nXI - Abertura de rua para pedestres, ligando a Rua das Seringueiras à Avenida Francisco de Paula Quintanilha Ribeiro, na extensão aproximada de 140,00 metros;\nXII - Fixação de alinhamento da Avenida Francisco de Paula Quintanilha Ribeiro, face oeste, no trecho compreendido entre aproximadamente 113,00 metros aquém da rua para pedestres referido no item anterior a esta;\nXIII - Fixação de alinhamento do trecho em prolongamento da Avenida Engenheiro Armando de Arruda Pereira, aprovado pela Lei nº 8515, de 3 de janeiro de 1977, face leste, entre mais ou menos 57,00 metros além da Rua Eurico e a Rua Coronel Luiz de Faria e Souza, na extensão aproximada de 25,00 metros;\nXIV - Fechamento das seguintes vias:\na) Rua Ibirajá - no cruzamento com a via de que trata o item XIII do artigo 1º da Lei nº 7.691, de 5 de janeiro de 1972, e na confluência com as Ruas Guaratuba e Guatapará;\nb) Rua Guatapará - no cruzamento com a via de que trata o item XIII do artigo 1º da Lei nº 7.691, de 058 de janeiro de 1972, e na confluência com as Ruas Guaratuba e Ibirajá;\nc) Avenida Engenheiro Armando de Arruda Pereira - no cruzamento com o logradouro a que se refere o item IV, e no entroncamento com a Rua das Carnaubeiras, bem como nos cruzamentos coma Rua Coronel Luiz de Faria e Souza e com o trecho em prolongamento da Avenida Engenheiro Armando de Arruda Pereira, aprovado pela Lei nº 8.515, de 3 de janeiro de 1977;\nd) Travessa Guajuviras - No entroncamento com o logradouro mencionado no item IV;\ne) Rua Coronel Luiz de Faria e Souza - no entroncamento com a Rua Eurico e no cruzamento com o trecho em prolongamento da Avenida Engenheiro Armando de Arruda Pereira, aprovado pela Lei nº 8.515, de 3 de janeiro de 1977;\nXV - Supressão das áreas ajardinadas, aprovadas pela Lei nº 8.515, de 3 de janeiro de 1977, nos cruzamentos do trecho em prolongamento da Avenida Engenheiro Armando de Arruda Pereira com as Ruas Eurico e Coronel Luiz de Faria e Souza.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas nas plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados, nos trechos indicados nas referidas plantas nºs 26.021/1-J-590 e 26.021/4-J-590, os alinhamentos estabelecidos pelas Leis nº 7.262, de 10 de janeiro de 1969, 7.691, de 5 de janeiro de 1972, 8.515, de 3 de janeiro de 1977, e 8.672, de 27 de dezembro de 1977.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam desincorporadas da classe dos bens de uso comum do povo, e transferidas para a dos bens dominicais do Município, as áreas a seguir descritas:\nI - Área Armando de Arruda Pereira, configurada nas plantas anexas nºs A-5.140 e A-5.138, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\na) área delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, com cerca de 656,08m² (seiscentos e cinquenta e seis metros e oito decímetros quadrados);\nb) área delimitada pelo perímetro 9-10-11-12-13-14-15-9, com cerca de 599,00m² (quinhentos e noventa e nove metros quadrados);\nII - Área Conceição, configurada nas plantas anexas nºs A-5139, A-5145 e A-5146, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\na) área delimitada pelo perímetro 23-24-25-26-27-28-29-23, com cerca de 1225,00m² (um mil, duzentos e vinte e cinco metros quadrados);\nb) área delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-1, com cerca de 2262,50m² (dois mil, duzentos e sessenta e dois metros e cinquenta decímetros quadrados);\nc) área delimitada pelo perímetro 31-32-33-34-35-36-30-31, com cerca de 459,56m² (quatrocentos e cinquenta e nove metros e cinquenta e seis decímetros quadrados);\nIII - Área Sítio da Ressaca, configurada nas plantas anexas nºs A5.143 e A-5.144, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\na) área delimitada pelo perímetro 29-30-31-29, com cerca de 400,00m² (quatrocentos metros quadrados);\nb) área delimitada pelo perímetro 55-56-57-58-59-60-55, com cerca de 1.175,00m² (um mil, cento e setenta e cinco metros quadrados).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica o Executivo autorizado a permutar áreas municipais por outras áreas, de propriedade da Empresa Municipal de Urbanização - EMURB, todas abaixo indicadas, e que assim se descrevem:\nI - ÁREAS DE PROPRIEDADE DO MUNICÍPIO\na) Área Conceição, configurada na planta anexa nº A-5.142, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\n1 - área I, com cerca de 2.262,50m² (dois mil duzentos e sessenta e dois metros e cinquenta decímetros quadrados), delimitada pelo perímetro 1-2-3-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-1;\n2 - área IV, com cerca de 1.225,00m² (um mil duzentos e vinte e cinco metros quadrados), delimitada pelo perímetro 41-42-43-44-45-35-41;\n3 - área V, com cerca de 1.157,30m² (um mil cento e cinquenta e sete metros e trinta decímetros quadrados), delimitada pelo perímetro 46-47-48-49-50-51-52-53-54-55-66-57-46;\n4 - área VI, com cerca de 501,30m² (quinhentos e um metros e trinta decímetros quadrados), delimitada pelo perímetro 58-59-60-51-61-62-58;\n5 - área VII, com cerca de 650,00m² (seiscentos e cinquenta metros quadrados), delimitada pelo perímetro 60-63-64-60;\n6 - área XII, com cerca de 202,50m² (duzentos e dois metros e cinquenta decímetros quadrados), delimitada pelo perímetro 80-81-82-83-80;\n7 - área XIV, com cerca de 703,52m² (setecentos e três metros e cinquenta e dois decímetros quadrados), delimitada pelo perímetro 86-87-88-89-90-86;\nb) área do Sítio da Ressaca, configurada nas plantas anexas nºs A-5143 e A-5144, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\n1 - área V, com cerca de 400,00m² (quatrocentos metros quadrados), delimitada pelo perímetro 29-30-31-29;\n2 - área VIII com cerca de 1175,00m² (um mil cento e setenta e cinco metros quadrados), delimitada pelo perímetro 55-56-57-58-59-60-55;\nc) área Armando de Arruda Pereira, configurada na planta anexa nº A-5.141, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\n1 - área I, com cerca de 2524,80m² (dois mil quinhentos e vinte e quatro metros e oitenta decímetros quadrados), delimitada pelo perímetro 1-2-3-4-5-6-7-8-9-10-11-12-1;\n2 - área II, com cerca de 1056,70m² (um mil e cinquenta e seis metros e setenta decímetros quadrados), delimitada pelo perímetro 13-14-15-16-17-18-13;\n3 - área III, com cerca de 689,00m² (seiscentos e oitenta e nove metros quadrados), delimitada pelo perímetro 19-20-21-22-23-24-19;\n4 - área IV, com cerca de 17,50m² (dezessete metros e cinquenta decímetros quadrados), delimitada pelo perímetro 25-26-27-25;\n5 - área V, com cerca de 88,85m² (oitenta e oito metros e oitenta e cinco decímetros quadrados), delimitada pelo perímetro 29-30-26-29;\nII - ÁREAS DE PROPRIEDADE DA EMURB:\na) área Conceição, configurada na planta anexa nº A-5142, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\n1 - área II, com cerca de 654,30m² (seiscentos e cinquenta e quatro metros e trinta decímetros quadrados), delimitada pelo perímetro 3-23-24-25-13-12-4-3;\n2 - área III, com cerca de 3500,37m² (três mil e quinhentos metros e trinta e sete decímetros quadrados), delimitada pelo perímetro 26-27-28-29-30-31-32-33-34-35-36-37-38-18-39-40-15-26;\n3 - área VIII, com cerca de 344,10m² (trezentos e quarenta e quatro metros e dez decímetros quadrados), delimitada pelo perímetro 64-65-66-64;\n4 - área IX, com cerca de 1192,34m² (um mil cento e noventa e dois metros e trinta e quatro decímetros quadrados), delimitada pelo perímetro 67-68-69-70-59-67;\n5 - área X, com cerca de 1152,30m² (um mil cento e cinquenta e dois metros e trinta decímetros quadrados), delimitada pelo perímetro 71-72-73-74-58-47-75-71;\n6 - área XI, com cerca de 513,05m² (quinhentos e treze metros e cinco decímetros quadrados), delimitada pelo perímetro 56-76-77-78-79-56;\n7 - área XIII, com cerca de 166,36m² (cento e sessenta e seis metros e trinta e seis decímetros quadrados), delimitada pelo perímetro 81-84-85-86-81;\n8 - área XV, com cerca de 152,17m² (cento e cinquenta e dois metros e dezessete decímetros quadrados), delimitada pelo perímetro 91-92-93-91;\nb) Área do Sítio da Ressaca, configurada nas plantas anexas nºs A-5143 e A-5.144, do arquivo da Divisão de Engenharia Patrimonial, compreendendo:\n1 - área I, com cerca de 1200,00m² (um mil e duzentos metros quadrados), delimitada pelo perímetro 1-2-3-4-5-6-7-8-1;\n2 - área II, com cerca de 804,00m² (oitocentos e quatro metros quadrados), delimitada pelo perímetro 9-10-11-12-13-14-15-16-17-18-9;\n3 - área III, com cerca de 125,00m² (cento e vinte e cinco metros quadrados), delimitada pelo perímetro 19-20-21-19;\n4 - área IV, com cerca de 450,00m² (quatrocentos e cinquenta metros quadrados), delimitada pelo perímetro 22-23-24-25-26-27-28-22;\n5 - área VI, com cerca de 565,00m² (quinhentos e sessenta e cinco metros quadrados), delimitada pelo perímetro 31-32-33-34-35-36-37-31;\n6 - área VII, com cerca de 3625,00m² (três mil seiscentos e vinte e cinco metros quadrados), delimitada pelo perímetro 38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56-38;\nc) área Armando de Arruda Pereira, configurada na planta anexa nº A-5141, do arquivo da Divisão de Engenharia Patrimonial compreendendo:\n1 - área VI, com cerca de 2,20m² (dois metros e vinte decímetros quadrados), delimitada pelo perímetro 31-13-2-31;\n2 - área VII, com cerca de 5,50m² (cinco metros e cinquenta decímetros quadrados), delimitada pelo perímetro 21-27-28-21.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As áreas referidas no artigo anterior foram avaliadas pelo órgão competente em 10,772 UPC/m² o valor unitário médio único, correspondente a Cr$ 3267,00/m² nesta data, sendo que as áreas municipais perfazem 12.653,97m², e as áreas da Empresa Municipal de Urbanização - EMURB 14.451,69m², resultando uma diferença de 1797,72m² a favor da referida Empresa, correspondente a 19.365,04 UPC, equivalente a Cr$ 5.873.222,90, nesta data.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º À referida no artigo anterior, no valor de Cr$ 5873.222,90 (cinco milhões, oitocentos e setenta e três mil, duzentos e vinte e dois cruzeiros e noventa centavos), entrará como integralização do aumento de capital da Empresa Municipal de Urbanização - EMURB, já autorizado por lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Prefeitura e a Empresa Municipal de Urbanização - EMURB ficam obrigadas, respectivamente, a prosseguir, até final, com as ações expropriatórias ainda em andamento, relativas às áreas permutadas, arcando, cada qual, com os decorrentes encargos processuais e indenizatórios.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Todas as plantas mencionadas nos artigos 1º, 4º e 5º, rubricadas pelo Presidente da Câmara e pelo Prefeito, ficam fazendo parte integrante desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 4 de abril de 1979, 426º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal.\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário da Habitação e Desenvolvimento Urbano, Ernest Robert de Carvalho Mange.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 4 de abril de 1979.\nO Secretário-Chefe do Gabinete, Luis Filipe Soares Baptista.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08893",
+   "short": "Lei 8893/1979",
+   "title": "Lei nº 8.893, de 18/04/1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8893-de-18-de-abril-de-1979",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1979-08893"
+   ],
+   "versions": [
+    {
+     "from": "1987-03-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8893-de-18-de-abril-de-1979",
+     "sha256": "af2beefb4293c83401bb52e6bbcbce7d7a07fa38f141adc5544b239d58724ff1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8893, DE 18 DE ABRIL DE 1979.\nAutoriza a concessão administrativa de uso de área municipal do Instituto de Moléstias do Aparelho Digestivo e da Nutrição (Gastroclínica), e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 3 de abril de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a ceder ao Instituto de Moléstias do Aparelho Digestivo e da Nutrição (Gastroclínica), mediante concessão administrativa, independentemente de concorrência, pelo prazo de 80 (oitenta) anos, o uso de área de propriedade municipal, situada à Rua Professor Ascendino Reis - Vila Clementino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área referida no artigo anterior, configurada na planta anexa nº A-5.070, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-2-3-4-5-6-7-8-1, de formato irregular, com cerca de 23.900,00m² (vinte e três mil e novecentos metros quadrados), confrontando, para quem de dentro da área olha para a Rua Borges Lagoa: pela frente (linha mista 2-3-4-5), na extensão total aproximada de 251,00 metros, assim parcelada: trecho curvo 2-3, na extensão aproximada de 4,50 metros, formado pela concordância de alinhamentos das Ruas Professor Ascendino Reis e Borges Lagoa, com o leito dessas mesmas vias, trecho curvo 3-4, na extensão aproximada de 240,00 metros, segundo o alinhamento da Rua Borges Lagoa, com o leito dessa mesma via, e trecho curvo 4-5, na extensão aproximada de 6,50 metros, formado pela concordância de alinhamentos das Ruas Borges Lagoa e Projetada, com o leito dessas mesmas vias; pelo lado direito (linha mista 5-6-7), na extensão total aproximada de 124,50 metros, assim parcelada: trecho reto 5-6, na extensão aproximada de 120,00 metros, segundo o alinhamento da Rua Projetada, com o leito dessa mesma via, e trecho curvo 6-7, na extensão aproximada de 4,50 metros, formado pela concordância de alinhamentos das Ruas Projetada e Diogo de Faria, com o leito dessas mesmas vias; pelo lado esquerdo (linha mista 8-1-2), na extensão total aproximada de 118,50 metros, assim parcelada: trecho curvo 8-1, na extensão aproximada de 6,50 metros, formado pela concordância de alinhamentos das Ruas Diogo de Faria e Professor Ascendino Reis, com o leito dessas mesmas vias, e trecho reto 1-2, na extensão aproximada de 112,00 metros, segundo o alinhamento da Rua Professor Ascendino Reis, com o leito dessa mesma via; pelos fundos (linha curva 7-8), na extensão aproximada de 160,00 metros, segundo o alinhamento da Rua Diogo de Faria, com o leito dessa mesma via.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das condições que forem exigidas pela Prefeitura, por ocasião da lavratura do instrumento de concessão, a concessionária fica obrigada:\na) a utilizar a área descrita no artigo anterior para funcionamento de sua sede, inclusive com seção hospitalar, com capacidade mínima de 200 (duzentos) leitos;\nb) a manter, com recursos próprios ou angariados, as atividades a que se refere a alínea anterior;\nc) a fornecerá Prefeitura, independentemente de qualquer remuneração, normas técnicas, orientação, exames especializados e quaisquer outras providências de caráter científico para os vários Departamentos da Prefeitura, quando por estes solicitadas;\nd) a prestar, nas condições da letra anterior, serviços especializados e somente disponíveis em instalações da concessionária, para atender servidores inscritos no Hospital do Servidor Público Municipal;\ne) a zelar pela limpeza e conservação do imóvel, devendo providenciar, às suas expensas, quaisquer obras de manutenção que se fizerem necessárias;\nf) a não permitir que terceiros se apossem do Imóvel, bem como a dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verifique;\ng) a não ceder o imóvel, no todo ou em parte, a terceiros;\nh) a arcar com todas as despesas oriundas da concessão, inclusive as de registro do competente instrumento;\ni) a responder, perante o Poder Público, por todos os impostos e taxas referentes ao imóvel.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A extinção ou dissolução da entidade concessionária, a alteração do destino do imóvel, a inobservância das condições estabelecidas nesta lei ou das cláusulas que constarem do instrumento de concessão, implicarão na perda imediata do uso e gozo do imóvel, rescindida, de pleno direito, a concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Nos casos previstos no artigo anterior, bem como findo o prazo da concessão, e não havendo prorrogação, o imóvel será restituído ao Município, incorporando-se ao seu patrimônio todas as benfeitorias nele construídas, mesmo que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, seja a que título for.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica a Prefeitura com o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estatuídas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas a Lei nº 5.736, de 23 de agosto de 1960, e demais disposições em contrário.\nPrefeitura do Município de São Paulo, aos 18 de abril de 1979, 426º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Jurídicos, Maria Kadunc\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 18 de abril de 1979.\nO Secretário-Chefe do Gabinete, Luis Filipe Soares Baptista.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.893, de 18/04/1979 was altered by acts of 1 date(s), the latest 1987-03-26."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08900",
+   "short": "Lei 8900/1979",
+   "title": "Lei nº 8.900, de 26/04/1979 (Aprova plano de melhoramentos no 26º dubdistrito - Vila Prudente, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8900-de-26-de-abril-de-1979",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1979-08900"
+   ],
+   "versions": [
+    {
+     "from": "1987-09-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8900-de-26-de-abril-de-1979",
+     "sha256": "2b08f2f271bdf571a1154bd0534bd9a4a03881edf618db26f92462b28cc4ebfb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8900, DE 26 DE ABRIL DE 1979.\nAprova plano de melhoramentos no 26º dubdistrito - Vila Prudente, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei,\nFaço saber que a Câmara Municipal, em sessão de 10 de abril de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 26.047/1 e 26.047/2- T.1.109, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado plano de melhoramentos no 26º subdistrito - Vila Prudente, consistente no seguinte:\nI - Abertura de avenida em prolongamento da avenida ao longo do Córrego Tatuapé - aprovada pela Lei nº 7181, de 17 de setembro de 1968, modificada pela Lei nº 8721, de 16 de maio de 1978 - com largura básica de 42,00 metros, no trecho compreendido entre a Rua do Orfanato e a Avenida Professor Luiz Ignácio Anhaia Melo - avenida ao longo do Córrego da Moóca -, na extensão aproximada de 780,00 metros;\nII - Modificação do alinhamento da Avenida Professor Luiz Ignácio Anhaia Melo - avenida ao longo do Córrego da Moóca - aprovada pela Lei nº 5494, de 25 de abril de 1958, no trecho compreendido entre 80,00 metros aquém da Rua Francisco Polito e a Travessa Dr. Almeida Sales, na extensão aproximada de 550,00 metros;\nIII - Formação de praça no entroncamento das avenidas de que tratam os itens I e II, destinada à implantação de sistema viário e obras complementares de ajardinamento.\nParágrafo Único - Ficam, igualmente, aprovadas as concordâncias de alinhamentos e as áreas ajardinadas constantes das plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As construções, reconstruções ou reformas que se fizerem nos lotes lindeiros às avenidas e praças de que tratam os itens I, II e III do artigo 1º, e às áreas ajardinadas indicadas nas plantas integrantes desta lei, não poderão ter, para elas, qualquer modalidade de acesso ou abertura, sendo-lhes permitida, somente, servidão de luz e ar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados, nos trechos indicados nas plantas referidas no artigo 1º, os alinhamentos estabelecidos pela Lei nº 5494, de 25 de abril de 1958.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 26 de abril de 1979, 426º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Jurídicos, Maria Kadunc\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 26 de abril de 1979.\nO Secretário-Chefe do Gabinete, Luis Filipe Soares Baptista.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.900, de 26/04/1979 was altered by acts of 1 date(s), the latest 1987-09-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08943",
+   "short": "Lei 8943/1979",
+   "title": "Lei nº 8.943, de 11/07/1979 (Dispõe sobre alterações no Quadro de Pessoal do Legislativo (QPL), e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8943-de-11-de-julho-de-1979",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1979-08943"
+   ],
+   "versions": [
+    {
+     "from": "1983-12-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8943-de-11-de-julho-de-1979",
+     "sha256": "027bb699a01734027908353b2cddd1c9bc9834fe4da53caad7d749beedd720d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.943, DE 11 DE JULHO DE 1979.\nDispõe sobre alterações no Quadro de Pessoal do Legislativo (QPL), e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 28 de julho de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Uma vez realizadas as transformações de cargos decorrentes de lei e as transferências de funcionários ora determinadas, ficarão excluídos do Anexo II a que se refere a Lei nº 8.184, de 20 de dezembro de 1974, os seguintes cargos:\na) - no Grupo I:\nAssessor-Chefe de Relações Públicas\nDiretor Técnico de Departamento (Recursos Humanos)\nb) - no Grupo II:\nPsicólogo\nc) - no Grupo III:\nAlmoxarife-Chefe\nAuxiliar de Relações Públicas\nChefe de Seção (Radiofonia)\nRádio-Técnico\nRádio-Técnico Encarregado\nRevisor\nTaquígrafo de Debates\nTesoureiro-Chefe\nd) - no Grupo IV:\nAuxiliar de Laboratório\nAuxiliar de Microfilmagem\nEncarregado de Barbearia\nEncarregado de Marcenaria\nEncarregado de Oficina\nEncarregado de Serviços de Eletricidade\nEncarregado de Zeladoria\nMotorista\nOperador (Equipamentos Áudio-Visuais)\nOperador (Máquinas Reprográficas)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam incluídos no Anexo II a que se refere a Lei nº 8.184, de 20 de dezembro de 1974, os seguintes cargos:\na) - no Grupo I:\nAuxiliar de Gabinete de Subsecretária, ref. DA-1 PP-I\nOficial de Gabinete de Subsecretária, ref. DA-4 PP-I\nb) no Grupo II:\nChefe de Seção Técnica I, ref. 22 PP-II\nChefe de Seção Técnica I (Radiofonia), ref. 22 PP-II\nc) - no Grupo III:\nAuxiliar de Secretaria, ref. 15 PP-VI\nAssistente Técnico de Radiofonia, ref. DA-5 PP-II\nSubencarregado de Setor, ref. 15 (Garage) PP-VI\nAssistente de Chefia Técnica, ref. 20 PP-VI\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Conservada, salvo expressa disposição em contrário, a lotação anterior, bem como a situação no Grupo e Tabela respectiva, ficam transformados os seguintes cargos:\na) Assistente, em Assistente de Departamento, ref. DA-7\nb) Auxiliar de Plenário-Encarregado, em Encarregado de Setor (Plenário), ref. 17\nc) Chefe de Seção Técnica (Folhas de Pagamento), em Chefe de Seção Técnica II (Folhas de Pagamento)\nd) Chefe de Seção Técnica (Radiofonia), em Chefe de Seção Técnica II (Radiofonia)\ne) Chefe de Seção Técnica (Taquigrafia), em Chefe de Seção Técnica II (Taquigrafia)\nf) Encarregado Geral, em Chefe de Seção, ref. 19\ng) Fotógrafo, em Técnico de Fotografia, ref. 17\nh) Telefonista, em Telefonista-Encarregada, ref. 13\ni) Garção, em Garção Encarregado, ref. 15.\nParágrafo Único. Os cargos enumerados nas alíneas \"c\", \"d\" e \"e\" conservarão a referência em que estão atualmente classificados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam incluídos no Anexo III a que se refere a Lei nº 8.184, de 20 de dezembro de 1974:\na) na coluna \"Situação Atual\", os seguintes cargos:\n01 - Almoxarife-Chefe\n02 - Assistente de Administração\n03 - Atendente\n04 - Auxiliar de Enfermagem\n05 - Auxiliar Legislativo\n06 - Chefe de Seção\n07 - Contínuo\n08 - Encarregado de Barbearia\n09 - Encarregado de Marcenaria\n10 - Encarregado de Oficina\n11 - Encarregado de Serviços de Eletricidade\n12 - Encarregado de Setor\n13 - Encarregado de Zeladoria\n14 - Extranumerário-mensalista\n15 - Garção\n16 - Motorista Oficial\n17 - Oficial Legislativo\n18 - Rádio-Técnico\n19 - Rádio-Técnico Encarregado\n20 - Revisor\n21 - Secretário\n22 - Telefonista Encarregada\n23 - Tesoureiro-Chefe\nb) na coluna \"Situação Nova\", os seguintes cargos:\n01 - Chefe de Seção Técnica I\n02 - Oficial Legislativo\n03 - Auxiliar de Secretaria\n04 - Chefe de Seção\n05 - Assistente de Administração\n06 - Chefe de Seção Técnica I\n07 - Atendente\n08 - Chefe de Seção\n09 - Encarregado de Setor\n10 - Encarregado de Setor\n11 - Encarregado de Setor\n12 - Chefe de Seção\n13 - Encarregado de Setor\n14 - Oficial Legislativo\n15 - Garção Encarregado\n16 - Subencarregado de Setor (Garage)\n17 - Assistente de Chefia Técnica\n18 - Assistente Técnico de Radiofonia\n19 - Chefe de Seção Técnica I (Radiofonia)\n20 - Assistente de Chefia Técnica\n21 - Chefe de Seção Técnica I\n22 - Encarregado de Setor\n23 - Chefe de Seção Técnica I\n§ 1º - Os cargos incluídos na coluna \"Situação Atual\" que não correspondem à atual nomenclatura, referem-se aos existentes na data da Lei nº 8.184, de 20 de dezembro de 1974, cujos titulares não tenham sido elevados a cargos de referência igual ou superior aos mencionados na coluna \"Situação Nova\".\n§ 2º - Prevalece, para as transferências ora determinadas, a ressalva estabelecida no art. 11 da Lei nº 8724/78 e a favor dos atuais titulares.\n§ 3º - Os cargos enumerados no item \"a\" que se vagarem em razão da transferência ora autorizada serão considerados extintos.\n§ 4º -\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam fixadas as lotações dos seguintes cargos:\n________________________________________\nAssessor em Assuntos Econômicos |03\nAssessor em Assuntos Educacionais |04\nAssistente de Administração |60\nAuxiliar de Gabinete de Subsecretária|21\nAuxiliar Legislativo |60\nMotorista Oficial |30\nOficial de Gabinete de Subsecretária |21\nOficial Legislativo |60\n_____________________________________|__\nParágrafo Único. As lotações dos cargos enumerados na alínea \"b\" do art. 4º passam a ser iguais às fixadas antes desta lei para os cargos correspondentes constantes da alínea \"a\".\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Ficam reclassificados na referência 15 os cargos de Auxiliar de Plenário, na referência 20 os cargos de Pesquisador e na referência 22 os cargos de Chefe de Secretaria.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Passa a ter a seguinte redação o artigo 2º da Lei nº 8.724, de 22 de maio de 1978:\n\"Art. 2º - Para os efeitos da presente lei considera-se:\nI - Acesso, a elevação do funcionário, dentro do QPL, a cargo de maior responsabilidade e maior complexidade de atribuições;\nII - Linha de acesso, o conjunto de classes dispostas em níveis hierárquicos sucessivos, sendo obrigatório o provimento dos cargos de uma classe por titulares dos cargos imediatamente inferior;\nIII - Classe, o conjunto de cargos da mesma denominação e atribuições iguais ou assemelhadas.\n§ 1º - Uma classe será considerada inicial, para o acesso, quando os cargos das classes inferiores estiverem vagos.\n§ 2º - Os cargos da classe inicial das linhas de acesso poderão, a critério da Mesa, ser providos por concurso de acesso, desde que satisfeitos os requisitos previstos em lei\".\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Desde que não haja prejuízo para servidores da Secretaria da Câmara, os cargos do QPL poderão ser providos por funcionários estáveis do Município de São Paulo que tenham prestado serviços à Câmara, mediante designação formalizada, durante pelo menos 4 (quatro) anos.\nParágrafo Único. Os funcionários do Município de São Paulo que passaram ou passem a integrar o QPL conservarão o grau já anteriormente atingido no serviço municipal.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O exercício de cargo, em substituição ou em caráter transitório, só poderá ocorrer quando imprescindível e satisfeitas as seguintes condições:\na) o cargo estiver vago ou o seu titular dele legalmente afastado;\nb) o cargo não pertencer à classe inicial de uma linha de acesso;\nc) houver designação formal da autoridade competente para nomear;\nd) o funcionário designado for titular efetivo de cargo do QPL e pertencer à mesma linha de acesso do cargo substituído.\nParágrafo Único. Durante o período de exercício, o funcionário receberá a diferença de vencimentos entre o seu cargo e o de referência superior, assegurado o direito de opção pelos vencimentos do cargo efetivo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Fica acrescentado ao art. 11 da Lei nº 8.724, de 22 de maio de 1978, o item \"q\" e § 3º com a seguinte redação:\n\"q) diploma de curso de nível universitário e inscrição no órgão que regula o exercício profissional para: Chefe de Seção Técnica II, Chefe de Seção Técnica I e Chefe de Secretaria\".\n\"§ 3º - Os requisitos do item \"q\" deste artigo não serão exigidos dos funcionários que, até 31 de dezembro de 1978, eram titulares de cargos pertencentes às duas classes imediatamente inferiores das respectivas linhas de acesso\".\nParágrafo Único. O parágrafo 2º do mesmo artigo passa a vigorar com a seguinte redação:\n\"§ 2º - Os requisitos constantes da letra \"n\" deste artigo não serão exigidos dos funcionários que, até 31 de dezembro de 1978, eram titulares efetivos de cargos de direção e chefia, respeitados os direitos dos que, na data da Lei nº 8.828/78, eram portadores de títulos de nível universitário\".\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As linhas de acesso constantes do Anexo I a que se refere à Lei nº 8.724, de 22 de maio de 1978, ficam alteradas de modo a torná-las adequadas às modificações introduzidas na presente lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - As pensões vitalícias pagas pela Câmara ficam reajustadas nas mesmas bases em que foram pagas pela Prefeitura por força do disposto no art. 4º da Lei nº 8.898, de 26 de abril de 1979.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os benefícios decorrentes das reclassificações ora aprovadas são extensivos aos inativos.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 11 de julho de 1979, 426º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal\nO Secretário dos Negócios Jurídicos, Maria Kadunc\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 11 de julho de 1979.\nO Secretário -Chefe do Gabinete, Luis Filipe Soares Baptista.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.943, de 11/07/1979 was altered by acts of 3 date(s), the latest 1983-12-23."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08968",
+   "short": "Lei 8968/1979",
+   "title": "Lei nº 8.968, de 19/09/1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8968-de-19-de-setembro-de-1979",
+   "first_law": "lei-1979-08968",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1979-09-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8968-de-19-de-setembro-de-1979",
+     "sha256": "54a2d4119cd927cdf86e34bb1e6e09d1aeb3c5409bd121307af9a010699c7045",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8968, DE 19 DE SETEMBRO DE 1979.\nAprova Plano de Melhoramentos no 6 Subdistrito - Brás, transfere áreas da classe de bens públicos de uso comum do povo para dos bens dominicais, dispõe sobre permuta de áreas com a Companhia do Metropolitano de São Paulo - Metrô, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo comas plantas anexas nºs 26.054/1 e 26.054/2-B-119, do arquivo da Superintendência de Projetos Viários, rubricados pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado o seguinte plano de melhoramentos no 6º subdistrito - Brás:\nI - Abertura de via, com largura de 17,00 metros, ligando a Rua Capitão Faustino de Lima à Rua Piratininga, na extensão aproximada de 560,00 metros;\nII - Retificação de alinhamentos da Rua Carneiro Leão, no trecho compreendido entre a Rua Azevedo Júnior e aproximadamente 130,00 metros além, no sentido Norte;\nIII - Formação de logradouro público, com abertura de via ligando a Rua Professor Batista de Andrade à Rua Mello Barreto, com largura básica de 17,00 metros, na extensão aproximada de 50,00 metros;\nIV - Formação de logradouro público junto à Rua Prudente de Moraes, Rua Piratininga e Rua Campos Salles, incorporando trecho da Rua Martim Buchard;\nV - Formação de praça de manobras na Rua Dr. Almeida Lima;\nVI - Abertura de via, com largura variável de 23,50 a 29,00 metros, ligando a Rua Visconde de Parnaíba à Rua do Hipódromo, ao Sul da R.F.F.S.A., na extensão aproximada de 150,00 metros;\nVII - Fixação de novo alinhamento da Rua Visconde de Parnaíba, no seu cruzamento com a Rua do Hipódromo, ao Norte da R.F.F.S.A.;\nVIII - Formação de logradouro público, ao Norte da R.F.F.S.A., com abertura de via ligando a Rua do Hipódromo à Rua Bresser, na extensão aproximada de 324,00 metros, incorporando trecho da Rua Visconde de Parnaíba;\nIX - Formação de logradouro público, ao Sul da R.F.F.S.A., junto à Rua Ipanema, face Norte, entre as Ruas do Hipódromo e Bresser, incorporando trecho da Rua Guarapuava;\nX - Formação de logradouro público, ao Norte da R.F.F.S.A., com abertura de via ligando as Ruas Bresser e Major Otaviano, na extensão aproximada de 140,00 metros, incorporando trecho da Rua Dr. Guilhem;\nXI - Alteração do alinhamento da Rua Inácio de Araújo, face Sul, com criação de logradouro público;\nXII - Fechamento das seguintes vias:\na) Rua Wandenkolk, entre as Ruas Claudino Pinto e Azevedo Júnior;\nb) Vila nº 276 da Rua Carneiro Leão;\nc) Rua Professor Batista de Andrade, no cruzamento com a Rua Campos Salles;\nd) Rua Mello Barreto e a Vila nº 293, da mesma rua, até o cruzamento com o logradouro citado no item III;\ne) Vila nº 378 da Rua Piratininga;\nf) Rua Martim Buchard, entre as Ruas Campos Salles e Coronel Murça;\ng) Rua Campos Salles, entre as Ruas Martim Buchard e Domingos Paiva;\nh) Rua Dr. Almeida Lima, no entroncamento com a R.F.F.S.A. e a confluência com a praça de manobras de que trata o item V;\ni) Rua Ariry, no entroncamento com a R.F.F.S.A. e a confluência coma Rua Visconde de Parnaíba;\nj) Rua Visconde de Parnaíba, no entroncamento com a via mencionada no item VI;\nl) Rua do Hipódromo, no entroncamento com a via mencionada no item VI;\nm) Vila nº 1804 da Rua Visconde de Parnaíba - Vila Olga Nasser - no entroncamento com a via mencionada no item VI;\nn) Vila nº 833 da Rua do Hipódromo, no entroncamento com a via referida no item VI;\no) Vila nº 851 da Rua do Hipódromo, no entroncamento com o logradouro público mencionado no item IX;\np) Rua Guarapuava, no entroncamento coma R.F.F.S.A. e o entroncamento com o logradouro público citado no item IX;\nq) Vila nº 719 da Rua Ipanema, no entroncamento com a mesma;\nr) Rua Visconde de Parnaíba, no entroncamento com o logradouro público de que trata o item VIII e o cruzamento com a Rua Bresser;\ns) Vila nº 719 da Rua do Hipódromo, no entroncamento com a mesma;\nt) Vila nº 1979 da Rua Visconde de Parnaíba - Vila Velha - no entroncamento com a mesma;\nu) Vila nº 2.007 da Rua Visconde de Parnaíba - Vila Nova - no entroncamento com a mesma;\nv) Vila nº 2.106 da Rua Visconde de Parnaíba - Vila Ramos Marques - no entroncamento com a via referida no item VIII;\nx) Rua Marques de Oliveira, no entroncamento com o logradouro público mencionado no item XI e no entroncamento com a Rua Visconde de Parnaíba;\nz) Rua Dr. Guilhem, no entroncamento com o logradouro público citado no item X e com a Rua Visconde de Parnaíba.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas nas plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados, nos trechos indicados na citada planta nº 26.054/2-B-119, os alinhamentos estabelecidos pelas Leis nºs 5329, de 2 de setembro de 1957, e 7112, de 11 de janeiro de 1968.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam desincorporadas da classe dos bens públicos de uso comum do povo e transferidas para a dos bens dominicais do Município, as áreas que, configuradas nas plantas anexas nºs A-5267 e A-5267-B, do arquivo do Departamento Patrimonial, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, assim se descrevem:\nI - Planta A-5267:\n1 - Área I - com cerca de 673,00m² (seiscentos e setenta e três metros quadrados), delimitada pelo perímetro 1-2-3-4-5-6-1;\n2 - Área III - com cerca de 1.353m² (um mil trezentos e cinquenta e três metros quadrados), delimitada pelo perímetro 10-11-12-13-14-15-10;\n3 - Área IV - com cerca de 2.633m² (dois mil seiscentos e trinta e três metros quadrados), delimitada pelo perímetro 16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-16;\n4 - Área VI - com cerca de 446,00m² (quatrocentos e quarenta e seis metros quadrados), delimitada pelo perímetro 36-37-38-39-40-41-42-43-36;\n5 - Área IX - com cerca de 15,00m² (quinze metros quadrados), delimitada pelo perímetro 50-52-53-54-50;\n6 - Área XI - com cerca de 534,00m² (quinhentos e trinta e quatro metros quadrados), delimitada pelo perímetro 55-72-73-74-75-76-77-55;\n7 - Área XIII - com cerca de 25,00m² (vinte e cinco metros quadrados), delimitada pelo perímetro 78-81-82-83-84-85-78;\n8 - Área XV - com cerca de 189,00m² (cento e oitenta e nove metros quadrados), delimitada pelo perímetro 88-89-90-91-92-93-88;\n9 - Área XVII - com cerca de 4398,00m² (quatro mil trezentos e noventa e oito metros quadrados), delimitada pelo perímetro 96-99-100-101-102-103-104-105-106-107-108-109-110-111-112-113-114-115-116-117 18-119-120-121-122-123-124-125-126-127-128-129-96;\n10 - Área XX - com cerca de 41,00m² (quarenta e um metros quadrados), delimitada pelo perímetro 136-149-150-146-136;\n11 - Área XXV - com cerca de 1.501,00m² (um mil quinhentos e um metros quadrados), delimitada pelo perímetro 164-166-167-168-169-170-164;\n12 - Área XXVI - com cerca de 188,00m² (cento e oitenta e oito metros quadrados), delimitada pelo perímetro 171-172-173-174-175-176-177-178- 171;\nII - Planta A-5267-B:\n1 - Área II - com cerca de 2037,00m² (dois mil e trinta e sete metros quadrados), delimitada pelo perímetro 5-8-9-10-11-12-13-5;\n2 - Área VI - com cerca de 280,00m² (duzentos e oitenta metros quadrados), delimitada pelo perímetro 56-57-58-56;\n3 - Área VIII - com cerca de 824,00m² (oitocentos e vinte e quatro metros quadrados), delimitada pelo perímetro 65-69-70-71-72-73-65;\n4 - Área X - com cerca de 384,00m² (trezentos e oitenta e quatro metros quadrados), delimitada pelo perímetro 84-85-86-87-88-89-90-91-84;\n5 - Área XI - com cerca de 76,00m² (setenta e seis metros quadrados), delimitada pelo perímetro 92-93-94-95-92;\n6 - Área XIV - com cerca de 754,00m² (setecentos e cinquenta e quatro metros quadrados), delimitada pelo perímetro 2-24-25-26-27-28-29-30-31-14-2;\n7 - Área XV - com cerca de 189,00m² (cento e oitenta e nove metros quadrados), delimitada pelo perímetro 32-33-34-35-36-37-32;\n8 - Área XVII - com cerca de 3603,00m² (três mil seiscentos e três metros quadrados), delimitada pelo perímetro 112-120-121-122-123-124-125-126-112.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica o Executivo autorizado a permutar as áreas descritas no artigo anterior pelas áreas de propriedade da Companhia do Metropolitano de São Paulo - Metrô, que, configuradas nas mencionadas plantas anexas nºs A-5267 e A-5267-B, assim se descrevem:\nI - Planta A-5267:\n1 - Área II - com cerca de 355,00m² (trezentos e cinquenta e cinco metros quadrados), delimitada pelo perímetro 4-7-8-9-4;\n2 - Área V - com cerca de 438,00m² (quatrocentos e trinta e oito metros quadrados), delimitada pelo perímetro 33-34-35-36-33;\n3 - Área VII - com cerca de 2.765,00m² (dois mil setecentos e sessenta e cinco metros quadrados), delimitada pelo perímetro 37-44-45-46-47-32-28-48-49-37;\n4 - Área VIII - com cerca de 176,00m² (cento e setenta e seis metros quadrados), delimitada pelo perímetro 27-50-51-27;\n5 - Área X - com cerca de 9049,00m² (nove mil e quarenta e nove metros quadrados), delimitada pelo perímetro 54-55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-54;\n6 - Área XII - com cerca de 1513,00m² (um mil quinhentos e treze metros quadrados), delimitada pelo perímetro 77-78-79-80-77;\n7 - Área XIV - com cerca de 941,00m² (novecentos e quarenta e um metros quadrados), delimitada pelo perímetro 85-86-87-85;\n8 - Área XVI - com cerca de 334,00m² (trezentos e trinta e quatro metros quadrados), delimitada pelo perímetro 94-95-96-97-98-94;\n9 - Área XVIII - com cerca de 5303,00m² (cinco mil trezentos e três metros quadrados), delimitada pelo perímetro 130-131-132-133-134-115-135-136-137-138-139-140-141-142-143-144-111-130;\n10 - Área XIX - com cerca de 293,00m² (duzentos e noventa e três metros quadrados), delimitada pelo perímetro 112-145-146-147-148-112;\n11 - Área XXI - com cerca de 1159,00m² (um mil cento e cinquenta e nove metros quadrados), delimitada pelo perímetro 116-151-152-153-116;\n12 - Área XXII - com cerca de 2634,00m² (dois mil seiscentos e trinta e quatro metros quadrados), delimitada pelo perímetro 129-126-154-155-156-129;\n13 - Área XXIII - com cerca de 2128,00m² (dois mil cento e vinte e oito metros quadrados), delimitada pelo perímetro 125-157-158-159-160-125;\n14 - Área XXIV - com cerca de 620,00m² (seiscentos e vinte metros quadrados), delimitada pelo perímetro 161-162-163-164-165-161;\n15 - Área XXVII - com cerca de 70,00m² (setenta metros quadrados), delimitada pelo perímetro 170-171-179-170;\n16 - Área XXVIII - com cerca de 1.988,00m² (um mil novecentos e oitenta e oito metros quadrados), delimitada pelo perímetro 178-180-181-182-183-184-185-186-178;\nII - Planta A-5267-B:\n1 - Área I - com cerca de 3141,00m² (três mil cento e quarenta e um metros quadrados), delimitada pelo perímetro 1-2-3-4-5-6-7-1;\n2 - Área III - com cerca de 2005,00m² (dois mil e cinco metros quadrados), delimitada pelo perímetro 14-15-16-17-18-38-39-19-20-21-8-22-23-14;\n3 - Área IV - com cerca de 280,00m² (duzentos e oitenta metros quadrados), delimitada pelo perímetro 42-43-44-45-42;\n4 - Área V - com cerca de 5445,00m² (cinco mil quatrocentos e quarenta e cinco metros quadrados), delimitada pelo perímetro 46-47-48-49-50-51-52-53-54-55-46;\n5 - Área VII - com cerca de 3240,00m² (três mil duzentos e quarenta metros quadrados), delimitada pelo perímetro 59-60-61-62-63-64-65-66-67-68-59;\n6 - Área IX - com cerca de 2642,00m² (dois mil seiscentos e quarenta e dois metros quadrados), delimitada pelo perímetro 74-75-76-77-78-79-80-81-82-83-84-69-74;\n7 - Área XII - com cerca de 2379,00m² (dois mil trezentos e setenta e nove metros quadrados), delimitada pelo perímetro 94-96-97-98-99-85-100-101-94;\n8 - Área XIII - com cerca de 6583,00m² (seis mil quinhentos e oitenta e três metros quadrados), delimitada pelo perímetro 102-103-104-105-106-107-108-102;\n9 - Área XVI - com cerca de 6321,00m² (seis mil trezentos e vinte e um metros quadrados), delimitada pelo perímetro 109-110-111-112-113-114-115-109;\n10 - Área XVIII - com cerca de 252,00m² (duzentos e cinquenta e dois metros quadrados), delimitada pelo perímetro 116-117-118-119-116;\n11 - Área XIX - com cerca de 6022,00m² (seis mil e vinte e dois metros quadrados), delimitada pelo perímetro 127-128-129-130-131-132-133-127.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As áreas referidas nos artigos 3º e 4º foram avaliadas pelo órgão competente, que estabeleceu o valor de Cr$ 57.198.750,00 (cinquenta e sete milhões, cento e noventa e oito mil e sete centos e cinquenta cruzeiros), para as áreas municipais, e Cr$ 187.369.697,00 (cento e oitenta e sete milhões, trezentos e sessenta e nove mil e seiscentos e noventa e sete cruzeiros), para as áreas de propriedade da Companhia do Metropolitano de São Paulo - Metrô, resultando uma diferença de Cr$ 130.170.947,00 (cento e trinta milhões, cento e setenta mil e novecentos e quarenta e sete cruzeiros), a favor da referida Companhia.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica o Executivo autorizado a satisfazer parte da diferença referida no artigo anterior, no valor de Cr$ 124.839.967,00 (cento e vinte e quatro milhões, oitocentos e trinta e nove mil e novecentos e sessenta e sete cruzeiros), com a torna devida pela Companhia do Metropolitano de São Paulo - Metrô, resultante da permuta autorizada pela Lei nº 8928, de 21 de junho de 1979. O saldo restante dessa diferença, no valor de Cr$ 5.330.980,00 (cinco milhões, trezentos e trinta mil e novecentos e oitenta cruzeiros), será compensado em liquidação posterior, mediante permuta de imóveis, através de lei específica.\nParágrafo Único - Os valores referidos no artigo anterior e neste artigo serão atualizados até a época das respectivas transações, com os índices das Obrigações Reajustáveis do Tesouro Nacional - ORTN, calculados a partir das datas das avaliações correspondentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Prefeitura e a Companhia do Metropolitano de São Paulo - Metrô, ficam obrigadas respectivamente a prosseguir, até o final, com as ações expropriatórias ainda em andamento relativas às áreas permutadas, arcando, cada qual, com os decorrentes encargos processuais indenizadores.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas com a execução da presente lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 19 de setembro de 1979, 426º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefia do Gabinete do Prefeito, em 19 de setembro de 1979.\nO Secretário -Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08979",
+   "short": "Lei 8979/1979",
+   "title": "Lei nº 8.979, de 03/10/1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8979-de-3-de-outubro-de-1979",
+   "first_law": "lei-1979-08979",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1979-10-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8979-de-3-de-outubro-de-1979",
+     "sha256": "c4fd5d86d17ec5aa402aa23ea36f910c26919f6d26ac2f1134b15d7e3880e9f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.979, DE 3 DE OUTUBRO DE 1979.\nDispõe sobre a transferência de edificações do Setor de Edificações Irregulares do Cadastro de Edificações do Município - CEDI, para o Setor de Edificações Regulares, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 12 de setembro de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As edificações registradas até a data desta lei no Setor de Edificações Irregulares do Cadastro de Edificações do Município - CEDI, nos termos do artigo 2º, item II, e artigo 3º, item II, da Lei nº 8382, de 13 de abril de 1976, serão conforme as infrações legais que apresentarem, classificadas em três grupos:\nI - Grupo A - edificações com infrações pequenas;\nII - Grupo B - edificações com infrações médias;\nIII - Grupo C - edificações com infrações graves.\n§ 1º - As edificações serão classificadas nos três grupos referidos neste artigo, por decreto do Executivo, estritamente de acordo com a gravidade e natureza das infrações relativas a:\na) frente e área dos lotes ocupados;\nb) recuos de frente, laterais e de fundo;\nc) taxa de ocupação;\nd) coeficiente de aproveitamento;\ne) largura das vias;\nf) abertura destinadas a insolação, iluminação e ventilação;\ng) elementos construtivos;\nh) instalações e equipamentos;\ni) áreas para veículos, estacionamento e garagens;\nj) áreas para carga e descarga;\nl) fachadas;\nm) muros, gradis, guias e passeios;\nn) obras complementares;\no) elementos e equipamentos de segurança.\n§ 2º - Além dos critérios técnicos mencionados neste artigo, a classificação levará em conta a finalidade pública, social, comunitária ou religiosa da edificação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Serão transferidas para o Setor de Edificações Regulares do Cadastro de Edificações do Município - CEDI, as edificações registradas no Setor de Edificações Irregulares, desde que decorridos, de seu registro nesse Setor:\na) dois anos, quando se tratar de edificações classificadas no Grupo A, referido no artigo 1º;\nb) cinco anos, quando se tratar de edificações classificadas no Grupo B, referido no artigo 1º.\n§ 1º - As edificações classificadas no Grupo C somente serão transferidas para o Setor de Edificações Regulares depois de comprovado, mediante processo específico, que foram sanadas as infrações existentes.\n§ 2º - Fica facultado o reequadramento, nos Grupos A ou B, das edificações classificadas nos Grupos B e C, mediante a correção das infrações correspondentes.\n§ 3º - Serão cadastradas no Setor de Edificações Regulares as edificações concluídas até 20 de setembro de 1972, data da Lei nº 7785, que contenham excesso de área de, no máximo, 10% (dez por cento) sobre a área total de construção já tolerada e que apresentem insuficiência de garagens.\n§ 4º - Os efeitos desta lei se estendem, inclusive aos casos sob apreciação judicial, ainda que julgados, mas cuja sentença não tenha sido executada, desde que o réu manifeste sua concordância ao juízo da causa em pagar as multas e emolumentos devidos à Prefeitura Municipal e arque com as respectivas custas, honorários e demais cominações legais.\n§ 5º - Permanecerão, também, no Setor de Edificações Irregulares as edificações que vierem a apresentar novas infrações, acrescentando-se ao tempo de permanência no Setor, o período correspondente às novas infrações ocorridas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No ano subsequente à transferência da edificação para o Setor de Edificações Regulares, cessara a tributação dos acréscimos previstos no artigo 15 da Lei nº 6989, de 29 de dezembro de 1966, coma redação conferida pelo artigo 5º da Lei nº 7785, de 20 de setembro de 1972.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A cessação da tributação com os acréscimos previstos em lei, mencionada no artigo 3º, em qualquer caso só ocorrerá a partir de 1981, não havendo devolução de pagamentos já efetuados, ainda que se tenha exaurido, em anos anteriores, o prazo de permanência, no Setor de Edificações Irregulares, de edificação antes registrada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As disposições da presente lei aplicam-se também às infrações legais relativas à mudança de uso ou destinação da edificação, ou partes da mesma, desde que a alteração seja anterior a 1º de janeiro de 1976, data da Lei nº 8382 e não conflite com a legislação de zoneamento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As instâncias administrativas para apreciação e decisão dos pedidos de que trata esta lei são as estabelecidas no artigo 8º do Decreto nº 15.111 de 21 de junho de 1978, ficando fixado em 30 (trinta) dias corridos o prazo para pedido de reconsideração de despacho e interposição de recurso.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O disposto nesta lei será regulamentado por decreto.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 3 de outubro de 1979, 426º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário da Habitação e Desenvolvimento Urbano, Luis Gomes Cardim Sangirardi\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefia do Gabinete do Prefeito, em 3 de outubro de 1979.\nO Secretário-Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08989",
+   "short": "Lei 8989/1979",
+   "title": "Lei nº 8.989, de 29/10/1979 (Dispõe sobre o estatuto dos funcionários públicos do município de São Paulo, e dá providências correlatas.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8989-de-29-de-outubro-de-1979",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1979-08989"
+   ],
+   "versions": [
+    {
+     "from": "2025-01-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8989-de-29-de-outubro-de-1979",
+     "sha256": "a13703002c85692abc78f9550af3f9f65e32ad5d64db226f08253655ebf1ab07",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8989, DE 29 DE OUTUBRO DE 1979.\n(PROJETO DE LEI Nº 125/1979 - Executivo)\nEstatuto dos funcionários públicos do município de São Paulo.\nSUMÁRIO\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## TÍTULO I- DISPOSIÇÕES PRELIMINARES\n## TÍTULO II - DO PROVIMENTO, DO EXERCÍCIO E DA VACÂNCIA DE CARGOS\n## CAPÍTULO I\n## DO PROVIMENTO\n## CAPÍTULO II - DO EXERCÍCIO\n## CAPÍTULO III - DA VACÂNCIA DE CARGOS\n## TÍTULO III - DO TEMPO DE SERVIÇO E DA PROGRESSÃO FUNCIONAL\n## CAPÍTULO I - DO TEMPO DE SERVIÇO\n## CAPÍTULO II - DA PROMOÇÃO\n## CAPÍTULO III - DO ACESSO\n## CAPÍTULO IV - DA TRANSPOSIÇÃO\n## TÍTULO IV - DOS DIREITOS E VANTAGENS DE ORDEM PECUNIÁRIA\n## CAPÍTULO I - DISPOSIÇÕES PRELIMINARES\n## CAPÍTULO II - DO VENCIMENTO, DO HORÁRIO E DO PONTO\n## CAPÍTULO III - DAS GRATIFICAÇÕES\n## CAPÍTULO V - DA SEXTA PARTE DO VENCIMENTO CAPÍTULO\n## VI - DO SALÁRIO-FAMÍLIA\n## VII - DAS OUTRAS CONCESSÕES PECUNIÁRIAS\n## TÍTULO V - DOS DIREITOS E VANTAGENS DE ORDEM GERAL\n## CAPÍTULO I - DAS FÉRIAS\n## CAPÍTULO II - DAS LICENÇAS\n## CAPÍTULO III - DO ACIDENTE DO TRABALHO E DA DOENÇA PROFISSIONAL\n## CAPÍTULO IV - DA DISPONIBILIDADE\n## CAPÍTULO V - DA APOSENTADORIA\n## CAPÍTULO VI - DA ASSISTÊNCIA AO FUNCIONÁRIO\n## CAPÍTULO VII - DO DIREITO DE PETIÇÃO\n## TÍTULO VI - DOS DEVERES E DA AÇÃO DISCIPLINAR\n## CAPÍTULO I - DOS DEVERES\n## CAPÍTULO II - DAS PROIBIÇÕES\n## CAPÍTULO III - DA RESPONSABILIDADE\n## CAPÍTULO IV - DAS PENALIDADES\n## CAPÍTULO V - DA PRISÃO ADMINISTRATIVA E DA SUSPENSÃO PREVENTIVA\n## CAPÍTULO VI - DOS PROCEDIMENTOS DE NATUREZA DISCIPLINAR\n## CAPÍTULO VII- DA REVISÃO DO INQUÉRITO ADMINISTRATIVO DISPOSIÇÕES FINAIS E TRANSITÓRIAS\n## Dispõe sobre o estatuto dos funcionários públicos do município de São Paulo, e dá providências correlatas.\n## Reynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 18 de outubro de 1979, decretou e eu promulgo a seguinte lei:\n## TÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1º Esta lei institui o regime jurídico dos funcionários da Prefeitura do Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os efeitos deste Estatuto, funcionário público é a pessoa legalmente investida em cargo público.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Cargo público é aquele criado por lei, em número certo, com denominação própria, remunerado pelos cofres municipais, ao qual corresponde um conjunto de atribuições e responsabilidades cometidas a funcionário público.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Classe é o agrupamento de cargos da mesma denominação e idêntica referência de vencimento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Carreira é o conjunto de classes da mesma natureza de trabalho, escalonadas segundo a responsabilidade e complexidade das atribuições.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os cargos públicos são isolados ou de carreira.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os cargos públicos são integrados em:\nI - Quadro Geral;\nII - Quadros Especiais, cujos cargos são agrupados por similitude das atividades neles compreendidas.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As atribuições dos cargos serão definidas em lei ou em decreto.\nParágrafo Único. É vedado atribuir ao funcionário encargos ou serviços diversos dos inerentes a seu cargo, ressalvadas a hipótese a que se refere o artigo 39, as funções de direção e chefia, bem como as designações especiais.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Aos cargos públicos corresponderão referências numéricas ou símbolos de identificação, seguidas de letras em ordem alfabética, indicadoras de graus.\n§ 1º - Referência é o número ou o conjunto de sigla e número indicativo da posição do cargo na escala básica dos vencimentos.\n§ 2º - Grau é a letra indicativa do valor progressivo da referência.\n§ 3º - O conjunto de referência e grau constitui o padrão de vencimentos.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## TÍTULO II\n## DO PROVIMENTO, DO EXERCÍCIO E DA VACÂNCIA DE CARGOS\n## CAPÍTULO I\n## DO PROVIMENTO\n## SEÇÃO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 10 - Os cargos públicos serão providos por:\nI - Nomeação;\nII - Transposição;\nIII - Acesso;\nIV - Transferência;\nV - Reintegração;\nVI - Readmissão\nVII - Reversão;\nVIII - Aproveitamento.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Só poderá ser investido em cargo público quem satisfizer os seguintes requisitos:\nI - ser brasileiro;\nII - ter completado dezoito anos de idade;\nIII - estar no gozo dos direitos políticos;\nIV - estar quite com as obrigações militares;\nV - ter boa conduta;\nVI - gozar de boa saúde física e mental e não ser portador de deficiência física incompatível com o exercício do cargo;\nVII - possuir habilitação profissional para o exercício do cargo, quando for o caso;\nVIII - ter sido previamente habilitado em concurso, ressalvadas as exceções legalmente previstas;\nIX - atender às condições especiais, prescritas em lei ou decreto, para determinados cargos.\n"
+      },
+      "art-0012": {
+       "label": "Art 12",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DO CONCURSO PÚBLICO\nArt 12 - A investidura em cargo público dependerá de aprovação prévia em concurso público de provas, ou provas e títulos.\n§ 1º - Prescindirá de concurso a nomeação para cargo em comissão declarado em Lei, de livre nomeação e exoneração.\n§ 2º - A não observância do disposto no \"caput\" deste artigo implicará a nulidade do ato e a punição da autoridade responsável.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - As normas gerais para a realização dos concursos serão estabelecidas em decreto e cada concurso será regido por instruções especiais expedidas pelo órgão competente.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O prazo de validade do concurso será fixado nas respectivas instruções especiais e não excederá a 2 (dois) anos, contados a partir da data da homologação de seus resultados, prorrogável, uma vez, por igual período.\nParágrafo Único - A não observância do disposto no \"caput\" deste artigo implicará a nulidade do ato e a punição da autoridade responsável.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA NOMEAÇÃO\nArt. 15 - A nomeação será feita:\nI - em comissão, quando se tratar de cargo que, em virtude de lei, assim deva ser provido;\nII - em caráter efetivo, nos demais casos.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - A nomeação de candidatos habilitados em concurso obedecerá sempre à ordem de classificação.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DA ESTABILIDADE\nArt. 17 - Adquire estabilidade, após 2 (dois) anos de exercício, o funcionário nomeado por concurso público.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - O funcionário estável só poderá ser demitido em virtude de sentença judicial ou mediante processo administrativo, assegurada ampla defesa.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Enquanto não adquirir estabilidade, poderá o funcionário ser exonerado no interesse do serviço público nos seguintes casos:\nI - inassiduidade;\nII - ineficiência;\nIII - indisciplina;\nIV - insubordinação;\nV - falta de dedicação ao serviço;\nVI - má conduta;\nVII - não aprovação em curso de formação ou capacitação para o exercício das funções inerentes ao cargo.\n§ 1º - Ocorrendo a hipótese prevista neste artigo, o chefe imediato do funcionário representará à autoridade competente, a qual deverá dar vista ao funcionário, a fim de que o mesmo possa apresentar sua defesa, no prazo de 5 (cinco) dias.\n§ 2º - A representação prevista neste artigo deverá ser formalizada pelo menos 4 (quatro) meses antes do término do período fixado no artigo 17.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## SEÇÃO V\n## DA POSSE\nArt. 20 - Posse é o ato pelo qual a pessoa é investida em cargo público.\nParágrafo Único. Não haverá posse nos casos de reintegração.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - A posse verificar-se-á mediante a assinatura, pela autoridade competente e pelo funcionário, do termo pelo qual este se compromete a observar fielmente os deveres e atribuições do cargo, bem como as exigências deste Estatuto.\n§ 1º - Na ocasião da posse, o funcionário declarará se exerce ou não outro cargo ou função pública remunerada, inclusive emprego em autarquias, empresas públicas e sociedades de economia mista.\n§ 2º - A lei especificará os casos em que, no ato da posse, será exigida também declaração de bens.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - São competentes para dar posse:\nI - o Prefeito, aos Secretários Municipais e autoridades a estes equiparadas;\nII - o responsável pelo órgão do pessoal, nos demais casos.\nParágrafo Único. A autoridade que der posse deverá verificar, sob pena de responsabilidade, se foram satisfeitas as condições legais para a investidura no cargo.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - A posse deverá se verificar no prazo de 15 (quinze) dias, contado da publicação oficial do ato de provimento.\n§ 1º - O prazo previsto neste artigo poderá ser prorrogado por igual período, a juízo da autoridade competente para dar posse.\n§ 2º - O termo inicial do prazo para posse de funcionário em férias ou licença, exceto no caso de licença para tratar de interesses particulares, será o da data em que voltar ao serviço.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Se aposse não se der dentro do prazo legal, o ato de provimento será tornado sem efeito.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "## SEÇÃO VI\n## DA TRANSFERÊNCIA\nArt. 25 - Transferência é a passagem do funcionário de um para outro cargo da mesma denominação, de órgão de lotação diferente.\nParágrafo Único. As transferências serão feitas a pedido do funcionário ou \"ex officio\", atendida sempre a conveniência do serviço.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - A transferência por permuta será procedida a pedido escrito dos interessados e com observância da conveniência do serviço.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "## SEÇÃO VII\n## DA REINTEGRAÇÃO\nArt. 27 - A reintegração é o reingresso do funcionário no serviço público, em virtude de decisão judicial transitada em julgado.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - A reintegração será feita no cargo anteriormente ocupado.\n§ 1º - Se o cargo anteriormente ocupado houver sido transformado, a reintegração se dará no cargo resultante; se houver sido extinto, em cargo de vencimento e habilitação profissional equivalentes.\n§ 2º - Não sendo possível a reintegração na forma prescrita neste artigo, será o funcionário posto em disponibilidade com vencimentos proporcionais ao tempo de serviço.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - O funcionário que estiver ocupando o cargo objeto da reintegração será exonerado, ou se ocupava outro cargo, a este reconduzido, sem direito a indenização.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Transitada em julgado a sentença que determinar a reintegração, o respectivo título deverá ser expedido no prazo máximo de 30 (trinta) dias.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "## SEÇÃO VIII\n## DA READMISSÃO\nArt. 31 - Readmissão é o ato pelo qual o funcionário exonerado reingressa no serviço público, sem direito a qualquer ressarcimento e sempre por conveniência da Administração.\n§ 1º - A readmissão dependerá da existência de vaga e da observância das exigências legais quanto à primeira investidura.\n§ 2º - A readmissão dar-se-á de preferência no cargo anteriormente ocupado, podendo, no entanto, verificar-se em outro de igual referência de vencimento, respeitada a habilitação profissional.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "## SEÇÃO IX\n## DA REVERSÃO\nArt. 32 - Reversão é o ato pelo qual o funcionário aposentado reingressa no serviço público, a seu pedido ou \"ex officio\".\n§ 1º - A reversão \"ex officio\" será feita quando insubsistentes as razões que determinaram a aposentadoria.\n§ 2º - Será tomada sem efeito a reversão \"ex officio\" e cassada a aposentadoria do funcionário que reverter e não tomar posse ou não entrarem exercício dentro do prazo legal.\n§ 3º - A reversão a pedido, que será feita a critério da Administração, dependerá da existência de cargo vago, bem como da comprovação de capacidade para o exercício do cargo mediante inspeção médica.\n§ 4º - Não poderá reverterá atividade, a pedido, o aposentado que tiver mais de 60 (sessenta) anos de idade.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - A reversão far-se-á em cargo de idêntica denominação à daquele ocupado por ocasião da aposentadoria ou, se transformado, no cargo resultante da transformação.\nParágrafo Único. Em casos especiais, a juízo do Prefeito, poderá o aposentado reverterem outro cargo, de igual padrão, respeitados os requisitos para provimento do cargo.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34 - Será contado, para fins de nova aposentadoria, o tempo em que o funcionário revertido esteve aposentado por invalidez.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 - O funcionário revertido a pedido, após a vigência desta lei, não poderá ser novamente aposentado, com maiores proventos, antes de decorridos 5 (cinco) anos de sua reversão, salvo se sobre vier moléstia que o incapacite para o serviço público.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "## SEÇÃO X\n## DO APROVEITAMENTO\nArt. 36 - Aproveitamento é a volta do funcionário em disponibilidade ao exercício de cargo público.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - O funcionário em disponibilidade será obrigatoriamente aproveitado no preenchimento de vaga existente ou que se verificamos quadros do funcionalismo.\n§ 1º - O aproveitamento dar-se-á em cargo equivalente, por sua natureza e vencimentos, ao que o funcionário ocupava quando posto em disponibilidade.\n§ 2º - Em nenhum caso poderá efetivar-se o aproveitamento sem que, mediante inspeção médica, fique provada a capacidade para o exercício do cargo.\n§ 3º - Será tornado sem efeito o aproveitamento e cassada a disponibilidade do funcionário que, aproveitado, não tomar posse ou não entrar em exercício dentro do prazo legal.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38 - Havendo mais de um concorrente à mesma vaga, terá preferência o que contar mais tempo de disponibilidade e, em igualdade de condições, o de maior tempo de serviço público.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "## SEÇÃO XI\n## DA READAPTAÇÃO\nArt. 39 - Readaptação é a atribuição de encargos mais compatíveis com a capacidade física ou psíquica do funcionário e dependerá sempre de exame médico.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40 - A readaptação não acarretará diminuição nem aumento de vencimento.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41 - As normas inerentes ao sistema de readaptação funcional, inclusive as de caracterização, serão objeto de regulamentação específica.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO EXERCÍCIO\n## SEÇÃO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 42 - Exercício é o desempenho das atribuições e responsabilidades do cargo.\n§ 1º - O início, a interrupção, o reinicio e a cessação do exercício serão registrados no assentamento individual do funcionário.\n§ 2º - O início do exercício e as alterações que nele ocorrerem serão comunicados ao órgão de pessoal pelo chefe imediato do funcionário.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 - O chefe imediato do funcionário é a autoridade competente para dar-lhe exercício.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 - O exercício do cargo terá início dentro do prazo de 15 (quinze) dias, contado.\nI - da data da posse;\nII - da data da publicação oficial do ato, no caso de reintegração.\n§ 1º - O prazo referido neste artigo poderá ser prorrogado por igual período, a juízo da autoridade competente para dar posse.\n§ 2º - O funcionário que não entrar em exercício dentro do prazo será exonerado do cargo.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 - Nenhum funcionário poderá ter exercício em unidade diferente daquela em que for lotado, salvo nos casos previstos neste Estatuto ou mediante prévia autorização do Prefeito.\n§ 1º - O funcionário poderá ser, a critério e por autorização do Prefeito, afastado junto à Administração Pública Federal, Estadual ou Municipal.\n§ 2º - O afastamento de que trata o parágrafo anterior será permitido, com ou sem prejuízo de vencimentos, por prazo certo.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46 - O afastamento do funcionário para participação em congressos, certames desportivos, culturais ou científicos poderá ser autorizado pelo Prefeito, na forma estabelecida em decreto.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47 - Nenhum funcionário poderá ter exercício fora do Município, em missão de estudo ou de outra natureza, com ou sem ônus para os cofres públicos, sem autorização ou designação do Prefeito.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48 - Salvo caso de absoluta conveniência, a juízo do Prefeito, nenhum funcionário poderá permanecer por mais de 2 (dois) anos em missão fora do Município, nem vir a exercer outra senão depois de decorridos 4 (quatro) anos de exercício efetivo no Município, contados da data do regresso.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49 - O funcionário preso em flagrante ou preventivamente, ou recolhido à prisão em decorrência de pronúncia ou condenação por crime inafiançável, será considerado afastado do exercício do cargo, até decisão final transitada em julgado.\n§ 1º - Durante o afastamento, o funcionário perceberá 2/3 (dois terços) dos vencimentos, tendo posteriormente direito à diferença, se for absolvido.\n§ 2º - No caso de condenação, se esta não for de natureza que determine a demissão do funcionário, continuará ele afastado até o cumprimento total da pena, com direito a 2/3 (dois terços) dos vencimentos.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50 - O funcionário investido em mandato eletivo federal ou estadual ficara afastado do seu cargo.\n§ 1º - O funcionário investido no mandato de Prefeito Municipal será afastado do seu cargo, por todo o período do mandato, sendo-lhe facultado optar pelo vencimento.\n§ 2º - O funcionário investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, sem prejuízo dos subsídios a que fizer jus. Não havendo compatibilidade, aplicar-se-ão as normas previstas no \"caput\".\n§ 3º - Em qualquer caso de lhe ser exigido o afastamento para o exercício do mandato, o tempo de serviço será contado para todos os efeitos legais, exceto para promoção por merecimento.\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "## Seção II\n## Da Movimentação De Pessoal\nArt. 51 - Remoção é o deslocamento do funcionário de uma unidade para outra, dentro do mesmo órgão de lotação.\nParágrafo Único. A remoção do funcionário poderá ser feita a seu pedido ou \"ex officio\".\n"
+      },
+      "art-0051-a": {
+       "label": "Art. 51- A",
+       "kind": "article",
+       "text": "Art. 51- A. Fixação de lotação é o deslocamento do funcionário de uma para outra Secretaria, Subprefeitura ou Órgão equiparado, desde que haja expressa autorização do Órgão cedente, bem como do que irá receber o funcionário.\nParágrafo único. A fixação de lotação do funcionário poderá ser feita a seu pedido ou ex officio.\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "Art. 52. A remoção e a fixação de lotação por permuta serão processadas a pedido escrito dos interessados, com a concordância das respectivas chefias, a critério da Administração, atendidos os requisitos desta Seção.\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53. O funcionário removido ou que tiver fixada a sua lotação deverá assumir de imediato o exercício na unidade para a qual foi deslocado, salvo quando em férias, licença ou desempenho de cargo em comissão, hipóteses em que deverá apresentar-se no primeiro dia útil após o término do impedimento.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA SUBSTITUIÇÃO\nArt. 54 - Haverá substituição remunerada nos impedimentos legais e temporários de ocupante de cargo isolado, de provimento por acesso, em comissão, ou, ainda, de outros cargos que a lei autorizar.\n§ 1º - A substituição remunerada dependera de ato de autoridade competente para nomear ou designar, respeitada, quando for o caso, a habilitação profissional e recairá sempre em servidor público municipal.\n§ 2º - Se a substituição disser respeito a cargo vinculado a carreira, a designação recairá sobre um dos seus integrantes.\n§ 3º - O substituto, durante todo o tempo da substituição, terá direito a receber o valor da referência e as vantagens pecuniárias próprias do cargo do substituído e mais as vantagens pessoais a que fizer jus, podendo optar pelo vencimento ou remuneração do cargo de que é ocupante efetivo.\n§ 4º - Poderá ser instituído o sistema de substituição automática, a ser regulamentado em decreto.\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55 - Os funcionários que tenham valores sob sua guarda, em caso de impedimento, serão substituídos por funcionários de sua confiança, que indicarem, respondendo a sua fiança pela gestão do substituto.\nParágrafo Único. Feita a indicação, por escrito, o superior hierárquico do funcionário proporá a expedição do ato de designação, ficando assegurado ao substituto o vencimento ou a remuneração do cargo a partir da data em que assumiu as respectivas funções.\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "Art. 56 - O funcionário poderá ser designado para exercer transitoriamente cargo que comporte substituição e que se encontre vago, para cujo provimento definitivo não exista candidato legalmente habilitado, desde que atenda aos requisitos para o seu exercício.\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DA FIANÇA\nArt. 57 - O funcionário investido em cargo cujo provimento, por disposição legal ou regulamentar, dependa de fiança, não poderá entrar em exercício sem cumprir essa exigência.\n§ 1º - A fiança poderá ser prestada:\n1 - em dinheiro;\n2 - em títulos da dívida pública;\n3 - em apólices de seguro de fidelidade funcional, emitidas por instituições oficiais ou empresas legalmente autorizadas.\n§ 2º - Não poderá ser autorizado o levantamento da fiança antes de tomadas as contas do funcionário.\n§ 3º - O responsável por alcance e desvio de material não ficará isento do procedimento administrativo e criminal que couber, ainda que o valor da fiança seja superior ao do prejuízo verificado.\n"
+      },
+      "art-0058": {
+       "label": "Art. 58",
+       "kind": "article",
+       "text": "## SEÇÃO V\n## DA ACUMULAÇÃO\nArt. 58 - É vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários:\nI - A de dois cargos de professor;\nII - A de um cargo de professor com outro técnico ou científico;\nIII - a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.\n§ 1º - Compreendem-se na ressalva de que trata este artigo as exceções previstas no inciso I do parágrafo único do artigo 95 e na alínea \"d\" do inciso II do parágrafo. 59 do artigo 128 da Constituição da República.\n§ 2º - A proibição de acumulada estende-se a empregos e funções e abrange autarquias, empresas públicas, sociedades de economia mista e fundações mantidas pelo Poder Público.\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "Art. 59 - Não se compreende na proibição de acumular, nem está sujeita a quaisquer limites, desde que tenha correspondência coma função principal, a percepção das vantagens de ordem pecuniária discriminadas no artigo 89.\n"
+      },
+      "art-0060": {
+       "label": "Art. 60",
+       "kind": "article",
+       "text": "Art. 60 - Verificada a acumulação proibida, deverá o funcionário optar por um dos cargos ou funções exercidas.\nParágrafo Único. Provada, em processo administrativo, a má fé, o funcionário perderá o cargo ou função municipal, sem prejuízo da restituição do que tiver recebido indevidamente.\n"
+      },
+      "art-0061": {
+       "label": "Art. 61",
+       "kind": "article",
+       "text": "Art. 61 - As autoridades que tiverem conhecimento de qualquer acumulação indevida comunicarão o fato ao órgão de pessoal para os fins indicados no artigo anterior, sob a pena de responsabilidade.\n"
+      },
+      "art-0062": {
+       "label": "Art. 62",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA VACÂNCIA DE CARGOS\nArt. 62 - A vacância de cargo decorrerá de:\nI - exoneração;\nII - transposição;\nIII - demissão;\nIV - transferência;\nV - acesso;\nVI - aposentadoria;\nVII - falecimento.\n§ 1º - Dar-se-á exoneração:\n1 - a pedido do funcionário;\n2 - a critério do Prefeito, quando se tratar de ocupante de cargo em comissão;\n3 - quando o funcionário não entrar em exercício dentro do prazo legal.\n§ 2º - A demissão será aplicada como penalidade nos casos previstos em lei.\n"
+      },
+      "art-0063": {
+       "label": "Art. 63",
+       "kind": "article",
+       "text": "## TÍTULO III\n## DO TEMPO DE SERVIÇO E DA PROGRESSÃO FUNCIONAL\n## CAPÍTULO I\n## DO TEMPO DE SERVIÇO\nArt. 63 - A apuração do tempo de serviço será feita em dias, para todos os efeitos legais.\n§ 1º - O número de dias poderá ser convertido em anos, de 365 (trezentos e sessenta e cinco) dias cada um.\n§ 2º - Para efeito de promoção, aposentadoria e disponibilidade, feita a conversão de que trata o parágrafo anterior, os dias restantes até 182 (cento e oitenta e dois) dias não serão computados, arredondando-se para 1 (um) ano, quando excederem esse número.\n"
+      },
+      "art-0064": {
+       "label": "Art. 64",
+       "kind": "article",
+       "text": "Art. 64 - Serão considerados de efetivo exercício os dias em que o funcionário estiver afastado do serviço em virtude de:\nI - férias;\nII - casamento, até 8 (oito) dias;\nIII - luto, pelo falecimento do cônjuge, companheiro, pais, irmãos e filhos, inclusive natimorto, até 8 (oito) dias;\nIV - luto, pelo falecimento de padrasto, madrasta, sogros e cunhados, até 2 (dois) dias;\nV - exercício de outro cargo em comissão ou função na administração direta ou indireta;\nVI - convocação para cumprimento de serviços obrigatórios por lei;\nVII - licença por acidente de trabalho ou doença profissional;\nVIII - licença à gestante;\nIX - licença compulsória;\nX - faltas abonadas nos termos do parágrafo único do artigo 92, observados os limites ali fixados;\nXI - missão ou estudo de interesse do Município em outros pontos do território nacional ou no exterior, quando o afastamento houver sido expressamente autorizado pelo Prefeito;\nXII - participação de delegações esportivas ou culturais pelo prazo oficial da convocação, devidamente autorizada pelo Prefeito, precedida da requisição justificada do órgão competente;\nXIII - desempenho de mandato legislativo ou chefia de Poder Executivo.\nParágrafo Único. No caso do inciso XIII, o tempo de afastamento será considerado de efetivo exercício para todos os efeitos legais, exceto para promoção por merecimento.\n"
+      },
+      "art-0065": {
+       "label": "Art. 65",
+       "kind": "article",
+       "text": "Art. 65 - Para os efeitos de aposentadoria e disponibilidade será computado integralmente:\nI -\nII - O tempo em que o funcionário esteve afastado em licença para tratamento da própria saúde;\nIII - O tempo em que o funcionário esteve em disponibilidade ou aposentado por invalidez.\n"
+      },
+      "art-0066": {
+       "label": "Art. 66",
+       "kind": "article",
+       "text": "Art. 66 - É vedada a acumulação de tempo de serviço simultaneamente prestado em dois ou mais cargos ou funções, à União, Estados ou Municípios.\nParágrafo Único. Em regime de acumulação de cargos, é vedado contar tempo de um dos cargos para reconhecimento de direitos ou vantagens do outro.\n"
+      },
+      "art-0067": {
+       "label": "Art. 67",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA PROMOÇÃO\n## SEÇÃO I\n## DISPOSIÇÕES GERAIS\nArt. 67 - Promoção é a passagem do funcionário de um determinado grau para o imediatamente superior da mesma classe.\n"
+      },
+      "art-0068": {
+       "label": "Art. 68",
+       "kind": "article",
+       "text": "Art. 68. A promoção por antiguidade obedecerá aos critérios estabelecidos nesta lei, realizando-se, anualmente, em junho.\n§ 1º. Para efeito de processamento da promoção por antiguidade serão considerados os eventos ocorridos até o encerramento do ano-base imediatamente anterior, que se inicia em 1º de janeiro e termina em 31 de dezembro.\n§ 2º. Somente poderão ser promovidos por antiguidade os servidores efetivos que tiverem interstício mínimo de 3 (três) anos de efetivo exercício no grau.\n"
+      },
+      "art-0069": {
+       "label": "Art. 69",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DA PROMOÇÃO POR ANTIGUIDADE\nArt. 69 - Serão promovidos, anualmente, por antiguidade até 16% (dezesseis por cento) do total dos funcionários de cada grau, em cada classe.\n§ 1º - No resultado da aplicação do percentual fixado por este artigo não serão consideradas as frações.\n§ 2º - Quando o número de concorrentes de determinado grau for inferior a 16 (dezesseis), serão promovidos 2 (dois) funcionários.\n§ 3º - As promoções por antiguidade obedecerão exclusivamente aos critérios de tempo de efetivo exercício no serviço público municipal e no grau.\n"
+      },
+      "art-0070": {
+       "label": "Art. 70",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA PROMOÇÃO POR MERECIMENTO\nArt. 70 -\nParágrafo Único.\n"
+      },
+      "art-0071": {
+       "label": "Art. 71",
+       "kind": "article",
+       "text": "Art. 71\n"
+      },
+      "art-0072": {
+       "label": "Art. 72",
+       "kind": "article",
+       "text": "Art. 72\n§ 1º\n§ 2º\n"
+      },
+      "art-0073": {
+       "label": "Art. 73",
+       "kind": "article",
+       "text": "Art. 73\nI -\nII -\nIII -\nIV -\n"
+      },
+      "art-0074": {
+       "label": "Art. 74",
+       "kind": "article",
+       "text": "Art. 74 -\nI -\nII -\nIII -\nIV -\n§ 1º -\n§ 2º -\n"
+      },
+      "art-0075": {
+       "label": "Art. 75",
+       "kind": "article",
+       "text": "Art. 75 -\nParágrafo Único.\n"
+      },
+      "art-0076": {
+       "label": "Art. 76",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DO PROCESSAMENTO DAS PROMOÇÕES\nArt. 76 - Compete ao órgão especializado do pessoal o estudo, o planejamento, a fixação de normas e diretrizes para o processamento das promoções, bem como a execução que poderá ser descentralizada.\n"
+      },
+      "art-0077": {
+       "label": "Art. 77",
+       "kind": "article",
+       "text": "Art. 77 -\nI -\na)\nb)\nc)\nd)\ne)\nf)\ng)\nII\n"
+      },
+      "art-0078": {
+       "label": "Art. 78",
+       "kind": "article",
+       "text": "Art. 78 - Será declarado sem efeito o ato que promover indevidamente o funcionário.\n§ 1º - O ato de promoção de funcionário que tenha sido inicialmente preterido produzirá efeito a partir da data em que deveria ter sido promovido.\n§ 2º - O funcionário promovido indevidamente não ficará obrigado a restituir o que a mais houver recebido, salvo caso de omissão intencional ou declaração falsa.\n"
+      },
+      "art-0079": {
+       "label": "Art. 79",
+       "kind": "article",
+       "text": "Art. 79. Publicada a classificação por antiguidade, os servidores efetivos interessados poderão apresentar recurso à Unidade de Recursos Humanos - URH da Secretaria Municipal ou Subprefeitura em que estiverem trabalhando, dentro do prazo de 10 (dez) dias da publicação.\n"
+      },
+      "art-0080": {
+       "label": "Art. 80",
+       "kind": "article",
+       "text": "## SEÇÃO V\n## DA PROMOÇÃO \"POST MORTEM\"\nArt. 80 - Poderá ser promovido \"post mortem\", ao grau imediatamente superior, o funcionário falecido em atividade, com mais de vinte anos de serviços prestados exclusivamente ao Município e que, durante sua vida funcional, tiver revelado méritos excepcionais e inequívoca dedicação ao serviço.\n§ 1º - Se o funcionário já se encontrava no grau \"E\", a promoção \"post mortem\" corresponderá à elevação ao padrão de valor subsequente dentro da escala de vencimentos.\n§ 2º - A decisão de promoção \"post mortem\" caberá ao Prefeito.\n"
+      },
+      "art-0081": {
+       "label": "Art. 81",
+       "kind": "article",
+       "text": "Art. 81 - A promoção \"post mortem\" retroagirá à data do falecimento do funcionário.\n"
+      },
+      "art-0082": {
+       "label": "Art. 82",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO ACESSO\nArt. 82 - Acesso é a elevação do funcionário, dentro da respectiva carreira, a cargo da mesma natureza de trabalho, de maior responsabilidade e maior complexidade de atribuições.\n§ 1º - É de 3 (três) anos o interstício na classe para concorrerão acesso.\n§ 2º - Serão reservados para acesso os cargos cujas atribuições exijam experiência prévia no exercício de outro cargo.\n§ 3º - O acesso será feito mediante aferição do mérito, entre titulares de cargos cujo exercício proporcione a experiência necessária ao desempenho dos cargos referidos no parágrafo anterior.\n§ 4º - A aferição do mérito para fins de acesso será feita mediante concurso de provas, de títulos, ou de provas e títulos.\n§ 5º - Os cargos de provimento por acesso serão discriminados em lei ou decreto.\n"
+      },
+      "art-0083": {
+       "label": "Art. 83",
+       "kind": "article",
+       "text": "Art. 83 - A regulamentação do acesso será estabelecida em decreto.\n"
+      },
+      "art-0084": {
+       "label": "Art. 84",
+       "kind": "article",
+       "text": "Art. 84 - O funcionário que, por acesso, for elevado a nova classe, conservará o grau em que se encontrava na situação anterior.\n"
+      },
+      "art-0085": {
+       "label": "Art. 85",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA TRANSPOSIÇÃO\nArt. 85 - Transposição é o instituto que objetiva a alocação dos recursos humanos do serviço público de acordo com aptidões e formação profissional, mediante a passagem do funcionário de um para outro cargo de provimento efetivo, porém de conteúdo ocupacional diverso.\n"
+      },
+      "art-0086": {
+       "label": "Art. 86",
+       "kind": "article",
+       "text": "Art. 86 - A transposição efetuar-se-á mediante processo seletivo especial, respeitadas as exigências de habilitação, condições e requisitos do cargo a ser provido, na forma prevista em regulamento.\nParágrafo Único. Fica assegurado ao funcionário que se utilizar do instrumento da transposição o direito de ser classificado no padrão do novo cargo, no grau de igual valor ou, não havendo este, no de valor imediatamente superior ao do padrão do antigo cargo.\n"
+      },
+      "art-0087": {
+       "label": "Art. 87",
+       "kind": "article",
+       "text": "Art. 87 - Antes da abertura de concurso público, parte das vagas de determinadas classes poderá ser reservada para transposição.\n"
+      },
+      "art-0088": {
+       "label": "Art. 88",
+       "kind": "article",
+       "text": "Art. 88 - Quando o número de candidatos habilitados para provimento mediante transposição for insuficiente para preencher as vagas respectivas, reverterão estas para os candidatos habilitados para provimento mediante concurso público.\nParágrafo Único. O mesmo procedimento de reversão de vagas será adotado quando o número de candidatos habilitados para provimento em concurso público for insuficiente para preenchimento das vagas que lhe foram destinadas.\n"
+      },
+      "art-0089": {
+       "label": "Art. 89",
+       "kind": "article",
+       "text": "## TÍTULO IV\n## DOS DIREITOS E VANTAGENS DE ORDEM PECUNIÁRIA\n## CAPÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 89 - Poderão ser deferidas ao funcionário as seguintes vantagens pecuniárias:\nI - diárias;\nII - auxílio para diferença de caixa;\nIII - salário-família;\nIV -\nV - auxílio-doença;\nVI - gratificações;\nVII - adicional por tempo de serviço;\nVIII - sexta-parte;\nIX - outras vantagens ou concessões pecuniárias previstas em leis especiais ou neste Estatuto.\nParágrafo Único. O funcionário que receber dos cofres públicos vantagem indevida será responsabilizado, se tiver agido de má fé. Em qualquer caso, responderá pela reposição da quantia que houver recebido, solidariamente com quem tiver autorizado o pagamento.\n"
+      },
+      "art-0090": {
+       "label": "Art. 90",
+       "kind": "article",
+       "text": "Art. 90 - É proibido ceder ou gravar vencimento ou quaisquer vantagens decorrentes do exercício do cargo ou função pública.\n"
+      },
+      "art-0091": {
+       "label": "Art. 91",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO VENCIMENTO, DO HORÁRIO E DO PONTO\nArt. 91 - Vencimento é a retribuição mensal paga ao funcionário pelo efetivo exercício do cargo, correspondente ao padrão e vantagens incorporadas para todos os efeitos legais.\n"
+      },
+      "art-0092": {
+       "label": "Art. 92",
+       "kind": "article",
+       "text": "Art. 92 - O funcionário perderá:\nI - o vencimento do dia, quando não comparecerão serviço, quando o fizer após a hora seguinte à marcada para o início dos trabalhos ou se retirar antes da última hora;\nII - 1/3 (um terço) do vencimento do dia, quando comparecer ao serviço dentro da hora seguinte à marcada para o início dos trabalhos, ou quando se retirar dentro da última hora;\nIII - o vencimento correspondente aos domingos, feriados e dias de ponto facultativo intercalados, no caso de faltas sucessivas, justificadas ou injustificadas.\nParágrafo único. Poderão ser abonados 6 (seis) dias de falta ao serviço por ano, limitados a 1 (um) por mês, mediante motivo justificado e a critério da autoridade competente, no primeiro dia em que o funcionário comparecer ao serviço após a falta.\n"
+      },
+      "art-0093": {
+       "label": "Art. 93",
+       "kind": "article",
+       "text": "Art. 93 - O funcionário não sofrerá quaisquer descontos do vencimento nos casos previstos no artigo 64.\n"
+      },
+      "art-0094": {
+       "label": "Art. 94",
+       "kind": "article",
+       "text": "Art. 94 - Nos casos de necessidade, devidamente comprovada, o período de trabalho poderá ser antecipado ou prorrogado.\n"
+      },
+      "art-0095": {
+       "label": "Art. 95",
+       "kind": "article",
+       "text": "Art. 95 - A frequência do funcionário será apurada:\nI - pelo ponto;\nII - pela forma determinada em regulamento, quanto aos funcionários não sujeitos ao ponto.\n§ 1º - Ponto é o registro que assinala o comparecimento do funcionário ao serviço e pelo qual se verifica, diariamente, a sua entrada e saída.\n§ 2º - Salvo nos casos expressamente previstos neste Estatuto, é vedado dispensar o funcionário do registro do ponto e abonar faltas ao serviço.\n§ 3º - A infração do disposto no parágrafo anterior determinará a responsabilidade da autoridade que tiver expedido a ordem, sem prejuízo da ação disciplinar que for cabível.\n"
+      },
+      "art-0096": {
+       "label": "Art. 96",
+       "kind": "article",
+       "text": "Art. 96 - As reposições devidas à Fazenda Municipal poderão ser feitas em parcelas mensais não excedentes à décima parte do vencimento líquido do funcionário.\nParágrafo Único. Não caberá reposição parcelada quando o funcionário solicitar exoneração, quando for demitido, ou quando abandonar o cargo.\n"
+      },
+      "art-0097": {
+       "label": "Art. 97",
+       "kind": "article",
+       "text": "Art. 97 - Dos vencimentos ou dos proventos somente poderão ser feitos os descontos previstos em lei, ou os que forem expressamente autorizados pelo funcionário por danos causados à Administração Municipal.\n"
+      },
+      "art-0098": {
+       "label": "Art. 98",
+       "kind": "article",
+       "text": "Art. 98 - As consignações em folha, para efeito de desconto de vencimentos, serão disciplinadas em decreto.\n"
+      },
+      "art-0099": {
+       "label": "Art. 99",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS GRATIFICAÇÕES\n## SEÇÃO I\n## DISPOSIÇÕES GERAIS\nArt. 99 - Será concedida gratificação ao funcionário:\nI - pela prestação de serviço extraordinário;\nII - pela prestação de serviço noturno;\nIII -\nIV - em outros casos previstos em lei.\n"
+      },
+      "art-0100": {
+       "label": "Art. 100",
+       "kind": "article",
+       "text": "Art. 100 - Poderá ser concedida gratificação:\nI - pelo exercício em Gabinete do Prefeito, de Secretário Municipal e de outras autoridades, até o nível de Diretor de Departamento, e pelo exercício em função de Diretor de Divisão;\nII - pela elaboração ou execução de trabalho técnico ou científico de utilidade para o serviço público;\nIII - pela participação em Conselhos, Comissões ou Grupos de Trabalho especiais, quando sem prejuízo das atribuições normais.\n"
+      },
+      "art-0101": {
+       "label": "Art. 101",
+       "kind": "article",
+       "text": "Art. 101 - A gratificação por prestação de serviço especial, com risco de vida ou saúde, e a prevista no inciso III do artigo anterior serão objeto de disciplinação em lei.\n"
+      },
+      "art-0102": {
+       "label": "Art. 102",
+       "kind": "article",
+       "text": "Art. 102 - As gratificações previstas no artigo 100, incisos I e II, serão arbitradas pelo Prefeito através de decreto, não podendo ultrapassar 1,5 (uma e meia) vez o valor do padrão de Secretário Municipal.\n"
+      },
+      "art-0103": {
+       "label": "Art. 103",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DA GRATIFICAÇÃO POR SERVIÇOS EXTRAORDINÁRIOS\nArt. 103 -\n"
+      },
+      "art-0104": {
+       "label": "Art. 104",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA GRATIFICAÇÃO POR SERVIÇO NOTURNO\nArt. 104 - Pelo serviço noturno, prestado das 22 às 6 horas, os funcionários do Quadro de Cargos de Natureza Operacional terão o valor da respectiva hora-trabalho acrescido de 25% (vinte e cinco por cento).\n"
+      },
+      "art-0105": {
+       "label": "Art. 105",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DA GRATIFICAÇÃO DE NATAL\nArt. 105 -\nParágrafo Único.\na)\nb)\nc)\nd)\ne)\n"
+      },
+      "art-0106": {
+       "label": "Art. 106",
+       "kind": "article",
+       "text": "Art. 106 -\n"
+      },
+      "art-0107": {
+       "label": "Art. 107",
+       "kind": "article",
+       "text": "Art. 107 -\nParágrafo Único.\n"
+      },
+      "art-0108": {
+       "label": "Art. 108",
+       "kind": "article",
+       "text": "Art. 108 -\n"
+      },
+      "art-0109": {
+       "label": "Art. 109",
+       "kind": "article",
+       "text": "Art. 109 -\nParágrafo Único.\n"
+      },
+      "art-0110": {
+       "label": "Art. 110",
+       "kind": "article",
+       "text": "Art. 110 -\n"
+      },
+      "art-0111": {
+       "label": "Art. 111",
+       "kind": "article",
+       "text": "Art. 111 -\n"
+      },
+      "art-0112": {
+       "label": "Art. 112",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DOS QUINQUÊNIOS\nArt. 112 - A partir de 1º de janeiro de 1980, o funcionário terá direito, após cada período de cinco anos, contínuos ou não, à percepção de adicional por tempo de serviço público municipal, calculado sobre o padrão de vencimento, da seguinte forma:\nI - de 5 a 10 anos: 5%\nII - de 10 a 15 anos: 10,25%;\nIII - de 15 a 20 anos: 15,76%;\nIV - de 20 a 25 anos: 21,55%;\nV - de 25 a 30 anos: 27,63%;\nVI - de 30 a 35 anos: 34,01%;\nVII - mais de 35 anos: 40,71%.\n§ 1º - O adicional será calculado sobre o padrão de vencimento do cargo que o funcionário estiver exercendo.\n§ 2º - Os percentuais fixados neste artigo são mutuamente exclusivos, não podendo ser percebidos cumulativamente.\n"
+      },
+      "art-0113": {
+       "label": "Art. 113",
+       "kind": "article",
+       "text": "Art. 113 - O disposto neste Capítulo aplica-se aos inativos.\n"
+      },
+      "art-0114": {
+       "label": "Art. 114",
+       "kind": "article",
+       "text": "Art. 114 - O adicional por tempo de serviço previsto no artigo 112 incorpora-se ao vencimento para todos os efeitos legais, observada a forma e o cálculo nele determinados.\n"
+      },
+      "art-0115": {
+       "label": "Art. 115",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA SEXTA-PARTE DO VENCIMENTO\nArt. 115 - O funcionário que completar 25 (vinte e cinco) anos de efetivo exercício no serviço público municipal perceberá importância equivalente à sexta-parte do seu vencimento.\n"
+      },
+      "art-0116": {
+       "label": "Art. 116",
+       "kind": "article",
+       "text": "Art. 116 - A sexta-parte incorpora-se ao vencimento para todos os efeitos legais.\n"
+      },
+      "art-0117": {
+       "label": "Art. 117",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DO SALÁRIO-FAMÍLIA\nArt. 117. A todo servidor ou inativo, que tiver alimentário sob sua guarda ou sustento, será concedido salário-família no valor correspondente ao fixado para o Regime Geral de Previdência Social.\n§ 1º - O salário-família não será devido ao funcionário licenciado sem direito à percepção de vencimentos.\n§ 2º - O disposto no parágrafo anterior não se aplica aos casos disciplinares e penais, nem aos de licença por motivo de doença em pessoa de família.\n"
+      },
+      "art-0118": {
+       "label": "Art. 118",
+       "kind": "article",
+       "text": "Art. 118. Para os efeitos de concessão do salário-família, consideram-se alimentários, desde que vivam total ou parcialmente às expensas do servidor ou do inativo, os filhos ou equiparados com idade até 14 (catorze) anos.\n§ 1º O benefício referido neste artigo será devido, independentemente de limite de idade, se o alimentário apresentar invalidez permanente de qualquer natureza, pericialmente comprovada.\n§ 2º Equipara-se a filho, mediante declaração escrita do servidor ou do inativo e comprovação da dependência econômica, o enteado e o menor sob tutela ou guarda, desde que não possuam bens suficientes para o próprio sustento e educação.\n"
+      },
+      "art-0119": {
+       "label": "Art. 119",
+       "kind": "article",
+       "text": "Art. 119 - Não tem direito ao salário-família o cônjuge do servidor em atividade, inatividade ou disponibilidade da União, do Estado ou de outros Municípios e das respectivas Administrações Indiretas, que esteja gozando ou venha a gozar de idêntico benefício em razão do mesmo alimentário.\n"
+      },
+      "art-0120": {
+       "label": "Art. 120",
+       "kind": "article",
+       "text": "Art. 120. O salário-família só será devido a servidor ou a inativo que perceber remuneração, subsídios ou proventos iguais ou inferiores aos limites estabelecidos para a concessão desse benefício no âmbito do Regime Geral de Previdência Social.\n"
+      },
+      "art-0121": {
+       "label": "Art. 121",
+       "kind": "article",
+       "text": "Art. 121 -\n"
+      },
+      "art-0122": {
+       "label": "Art. 122",
+       "kind": "article",
+       "text": "Art. 122 - Quando o pai e a mãe tiverem ambos a condição de funcionário público ou inativo e viverem em comum, o salário-família será concedido a um deles.\nParágrafo Único. Se não viverem em comum, será concedido ao que tiver os dependentes sob sua guarda ou a ambos de acordo com a distribuição dos dependentes.\n"
+      },
+      "art-0123": {
+       "label": "Art. 123",
+       "kind": "article",
+       "text": "Art. 123 - Ao pai e a mãe se equiparam o padrasto e a madrasta, e, na falta destes, os representantes legais dos incapazes.\n"
+      },
+      "art-0124": {
+       "label": "Art. 124",
+       "kind": "article",
+       "text": "Art. 124 - A concessão dos benefícios previstos neste Capítulo será objeto de regulamento.\n"
+      },
+      "art-0125": {
+       "label": "Art. 125",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DAS OUTRAS CONCESSÕES PECUNIÁRIAS\nArt. 125. Ao cônjuge ou companheiro, ou na falta destes, ao ascendente ou descendente em linha reta que provar ter feito despesas relativas ao funeral de funcionário ativo ou inativo, será concedida, a título de auxílio-funeral, mesmo nos casos de acúmulo de cargos, funções, vencimentos e proventos, uma única parcela de R$ 4.000,00 (quatro mil reais).\n§ 1º Quando, na falta do cônjuge, companheiro, ascendente ou descendente em linha reta da pessoa falecida, as despesas relativas ao funeral forem efetivadas por pessoa diversa, ser-lhe-á reembolsada a importância efetivamente dispendida, mediante comprovação, até o limite fixado no \"caput\" deste artigo.\n§ 2º O auxílio-funeral ou o reembolso das despesas deverá ser requerido no prazo de até 180 (cento e oitenta) dias contados da data do óbito do funcionário ativo ou inativo sob pena de decadência.\n§ 3º Decreto fixará o procedimento e os documentos necessários para o deferimento do auxílio-funeral ou reembolso das despesas relativas ao funeral de funcionário ativo ou inativo.\n§ 4º Portaria do órgão competente pelo deferimento do auxílio-funeral ou do reembolso atualizará, anualmente, no mês de dezembro, o valor previsto no \"caput\" deste artigo, para vigência no exercício orçamentário subsequente, com base na variação, no período, do índice Nacional de Preços ao Consumidor Amplo - IPCA ou outro índice que vier a substituí-lo.\n"
+      },
+      "art-0126": {
+       "label": "Art. 126",
+       "kind": "article",
+       "text": "Art. 126 - Dar-se-á ao funcionário auxílio-doença, correspondente a um mês de vencimento, após cada período de 12 (doze) meses consecutivos de licença para tratamento de sua saúde.\n"
+      },
+      "art-0127": {
+       "label": "Art. 127",
+       "kind": "article",
+       "text": "Art. 127 - O auxílio de que trata o artigo anterior não será concedido em relação aos períodos completados antes da vigência deste Estatuto.\n"
+      },
+      "art-0128": {
+       "label": "Art. 128",
+       "kind": "article",
+       "text": "Art. 128 - Ao funcionário que se deslocar temporariamente do Município, no desempenho de suas atribuições, conceder-se-á, além do transporte, diária a título de indenização pelas despesas de alimentação e pousada, na forma estabelecida em decreto.\n"
+      },
+      "art-0129": {
+       "label": "Art. 129",
+       "kind": "article",
+       "text": "Art. 129 - Ao funcionário que receber incumbência de missão ou estudo, que o obrigue a permanecer fora do Município por mais de 30 (trinta) dias poderá ser concedida ajuda de custo, sem prejuízo das diárias que lhe couberem.\n"
+      },
+      "art-0130": {
+       "label": "Art. 130",
+       "kind": "article",
+       "text": "Art. 130 - Ao funcionário que pagar ou receber em moeda corrente, poderá ser concedida gratificação que não excederá a 1/3 (um terço) da referência numérica do cargo, para compensar eventuais diferenças de caixa.\nParágrafo Único. A gratificação de que trata este artigo será fixada em decreto.\n"
+      },
+      "art-0131": {
+       "label": "Art. 131",
+       "kind": "article",
+       "text": "Art. 131 - A concessão de que trata o artigo anterior só poderá ser deferida ao funcionário que se encontre no exercício do cargo e mantenha contato com o público, pagando ou recebendo em moeda corrente.\n"
+      },
+      "art-0132": {
+       "label": "Art. 132",
+       "kind": "article",
+       "text": "## TÍTULO V\n## DOS DIREITOS E VANTAGENS DE ORDEM GERAL\n## CAPÍTULO I\n## DAS FÉRIAS\nArt. 132 -\n"
+      },
+      "art-0133": {
+       "label": "Art. 133",
+       "kind": "article",
+       "text": "Art. 133 -\n"
+      },
+      "art-0134": {
+       "label": "Art. 134",
+       "kind": "article",
+       "text": "Art. 134 -\n"
+      },
+      "art-0135": {
+       "label": "Art. 135",
+       "kind": "article",
+       "text": "Art. 135 -\n"
+      },
+      "art-0136": {
+       "label": "Art. 136",
+       "kind": "article",
+       "text": "Art. 136 -\n"
+      },
+      "art-0137": {
+       "label": "Art. 137",
+       "kind": "article",
+       "text": "Art. 137 -\n"
+      },
+      "art-0138": {
+       "label": "Art. 138",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS LICENÇAS\n## SEÇÃO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 138 - Será concedida licença ao funcionário:\nI - para tratamento de saúde; );\nII - por motivo de doença em pessoa de sua família;\nIII - nos casos dos artigos 148 e 149;\nIV - para cumprir serviços obrigatórios por lei;\nV - para tratar de interesses particulares;\nVI - compulsória;\nVII - quando acidentado no exercício de suas atribuições ou acometido de doença profissional.\n"
+      },
+      "art-0139": {
+       "label": "Art. 139",
+       "kind": "article",
+       "text": "Art. 139 - A licença dependente de inspeção médica será concedida pelo prazo indicado pelo órgão oficial competente.\n§ 1º - A licença poderá ser prorrogada \"ex officio\" ou a pedido do interessado.\n§ 2º - Finda a licença, deverá o funcionário reassumir o exercício do cargo.\n"
+      },
+      "art-0140": {
+       "label": "Art. 140",
+       "kind": "article",
+       "text": "Art. 140 - O funcionário licenciado para tratamento de saúde não poderá dedicar-se a qualquer atividade remunerada, sob pena de ter cassada a licença e ser promovida sua responsabilidade.\n"
+      },
+      "art-0141": {
+       "label": "Art. 141",
+       "kind": "article",
+       "text": "Art. 141 - O funcionário licenciado nos termos dos incisos I, II, VI e VII do artigo 138 é obrigado a reassumir o exercício do cargo, se for considerado apto em inspeção médica realizada \"ex officio\" ou se não subsistir a doença em pessoa de sua família.\nParágrafo Único. O funcionário poderá desistir da licença, se julgado apto para o exercício do cargo, em inspeção médica.\n"
+      },
+      "art-0142": {
+       "label": "Art. 142",
+       "kind": "article",
+       "text": "Art. 142 - A concessão das licenças dependerá da observância das disposições deste Estatuto e respectiva regulamentação.\n"
+      },
+      "art-0143": {
+       "label": "Art. 143",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DA LICENÇA PARA TRATAMENTO DE SAÚDE\nArt. 143 - Ao funcionário impossibilitado de exercer o cargo por motivo de saúde será concedida licença pelo órgão oficial competente, a pedido do interessado ou \"ex officio\".\n"
+      },
+      "art-0144": {
+       "label": "Art. 144",
+       "kind": "article",
+       "text": "Art. 144 - A licença para tratamento de saúde será concedida com vencimento integral.\nParágrafo Único. A licença poderá ser prorrogada:\n1 - \"ex officio\", por decisão do órgão oficial competente;\n2 - a pedido, por solicitação do interessado, formulada até 8 (oito) dias antes de findo o prazo da licença.\n"
+      },
+      "art-0145": {
+       "label": "Art. 145",
+       "kind": "article",
+       "text": "Art. 145 - A licença superior a 90 (noventa) dias dependerá de inspeção realizada por junta médica.\n"
+      },
+      "art-0146": {
+       "label": "Art. 146",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA\nArt. 146 - O funcionário poderá obter licença por motivo de doença do cônjuge e de parentes até segundo grau, quando verificada, em inspeção médica, ser indispensável a sua assistência pessoal, impossível de ser prestada simultaneamente com o exercício do cargo.\nParágrafo Único. A licença de que trata este artigo não poderá ultrapassar o prazo de 24 (vinte e quatro) meses.\n"
+      },
+      "art-0147": {
+       "label": "Art. 147",
+       "kind": "article",
+       "text": "Art. 147 - A licença será concedida com vencimento, até um mês, e com os seguintes descontos:\nI - de 1/3 (um terço), quando exceder a 1 (um) mês e até 2 (dois) meses;\nII - de 2/3 (dois terços), quando exceder a 2 (dois) meses e até 6 (seis) meses;\nIII - total, do sétimo ao vigésimo quarto mês.\nParágrafo Único. Para os efeitos deste artigo, a licença concedida dentro de 60 (sessenta) dias, contados do término da anterior, será considerada como prorrogação.\n"
+      },
+      "art-0148": {
+       "label": "Art. 148",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DA LICENÇA À GESTANTE\nArt. 148. À funcionária gestante será concedida, mediante inspeção médica, licença de 180 (cento e oitenta) dias, com vencimento integral. ;\n§ 1º - Salvo prescrição médica em contrário, a licença será concedida no curso ou além do início do oitavo mês de gestação, ou até o décimo dia do puerpério.;\n§ 2º - No caso de natimorto será concedida licença para tratamento de saúde, a critério médico, na forma do artigo 143.;\n§ 3º. Durante a licença, cometerá falta grave a funcionária que exercer qualquer atividade remunerada ou mantiver a criança em creche ou organização similar. ;\n§ 4º. A vedação de manutenção da criança em creche ou organização similar, de que trata o § 3º deste artigo, não se aplica ao período de 15 (quinze) dias que antecedam ao termo final da licença, que se destinará à adaptação da criança a essa nova situação. ;\n§ 5º. A licença gestante de que trata este artigo, requerida após o parto e além do décimo dia do puerpério, será concedida mediante a apresentação da certidão de nascimento e vigorará a partir dessa data, podendo retroagir até 15 (quinze) dias. ;\n"
+      },
+      "art-0149": {
+       "label": "Art. 149",
+       "kind": "article",
+       "text": "## SEÇÃO V\n## DA LICENÇA À FUNCIONÁRIA CASADA COM FUNCIONÁRIO PÚBLICO CIVIL OU COM MILITAR\nArt. 149 - A funcionária casada com funcionário público civil, ou com militar, terá direito à licença sem vencimento, quando o marido for prestar serviços, independentemente de solicitação, fora do Município.\nParágrafo Único. A licença será concedida mediante pedido instruído com documento comprobatório e vigorará pelo tempo que durar a comissão ou a nova função do marido.\n"
+      },
+      "art-0150": {
+       "label": "Art. 150",
+       "kind": "article",
+       "text": "## SEÇÃO VI\n## DA LICENÇA PARA CUMPRIR SERVIÇOS OBRIGATÓRIOS POR LEI\nArt. 150 - Ao funcionário que for convocado para o serviço militar ou estágios militares obrigatórios, bem como para o cumprimento de outros serviços públicos obrigatórios por lei, será concedida licença sem prejuízo de direitos e vantagens de seu cargo, com vencimento integral.\n"
+      },
+      "art-0151": {
+       "label": "Art. 151",
+       "kind": "article",
+       "text": "Art. 151 - O funcionário desincorporado reassumirá o exercício do cargo dentro do prazo de 30 (trinta) dias, contados da data da desincorporação.\n"
+      },
+      "art-0152": {
+       "label": "Art. 152",
+       "kind": "article",
+       "text": "Art. 152 - Ao funcionário que houver feito curso para ser admitido como oficial da reserva das Forças Armadas será também concedida licença sem vencimentos durante os estágios prescritos pelos regulamentos militares.\n"
+      },
+      "art-0153": {
+       "label": "Art. 153",
+       "kind": "article",
+       "text": "## SEÇÃO VII\n## DA LICENÇA PARA TRATAR DE INTERESSES PARTICULARES\nArt. 153. O funcionário poderá obter licença sem vencimento para tratar de interesse particular, pelo prazo máximo de 2 (dois) anos.\n§ 1º - A licença referida neste artigo poderá ser negada quando o afastamento do funcionário for inconveniente ao interesse do serviço.\n§ 2º - O funcionário devera aguardar em exercício o despacho concessório ou denegatório da licença.\n"
+      },
+      "art-0154": {
+       "label": "Art. 154",
+       "kind": "article",
+       "text": "Art. 154 - Poderá o funcionário reassumir, a qualquer tempo, desistindo da licença.\n"
+      },
+      "art-0155": {
+       "label": "Art. 155",
+       "kind": "article",
+       "text": "Art. 155 - A autoridade que houver concedido a licença poderá determinar o retorno do funcionário licenciado, sempre que exigir o interesse do serviço público.\n"
+      },
+      "art-0156": {
+       "label": "Art. 156",
+       "kind": "article",
+       "text": "Art. 156 - Só poderá ser concedida nova licença após o decurso de 2 (dois) anos do término da anterior.\n"
+      },
+      "art-0157": {
+       "label": "Art. 157",
+       "kind": "article",
+       "text": "## SEÇÃO VIII\n## DA LICENÇA COMPULSÓRIA\nArt. 157 - O funcionário, ao qual se possa atribuir a condição de fonte de infecção de doença transmissível, poderá ser licenciado, enquanto durar essa condição, a juízo da autoridade sanitária competente.\n"
+      },
+      "art-0158": {
+       "label": "Art. 158",
+       "kind": "article",
+       "text": "Art. 158 - Verificada a procedência da suspeita, o funcionário será licenciado para tratamento de saúde na forma prevista no artigo 143, considerando-se incluídos no período da licença os dias de licenciamento compulsório.\n"
+      },
+      "art-0159": {
+       "label": "Art. 159",
+       "kind": "article",
+       "text": "Art. 159 - Quando não positivada a moléstia, deverá o funcionário retornar ao serviço, considerando-se como de efetivo exercício, para todos os efeitos legais, o período de licença compulsória.\n"
+      },
+      "art-0160": {
+       "label": "Art. 160",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO ACIDENTE DO TRABALHO E DA DOENÇA PROFISSIONAL\nArt. 160 - Ao funcionário que sofrer acidente do trabalho ou for atacado de doença profissional é assegurado:\nI - licença para tratamento de saúde, com o vencimento integral a que faria jus independentemente da ocorrência do acidente ou moléstia, em caso de perda total e temporária da capacidade para o trabalho;\nII - auxílio-acidentário, na forma que a lei estabelecer, para os casos de redução parcial e permanente da capacidade laborativa;\nIII - aposentadoria com proventos integrais quando do infortúnio, da moléstia profissional, ou de seu agravamento, sobrevier perda total e permanente da capacidade para o trabalho;\nIV - pecúlio, a ser pago de uma só vez e na conformidade do que dispuser a lei, se do acidente resultar aposentadoria por invalidez ou morte do agente;\nV - pensão aos beneficiários do funcionário que viera falecer em virtude de acidente do trabalho ou moléstia profissional, a ser concedida de acordo com o que estipular a lei;\nVI - assistência médica domiciliar, ambulatorial, hospitalar e cirúrgica, ainda que plástico-estética, farmacêutica e dentária, bem como serviços de prótese, totalmente gratuita, desde o momento do evento e enquanto for necessária.\n"
+      },
+      "art-0161": {
+       "label": "Art. 161",
+       "kind": "article",
+       "text": "Art. 161 - Os conceitos de acidente do trabalho e respectivas equiparações, bem como a relação das moléstias profissionais e as situações propiciadoras da Concessão do auxílio-acidentário, para os efeitos deste Capítulo, serão os adotados pela legislação federal vigente à época do acidente.\n"
+      },
+      "art-0162": {
+       "label": "Art. 162",
+       "kind": "article",
+       "text": "Art. 162 - Os benefícios previstos neste Capítulo deverão ser pleiteados no prazo de 5 (cinco) anos contados:\nI - da data da perícia médica, nos casos de agravamento da incapacidade;\nII - da data da verificação, pelo médico ou por junta médica, quando se tratar de doença profissional;\nIII - da data do acidente, nos demais casos.\n"
+      },
+      "art-0163": {
+       "label": "Art. 163",
+       "kind": "article",
+       "text": "Art. 163 - A regulamentação deste Capítulo obedecerá o que for estabelecido em lei especial.\n"
+      },
+      "art-0164": {
+       "label": "Art. 164",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA DISPONIBILIDADE\nArt. 164 - O funcionário estável poderá ser posto em disponibilidade remunerada, quando o cargo por ele ocupado for extinto por lei, bem como na hipótese prevista no § 2º do artigo 28.\n§ 1º - O provento do funcionário disponível será proporcional ao tempo de serviço.\n§ 2º - O provento da disponibilidade será revisto sempre que, por motivo de alteração do poder aquisitivo da moeda, se modificarem os vencimentos dos funcionários em atividade.\n"
+      },
+      "art-0165": {
+       "label": "Art. 165",
+       "kind": "article",
+       "text": "Art. 165 - O período em que o funcionário esteve em disponibilidade será contado unicamente para efeito de aposentadoria.\n"
+      },
+      "art-0166": {
+       "label": "Art. 166",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA APOSENTADORIA\nArt. 166 - O servidor será aposentado:\nI - Por invalidez permanente, sendo os proventos integrais quando decorrentes de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificadas em lei, e proporcionais nos demais casos; ;\nII - Compulsoriamente, aos 70 (setenta) anos de idade, com proventos proporcionais ao tempo de serviço;\nIII - Voluntariamente:\na) aos 35 (trinta e cinco) anos de serviço, se homem, e aos 30 (trinta), se mulher, com proventos integrais;\nb) aos 30 (trinta) anos de efetivo exercício em funções de magistério, se professor ou técnico de educação física, e 25 (vinte e cinco), se professora ou técnica de educação física, com proventos integrais;\nc) aos 30 (trinta) anos de serviço, se homem, e aos 25 (vinte e cinco), se mulher, com proventos proporcionais ao tempo de serviço;\nd) aos 65 (sessenta e cinco) anos de idade, se homem e aos 60 (sessenta), se mulher, com proventos proporcionais ao tempo de serviço.\n"
+      },
+      "art-0167": {
+       "label": "Art. 167",
+       "kind": "article",
+       "text": "Art. 167 -\nI -\nII -\n"
+      },
+      "art-0168": {
+       "label": "Art. 168",
+       "kind": "article",
+       "text": "Art. 168 - A aposentadoria compulsória, prevista no inciso II do artigo 166, é automática.\n"
+      },
+      "art-0169": {
+       "label": "Art. 169",
+       "kind": "article",
+       "text": "Art. 169 - O funcionário em disponibilidade poderá ser aposentado nos termos do artigo 166.\n"
+      },
+      "art-0170": {
+       "label": "Art. 170",
+       "kind": "article",
+       "text": "Art. 170 - A aposentadoria produzirá efeito a partir da publicação do ato no órgão oficial.\nParágrafo Único. No caso de aposentadoria compulsória, o funcionário deixará o exercício no dia em que atingir a idade limite, devendo o ato retroagir a essa data.\n"
+      },
+      "art-0171": {
+       "label": "Art. 171",
+       "kind": "article",
+       "text": "Art. 171 -\nI -\na)\nb)\nII -\n"
+      },
+      "art-0172": {
+       "label": "Art. 172",
+       "kind": "article",
+       "text": "Art. 172 -\n"
+      },
+      "art-0173": {
+       "label": "Art. 173",
+       "kind": "article",
+       "text": "Art. 173 - Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos inativos quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, nos moldes da legislação que os instituir\n"
+      },
+      "art-0174": {
+       "label": "Art. 174",
+       "kind": "article",
+       "text": "Art. 174 -\n"
+      },
+      "art-0175": {
+       "label": "Art. 175",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DA ASSISTÊNCIA AO FUNCIONÁRIO\nArt. 175 - O Município poderá promover, na medida de suas possibilidades e recursos, assistência ao funcionário e a sua família, na forma que a lei estabelecer.\n§ 1º - A assistência de que trata este artigo compreenderá:\nI - condições básicas de segurança, higiene e medicina do trabalho, mediante a implantação de sistema apropriado;\nII - previdência, assistência médica, dentária e hospitalar, sanatórios;\nIII - cursos de aperfeiçoamento e especialização profissional, atualização e extensão cultural;\nIV - conferências, congressos, simpósios, seminários, círculos de debates, bem como publicações e trabalhos referentes ao serviço público;\nV - viagens de estudo e visitas a serviços de utilidade pública para aperfeiçoamento e especialização profissional;\nVI - colônias de férias, creches, centros de educação física e cultural, para recreio e aperfeiçoamento moral e intelectual dos funcionários e suas famílias, fora das horas de trabalho.\n§ 2º - Ao funcionário estudante de curso superior será permitido entrar em serviço até uma hora mais tarde, ou retirar-se até uma hora mais cedo da marcada para início ou fim do expediente normal, bem como ausentar-se do serviço nos dias em que se realizarem provas.\n"
+      },
+      "art-0176": {
+       "label": "Art. 176",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DO DIREITO DE PETIÇÃO\nArt. 176 - É assegurado ao funcionário o direito de requerer ou representar, pedir reconsideração e recorrer, desde que o faça dentro das normas de urbanidade, observadas as seguintes regras:\nI - nenhuma solicitação, qualquer que seja a sua forma, poderá ser encaminhada sem conhecimento da autoridade a que o funcionário estiver direta ou imediatamente subordinado;\nII - o pedido de reconsideração deverá ser dirigido à autoridade que houver expedido o ato ou proferido a decisão e somente será cabível quando contiver novos argumentos;\nIII - nenhum pedido de reconsideração poderá ser renovado;\nIV - somente caberá recurso quando houver pedido de reconsideração desatendido;\nV - o recurso será dirigido à autoridade imediatamente superior à que tiver expedido o ato ou proferido a decisão e, em última instância, ao Prefeito;\nVI - nenhum recurso poderá ser encaminhado mais de uma vez à mesma autoridade.\n§ 1º - O pedido de reconsideração e o recurso não têm efeito suspensivo, salvo nos casos previstos em lei. Os que forem providos, porém, darão lugar às retificações necessárias, retroagindo os seus efeitos à data do ato impugnado, desde que a autoridade competente não determine outras providências quanto aos efeitos relativos ao passado.\n§ 2º - As decisões do Prefeito, proferidas em grau de recurso ou em pedido de reconsideração de despacho, encerram a instância administrativa.\n"
+      },
+      "art-0177": {
+       "label": "Art. 177",
+       "kind": "article",
+       "text": "Art. 177 - Salvo disposição expressa em contrário, é de sessenta dias o prazo para interposição de pedidos de reconsideração ou recurso.\nParágrafo Único. O prazo fixado neste artigo será contado da data dá publicação oficial do ato impugnado.\n"
+      },
+      "art-0178": {
+       "label": "Art. 178",
+       "kind": "article",
+       "text": "## TÍTULO VI\n## DOS DEVERES E DA AÇÃO DISCIPLINAR\n## CAPÍTULO I\n## DOS DEVERES\nArt. 178 - São deveres do funcionário:\nI - ser assíduo e pontual;\nII - cumprir as ordens superiores, representando quando forem manifestamente ilegais;\nIII - desempenhar com zelo e presteza os trabalhos de que for incumbido;\nIV - guardar sigilo sobre os assuntos da Administração;\nV - tratar com urbanidade os companheiros de serviço e o público em geral;\nVI - residir no Município ou, mediante autorização, em localidade próxima;\nVII - manter sempre atualizada sua declaração de família, de residência e de domicílio;\nVIII - zelar pela economia do material do Município e pela conservação do que for confiado à sua guarda ou utilização;\nIX - apresentar-se convenientemente trajado em serviço, ou com o uniforme determinado, quando for o caso;\nX - cooperar e manter espírito de solidariedade com os companheiros de trabalho;\nXI - estar em dia com as leis, regulamentos, regimentos, instruções e ordens de serviço que digam respeito às suas funções;\nXII - proceder, pública e particularmente, de forma que dignifique a função pública.\n"
+      },
+      "art-0179": {
+       "label": "Art. 179",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS PROIBIÇÕES\nArt. 179 - É proibida ao funcionário toda ação ou omissão capaz de comprometer a dignidade e o decoro da função pública, ferir a disciplina e a hierarquia, prejudicar a eficiência do serviço ou causar dano à Administração Pública, especialmente:\nI -\nII - retirar, sem prévia permissão da autoridade competente, qualquer documento ou objeto existente na unidade de trabalho;\nIII - valer-se da sua qualidade de funcionário para obter proveito pessoal;\nIV - coagir ou aliciar subordinados com objetivos de natureza político-partidária;\nV - exercer comércio entre os companheiros de serviço, no local de trabalho;\nVI - constituir-se procurador de partes, ou servir de intermediário perante qualquer Repartição Pública, exceto quando se tratar de interesse do cônjuge ou de parente até segundo grau;\nVII - cometer a pessoa estranha, fora dos casos previstos em lei, o desempenho de encargo que lhe competir ou que competir a seus subordinados;\nVIII - entreter-se, durante as horas de trabalho, em palestras, leituras ou atividades estranhas ao serviço;\nIX - empregar material do serviço público para fins particulares;\nX - fazer circular ou subscrever rifas ou listas de donativos no local de trabalho;\nXI -\nXII - receber estipêndios de fornecedores ou de entidades fiscalizadas;\nXIII - designar, para trabalhar sob suas ordens imediatas, parentes até segundo grau, salvo quando se tratar de função de confiança e livre escolha, não podendo, entretanto, exceder a dois o número de auxiliares nessas condições;\nXIV - aceitar representação de Estado estrangeiro, sem autorização do Presidente da República;\nXV - fazer, com a Administração Direta ou Indireta, contratos de natureza comercial, industrial ou de prestação de serviços com fins lucrativos, por si ou como representante de outrem;\nXVI - participar da gerência ou administração de empresas bancárias ou industriais ou de sociedades comerciais, que mantenham relações comerciais ou administrativas com o Município, sejam por este subvencionadas, ou estejam diretamente relacionadas com a finalidade da unidade ou serviço em que esteja lotado;\nXVII - exercer, mesmo fora das horas de trabalho, emprego ou função em empresas, estabelecimentos ou instituições que tenham relações com o Município, em matéria que se relacione com a finalidade da unidade ou serviço em que esteja lotado;\nXVIII - comerciar ou ter parte em sociedades comerciais nas condições mencionadas no inciso XVI deste artigo, podendo, em qualquer caso, ser acionista, quotista ou comanditário;\nXIX - requerer ou promover a concessão de privilégio, garantias de juros ou outros favores semelhantes, estaduais ou municipais, exceto privilégio de invenção própria;\nXX - trabalhar sob as ordens diretas do cônjuge ou de parentes até segundo grau, salvo quando se tratar de função de imediata confiança e de livre escolha.\n"
+      },
+      "art-0180": {
+       "label": "Art. 180",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA RESPONSABILIDADE\nArt. 180 - O funcionário responde civil, penal e administrativamente pelo exercício irregular de suas atribuições, sendo responsável por todos os prejuízos que, nesta qualidade, causar à Fazenda Municipal, por dolo ou culpa, devidamente apurados.\nParágrafo Único. Caracteriza-se especialmente a responsabilidade:\nI - pela sonegação de valores ou objetos confiados à sua guarda ou responsabilidade;\nII - por não prestar contas ou por não as tomar, na forma e nos prazos estabelecidos em leis, regulamentos, regimentos, instruções e ordens de serviço;\nIII - pelas faltas, danos, avarias, e quaisquer outros prejuízos que sofrerem os bens e os materiais sob sua guarda ou sujeitos a seu exame e fiscalização;\nIV - pela falta ou inexatidão das necessárias averbações nas notas de despacho, guias e outros documentos da receita ou que tenham com eles relação;\nV - por qualquer erro de cálculo ou redução contra a Fazenda Municipal.\n"
+      },
+      "art-0181": {
+       "label": "Art. 181",
+       "kind": "article",
+       "text": "Art. 181 - Nos casos de indenização à Fazenda Municipal, o funcionário será obrigado à repor, de uma só vez e com os acréscimos de lei e correção monetária, a importância do prejuízo causado em virtude de alcance, desfalque, remissão ou omissão em efetuar recolhimentos ou entradas nos prazos legais.\n"
+      },
+      "art-0182": {
+       "label": "Art. 182",
+       "kind": "article",
+       "text": "Art. 182 - Excetuados os casos previstos no artigo anterior, será admitido o pagamento parcelado, na forma do artigo 96.\n"
+      },
+      "art-0183": {
+       "label": "Art. 183",
+       "kind": "article",
+       "text": "Art. 183 - A responsabilidade administrativa não exime o funcionário da responsabilidade civil ou criminal que no caso couber, nem o pagamento da indenização a que ficar obrigado o exime da pena disciplinar em que incorrer.\n"
+      },
+      "art-0184": {
+       "label": "Art. 184",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS PENALIDADES\nArt. 184 - São penas disciplinares:\nI - repreensão;\nII - suspensão;\nIII - demissão;\nIV - demissão a bem do serviço público;\nV - cassação de aposentadoria ou da disponibilidade.\n"
+      },
+      "art-0185": {
+       "label": "Art. 185",
+       "kind": "article",
+       "text": "Art. 185 - A pena de repreensão será aplicada por escrito, nos casos de indisciplina ou falta de cumprimento dos deveres funcionais.\n"
+      },
+      "art-0186": {
+       "label": "Art. 186",
+       "kind": "article",
+       "text": "Art. 186 - A pena de suspensão, que não excederá a 120 (cento e vinte) dias, será aplicada em casos de falta grave ou de reincidência.\n§ 1º - O funcionário suspenso perderá, durante o período de cumprimento da suspensão, todos os direitos e vantagens decorrentes do exercício do cargo.\n§ 2º - Quando houver conveniência para o serviço, a pena de suspensão poderá ser convertida em multa, sendo o funcionário, nesse caso, obrigado a permanecer em exercício.\n§ 3º - A multa não poderá exceder à metade dos vencimentos, nem perdurar por mais de 120 (cento e vinte) dias.\n"
+      },
+      "art-0187": {
+       "label": "Art. 187",
+       "kind": "article",
+       "text": "Art. 187 - A autoridade que tiver conhecimento de infração funcional que enseje a aplicação de penas de repreensão e suspensão até 5 (cinco) dias deverá notificar por escrito o servidor da infração a ele imputada, com prazo de 3 (três) dias para oferecimento de defesa.\n§ 1º - A defesa dirigida à autoridade notificante deverá ser feita por escrito e entregue contra recibo.\n§ 2º - O não acolhimento da defesa ou sua não apresentação no prazo legal acarretará a aplicação das penalidades previstas no \"caput\" deste artigo, mediante ato motivado, expedindo-se a respectiva portaria e providenciada a anotação, em assentamento, da penalidade aplicada, após publicação no Diário Oficial do Município.\n"
+      },
+      "art-0188": {
+       "label": "Art. 188",
+       "kind": "article",
+       "text": "Art. 188 - Será aplicada ao funcionário a pena de demissão nos casos de:\nI - abandono do cargo;\nII - faltas ao serviço, sem justa causa, por mais de 60 (sessenta) dias interpolados durante o ano;\nIII - procedimento irregular de natureza grave;\nIV - acumulação proibida de cargos públicos, se provada a má fé;\nV - ofensas físicas, em serviço ou em razão dele, a servidores ou particulares, salvo se em legítima defesa;\nVI - transgressão dos incisos XII, XIII, XV, XVI, XVII e XVIII do artigo 179;\nVII - ineficiência no serviço.\n§ 1º - Dar-se-á por configurado o abandono do cargo, quando o funcionário faltar ao serviço por mais de 30 (trinta) dias consecutivos.\n§ 2º - A pena de demissão por ineficiência no serviço só será aplicada quando verificada a impossibilidade de readaptação.\n"
+      },
+      "art-0189": {
+       "label": "Art. 189",
+       "kind": "article",
+       "text": "Art. 189 - Será aplicada a pena de demissão a bem do serviço público ao funcionário que:\nI - praticar ato de incontinência pública e escandalosa, ou dar-se-á a vícios de jogos proibidos;\nII - praticar crimes hediondos previstos na Lei Federal nº 8.072, de 25 de julho de 1990, alterada pela Lei Federal nº 8.930, de 6 de setembro de 1994, crimes contra a administração pública, a fé pública, a ordem tributária e a segurança nacional;\nIII - revelar segredos de que tenha conhecimento em razão do cargo ou função, desde que o faça dolosamente, com prejuízo para o Município ou para qualquer particular;\nIV - praticar insubordinação grave;\nV - lesar o patrimônio ou os cofres públicos;\nVI - receber ou solicitar propinas, comissões ou vantagens de qualquer espécie, diretamente ou por intermédio de outrem, ainda que fora de suas funções, mas em razão delas;\nVII - pedir, por empréstimo, dinheiro ou quaisquer valores a pessoas que tratem de interesse, ou o tenham na unidade de trabalho, ou estejam sujeitas à sua fiscalização;\nVIII - conceder vantagens ilícitas, valendo-se da função pública;\nIX - exercer a advocacia administrativa.\n"
+      },
+      "art-0190": {
+       "label": "Art. 190",
+       "kind": "article",
+       "text": "Art. 190 - O ato de demitir o funcionário mencionará sempre a disposição legal em que se fundamente.\n"
+      },
+      "art-0191": {
+       "label": "Art. 191",
+       "kind": "article",
+       "text": "Art. 191 - Será cassada a aposentadoria ou a disponibilidade, se ficar provado que o inativo:\nI - praticou, quando em atividade, falta grave para a qual, neste Estatuto, seja cominada pena de demissão ou demissão a bem do serviço público;\nII - aceitou ilegalmente cargo ou função pública;\nIII - aceitou a representação de Estado estrangeiro, sem prévia autorização do Presidente da República;\nIV - praticou a usura em qualquer de suas formas.\n"
+      },
+      "art-0192": {
+       "label": "Art. 192",
+       "kind": "article",
+       "text": "Art. 192 - As penalidades poderão ser abrandadas pela autoridade que as tiver de aplicar, levadas em conta as circunstâncias da falta disciplinar e o anterior comportamento do funcionário.\n"
+      },
+      "art-0193": {
+       "label": "Art. 193",
+       "kind": "article",
+       "text": "Art. 193 - Deverão constar do assentamento individual do funcionário todas as penas que lhe forem impostas, ressalvada a hipótese do § 4º do artigo 187.\n"
+      },
+      "art-0194": {
+       "label": "Art. 194",
+       "kind": "article",
+       "text": "Art. 194 - Uma vez submetido a inquérito administrativo, o funcionário só poderá ser exonerado a pedido, depois de ocorrida absolvição ou após o cumprimento da penalidade que lhe houver sido imposta.\nParágrafo Único - O disposto neste artigo não se aplica, a juízo da autoridade competente para impor a penalidade, aos casos de procedimentos disciplinares instaurados por infração aos incisos I ou II do artigo 188.\n"
+      },
+      "art-0195": {
+       "label": "Art. 195",
+       "kind": "article",
+       "text": "Art. 195 - Para aplicação das penalidades previstas no artigo 184, são competentes:\nI - O Prefeito;\nII - Os Secretários Municipais, até a de suspensão;\nIII - Os Diretores de Departamento ou autoridades equiparadas, até a de Suspensão, limitada a 15 (quinze) dias;\nIV - As demais chefias a que estiver subordinado o funcionário, nas hipóteses de repreensão e suspensão até 5 (cinco) dias.\nParágrafo Único. O Prefeito poderá delegar competência aos Secretários para demissão nos casos dos incisos I, II e VII do artigo 188.\n"
+      },
+      "art-0196": {
+       "label": "Art. 196",
+       "kind": "article",
+       "text": "Art. 196 - Prescreverá:\nI - em 2 (dois) anos, a falta que sujeite às penas de repreensão ou suspensão;\nII - em 5 (cinco) anos, a falta que sujeite às penas de demissão, demissão a bem do serviço público e de cassação de aposentadoria ou disponibilidade.\nParágrafo Único - A falta também prevista como crime na lei penal prescreverá juntamente com ele, aplicando-se ao procedimento disciplinar, neste caso, os prazos prescricionais estabelecidos no Código Penal, quando superiores a cinco anos.\n"
+      },
+      "art-0197": {
+       "label": "Art. 197",
+       "kind": "article",
+       "text": "Art. 197 - Nas hipóteses dos incisos I e II do artigo anterior, a prescrição começa a correr da data em que a autoridade tomar conhecimento da existência da falta.\n§ 1º - O curso da prescrição interrompe-se pela abertura do competente procedimento administrativo.\n§ 2º - Na hipótese do parágrafo anterior, todo o prazo começa a correr novamente, do dia da interrupção.\n"
+      },
+      "art-0198": {
+       "label": "Art. 198",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DA SUSPENSÃO PREVENTIVA\nArt. 198\n§ 1º -\n§ 2º -\n"
+      },
+      "art-0199": {
+       "label": "Art. 199",
+       "kind": "article",
+       "text": "Art. 199 - O funcionário poderá ser suspenso preventivamente, até 120 (cento e vinte) dias, desde que o seu afastamento seja necessário para assegurar a averiguação da infração a ele imputada ou para inibir a possibilidade de reiteração da prática de irregularidades.\n§ 1º - A suspensão preventiva poderá ser aplicada nos seguintes momentos procedimentais:\nI - quando se tratar de sindicância, após a oitiva do funcionário intimado para prestar esclarecimentos;\nII - quando se tratar de procedimento de investigação da Ouvidoria Geral do Município, após a oitiva do funcionário a ser suspenso;\nIII - quando se tratar de procedimento disciplinar de exercício da pretensão punitiva, após a citação do indiciado.\n§ 2º - Se, após a realização dos procedimentos previstos nos incisos I e II do parágrafo 1º deste artigo, persistirem as condições previstas no \"caput\" deste artigo por ocasião da instauração de procedimento disciplinar de exercício da pretensão punitiva, a suspensão preventiva poderá ser novamente aplicada, pelo prazo máximo de 120 (cento e vinte) dias, observado o disposto no \"caput\" do artigo 200.\n"
+      },
+      "art-0200": {
+       "label": "Art. 200",
+       "kind": "article",
+       "text": "Art. 200 - Durante o período de suspensão preventiva, o funcionário perderá 1/3 (um terço) dos vencimentos, exceto nas hipóteses previstas nos incisos I e II do parágrafo 1º do artigo 199.\nParágrafo Único - O funcionário terá direito:\n1 - à diferença do vencimento e à contagem de tempo de serviço relativo ao período da suspensão preventiva, quando do processo não resultar punição ou esta se limitar à pena de repreensão;\n2 - à diferença de vencimento e à contagem do tempo de serviço correspondente ao período do afastamento excedente ao prazo de suspensão efetivamente aplicada.\n"
+      },
+      "art-0201": {
+       "label": "Art. 201",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DOS PROCEDIMENTOS DE NATUREZA DISCIPLINAR\n## SEÇÃO I\n## DISPOSIÇÕES GERAIS\nArt. 201 - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a tomar providências objetivando a apuração dos fatos e responsabilidades.\n§ 1º - As providências de apuração terão início imediato após o conhecimento dos fatos e serão adotadas na unidade onde estes ocorreram, consistindo na elaboração de relatório circunstanciado e conclusivo sobre os fatos, instruído com a oitiva dos envolvidos e das testemunhas, além de outras provas indispensáveis ao seu esclarecimento.\n§ 2º - As providências de apuração previstas no parágrafo 1º deste artigo serão adotadas pela autoridade que tiver ciência da irregularidade, podendo ser cometidas a funcionário ou comissão de funcionários.\n§ 3º - A apuração deverá ser concluída no prazo de 20 (vinte) dias, findo o qual os autos serão enviados ao Titular da Pasta ou da Subprefeitura a que pertencer a unidade em que o fato ocorreu, o qual, após criteriosa análise, determinará:\nI - a aplicação de penalidade, nos termos do artigo 187, quando a responsabilidade subjetiva pela ocorrência encontrar-se definida, porém a natureza da falta cometida não for grave, não houver dano ao patrimônio público ou se este for de valor irrisório;\nII - o arquivamento do feito, quando comprovada a inexistência de responsabilidade funcional pela ocorrência irregular investigada;\nIII - a remessa dos autos ao Departamento de Procedimentos Disciplinares - PROCED ou, em se tratando de servidor integrante do Quadro dos Profissionais da Guarda Civil Metropolitana, à Secretaria Municipal de Segurança Urbana, quando:\na) a autoria do fato irregular estiver comprovada;\nb) encontrar-se perfeitamente definida a responsabilidade subjetiva do servidor pelo evento irregular;\nc) existirem fortes indícios de ocorrência de responsabilidade funcional, que exijam a complementação das investigações mediante sindicância.\n§ 4º - Existindo suficientes indícios da ocorrência de infração disciplinar e de sua autoria, será instaurado procedimento disciplinar de exercício da pretensão punitiva.\n"
+      },
+      "art-0202": {
+       "label": "Art. 202",
+       "kind": "article",
+       "text": "## SEÇÃO II\n## DO PROCESSO SUMÁRIO\nArt. 202 - Instaura-se o processo sumário quando a falta disciplinar, pelas proporções ou pela natureza, não comportar demissão, ressalvado o disposto no artigo 187.\nParágrafo Único. No processo sumário, após a instrução, dar-se-á vista ao funcionário para apresentação de defesa em 5 (cinco) dias, seguindo-se a decisão. ;\n"
+      },
+      "art-0203": {
+       "label": "Art. 203",
+       "kind": "article",
+       "text": "## SEÇÃO III\n## DA SINDICÂNCIA\nArt. 203 - A sindicância é peça preliminar e informativa do inquérito administrativo, devendo ser promovida quando os fatos não estiverem definidos ou faltarem elementos indicativos da autoria.;\n"
+      },
+      "art-0204": {
+       "label": "Art. 204",
+       "kind": "article",
+       "text": "Art. 204 - A sindicância não comporta o contraditório e tem caráter sigiloso, devendo ser ouvidos, no entanto, os envolvidos nos fatos.;\n"
+      },
+      "art-0205": {
+       "label": "Art. 205",
+       "kind": "article",
+       "text": "Art. 205 - O relatório da sindicância conterá a descrição articulada dos fatos e proposta objetiva ante o que se apurou, recomendando o arquivamento do feito ou a abertura do inquérito administrativo.;\nParágrafo Único. Quando recomendar abertura do inquérito administrativo, o relatório deverá apontar os dispositivos legais infringidos e a autoria apurada.;\n"
+      },
+      "art-0206": {
+       "label": "Art. 206",
+       "kind": "article",
+       "text": "Art. 206 - A sindicância deverá estar concluída no prazo de trinta dias, que só poderá ser prorrogado mediante justificação fundamentada.;\n"
+      },
+      "art-0207": {
+       "label": "Art. 207",
+       "kind": "article",
+       "text": "## SEÇÃO IV\n## DO INQUÉRITO ADMINISTRATIVO\nArt. 207 - Instaura-se inquérito administrativo quando a falta disciplinar, por sua natureza, possa determinar a pena de demissão.;\nParágrafo Único. No inquérito administrativo é assegurado amplamente o exercício do direito de defesa.;\n"
+      },
+      "art-0208": {
+       "label": "Art. 208",
+       "kind": "article",
+       "text": "Art. 208 - A determinação de instauração de inquérito administrativo e sua decisão competem ao Prefeito que, no entanto, poderá delegar essas atribuições, respeitado o disposto no parágrafo único do artigo 195.;\nParágrafo Único. O inquérito administrativo será conduzido por Comissão Processante, permanente ou especial, presidida obrigatoriamente por Procurador Municipal e composta sempre por funcionários efetivos.;\n"
+      },
+      "art-0209": {
+       "label": "Art. 209",
+       "kind": "article",
+       "text": "Art. 209. O inquérito administrativo será iniciado no prazo de 5 (cinco) dias, contados do recebimento dos autos pela Comissão Processante e concluído no prazo de 180 (cento e oitenta) dias, contados do seu início.\nParágrafo único. O prazo para a conclusão do inquérito poderá ser prorrogado, mediante justificação fundamentada, pelo Procurador-Geral do Município, que poderá delegar esta atribuição.\n"
+      },
+      "art-0210": {
+       "label": "Art. 210",
+       "kind": "article",
+       "text": "Art. 210 - Recebidos os autos, a Comissão promovera o indiciamento do funcionário, apontando o dispositivo legal infringido.;\n"
+      },
+      "art-0211": {
+       "label": "Art. 211",
+       "kind": "article",
+       "text": "Art. 211 - O indiciado será citado para participar do processo e se defender.;\n§ 1º - A citação será pessoal e deverá conter a transcrição do indiciamento, bem como a data, hora e local, marcados para o interrogatório.;\n§ 2º - Não sendo encontrado o indiciado, ou ignorando-se o seu paradeiro, a citação será feita por editais publicados no órgão oficial durante 3 dias consecutivos.º 35.912/1996);\n§ 3º - Se o indiciado não comparecer, será decretada a sua revelia e designado um Procurador Municipal para se incumbir da defesa.;\n"
+      },
+      "art-0212": {
+       "label": "Art. 212",
+       "kind": "article",
+       "text": "Art. 212 - Nenhum funcionário será processado sem assistência de defensor habilitado.;\nParágrafo Único. Se o funcionário não constituir advogado, ser-lhe-á dado defensor na pessoa de Procurador Municipal.;\n"
+      },
+      "art-0213": {
+       "label": "Art. 213",
+       "kind": "article",
+       "text": "Art. 213 - O indiciado poderá estar presente a todos os atos do processo e intervir, por seu defensor, nas provas e diligências que se realizarem.;\n"
+      },
+      "art-0214": {
+       "label": "Art. 214",
+       "kind": "article",
+       "text": "Art. 214 - De todas as provas e diligências será intimada a defesa, com antecedência mínima de 48 (quarenta e oito) horas.;\n"
+      },
+      "art-0215": {
+       "label": "Art. 215",
+       "kind": "article",
+       "text": "Art. 215 - Realizadas as provas da Comissão, a defesa será intimada para indicar, em 3 (três) dias, as provas que pretende produzir.;\n"
+      },
+      "art-0216": {
+       "label": "Art. 216",
+       "kind": "article",
+       "text": "Art. 216 - Encerrada a instrução, dar-se-á vista ao defensor para apresentação, por escrito e no prazo de 5 (cinco) dias úteis, das razões de defesa do indiciado.\n"
+      },
+      "art-0217": {
+       "label": "Art. 217",
+       "kind": "article",
+       "text": "Art. 217 - Produzida a defesa escrita, a Comissão apresentará o relatório, no prazo de 5 (cinco) dias úteis.\n"
+      },
+      "art-0218": {
+       "label": "Art. 218",
+       "kind": "article",
+       "text": "Art. 218 - No relatório da Comissão serão apreciadas, em relação a cada indiciado, as irregularidades imputadas, as provas colhidas e as razões da defesa, propondo-se justificadamente a absolvição ou punição, indicando-se, neste caso, a pena cabível e sua fundamentação legal.;\nParágrafo Único. A Comissão deverá sugerir outras medidas que se fizerem necessárias ou forem de interesse público.;\n"
+      },
+      "art-0219": {
+       "label": "Art. 219",
+       "kind": "article",
+       "text": "Art. 219 - Recebido o processo com o relatório, a autoridade competente proferirá a decisão por despacho fundamentado.;\nParágrafo Único. O julgamento poderá ser convertido em diligência.\n"
+      },
+      "art-0220": {
+       "label": "Art. 220",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DA REVISÃO DO INQUÉRITO ADMINISTRATIVO\nArt. 220 - A revisão será recebida e processada mediante requerimento quando:\nI - a decisão for manifestamente contrária a dispositivo legal, ou à evidência dos autos;\nII - a decisão se fundar em depoimentos, exames periciais, vistorias ou documentos compravadamente falsos ou eivados de erros;\nIII - surgirem, após a decisão, provas da inocência do punido.\n§ 1º - Não constitui fundamento para a revisão a simples alegação de injustiça da penalidade.\n§ 2º - A revisão, que poderá verificar-se a qualquer tempo, não autoriza a agravação da pena.\n§ 3º - Ocorrendo o falecimento do punido, o pedido de revisão poderá ser formulado pelo cônjuge ou parente até segundo grau.\n"
+      },
+      "art-0221": {
+       "label": "Art. 221",
+       "kind": "article",
+       "text": "Art. 221 - O pedido de revisão será sempre dirigido ao Prefeito, que decidirá sobre o seu processamento.\n"
+      },
+      "art-0222": {
+       "label": "Art. 222",
+       "kind": "article",
+       "text": "Art. 222 - Estará impedida de funcionar no processo revisional a Comissão que participou do processo disciplinar primitivo.\n"
+      },
+      "art-0223": {
+       "label": "Art. 223",
+       "kind": "article",
+       "text": "Art. 223 - Julgada procedente a revisão, a autoridade competente determinará a redução, o cancelamento ou anulação da pena.\nParágrafo Único. A decisão deverá ser sempre fundamentada e publicada no órgão oficial do Município.\n"
+      },
+      "art-0224": {
+       "label": "Art. 224",
+       "kind": "article",
+       "text": "Art. 224 - Aplica-se ao processo de revisão, no que couber, o previsto neste Estatuto para o processo disciplinar.\n"
+      },
+      "art-0225": {
+       "label": "Art. 225",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nArt. 225 - As disposições deste Estatuto aplicam-se, no que couber, aos Conselheiros do Tribunal de Contas do Município, aos funcionários da Câmara Municipal, do Tribunal de Contas do Município e das Autarquias Municipais.\n"
+      },
+      "art-0226": {
+       "label": "Art. 226",
+       "kind": "article",
+       "text": "Art. 226 - É vedada a participação do funcionário no produto da arrecadação de tributos e multas.\n"
+      },
+      "art-0227": {
+       "label": "Art. 227",
+       "kind": "article",
+       "text": "Art. 227 - Até 31 de dezembro de 1979 continuarão a ser pagos os adicionais por tempo de serviço nas bases e condições estabelecidas na legislação anterior a este Estatuto.\n"
+      },
+      "art-0228": {
+       "label": "Art. 228",
+       "kind": "article",
+       "text": "Art. 228 - Salvo disposição expressa em contrário, a contagem de tempo e de prazos previstos neste Estatuto será feita em dias corridos, excluindo-se o dia do começo e incluindo-se o do seu término.\nParágrafo Único. Considera-se prorrogado o prazo até o primeiro dia útil se o término cair em sábado, domingo e feriado ou em dia que:\nI - não houver expediente;\nII - o expediente for encerrado antes da hora normal.\n"
+      },
+      "art-0229": {
+       "label": "Art. 229",
+       "kind": "article",
+       "text": "Art. 229 - As disposições deste Estatuto aplicam-se aos integrantes da carreira do Magistério Municipal e de outros Quadros Especiais no que não contrariarem a legislação específica.\n"
+      },
+      "art-0230": {
+       "label": "Art. 230",
+       "kind": "article",
+       "text": "Art. 230 - O funcionário ou o inativo que, sem justa causa, deixar de atender a exigência legal, para cujo cumprimento seja marcado prazo certo, terá suspenso o pagamento dos seus vencimentos ou proventos, até que satisfaça essa exigência.\n"
+      },
+      "art-0231": {
+       "label": "Art. 231",
+       "kind": "article",
+       "text": "Art. 231 - Lei especial disporá sobre as jornadas ou regimes especiais de trabalho.\n"
+      },
+      "art-0232": {
+       "label": "Art. 232",
+       "kind": "article",
+       "text": "Art. 232 - Ao funcionário poderá ser concedida gratificação por dedicação profissional exclusiva, na forma estabelecida em lei.\n"
+      },
+      "art-0233": {
+       "label": "Art. 233",
+       "kind": "article",
+       "text": "Art. 233 - Enquanto não editadas as leis e os decretos regulamentadores previstos neste Estatuto, continuarão a ser observados, no que couber, os respectivos preceitos legais em vigor.\n"
+      },
+      "art-0234": {
+       "label": "Art. 234",
+       "kind": "article",
+       "text": "Art. 234 - Ficam mantidas as funções gratificadas até que lei especial defina sua nova situação jurídica.\n"
+      },
+      "art-0235": {
+       "label": "Art. 235",
+       "kind": "article",
+       "text": "Art. 235 - Fica mantida, até que seja reformulada, a legislação relativa às horas extras de trabalho do Quadro de Cargos de Natureza Operacional.\n"
+      },
+      "art-0236": {
+       "label": "Art. 236",
+       "kind": "article",
+       "text": "Art. 236 - Ressalvado o disposto no artigo 84, o provimento de cargos far-se-á sempre no grau \"A\" da respectiva referência, assegurado ao funcionário o direito de ser classificado no grau de valor igual ou, em não havendo este, no de valor imediatamente superior ao que se encontrava no cargo anteriormente ocupado.\n"
+      },
+      "art-0237": {
+       "label": "Art. 237",
+       "kind": "article",
+       "text": "Art. 237 -\n"
+      },
+      "art-0238": {
+       "label": "Art. 238",
+       "kind": "article",
+       "text": "Art. 238 - O dia 28 de outubro será consagrado ao funcionário público municipal.\n"
+      },
+      "art-0239": {
+       "label": "Art. 239",
+       "kind": "article",
+       "text": "Art. 239 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0240": {
+       "label": "Art. 240",
+       "kind": "article",
+       "text": "Art. 240 - Esta Lei entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário, e em especial os artigos 2º e 7º da Lei nº 8215, de 7 de março de 1975, os artigos 4º e 5º da Lei nº 7747, de 27 de junho de 1972.\nPrefeitura do Município de São Paulo, aos 29 de outubro de 1979, 426º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário Municipal de Educação, Jair de Moraes Neves\nO Secretário de Higiene e Saúde, Mário de Moraes Altenfelder Silva\nO Secretário de Serviços e Obras, Paulo Gomes Machado\nO Secretário Municipal de Transportes, Lauro Rios Rodrigues\nO Secretário Municipal de Esportes, Roberto Roschel Roth\nO Secretário Municipal de Cultura, Mário Chamie\nO Secretário das Administrações Regionais, Francisco Nieto Martin\nO Secretário da Habitação e Desenvolvimento Urbano, Luiz Gomes Cardim Sangirardi\nO Secretário-Coordenador do Planejamento, Cândido Malta Campos Filho\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefia do Gabinete do Prefeito, em 29 de outubro de 1979.\nO Secretário-Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.989, de 29/10/1979 was altered by acts of 46 date(s), the latest 2025-01-24."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-08990",
+   "short": "Lei 8990/1979",
+   "title": "Lei nº 8.990, de 31/10/1979",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8990-de-31-de-outubro-de-1979",
+   "first_law": "lei-1979-08990",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1979-11-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8990-de-31-de-outubro-de-1979",
+     "sha256": "88327a72066f477a32b12fca490ed079811254a388195c45f52142ab51d2d09a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8990, DE 31 DE OUTUBRO DE 1979.\n(Projeto de Lei Nº 186/1979)\nAprova plano de fixação de alinhamento na confluência das Avenidas das Nações Unidas e dos Bandeirantes, no 30º subdistrito - Ibirapuera, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 11 de outubro de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.070-P-952, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de fixação de alinhamento na confluência das Avenidas das Nações Unidas e dos Bandeirantes, interligando os alinhamentos dessas vias estabelecidos pelas Leis nºs 5.855, de 7 de novembro de 1961, e 8.334, de 12 de dezembro de 1975, respectivamente, desde mais ou menos 57,00 metros além do alinhamento da Avenida Engenheiro Luiz Carlos Berrini, aprovado pela Lei nº 8.126, de 27 de setembro de 1974, até aproximadamente 224,00 metros além desse mesmo alinhamento, na extensão aproximada de 167,00 metros, no 30º subdistrito - Ibirapuera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os alinhamentos estabelecidos pelas Leis nºs 5.855, de 7 de novembro de 1961, e 8.334, de 12 de dezembro de 1975, nos trechos indicados na planta referida no artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 31 de outubro de 1979, 426º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefia do Gabinete do Prefeito, em 31 de outubro de 1979.\nO Secretário-Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1979-09010",
+   "short": "Lei 9010/1979",
+   "title": "Lei nº 9.010, de 12/12/1979 (Modifica o alinhamento da Rua Pirajá, aprovado pela Lei nº 8721, de 16 de maio de 1978, no 33º subdistrito - Alto da Mooca, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9010-de-12-de-dezembro-de-1979",
+   "first_law": "lei-1979-09010",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1979-12-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9010-de-12-de-dezembro-de-1979",
+     "sha256": "44c0e5690b7f2e0e0cbe4e1cbcb380f9ff3b3e6cb9163251f8dc2ffa907ba1db",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9010, DE 12 DE DEZEMBRO DE 1979.\nModifica o alinhamento da Rua Pirajá, aprovado pela Lei nº 8721, de 16 de maio de 1978, no 33º subdistrito - Alto da Mooca, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 22 de novembro de 1979, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 26.063-T-1109, do arquivo da Superintendência de Projetos Viários, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica modificado o alinhamento da Rua Pirajá, lado Leste, aprovado pela Lei nº 8721, de 16 de maio de 1978, no trecho compreendido entre a Avenida Sapopemba e, aproximadamente, 108,00 metros além dessa mesma avenida, no 33º subdistrito - Alto da Moóca.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 12 de dezembro de 1979, 426º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida\nO Secretário dos Negócios Extraordinários, Tufi Jubran.\nPublicada na Chefia do Gabinete do Prefeito, em 12 de dezembro de 1979.\nO Secretário-Chefe do Gabinete, Orlando Carneiro de Ribeiro Arnaud.\nO anexo encontra-se disponível, ainda, no Paço Municipal\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
