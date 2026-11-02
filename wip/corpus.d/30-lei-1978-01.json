@@ -1,0 +1,951 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1978",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "10 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1978-08684": {
+   "label": "Lei nº 8.684, de 14/03/1978",
+   "title": "Acrescenta alíneas ao artigo 4º da Lei nº 6.988, de 26 de dezembro de 1966.",
+   "kind": "law",
+   "enacted": "1978-03-14",
+   "published": "1978-03-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8684-de-14-de-marco-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08694": {
+   "label": "Lei nº 8.694, de 31/03/1978",
+   "title": "Altera o Quadro de Pessoal da Secretaria Municipal de Educação, e dá outra outras providencias.",
+   "kind": "law",
+   "enacted": "1978-03-31",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8694-de-31-de-marco-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08721": {
+   "label": "Lei nº 8.721, de 16/05/1978",
+   "title": "Aprova plano de melhoramentos no 33º subdistrito - Alto da Mooca, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-05-16",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8721-de-16-de-maio-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08764": {
+   "label": "Lei nº 8.764, de 18/08/1978",
+   "title": "Dispõe sobre a reorganização da Secretaria de Higiene e Saúde, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-08-18",
+   "published": "1978-08-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8764-de-18-de-julho-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08807": {
+   "label": "Lei nº 8.807, de 26/10/1978",
+   "title": "Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Prefeitura, e dá outras providencias.",
+   "kind": "law",
+   "enacted": "1978-10-26",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8807-de-26-de-outubro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08809": {
+   "label": "Lei nº 8.809, de 31/10/1978",
+   "title": "Estabelece normas aplicáveis ao imposto sobre serviços de qualquer natureza e a taxa de licença para localização, funcionamento ou instalação de atividades comerciais, industriais, profissionais, de prestação de serviços e similares, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-10-31",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8809-de-31-de-outubro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08830": {
+   "label": "Lei nº 8.830, de 12/12/1978",
+   "title": "Dispõe sobre o controle acionário da Companhia do Metropolitano de São Paulo - METRÔ, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-12-12",
+   "published": "1978-12-13",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8830-de-12-de-dezembro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08834": {
+   "label": "Lei nº 8.834, de 14/12/1978",
+   "title": "Autoriza a abertura de crédito adicional especial, de Cr$ 2.440.961,20, para pagamento de despesas de exercícios anteriores, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-12-14",
+   "published": "1978-12-15",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8834-de-14-de-dezembro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08843": {
+   "label": "Lei nº 8.843, de 19/12/1978",
+   "title": "Dispõe sobre reformas, reconstruções e mudanças do destino das edificações nas zonas de uso z4, z5-003 e z5-004, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-12-19",
+   "published": "1978-12-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8843-de-19-de-dezembro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1978-08845": {
+   "label": "Lei nº 8.845, de 19/12/1978",
+   "title": "Aprova Plano de Melhoramentos no Distrito de Itaquera, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1978-12-19",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8845-de-19-de-dezembro-de-1978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1978-08684",
+   "short": "Lei 8684/1978",
+   "title": "Lei nº 8.684, de 14/03/1978 (Acrescenta alíneas ao artigo 4º da Lei nº 6.988, de 26 de dezembro de 1966.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8684-de-14-de-marco-de-1978",
+   "first_law": "lei-1978-08684",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1978-03-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8684-de-14-de-marco-de-1978",
+     "sha256": "79890e4b74ee3e1d32a4e33a86717d62829d01a2bb007db0c093038504105862",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8684, DE 14 DE MARÇO DE 1978.\nAcrescenta alíneas ao artigo 4º da Lei nº 6.988, de 26 de dezembro de 1966.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei. Faço saber que a Câmara Municipal, em sessão de 9 de março de 1978, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam acrescentadas ao artigo 4º da Lei nº 6988, de 26 de dezembro de 1966, as alíneas \"d\" e \"e\", com a seguinte redação:\n\"d) executar as obras e os serviços complementares ou correlatos, necessários à integração do sistema metroviário ao complexo urbanístico da cidade\";\n\"e) construir e operar, direta ou indiretamente, terminais de passageiros de qualquer espécie de transporte coletivo\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de março de 1978.\n435º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal.\nO Secretário dos Negócios Jurídicos, Carlos Eduardo Sampaio Dória.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário de Serviços e Obras Aurélio Araújo.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicada na Chefia do Gabinete do Prefeito, em 14 de março de 1978.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmanu.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08694",
+   "short": "Lei 8694/1978",
+   "title": "Lei nº 8.694, de 31/03/1978 (Altera o Quadro de Pessoal da Secretaria Municipal de Educação, e dá outra outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8694-de-31-de-marco-de-1978",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1978-08694"
+   ],
+   "versions": [
+    {
+     "from": "1984-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8694-de-31-de-marco-de-1978",
+     "sha256": "bd59551877434ead97597d6f175b5cff5fac33340baab46d448b9eab5056382e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.694, DE 31 DE MARÇO DE 1978\n(Projeto de Lei Nº 50/1978 - executivo)\nAltera o Quadro de Pessoal da Secretaria Municipal de Educação, e dá outra outras providencias.\nOlavo Egydio Setúbal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 22 de março de 1978, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º - A carreira do Magistério Municipal é constituída de cargos de provimento efetivo e compreende:\nI - Cargos docentes, com as seguintes classes:\na) Professor de Educação Infantil;\nb) Professor de 1º Grau - Nível I;\nc) Professor de 1º Grau - Nível II;\nd) Professor de Deficientes Auditivos;\nII - Cargos de Especialistas de Educação, com as seguintes classes:\na) Assistente Pedagógico:\n1 - de Educação Infantil;\n2 - de 1º Grau;\n3 - de Deficientes Auditivos;\nb) Orientador Educacional\n1 - de 1º Grau;\n2 - de Deficientes Auditivos;\nc) Assistente de Diretor de Escola de 1º Grau\nd) Diretor de Escola\n1 - de Educação Infantil;\n2 - de 1º Grau;\n3 - de Deficientes Auditivos;\ne) Orientador Pedagógico:\n1 - de Educação Infantil;\n2 - de 1º Grau;\nf) Inspetor Escolar;\ng) Supervisor Regional:\n1 - de Educação Infantil;\n2 - de Educação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os titulares de cargos docentes atuarão nas seguintes áreas:\nI - Os Professores de Educação Infantil, na de Educação Infantil, destinada a crianças da faixa etária de 3 a 7 anos;\nII - Os Professores de 1º Grau-Nível I, na de 1ª a 4ª séries do Ensino de 1º Grau;\nIII - Os Professores de 1º Grau-Nível II, na 5ª a 8ª séries do Ensino de 1º Grau, salvo quanto aos Professores de Educação Física, que poderão, também, atuar na área de 1ª a 4ª séries do Ensino de 1º Grau e na de Educação Infantil;\nIV - Os Professores de Deficientes Auditivos, em todo o ensino especial a nível de pré-escola e de 1º Grau, destinado a deficientes auditivos.\nParágrafo único - Aplicam-se aos ocupantes de cargos docentes e de especialistas de educação, de provimento em comissão, as disposições contidas na Lei n 8.209, de 4 de março de 1975, no que tange aos direitos e deveres dos integrantes da carreira do Magistério Municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art.3º",
+       "kind": "article",
+       "text": "Art.3º - Ficam criados ou alterados os cargos e funções gratificadas constantes das Tabelas \"I\" anexas à presente lei.\n"
+      },
+      "art-0004": {
+       "label": "Art.4º",
+       "kind": "article",
+       "text": "Art.4º - Os cargos de Professor Substituto de 1º Grau - Nível I e de Professor Substituto de Educação Infantil, a que se refere a Tabela I, anexa à presente lei, serão providos por ato do Secretário Municipal de Educação, na medida das necessidades do ensino, não podendo exceder, no entanto, o limite de 1 (um) para cada 2 (duas) classes em funcionamento.\n"
+      },
+      "art-0005": {
+       "label": "Art.5º",
+       "kind": "article",
+       "text": "Art.5º - O valor da referência EM-S-I, atribuída aos Professores Substitutos de 1º Grau - Nível I e Professores Substitutos de Educação Infantil, corresponde à terça parte do valor da referência EM-I, constante da escala de padrões de vencimentos instituída pelo artigo 40 da Lei nº 8209, de 4 de março de 1975.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Por dia de trabalho docente efetivamente realizado, que ultrapassar a 10 (dez) dias, em substituição ou exercício eventual de calasse vaga, os Professores Substitutos de 1º Grau-Nível I e de Educação Infantil e os de Deficientes Auditivos perceberão remuneração equivalente a 1/30 (um trinta avos) do valor da referencia EM.1, EM.3 ou EM.4,respectivamente,observada a categoria em que se enquadrem e tendo como limite o mês de trinta dias.\n§ 1º - Para efeito de remuneração, será computado como dia de trabalho o domingo, feriado ou facultativo que ficar intercalado entre dias de docência.\n§ 2º - O Professor Substituto terá direito ao pagamento correspondente às férias escolares, proporcional à remuneração percebida no semestre letivo imediatamente anterior às férias objeto do pagamento.\n§ 3º - O Professor Substituto que durante o período letivo anterior às férias não tenha, em cada mês, completado 10 (dez) dias de trabalho docente, fica obrigado a prestar serviços na programação de atividades escolares, segundo escala, tantos dias quantos necessários para complemento daquele mínimo, não se lhe exigindo, entretanto, mais que 10 (dez) dias de serviço no período.\n"
+      },
+      "art-0007": {
+       "label": "Art.7º",
+       "kind": "article",
+       "text": "Art.7º - Aos cargos de Professor Substituto de Deficientes Auditivos, a que se refere à Tabela I, anexa à presente lei, será atribuído o valor da referência EM-S-VI, correspondente à terça parte do valor da referência EM-VI, constante da escala de padrões de vencimentos instituída pelo artigo 40 da lei nº 8.209, de 4 de março de 1975.\nParágrafo único - Aplicam-se ao Professor Substituto de Deficientes Auditivos as disposições contidas nos artigos 4º, 5º, 6º e respectivos parágrafos, desta lei.\n"
+      },
+      "art-0008": {
+       "label": "Art.8º",
+       "kind": "article",
+       "text": "Art.8º - Fica extinta a função de Professor Substituto a que se refere o artigo 28 da lei nº 8.209, de 4 de março de 1975, ressalvados os direitos assegurados daqueles que já tenham sido declarados estáveis no serviço público.\n"
+      },
+      "art-0009": {
+       "label": "Art.9º",
+       "kind": "article",
+       "text": "Art.9º - O regime de trabalho dos integrantes da carreira do magistério compreende as seguintes modalidades:\nI - Regime de tempo parcial, com 24 (vinte e quatro) horas semanais de trabalho;\nII - Regime de tempo completo, com 40 (quarenta) horas semanais de trabalho.\n§ 1º - Inclui-se no cálculo semanal da carga horária do trabalho docente o tempo destinado à hora-aula e hora-atividade exigida para o desempenho de suas atribuições.\n§ 2º - O tempo destinado à hora-aula deverá compreender, no mínimo, a 20 (vinte) horas por semana.\n"
+      },
+      "art-0010": {
+       "label": "Art.10",
+       "kind": "article",
+       "text": "Art.10 - Os titulares de cargos de Professor de Educação Infantil, de Professor de 1º Grau - Nível I e de Professor de Deficientes Auditivos, em exercício na unidade escolar, estão sujeitos ao regime de tempo completo.\n"
+      },
+      "art-0011": {
+       "label": "Art.11",
+       "kind": "article",
+       "text": "Art.11 - Os Professores de 1º Grau - Nível II, integrantes da carreira do magistério, ficam submetidos ao regime de tempo parcial, a que se refere o artigo 9º desta lei.\nParágrafo Único - No caso de não ser atingido o limite da jornada de trabalho a que estiver sujeito, em razão da carga horária estabelecida, proceder-se-á ao desconto equivalente a 1/120 (um cento e vinte avos) do valor do respectivo padrão de vencimentos por hora/aula não ministrada.\n"
+      },
+      "art-0012": {
+       "label": "Art.12",
+       "kind": "article",
+       "text": "Art.12 - Os Professores de 1º Grau - Nível II e de 2º Grau, ocupantes de cargos de provimento em comissão, ficam submetidos ao regime de tempo parcial estabelecido no artigo 9º desta lei, observado o disposto no parágrafo único do artigo anterior.\nParágrafo Único - No caso de não ser atingido o limite da jornada de trabalho a que estiver sujeito, em razão da carga horária estabelecida, proceder-se-á ao desconto equivalente a 1/120 (um cento e vinte avos) do valor do respectivo padrão de vencimentos por hora/aula não ministrada.\n"
+      },
+      "art-0013": {
+       "label": "Art.13",
+       "kind": "article",
+       "text": "Art.13 - Não se interromperá a percepção da gratificação de nível obtida pelos docentes e especialistas de educação que, por nomeação ou designação venham a exercer outros cargos da Secretaria Municipal de Educação.\nParágrafo Único - Aplica-se aos atuais Chefes de Seção Técnica efetivos, cujos cargos sejam de provimento privativo dentre integrantes da carreira do Magistério Municipal, o disposto no artigo 10 da Lei nº 8.519, de 3 de janeiro de 1977, desde que preenchidos os requisitos exigidos.\n"
+      },
+      "art-0014": {
+       "label": "Art.14",
+       "kind": "article",
+       "text": "Art.14 -\n"
+      },
+      "art-0015": {
+       "label": "Art.15",
+       "kind": "article",
+       "text": "Art.15 - A remoção dos integrantes da carreira do magistério, de uma unidade escolar para outra, será efetuada mediante concurso anual, conforme dispuser regulamentação a ser baixada por portaria do Secretário Municipal de Educação.-\nParágrafo único - A regulamentação de que trata este artigo valorizará o exercício efetivo das atribuições próprias da carreira do magistério.\n"
+      },
+      "art-0016": {
+       "label": "Art.16",
+       "kind": "article",
+       "text": "Art.16 - A lotação de docentes, na forma do parágrafo único do artigo 2º desta lei, poderá ser feita a qualquer época e com a anuência do servidor, observado o interesse do ensino.\n"
+      },
+      "art-0017": {
+       "label": "Art.17",
+       "kind": "article",
+       "text": "Art.17 - Os ocupantes de cargos docentes que se afastarem da regência de classe, com base no artigo 168 do Decreto-Lei estadual nº 13.030, de 28 de outubro de 1942, perderão sua lotação na unidade escolar.\n"
+      },
+      "art-0018": {
+       "label": "Art.18",
+       "kind": "article",
+       "text": "Art.18 - Os cargos de Chefia de Seção e Diretoria de Divisão do Departamento Municipal de Ensino e do Departamento de Educação Infantil passam a ser de livre provimento em comissão pelo Prefeito, dentre integrantes da carreira do Magistério Municipal, com licenciatura plena, ressalvada a situação de atuais titulares efetivos, que ficam reenquadrados nos novos padrões estabelecidos.\n"
+      },
+      "art-0019": {
+       "label": "Art.19",
+       "kind": "article",
+       "text": "Art.19 - A Secretaria Municipal de Educação procederá, anualmente, ao chamamento para matrícula da população que alcance a idade escolar, de conformidade com o disposto no artigo 20 da Lei federal nº 5.692, de 11 de agosto de 1971\n§ 1º. Para os trabalhos a que se refere este artigo, fica a Secretaria Municipal de Educação autorizada a aproveitar até 10% (dez por cento) do total de Professores, efetivos ou substitutos, mediante a anuência do servidor, observado o limite máximo de 30 (trinta) dias.\n§ 2º - Aos Professores aproveitados, nos termos do parágrafo anterior, será concedida retribuição especial diária correspondente a 1/30 (um trinta avos) do Padrão EM-I-A, para os Professores de 1º Grau - Nível I; e 1/30 (um trinta avos) do Padrão EM-V-A, para os Professores de 1º Grau - Nível II.\n"
+      },
+      "art-0020": {
+       "label": "Art.20",
+       "kind": "article",
+       "text": "Art.20 - (Revogado pela Lei nº 9.724/1984\n"
+      },
+      "art-0021": {
+       "label": "Art.21",
+       "kind": "article",
+       "text": "Art.21 - Ficam extintas as funções de Assistente Musical e de Orientador Musical, a que se refere a Lei nº 8.519, de 3 de janeiro de 1977\n"
+      },
+      "art-0022": {
+       "label": "Art.22",
+       "kind": "article",
+       "text": "Art.22 - Fica reduzido para 2 (dois) anos o prazo a que se refere o item II do artigo 18 da lei nº 8.209, de 4 de março de 1975\n"
+      },
+      "art-0023": {
+       "label": "Art.23",
+       "kind": "article",
+       "text": "Art.23 - Os benefícios desta lei são extensivos aos servidores inativos cuja situação, quando em atividade, tenha correspondência com os novos enquadramentos estabelecidos na presente lei.\n"
+      },
+      "art-0024": {
+       "label": "Art.24",
+       "kind": "article",
+       "text": "Art.24 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0025": {
+       "label": "Art.25",
+       "kind": "article",
+       "text": "Art.25 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 31 de março de 1978, 425º da fundação de São Paulo\nOLAVO EGYDIO SETUBAL, Prefeito.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.694, de 31/03/1978 was altered by acts of 3 date(s), the latest 1984-07-02."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08721",
+   "short": "Lei 8721/1978",
+   "title": "Lei nº 8.721, de 16/05/1978 (Aprova plano de melhoramentos no 33º subdistrito - Alto da Mooca, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8721-de-16-de-maio-de-1978",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1978-08721"
+   ],
+   "versions": [
+    {
+     "from": "1979-12-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8721-de-16-de-maio-de-1978",
+     "sha256": "b5cea00cf46003db94c2ac34160ed9e934910f528e7833d3939411f78926d198",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8721, DE 16 DE MAIO DE 1978.\nAprova plano de melhoramentos no 33º subdistrito - Alto da Mooca, e dá outras providências.\nOlavo Egydio Setúbal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por Lei.\nFaço saber que a Câmara Municipal, em sessão de 2 de maio de 1978, decretou e eu promulgo a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 25.959/1, 25.959/2 e 25.959/3-T-1.109, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado o seguinte plano de melhoramentos, no 33º subdistrito - Alto da Moóca:\nI - Fixação do alinhamento oeste do Largo da Água Raza, em substituição parcial ao alinhamento aprovado pela Lei nº 4.708, de 4 de junho de 1955, em seu artigo 2º, item III, numa extensão aproximada de 50,00 metros, incluindo concordância de alinhamento com o da Rua do Acre;\nII - Fixação do alinhamento norte da Rua do Acre, no trecho compreendido entre o Largo da Água Raza e, mais ou menos, 15,00 metros além;\nIII - Abertura de uma avenida de fundo de vale ao longo do Córrego Tatuapé, com 42,00 metros de largura básica, desde o entroncamento da Rua Água Raza com a Avenida Sapopemba até a confluência das Ruas Serra da Piedade e Cachoeri, em substituição à aprovada pela Lei nº 7.181, de 17 de setembro de 1968, em seu artigo 1º, item II, numa extensão aproximada de 1.500,00 metros, incluindo formação de áreas ajardinadas e concordância de alinhamentos com os das vias transversais;\nIV - Retificação do alinhamento leste da Rua Pirajá, desde a Avenida Sapopemba até, mais ou menos, 108,00 metros além;\nV - Fixação do alinhamento leste da Rua Pirajá, desde a Rua Cocais até a Rua Leme, numa extensão aproximada de 48,00 metros, incluindo concordância de alinhamentos com os das vias transversais;\nVI - Fixação do alinhamento leste da Rua Nair, desde a Rua Pirajá até a Praça Domingos Barbosa, numa extensão aproximada de 280,00 metros;\nVII - Fixação dos alinhamentos norte, leste e sul da Praça Domingos Barbosa, nas extensões aproximadas e respectivas de 81,00, 48,00 e 25,00 metros;\nVIII - Supressão parcial do alinhamento sul de que trata o item III do artigo 1º da Lei nº 7.181, de 17 de setembro de 1968, no trecho compreendido entre a Rua Serra da Piedade e 36,00 metros aquém;\nIX - Supressão parcial do alinhamento aprovado pela Lei nº 7.181, de 17 de setembro de 1968, em seu artigo 1º, item I, lado sul, no trecho compreendido entre a Rua Serra da Piedade e, mais ou menos, 100,00 metros além;\nX - Fixação dos alinhamentos norte, sul e oeste da área a ser formada em prolongamento à avenida de que trata o item III, circundada pelas Ruas do Orfanato e João Branco, para implantação de complexo viário, com á formação de canteiros ajardinados, nas extensões aproximadas e respectivas de 114,00, 95,00 e 28,00 metros, incluindo concordância de alinhamentos com os das vias transversais.\nParágrafo Único - Fica proibido, nos trechos indicados nas plantas referidas neste artigo, o acesso à avenida de que trata o item III.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 16 de maio de 1978, 425º da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setubal.\nO Secretário dos Negócios Jurídicos, Carlos Eduardo Sampaio Dória.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Cláudio Salvador Lembo.\nPublicado na Chefia do Gabinete do Prefeito, em 16 de maio de 1978.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.721, de 16/05/1978 was altered by acts of 1 date(s), the latest 1979-12-12."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08764",
+   "short": "Lei 8764/1978",
+   "title": "Lei nº 8.764, de 18/08/1978 (Dispõe sobre a reorganização da Secretaria de Higiene e Saúde, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8764-de-18-de-julho-de-1978",
+   "first_law": "lei-1978-08764",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1978-08-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8764-de-18-de-julho-de-1978",
+     "sha256": "f1fa40bee8f92b9464aeda0e2eeb8bdd8656db7ee01fe64577465292be866e9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8764, DE 18 DE AGOSTO DE 1978.\nDispõe sobre a reorganização da Secretaria de Higiene e Saúde, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 8 de agosto de 1978, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Secretaria de Higiene e Saúde - S.H.S. tem por atribuições planejar, organizar, dirigir, controlar e coordenar as múltiplas atividades de seus órgãos no campo da assistência médico-hospitalar de urgência, programas de saúde pública e vigilância sanitária.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Secretaria de Higiene e Saúde compõe-se de:\nI - Gabinete do Secretário;\nII - Superintendência Médico-Hospitalar de Urgência;\nIII - Departamento de Saúde da Comunidade;\nIV - Departamento de Vigilância Sanitária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Gabinete do Secretário é composto de:\nI - Chefia de Gabinete;\nII - Assessoria Técnica de Coordenação de Programas de Saúde;\nIII - Assessoria Técnica de Assuntos Diversos, constituída de:\na) Assistência Técnica de Transportes, com Seções de Tráfego, de Oficina, de Registro de Veículos e Serviços Preventivos, e de Expediente e Pessoal;\nb) Assistência de Material Médico-Hospitalar e Manutenção, com Seção de Material Médico-Hospitalar, Seção de Manutenção e Serviço de Almoxarifado;\nc) Assistência Financeira;\nd) Assistência de Assuntos Jurídicos;\ne) Comissão de Acidentes de Trânsito;\nf) Seção de Contabilidade;\ng) Seção de Expediente e Pessoal;\nIV - Divisão Administrativa, com Seções de Contabilidade, de Expediente e Pessoal, e de Estatística de Saúde; e Serviços de Biblioteca, de Almoxarifado, e de Cadastro de Pessoal.\n§ 1º - À Assessoria Técnica de Coordenação de Programas de Saúde compete:\nI - O planejamento e a integração dos Programas de Saúde da Secretaria, harmonizando as atividades entre os Departamentos, os demais órgãos municipais, estaduais e federais;\nII - Avaliar os Programas de Saúde;\nIII - Exercer atividades de Vigilância Epidemiológica no Município;\nIV - Executar outras funções que lhe forem cometidas.\n§ 2º - À Assessoria Técnica de Assuntos Diversos compete planejar, supervisionar e controlar os serviços de operação, manutenção e reparos de frota, suprimento de material médico-hospitalar, manutenção e reparos de prédios médico-assistenciais e centralização das atividades contábil-financeiras da Secretaria.\n§ 3º - Junto ao Gabinete do Secretário funcionarão as seguintes Comissões:\nI - Comissão de Padronização de Material Médico-Hospitalar, composta de um Médico, um Farmacêutico-Bioquímico, um Enfermeiro, um Nutricionista e um Técnico de Material Médico-Hospitalar, todos com curso de Administração Hospitalar ou experiência mínima de 3 (três) anos na área da saúde;\nII - Comissão de Julgamento de Licitações de Serviços, composta de 5 (cinco) membros, um dos quais obrigatoriamente integrante da Classe de Procurador, que a presidirá.\n§ 4º - Aos membros das Comissões referidas no parágrafo anterior, que serão designados pelo Secretário de Higiene e Saúde, será atribuída a gratificação a que se refere o artigo 2º da Lei nº 8215, de 7 de março de 1975.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º À Superintendência Médico-Hospitalar de Urgência compete:\nI - A prestação de assistência médico-hospitalar de urgência;\nII - A fiscalização de convênios, contratos e subvenções médico-hospitalares;\nIII - A comunicação e informação entre as várias unidades médico-assistenciais fixas e móveis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Superintendência Médico-Hospitalar de Urgência é composta de:\nI - Gabinete do Superintendente;\nII - Hospital Municipal do Tatuapé;\nIII - Hospital Municipal \"Tide Setubal\";\nIV - Hospital Infantil Menino Jesus;\nV - Hospital Maternidade-Escola de Vila Nova Cachoeirinha;\nVI - Hospital Municipal \"Ignácio Proença de Gouvêa\";\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Gabinete da Superintendência Médico-Hospitalar de Urgência é composta de:\nI - Assistência Técnica;\nII - Serviço de Expediente;\nIII - Divisão de Fiscalização, Comunicações e Informações, com:\na) Serviço de Contabilidade;\nb) Seção Administrativa;\nc) Seção de Convênios, com um Serviço Administrativo e Supervisões Médica, de Enfermagem, e de Serviço Social;\nd) Seção de Comunicações e Informações, com Serviços de Radiofonia, de Informações Cadastrais, e Administrativo;\nIV - Seção de Documentação Técnico-Científica, com Serviço de Fotografia, Desenho e Reprodução e Serviço de Documentação Científica;\nV - Seção de Contabilidade, com Serviços de Controle de Requisições, de Contratos e Convênios, de Expedição e Recepção, de Patrimônio e Orçamento, e Contábil;\nVI - Seção de Expediente e Pessoal, com Serviços de Prontuário e Arquivo, de Ponto e Pessoal, e de Expediente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os Hospitais da Superintendência Médico-Hospitalar de Urgência são compostos de:\nI - Gabinete do Diretor;\nII - Unidade de Atendimento Ambulatorial;\nIII - Unidade de Internação;\nIV - Unidade de Apoio Técnico e Auxiliar.\n§ 1º - O Gabinete do Diretor do Hospital compõe-se de:\nI - Assistência Técnica;\nII - Seção de Contabilidade, com Serviços de Recepção e Expedição, e de Controle de Estoque e Requisições;\nIII - Serviço de Documentação e Biblioteca;\nIV - Assistência Médico-Hospitalar, com Supervisões de Nutrição e Dietética, de Serviço Social, de Enfermagem, e Médico-Hospitalar;\nV - Serviço de Arquivo Médico-Estatístico - SAME, com Setores de Internação, de Matrícula, e de Arquivo;\nVI - Seção de Administração Hospitalar, com Serviços de Zeladoria, de Comunicações, e de Almoxarifado;\nVII - Seção de Expediente e Pessoal, com Serviço de Ponto e Pessoal.\n§ 2º - A Unidade de Atendimento Ambulatorial compõe-se de:\nI - Serviço de Enfermagem;\nII - Serviço Social;\nIII - Serviço de Expediente;\nIV - Serviço de Pronto Atendimento, com Setor de Enfermagem, e Equipe Médica;\nV - Serviço de Ambulatório das Especialidades, com Setor de Enfermagem.\n§ 3º - A Unidade de Internação compõe-se de:\nI - Serviço de Enfermagem;\nII - Serviço Social;\nIII - Serviço de Expediente;\nIV - Clínicas Especializadas.\n§ 4º - A Unidade de Apoio Técnico e Auxiliar compõe-se de:\nI - Serviço de Nutrição e Dietética;\nII - Serviço de Expediente;\nIII - Centro de Material Esterilizado;\nIV - Serviços Técnicos e Auxiliares.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Ao Departamento de Saúde da Comunidade compete prestar assistência médico-sanitária e de pronto atendimento médico-odontológico, através dos Postos de Assistência Médica.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Departamento de Saúde da Comunidade é composto de:\nI - Gabinete do Diretor;\nII - Divisões Regionais de Saúde:\na) NORTE;\nb) SUL;\nc) LESTE;\nd) OESTE;\ne) CENTRO-SUL.\n§ 1º - O Gabinete do Diretor compõe-se de:\nI - Assistência Técnica;\nII - Assistência Administrativa;\nIII - Equipe de Supervisão;\nIV - Seção de Expediente e Pessoal, com Serviços de Conservação e Reparos, e de Zeladoria;\nV - Seção de Contabilidade.\n§ 2º - As Divisões Regionais de Saúde compõem-se de:\nI - Gabinete do Diretor;\nII - Assistência Técnica;\nIII - Assistência Administrativa;\nIV - Serviço de Contabilidade;\nV - Posto Nível I, com Serviços de Expediente e Pessoal, e de Zeladoria;\nVI - Posto Nível II, com Serviços Administrativo, de Almoxarifado, de\nExpediente, e Equipes de Posto;\nVII - Seção de Expediente e Pessoal.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Ao Departamento de Vigilância Sanitária compete estabelecer normas, supervisionar, orientar, coordenar e avaliar a fiscalização sanitária de gêneros alimentícios e saneantes, bem como o controle de zoonoses no Município.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - O Departamento de Vigilância Sanitária é composto de:\nI - Gabinete do Diretor;\nII - Divisão de Controle Sanitário de Alimentos;\nIII - Divisão de Laboratório de Controle de Alimentos;\nIV - Divisão de Controle de Zoonoses.\n§ 1º - O Gabinete do Diretor compõe-se de:\nI - Assistência Técnica;\nII - Assistência Jurídica;\nIII - Divisão Administrativa, com Seções de Contabilidade, de Expediente e Pessoal e Serviço de Zeladoria e Manutenção.\n§ 2º - A Divisão de Controle Sanitário de Alimentos compõe-se de:\nI - Assistência Técnica;\nII - Seção de Cadastro, com Serviço de Arquivo;\nIII - Seção de Vigilância Sanitária de Alimentos com Serviço de Estatística;\nIV - Seção de Avaliação de Normas, com Serviço de Biblioteca;\nV - Seção de Expediente e Pessoal, com Serviço de Protocolo;\nVI - Auditores Sanitários.\n§ 3º - A Divisão de Laboratório de Controle de Alimentos compõe-se de:\nI - Assistência Técnica;\nII - Unidades Móveis de Laboratório;\nIII - Seção de Análises Físico-Químicas, com Serviços de Controle de Alimentos, de Análises Instrumentais, e de Controle de Medicamentos e Saneantes;\nIV - Seção de Toxicologia, com Serviços de Provas Biológicas, de Análises Sequencial, e de Análise Específica;\nV - Seção de Patologia, com Serviços de Anatomia Patológica, de Parasitologia, de Patologia Experimental, e de Histopatologia;\nVI - Seção de Microbiologia, com Serviços de Sorologia e Imunologia, de Reagentes e Meios de Cultura, de Medicamentos e Saneantes, e de Bacteriologia de Alimentos;\nVII - Seção de Expediente e Pessoal;\nVIII - Seção de Tecnologia de Alimentos.\n§ 4º - A Divisão de Controle de Zoonoses compõe-se de:\nI - Assistência Técnica;\nII - Serviço de Contabilidade;\nIII - Serviços de Almoxarifado, de Zeladoria, de Limpeza, e de Manutenção;\nIV - Seção de Laboratório de Diagnóstico da Raiva, com Serviços de Virologia, de Patologia, e de Biotério;\nV - Seção de Controle de Roedores e Vetores, com Serviços de Controle de Roedores, e de Controle de Vetores;\nVI - Seção de Coordenação Técnica e Planejamento, com Serviço de Biblioteca;\nVII - Seção de Controle da Raiva;\nVIII - Seção Administrativa, com Serviços de Expediente, e de Pessoal;\nIX - Serviço de Investigação de Focos da Raiva, com Setores de Vacinação, de Cães em Observação, de Apreensão de Animais, e de Internação e Manutenção de Animais;\nX - Serviço de Controle de Outras Zoonoses;\nXI - Serviço de Orientação às Administrações Regionais;\nXII - Serviço de Educação e Comunicação;\nXIII - Serviço de Epidemiologia e Estatística.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Ficam criados, na Secretaria de Higiene e Saúde, os seguintes cargos de Médico Residente, todos de provimento em comissão:\na) 50 (cinquenta) cargos R.1, Referência 15, que serão exercidos por médicos aprovados em testes de seleção, observada a ordem de classificação dos candidatos habilitados;\nb) 50 (cinquenta) cargos R.2, Referência 16, que serão exercidos por Médico Residente R.1, aprovado em testes de seleção, observada a ordem de classificação dos habilitados;\nc) 8 (oito) cargos R.3, Referência 17, que serão exercidos por Médico Residente R.2, aprovado em teste de seleção, observada a ordem de classificação dos habilitados.\n§ 1º - Os ocupantes dos cargos de Médico Residente ficam obrigatoriamente incluídos no regime de dedicação exclusiva, nos termos da Lei nº 8215, de 7 de março de 1975.\n§ 2º - É vedada a permanência na Residência por período superior a 12 (doze) meses em cada Nível, bem como a recondução daqueles que desistam da Residência.\n§ 3º - O primeiro provimento dos cargos referidos neste artigo far-se-á, pelo período restante da Residência, dentre os atuais Médicos Residentes, já aprovados em testes de seleção.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Ficam criados ou alterados, de acordo com o disposto na coluna \"Situação Nova\" das Tabelas I e II, que integram esta lei, os cargos e funções gratificadas de Direção, Chefia e Assessoramento da Secretaria de Higiene e Saúde.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Ficam criados, na Secretaria de Higiene e Saúde, os cargos constantes da Tabela III, que integra esta lei, os quais são incluídos no Quadro Geral do Pessoal, definido pela Lei nº 8183, de 20 de dezembro de 1974.\nParágrafo Único. Os cargos referidos neste artigo são de provimento efetivo, mediante concurso de provas, ou de provas e títulos, exigida a habitação específica para cada caso.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Ao parágrafo único do Artigo 18 da Lei nº 8183, de 20 de dezembro de 1974, fica acrescentado o seguinte inciso:\n\"VI - tempo de exercício em cargos vinculados pela linha de acesso ao cargo a ser provido por acesso.\"\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 18 DE AGOSTO DE 1978, 425º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL.\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário Municipal de Educação, Hilário Torloni.\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário Municipal de Esportes, Sérgio Barbour.\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi.\nO Secretário das Administrações Regionais, Celso Hahne.\nO Secretário da Habitação e Desenvolvimento Urbano, Ernest Robert de Carvalho Mange.\nO Secretário de Serviços Internos, Hélio Martins de Oliveira.\nO Secretário dos Negócios Extraordinários, Luís Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 18 de agosto de 1978.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08807",
+   "short": "Lei 8807/1978",
+   "title": "Lei nº 8.807, de 26/10/1978 (Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Prefeitura, e dá outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8807-de-26-de-outubro-de-1978",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1978-08807"
+   ],
+   "versions": [
+    {
+     "from": "1984-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8807-de-26-de-outubro-de-1978",
+     "sha256": "5273b9081e01532e9563f0c368791ee06dc3a30dcd92709c32fc7d8c01a49005",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.807, DE 26 DE OUTUBRO DE 1978.\n(Projeto de Lei Nº 171/1978 - executivo)\nDispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Prefeitura, e dá outras providencias.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei,\nFaço saber que a Câmara Municipal, em sessão de 20 de outubro de 1978, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Os valores atuais da escala de vencimentos e de referencias do funcionalismo da Prefeitura ficam reajustados nos percentuais e a partir das datas abaixo indicados:\nI - 5%, a partir de 1 de outubro de1978;\nII - 10%, a partir de 1 de novembro de 1978;\nIII - 15%, a partir de 1 de dezembro de 1978;\nIV - 20%, a partir de 1 de janeiro de 1979.\n§ 1º. Ficam revalorizados, com base nos mesmos percentuais e datas estabelecidos neste artigo:\nI - as pensões vitalícias pagas pela Prefeitura;\nII - o valor do salário-esposa e do salário-família, por alimentário;\nIII - as funções gratificadas e demais gratificações;\nIV - as pensões devidas pelo Montepio Municipal de São Paulo a beneficiários de servidores falecidos.\n§ 2º. Serão arredondadas para Cr$ 1,00 (um cruzeiro) as frações inferiores a essa importância, resultantes da revalorização estabelecida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Fica aprovada a escala de padrões de vencimentos do quadro do ensino municipal, compreendendo as referências, indicadas pela sigla \"EM\", seguidas de algarismos arábicos, e os graus, indicados por letras de \"A\" a \"E\", em conformidade com o Anexo I que integra a presente lei.\n§ 1º. As referencias constantes da coluna \"SITUAÇÃO ATUAL\" do Anexo I de que trata este artigo ficam alteradas, a partir de 1º de outubro de 1978, em conformidade com o que consta da coluna \"SITUAÇÃO NOVA\" do mesmo Anexo.\n§ 2º. O disposto no artigo 1º desta lei aplica-se à escala de vencimentos ora aprovada, servindo como base de calculo os valores indicados na coluna \"SITUAÇÃO NOVA\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Aplicam-se aos ocupantes de cargos docentes de provimentos em comissão, bem como aos professores contratados, as disposições contidas nos artigos 16, 17, 18 e 20 da Lei nº 8.209, de 4 de março de 1975, com a alteração introduzida pelo artigo 22 da Lei nº 8.694, de 31 de março de 1978.\nParágrafo único - A gratificação de nível para Professor Substituto de 1º Grau - Nível I e Professor Substituto de Educação Infantil corresponderá a 1/3 (um terço) da diferença entre os valores das referencias EM 1 e EM 3 e EM 1 e EM 4, pela obtenção de habilitação especifica representada por licenciatura de curta duração ou por licenciatura plena, respectivamente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Passa a ter a seguinte redação o parágrafo único do artigo 11 da Lei nº 8.694, de 31 de março de 1978:\n\"Parágrafo único - Por hora/aula que ultrapassar o limite da jornada de trabalho a que estiver sujeito, o Professor de 1º Grau - Nível II perceberá remuneração equivalente a 1/120 (um cento e vinte avos) do valor do respectivo padrão de vencimentos\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Passa a ter a seguinte redação o parágrafo único do artigo 12 da Lei nº 8.694, de 31 de março de 1978:\n\"Parágrafo Único - No caso de não ser atingido o limite da jornada de trabalho a que estiver sujeito, em razão da carga horária estabelecida, proceder-se-á ao desconto equivalente a 1/120 (um cento e vinte avos) do valor do respectivo padrão de vencimentos por hora/aula não ministrada\".\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Os cargos de Especialista de Educação incluídos na Parte Permanente - Tabela III (PP-III), do Quadro Geral do Pessoal, ficam transferidos para a Parte Permanente - Tabela II (PP-II).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º -\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - A gratificação de nível, a que se referem o artigo 17 da Lei nº 8.209, de 4 de março de 1975 - alterado pelo artigo 5º da Lei nº 8.519/77 - e o artigo 10 e parágrafo único da Lei nº 8.519, de 3 de janeiro de 1977, corresponderá:\na) à diferença entre os valores das referencias EM.1 e EM.3, pela obtenção de habilitação especifica representada por licenciatura de curta duração;\nb) à diferença entre os valores das referencias EM.1 e EM.4, pela obtenção da habilitação especifica representada pela licenciatura plena;\nc) a diferença entre os valores das referencias EM.3 e EM.4, pela obtenção de habilitação especifica representada por licenciatura plena, para os professores de 1º grau - Nível II.\nParágrafo único. Nas gratificações de nível já concedidas aos Especialistas de Educação, fica mantida a atual diferença entre as antigas referencias EM-I e EM-VI, até que essa diferença seja absorvida por futuros reajustes de vencimentos, passando a vigorar, então, o disposto na letra \"b\" deste artigo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Ao Professor Substituto que estiver na regência de classe há mais de 120 (cento e vinte) dias, ininterruptamente, é assegurado o pagamento correspondente aos períodos de licença especial para gestante, de licença médica para tratamento da própria saúde, de gala e de nojo, como de dias de trabalho docente efetivamente realizado.\nParágrafo único - Exclusivamente para efeito de contagem do prazo fixado neste artigo, são considerados como regência de classe e os dias correspondentes a faltas abonadas, licença médica para tratamento da própria saúde, férias, gala e nojo.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A remuneração mensal dos ocupantes dos cargos de Entregador de Avisos constitui-se de:\nI - Parte Fixa, representada pelo padrão do cargo ocupado;\nII - Parte Variável, correspondente a jogos de avisos entregues, na seguinte forma:\na)por jogo de avisos entregue a domicilio\nValor Data\nCr$ 1,47 ------------------------------ a partir de 1 de outubro de 1978;\nCr$ 1,54 ------------------------------ a partir de 1 de novembro de 1978;\nCr$ 1,61 ------------------------------ a partir de 1 de dezembro de 1978;\nCr$ 1,68 ------------------------------ a partir de 1 de janeiro de 1979;\nb) por jogo de avisos entregue na Repartição\nValor Data\nCr$ 0,74 ------------------------------ a partir de 1 de outubro de 1978;\nCr$ 0,77 ------------------------------ a partir de 1 de novembro de 1978;\nCr$ 0,81 ------------------------------ a partir de 1 de dezembro de 1978;\nCr$ 0,84 ------------------------------ a partir de 1 de janeiro de 1979;\nParágrafo único - A parte variável prevista neste artigo não poderá exceder à diferença entre o valor do padrão do cargo ocupado e do correspondente grau da referencia 12 da escala de vencimento do funcionalismo da Prefeitura.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Os servidores e os inativos da Prefeitura não poderão receber retribuição mensal excedente a 2 (duas) vezes o valor atribuído à maior referencia da escala de vencimentos do funcionalismo, conforme Anexo I, Parte B, da Lei nº 8.183, de 20 de dezembro de 1974.\n§ 1º. O limite da retribuição fixado neste artigo poderá ser excedido no caso de acumulação de proventos de aposentadoria com vencimentos e gratificações de representação, se houver, de cargo isolado de provimento em comissão, bem como no de acumulação de retribuição com gratificações instituídas em lei ou com pagamentos assemelhados.\n§ 2º. O excesso, nos cargos a que se refere o parágrafo precedente, corresponderá ao valor do padrão de vencimentos do cargo em comissão, acrescido ao da gratificação de representação, se for o caso; ao da gratificação pelo exercício de função gratificada; ou ao dos pagamentos assemelhados.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O valor da Bolsa Auxilio, estipulado pela Lei nº 8.642, de 10 de novembro de 1977, é fixado, a partir de 1 de outubro de 1978, em valor correspondente ao Grau A da referencia 4 da escala de vencimentos do funcionalismo da Prefeitura.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os cargos de Medico Residente, criados pelo artigo 12 da Lei nº 8.764, de 18 de agosto de 1978, ficam reclassificados, a partir de 1 de janeiro de 1979, na seguinte forma:\na) cargos R.1, na referencia 13;\nb) cargos R.2, na referencia 14;\nc) cargos R.3, na referencia 15.\nParágrafo único - Em face dos reajustamentos concedidos pelo Decreto nº 15.137, de 7 de julho de 1978, e artigo 12 da Lei nº 8.764, de 18 de agosto de 1978, ficam os Médicos Residentes excluídos das disposições do artigo 1º da presente lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - O disposto nos artigos 1º e 2º desta lei aplica-se aos proventos dos inativos.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Ficam instituídas as seguintes jornadas de trabalho para os servidores municipais:\nI - H.24, correspondente à prestação de 24 horas semanais de trabalho;\nII - H.33, correspondente à prestação de 33 horas semanais de trabalho;\nIII - H.40, correspondente à prestação de 40 horas semanais de trabalho;\nIV - H.44, correspondente à prestação de 44 horas semanais de trabalho;\nV - H.48, correspondente à prestação de 48 horas semanais de trabalho;\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Os servidores da Prefeitura ficam sujeitos a uma das jornadas de trabalho definidas no artigo anterior, na seguinte forma:\nI - H-24:\na) o pessoal docente do Ensino Municipal;\nb) os Médicos e Cirurgiões-Dentistas municipais;\nc) os servidores que operam com Raios X e substancias radioativas, incluídos no regime a que se refere a Lei nº 7.957, de 20 de novembro de 1973;\nd) os integrantes das classes de Técnico de Educação Física e de Educador Sanitário;\ne) os integrantes da Orquestra Sinfônica Municipal e do Coral Municipal;\nII - H.33: os servidores do Quadro Geral do Pessoal e do Quadro de Atividades Artísticas de que trata o artigo 21 da Lei nº 8.183, de 20 de dezembro de 1974, exceto os ocupantes de cargos referidos nos demais incisos neste artigo;\nIII - H-40: os ocupantes de cargos de Especialista de Educação, e os servidores incluídos no RDPE, enquanto permanecerem nesse regime;\nIV - H.44: os Inspetores Fiscais;\nV - H.48: os servidores de cargos do Quadro de Natureza Operacional, definido pela Lei nº 8.685, de 16 de março de 1978.\nParágrafo único - Sem prejuízo do cumprimento das 24 ou 40 horas semanais, a atividade dos Médicos e Cirurgiões-Dentistas caracteriza-se também pelas obrigações de:\na) prestar serviços, quando convocados, em quaisquer horas e dias, incluindo sábados, domingos e feriados, bem como em dia em que for declarado ponto facultativo, de acordo com escala preordenada;\nb) participar dos programas de ensino e aperfeiçoamento profissional que forem desenvolvidos pela Secretaria de Higiene e Saúde.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O servidor sujeito à jornada H.33 poderá ser incluído na jornada H.40, por autorização do Prefeito, mediante indicação dos Secretários Municipais, do Coordenador da Coordenadoria Geral de Planejamento - COGEP e do Chefe de Gabinete do Prefeito.\n§ 1º. A inclusão de que trata este artigo dependerá de opção, por escrito, do servidor e produzirá efeitos a partir do 1º dia do mês subseqüente.\n§ 2º. Para os servidores que atualmente estejam percebendo a retribuição de 15% (quinze por cento) prevista no artigo 4º da Lei nº 8.215, de 7 de março de 1975, a inclusão dependerá de simples opção por escrito, a partir de1 de outubro de 1978.\n§ 3º. A inclusão na jornada H.40 terá caráter permanente, não podendo o servidor incluído retornar à jornada H.33.\n§ 4º. O servidor incluído na jornada H.40, nos termos deste artigo, fará jus a um acréscimo de 22% (vinte e dois por cento) em seus vencimentos, calculado sobre a soma do seu padrão com os adicionais por tempo de serviço.\n§ 5º. A vantagem prevista no artigo anterior incorpora-se desde logo aos vencimentos do servidor, para todos os efeitos legais.\n§ 6º. Os concursos públicos que forem abertos, a partir da vigência desta lei, para os cargos a que se refere o inciso II do artigo 16, fixarão a obrigatoriedade de inclusão dos nomeados na jornada H.40, em caráter permanente, observado o disposto nos dois parágrafos anteriores.\n§ 7º. A inclusão na jornada H.40, nos termos deste artigo, implica a exclusão, por incompatibilidade, de qualquer gratificação ou adicional vinculados a regimes especiais de trabalho.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Os servidores do Quadro de Cargos de Natureza Operacional poderão ser convocados para prestar horas suplementares de trabalho, caso em que perceberão o respectivo valor da hora/trabalho acrescido de 20% (vinte por cento).\n§ 1º. A prestação de horas extraordinárias não poderá exceder o limite de 120 (cento e vinte) mensais.\n§ 2º. Pelo serviço noturno, prestado das 22 (vinte e duas) às 6 (seis) horas, os servidores de que trata este artigo terão o valor da hora/trabalho acrescido de 25% (vinte e cinco por cento).\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - O executivo regulamentará por decreto as jornadas de trabalho instituídas pelo artigo 15 desta lei.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - O artigo 28 da Lei nº 7.447, de 16 de abril de 1970, fica acrescido de parágrafos, passando a ser assim redigido:\n\"Art. 28 - Sempre que se verificar alteração nos valores de vencimentos ou salários dos servidores municipais,serão reajustados automaticamente e nas mesmas bases as pensões pagas pelo Montepio.\n§ 1º. A receita de mensalidades dos contribuintes e as contribuições da Prefeitura e das autarquias municipais serão contabilizadas, a partir de 1 de janeiro de 1979, em conta especial denominada \"Receita para Pensão e Auxilio Funeral\".\n§ 2º. As despesas com pagamentos de pensões e auxilio funeral serão contabilizadas, a partir de 1 de janeiro de 1979, em conta especial denominada \"Despesa com Pensão e Auxilio Funeral\".\n§ 3º. No balanço anual do Montepio, os saldos das contas indicadas nos parágrafos anteriores serão levados à conta \"Reserva para Pagamento de Pensão Auxilio Funeral\", a ser criada.\n§ 4º. A reserva técnica apurada no balanço do Montepio em 31 de dezembro de 1978 será transferida para a conta \"Reserva de Pagamento de Pensão e Auxilio Funeral\".\n§ 5º. Se o saldo da conta \"reserva para Pagamentos de Pensão e Auxilio Funeral\" for insuficiente quando do pagamento previsto no § 3º, o \"déficit\" será coberto pela Prefeitura.\n§ 6º. Caso o orçamento atualizado do Montepio para um exercício mostre a insuficiência prevista no parágrafo anterior, a Prefeitura deverá ir cobrindo o \"déficit\" ao longo do exercício, deforma a garantir o pagamento mensal das pensões e auxílios funerais.\n§ 7º. Fica revogado o artigo 3º do Decreto-lei nº 366, de 14 de outubro de 1976.\n§ 8º. Os servidores ocupantes de cargos do Quadro de Cargos de Natureza Operacional, definido pela Lei nº 8.685, de 16 de março de 1978, bem como os servidores de que trata o artigo 5º da mesma lei, desde que venham a ocupar cargos do citado Quadro, serão inscritos obrigatoriamente com o contribuintes do Montepio, sem limitação de idade e dispensada a carência prevista no artigo 4º da Lei nº 7.447, de 16 de abril de 1970, para os que tiverem mais de 1 (um) ano de efetivo exercício no serviço público municipal.\"\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - O artigo 3º da Lei nº 8.321, de 18 de novembro de 1975, passa a vigorar com a seguinte redação:\n\"Art. 3º Para o exercício de 1979, o valor de 1 (uma) \"UFM\" será de Cr$ 1.450,00 (um mil quatrocentos e cinqüenta cruzeiros)\".\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Ficam criadas, na Secretaria das Administrações Regionais, as funções gratificadas constantes do Anexo II que integra a presente lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - Fica permitido o exercício de atividades permanentes, mediante contrato, até que sejam criados e providos cargos suficientes para o atendimento das necessidades de pessoal para o serviço publico municipal.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - As despesas decorrentes da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrario.\nPREFEITURA DO MUNICIPIO DE SÃO PAULO, aos 26 de outubro de 1978, 425º da fundação de São Paulo.\nOLAVO EGYDIO SETUBAL, PREFEITO.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.807, de 26/10/1978 was altered by acts of 1 date(s), the latest 1984-07-02."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08809",
+   "short": "Lei 8809/1978",
+   "title": "Lei nº 8.809, de 31/10/1978",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8809-de-31-de-outubro-de-1978",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1978-08809"
+   ],
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8809-de-31-de-outubro-de-1978",
+     "sha256": "3f8a357f4e70380c79ad42af16063f000eefa27ca6d0684df43f69c3eec42420",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.809, DE 31 DE OUTUBRO DE 1978.\nEstabelece normas aplicáveis ao imposto sobre serviços de qualquer natureza e a taxa de licença para localização, funcionamento ou instalação de atividades comerciais, industriais, profissionais, de prestação de serviços e similares, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O lançamento do Imposto sobre Serviços de Qualquer Natureza, quando calculado mediante fatores que independam do preço do serviço, poderá ser procedido de ofício.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Cadastro de Contribuintes Mobiliários - CCM será formado pelos dados da inscrição e respectivas alterações promovidas pelo sujeito passivo, além dos elementos obtidos pela fiscalização.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O contribuinte será identificado, para efeitos fiscais, pelo respectivo número no Cadastro de Contribuintes Mobiliários - CCM, o qual deverá constar de quaisquer documentos pertinentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A inscrição deverá ser promovida pelo contribuinte, em formulário próprio, com os dados necessários à sua identificação e localização e à caracterização dos serviços prestados ou das atividades exercidas.\n§ 1º -\n§ 2º - Na inexistência de estabelecimento fixo, a inscrição será única pelo local do domicílio do prestador de serviço.\n§ 3º - O contribuinte deve indicar, no formulário de inscrição, as diversas atividades exercidas num mesmo local.\n§ 4º - A inscrição será efetuada na forma e nos prazos regulamentares.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os dados apresentados na inscrição deverão ser alterados pelo contribuinte, na forma e nos prazos regulamentares, sempre que ocorram fatos ou circunstâncias que impliquem em sua modificação.\nParágrafo Único. O disposto neste artigo deverá ser observado inclusive quando se tratar de venda ou transferência de estabelecimento e de encerramento de atividade.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Administração poderá promover, de ofício, inscrição, alterações cadastrais ou cancelamento da inscrição, na forma regulamentar, sem prejuízo da aplicação das penalidades cabíveis.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Além da inscrição e respectivas alterações, o sujeito passivo do Imposto sobre Serviços de Qualquer Natureza - ISS, bem como os tomadores ou intermediários de serviços estabelecidos no Município de São Paulo, ficam sujeitos à apresentação de quaisquer declarações de dados, inclusive por meio magnético ou eletrônico, na forma e nos prazos regulamentares.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º É facultado à Administração promover, periodicamente, a atualização dos dados cadastrais, mediante convocação, por edital, dos contribuintes.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 -\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 -\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O procedimento fiscal relativo à Taxa de Licença para Localização, Funcionamento ou Instalação de Atividades Comerciais, Industriais, Profissionais, de Prestação de Serviços e Similares obedecerá, no que couber, ao previsto na legislação relativa ao Imposto sobre Serviços de Qualquer Natureza.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 -\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 -\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O artigo 74, \"caput\", e o inciso VII do artigo 77 da Lei nº 6.989, de 29 de dezembro de 1966, alterado pela Lei nº 7.228, de 12 de dezembro de 1968, passam a vigorar com a seguinte redação:\na) \"Art. 74 - O sujeito passivo deverá recolher, por guia, nos prazos regulamentares, o imposto correspondente aos serviços prestados em cada mês.\"\nb) \"VII - igual ao dobro do montante do imposto devido sobre a operação, aos que não recolherem, no prazo regulamentar, o imposto retido do prestador de serviços, quando apurado por procedimento fiscal ou após seu início.\"\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Nos casos em que, na forma da tabela anexa à Lei nº 8.327, de 28 de novembro de 1975, o cálculo da Taxa de Licença para Localização, Funcionamento ou Instalação de Atividades Comerciais, Industriais, Profissionais, de Prestação de Serviços e Similares é fixado em função do número de empregados, observar-se-ão as seguintes regras:\nI - o primeiro lançamento será efetuado com base no número de empregados declarados na inscrição inicial;\nII - Os demais, com base no número de empregados existentes a 1 de janeiro de cada exercício.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O artigo 1º da Lei nº 8.330, de 3 de dezembro de 1975, passa a vigorar com a seguinte redação:\n\"Art. 1º - Para o cálculo do Imposto sobre Serviços de Qualquer Natureza, devido pelos prestadores dos serviços mencionados nos incisos I a VIII e XI a XIII da lista de serviços prevista no artigo 49 da Lei nº 6.989, de 29 de dezembro de 1966, com a redação dada pela letra \"F\" do artigo 1º da Lei nº 7.410, de 30 de dezembro de 1969, tomar-se-á o valor da Unidade de Valor Fiscal do Município de São Paulo - UFM.\"\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Renumerado como inciso VI, nos termos do artigo seguinte, o inciso VII da tabela a que se refere o artigo 53 da Lei nº 6.989, de 29 de dezembro de 1966, substituída pelo artigo 2º da Lei nº 8.330, de 3 de dezembro de 1975, passa a vigorar com a seguinte redação:\n\"VII - artigo 49, inciso XLVII:\na) autoescolas, escolas de cabeleireiros e escolas de danças - 5% (cinco por cento) sobre o preço dos serviços;\nb) ensino pré-escolar, de 1º Grau, de 2º Grau, complementar, suplementar e superior, sob inspeção federal ou estadual, e demais escolas ou estabelecimentos de ensino - 2% (dois por cento) sobre o preço dos serviços.\"\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Ficam revogados os incisos IV e VIII da tabela a que se refere o artigo 53 da Lei nº 6.989, de 29 de dezembro de 1966, substituída pelo artigo 2º da Lei nº 8.330, de 3 de dezembro de 1975, com as alterações introduzidas pelo artigo 1º da Lei nº 8.573, de 2 de junho de 1977, renumerados os seus incisos V, VI, VII, IX e X nos de números IV a VIII, respectivamente.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 31 DE OUTUBRO DE 1978, 425º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 31 de outubro de 1978.\nO Secretário-Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.809, de 31/10/1978 was altered by acts of 5 date(s), the latest 2005-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08830",
+   "short": "Lei 8830/1978",
+   "title": "Lei nº 8.830, de 12/12/1978 (Dispõe sobre o controle acionário da Companhia do Metropolitano de São Paulo - METRÔ, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8830-de-12-de-dezembro-de-1978",
+   "first_law": "lei-1978-08830",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1978-12-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8830-de-12-de-dezembro-de-1978",
+     "sha256": "2f1ef8dcbb7e6bed2b386c94ee3bdc8ffc6bfe8bb7f5de6e070e5ef942435db5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.830, DE 12 DE DEZEMBRO DE 1978.\nDispõe sobre o controle acionário da Companhia do Metropolitano de São Paulo - METRÔ, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo dispensado de manter o controle acionário da Companhia do Metropolitano de São Paulo - METRÔ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o Executivo autorizado a subscrever ações da Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP, nos futuros aumentos de capital da referida Empresa, desde que:\na) o aumento se destine, totalmente, à subscrição de ações da Companhia do Metropolitano de São Paulo - METRÔ;\nb) parte do aumento tenha a mesma destinação estabelecida na alínea \"a\";\nc) em qualquer das hipóteses previstas nas alíneas anteriores, o valor da parcela subscrita pelo Executivo não exceda a 50% do valor subscrito pelo Governo do Estado de São Paulo e com a destinação referida nas alíneas \"a\" ou \"b\".\nParágrafo Único - A autorização de que trata este artigo fica condicionada à criação pela Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP de uma classe especial de ações ordinárias que assegure à Prefeitura a escolha de, pelo menos, 1 (um) membro do Conselho de Administração daquela Empresa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É o Executivo autorizado a celebrar convênio com a Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/ SP, nos termos do texto anexo, destinado a regular sua participação nas subvenções à Companhia do Metropolitano de São Paulo - METRÔ, bem como na prestação de garantias para empréstimos e financiamentos desta empresa, na conformidade das dotações orçamentárias para tanto consignadas em cada exercício.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica elevado para Cr$ 3.400.000.000,00 (três bilhões e quatrocentos milhões de cruzeiros), rotativamente, e acrescidos dos respectivos juros e demais encargos financeiros, o limite da autorização contida no parágrafo único do artigo 1º da Lei nº 7901, de 14 de maio de 1973.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam revogados o artigo 1º da Lei nº 8075, de 26 de junho de 1974, e os artigos 2º, 3º e 4º da Lei nº 8329, de 3 de dezembro de 1975.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 12 DE DEZEMBRO DE 1978, 425º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 12 de dezembro de 1978.\nO Secretário-Chefe do Gabinete, Erwin Friedrich Fuhrmann.\nTEXTO ANEXO A QUE SE REFERE À LEI Nº 8830, DE 12 DE DEZEMBRO DE 1978.\nConvênio entre a Prefeitura do Município de São Paulo e a Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP.\nConsiderando que os serviços de transportes de passageiros a cargo da Companhia do Metropolitano de São Paulo - METRÔ foram definidos como de interesse da Região Metropolitana da Grande São Paulo, com apoio na Lei Complementar Estadual nº 94, de 29-05-1974; Considerando que a Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP, cuja constituição foi autorizada pela Lei Estadual nº 1492, de 13-12-1977, tem a seu cargo o Sistema Metropolitano de Transportes Públicos de Passageiros da Região Metropolitana da Grande São Paulo; Considerando que, em consequência dessa nova definição, a nível regional, dos serviços de transportes prestados pela Companhia do Metropolitano de São Paulo - METRÔ, a Prefeitura pode dispensar-se do controle acionário desta última empresa; Considerando, porém, o interesse da Municipalidade de São Paulo nos serviços do Metrô, tendo em vista a população urbana por eles servida.\nA Prefeitura do Município de São Paulo, neste ato representada pelo Prefeito Municipal, Engenheiro Olavo Egydio Setubal, e a Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP, representada pelo seu Diretor Presidente, Dr. Mario Laranjeira de Mendonça, celebram o presente convênio, na forma e condições seguintes:\nCLÁUSULA I - A Prefeitura do Município de São Paulo se compromete a subvencionar a Companhia do Metropolitano de São Paulo - METRÔ na proporção de 50% do montante das subvenções que venham a ser concedidas a esta Companhia pela Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP ou pelo Governo do Estado.\nCLÁUSULA II - A Prefeitura do Município de São Paulo se compromete a prestar garantia a até 1/3 dos empréstimos ou financiamentos que vierem a ser levantados pela Companhia do Metropolitano de São Paulo - METRÔ ou a ela destinados.\nCLÁUSULA III - A Empresa Metropolitana de Transportes Urbanos de São Paulo S/A - EMTU/SP se obriga a encaminhar à Prefeitura do Município de São Paulo a documentação destinada à comprovação do emprego dos recursos provenientes das subvenções e dos empréstimos ou financiamentos por esta concedidos ou garantidos.\nE por estarem acordes, depois de lido e achado conforme, foi este termo assinado pelas partes e testemunhas abaixo.\nSão Paulo, _____ de ____________________ de 1978.\n(a) OLAVO EGYDIO SETUBAL\nPrefeito\n(a) MARIO LARANGEIRA DE MENDONÇA\nDiretor Presidente EMTU/SP\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08834",
+   "short": "Lei 8834/1978",
+   "title": "Lei nº 8.834, de 14/12/1978 (Autoriza a abertura de crédito adicional especial, de Cr$ 2.440.961,20, para pagamento de despesas de exercícios anteriores, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8834-de-14-de-dezembro-de-1978",
+   "first_law": "lei-1978-08834",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1978-12-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8834-de-14-de-dezembro-de-1978",
+     "sha256": "3cff51ea66a19db354206c252b6c51c295b4549ee6e511e403f7260698f199c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.834, DE 14 DE DEZEMBRO DE 1978\nAutoriza a abertura de crédito adicional especial, de Cr$ 2.440.961,20, para pagamento de despesas de exercícios anteriores, e dá outras providências.\nOlavo Egydio Setúbal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 29 de novembro de 1978, decretou e eu promulgo a seguinte lei:\nArt. lº - Fica o Prefeito autorizado a abrir na Secretaria das Finan¬ças, crédito adicional especial de CrS 2.440.961,20 (dois milhões, quatrocentos e quarenta mil, novecentos e sessenta e um cruzeiros e vinte centavos), destinado ao pagamento de despesas de exercícios anteriores, relacio¬nadas no quadro anexo, integrante desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O crédito de que trata o artigo anterior será coberto com recursos provenientes da anulação parcial, em igual importância, das seguin¬tes dotações do orçamento vigente:\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O Artigo 4º da Lei nº 8.822, de 24 de novembro de 1978, passa a ter a seguinte redação:\n\"Art. 4º - A Taxa, devida anualmente, será calculada, à razão de 0,001 (um milésimo) de 1 (uma) UFM - Unidade de Valor Fiscal do Município de São Paulo, por metro quadrado de área construída do prédio, localizado na zona urbana.\nParágrafo único - A Taxa será paga em prestações, na forma e nos prazos regulam entares.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 14 de dezembro de 1978, 425.0 da fundação de São Paulo.\nO Prefeito, Olavo Egydio Setúbal\nO Secretário dos Negócios Jurídicos, Maria Kadunc\nO Secretário das Finanças, Sérgio Silva de Freitas\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 14 de dezembro de 1978.\nO Secretário-Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08843",
+   "short": "Lei 8843/1978",
+   "title": "Lei nº 8.843, de 19/12/1978 (Dispõe sobre reformas, reconstruções e mudanças do destino das edificações nas zonas de uso z4, z5-003 e z5-004, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8843-de-19-de-dezembro-de-1978",
+   "first_law": "lei-1978-08843",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1978-12-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8843-de-19-de-dezembro-de-1978",
+     "sha256": "f36adf8101e5933e6fe4959f725aa0c6e521931bd7adaafe376a7a1cdef64752",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8843, DE 19 DE DEZEMBRO DE 1978.\nDispõe sobre reformas, reconstruções e mudanças do destino das edificações nas zonas de uso z4, z5-003 e z5-004, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 14 de dezembro de 1978, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Nas edificações regularmente existentes nas zonas de uso Z4, Z5-003 e Z5-004, conformes ou não conformes à legislação de uso e ocupação do solo, poderão:\nI - Ser executadas reformas ou reconstruções, ainda que impliquem:\na) em majoração do número de unidades habitacionais;\nb) em mudança do uso da edificação, desde que a nova destinação seja conforme na respectiva zona de uso;\nc) em aumento da taxa de ocupação ou do coeficiente de aproveitamento, desde que não sejam ultrapassados os limites máximos fixados pela legislação, para a respectiva zona de uso;\nII - Ocorrer mudanças do uso da edificação, desde que as novas destinações sejam conformes na respectiva zona de uso.\nParágrafo Único - As alterações previstas neste artigo deverão atender, além das demais disposições legais, às seguintes exigências:\na) de não agravarem a desconformidade da edificação com relação à legislação;\nb) da Lei nº 8050, de 22 de abril de 1974, relativas à adaptação das edificações às normas de segurança de uso, ressalvadas as modificações estabelecidas pela presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para as alterações previstas no artigo anterior, não será obrigatório o atendimento das exigências da legislação superveniente à da época da execução da edificação, relativas a espaços para estacionamento ou carga e descarga, ressalvados, porém, os casos:\na) de aumento da área de construção, quando, então, será obrigatória a disponibilidade de espaços para estacionamento ou carga e descarga, correspondente à área de construção acrescida;\nb) de novas destinações que notoriamente necessitem de espaços para estacionamento ou carga e descarga, quando, então, deverá ser observada a disponibilidade exigida pela legislação superveniente;\nc) enquadrados no disposto no artigo 3º desta lei.\n§ 1º - Não serão, porém, admitidas alterações que reduzam os espaços da edificação para estacionamento ou carga e descarga, quando já insuficientes, nos termos da legislação superveniente.\n§ 2º - O Executivo, mediante decreto, relacionará as destinações que notoriamente necessitem de disponibilidade de espaços para estacionamento ou carga e descarga.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo fixará, por decreto, de acordo com a conveniência de transporte e de tráfego, os trechos de logradouros públicos, nas zonas de uso Z4, Z5-003 e Z5-004, onde:\nI - Os imóveis lindeiros ficarão dispensados do atendimento das exigências legais relativas à reserva de vagas para estacionamento ou carga e descarga;\nII - Será, vedada a instalação de estacionamento, garagens ou espaços para carga e descarga.\nParágrafo Único - O decreto referido neste artigo ressalvará e disciplinará as utilizações já regularmente estabelecidas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Consideram-se regularmente existentes as edificações que tenham Auto de Conclusão, Auto de Vistoria ou Alvará de Conservação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As disposições da presente lei aplicam-se:\na) aos pedidos de aprovação de projetos em andamento ainda sem despacho decisório;\nb) às alterações de projetos aprovados com alvará de licença ainda em vigor;\nc) aos processos de regularização de edificações existentes.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 19 DE DEZEMBRO DE 1978, 425º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário da Habitação e Desenvolvimento Urbano, Ernest Robert de Carvalho Mange.\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 19 de dezembro de 1978.\nO Secretário-Chefe do Gabinete, Erwin Friedrich Fuhrmann.\nO Secretário Municipal de Educação, Hilário Torloni.\nO Secretário de Higiene e Saúde, Fernando Proença de Gouvêa.\nO Secretário de Serviços e Obras, Aurélio Araújo.\nO Secretário Municipal de Transportes, Olavo Guimarães Cupertino.\nO Secretário Municipal de Esportes, Sérgio Barbour.\nO Secretário Municipal de Cultura, Sábato Antônio Magaldi.\nO Secretário das Administrações Regionais, Celso Hahne.\nO Secretário da Habitação e Desenvolvimento Urbano, Ernest Robert de Carvalho Mange.\nO Secretário de Serviços Internos, Hélio Martins de Oliveira.\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 28 de setembro de 1978.\nO Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1978-08845",
+   "short": "Lei 8845/1978",
+   "title": "Lei nº 8.845, de 19/12/1978 (Aprova Plano de Melhoramentos no Distrito de Itaquera, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8845-de-19-de-dezembro-de-1978",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1978-08845"
+   ],
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8845-de-19-de-dezembro-de-1978",
+     "sha256": "11cf17e7824a73950d885e19769f56be11c4aea3e2fa2eec724140157b2fa756",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.845, DE 19 DE DEZEMBRO DE 1978.\nAprova Plano de Melhoramentos no Distrito de Itaquera, e dá outras providências.\nOlavo Egydio Setubal, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 14 de dezembro de 1978, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 26.032/1 a 26.032/31-L-616, do arquivo da Superintendência de Projetos Viários, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado o seguinte plano de melhoramentos no Distrito de Itaquera:\nI - Reserva de faixa de área, com largura variável, no trecho compreendido entre a Avenida Águia de Haia e a confluência da Estrada de Itaquera com as Ruas Tomazo Ferrara e Dom Pedro, destinada à implantação de sistema viário - Radial Leste - canalização do Córrego Rio Verde e obras complementares de urbanização, com extensão aproximada de 3.100,00 metros.\nII - Abertura de ruas:\na) em prolongamento à Rua Mauá, entre a Estrada de Itaquera e a faixa referida no item anterior, com largura de 17,00 metros;\nb) em prolongamento à Rua 7 de Setembro, entre a Estrada de Itaquera e a faixa referida no item I, com largura de 17,00 metros;\nc) ao longo do Córrego Rio Verde, entre a confluência da Rua Serrana com a Estrada de Itaquera-Carrão até a faixa mencionada no item I, com largura básica de 49,00 metros;\nd) em prolongamento à Rua Dr. Luiz Aires e a faixa mencionada no item I, com largura mínima de 19,00 metros;\ne) em prolongamento à Rua Samambaiaçu, entre as Rua Jurici e Aricurana, com largura de 14,00 metros;\nf) entre as faixas referidas nos itens I e III, com largura básica de 31,00 metros;\ng) em prolongamento à Avenida Florindo Campanella e a faixa referida no item I, com largura de 17,00 metros.\nIII - Reserva de faixa de área, com largura variável, no trecho compreendido entre a Praça Dona Ana das Dores Carvalho e a Rua Aricurana, na direção Oeste e, na direção Leste, até a Rua Guariuba, destinada à implantação de sistema de interligação viária.\nIV -\nParágrafo Único. Ficam igualmente aprovadas as concordâncias de alinhamentos assinaladas nas plantas mencionadas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os alinhamentos estabelecidos pela Lei nº 4.932, de 13 de março de 1956, para a avenida de fundo de vale do Córrego Santa Luzia, no seu trecho final, na direção Sul, a partir da Avenida Águia de Haia.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão, oportunamente, declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 19 DE DEZEMBRO DE 1978, 425º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, OLAVO EGYDIO SETUBAL\nO Secretário dos Negócios Jurídicos, Maria Kadunc.\nO Secretário das Finanças, Sérgio Silva de Freitas.\nO Secretário de Vias Públicas, Octávio Camillo Pereira de Almeida.\nO Secretário dos Negócios Extraordinários, Luis Filipe Soares Baptista.\nPublicada na Chefia do Gabinete do Prefeito, em 19 de dezembro de 1978.\nO Secretário-Chefe do Gabinete, Erwin Friedrich Fuhrmann.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 8.845, de 19/12/1978 was altered by acts of 1 date(s), the latest 2004-06-18."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
