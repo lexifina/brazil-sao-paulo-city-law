@@ -1,0 +1,797 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1973",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "13 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1973-07861": {
+   "label": "Lei nº 7.861, de 13/03/1973",
+   "title": "Revoga, em todos os seus termos, o artigo 250 da Consolidação do Código de Obras, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-03-13",
+   "published": "1973-03-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7861-de-13-de-marco-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07885": {
+   "label": "Lei nº 7.885, de 03/04/1973",
+   "title": "Altera a redação do parágrafo 1º do artigo 2º da Lei nº 4.256, de 1º de julho de 1952.",
+   "kind": "law",
+   "enacted": "1973-04-03",
+   "published": "1973-04-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7885-de-3-de-abril-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07924": {
+   "label": "Lei nº 7.924, de 06/07/1973",
+   "title": "Aprova plano de prolongamento da Avenida Alcântara Machado, bem como melhoramentos complementares, nos 3º e 38º subdistritos - Penha de França e Vila Matilde, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-07-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7924-de-6-de-julho-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07926": {
+   "label": "Lei nº 7.926, de 21/08/1973",
+   "title": "Introduz alterações na Lei nº 7.329/1969, Introduz alterações na Lei nº 7.329/1969, e dá outras providências.e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-08-21",
+   "published": "1973-08-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7926-de-21-de-agosto-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07932": {
+   "label": "Lei nº 7.932, de 22/08/1973",
+   "title": "Cria, no Departamento de Higiene e Saúde, Unidades Hopitalares, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-08-22",
+   "published": "1973-08-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7932-de-22-de-agosto-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07953": {
+   "label": "Lei nº 7.953, de 16/11/1973",
+   "title": "Introduz alterações na Lei nº 7.329, de 11 de julho de 1969, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-11-16",
+   "published": "1973-11-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7953-de-16-de-novembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07956": {
+   "label": "Lei nº 7.956, de 20/11/1973",
+   "title": "Altera dispositivos da Lei nº 6.838, de 27 de abril de 1966.",
+   "kind": "law",
+   "enacted": "1973-11-20",
+   "published": "1973-11-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7956-de-20-de-novembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07957": {
+   "label": "Lei nº 7.957, de 20/11/1973",
+   "title": "Estabelece regime especial de trabalho e outras vantagens para os servidores municipais, que operam com \"Raios X e Substâncias Radioativas\", e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-11-20",
+   "published": "1973-11-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7957-de-20-de-novembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07973": {
+   "label": "Lei nº 7.973, de 07/12/1973",
+   "title": "Dispõe sobre reclassificação das carreiras de Enfermeiro Diplomado e de Obstetriz, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-12-07",
+   "published": "1973-12-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7973-de-7-de-dezembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07979": {
+   "label": "Lei nº 7.979, de 14/12/1973",
+   "title": "Altera e complementa disposições da Lei nº 7.785, de 20 de setembro de 1972, reguladora da concessão de Alvarás de Conservação.",
+   "kind": "law",
+   "enacted": "1973-12-14",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7979-de-14-de-dezembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07987": {
+   "label": "Lei nº 7.987, de 18/12/1973",
+   "title": "Introduz alterações na Lei nº 7.199, de 1º de novembro de 1968, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-12-18",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7987-de-18-de-dezembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-07997": {
+   "label": "Lei nº 7.997, de 21/12/1973",
+   "title": "Cria cargos de Operador de PABX, na Secretaria de Serviços Municipais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1973-12-21",
+   "published": "1973-12-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7997-de-21-de-dezembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1973-08003": {
+   "label": "Lei nº 8.003, de 27/12/1973",
+   "title": "Acrescenta parágrafo único ao artigo 3º da Lei nº 7.979, de 14 de dezembro de 1973.",
+   "kind": "law",
+   "enacted": "1973-12-27",
+   "published": "1973-12-28",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8003-de-27-de-dezembro-de-1973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1973-07861",
+   "short": "Lei 7861/1973",
+   "title": "Lei nº 7.861, de 13/03/1973 (Revoga, em todos os seus termos, o artigo 250 da Consolidação do Código de Obras, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7861-de-13-de-marco-de-1973",
+   "first_law": "lei-1973-07861",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-03-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7861-de-13-de-marco-de-1973",
+     "sha256": "9540b1505639c82240623710b1cdca3582e93dad9868d6bb8a7569c441abcc91",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7861, DE 13 DE MARÇO DE 1973.\nRevoga, em todos os seus termos, o artigo 250 da Consolidação do Código de Obras, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 28 de fevereiro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado, em todos os seus termos, o artigo 250 da Consolidação do Código de Obras, aprovada pelo Ato nº 663, de 10 de agosto de 1934, com a nova redação conferida pela Lei nº 6160, de 12 de dezembro de 1962.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A verificação da capacidade técnica, da idoneidade moral e do estado de saúde dos empregados admitidos para conduzirem ascensores, fica a cargo dos proprietários de edifícios, seus síndicos, zeladores ou quaisquer outros responsáveis pelo respectivo vínculo empregatício.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as Leis nºs 6160, de 12 de dezembro de 1962, 6434, de 10 de dezembro de 1963, e demais disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 13 DE MARÇO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, JOSÉ CARLOS DE FIGUEIREDO FERRAZ.\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça.\nO Secretário das Finanças, Nelson Gomes Teixeira.\nO Secretário de Obras, Octávio Camillo Pereira de Almeida.\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 13 de março de 1973.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07885",
+   "short": "Lei 7885/1973",
+   "title": "Lei nº 7.885, de 03/04/1973 (Altera a redação do parágrafo 1º do artigo 2º da Lei nº 4.256, de 1º de julho de 1952.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7885-de-3-de-abril-de-1973",
+   "first_law": "lei-1973-07885",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-04-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7885-de-3-de-abril-de-1973",
+     "sha256": "5f429786dd1082d0639d9ea377fadda8aa38ec57c5a669e1c7608344e8d51bdb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7885, DE 3 DE ABRIL DE 1973.\nAltera a redação do parágrafo 1º do artigo 2º da Lei nº 4.256, de 1º de julho de 1952.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 21 de março de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do artigo 2º da Lei nº 4256, de 1º de julho de 1952, passa a ter a seguinte redação:\n\"§ 1º Nenhum veículo ou semovente acima referido poderá ser retirado do Depósito Municipal sem o pagamento da multa imposta, das despesas com a remoção e outras que se apurarem. Não retirados os veículos ou semoventes dentro de 30 (trinta) dias da apreensão, fica o Diretor do Departamento de Rendas Mobiliárias autorizado a vendê-los em leilão, após notificação administrativa.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 3 DE ABRIL DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, JOSÉ CARLOS DE FIGUEIREDO FERRAZ\nO Secretário de Negócio Internos e Jurídicos, Paulo Villaça.\nO Secretário das Finanças, Nelson Gomes Teixeira.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 3 de abril de 1973.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07924",
+   "short": "Lei 7924/1973",
+   "title": "Lei nº 7.924, de 06/07/1973",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7924-de-6-de-julho-de-1973",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1973-07924"
+   ],
+   "versions": [
+    {
+     "from": "1979-03-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7924-de-6-de-julho-de-1973",
+     "sha256": "c8732b13b4630e1de6a591743bc0e90477cfce7bcaaf3b649022076850225546",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.924, DE 6 DE JULHO DE 1973.\nAprova plano de prolongamento da Avenida Alcântara Machado, bem como melhoramentos complementares, nos 3º e 38º subdistritos - Penha de França e Vila Matilde, respectivamente, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 27 de junho de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 25.331, 25.332 e 25.333-L-616, do arquivo do Departamento de Urbanismo, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado o seguinte plano de melhoramentos, nos 3º e 38º subdistritos, respectivamente Penha de França e Vila Matilde:\nI -\nII -\nIII -\nIV -\nParágrafo Único. Ficam igualmente aprovadas as concordâncias de alinhamentos constantes das plantas referidas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Conforme indicado nas plantas citadas no artigo anterior, os imóveis situados nos logradouros a seguir descritos não poderão ter, para eles qualquer modalidade de acesso, sendo-lhes permitida somente servidão de luz e ar:\nI - Trechos do projetado prolongamento da Avenida Alcântara Machado, compreendidos:\na) entre a via de que trata a letra \"b\" do item II do artigo anterior e a Avenida Macedo Soares;\nb) entre a Avenida Macedo Soares e a Rua Pedro Américo;\nc) entre a Avenida Joaquim Marra e a rua \"3\";\nd) entre as ruas \"3\" e \"30\";\ne) entre a Rua Pinhal e a rua \"27\";\nf) entre as ruas \"27\" e \"26\";\ng) entre as ruas \"19\" e \"20\";\nII - Faixas descritas:\na) na letra \"a\" do item II do artigo anterior, excetuado o trecho compreendido entre as Ruas Hortolândia e Capiacaci;\nb) nas letras \"d\" e \"e\" do item II do artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 6 DE JULHO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, JOSÉ CARLOS DE FIGUEIREDO FERRAZ\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça.\nO Secretário das Finanças, Nelson Gomes Teixeira.\nO Secretário de Obras, Octávio Camillo Pereira de Almeida.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 6 de julho de 1973.\nO Diretor, João Alberto Guedes.\nO anexo encontra-se disponível, ainda, no Paço Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.924, de 06/07/1973 was altered by acts of 2 date(s), the latest 1979-03-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07926",
+   "short": "Lei 7926/1973",
+   "title": "Lei nº 7.926, de 21/08/1973 (Introduz alterações na Lei nº 7.329/1969, Introduz alterações na Lei nº 7.329/1969, e dá outras providências.e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7926-de-21-de-agosto-de-1973",
+   "first_law": "lei-1973-07926",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-08-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7926-de-21-de-agosto-de-1973",
+     "sha256": "f9ea16482b86534f0a37d2e0abc261e6f985d4c6c2f07cbffae650415ba5c57a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7926, DE 21 DE AGOSTO DE 1973.\nIntroduz alterações na Lei nº 7.329/1969, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 6 de agosto de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 17 da Lei nº 7.329, de 11 de julho de 1969, passa a ter a seguinte redação:\n\"Art. 17 - O alvará requerido em caráter inicial somente poderá ser expedido para veículo que tenha, no máximo, 5 (cinco) anos de fabricação e após ter o requerente comprovado o preenchimento das exigências contidas nos artigos 6º, 12º a 15º, quando se tratar de empresa, e nos artigos 7º, 9º, 12º a 15º, quando motorista autônomo, bem como das condições que forem estabelecidas em regulamento.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 21 DE AGOSTO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, JOSÉ CARLOS DE FIGUEIREDO FERRAZ\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça.\nO Secretário das Finanças, Nelson Gomes Teixeira.\nO Secretário Municipal de Transportes, Ion de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 21 de agosto de 1973.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07932",
+   "short": "Lei 7932/1973",
+   "title": "Lei nº 7.932, de 22/08/1973 (Cria, no Departamento de Higiene e Saúde, Unidades Hopitalares, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7932-de-22-de-agosto-de-1973",
+   "first_law": "lei-1973-07932",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-08-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7932-de-22-de-agosto-de-1973",
+     "sha256": "4b48de8b81742ae7519302fe7275f0755176c77a41bb70f8e32d2bd7dbdd7b21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7932, DE 22 DE AGOSTO DE 1973.\nCria, no Departamento de Higiene e Saúde, Unidades Hopitalares, e dá outras providências.\nJoão Brasil Vita, Prefeito - Substituto do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 17 de agosto de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criadas, no Departamento de Higiene e Saúde, da Secretaria de Higiene e Saúde, as Divisões: Hospital Municipal do Tatuapé, Hospital Municipal de São Miguel Paulista, Hospital Infantil Menino Jesus, Maternidade Escola Vila Nova Cachoeirinha, Maternidade Municipal Sylla Mattos e Hospital Municipal Ignácio Proença de Gouvêa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Compete às seis Divisões, ora criadas, prestar assistência Médico-hospitalar e socorros médico-cirúrgicos de urgência à população do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Divisão Hospital Municipal do Tatuapé constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda das seguintes unidades:\na) Secção de Pessoal e Expediente;\nb) Secção de Contabilidade;\nc) Secção Médico-Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico - Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos, com:\na) Clínica Pediátrica;\nb) Clínica Cirúrgica;\nc) Clínica Médica;\nd) Clínica Traumato-Ortopédica;\ne) Clínica Toco-Ginecológica;\nf) Serviços Médicos de Emergência, com Equipes Médicas;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Anestesia, com Setor de Gasoterapia;\nb) Serviço de Radiologia;\nc) Serviço de Laboratório;\nd) Serviço de Anatomia Patológica;\ne) Serviço de Hemoterapia;\nf) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviço de Nutrição e Dietética;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Arquivo Médico;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Divisão Hospital Municipal de São Miguel Paulista constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda, das seguintes unidades:\na) Secção de Pessoal e Expediente;\nb) Secção de Contabilidade;\nc) Secção Médico - Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico - Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos, com:\na) Clínica Pediátrica;\nb) Clínica Cirúrgica;\nc) Clínica Médica;\nd) Clínica Obstétrica;\ne) Serviços Médicos de Emergência, com Equipes Médicas;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Anestesia;\nb) Serviço de Radiologia;\nc) Serviço de Laboratório;\nd) Serviço de Anatomia Patológica;\ne) Serviço de Hemoterapia;\nf) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviço de Nutrição e Dietética;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Arquivo Médico;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Divisão Hospital Infantil Menino Jesus constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda, das seguintes unidades:\na) Secção de Pessoal e Expediente;\nb) Secção de Contabilidade;\nc) Secção Médico-Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico - Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos compreendendo Clínica Pediátrica, com:\na) Equipe Médica de Enfermarias;\nb) Equipe Médica de Ambulatórios;\nc) Equipe Médica de Cirurgia Infantil;\nd) Equipe Médica de Otorrinolaringologia;\ne) Equipe Médica de Oftalmologia;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Laboratório;\nb) Serviço de Radiologia;\nc) Serviço de Anestesia, com Setor de Gasoterapia;\nd) Serviço de Hemoterapia;\ne) Serviço de Anatomia Patológica;\nf) Serviço de Odontopediatria;\ng) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviço de Arquivo Médico;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Nutrição e Dietética;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Divisão Maternidade Escola de Vila Nova Cachoeirinha constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda, das seguintes unidades:\na) Secção de Pessoal e Expediente;\nb) Secção de Contabilidade;\nc) Secção Médico - Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico-Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos, com:\na) Clínica Obstétrica, com Equipes Médicas:\nb) Clínica Ginecológica;\nc) Clínica Pediátrica;\nd) Clínica Médica;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Anestesia;\nb) Serviço de Radiologia;\nc) Serviço de Laboratório;\nd) Serviço de Hemoterapia;\ne) Serviço de Anatomia Patológica;\nf) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviço de Nutrição e Dietética;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Arquivo Médico;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Divisão Maternidade Municipal Sylla Mattos constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda, das seguintes unidades:\na) Secção de Pessoal e Expediente;\nb) Secção de Contabilidade;\nc) Secção Médico - Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico - Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos, com:\na) Clínica Obstétrica, com Equipes Médicas;\nb) Clínica Pediátrica;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Anestesia;\nb) Serviço de Radiologia;\nc) Serviço de Laboratório;\nd) Serviço de Hemoterapia;\ne) Serviço de Anatomia Patológica;\nf) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviço de Nutrição e Dietética;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Arquivo Médico;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Divisão Hospital Municipal Ignácio Proença de Gouvêa constitui-se de:\nI - Chefia da Divisão;\nII - Assistência Técnica;\nIII - Auxiliar de Gabinete; e, ainda, das seguintes unidades:\na) Secção de Pessoal e Expediente;\nc) Serviço de Comunicações.\nc) Secção Médico - Hospitalar;\nd) Secção de Administração Hospitalar.\n§ 1º A Secção Médico - Hospitalar compõe-se de:\nI - Grupamento de Serviços Médicos, com:\na) Clínica Pediátrica;\nb) Clínica Médica;\nc) Serviços Médicos de Emergência, com Equipes Médicas;\nII - Grupamento de Serviços Médicos Auxiliares, com:\na) Serviço de Radiologia;\nb) Serviço de Laboratório;\nc) Serviço de Hemoterapia;\nd) Serviço de Residência, Ensino e Pesquisa.\n§ 2º A Secção de Administração Hospitalar compõe-se de:\nI - Grupamento de Serviços Técnicos, com:\na) Serviços de Enfermagem, com Supervisão de Turno de Enfermagem;\nb) Serviços de Nutrição e Dietética;\nc) Serviço Social;\nd) Serviço de Farmácia;\ne) Serviço de Arquivo Médico;\nf) Serviço de Biblioteca, Documentação Científica e Educação Profissional;\nII - Grupamento de Serviços de Apoio, com:\na) Serviço de Almoxarifado;\nb) Serviço de Zeladoria Hospitalar;\nc) Serviço de Comunicações.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As Secções Médico - Hospitalares das Divisões, ora criadas, terão, ainda, sob sua subordinação, um corpo de Médicos Especialistas, para atendimento de pacientes portadores de afecção que se enquadre nas suas respectivas especialidades.\nParágrafo Único - Os Médicos Especialistas serão designados pelas chefias das Divisões, entre médicos lotados nas respectivas unidades, em número de especialidades e quantidade de especialistas necessários ao atendimento dos serviços da Divisão.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 As Divisões ora criadas poderão realizar programas de aperfeiçoamento, estágios, cursos, palestras, reuniões de estudos e debates, quando conveniente para a formação e aprimoramento do pessoal técnico.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 Poderão, ainda, as Divisões proporcionar cursos para ensino e aperfeiçoamento médico nos seus vários setores, mediante convênios com Faculdades de Medicina, oficiais ou oficializadas.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 Ficam criados os cargos e funções gratificadas constantes das tabelas anexas, nas quais se discriminam as respectivas denominações, quantidades, padrão, vencimentos ou remuneração e forma de provimento ou designação.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 As despesas decorrentes da execução desta lei correrão por conta das verbas próprias do orçamento, suplementadas se necessário.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 A presente lei será regulamentada por decreto do Executivo.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 22 DE AGOSTO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito-Substituto, JOÃO BRASIL VITA\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça.\nO Secretário das Finanças, Nelson Gomes Teixeira.\nO Secretário de Obras, Octávio Camillo Pereira de Almeida.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz.\nO Secretário de Abastecimento, João Jacob Hoelz.\nO Secretário de Serviços Municipais Alberto Pereira Rodrigues.\nO Secretário de Bem Estar Social, Leopoldina Saraiva.\nO Secretário de Turismo e Fomento, Edenyr Machado.\nO Secretário Municipal de Transportes, Ion de Freitas.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 22 de agosto de 1973.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07953",
+   "short": "Lei 7953/1973",
+   "title": "Lei nº 7.953, de 16/11/1973 (Introduz alterações na Lei nº 7.329, de 11 de julho de 1969, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7953-de-16-de-novembro-de-1973",
+   "first_law": "lei-1973-07953",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-11-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7953-de-16-de-novembro-de-1973",
+     "sha256": "5f2711b85281eaee760a612dedc91ffd86d8c6416702fe9e981427a26cdf229f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.953, DE 16 DE NOVEMBRO DE 1973.\nIntroduz alterações na Lei nº 7.329, de 11 de julho de 1969, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 24 de outubro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 19 da Lei nº 7.329, de 11 de julho de 1969, passa a ser assim redigido:\n\"Art. 19 - Fica permitida a transferência de alvará de estacionamento de pessoas jurídicas ou físicas para quem, satisfazendo as exigências legais e regulamentares, possa executar o serviço de transporte individual do passageiros por meio de táxi.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O \"caput\" do Art. 20 e suas alíneas passam a ser assim redigidos:\n\"Art. 20 - Por força do disposto no artigo anterior, fica expressamente permitida a transferência de alvará:\na) ocorrendo sucessão, fusão ou incorporação de empresa por outra permissionária do serviço;\nb) ocorrendo a morte do motorista autônomo, à viúva ou a seus herdeiros, enquanto pelo menos um deles for incapaz;\nc) ao espólio, à viúva ou a herdeiro de motorista autônomo.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Parágrafo segundo do Art. 20 da Lei nº 7.329, de 11 de julho de 1969, passa a ter a seguinte redação:\n\"§ 2º Ao espólio, à viúva e aos herdeiros de motorista autônomo é assegurado o direito de registrar condutor para dirigir o veículo.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º VETADO.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para a renovação de alvará de estacionamento de veículos de empresa, é dispensada a apresentação do comprovante de inscrição de motorista no Cadastro Municipal de Condutores de Táxis.\nParágrafo Único - Quando solicitada pela Prefeitura, a exibição do referido comprovante será compulsória e, na sua falta, a empresa estará sujeita às cominações previstas pela Lei nº 7.329, de 11 de julho de 1969.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 16 DE NOVEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nAdelino Gomes Arantes Filho, respondendo pelo expediente da Secretaria das Finanças.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 16 de novembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07956",
+   "short": "Lei 7956/1973",
+   "title": "Lei nº 7.956, de 20/11/1973 (Altera dispositivos da Lei nº 6.838, de 27 de abril de 1966.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7956-de-20-de-novembro-de-1973",
+   "first_law": "lei-1973-07956",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-11-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7956-de-20-de-novembro-de-1973",
+     "sha256": "dfa6957258202bde4df855a4b3b9e871bccae2bb0bb6e3e6763aed4e010421dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.956, DE 20 DE NOVEMBRO DE 1973.\nAltera dispositivos da Lei nº 6.838, de 27 de abril de 1966.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 12 de novembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A alínea \"c\" do artigo 4º da Lei nº 6838, de 27 de abril de 1966, passa a ter a seguinte redação:\n\"c) um representante da Secretaria Municipal de Transportes e um representante da Secretaria de Obras, ambos nomeados pelo Prefeito por indicação dos titulares das respectivas Secretarias;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 20 DE NOVEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nAdelino Gomes Arantes Filho, respondendo pelo expediente da Secretaria das Finanças.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nJosé de Avila Aguiar Coimbra, respondendo pelo expediente da Secretaria de Serviços Municipais.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 20 de novembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07957",
+   "short": "Lei 7957/1973",
+   "title": "Lei nº 7.957, de 20/11/1973",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7957-de-20-de-novembro-de-1973",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1973-07957"
+   ],
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7957-de-20-de-novembro-de-1973",
+     "sha256": "90983cfd638ef115bf287cdd3bebeff75c95dcbd282326dde147352c7b099150",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.957, DE 20 DE NOVEMBRO DE 1973.\nEstabelece regime especial de trabalho e outras vantagens para os servidores municipais, que operam com \"Raios X e Substâncias Radioativas\", e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 16 de novembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam assegurados aos servidores municipais, inclusive àqueles postos à disposição do Hospital do Servidor Público Municipal - HSPM, que operam diretamente com \"Raios X e Substâncias Radioativas\", os seguintes direitos e vantagens:\na) regime de 24 (vinte e quatro) horas semanais de trabalho;\nb) férias de 20 (vinte) dias consecutivos, por semestres de atividade profissional, não acumuláveis, a partir do exercício de 1973;\nc) adicional correspondente a 35% (trinta e cinco por cento) da retribuição atual ou futura.\n§ 1º Aos servidores que tiveram o benefício de adicional incorporado aos seus vencimentos, por força da Lei nº 7.375, de 29 de outubro de 1969, ficam assegurados os direitos e vantagens constantes deste artigo.\n§ 2º O adicional previsto na letra \"c\" deste artigo, no caso do parágrafo anterior, será sempre calculado levando-se em conta a quantia fixa incorporada, fazendo jus o servidor à diferença que se apurar entre tal valor e as majorações sofridas e as que, eventualmente, vier a sofrer o benefício.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Secretaria de Higiene e Saúde, mediante indicação das Chefias de Clínica, organizará relações nominais dos servidores beneficiados por esta lei, com a indicação dos respectivos cargos ou funções, lotação e local de trabalho, as quais deverão ser enviadas ao Departamento de Administração do Município - DAMU, depois de aprovados pelo Prefeito.\nParágrafo Único - A inclusão indevida de qualquer servidor nas relações referidas neste artigo importará, além de outras penalidades cabíveis, na responsabilidade dos Chefes de Clínica perante os cofres municipais, cabendo-lhes repor as quantias pagas em virtude dessa inclusão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os servidores que apresentem indícios de lesões radiológicas, orgânicas ou funcionais, serão afastados imediatamente do trabalho, atribuindo-se lhes, conforme o caso, tarefa sem risco de irradiação, ou concedendo-se lhes licença para tratamento de saúde, na forma da legislação vigente, sem prejuízo, porém, dos direitos conferidos pela presente lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Não serão beneficiados:\nI - os servidores que, no exercício de tarefas acessórias ou auxiliares, fiquem expostos à irradiação, apenas, em caráter esporádico e ocasional;\nII - os servidores que, embora enquadrados no disposto no artigo 2º, estejam afastados do exercício de suas atribuições, salvo quando no desempenho de atividades idênticas às previstas no artigo 1º, ou em licença para tratamento de saúde, ou para gestantes, assim como nos casos comprovados de doença adquirida no exercício de suas funções.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os beneficiários desta lei não poderão, fora do serviço municipal, manusear as substâncias de que trata o artigo 1º.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As instalações de \"Raios X e Substâncias Radioativas\", nos serviços médicos do Município, serão executadas de acordo com as normas técnicas aplicáveis e sofrerão revisões semestrais.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Aos servidores que vierem a exercer as funções tratadas nesta lei, após 29 de outubro de 1969, fica assegurado o recebimento do benefício previsto na letra \"c\" do artigo 1º, desde a data de seu exercício.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Executivo estabelecerá medidas de Higiene e Segurança no Trabalho, necessárias à proteção do pessoal que manipula \"Raios X e Substâncias Radioativas\", contra acidentes e doenças profissionais, e reverá, anualmente, as tabelas de proteção.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O disposto nesta lei não se aplica aos servidores regidos pela legislação trabalhista.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - As despesas com a execução desta lei, no presente exercício, correrão por conta das verbas orçamentárias próprias, ficando o Prefeito autorizado, para o atendimento das resultantes de exercícios anteriores, a abrir, na Secretaria das Finanças, crédito adicional especial até o montante de Cr$ 500.000,00 (quinhentos mil cruzeiros), a ser coberto com recursos provenientes da anulação parcial, de idêntico valor, da verba nº 1820.711.3111.00.01 do orçamento vigente.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Esta lei entrará em vigor na data de sua publicação, revogadas a Lei nº 7.375, de 29 de outubro de 1969, e demais disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 29 DE NOVEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nAdelino Gomes Arantes Filho, respondendo pelo expediente da Secretaria das Finanças.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nJosé de Ávila Aguiar Coimbra, respondendo pelo expediente da Secretaria de Serviços Municipais.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 20 de novembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.957, de 20/11/1973 was altered by acts of 1 date(s), the latest 2008-04-04."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07973",
+   "short": "Lei 7973/1973",
+   "title": "Lei nº 7.973, de 07/12/1973 (Dispõe sobre reclassificação das carreiras de Enfermeiro Diplomado e de Obstetriz, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7973-de-7-de-dezembro-de-1973",
+   "first_law": "lei-1973-07973",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-12-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7973-de-7-de-dezembro-de-1973",
+     "sha256": "60309c5120d232fa7c48251449de9768fb07450220c1c1851e75139805460fc7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7973, DE 7 DE DEZEMBRO DE 1973.\nDispõe sobre reclassificação das carreiras de Enfermeiro Diplomado e de Obstetriz, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 5 de dezembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam reclassificados no padrão X-A os cargos da classe inicial das carreira de Enfermeiro Diplomado e de Obstetriz constantes, respectivamente, dos itens 15 e 25 da Tabela II - Parte Permanente - Carreiras, anexa à Lei nº 7.265, de 17 de janeiro de 1969.\nParágrafo Único - Os cargos das classes subsequentes das carreiras referidas neste artigo ficam reclassificados, respectivamente, nos padrões X-B, X-C e X-D.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 7 DE DEZEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Nelson Mortada.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 7 de dezembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07979",
+   "short": "Lei 7979/1973",
+   "title": "Lei nº 7.979, de 14/12/1973 (Altera e complementa disposições da Lei nº 7.785, de 20 de setembro de 1972, reguladora da concessão de Alvarás de Conservação.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7979-de-14-de-dezembro-de-1973",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1973-07979"
+   ],
+   "versions": [
+    {
+     "from": "1973-12-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7979-de-14-de-dezembro-de-1973",
+     "sha256": "13ab5e6d0ceaab8a3255ce56906a7d677ab1e37a374faeb0c6faf8dd9f047d37",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.979, DE 14 DE DEZEMBRO DE 1973.\nAltera e complementa disposições da Lei nº 7.785, de 20 de setembro de 1972, reguladora da concessão de Alvarás de Conservação.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 12 de dezembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A isenção de taxa devida pela outorga de Alvarás de Conservação a que se refere o artigo 4º da Lei nº 7785, de 20 de setembro de 1972, é extensiva a todas as construções e reformas de edificações de tipo exclusivamente residencial, cuja área total construída, incluídas as edículas e demais dependências, não exceda de 72 (setenta e dois) metros quadrados.\n§ 1º Fica concedida isenção do Imposto sobre Serviços de Qualquer Natureza devido pela construção ou reforma de edificações enquadradas no disposto neste artigo.\n§ 2º A Prefeitura restituirá, \"ex-officio\", a partir de 120 (cento e vinte) dias contados da data da vigência da presente lei, os recolhimentos efetuados a titulo de \"Taxa de Licença para Construções\" e de Imposto sobre Serviços de Qualquer Natureza, nos casos que se enquadrarem neste artigo e que tenham sido requeridos nos prazos fixados pelo artigo 3º da Lei nº 7785, de 1972, e pelo artigo 1º da Lei nº 7837, de 29 de dezembro de 1972.\n§ 3º Ficam excluídas dos benefícios deste artigo as unidades autônomas integrantes de prédios de apartamentos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para a obtenção dos Alvarás de Conservação requeridos até 19 de janeiro de 1973, fica facultado aos requerentes o pagamento dos tributos exigíveis, em prestações mensais, até o máximo de 3 (três), desde que formalizado o competente termo de parcelamento, dentro de 30 (trinta) dias contados da data de entrega da respectiva notificação ou da publicação de edital de convocação.\nParágrafo Único. Na impossibilidade de notificação, a convocação por edital prevista neste artigo poderá ser genérica, por áreas, zonas ou setores, sem a necessidade de especificação do nome do requerente, local do imóvel, número do processo, ou qualquer outro dado constante do pedido de alvará.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os acréscimos previstos no artigo 15 da Lei nº 6989, de 29 de dezembro de 1966, com a nova redação que lhe deu o artigo 5º da Lei nº 7785, de 20 de setembro de 1972, nos casos de imóveis cujos pedidos de conservação foram requeridos até 19 de janeiro de 1973 não serão aplicados nos lançamentos do imposto predial do exercício de 1974.\nParágrafo Único. Os imóveis a que se refere este artigo ficam dispensados da inscrição prevista no artigo 11 da Lei nº 6989, de 29 de dezembro de 1966.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Secretaria das Finanças determinará a forma e as condições de processamento do previsto no parágrafo 2º do artigo 1º e no parágrafo único do artigo 2º desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 14 DE DEZEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Nelson Mortada.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 14 de dezembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.979, de 14/12/1973 was altered by acts of 1 date(s), the latest 1973-12-27."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07987",
+   "short": "Lei 7987/1973",
+   "title": "Lei nº 7.987, de 18/12/1973 (Introduz alterações na Lei nº 7.199, de 1º de novembro de 1968, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7987-de-18-de-dezembro-de-1973",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1973-07987"
+   ],
+   "versions": [
+    {
+     "from": "1981-09-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7987-de-18-de-dezembro-de-1973",
+     "sha256": "7004e39cdc2a94d4a50de543784521e80ad4179a1460752692d5fb79ce17421e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7987, DE 18 DE DEZEMBRO DE 1973.\nIntroduz alterações na Lei nº 7.199, de 1º de novembro de 1968, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 12 de dezembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a promover as medidas e atos necessários à alteração, na forma desta lei, dos Estatutos da Companhia Municipal de Gás - COMGÁS-SP, cuja criação foi autorizada pela Lei nº 7199, 1º de novembro de 1968, inclusive para a mudança da denominação da empresa para Companhia de Gás de São Paulo - COMGÁS.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para a plena realização de suas finalidades, a COMGÁS poderá praticar todos os atos necessários à exploração, produção, aquisição, armazenamento, transporte, transmissão e distribuição de gás combustível ou de subprodutos e derivados, diretamente ou através de terceiros, observada a legislação federal pertinente e de acordo com a evolução tecnológica, o desenvolvimento econômico e as necessidades sociais dos centros urbanos, integrando-se com as demais fontes de energia.\n§ 1º Poderá, ainda, subsidiariamente, efetuar a aquisição, montagem e fabricação de equipamentos e componentes, objetivando suprir o mercado com sistemas eficientes e seguros, otimizando o uso do gás combustível ou de subprodutos e derivados, bem como executar os serviços necessários para ligação e assistência técnica.\n§ 2º Atendendo ao interesse público, poderá a COMGÁS estender os seus serviços a outros municípios, mediante convênio.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a melhor consecução dos seus fins e em consonância com a legislação federal relativa à matéria, a COMGÁS poderá:\nI - Firmar contratos com entidades pública ou privadas, nacionais ou estrangeiras, para estudo, projeto, implantação, fiscalização, operação e manutenção das atividades relacionadas no artigo 2º;\nII - Obter empréstimos, financiamentos, auxílios e subvenções;\nIII - Abrir seu capital na forma que for tecnicamente recomendável, respeitada sempre a participação majoritária do Município;\nIV - Criar ou participar de sociedades industriais ou comerciais, com fins semelhantes aos seus objetivos, complementares ou de qualquer forma convenientes à maior expansão da COMGÁS.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 18 DE DEZEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Nelson Mortada.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 18 de dezembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.987, de 18/12/1973 was altered by acts of 1 date(s), the latest 1981-09-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-07997",
+   "short": "Lei 7997/1973",
+   "title": "Lei nº 7.997, de 21/12/1973 (Cria cargos de Operador de PABX, na Secretaria de Serviços Municipais, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7997-de-21-de-dezembro-de-1973",
+   "first_law": "lei-1973-07997",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-12-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7997-de-21-de-dezembro-de-1973",
+     "sha256": "6a4b3ddd58349fcc6327ec496ed697540d6ada51daee177f9f1c7bac4cb7a6be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.997, DE 21 DE DEZEMBRO DE 1973.\nCria cargos de Operador de PABX, na Secretaria de Serviços Municipais, e dá outras providências.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 19 de dezembro de 1973, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados 4 (quatro) cargos de Operador de PABX isolados, de provimento em comissão, padrão II-B, incorporados à Tabela I, anexa à Lei nº 7.265, de 17 de janeiro de 1969.\n§ 1º Os cargos ora criados serão providos livremente pelo Prefeito, entre portadores de certificado de Curso de Operador de PABX ou candidatos aprovados em prova prática realizada perante o Diretor do Departamento de Serviços Diversos da Secretaria de Serviços Municipais.\n§ 2º Os titulares dos cargos de que trata este artigo ficarão sujeitos a 33 (trinta e três) horas semanais de trabalho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 21 DE DEZEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Nelson Mortada.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário de Educação de Cultura, Paulo Nathanael Pereira de Souza.\nO Secretário de Higiene e Saúde, Aldo Fazzi.\nO Secretário de Abastecimento, Euclides Carli.\nO Secretário de Serviços Municipais, Werner Eugênio Zulauf.\nO Secretário de Bem Estar Social, Henrique Gamba.\nO Secretário de Turismo e Fomento, José Maria Mendes Pereira.\nO Secretário Municipal de Transportes, Mario Alves de Melo.\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 21 de dezembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1973-08003",
+   "short": "Lei 8003/1973",
+   "title": "Lei nº 8.003, de 27/12/1973 (Acrescenta parágrafo único ao artigo 3º da Lei nº 7.979, de 14 de dezembro de 1973.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8003-de-27-de-dezembro-de-1973",
+   "first_law": "lei-1973-08003",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1973-12-28",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-8003-de-27-de-dezembro-de-1973",
+     "sha256": "699f9673b4e2f7d400a8ebb36acedd3a01f3049f0ff9570fb8b0db09cd158ffd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8003, DE 27 DE DEZEMBRO DE 1973.\nAcrescenta parágrafo único ao artigo 3º da Lei nº 7.979, de 14 de dezembro de 1973.\nMiguel Colasuonno, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 24 de dezembro de 1973, decretou e eu promulgo a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 3º da Lei nº 7979, de 14 de dezembro de 1973, fica acrescido do seguinte parágrafo único:\n\"Parágrafo Único - Os imóveis a que se refere este artigo ficam dispensados da inscrição prevista no artigo 11 da Lei nº 6989, de 29 de dezembro de 1966.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, AOS 27 DE DEZEMBRO DE 1973, 420º DA FUNDAÇÃO DE SÃO PAULO.\nO Prefeito, MIGUEL COLASUONNO\nO Secretário de Negócios Internos e Jurídicos, Theophilo Arthur de Siqueira Cavalcanti Filho.\nO Secretário das Finanças, Nelson Mortada.\nO Secretário de Obras, João Pedro de Carvalho Neto.\nO Secretário dos Negócios Extraordinários, Luiz Mendonça de Freitas.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 27 de dezembro de 1973.\nO Diretor, Celso de Almeida Braga.\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
