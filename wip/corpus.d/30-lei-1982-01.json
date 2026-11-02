@@ -1,0 +1,1723 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1982",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "21 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1982-09418": {
+   "label": "Lei nº 9.418, de 06/01/1982",
+   "title": "Dispoe sobre a organizaçao e instituiçao das carreiras de nivel universitario que especifica, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1982-01-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9418-de-6-de-janeiro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09420": {
+   "label": "Lei nº 9.420, de 07/01/1982",
+   "title": "Dispoe sobre a transferencia para o Setor de Edificaçoes Regulares do Cadastro de Edificaçoes do Municipio daquelas edificaçoes situadas no perimetro dos parcelamentos de solo regularizados que especifica, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1982-01-07",
+   "published": "1982-01-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9420-de-7-de-janeiro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09433": {
+   "label": "Lei nº 9.433, de 01/04/1982",
+   "title": "Estabelece penalidades às infrações re­ferentes às normas especiais de segu­rança de uso, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-04-01",
+   "published": "1982-04-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9433-de-01-de-abril-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09460": {
+   "label": "Lei nº 9.460, de 20/04/1982",
+   "title": "Dispõe sobre alterações nos cargos e funções e na jornada de trabalho do pessoal do quadro de natureza operacional, e dá outras providências correlatas.",
+   "kind": "law",
+   "enacted": "1982-04-20",
+   "published": "1982-04-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9460-de-20-de-abril-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09467": {
+   "label": "Lei nº 9.467, de 06/05/1982",
+   "title": "Cria, na Secretaria Municipal de Cultura, o Centro Cultural São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-05-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9467-de-6-de-maio-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09479": {
+   "label": "Lei nº 9.479, de 08/06/1982",
+   "title": "Dispõe sobre concessão administrativa de uso de área municipal ao São Paulo Futebol Clube.",
+   "kind": "law",
+   "enacted": "1982-06-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9479-de-8-de-junho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09480": {
+   "label": "Lei nº 9.480, de 08/06/1982",
+   "title": "Dispõe sobre transformação a criação de cargos de Agente de Apoio Fiscal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-06-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9480-de-8-de-junho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09481": {
+   "label": "Lei nº 9.481, de 11/06/1982",
+   "title": "Autoriza o executivo municipal a alterar a denominacao da rua jose cocciuffo, localizada no 18 subdistrito - Ipiranga.",
+   "kind": "law",
+   "enacted": "1982-06-11",
+   "published": "1982-06-12",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9481-de-11-de-junho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09496": {
+   "label": "Lei nº 9.496, de 24/06/1982",
+   "title": "Dispoe sobre limitaçao de gabarito em areas sob influencia do Sistema de Telecomunicaçoes Penha-Tucuruvi.",
+   "kind": "law",
+   "enacted": "1982-06-24",
+   "published": "1982-06-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9496-de-24-de-junho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09497": {
+   "label": "Lei nº 9.497, de 29/06/1982",
+   "title": "Altera dispositivos legais que especifica, relativos a forma de provimento, denominaçao, inclusao de cargos em carreiras, incorporaçao de vantagens na aposentadoria, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1982-06-29",
+   "published": "1982-06-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9497-de-29-de-junho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09522": {
+   "label": "Lei nº 9.522, de 08/07/1982",
+   "title": "Confere nova redação ao inciso XI do art. 61 da Lei nº 6.989, de 29 de dezembro de 1966.",
+   "kind": "law",
+   "enacted": "1982-07-08",
+   "published": "1982-07-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9522-de-8-de-julho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09523": {
+   "label": "Lei nº 9.523, de 15/07/1982",
+   "title": "Dispoe sobre a criaçao do Conselho Municipal de Auxilios e Subvençoes, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1982-07-15",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9523-de-15-de-julho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09526": {
+   "label": "Lei nº 9.526, de 15/07/1982",
+   "title": "Autoriza o Executivo Municipal a alterar a denominação da rua Figueira dos Pagodes, localizada no distrito de Itaquera.",
+   "kind": "law",
+   "enacted": "1982-07-15",
+   "published": "1982-07-16",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9526-de-15-de-julho-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09532": {
+   "label": "Lei nº 9.532, de 06/08/1982",
+   "title": "Dispõe sobre a criação de cargos na classe inicial da carreira de Arquiteto, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-08-06",
+   "published": "1982-08-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9532-de-6-de-agosto-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09540": {
+   "label": "Lei nº 9.540, de 07/10/1982",
+   "title": "Dispõe sobre insenção de tributos incidentes sobre imóveis construídos, cujo valor venal seja igual ou inferior a CR$ 800.000,00, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-10-07",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9540-de-7-de-outubro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09542": {
+   "label": "Lei nº 9.542, de 21/10/1982",
+   "title": "Dispõe sobre atribuição de gratificação a servidores aposentados como Supervisor de Limpeza Pública e Encarregado de Setor (Limpeza Pública).",
+   "kind": "law",
+   "enacted": "1982-10-21",
+   "published": "1982-10-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9542-de-21-de-outubro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09544": {
+   "label": "Lei nº 9.544, de 26/10/1982",
+   "title": "Dispoe sobre cancelamento de debitos, e da outras providencias.",
+   "kind": "law",
+   "enacted": "1982-10-26",
+   "published": "1982-10-27",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9544-de-26-de-outubro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09558": {
+   "label": "Lei nº 9.558, de 08/12/1982",
+   "title": "Reclassifica cargos de supervisor, da secretaria das administrações regionais, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-12-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9558-de-08-de-dezembro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09561": {
+   "label": "Lei nº 9.561, de 08/12/1982",
+   "title": "Dispoe sobre alteraçao da Lei nº 9.405, de 24 de dezembro de 1981, na parte que se refere a carreira de Tecnico de Contabilidade, e da outras providencias",
+   "kind": "law",
+   "enacted": "1982-12-08",
+   "published": "1982-12-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9561-de-8-de-dezembro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09562": {
+   "label": "Lei nº 9.562, de 08/12/1982",
+   "title": "Dispõe sobre a inclusão de representante da Secretaria das Administrações Regionais na Comissão de Edificações e Uso do Solo - CEUSO; sobre gratificação aos integrantes da Comissão Permanente de Orientação às Administrações Regionais sobre a aplicação da legislação urbanística - CPLU, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-12-08",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9562-de-8-de-dezembro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1982-09565": {
+   "label": "Lei nº 9.565, de 13/12/1982",
+   "title": "Dispõe sobre a reorganização do Departamento do Tesouro, da Secretaria das Finanças, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1982-12-13",
+   "published": "1982-12-14",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9565-de-13-de-dezembro-de-1982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1982-09418",
+   "short": "Lei 9418/1982",
+   "title": "Lei nº 9.418, de 06/01/1982 (Dispoe sobre a organizaçao e instituiçao das carreiras de nivel universitario que especifica, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9418-de-6-de-janeiro-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09418"
+   ],
+   "versions": [
+    {
+     "from": "1988-12-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9418-de-6-de-janeiro-de-1982",
+     "sha256": "945aaadf57f30c330fa3fef2826a06d6757d4e5eb8b20e047121f9e647672770",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.418, DE 6 DE JANEIRO DE 1982.\nDispoe sobre a organizaçao e instituiçao das carreiras de nivel universitario que especifica, e da outras providencias.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 14 de dezembro de 1981, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta lei organiza as carreiras de Economista, Educador de Saúde Pública, Estatístico, Nutricionista e Psicólogo Clínico e institui as carreiras de Farmacêutico Bioquímico, Pedagogo, Psicólogo, Psicólogo Escolar e Sociólogo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As carreiras referidas no artigo 1º ficam constituídas de 4 classes identificadas por algarismos romanos, de I e IV, com as referências de vencimentos e atribuições constantes do Anexo I desta lei.\nParágrafo Único - As atribuições constantes do Anexo I caracterizam cada classe da carreira, podendo ser exercidas, em caráter excepcional, por integrantes das demais classes, superiores ou inferiores, de acordo com as necessidades da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O provimento dos cargos constantes do Anexo III desta lei far-se-á:\nI - Mediante concurso público, para os cargos da classe inicial;\nII - Mediante concurso de acesso, dentre titulares de cargos da classe imediatamente inferior, para os cargos das classes intermediárias e final.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criados os cargos de Direção, Supervisão, Chefia e Encarregatura, privativos das carreiras a que se refere o artigo 1º, constantes do Anexo II desta lei.\n§ 1º - As nomeações para os cargos constantes do Anexo II serão feitas de acordo com as exigências de provimentos constantes do mesmo Anexo.\n§ 2º - Em casos de excepcional interesse para a Administração, os titulares de cargos das carreiras referidas nesta lei poderão ser nomeados para os cargos em comissão, privativos da classe inferior ou superior à classe em que estão enquadrados, na carreira respectiva.\n§ 3º - Os atuais titulares, cujos cargos em comissão são integrados nas carreiras pelo Anexo III, poderão ser nomeados, no primeiro provimento dos cargos a eles correspondentes do Anexo II, ainda que não sejam integrantes das respectivas carreiras.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os cargos de Enfermeiro de Pronto-Socorro, da Parte Suplementar do Quadro Geral do Pessoal, passam a ser classificados na Referência 22.\nParágrafo Único - O disposto neste artigo aplica-se aos inativos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A constituição das carreiras a que se refere o artigo 2º desta lei será feita mediante a integração dos cargos existentes, na forma do Anexo III.\nParágrafo Único - Os titulares de cargos da Tabela I, da Parte Permanente, constantes do Anexo a que se refere este artigo, só serão integrados nas classes indicadas, das carreiras de que trata esta lei, se tiverem assegurada por lei a situação de efetividade nesses cargos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A integração de cargos nas três classes superiores das carreiras organizadas ou instituídas por esta lei será feita por antiguidade dos respectivos titulares, na carreira, obedecida a precedência de cada classe e respeitados os limites constantes do Anexo III.\n§ 1º - Ao tempo obtido nos termos deste artigo será acrescido o tempo de serviço prestado à Prefeitura do Município de São Paulo, no exercício de tarefas privativas da profissão, na qualidade de nomeado ou admitido para cargo ou função da mesma natureza da carreira.\n§ 2º - A integração prevista neste artigo será feita mediante decreto específico para cada carreira, com vigência a partir de 1 de março de 1982.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os atuais servidores admitidos para funções correspondentes aos cargos de que trata esta lei serão considerados inscritos \"ex officio\" nos concursos que vierem a se realizar, para provimento das vagas existentes na classe inicial das respectivas carreiras indicadas no Anexo III.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Serão extintos, à medida em que seus titulares forem investidos, por acesso, em cargos das classes superiores das respectivas carreiras, os cargos indicados no Anexo III como \"Cargos Provisórios\".\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A gratificação atribuída ao funcionário sujeito ao Regime de Dedicação Profissional Exclusiva - RDPE, de que trata o artigo 8º da Lei nº 8215, de 7 de março de 1975, fica revalorizada de 50% para 60%, a partir de 1 de março de 1982.\nParágrafo Único - A revalorização prevista neste artigo estende-se aos inativos e pensionistas cujos proventos ou pensões incluam a gratificação do Regime de Dedicação Profissional Exclusiva - RDPE.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As disposições desta lei serão estendidas, no que couber, às Autarquias Municipais, mediante decreto.\nParágrafo Único - Dentro de 60 dias, as Autarquias encaminharão à Secretaria Municipal da Administração proposta para atendimento do disposto neste artigo.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - VETADO\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os 6 cargos de Engenheiro Supervisor, Referência DA-11, e os 19 cargos de Engenheiro Chefe de Unidade, Referência DA-9, lotados na Secretaria das Administrações Regionais, constantes do Anexo IV a que se refere o artigo 12 da Lei nº 9170, de 4 de dezembro de 1980, passam a ser de livre provimento em comissão, dentre servidores municipais, portadores do diploma de Engenheiro ou Arquiteto.\nParágrafo Único - Os cargos referidos neste artigo passam a denominar-se, respectivamente, \"Supervisor\" e \"Chefe de Unidade\".\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A denominação de um cargo de Engenheiro Supervisor, Referência DA-12, da Divisão de Manutenção e Controle da Iluminação Pública, da Secretaria de Vias Públicas, que consta do Anexo II da Lei nº 9170, de 4 de dezembro de 1980, fica alterada para Engenheiro Diretor de Divisão Técnica.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Ficam criados na Tabela I da Parte Permanente, do Quadro Geral do Pessoal, e integrados no Anexo II da Lei nº 9170, de 4 de dezembro de 1980, com as novas referências de vencimento indicadas, os cargos constantes do Anexo IV da presente lei.\nParágrafo Único - Ficam extintos os atuais cargos correspondentes aos criados por este artigo.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Esta lei entrará em vigor na data de sua publicação, ressalvados os artigos 2º, 4º, 6º, 7º, 10, 12 e 15, que vigorarão a partir de 1 de março de 1982.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Ficam revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 6 de janeiro de 1982, 428º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 6 de janeiro de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.418, de 06/01/1982 was altered by acts of 5 date(s), the latest 1988-12-16."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09420",
+   "short": "Lei 9420/1982",
+   "title": "Lei nº 9.420, de 07/01/1982",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9420-de-7-de-janeiro-de-1982",
+   "first_law": "lei-1982-09420",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-01-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9420-de-7-de-janeiro-de-1982",
+     "sha256": "b7474c1917f5ec0f2db23b83a26767b6d91defb73a3059c9adb08f2edfd128b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.420, DE 7 DE JANEIRO DE 1982.\nDispoe sobre a transferencia para o Setor de Edificaçoes Regulares do Cadastro de Edificaçoes do Municipio daquelas edificaçoes situadas no perimetro dos parcelamentos de solo regularizados que especifica, e da outras providencias.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 17 de dezembro de 1981, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As edificações situadas dentro dos perímetros de parcelamentos de solo regularizados e que venham a ser registradas no Setor de Edificações Irregulares do Cadastro de Edificações do Município, desde que concluídas até a data desta lei, poderão ser transferidas para o Setor de Edificações Regulares nos termos do estabelecido por esta lei.\n§ 1º - Entendem-se por parcelamento de solo regularizados, para os efeitos da presente lei, aqueles para os quais tenha sido ou venha a ser expedido Auto de Regularização ou proferido despacho de aceitação, nos termos do artigo 765 do Ato 663, de 10 de agosto de 1934, dentro das atribuições específicas dos Colegiados e da Supervisão Especial de Regularização de Loteamentos e Armamentos.\n§ 2º - Entendem-se por edificações concluídas aquelas cujas paredes estejam erguidas e a cobertura totalmente executada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As edificações referidas no artigo 1º destinadas a uso residencial unifamiliar, ou a outros usos sendo estes com área construída de até 50m² ou ainda a uso residencial unifamiliar misto com área construída de até 72m², independentemente das infrações legais que apresentam e ainda que situadas em lotes já desdobrados, para efeitos fiscais, até o exercício de 1979 inclusive, serão registradas ou transferidas para o Setor de Edificações Regulares do Cadastro de Edificações.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As edificações abrangidas pelo artigo 1º e não pelo artigo 2º, poderão ser transferidas para o Setor de Edificações Regulares do Cadastro de Edificações, desde que se situe em parcelamentos de solo não desdobrados, para efeitos fiscais, até o exercício de 1979 inclusive e desde que as infrações que apresentem à legislação de uso e ocupação do solo e de edificações possam ser, dada a natureza e gravidade, consideradas toleráveis.\n§ 1º - Consideram-se infrações toleráveis, para os efeitos desta lei:\na) quanto à legislação de uso e ocupação do solo, aquelas relativas:\n1 - à frente e área dos lotes ocupados, quando inferiores às estabelecidas na legislação de uso e ocupação do solo;\n2 - à ocupação parcial de recuo de frente:\na) até 4m do alinhamento e junto da edificação principal;\nb) quando inferior a 5m, para início das rampas que dão acesso aos veículos;\n3 - ao recuo lateral;\na) quando não inferior a 2m acima do segundo pavimento;\nb) ocupação total até o segundo pavimento;\n4 - à ocupação total do recuo de fundo;\n5 - à taxa de ocupação, quando até 40% superior à permitida na zona de uso;\n6 - ao coeficiente de aproveitamento, quando até 20% superior ao permitido na zona de uso;\n7 - à largura da via ou vias inferior a 10m, desde que a edificação tenha área de construção até 750m²;\n8 - às áreas para estacionamento de veículos em edificações com área construída até 750m²;\n9 - às áreas para carga e descarga, em edificações com área construída até 1.000m²;\nb) Quanto ao Código de Edificações, aquelas relativas:\n1 - aos elementos construtivos pertinentes à espessura de paredes e estabilidade;\n2 - às dimensões das fachadas:\na) extensão superior à prevista nos artigos 6º e 63 da Lei nº 8266, de 20 de junho de 1975;\nb) saliências e marquises, terraços, balcões;\n3 - às obras complementares estabelecidas na legislação própria;\n4 - ao pé-direito;\n5 - às áreas mínimas dos compartimentos;\n6 - às dimensões das aberturas destinadas à insolação, iluminação e ventilação dos compartimentos;\n7 - às dimensões para a faixa livre destinada à insolação, ventilação e iluminação dos compartimentos quando essas infrações não excederem a 30% do mínimo estabelecido pela Lei nº 8266, de 20 de junho de 1975.\n§ 2º - Não poderá ser transferida para o Setor de Edificações Regulares a edificação que infringir mais de quatro dispositivos relacionados no § 1º.\n§ 3º - Além dos critérios técnicos mencionados neste artigo, o processo de regularização levará em conta a finalidade pública, social, comunitária ou religiosa da edificação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A transferência de edificações para o Setor de Edificações Regulares do Cadastro de Edificações do Município, de que trata esta lei, estará sujeita ao prévio pagamento da Taxa de Licença para Obras, Construções, Armamentos e Loteamentos, estabelecida pelos artigos 177 e seguintes da Lei nº 6989, de 29/12/66, com as alterações da legislação posterior, concedidos os descontos previstos na tabela anexa à presente lei.\nParágrafo Único - A taxa mencionada no \"caput\" deste artigo poderá, em função de seu valor, ser objeto de pagamento parcelado, conforme regulamentação a ser estabelecida por Ato do Executivo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A multa estabelecida no artigo 28, item I, da Lei nº 7687, de 29 de dezembro de 1971, não será devida nos casos de edificações abrangidas pelos artigos 1º e 2º desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O lançamento do Imposto Predial relativo às edificações de que cuida o artigo 1º, existentes à data da publicação desta lei, em parcelamentos de solo regularizados, será efetivado, para fins exclusivamente tributários, sem o acréscimo previsto no artigo 15, inciso I, da Lei nº 6989, de 29 de dezembro de 1966, com a redação que lhe foi conferida pelo artigo 5º da Lei nº 7785, de 20 de setembro de 1972.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam remitidos os créditos tributários, ainda que não lançados, relativos ao Imposto Sobre Serviços, nascidos em decorrência das edificações abrangidas pelos artigos 1º e 2º desta lei, bem como anistiadas as penalidades correspondentes a infrações à legislação tributária, no que se refere ao Imposto Sobre Serviços, vedada a restituição de importância recolhidas aos cofres públicos a esses títulos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Será expedido Certificado de Regularidade de Edificação para as edificações regularizadas em decorrência desta lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os lotes não edificados integrantes dos parcelamentos de solo a que se refere o § 1º do artigo 1º, existentes à data desta lei, serão aceitos mesmo que com frente mínima e área total inferiores àquelas exigidas pela legislação de uso e ocupação do solo, permitida, porém, sua utilização exclusivamente por edificações destinadas a uso conforme na zona em que se situarem, sendo admitida a construção de unidade residencial unifamiliar, observado o disposto nos artigos 176 e 177 da Lei nº 8266, de 20 de junho de 1975, este com a nova redação conferida pelo artigo 12 da Lei nº 8881, de 29 de março de 1979, dispensadas as exigências fixadas para as diferentes zonas de uso.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Os efeitos desta lei se estendem inclusive aos casos sob apreciação judicial, ainda que julgados, mas cuja sentença não tenha sido executada, desde que o réu manifeste sua concordância ao juízo da causa em pagar as multas e taxas devidas à Prefeitura do Município de São Paulo e arque com as respectivas custas, honorários e demais cominações legais.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de janeiro de 1982, 428º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário das Administrações Regionais, Francisco Nieto Martin\nO Secretário da Habitação e Desenvolvimento Urbano, Octávio Augusto Speranzini\nO Secretário -Coordenador do Planejamento, Lauro Rios Rodrigues\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 7 de janeiro de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Amaud\nTabela Relativa aos descontos da Taxa de Licença para Obras, Construções, Arruamentos e Loteamentos, Anexa à Lei nº 9.420, de 7 de janeiro de 1982.\n__________________________________________________________\nCategoria de Uso da |Área da Edificação| Desconto\nEdificação\nUso residencial |Qualquer metragem | 100% - Isento\nunifamiliar\nUso misto residencial |Até 72m² | 100% - Isento\nunifamiliar\nOutros Usos |Até 50m² | 100% - Isento\nDe 50 até 100m² | 50%\nAcima de 100m² | 0%\n_______________________|__________________|_______________\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09433",
+   "short": "Lei 9433/1982",
+   "title": "Lei nº 9.433, de 01/04/1982 (Estabelece penalidades às infrações re­ferentes às normas especiais de segu­rança de uso, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9433-de-01-de-abril-de-1982",
+   "first_law": "lei-1982-09433",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-04-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9433-de-01-de-abril-de-1982",
+     "sha256": "6c0a6125bd8cc8c78aa79374af067dbbccce56b67d11f525ad667c1800c6e625",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9433, DE 1 DE ABRIL DE 1982\n(Projeto de Lei Nº 10/1982 - Executivo)\nEstabelece penalidades às infrações referentes às normas especiais de segurança de uso, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 18 março de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - As edificações existentes, que não apresentem condições de segurança na forma prevista na legislação vigente e nas normas técnicas oficiais, deverão ser adaptadas às exigências de segurança, mediante a execução de obras e serviços considerados necessários para garantir a segurança na sua utilização.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - As obras e serviços, necessários para a adaptação da edificação às normas especiais de segurança de uso, deverão ver executados nos prazos parciais, fixados no cronograma físico-financeiro e aceitos pela Prefeitura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Estão sujeitas à aplicação de penalidades, conforme o previsto nos Quadros anexos, as seguintes infrações:\nI - Não apresentar laudo técnico de segurança e projeto de adaptação da edificação às normas especiais de segurança de uso, no prazo de trinta dias corridos, contados da data do recebimento de regular notificação: multa fixada no Quadro nº II;\nII - Não solicitar Auto de Verificação de Segurança ou Alvará de Funcionamento, previsto; para locais de reunião, decorrido o prazo de trinta dias corridos, contados da data do recebimento de regular notificação: multa fixada no Quadro nº II;\nIII - Inserção, pelo perito, de dados falsos ou incorretos no laudo técnico de segurança e respectivo projeto de adaptação, bem como a omissão de dados necessários à avaliação das condições reais de segurança da edificação: multa fixada no Quadro nº III;\nIV- Inexecução de cada obra ou serviço, ao término do prazo parcial fixado no cronograma físico-financeiro e aceito pela Prefeitura: multa fixada no Quadro nº IV;\nV - Inexecução de obra ou serviço, no prazo de prorrogação concedido pela Prefeitura: multa fixada no Quadro nºII.\n§ 1º - Considera-se infrator, nos casos dos incisos I, II, IV e V o proprietário ou o síndico, na hipótese de condomínio, e ou o possuidor do imóvel; e, na hipótese do inciso III, o perito.\n§ 2º - As notificações previstas nos incisos I e II deste artigo poderão ser pessoais ou através de carta com aviso de recebimento e publicação no Diário Oficial do Município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - As multas previstas no Quadro n.o II deverão ser reaplicadas a cada período de sessenta dias corridos, enquanto persistir a infração.\n§ 1º - A reaplicação da multa deverá ser efetivada por dois períodos consecutivos, após o que, persistindo a infração, a Prefeitura interditará a edificação, cessando a reaplicação da multa.\n§ 2º - A interdição perdurará até que a infração seja sanada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O prazo para interposição de pedido de reconsideração ou recurso, em processos relativos à obtenção do Auto de Verificação de Segurança e do Alvará de Funcionamento dos locais de reunião , é de quinze dias corridos, contados da data da publicação do despacho no Diário Oficial do Município, excluído o dia do início e incluído o dia do vencimento.\nParágrafo único - Os pedidos de reconsideração e de recurso, nos processos mencionados neste artigo, não terão efeito suspensivo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O Executivo poderá, mediante decreto, fixar os prazos e condições para a renovação do Auto de Verificação de Segurança, bem como estabelecer as medidas necessárias para o controle efetivo da segurança de uso das edificações, devendo, ainda, possibilitar o aprimoramento dos conhecimentos especializados referentes a segurança de uso das edificações.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Rubricados pelo Presidente da Câmara e pelo Prefeito, fazem parte integrante desta lei os Quadros anexos n.os I, II, III e IV.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, a 1 de abril de 1982, 429º da fundação de São Paulo. O Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, respondendo pelo expediente, Antonio Carlos Galvão Freire\nO Secretário da Habitação e Desenvolvimento Urbano, Octávio Augusto Speranzini\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara.\nPublicada na Secretaria do Governo Municipal, em 1 de abril de 1982. -\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09460",
+   "short": "Lei 9460/1982",
+   "title": "Lei nº 9.460, de 20/04/1982 (Dispõe sobre alterações nos cargos e funções e na jornada de trabalho do pessoal do quadro de natureza operacional, e dá outras providências correlatas.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9460-de-20-de-abril-de-1982",
+   "first_law": "lei-1982-09460",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-04-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9460-de-20-de-abril-de-1982",
+     "sha256": "cacdb6c3e5e9e5fe82cefaadc7cad2b69f91db2d4de0e75f2c42e5b1baeddd1e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9460, DE 20 DE ABRIL DE 1982.\nDispõe sobre alterações nos cargos e funções e na jornada de trabalho do pessoal do quadro de natureza operacional, e dá outras providências correlatas.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 5 de abril de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam restabelecidas e incluídas no Quadro de Natureza Operacional as classes abaixo relacionadas, com vencimentos e salários a seguir indicados:\nI - Copeiro - Referência 5;\nII - Contínuo-Porteiro - Referência 5;\nIII - Vigia - Referência 5;\nIV - Servente II - Referência 5.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Serão integrados nas classes a que se refere o artigo anterior os atuais cargos e funções de Serviçal II, Referência 4, cujos ocupantes exerçam atribuições a elas correspondentes, conforme padrões de desempenho que serão estabelecidos em decreto a ser baixado pelo Executivo.\n§ 1º - Os atuais cargos e funções de Serviçal III, Referência 4, com a denominação alterada para Auxiliar de Limpeza Pública, serão integrados na Referência 5.\n§ 2º - Os atuais cargos e funções de Serviçal I, Referência 3, com a denominação alterada para Servente I, serão integrados na Referência 4.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A integração prevista no artigo anterior far-se-á mediante proposta, com relação nominal dos servidores e indicação das classes e referências em que serão enquadrados, encaminhada pelos Secretários Municipais, Secretário-Coordenador do Planejamento e Coordenador do Bem-Estar Social à Secretaria Municipal da Administração.\nParágrafo Único - Caberá à Secretaria Municipal da Administração o exame e a publicação das listas de integração a que se refere este artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os cargos e funções do Quadro de Natureza Operacional terão seus vencimentos e salários revalorizados na seguinte conformidade:\nI - Cargos e funções a nível de auxiliar ou de atividade pouco complexa - Referência 9;\nII - Cargos e funções a nível de profissional ou oficial - Referência 13;\nIII - Cargos e funções de Encarregado de Turma ou de Serviços - Referência 15.\n§ 1º - O enquadramento dos cargos e funções a que se refere este artigo será estabelecido em decreto a ser expedido pelo Executivo.\n§ 2º - Em consequência da revalorização prevista no item II, os cargos de Motorista I e II ficam unificados sob a denominação de Motorista de provimento efetivo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os servidores beneficiados pelo disposto na presente lei conservarão, nas novas referências, os graus em que se encontrarem à época do enquadramento ou integração.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica reduzida de 48 para 40 horas semanais, a jornada de trabalho do pessoal do Quadro de Natureza Operacional.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O disposto nesta lei será estendido, no que couber, às autarquias municipais, mediante decreto.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução da presente lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir da data da expedição dos atos a que se referem o parágrafo único do artigo 3º e o § 1º do artigo 4º.\nParágrafo Único - O disposto no artigo 6º vigorará a partir da publicação da presente lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Revogam-se o artigo 7º da Lei nº 8685, de 16 de março de 1978, e demais disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de abril de 1982, 429º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 20 de abril de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09467",
+   "short": "Lei 9467/1982",
+   "title": "Lei nº 9.467, de 06/05/1982 (Cria, na Secretaria Municipal de Cultura, o Centro Cultural São Paulo, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9467-de-6-de-maio-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09467"
+   ],
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9467-de-6-de-maio-de-1982",
+     "sha256": "6117acc34fd42df85fd2141ca4add94f10f4e254d7231de8dd17cd49a51690e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9467, DE 6 DE MAIO DE 1982.\nCria, na Secretaria Municipal de Cultura, o Centro Cultural São Paulo, e dá outras providências.\nReynaldo Emygdio de Barros, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado, na Secretaria Municipal de Cultura, o Centro Cultural São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Compete ao Centro Cultural São Paulo:\nI - Planejar, promover, incentivar e documentar as criações culturais e artísticas;\nII - Reunir e organizar uma infraestrutura de informações sobre o conhecimento humano;\nIII - Desenvolver pesquisas sobre a cultura e a arte brasileiras, fornecendo subsídios para as suas atividades;\nIV - Incentivar a participação da comunidade, com o objetivo de desenvolver a capacidade criativa de seus membros, permitindo a estes o acesso simultâneo a diferentes formas de cultura;\nV - Oferecer condições para estudo e pesquisa, nos campos do saber e da cultura, como apoio à educação e ao desenvolvimento científico e tecnológico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Centro Cultural São Paulo compõe-se de:\nI - Gabinete do Diretor;\nII - Divisão de Administração;\nIII - Divisão de Bibliotecas;\nIV - Divisão de Artes Cênicas e Música;\nV - Divisão de Artes Plásticas;\nVI - Divisão de Pesquisas;\nVII - Divisão de Difusão Cultural.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Gabinete do Diretor contará com uma Supervisão Coordenadora de Eventos, uma Seção de Licitações e Contratos e uma Seção de Contabilidade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º À Supervisão Coordenadora de Eventos compete:\nI - Assistir ao Diretor na programação artística e cultural e, ainda, em assuntos específicos, sempre que necessário;\nII - Propor as locações de serviços de natureza artística ou técnico-profissionais especializados, necessárias à realização dos eventos;\nIII - Examinar os pedidos de cessão de espaços para a realização de manifestações culturais e artísticas e de solenidades de singular relevo;\nIV - Manter permanente relacionamento com as Divisões do Centro Cultural.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Seção de Licitações e Contratos contará com um Serviço de Fiscalização de Contratos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Cabe à Seção de Licitações e Contratos:\nI - Processar as licitações e os registros cadastrais;\nII - Executar os serviços auxiliares da comissão julgadora das licitações, entendidos como tais:\na) a elaboração dos convites e editais, a serem assinados pelo Chefe de Seção;\nb) a exposição de comunicações e intimações;\nc) a recepção de propostas e recursos;\nd) a criação e manutenção de cadastro de fornecedores;\ne) as demais providências auxiliares que forem havidas como necessárias.\nIII - Elaborar os termos de contrato, as cartas-contratos e as ordens de execução de serviços;\nIV - Encaminhar ao Tribunal de Contas do Município de São Paulo as peças dos processos relativos às contratações;\nV - Acompanhar a execução dos contratos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Seção de Contabilidade executará os serviços que lhe são próprios e assistirá ao Diretor nos assuntos relativos a orçamento e controle de execução orçamentária.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º\nParágrafo Único.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - À Divisão de Administração compete o controle geral dos serviços de expediente e pessoal, zeladoria, manutenção e montagens.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A Divisão de Administração constitui-se de:\nI - Seção de Expediente, com:\na) Serviço de Protocolo;\nb) Serviço de Circulação de Papéis;\nc) Serviço de Reprografia;\nd) Serviço de Comunicação.\nII - Seção de Pessoal;\nIII - Seção de Treinamento de Pessoal;\nIV - Seção de Manutenção e Montagem, com:\na) Serviço de Pintura;\nb) Serviço de Marcenaria;\nc) Serviço de Hidráulica;\nd) Serviço de Eletricidade;\ne) Serviço de Refrigeração;\nf) Serviço de Montagens de Exposições, Auditórios, Bibliotecas e Laboratórios.\nV - Seção de Zeladoria, com:\na) Serviço de Copa e Refeitório;\nb) Serviço de Vigilância.\nVI - Seção de Almoxarifado.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - À Divisão de Bibliotecas compete:\nI - Organizar e difundir informações relativas ao conhecimento humano;\nII - Reunir e preservar os registros de informações, qualquer que seja o seu suporte material.\nIII - Realizar pesquisas bibliográficas, objetivando apoiar os estudos de seus usuários, em qualquer nível;\nIV - Incentivar a formação dos hábitos de leitura e de utilização, de informação;\nV - Promover eventos.\nParágrafo Único. Os assuntos técnicos e os relativos a eventos serão obrigatoriamente objeto de consulta prévia e parecer do Departamento de Bibliotecas Públicas e do Departamento de Bibliotecas Infanto-Juvenis, conforme a área respectiva.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A Divisão de Bibliotecas constitui-se de:\nI - Seção de Programação;\nII - Seção Administrativa, com:\na) Serviço de Expediente;\nb) Serviço de Pessoal;\nc) Serviço de Atividades Complementares.\nIII - Subdivisão de Informação e Referência Gerais, com:\na) Seção de Atendimento, com:\n1 - Serviço de Atendimento;\n2 - Serviço de Reprografia.\nb) Seção de Informação e Referência Gerais, com:\n1 - Serviço de Periódicos;\n2 - Serviço de Bibliografia;\n3 - Serviço de Depósito Bibliográfico;\n4 - Serviço de Livros.\nc) Seção de Suporte Técnico, com um Serviço de Etiquetagem;\nd) Seção de Microfilmagem;\ne) Seção de Conservação e Restauro, com:\n1 - Laboratório de Restauro;\n2 - Oficina de Encadernação e Montagem.\nIV - Subdivisão de Informação e Referência Especializadas, com:\na) Seção de Filosofia e Religião, com um Serviço de Depósito Bibliográfico;\nb) Seção de Ciências Sociais e História, com:\n1 - Serviço de Publicações Oficiais;\n2 - Serviço de Mapoteca;\n3 - Serviço de Depósito Bibliográfico.\nc) Seção de Filologia e Literatura, com:\n1 - Oficina Literária;\n2 - Laboratório de Línguas;\n3 - Serviço de Depósito Bibliográfico.\nd) Seção de Ciência e Tecnologia, com um Serviço de Depósito Bibliográfico;\ne) Seção de Artes, com:\n1 - Serviço de Arte Brasileira;\n2 - Serviço de Arte Internacional;\n3 - Serviço de Reproduções;\n4 - Serviço de Depósito Bibliográfico.\nV - Subdivisão de Coleções Especiais, com:\na) Seção de Obras Raras e Especiais, com:\n1 - Serviço de Manuscritos;\n2 - Serviço de Iconografia;\n3 - Coleção São Paulo;\n4 - Serviço de Depósito Bibliográfico.\nb) Seção de Recursos Audiovisuais;\nc) Seção de Discoteca, com:\n1 - Serviço de Registros Sonoros;\n2 - Serviço de Partituras;\n3 - Serviço de Apoio.\nd) Seção Infanto-Juvenil;\ne) Seção Braille, com:\n1 - Serviço Infanto-Juvenil;\n2 - Serviço de Adultos.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - À Divisão de Artes Cênicas e Música compete:\nI - Planejar, coordenar, executar e controlar, nos espaços disponíveis do Centro Cultural, as atividades artísticas relativas à música, canto, dança, teatro e cinema, objetivando o seu desenvolvimento e difusão;\nII - Incentivar a prática musical, a partir do nível de iniciação.\nIII - Produzir e executar montagens cênicas.\nParágrafo Único. A programação do teatro, anfiteatro e espaço de ensaio será feita, obrigatoriamente, em conformidade com a do Departamento de Teatros, ao qual caberá a preferência no uso desses locais, para o desenvolvimento de suas atividades.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - A Divisão de Artes Cênicas e Música constitui-se de:\nI - Seção Administrativa;\nII - Seção de Auditórios, com:\na) Serviço de Bilheteria;\nb) Serviço de Cenotécnica;\nIII - Seção de Desenvolvimento Musical;\nIV - Laboratório Musical Eletroacústico, com um Serviço de Sonoplastia.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - À Divisão de Artes Plásticas compete:\nI - Localizar, catalogar e preservar, direta ou indiretamente, as obras de artes plásticas pertencentes ao patrimônio da Administração, recomendando, em casos especiais, regras de preservação e a sua melhor localização, em edifícios públicos municipais.\nII - Orientar, selecionar e avaliar as obras a serem adquiridas pela Administração;\nIII - Programar e organizar exposições do acervo municipal e outros eventos;\nIV - Incentivar o exercício das artes plásticas, a partir do nível de iniciação;\nV - Reunir trabalhos e organizar coleções de arte popular, principalmente da Região Metropolitana de São Paulo;\nVI - Manter a Pinacoteca Municipal.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A Divisão de Artes Plásticas constitui-se de:\nI - Seção Administrativa;\nII - Seção de Programação;\nIII - Seção de Catalogação, Conservação e Montagem, com um Serviço de Montagem;\nIV - Oficina de Artes Plásticas, com um Laboratório;\nV - Seção de Arte Popular.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - À Divisão de Pesquisas compete:\nI - Realizar pesquisas baseadas nas atividades do Centro Cultural e outras, fundadas nas fontes primárias ali disponíveis, de nível erudito popular e de massa;\nII - Propor atividades e programações, apoiadas nas pesquisas realizadas;\nIII - Registrar informações sobre a arte brasileira e organizar os arquivos documentários;\nIV - Promover eventos.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - A Divisão de Pesquisas constitui-se de:\nI - Seção Administrativa, com:\na) Serviço de Expediente e Pessoal;\nb) Serviço de Atividades Complementares.\nII - Equipe Técnica de Pesquisas de Arquitetura;\nIII - Equipe Técnica de Pesquisas de Artes Cênicas;\nIV - Equipe Técnica de Pesquisas de Artes Gráficas;\nV - Equipe Técnica de Pesquisas de Artes Plásticas;\nVI - Equipe Técnica de Pesquisas de Cinema;\nVII - Equipe Técnica de Pesquisas de Comunicação de Massa;\nVIII - Equipe Técnica de Pesquisas de Literatura;\nIX - Equipe Técnica de Pesquisas de Música;\nX - Arquivo Multimeios, com um Atelier de Conservação e Restauro;\nXI - Hemeroteca.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - À Divisão de Difusão Cultural compete:\nI - Apoiar tecnicamente o registro de pesquisas realizadas pelo Centro Cultural e elaborar o seu produto final;\nII - Produzir e difundir trabalhos gráficos, audiovisuais e outros, relativos à arte e à cultura.\nIII - Documentar as atividades do Centro Cultural;\nIV - Promover a participação e a integração da comunidade nas atividades desenvolvidas pelo Centro Cultural.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - A Divisão de Difusão Cultural constitui-se de:\nI - Seção Administrativa;\nII - Equipe Técnica de Exposições e Publicações, com:\na) Laboratório Fotográfico;\nb) Oficina de Desenho;\nc) Oficina Gráfica;\nd) Oficina de Fotolito.\nIII - Equipe Técnica de Recursos Audiovisuais;\nIV - Equipe Técnica de Integração com a Comunidade.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - O acervo dos registros documentais, qualquer que seja o seu suporte material, disponível na Divisão de Bibliotecas, será formado pelos Departamentos de Bibliotecas Públicas e de Bibliotecas Infanto-Juvenis e integrará os respectivos patrimônios, permanecendo o Centro Cultural apenas como seu depositário.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - O Diretor da Divisão de Pesquisas poderá constituir grupos especiais de trabalho, para a realização de pesquisas que envolvam várias áreas de conhecimento. Ao servidor designado para coordenar o grupo será atribuída, por ato do Secretário Municipal de Cultura, durante o período de duração do trabalho, gratificação mensal correspondente a 4% do valor da Referência DA-15.\n§ 1º - O servidor que coordenar, concomitantemente, mais de um grupo de trabalho fará jus, apenas, à gratificação correspondente a um deles.\n§ 2º - Não serão remunerados, ao mesmo tempo, mais de dois grupos de trabalho e, tampouco, a remuneração excederá de seis meses ao ano.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Fica autorizada a convocação de servidores municipais para a prestação de tarefas especiais nos Teatros, Auditórios, Bibliotecas, Museus e outros espaços culturais da Secretaria Municipal de Cultura, em dias e horários fora da jornada normal de trabalho e de serviços extraordinários.\n§ 1º - Os servidores, convocados pelo Secretário Municipal de Cultura, farão jus a gratificação por tarefa, a ser arbitrada pelo Prefeito, por meio de decreto, observado o limite máximo de 1% do valor da Referência DA-15, por convocação.\n§ 2º - O regime de convocação será disciplinado por ato do Secretário Municipal de Cultura, não sendo admitida, por servidor, mais de trinta convocações mensais.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - O Departamento de Informação e Documentação Artísticas, criado pela Lei nº 8252, de 20 de maio de 1975, é absorvido pelo Centro Cultural, para este transferidos o pessoal, acervo, materiais e recursos financeiros.\nParágrafo Único. O acervo da Divisão de Discoteca e Biblioteca de Música e da Divisão de Biblioteca de Artes do Departamento ora absorvido, que não for de natureza artística, fica transferido para o Departamento de Bibliotecas Públicas.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - A Subdivisão de Coleções Especiais do Departamento de Bibliotecas Públicas, apenas com as Seções de Raridades, de Mapoteca e da Coleção São Paulo, é absorvida pelo Centro Cultural, para este transferido o respectivo pessoal.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - Fica extinta a Biblioteca Braille, do Departamento de Bibliotecas Infanto-Juvenis, remanejadas suas atribuições, acervo e pessoal para a Seção Braille do Centro ora criado.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - Ficam criados, na Secretaria Municipal de Cultura:\nI - Três Setores de Licitação, respectivamente, na Seção Administrativa do Gabinete do Secretário e nas Divisões Administrativas do Departamento de Teatros e do Departamento de Bibliotecas Públicas;\nII - Cinco Setores, respectivamente, de Pessoal, de Protocolo, de Zeladoria e Manutenção, de Almoxarifado e de Circulação de Veículos, na Seção de Expediente do Gabinete do Secretário.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - O cargo de Assistente Jurídico e os dois cargos de Assistente Técnico de Direção II, do Departamento de Informação e Documentação Artísticas, todos de Referência DA-11, constantes do Anexo I, Grupo I, da Lei nº 8252, de 20 de maio de 1975, ficam transformados em Assessor Técnico, Referência DA-12, de provimento em comissão, exigida habilitação compatível com a área de atuação, e lotados no Gabinete do Secretário.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Passam a ser de provimento em comissão, entre integrantes da carreira de Procurador:\nI - O cargo de Assistente Jurídico do Departamento do Patrimônio Histórico, Referência DA-11, constante do Anexo I, Grupo I, da Lei nº 8252, de 20 de maio de 1975;\nII - Os dois cargos de Assessor Jurídico, Referência DA-12, constantes do Grupo I do Anexo da Lei nº 8210, de 4 de março de 1975.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Os dez cargos de Encarregado de Setor, Referência 17, constantes do Anexo I, Grupo III, da Lei nº 8252, de 20 de maio de 1975, ficam transformados e remanejados, do seguinte modo:\nI - Um é transformado em Auxiliar de Gabinete, Referência DA-2, de provimento em comissão, lotado no Gabinete do Secretário;\nII - Três são remanejados, respectivamente, para o Gabinete do Secretário, Departamento de Bibliotecas Públicas e Departamento de Teatros, com a denominação de Encarregado do Setor de Licitação, Referência DA-2, passando a ser de provimento em comissão, entre servidores municipais;\nIII - Três são remanejados para o Gabinete do Secretário, com as denominações de Encarregado do Setor de Pessoal, Encarregado do Setor de Protocolo e Encarregado do Setor de Zeladoria e Manutenção, Referência DA-2, passando a ser de provimento em comissão, entre servidores municipais;\nIV - Três são remanejados para o Departamento de Bibliotecas Públicas, com a denominação de Encarregado de Turma, Referência DA-2, passando a ser de provimento em comissão, entre servidores municipais.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - Os três cargos de Auxiliar de Gabinete do Secretário, Referência DA-1, de provimento em comissão, constantes do Grupo I do Anexo da Lei nº 8210, de 4 de março de 1975, passam a ser classificados na Referência DA-2.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - Ficam criados quatro cargos de Comprador, Referência DA-1, de provimento em comissão, entre servidores municipais, lotados, dois deles, no Gabinete do Secretário e, os demais, nos Departamentos de Teatros e de Bibliotecas Públicas, respectivamente.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34 - Ficam criados, no Gabinete do Secretário, dois cargos de Encarregado de Setor - de Almoxarifado e de Circulação de Veículos - Referência DA-2, de provimento em comissão, entre servidores municipais.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 - Um cargo de Programador, Referência DA-7, e um de Administrador de Teatros e Auditórios, Referência DA-6, ambos de provimento em comissão, constantes do Anexo III, Grupo I, da Lei nº 9320, de 25 de setembro de 1981, são remanejados para o Departamento ora criado, o primeiro com a denominação de Programador Cultural.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36 - Para atender às necessidades do Centro Cultural, ficam criadas duas Agências Arrecadadoras, cada qual com três Agentes Arrecadadores - FG. 2, e três Auxiliares de Agente Arrecadador - FG. 1, a serem designados mediante indicação do Secretário Municipal de Cultura, e remunerados com funções gratificadas, ora criadas.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - Os cargos do Centro Cultural São Paulo são definidos no Anexo Único, integrante desta lei, com as suas respectivas denominações e referências de vencimentos, observadas as seguintes indicações:\nI - São criados os cargos que figuram na \"Situação Nova\", sem correspondência na \"Situação Atual\";\nII - São transformados, com as alterações previstas na \"Situação Nova\", os cargos constantes das duas colunas.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38 - Passa a ser de nove, a quantidade de cargos de Assistente Técnico de Divulgação, do Departamento de Teatros, constante da coluna \"Situação Atual\" do Anexo III, Grupo I, item III, da Lei nº 9320, de 25 de setembro de 1981.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39 - Fica criado o Quarteto de Cordas da Cidade de São Paulo, diretamente subordinado à Coordenadoria dos Corpos Estáveis do Departamento de Teatros, com o prefixo TM-115.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40 - O item III do artigo 5º da Lei nº 9168, de 4 de dezembro de 1980, alterado pelo artigo 8º da Lei nº 9320, de 25 de setembro de 1981, passa a ter a seguinte redação:\n\"III - Professor de Orquestra e Instrumentista - 15% do valor da Referência AA-23\".\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41 - O item V do artigo 6º da Lei nº 9168, de 4 de dezembro de 1980, passa a ter a seguinte redação:\n\"V - Professor de Orquestra e Instrumentista - 6% do valor da Referência AA-23\".\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42 - A gratificação prevista no artigo 9º da Lei nº 9168, de 4 de dezembro de 1980, poderá ser concedida, nas mesmas condições, aos Instrumentistas do Quarteto.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 - O Anexo VI da Lei nº 9320, de 25 de setembro de 1981, fica acrescido, no item I, de letra \"D\", na seguinte conformidade:\n___________________________________________\nSITUAÇÃO | SITUAÇÃO NOVA\nATUAL\nCARGO OU|REF.| | CARGO OU | REF.\nFUNÇÃO | | | FUNÇÃO\nI - | | I - |Instrumentista|AA-13\nCorpos | | Corpos\nEstáveis| |Estiveis\nD - ...| | D -\nQuarteto\nde\nCordas\nda\nCidade\nde São\nPaulo\n________|____|________|______________|_____\nParágrafo Único. As atribuições dos Instrumentistas serão estabelecidas por decreto.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 5859, de 14 de novembro de 1961.\nPrefeitura do Município de São Paulo, aos 6 de maio de 1982, 429º da fundação de São Paulo.\nO Prefeito, Reynaldo Emygdio de Barros\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário Municipal de Cultura, Mário Chamie\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 6 de maio de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.467, de 06/05/1982 was altered by acts of 1 date(s), the latest 2008-05-15."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09479",
+   "short": "Lei 9479/1982",
+   "title": "Lei nº 9.479, de 08/06/1982 (Dispõe sobre concessão administrativa de uso de área municipal ao São Paulo Futebol Clube.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9479-de-8-de-junho-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09479"
+   ],
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9479-de-8-de-junho-de-1982",
+     "sha256": "fc25f67691c8f2ffc51b47142170501550742dff176cbfadef78f9b3619f68d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9479, DE 8 DE JUNHO DE 1982.\n(Projeto de Lei Nº 97/1982)\nDispõe sobre concessão administrativa de uso de área municipal ao São Paulo Futebol Clube.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 13 de maio de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Poder Executivo, por Ato Administrativo, a renovar a concessão de área municipal, por até 20 (vinte) anos, situada na Avenida Marquês de São Vicente, 2724 - Barra Funda, São Paulo - SP, 05036-040, CODLOG 06.471-8, para manutenção de centro esportivo, considerando os relevantes serviços sociais e culturais prestados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área referida no artigo anterior, configurada na planta anexa nº A-7104, do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve: delimitada pelo perímetro 1-9-10-11-12-2-3-4-5-6-7-8-1, de formato irregular, com cerca de 44.472,37m², confrontando, para quem de dentro da área olha para a Avenida Marquês de São Vicente: pela frente linha reta 7-8, medindo mais ou menos 179m, confrontando com a Avenida Marquês de São Vicente, segundo seu alinhamento; pelo lado direito, linha mista 8-1-9-10-11-12-2, medindo mais ou menos 243m, assim parcelada: trecho 8-1, linha curva de concordância, medindo mais ou menos 39m, formada pelos alinhamentos da Avenida Marquês de São Vicente e rua sem denominação, segundo o alinhamento aprovado pela Lei nº 8891, de 16 de abril de 1979, confrontando com as mesmas; trecho 1-9, linha reta, medindo mais ou menos 51m, confrontando com a rua sem denominação, segundo seu alinhamento aprovado pela Lei nº 8891/79; trecho 9-10, linha reta, medindo mais ou menos 25m, confrontando com área de propriedade da Metalúrgica Fiel; trecho 10-11, linha reta, medindo mais ou menos 62m, confrontando com área de propriedade da Metalúrgica Fiel; trecho 11-12, linha sinuosa, medindo mais ou menos 2m, confrontando com área de propriedade da Metalúrgica Fiel; e trecho 12-2, linha reta, medindo mais ou menos 64m, confrontando com a rua sem denominação, segundo seu alinhamento aprovado pela Lei nº 8891/79; pelo lado esquerdo, linha reta 6-7, medindo mais ou menos 268m, confrontando com área municipal; pelos fundos, linha quebrada 2-3-4-5-6, medindo mais ou menos 224,50m, sobre o antigo leito do Rio Tietê, confrontando, em toda sua extensão, com o mesmo, assim parcelada: trecho 2-3, linha reta, medindo mais ou menos 19,50m; trecho 3-4, linha reta, medindo mais ou menos 29m; trecho 4-5, linha reta, medindo mais ou menos 26m; e trecho 5-6, linha reta, medindo mais ou menos 150m.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das condições que forem exigidas pela Prefeitura, por ocasião da assinatura do instrumento de concessão, no sentido de salvaguardar os interesses municipais, fica o concessionário obrigado a:\na) não utilizar a área para finalidade diversa da prevista no artigo 1º;\nb) construir, na área cedida, as edificações necessárias à instalação e funcionamento do centro poliesportivo;\nc) apresentar, para aprovação pelos órgãos técnicos da Prefeitura, no prazo máximo de 2 anos, contados da lavratura do competente termo de concessão, os projetos e memoriais das edificações a serem executadas, que deverão atender às exigências legais pertinentes;\nd) iniciar as obras dentro de 2 anos, contados da aprovação dos projetos e concluí-las no prazo máximo de 4 anos;\ne) não ceder o imóvel, no todo ou em parte, a terceiros;\nf) não permitir que terceiros se apossem do imóvel, bem como dar conhecimento imediato à Prefeitura de qualquer turbação de posse que se verifique;\ng) zelar pela limpeza e conservação do imóvel, devendo providenciar, as suas expensas, quaisquer obras de manutenção que se fizeram necessárias;\nh) responder, perante o Poder Público, pelos impostos e taxas Referentes ao imóvel;\ni) arcar com todas as despesas oriundas da concessão, inclusive com as relativas à lavratura e registro do competente instrumento;\nj) ceder gratuitamente a utilização das instalações do centro poliesportivo aos alunos da rede municipal de ensino, sempre que solicitado pela Prefeitura e mediante prévia fixação de dias, locais e horários a serem estabelecidos com a Secretaria Municipal de Educação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Prefeitura terá o direito de, a qualquer tempo, fiscalizar o cumprimento das obrigações estabelecidas nesta lei e no instrumento de concessão.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Prefeitura não será responsável, inclusive perante terceiros, por quaisquer prejuízos decorrentes da execução de obras, serviços e trabalhos a cargo do concessionário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A extinção ou dissolução do concessionário, a alteração do destino da área, a inobservância das condições estatuídas nesta lei, ou das cláusulas que constatarem do instrumento de concessão, bem como o inadimplemento de qualquer prazo fixado, implicarão na automática rescisão da concessão, revertendo a área ao Município e incorporando-se ao seu patrimônio todas as edificações e benfeitorias nela executadas, ainda que necessárias, sem direito de retenção e independentemente de qualquer pagamento ou indenização, seja a que título for, o mesmo ocorrendo uma vez findo o prazo da concessão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de junho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 8 de junho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.479, de 08/06/1982 was altered by acts of 1 date(s), the latest 2017-12-29."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09480",
+   "short": "Lei 9480/1982",
+   "title": "Lei nº 9.480, de 08/06/1982 (Dispõe sobre transformação a criação de cargos de Agente de Apoio Fiscal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9480-de-8-de-junho-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09480"
+   ],
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9480-de-8-de-junho-de-1982",
+     "sha256": "23c9873db8a0a5bd9694f1bc40ae97207a0ca08b520032fcd2467e187fda503b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.480, DE 8 DE JUNHO DE 1982\nDispõe sobre transformação e criação de cargos de Agente de Apoio Fiscal, e dá outras providências.\nANTINO SALIM CURIATI, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei,\nFaço saber que a Câmara Municipal de São Paulo, em sessão de 20 de maio de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam transformados em cargos de Agente de Apoio Fiscal, Referência AAF-1, os cargos dos funcionários designados para as atuais Funções Gratificadas de Fiscal e Encarregado de Setor de Fiscalização, do Departamento de Rendas Mobiliárias, desde que preencham os seguintes requisitos:\nI - Sejam titulares de cargos efetivos;\nII - Estejam no exercício das Funções Gratificadas por, no mínimo, 8 anos, ininterruptos ou não, até a data desta lei;\nIII - Não tenham sofrido pena disciplinar de suspensão.\nParágrafo único - A transformação prevista neste artigo será efetivada mediante opção formulada pelo funcionário, dentro de 180 dias, contados da data desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - Os funcionários atualmente designados para as Funções Gratificadas referidas no artigo 1°, e que não preencham o requisito do prazo de 8 anos, terão seus cargos efetivos transformados em cargos de Agente de Apoio Fiscal, referência AAF - 1, se aprovados em prova de suficiência específica, que levará em consideração o tempo de exercício na função gratificada de Fiscal e de Encarregado de Setor de Fiscalização, nas condições que forem estabelecidas em decreto regulamentador.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - A transformação prevista nos artigos anteriores não ocorrerá se, até a formalização, o funcionário vier a sofrer qualquer penalidade disciplinar, hipótese em que será cessada sua designação.\nParágrafo único - Se, à época da transformação, o funcionário estiver respondendo a inquérito administrativo, ela só se efetuará após o seu término e desde que o funcionário seja absolvido.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Formalizadas as transformações de que tratam os artigo 1° e 2° ficarão extintas as Funções Gratificadas respectivas, bem como todas as demais funções gratificadas de Fiscal e de Encarregado de Setor de Fiscalização do Departamento de Rendas Mobiliárias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Ficam criados 50 cargos de Agente de Apoio Fiscal, Referência AAF - 1, de provimento efetivo, exigida a escolaridade de 2° grau ou equivalente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - Ficam criados no Quadro de Fiscalização Tributária e integrados no Anexo I, Parte A - Cargo de Provimento em Comissão - da Lei n° 8.645, de 21 de novembro de 1977, 14 cargos de Agente de Apoio Fiscal Encarregado de Setor, AAF - 2, destinados ao departamento de Rendas Mobiliárias, da Secretaria das Finanças.\nParágrafo único - Os cargos de Agente de Apoio Fiscal, Referência AAF - 1, resultantes das transformações previstas nos artigo 1° e 2°, bem como os criados pelo artigo 5° desta lei, serão integrados no Anexo I, Parte B - Cargos de Provimento Efetivo - da Lei n° 8.645, de 21 de novembro de 1977, e, também, destinados ao departamento de Rendas Mobiliárias, da Secretaria das Finanças.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Ficam criadas as Referências de Vencimentos \"AAF-1\" e \"AAF-2\", constituídas de 5 Graus, de \"A\" a \"E\", com valores constantes do Anexo Único, parte integrante desta lei.\nParágrafo único - Os cargos de Agente de Apoio Fiscal, decorrentes da transformação, e os de Agente de Apoio Fiscal Encarregado de Setor, criados pelo artigo 6°, situar-se-ão, inicialmente, no Grau \"A\".\n"
+      },
+      "art-0008": {
+       "label": "Art. 8°",
+       "kind": "article",
+       "text": "Art. 8° - O provimento dos cargos de que trata esta lei far-se-á:\nI - Os de Agente de Apoio Fiscal, Referência AAF -1, novos ou que se vagarem: mediante concurso público de títulos e de provas, entre portadores de certificado ou diploma de ensino de 2° Grau ou equivalente.\nII - Os de Agente de Apoio Fiscal Encarregado de Setor, Referência AAF - 2: em comissão, dentre titulares do cargo de Agente de Apoio Fiscal, Referência AAF -1.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9°",
+       "kind": "article",
+       "text": "Art. 9° - As promoções na classe de Agente de Apoio Fiscal far-se-ão pelo critério de antiguidade merecimento, e processar-se-ão de acordo com as normas gerais estabelecidas para o Quadro Geral do Pessoal.\nParágrafo único - Somente poderão ser promovidos por merecimento os titulares do cargo de Agentes de Apoio Fiscal que tiverem interstício mínimo de 2 anos de efetivo exercício no grau.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O ocupante de cargo de Agente de Apoio Fiscal nomeado para cargo de Agente de Apoio Fiscal Encarregado de Setor conservará, na nova Referência, o mesmo grau em que se encontrava no cargo efetivo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - São atribuições dos Agentes de Apoio Fiscal:\nI - O exercício supletivo de serviços auxiliares de fiscalização tributária, compreendendo:\na) verificação da regularidade dos contribuintes de tributos mobiliários, quanto à inscrição e atualização dos dados no Cadastro de Contribuintes Mobiliários - CCM;\nb) pesquisa e coleta de dados necessários à fixação da estimativa ou arbitramento pra o Imposto sobre Serviços de Qualquer Natureza;\nc) realização de plantões nos estabelecimentos dos contribuintes de tributos mobiliários, visando à verificação da efetiva prestação de serviços e a regularidade no emissão dos documentos fiscais correspondentes;\nd) fiscalização do cumprimento das obrigações relativas às Taxas cometidas à competência do Departamento de Rendas Mobiliárias;\nII - Lavratura de Autos de Infração e Intimação referentes a obrigações acessórias do Imposto sobre Serviços de Qualquer Natureza, desde que decorrentes de operações fiscais específicas.\nParágrafo único - É vedado aos ocupantes do cargo de Agente de Apoio Fiscal a execução de levantamentos fiscais e de análises contábil-financeiras ou econômicas dos sujeitos passivos dos tributos mobiliários.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Aos ocupantes do cargo de Agente de Apoio Fiscal Encarregado de Setor competem a distrIbuição, orientação, verificação e revisão das tarefas executadas pelos Agentes de Apoio Fiscal.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Os Agentes de Apoio Fiscal e Agentes de Apoio Fiscal Encarregados de Setor farão jus à gratificação de produtividade fiscal, desde que estejam no efetivo exercício de atribuições específicas de fiscalização no Departamento de Rendas Mobiliárias, segundo critérios a serem previstos em regulamento, levando em conta a atuação pessoal do funcionário.\nParágrafo único. Serão considerados como de efetivo exercício, para os fins deste artigo, os afastamentos do serviço a que se refere o art. 64 da Lei nº 8.989, de 1979, a licença para tratamento da própria saúde, a licença-adoção prevista no parágrafo único do art. 1º da Lei nº 9.919, de 21 de junho de 1985, a licença-paternidade prevista no art. 3º da Lei nº 10.726, de 8 de maio de 1989, o mandato de dirigente sindical nos termos do art. 7º da Lei nº 13.883, de 18 de agosto de 2004, e outros afastamentos considerados como de efetivo exercício na forma da legislação específica.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Para os efeitos do disposto no art. 14 desta lei, a apuração da Gratificação de Produtividade Fiscal far-se-á, mensalmente, mediante a atribuição de pontos com valor de 0,025% (vinte e cinco milésimos por cento) ou de 0,032% (trinta e dois milésimos por cento) do vencimento correspondente ao padrão QPF-6-A, da Tabela da Jornada Básica de 40 (quarenta) horas de trabalho semanais - J-40, prevista para a carreira de Agente de Apoio Fiscal, na seguinte conformidade:\nI - quando o Agente de Apoio Fiscal estiver no exercício do cargo efetivo:\na) até 3.359 (três mil, trezentos e cinqüenta e nove) pontos: aplica-se 0,025% (vinte e cinco milésimos por cento) sobre 3.000 (três mil) pontos;\nb) de 3.360 (três mil, trezentos e sessenta) a 3.989 (três mil, novecentos e oitenta e nove) pontos: aplica-se 0,032% (trinta e dois milésimos por cento) sobre 3.674 (três mil, seiscentos e setenta e quatro) pontos;\nc) de 3.990 (três mil, novecentos e noventa) a 4.409 (quatro mil, quatrocentos e nove) pontos: aplica-se 0,032% (trinta e dois milésimos por cento) sobre 4.200 (quatro mil e duzentos) pontos;\nd) de 4.410 (quatro mil, quatrocentos e dez) a 4.620 (quatro mil, seiscentos e vinte) pontos: aplica-se 0,032% (trinta e dois milésimos por cento) sobre 4.620 (quatro mil, seiscentos e vinte) pontos;\nII - quando o Agente de Apoio Fiscal estiver no exercício de cargo de provimento em comissão cuja natureza das atribuições esteja relacionada com as atribuições próprias do cargo efetivo, serão atribuídos 4.620 (quatro mil, seiscentos e vinte) pontos com valor de 0,032% (trinta e dois milésimos por cento).\n§ 1º. As quotas fixadas neste artigo serão apuradas e pagas no mês subseqüente ao do trabalho fiscal realizado, segundo critério de atribuição de pontos estabelecido em regulamento.\n§ 2º. Durante os afastamentos e licenças referidas no parágrafo único do art. 14, a Gratificação de Produtividade Fiscal será calculada pela média de pontos remunerados nos 3 (três) meses anteriores à ocorrência do fato, mantida a proporção relativa ao limite máximo de pontos em vigor.\n§ 3º. Observadas as faixas de pontuação previstas nas alíneas \"a\" a \"d\" do inciso I do \"caput\" deste artigo, não serão remunerados os pontos excedentes aos estabelecidos como base para aplicação do percentual nas respectivas faixas, até que atingido o da faixa subseqüente, tendo por limite máximo 4.620 (quatro mil, seiscentos e vinte) pontos previstos na faixa da alínea \"d\".\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. A Gratificação de Produtividade Fiscal integrará os proventos da inatividade, nos casos de aposentadoria e disponibilidade, bem como a pensão, após 5 (cinco) anos de recebimento, pela média aritmética da pontuação obtida nos 60 (sessenta) meses anteriores à aposentadoria, disponibilidade ou instituição da pensão, aplicada, para esta finalidade, sobre o padrão QPF-6-A, da Tabela da Jornada Básica de 40 (quarenta) horas de trabalho semanais - J-40.\n§ 1º. Na hipótese de falecimento, disponibilidade ou aposentadoria por invalidez ou compulsória, sem que o Agente de Apoio Fiscal tenha completado os 60 (sessenta) meses a que se refere o \"caput\" deste artigo, a gratificação integrará os proventos de aposentadoria, disponibilidade ou a pensão, pela média aritmética simples da pontuação obtida até o mês imediatamente anterior à aposentadoria, disponibilidade ou instituição da pensão.\n§ 2º. O Agente de Apoio Fiscal que, até 10 de agosto de 2005, tenha implementado as condições para incorporação na aposentadoria do cargo de Encarregado de Setor Técnico, Ref. DAS-9, privativo da respectiva carreira, ou que tenha a gratificação de função relativa a esse cargo tornada permanente até aquela data, terá assegurada a Gratificação da Produtividade Fiscal na pontuação prevista no inciso II do art. 15 desta lei.\n§ 3º. O Agente de Apoio Fiscal que na aposentadoria fizer jus a proventos no cargo de Encarregado de Setor, Ref. AAF-2, incorporados nos termos do art. 3º da Lei nº 8.097, de 12 de agosto de 1974, com a redação dada pelas Leis nº 9.170, de 4 de dezembro de 1980, e nº 9.497, de 29 de junho de 1982, ou que tenha a gratificação de função tornada permanente, nos termos do § 1º do art. 10 da Lei nº 10.430, de 29 de fevereiro de 1988, terá assegurada a incorporação da Gratificação de Produtividade Fiscal relativa ao cargo em comissão exercido.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Ficam criados, com a mesma denominação, referência de vencimento e em igual número, integrados na Tabela e Parte do Quadro Geral do Pessoal em que se encontravam, os cargos que foram transformados, por força desta lei, em cargos de Agente de Apoio Fiscal.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - As despesas decorrentes da execução da presente lei correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0019": {
+       "label": "Art.19º",
+       "kind": "article",
+       "text": "Art.19º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 8 de junho de 1982, 429º da fundação de São Paulo.\nANTONIO SALIM CURIATI, PREFEITO\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.480, de 08/06/1982 was altered by acts of 2 date(s), the latest 2008-04-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09481",
+   "short": "Lei 9481/1982",
+   "title": "Lei nº 9.481, de 11/06/1982 (Autoriza o executivo municipal a alterar a denominacao da rua jose cocciuffo, localizada no 18 subdistrito - Ipiranga.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9481-de-11-de-junho-de-1982",
+   "first_law": "lei-1982-09481",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-06-12",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9481-de-11-de-junho-de-1982",
+     "sha256": "e6f771eaf3b0de342f3b9b887b62bedb3fa1d2ae68a0e8aafc17508e706f112f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9481, DE 11 DE JUNHO DE 1982.\n(Projeto de Lei nº 150/1981)\nAutoriza o executivo municipal a alterar a denominacao da rua jose cocciuffo, localizada no 18 subdistrito - Ipiranga.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 19 de maio de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo Municipal autorizado a alterar a denominação da Rua José Cocciuffo, localizado no 18º subdistrito - Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 11 de junho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 11 de junho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09496",
+   "short": "Lei 9496/1982",
+   "title": "Lei nº 9.496, de 24/06/1982 (Dispoe sobre limitaçao de gabarito em areas sob influencia do Sistema de Telecomunicaçoes Penha-Tucuruvi.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9496-de-24-de-junho-de-1982",
+   "first_law": "lei-1982-09496",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-06-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9496-de-24-de-junho-de-1982",
+     "sha256": "e4844dd03159e68e7c8600f650fc1b85cf18183493a1d173e94e571bed5e539c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.496, DE 24 DE JUNHO DE 1982.\nDispoe sobre limitaçao de gabarito em areas sob influencia do Sistema de Telecomunicaçoes Penha-Tucuruvi.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 1 de junho de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O gabarito máximo para as reformas de edificações e para novas construções localizadas nas áreas A, B e C, constantes da planta nº 221-11-0667, anexa a esta lei, deverão atender aos seguintes limites:\nI - Área A - Gabarito máximo de altura = 15 metros;\nII - Área B - Gabarito máximo de altura = 30 metros;\nIII - Área C - Gabarito máximo de altura = 70 metros.\nParágrafo Único - Na limitação de gabarito prevista no \"caput\" deste artigo deverão ser incluídas as partes sobrelevadas, a que se refere o inciso II do § 2º do artigo 5º da Lei nº 8266, de 20 de junho de 1975.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Rubricada pelo Presidente da Câmara e pelo Prefeito, faz parte integrante desta lei a planta nº 221-11-0667, do arquivo da Coordenadoria Geral de Planejamento - COGEP.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 24 de junho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário da Habitação e Desenvolvimento Urbano, Octávio Augusto Speranzini\nO Secretário-Coordenador do Planejamento, Lauro Rios Rodrigues\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 24 de junho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09497",
+   "short": "Lei 9497/1982",
+   "title": "Lei nº 9.497, de 29/06/1982",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9497-de-29-de-junho-de-1982",
+   "first_law": "lei-1982-09497",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-06-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9497-de-29-de-junho-de-1982",
+     "sha256": "18ee3959e5d2a35f55fe8f5c7f527c3a71a27b3aa3d1801cce23dd3fa3d20178",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.497, DE 29 DE JUNHO DE 1982.\nAltera dispositivos legais que especifica, relativos a forma de provimento, denominaçao, inclusao de cargos em carreiras, incorporaçao de vantagens na aposentadoria, e da outras providencias.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal em sessão de 17 de junho de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cargos de Engenheiro Diretor de Divisão Técnica e os cargos de Diretor de Divisão Técnica, lotados em EDIF. 2, EDIF. 3, DEPAVE 1 e na Secretaria da Habitação e Desenvolvimento Urbano - SEHAB, Referência DA-12, constantes do Anexo II, a que se refere o artigo 4º da Lei nº 9170, de 4 de dezembro de 1980, passam todos a denominar-se Diretor de Divisão Técnica, de livre provimento em comissão, dentre titulares de cargos de Engenheiro IV ou III, ou Arquivo IV ou III.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os cargos de Engenheiro Chefe, lotados em EDIF. 2, EDIF. 3, DEPAVE 1 e na Secretaria da Habitação e Desenvolvimento Urbano - SEHAB, constantes do Anexo II, a que se refere o artigo 4º da Lei nº 9170, de 4 de dezembro de 1980, passam a denominar-se Chefe de Seção Técnica, Referência DA-10, de livre provimento em comissão, dentre titulares de cargos de Engenheiro III ou II, ou Arquiteto III ou II.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam retificadas para Engenheiro Chefe de Unidade, Referência DA-10, as referências dos 2 cargos de Engenheiro Chefe de Unidade, Referência DA-12, da Secretaria de Vias Públicas, criados pelo artigo 15 da Lei nº 9418, de 6 de janeiro de 1982, constantes do Anexo IV da referida lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam excluídos do Anexo III da Lei nº 9418, de 6 de janeiro de 1982, coluna Situação Atual, os 2 cargos de Assistente Técnico de Direção II, PP-I, integrados respectivamente, na carreira de Nutricionista e de Farmacêutico Bioquímico, os quais retornam à situação anterior, e excluídos, da Situação Proposta, 1 cargo de Nutricionista IV, e 1 cargo de Farmacêutico Bioquímico IV.\nParágrafo Único - Em decorrência das exclusões de que trata este artigo, fica suprimido 1 cargo de classe de Nutricionista e 1 de Farmacêutico Bioquímico, respectivamente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam excluídos do Anexo III, a que se refere o artigo 4º da Lei nº 9405, de 24 de dezembro de 1981, na parte relativa à carreira de Técnico de Contabilidade, Referência 19, 39 cargos de Técnico de Contabilidade Encarregado, PP-II, Referência 19, na Situação Atual, e igual número de cargos correspondentes de Técnico de Contabilidade III, Referência 21, na Situação Nova, ficando, consequentemente, alterados os totais para 228 e 378, respectivamente.\nParágrafo Único - Em decorrência do disposto neste artigo, ficam igualmente excluídos, no Anexo II da mesma Lei nº 9405/81, 39 cargos de Técnico de Contabilidade Encarregado, Referência DA-5, PP-I, os quais ficam mantidos na Referência DA-4, PP-I, de livre provimento em comissão entre servidores municipais portadores de diploma de Técnico de Contabilidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Ficam incluídos na Tabela anexa à Lei nº 9406, de 24 de dezembro de 1981, os seguintes cargos:\n_________________________________________________________\nSITUAÇÃO ATUAL | SITUAÇÃO NOVA\nNº de| |Ref.| Parte| |Ref.| Parte\nCargos| | |Tabela| | |Tabela\n3|Fitotecário | 14|PS |Assistente de| 15|PP-III\nAdministração\n4|Metrologista| 11|PS |Escriturário | 13|PP-III\n______|____________|____|______|_____________|____|______\nParágrafo Único - Em decorrência das inclusões previstas neste artigo, o número de cargos das classes de Assistente de Administração, Referência 15, e de Escriturário, Referência 13, da Carreira Administrativa, fica acrescido de 3 e 4 cargos, respectivamente, na Tabela Anexa à Lei nº 9406, de 24 de dezembro de 1981.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica criado e incluído, sob nº III, na Tabela II anexa à Lei nº 9417, de 5 de janeiro de 1982, 1 cargo de Assessor Técnico, Referência DA-12, de livre provimento em comissão.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Ao artigo 3º da Lei nº 8097, de 12 de agosto de 1974, com a nova redação dada pelo artigo 13 da Lei nº 9170, de 4 de dezembro de 1980, fica acrescido o seguinte parágrafo:\n\"§ 5º - O servidor que, pelo implemento dos prazos, tiver assegurada a incorporação prevista neste artigo, fará jus, no mês que anteceder a sua aposentadoria ou disponibilidade, ao percebimento da vantagem pecuniária respectiva, independentemente de se encontrar, nesse momento no exercício de cargo de direção, chefia, encarregatura, assistência ou assessoramento.\"\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O adicional de que trata a Lei nº 7957, de 20 de novembro de 1973, será incorporado, nas mesmas bases e condições previstas no artigo 4º, §§ 1º a 3º, da Lei nº 9416, de 5 de janeiro de 1982.\nParágrafo Único - O servidor que receber o adicional de que trata este artigo, durante 5 anos ininterruptos ou 10 anos descontínuos, terá assegurado o direito ao seu percebimento, no mês que anteceder sua aposentadoria ou disponibilidade, ainda que não esteja percebendo a gratificação nesse momento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O cargo de Supervisor de Limpeza Pública, Referência DA-11, remanescente do Grupo I, PS, da Lei nº 8183, de 20 de dezembro de 1974, fica transformado, mantida a situação de efetividade do atual titular, em \"Assessor Técnico para Assuntos de Limpeza Urbana\", Referência DA-12, de livre provimento em comissão, dentre portadores de diploma de nível universitário, com reconhecidos conhecimentos na área de limpeza urbana.\n§ 1º - O cargo ora transformado fica lotado no Gabinete da Secretaria de Serviços e Obras e incluído na Tabela nº 2, letra \"e\", sob nº 3, anexa à Lei nº 8491, de 14 de dezembro de 1976.\n§ 2º - VETADO\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 29 de junho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 25 de junho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09522",
+   "short": "Lei 9522/1982",
+   "title": "Lei nº 9.522, de 08/07/1982 (Confere nova redação ao inciso XI do art. 61 da Lei nº 6.989, de 29 de dezembro de 1966.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9522-de-8-de-julho-de-1982",
+   "first_law": "lei-1982-09522",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-07-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9522-de-8-de-julho-de-1982",
+     "sha256": "1e69ac1f0689ca74c8a7f6bfc28b1805212632919996e7da13fac918eeeb6eda",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9522, DE 8 DE JULHO DE 1982.\nConfere nova redação ao inciso XI do art. 61 da Lei nº 6.989, de 29 de dezembro de 1966.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso XI do artigo 61 da Lei nº 6989, de 29 de dezembro de 1966, modificado pela Lei nº 7410, de 30 de dezembro de 1969, passa a vigorar com a seguinte redação:\n\"XI - parques zoológicos, desde que franqueiem durante a semana, excluídos os domingos, e independentemente de prévia solicitação, a entrada gratuita dos alunos das Escolas de Primeiro Grau e de Educação Infantil municipais, quando acompanhados, em turmas, por professores ou especialistas de educação da Prefeitura.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de julho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 8 de julho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09523",
+   "short": "Lei 9523/1982",
+   "title": "Lei nº 9.523, de 15/07/1982 (Dispoe sobre a criaçao do Conselho Municipal de Auxilios e Subvençoes, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9523-de-15-de-julho-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09523"
+   ],
+   "versions": [
+    {
+     "from": "1988-02-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9523-de-15-de-julho-de-1982",
+     "sha256": "83be1c9e5eadc4578b7d119fb40c54def8553e7e4690bf98abc3bca5b4e76c2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.523, DE 15 DE JULHO DE 1982.\nDispoe sobre a criaçao do Conselho Municipal de Auxilios e Subvençoes, e da outras providencias.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 30 de junho de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado, no Gabinete do Prefeito, o Conselho Municipal de Auxílios e Subvenções no Município de São Paulo, com o fim de coordenar e conceder recursos para o desenvolvimento de programas sociais às instituições privadas de caráter assistencial, nos termos do disposto nesta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ao Conselho Municipal de Auxílios e Subvenções compete:\nI - Elaborar o plano de concessão de auxílios e subvenções, com base nos estudos e levantamentos de dados sobre as necessidades assistenciais da população, realizados pelos órgãos técnicos competentes;\nII - Planejar a aplicação dos recursos municipais disponíveis para a concessão de auxílios e subvenções a programas sociais, a serem executados por entidades filantrópicas, de caráter privado, que atuem no campo da assistência social;\nIII - Celebrar convênios ou contratos com entidades especializadas na readaptação social e amparo da população carente;\nIV - Assegurar a articulação e a harmonia das atividades das instituições que hajam recebido auxílios ou subvenções, visando a maior eficiência da ação assistencial do Município de São Paulo, de acordo com a orientação dos órgãos técnicos da Administração;\nV - Processar e julgar os pedidos de inscrição das entidades hospitalares e arquivar os atos constitutivos das que a obtenham, bem como as suas eventuais modificações;\nVI - Organizar o cadastro das instituições inscritas que satisfaçam as condições estabelecidas em Deliberação do Conselho Municipal de Auxílios e Subvenções para a obtenção de auxílio ou subvenção do Município;\nVII - Processar e julgar os pedidos de auxílios e subvenções;\nVIII - Autorizar o pagamento dos auxílios e subvenções concedidos, bem como de despesas decorrentes de convênios;\nIX - Estabelecer normas de fiscalização das atividades das instituições auxiliadas ou subvencionadas pelo Município, a serem observadas pelos órgãos técnicos competentes, a fim de verificar o cumprimento dos respectivos estatutos e das condições em que se desenvolvem os seus serviços assistenciais;\nX - Aplicar às instituições faltosas as penalidades previstas nesta lei;\nXI - Encaminhar à Câmara Municipal, mensalmente, relação das entidades beneficiárias de auxílios e subvenções.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Conselho Municipal de Auxílios e Subvenções compor-se-á de 6 membros, a saber:\nI - Presidente, de livre escolha do Prefeito;\nII - Representante de cada uma das seguintes Secretarias Municipais, de Higiene e Saúde, das Finanças, do Governo Municipal e da Família e Bem-Estar Social;\nIII - Um representante indicado pela Câmara Municipal, dentre servidores integrantes de seu Quadro de Pessoal.\n§ 1º - Os representantes das Secretarias Municipais serão designados pelo Prefeito, dentre nomes constantes de listas tríplices, organizadas pelos respectivos titulares.\n§ 2º - As deliberações do Conselho, presentes, pelo menos, 3 de seus membros, serão tomadas por maioria de votos, cabendo ao Presidente exercer, além do seu, o voto de qualidade.\n§ 3º - Os membros do Conselho terão mandato de 2 anos, permitida a recondução, podendo, ainda, ser dispensados a qualquer tempo.\n§ 4º - O Presidente do Conselho e os conselheiros terão direito a gratificação, por sessão a que comparecem, correspondente a 4% do Padrão DA-15, observado o limite de 8 reuniões remuneradas por mês.\n§ 5º -\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Nos termos desta lei, considera-se entidade beneficiária toda instituição privada de caráter assistencial, de natureza filantrópica, que atue nas áreas da promoção e assistência social e da saúde, e que forneça gratuitamente, pelo menos, 1/3 de seus serviços ao público em geral.\nParágrafo Único. Quando os serviços assistenciais forem prestados por entidades hospitalares, será de, no mínimo 1/5 o limite de gratuidade previsto neste artigo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As atividades que o Município ampara e protege, mediante a concessão de auxílios e subvenções, são aquelas relacionadas com:\nI - Assistência à menores e à família;\nII - Problemas de amparo e readaptação social;\nIII - Assistência médico-social.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O disposto nos artigos anteriores não impedirá o Conselho Municipal de Auxílio e Subvenções de conceder recursos destinados a bolsas de estudo em benefício de instituições filantrópicas e de pessoas comprovadamente carentes de recursos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para fins de obtenção de auxílios ou subvenções, a instituição filantrópica definida no artigo 4º deverá estar inscrita ou cadastrada junto à Secretaria Municipal da Família e Bem-Estar Social, observando, para tanto, os requisitos constantes de Deliberações específicas do Conselho ora criado.\nParágrafo Único. Durante o prazo de 6 meses, a contar da publicação da presente lei, será aceita a inscrição ou cadastramento correspondente no órgão municipal ou estadual relacionado à área de atuação da entidade.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As entidades com inscrição aprovada poderão solicitar ao Conselho Municipal de Auxílios e Subvenções a concessão de recursos, a título de auxílios e subvenções.\n§ 1º - Considera-se auxílio o investimento em construção, reforma e ampliação de prédios ou instalações, bem como a aquisição de equipamentos e materiais.\n§ 2º - Considera-se subvenção a aplicação em despesas de manutenção de programas sociais, bem como as relativas à concessão de bolsas de estudo, inclusive aquelas efetuadas na aquisição de bens de consumo.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As instituições inscritas deverão apresentar os seus pedidos de auxílios e subvenções no prazo e forma determinados por Deliberação do Conselho Municipal de Auxílios e Subvenções.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Da dotação global fixada no orçamento para o Conselho, reservar-se-á uma parcela correspondente a 10% deste valor para atendimento a casos excepcionais, de emergência, de calamidade pública, ou eventos de interesse público, devidamente justificados.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A concessão de auxílios e subvenções se regerá por Normas Administrativas do Conselho ora criado, que regularão a aplicação dos recursos concedidos às entidades beneficiárias.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - A instituição beneficiária se obriga a aplicar os recursos concedidos exclusivamente nos fins a que se destinam, até sua execução integral, consoante os termos da programação financeira constante do documento celebrado.\nParágrafo Único. A destinação dos recursos concedidos somente poderá ser alterada antes de sua aplicação mediante deliberação favorável do Conselho Municipal de Auxílios e Subvenções.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A instituição beneficiária se obriga a manter rigorosamente em dia a sua contabilidade, de forma a expressar a situação econômico-financeira da instituição.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A instituição beneficiária está obriga a se sujeitar, a qualquer tempo, à fiscalização técnica e financeira do Conselho Municipal de Auxílios e Subvenções, ou de outros órgãos técnicos municipais competentes, franqueando-lhes, para exame, os livros e documentos solicitados.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O pagamento de qualquer parcela vencida ou vincenda poderá ser suspenso, caso a instituição beneficiária não cumpra as determinações dos artigos 12, 13 e 14 ou caso venha a ser constatada a ocorrência de qualquer outra irregularidade pelos órgãos fiscalizadores competentes.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Serão sustados os pagamentos das parcelas vencidas e vincendas, ficando a entidade sujeita à restituição dos valores recebidos, monetariamente corrigidos, e independentemente de interpelação extrajudicial ou judicial, nos casos de:\nI - Cessação do atendimento gratuito ou inobservância dos limites estabelecidos para este atendimento;\nII - Inobservância da legislação que regula a concessão de recursos e \"Normas Administrativas\" firmadas com o Conselho Municipal de Auxílios e Subvenções;\nIII - Alienação, sob qualquer forma, de instalações ou equipamentos para cuja aquisição foi o auxílio concedido, sem prévia anuência do Conselho Municipal de Auxílios e Subvenções;\nIV - Extinção da instituição, salvo se, com prévia anuência do Conselho Municipal de Auxílios e Subvenções, seu patrimônio for transferido a entidade assistencial congênere expressamente indicada e registrada no referido Conselho.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A ausência de comunicação ao Conselho Municipal de Auxílios e Subvenções de alteração dos estatutos da entidade, na parte que se refere às suas finalidades, importará na sustação do pagamento das parcelas vincendas e na restituição, com correção monetária, dos valores recebidos, a partir da alteração dos estatutos.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - A apresentação do demonstrativo do recebimento e aplicação dos recursos recebidos, à qual a instituição beneficiária se obriga, deverão obedecer às normas estabelecidas pelo Conselho Municipal de Auxílios e Subvenções e pelo Tribunal de Contas do Município de São Paulo.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - A falta de prestação de contas ou a apuração de qualquer irregularidade das contas acarretará a proibição de a entidade beneficiada receber novos auxílios e subvenções sem prejuízo de demais sanções legais.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - As despesas com a concessão de auxílios, subvenções e bolsas de estudo correrão por conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - As demais despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei nº 8.763, de 16 de agosto de 1978.\nPrefeitura do Município de São Paulo, aos 15 de julho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário de Higiene e Saúde, Sérgio Carlos Nahas\nO Secretário Municipal da Família e Bem-Estar Social, José Ávila da Rocha\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 15 de julho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.523, de 15/07/1982 was altered by acts of 1 date(s), the latest 1988-02-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09526",
+   "short": "Lei 9526/1982",
+   "title": "Lei nº 9.526, de 15/07/1982 (Autoriza o Executivo Municipal a alterar a denominação da rua Figueira dos Pagodes, localizada no distrito de Itaquera.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9526-de-15-de-julho-de-1982",
+   "first_law": "lei-1982-09526",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-07-16",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9526-de-15-de-julho-de-1982",
+     "sha256": "6da520bf52481535bc3063cb72198286c1eb008470ef793f3ac75ce865e7e7ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.526, DE 15 DE JULHO DE 1982.\nAutoriza o Executivo Municipal a alterar a denominação da rua Figueira dos Pagodes, localizada no distrito de Itaquera.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 24 de junho de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo Municipal autorizado a alterar a denominação da Rua Figueira dos Pagodes, situada no Distrito de Itaquera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 15 de julho de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 15 de julho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09532",
+   "short": "Lei 9532/1982",
+   "title": "Lei nº 9.532, de 06/08/1982 (Dispõe sobre a criação de cargos na classe inicial da carreira de Arquiteto, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9532-de-6-de-agosto-de-1982",
+   "first_law": "lei-1982-09532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-08-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9532-de-6-de-agosto-de-1982",
+     "sha256": "69a0759ef30216a03b9e302d34e1ad49216127cc667488503bd3cf0ec22b7e1f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9532, DE 6 DE AGOSTO DE 1982.\nDispõe sobre a criação de cargos na classe inicial da carreira de Arquiteto, e dá outras providências.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 5 de agosto de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados na classe inicial da carreira de Arquiteto, organizada pela Lei nº 9170, de 4 de dezembro de 1980, 103 cargos de Arquiteto I, Referência 22.\nParágrafo Único. Os cargos criados por este artigo serão oportunamente redistribuídos, mediante lei própria, pelas diferentes classes da carreira, de maneira a restabelecer a estrutura da mesma, com base nos percentuais adotados pela referida Lei nº 9170/80.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 6 de agosto de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 6 de agosto de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09540",
+   "short": "Lei 9540/1982",
+   "title": "Lei nº 9.540, de 07/10/1982 (Dispõe sobre insenção de tributos incidentes sobre imóveis construídos, cujo valor venal seja igual ou inferior a CR$ 800.000,00, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9540-de-7-de-outubro-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09540"
+   ],
+   "versions": [
+    {
+     "from": "1986-12-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9540-de-7-de-outubro-de-1982",
+     "sha256": "7e74c45eb17294b9407573dd97c351732b32ca7ab8e56d90a7892ae0533910bf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.540, DE 7 DE OUTUBRO DE 1982.\nDispõe sobre insenção de tributos incidentes sobre imóveis construídos, cujo valor venal seja igual ou inferior a CR$ 800.000,00, e dá outras providências.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 6 de outubro de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os valores devidos a título de Impostos Predial e Territorial Urbano e Taxas de Conservação de Vias e Logradouros Públicos, de Limpeza Pública e de Combate a Sinistros corresponderão à soma das prestações respectivas, em cujo cálculo serão desprezadas as frações de cruzeiro.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1983, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de outubro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 7 de outubro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.540, de 07/10/1982 was altered by acts of 1 date(s), the latest 1986-12-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09542",
+   "short": "Lei 9542/1982",
+   "title": "Lei nº 9.542, de 21/10/1982 (Dispõe sobre atribuição de gratificação a servidores aposentados como Supervisor de Limpeza Pública e Encarregado de Setor (Limpeza Pública).)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9542-de-21-de-outubro-de-1982",
+   "first_law": "lei-1982-09542",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-10-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9542-de-21-de-outubro-de-1982",
+     "sha256": "b8def88e69f714ce384a3e75a3375a81c1a7fa25451f15e6260ec0ae8fc52fe7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9542, DE 21 DE OUTUBRO DE 1982.\nDispõe sobre atribuição de gratificação a servidores aposentados como Supervisor de Limpeza Pública e Encarregado de Setor (Limpeza Pública).\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 7 de outubro de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A gratificação de que trata o artigo 2º da Lei nº 7583, de 4 de janeiro de 1971, com a redação conferida pelo artigo 1º da Lei nº 7.617, de 31 de maio de 1971, fica estendida, a contar da vigência da presente lei, aos servidores que se encontram aposentados como Supervisor de Limpeza Pública, Referência DA-11, e como Encarregado de Setor (Limpeza Pública), Referência 17.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 21 de outubro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 21 de outubro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstok Sproesser\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09544",
+   "short": "Lei 9544/1982",
+   "title": "Lei nº 9.544, de 26/10/1982 (Dispoe sobre cancelamento de debitos, e da outras providencias.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9544-de-26-de-outubro-de-1982",
+   "first_law": "lei-1982-09544",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-10-27",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9544-de-26-de-outubro-de-1982",
+     "sha256": "6d70efa2e531e735d9a4e60b4add1e3c0c1c9c8c63501b17597528f78d96d80b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9544, DE 26 DE OUTUBRO DE 1982.\nDispoe sobre cancelamento de debitos, e da outras providencias.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 5 de outubro de 1982, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam cancelados os débitos oriundos, exclusivamente, do acréscimo previsto no inciso I do artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, com redação que lhe foi conferida pelo artigo 5º da Lei nº 7.785, de 20 de setembro de 1972, existentes até a data da publicação da presente lei, vedada a restituição de importâncias recolhidas a esse título.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário e, em especial, o artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, com a redação conferida pelo artigo 5º da Lei nº 7.785, de 20 de setembro de 1972.\nPrefeitura do Município de São Paulo, aos 26 de outubro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, respondendo pelo expediente, Italo Zaccaro\nO Secretário das Finanças, Pedro Cipollari\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 26 de outubro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09558",
+   "short": "Lei 9558/1982",
+   "title": "Lei nº 9.558, de 08/12/1982 (Reclassifica cargos de supervisor, da secretaria das administrações regionais, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9558-de-08-de-dezembro-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09558"
+   ],
+   "versions": [
+    {
+     "from": "1986-10-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9558-de-08-de-dezembro-de-1982",
+     "sha256": "fa6e72f27d8513afc8438ba8456fde830a4c7fb0ba90629a507a0334293a7566",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9558, DE 8 DE DEZEMBRO DE 1982.\n(Projeto de Lei nº 210/1982 - EXECUTIVO)\nReclassifica cargos de supervisor, da secretaria das administrações regionais, e dá outras providências.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam reclassificados, da Referência DA-11 para a Referência DA-12, os cargos de Supervisor, da Secretaria das Administrações Regionais, constantes do Anexo Único, integrante desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As exigências para provimento dos cargos referidos no artigo anterior, conforme estabelecido no Anexo Único, serão observadas a partir da vigência desta lei, ressalvada a situação dos atuais titulares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de dezembro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Cláudio Niwcles Sanches Arantes\nPublicada na Secretaria do Governo Municipal, em 8 de dezembro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário da Habitação e Desenvolvimento Urbano, Octávio Augusto Speranzini\nO Secretário-Coordenador do Planejamento, Lauro Rios Rodrigues\nO Secretário dos Negócios Extraordinários, Roberto Pastana Câmara\nPublicada na Secretaria do Governo Municipal, em 22 de junho de 1982.\nO Secretário do Governo Municipal, Orlando Carneiro de Ribeiro Arnaud\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.558, de 08/12/1982 was altered by acts of 2 date(s), the latest 1986-10-20."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09561",
+   "short": "Lei 9561/1982",
+   "title": "Lei nº 9.561, de 08/12/1982 (Dispoe sobre alteraçao da Lei nº 9.405, de 24 de dezembro de 1981, na parte que se refere a carreira de Tecnico de Contabilidade, e da outras providencias)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9561-de-8-de-dezembro-de-1982",
+   "first_law": "lei-1982-09561",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-12-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9561-de-8-de-dezembro-de-1982",
+     "sha256": "7237594121b7e3cc3bf14841ecc1ad6078832b127471241151813e6cce009b16",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9561, DE 8 DE DEZEMBRO DE 1982.\nDispoe sobre alteraçao da Lei nº 9.405, de 24 de dezembro de 1981, na parte que se refere a carreira de Tecnico de Contabilidade, e da outras providencias\nAntonio Salim Curiati, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9 de 31 de dezembro de 1969, sanciona e promulga a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A estrutura da carreira de Técnico de Contabilidade, organizada pela Lei nº 9.405, de 24 de dezembro de 1981, e constante do seu Anexo III, alterado pelo artigo 5º da Lei nº 9.497, de 29 de junho de 1982, fica substituída pela estabelecida no Anexo desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1 de julho de 1982.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Revogam-se as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de dezembro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Cláudio Niwcles Sanches Arantes\nPublicada na Secretaria do Governo Municipal, em 8 de dezembro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09562",
+   "short": "Lei 9562/1982",
+   "title": "Lei nº 9.562, de 08/12/1982",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9562-de-8-de-dezembro-de-1982",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1982-09562"
+   ],
+   "versions": [
+    {
+     "from": "1988-05-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9562-de-8-de-dezembro-de-1982",
+     "sha256": "efb9ced038570ba4a7ee58e7f0a057121516187f648bf3ad62de981a01ebe35b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9.562, DE 8 DE DEZEMBRO DE 1982.\nDispõe sobre a inclusão de representante da Secretaria das Administrações Regionais na Comissão de Edificações e Uso do Solo - CEUSO; sobre gratificação aos integrantes da Comissão Permanente de Orientação às Administrações Regionais sobre a aplicação da legislação urbanística - CPLU, e dá outras providências.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Secretaria das Administrações Regionais - SAR será representada por 1 membro, na Comissão de Edificações e Uso do Solo - CEUSO, ficando essa Comissão acrescida de mais um integrante, alterando-se, de 3 para 4, a quantidade de membros fixada no Anexo à Lei nº 9409, de 24 de dezembro de 1981.\nParágrafo Único. A gratificação prevista na Lei nº 9409/81 será concedida, ao novo membro, a partir de 1 de janeiro de 1983.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Aos servidores que, sem prejuízo de suas atribuições normais, participem da Comissão Permanente de Orientação às Administrações Regionais sobre a Aplicação da Legislação Urbanística - C.P.L.U. será concedida, a partir de 1 de janeiro de 1983, gratificação com base no artigo 100, inciso III, da Lei nº 8989, de 29 de outubro de 1979, nos termos do Anexo integrante da presente lei.\nParágrafo Único. O valor da gratificação de que trata este artigo será calculado com base no Padrão DA-15 da escala de vencimentos do funcionalismo municipal, na porcentagem indicada no Anexo integrante desta lei, por efetivo comparecimento à reunião registrada em ata.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Secretário da C.P.L.U., designado pelo seu Presidente, receberá gratificação mensal no valor correspondente a 2% do Padrão DA-15, a partir de 1 de janeiro de 1983.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 8 de dezembro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário das Administrações Regionais, Francisco Nieto Martin\nO Secretário dos Negócios Extraordinários, Cláudio Niwcles Sanches Arantes\nPublicada na Secretaria do Governo Municipal, em 8 de dezembro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 9.562, de 08/12/1982 was altered by acts of 1 date(s), the latest 1988-05-23."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1982-09565",
+   "short": "Lei 9565/1982",
+   "title": "Lei nº 9.565, de 13/12/1982 (Dispõe sobre a reorganização do Departamento do Tesouro, da Secretaria das Finanças, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9565-de-13-de-dezembro-de-1982",
+   "first_law": "lei-1982-09565",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1982-12-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-9565-de-13-de-dezembro-de-1982",
+     "sha256": "05b2726a3e715b6391df1a63ecb9b9a8a81f11c339863a467a1434f3a1272290",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 9565, DE 13 DE DEZEMBRO DE 1982.\nDispõe sobre a reorganização do Departamento do Tesouro, da Secretaria das Finanças, e dá outras providências.\nAntonio Salim Curiati, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A estrutura do Departamento do Tesouro - TES, da Secretaria das Finanças, passa a ser fixada nesta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Departamento do Tesouro - TES, compõe-se de:\nI - GABINETE DO DIRETOR, constituído de:\na) Assistência Técnica;\nb) Assistência Jurídica;\nc) Assistência Administrativa.\nII - DIVISÃO ADMINISTRATIVA - TES. 1, composta de:\na) Setor de Expediente;\nb) Setor de Almoxarifado;\nc) Seção de Orçamento e Controle de Bens Patrimoniais;\nd) Seção de Protocolo;\ne) Seção de Pessoal.\nIII - DIVISÃO DE CONTROLE DO DISPONÍVEL - TES. 2, composta de:\na) Setor de Expediente;\nb) Seção de Apuração de Saldos, constituída de:\n1 - Setor de Recepção e Preparação;\n2 - Setor de Controle de Qualidade;\nc) Seção de Movimentação e Conciliação, constituída de:\n1 - Setor de Movimentação;\n2 - Setor de Conciliação;\nd) Seção de Valores, constituída de:\n1 - Setor de Cauções e Fianças;\n2 - Setor de Custódia e Cadastro;\n3 - Setor de Emissão de Documentos;\nIV - DIVISÃO DE CONTROLE DE ARRECADAÇÃO - TES. 3, composta de:\na) Setor de Expediente;\nb) Seção Centralizadora de Arrecadação, constituída de:\n1 - Setor de Controle de Bancos e Pontos Arrecadadores;\n2 - Setor de Arrecadação da Dívida Ativa e Negações;\n3 - Setor de Preparação de Documentos para Computação;\n4 - Setor de Controle de Contas de Contribuintes;\nc) Seção de Multas e Tributos Sobre Veículos, constituída de:\n1 - Setor de Pesquisa e Informações;\n2 - Setor de Liberação;\n3 - Setor de Controle de Taxas;\nd) Seção de Controle de Devolução de Tributos, constituída de:\n1 - Setor de Devolução Automática;\n2 - Setor de Devolução por Processo;\nV - DIVISÃO DE TESOURARIA - TES. 4, composta de:\na) Setor de Expediente;\nb) Seção de Recebedoria, constituída de:\n1 - Setor de Análise e Cobrança de Diferenças de Arrecadação;\n2 - Setor de Arrecadação por Correspondência;\n3 - Setor de Chancela de Ingressos;\nc) Seção de Pagadoria, constituída de:\n1 - Setor de Emissão de Cheques;\n2 - Setor de Emissão de Documentos de Pagamento;\n3 - Setor de Restituição de Tributos;\n4 - Setor de Preparação de Documentos Contábeis;\n5 - Setor de Pagamentos Diversos;\nd) Seção de Controle de Pagamento ao Funcionalismo, constituída de:\n1 - Setor de Controle de Folha de Pagamento;\n2 - Setor de Controle de Pagamento de Pensionistas;\nVI - DIVISÃO FINANCEIRA - TES. 5, composta de:\na) Setor de Expediente;\nb) Seção da Dívida Pública;\nc) Seção de Aplicações Financeiras, constituída de:\n1 - Setor de Aplicações;\n2 - Setor de Controle e Registro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os cargos de direção, assistência, chefia e encarregatura do Departamento do Tesouro, e suas funções gratificadas, passam a ser as que constam da coluna SITUAÇÃO NOVA, da Tabela que integra esta lei, considerando o seguinte:\na) extintos os cargos ou funções gratificadas que, figurando na SITUAÇÃO ATUAL, não figurem na SITUAÇÃO NOVA;\nb) criados os cargos que, não figurando na SITUAÇÃO ATUAL, figurem na SITUAÇÃO NOVA;\nc) transformados, com as alterações previstas na SITUAÇÃO NOVA, os cargos ou funções gratificadas que constem, das duas situações;\nd) mantidos, os cargos constantes em ambos as situações sem alteração.\nParágrafo Único - A extinção e transformação dos cargos e funções gratificadas, constantes da coluna SITUAÇÃO ATUAL, dar-se-ão na medida da sua vacância.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O cargo de Assistente Técnico (Contador), PP-I, Referência DA-12, constante do Anexo IV da Lei nº 9418, de 6 de janeiro de 1982, passa a ter lotação junto ao Gabinete da Secretaria das Finanças, com a denominação alterada para Assessor Técnico.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A gratificação, de que trata o Decreto nº 17.432, de 14 de julho de 1981, será incorporada, nas mesmas bases e condições previstas no artigo 4º, §§ 1º a 3º, da Lei nº 9416, de 5 de janeiro de 1982.\nParágrafo Único - O servidor que receber a gratificação de que trata este artigo, durante 5 anos ininterruptos ou 10 descontínuos, terá assegurado o direito ao seu percebimento, no mês que anteceder sua aposentadoria ou disponibilidade, ainda que não esteja percebendo a gratificação no momento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 13 de dezembro de 1982, 429º da fundação de São Paulo.\nO Prefeito, Antonio Salim Curiati\nO Secretário dos Negócios Jurídicos, Manoel Figueiredo Ferraz\nO Secretário das Finanças, Pedro Cipollari\nO Secretário Municipal da Administração, João Lopes Guimarães\nO Secretário dos Negócios Extraordinários, Cláudio Niwcles Sanches Arantes\nPublicada na Secretaria do Governo Municipal, em 13 de dezembro de 1982.\nO Secretário do Governo Municipal, Andyara Klopstock Sproesser\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
