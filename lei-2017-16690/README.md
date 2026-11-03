@@ -1,0 +1,9 @@
+# Lei nº 16.690, de 11/07/2017
+
+Lei 16690/2017 · 1 versions, from 2017-07-21 (latest in force: 2017-07-21) · <https://legislacao.prefeitura.sp.gov.br/leis/lei-16690-de-11-de-julho-de-2017>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
