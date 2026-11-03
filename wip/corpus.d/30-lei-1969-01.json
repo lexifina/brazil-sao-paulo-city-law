@@ -1,0 +1,1264 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1969",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-03",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "14 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1961-05869": {
+   "label": "Lei nº 5.869, de 23/11/1961",
+   "title": "Aprova plano de melhoramentos no 29º subdistrito - Santo Amaro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1961-11-23",
+   "published": "1969-11-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-05869-de-23-de-novembro-de-1961",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07246": {
+   "label": "Lei nº 7.246, de 06/01/1969",
+   "title": "Modifica, parcialmente, plano de urbanização no 27º subdistrito - Tatuapé, a dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-01-06",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7246-de-6-de-janeiro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07265": {
+   "label": "Lei nº 7.265, de 17/01/1969",
+   "title": "Dispõe sobre reclassificação de cargos do Serviço Público Municipal e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-01-17",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7265-de-17-de-janeiro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07313": {
+   "label": "Lei nº 7.313, de 15/05/1969",
+   "title": "Acresce alínea ao item 5.13.0.1, da Consolidação do Código de Obras, constante dos capítulos anexos à Lei nº 4.615, de 13 de janeiro de 1955, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-05-15",
+   "published": "1969-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7313-de-15-de-maio-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07314": {
+   "label": "Lei nº 7.314, de 15/05/1969",
+   "title": "Dá nova redação ao artigo 2º da Lei nº 7.164, de 16 de julho de 1968, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-05-15",
+   "published": "1969-05-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7314-de-15-de-maio-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07321": {
+   "label": "Lei nº 7.321, de 23/06/1969",
+   "title": "Dispõe sobre a criação de cargos de Assistente Técnico de Secretário das Finanças, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-06-23",
+   "published": "1969-06-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7321-de-23-de-junho-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07323": {
+   "label": "Lei nº 7.323, de 23/06/1969",
+   "title": "Dispõe sobre a criação da Secretaria Municipal de Esportes, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-06-23",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7323-de-23-de-junho-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07329": {
+   "label": "Lei nº 7.329, de 11/07/1969",
+   "title": "Estabelece normas para execução de serviço de transporte individual de passageiros em veículos de aluguel taxímetro, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-07-11",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7329-de-11-de-julho-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07350": {
+   "label": "Lei nº 7.350, de 09/09/1969",
+   "title": "Aprova plano de ligação das Avenidas Sumaré e Brasil, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-09-09",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7350-de-9-de-setembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07352": {
+   "label": "Lei nº 7.352, de 09/09/1969",
+   "title": "Aprova plano de urbanização do Vale do Tatuapé e adjacências, nos 27º e 36º subdistritos - Tatuapé e Vila Maria, respectivamente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-09-09",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7352-de-9-de-setembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07378": {
+   "label": "Lei nº 7.378, de 07/11/1969",
+   "title": "Dispõe sobre criação de cargos de Almoxarife, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-11-07",
+   "published": "1969-11-08",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7378-de-7-de-novembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07388": {
+   "label": "Lei nº 7.388, de 19/11/1969",
+   "title": "Dispõe sobre a criação de cargos de Assistente Técnico do Secretário de Educação e Cultura, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-11-19",
+   "published": "1969-11-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7388-de-19-de-novembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07396": {
+   "label": "Lei nº 7.396, de 19/11/1969",
+   "title": "Dispõe sobre a reorganização da Assessoria Técnico-Legislativa (A.T.L.) do Gabinete do Prefeito, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-11-19",
+   "published": "1969-11-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7396-de-19-de-novembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07410": {
+   "label": "Lei nº 7.410, de 30/12/1969",
+   "title": "Confere nova redação a dispositivos da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-12-30",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7410-de-30-de-dezembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1961-05869",
+   "short": "Lei 5869/1961",
+   "title": "Lei nº 5.869, de 23/11/1961 (Aprova plano de melhoramentos no 29º subdistrito - Santo Amaro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-05869-de-23-de-novembro-de-1961",
+   "first_law": "lei-1961-05869",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-11-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-05869-de-23-de-novembro-de-1961",
+     "sha256": "e772cff21fbb893f953d4329720754cef2e771763d0a82713e6a339cef73ba6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 5869, DE 23 DE NOVEMBRO DE 1961.\nAprova plano de melhoramentos no 29º subdistrito - Santo Amaro, e dá outras providências.\nFrancisco Prestes Maia, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 25 de outubro de 1961, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas ns. C-1.547, C-1.548, C-1.549, C-1.550, C-2.159, C-2.369 e C-2.370, da Subprefeitura de Santo Amaro, rubricadas pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei, ficam aprovados os seguintes melhoramentos no 29º subdistrito - Santo Amaro:\nI - alargamento, para 20,00 metros, da Rua Manoel Preto, entre a Avenida De Pinedo e Estrada do Rio Bonito;\nII - alargamento para 20,00 metros, da Estrada do Rio Bonito, entre a Rua Manoel Preto e a Avenida Interlagos;\nIII - abertura de três praças, a saber: a primeira no cruzamento da Rua Manoel Preto com a Avenida Marginal; a segunda na confluência das Ruas Manoel Preto e dos Italianos com a Avenida Marginal; a terceira no cruzamento da Rua Manoel Preto com a travessa João de Barros;\nIV - abertura de uma praça na confluência da Estrada do Rio Bonito com a Avenida Interlagos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam sujeitas ao recuo obrigatório de 6,00 metros, observados os alinhamentos ora aprovados, as construções que se fizerem nos lotes lindeiros à Rua Manoel Preto, à Estrada do Rio Bonito, nos trechos a que se referem os itens I e II do artigo anterior, e às praças projetadas para os cruzamentos da Rua Manoel Preto com a Avenida Marginal e da Estrada do Rio Bonito com a Avenida Interlagos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Serão declarados de utilidade pública para o efeito de desapropriação, os imóveis atingidos pelo plano ora aprovado, ficando a Prefeitura autorizada a efetivar as desapropriações dentro do prazo de cinco anos, contados da data desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução da presente lei correrão por conta das verbas próprias consignadas no orçamento de cada exercício.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 23 de novembro de 1961, 408º da fundação de São Paulo.\nO Prefeito, Francisco Prestes Maia\nO Secretário de Negócios Internos e Jurídicos, Luiz Domingues de Castro\nO Secretário das Finanças Joaquim Monteiro de Carvalho\nO Diretor do Departamento de Obras Públicas, respondendo pelo expediente da Secretaria da Obras, José de Mello Malheiro\nPublicada na Diretoria do Departamento do Expediente e do Pessoal, da Secretaria de Negócios Internos e Jurídicos, em 23 de novembro de 1961.\nO Diretor, Hedair Labre França\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07246",
+   "short": "Lei 7246/1969",
+   "title": "Lei nº 7.246, de 06/01/1969 (Modifica, parcialmente, plano de urbanização no 27º subdistrito - Tatuapé, a dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7246-de-6-de-janeiro-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07246"
+   ],
+   "versions": [
+    {
+     "from": "1981-10-15",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7246-de-6-de-janeiro-de-1969",
+     "sha256": "e67de4d9f64fe5d0ded85858b0fb1ceea3c10d18f1b37f3d7351524ac9de1804",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.246, DE 6 DE JANEIRO DE 1969.\nModifica, parcialmente, plano de urbanização no 27º subdistrito - Tatuapé, a dá outras providências.\nJosé Vicente de Faria Lima, Prefeito do Município de São Paulo, de acordo com o disposto no artigo 20 da Lei Estadual nº 9.842, de 19 de setembro de 1967, promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 23.772 P-941, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, ficam introduzidas as seguintes alterações no plano de urbanização junto à Ponte da Penha, aprovado pela Lei nº 6.320, de 7 de junho de 1963, no 27º subdistrito - Tatuapé:\nI -\nII - formação de praça, entre o alinhamento da avenida marginal esquerda do Rio Tietê, de que trata o item anterior, e o fixado pela Lei nº 3.065, de 15 de julho de 1927;\nIII - fixação de novos alinhamentos da praça situada na cabeceira sul da Ponte da Penha, junto à avenida aprovada pela Lei nº 4.176, de 5 de janeiro de 1952.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os alinhamentos estabelecidos pelas Leis nºs 3.065, de 15 de julho de 1927 e 6.320, de 7 de junho de 1963, nos trechos indicados na planta referida no artigo anterior.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam mantidas as disposições constantes dos artigos 1º e 2º da Lei nº 5.140, de 5 de abril de 1957, para o trecho da avenida marginal esquerda do Rio Tietê, de que trata item I do artigo 1º desta lei, e o recuo mínimo estabelecido na letra \"a\" do artigo 2º da Lei nº 6.320, de 7 de junho de 1963, para as construções nos lotes lindeiros aos alinhamentos da praça na cabeceira sul da Ponte da Penha, de que trata o item III do artigo 1º desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os imóveis atingidos pelo plano ora aprovado serão declarados de utilidade pública, oportunamente, para efeito de desapropriação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 6 de janeiro de 1969, 415º da fundação de São Paulo.\nO Prefeito, José Vicente de Faria Lima\nO Secretário de Negócios Internos e Jurídicos, Teófilo Ribeiro de Andrade Filho\nO Secretário das Finanças, Francisco de Paula Quintanilha Ribeiro\nO Secretário de Obras, José Meiches.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 6 de janeiro de 1969.\nO Diretor, Paulo Villaça.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.246, de 06/01/1969 was altered by acts of 1 date(s), the latest 1981-10-15."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07265",
+   "short": "Lei 7265/1969",
+   "title": "Lei nº 7.265, de 17/01/1969 (Dispõe sobre reclassificação de cargos do Serviço Público Municipal e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7265-de-17-de-janeiro-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07265"
+   ],
+   "versions": [
+    {
+     "from": "1987-04-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7265-de-17-de-janeiro-de-1969",
+     "sha256": "25e4d56cc1156a99e5bf56cb1b98a1270a0589b8bdfac6b6ec172a4fb1f7b27d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7265, DE 17 DE JANEIRO DE 1969.\nDispõe sobre reclassificação de cargos do Serviço Público Municipal e dá outras providências.\nJosé Vicente de Faria Lima, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de janeiro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As tabelas do Quadro Geral do funcionalismo municipal passam a ser as que, anexas, integram a presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O teto aplicável aos Entregadores de Avisos é fixado, a partir de 15 de janeiro de 1969, em NCr$ 432,00 (quatrocentos e trinta e dois cruzeiros novos) mensais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O disposto nesta lei aplica-se aos inativos, no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1969.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 17 de janeiro de 1969, 415º da fundação de São Paulo.\nO Prefeito, José Vicente de Faria Lima\nJair Carvalho Monteiro, respondendo pelo expediente da Secretaria de Negócios Internos e Jurídicos\nO Secretário das Finanças, Francisco de Paula Quintanilha Ribeiro\nO Secretário de Obras, José Meiches\nO Secretário de Educação e Cultura, Araripe Serpa\nCarlos Augusto Autran Pederneiras de Lima, respondendo pelo expediente da Secretaria de Higiene e Saúde\nO Secretário de Abastecimento, João Pacheco Chaves\nO Secretário de Serviços Municipais, Gesner Cunha\nEduardo de Campos Rosmaninho, respondendo pelo expediente da Secretaria de Bem Estar Social\nO Secretário de Turismo e Fomento, Tibiriçá Botelho Filho\nO Secretário Municipal de Transportes, George Soares de Moraes.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 17 de janeiro de 1969.\nO Diretor, Paulo Villaça.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.265, de 17/01/1969 was altered by acts of 25 date(s), the latest 1987-04-09."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07313",
+   "short": "Lei 7313/1969",
+   "title": "Lei nº 7.313, de 15/05/1969",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7313-de-15-de-maio-de-1969",
+   "first_law": "lei-1969-07313",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7313-de-15-de-maio-de-1969",
+     "sha256": "0085c1e9afc7198d340d50ad118b0509a714ecd8a59708612ec196a886ec705c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7313, DE 15 DE MAIO DE 1969.\n(Projeto de Lei Nº 30/1969)\nAcresce alínea ao item 5.13.0.1, da Consolidação do Código de Obras, constante dos capítulos anexos à Lei nº 4.615, de 13 de janeiro de 1955, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 7 de maio de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O item 5.13.0.1, da Consolidação do Código de Obras, constante do capitulo 5 anexo à Lei nº 4.615, de 13 de janeiro de 1955, é acrescida da seguinte alínea:\n\"(2) - Tratando-se de petróleo e seus derivados, o armazenamento deverá ser feito de conformidade com as normas em vigor do Conselho Nacional do Petróleo\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O armazenamento dos demais inflamáveis líquidos continuará a ser regido pelas disposições próprias que constam da Consolidação do Código de Obras.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 15 de maio de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 15 de maio de 1969.\nO Diretor do Departamento Consultivo, respondendo pelo Departamento de Administração, Paulo de Souza Sandoval.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07314",
+   "short": "Lei 7314/1969",
+   "title": "Lei nº 7.314, de 15/05/1969 (Dá nova redação ao artigo 2º da Lei nº 7.164, de 16 de julho de 1968, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7314-de-15-de-maio-de-1969",
+   "first_law": "lei-1969-07314",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-05-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7314-de-15-de-maio-de-1969",
+     "sha256": "a50f10004d8c4ab3407c83bd92a503e3d658f46db2dfdf6475ace3e8c708b926",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.314, DE 15 DE MAIO DE 1969.\nDá nova redação ao artigo 2º da Lei nº 7.164, de 16 de julho de 1968, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 9 de maio de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 2º da Lei nº 7.164, de 16 de julho de 1968, passa a ter a seguinte redação:\n\"Art. 2º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O órgão competente da Prefeitura apreciará os pedidos protocolados até o dia 15 de julho de 1968, de conformidade com os dispositivos legais então vigentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 15 de maio de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Ernesto Tolle\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Fábio Riodi Yassuda\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Suzanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 15 de maio de 1969.\nO Diretor do Departamento Consultivo, respondendo pelo Departamento de Administração, Paulo de Souza Sandoval.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07321",
+   "short": "Lei 7321/1969",
+   "title": "Lei nº 7.321, de 23/06/1969 (Dispõe sobre a criação de cargos de Assistente Técnico de Secretário das Finanças, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7321-de-23-de-junho-de-1969",
+   "first_law": "lei-1969-07321",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-06-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7321-de-23-de-junho-de-1969",
+     "sha256": "93c199c60ffd4836104d6e9097d7da120a91fc516e2789f873e82b0ca143a80d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7321, DE 23 DE JUNHO DE 1969.\nDispõe sobre a criação de cargos de Assistente Técnico de Secretário das Finanças, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 16 de junho de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e incorporados à Tabela I - Parte Permanente - anexa à Lei nº 7265, de 17 de janeiro de 1969 - Cargos Isolados de Provimento em Comissão - 7 (sete) cargos de Assistente Técnico, Padrão XII - C, do Secretário das Finanças.\nParágrafo Único - Os cargos de que trata este artigo serão providos livremente pelo Prefeito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 23 de junho de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Ernesto Tolle\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Fábio Riodi Yassuda\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Suzanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 23 de junho de 1969.\nO Diretor, Paulo de Souza Sandoval.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07323",
+   "short": "Lei 7323/1969",
+   "title": "Lei nº 7.323, de 23/06/1969 (Dispõe sobre a criação da Secretaria Municipal de Esportes, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7323-de-23-de-junho-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07323"
+   ],
+   "versions": [
+    {
+     "from": "1974-12-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7323-de-23-de-junho-de-1969",
+     "sha256": "4e43e0a4f37765123118ddd0e2458c93a87e00a826f741ebd9dd638f58671e83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7323, DE 23 DE JUNHO DE 1969.\nDispõe sobre a criação da Secretaria Municipal de Esportes, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 18 de junho de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criada a Secretaria Municipal de Esportes, competindo-lhes:\nI - programar e supervisionar as atividades esportivas e esportivo-educacionais do Município em benefício da população e, particularmente, dos alunos dos estabelecimentos municipais de ensino;\nII - incentivar, amparar e impulsionar o esporte amador promovendo práticas esportivas e esportivo-educacionais nas praças de esportes e nos centros educacionais da Prefeitura;\nIII - realizar espetáculos esportivos e organizar, com a cooperação das federações especializadas, competições e torneios;\nIV - administrar as praças de esportes e outros centros educacionais;\nV - estudar as necessidades do Município no campo desportivo e propor medidas visando a ampliação das suas atividades.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Secretaria Municipal de Esportes é constituída dos seguintes órgãos:\na) Gabinete do Secretário;\nb) Departamento de Execução Esportiva.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Gabinete do Secretário compõe-se de:\na) Chefe de Gabinete;\nb) 2 (dois) Oficiais de Gabinete;\nc) 1 (um) Assistente Técnico;\nd) 1 (um) Assistente Jurídico;\ne) 1 (um) Assistente de Relações Públicas e, ainda, dos seguintes órgãos:\nI - Divisão de Estudos e Planejamento, constituída de:\na) Chefia de Divisão;\nb) 1 (um) Auxiliar de Gabinete;\nc) Serviço Administrativo;\nd) Secção Técnica Esportiva e Educacional;\ne) Secção de Planejamento;\nf) Secção de Pesquisa e Análise;\nII - Secção de Contabilidade;\nIII - Secção Administrativa, com:\na) Serviço de Pessoal;\nb) Serviço de Expediente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Divisão de Estudos e Planejamento é o órgão de assessoramento técnico do Secretário, competindo-lhe, especialmente, pesquisas, análises, estudos, programas e projetos globais ou setoriais, relativos á construção de praças de esportes e centros educacionais.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Departamento de Execução Esportiva compõe-se de:\na) Diretor;\nb) 1 (um) Auxiliar de Gabinete;\nc) Secção Administrativa;\nd) Serviço de Contabilidade e, ainda, dos seguintes órgãos:\nI - Divisão de Promoções Esportivas e Educacionais, constituída de:\na) Chefia de Divisão;\nb) 1 (um) Auxiliar de Gabinete;\nc) Serviço Administrativo;\nd) Secção de Controle e Execução;\nII - Divisão Administrativa, constituída de:\na) Chefia de Divisão;\nb) 1 (um) Auxiliar de Gabinete;\nc) Secção de Expediente;\nIII - Unidades esportivas ou esportivo-educacionais, a saber:\n1 - Estádio \"Paulo Machado de Carvalho\";\n2 - Autódromo de Interlagos;\n3 - Estádio de Basebol;\n4 - Centro Educacional da Moóca;\n5 - Centro Educacional do Ibirapuera;\n6 - Centro Educacional de Santo Amaro;\n7 - Centro Educacional de Vila Maria;\n8 - Centro Educacional de Pirituba;\n9 - Centro Educacional de Vila Manchester;\n10 - Centro Educacional de Vila Alpina.\n§ 1º - Outras unidades esportivas ou esportivo-educacionais que venham a ser criadas obedecerão a mesma subordinação fixada neste artigo.\n§ 2º - Cada unidade esportiva ou esportivo-educacional corresponderá a um estádio, praça de esportes ou centro educacional e terá um Diretor, que será o responsável por seu funcionamento, guarda e conservação de materiais, instalações e equipamentos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Compete ao Departamento de Execução Esportiva:\na) supervisionar a administração dos estádios, praças de esportes, centros educacionais e unidades esportivas;\nb) estudar e submeter à decisão do Secretário os pedidos de uso por terceiros, a título precário, das unidades esportivas e esportivo-educacionais, observada a legislação vigente e normas aprovadas;\nc) preservar os próprios do Município utilizados pelas unidades sob sua subordinação, inclusive materiais, instalações e equipamentos;\nd) dar execução às atividades esportivas e esportivo-educacionais, realizadas diretamente pelo Município ou através de terceiros;\ne) elaborar, submetendo-o à decisão do Secretário, o calendário das atividades de que trata a letra anterior, em colaboração com as entidades oficiais;\nf) controlar a realização das práticas desportivas nos próprios municipais.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Departamento Municipal de Esportes, com a organização prevista no artigo 5º desta lei, passa a denominar-se Departamento de Execução Esportiva, alterada, por igual a nomenclatura do respectivo cargo do Diretor.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Ficam extintas a Secção de Contabilidade, Secção Administrativa e Secção Técnica do Departamento Municipal de Esportes.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os cargos de Chefia, integrantes do Quadro Geral do Funcionalismo, a seguir enumerados, ficam assim transformados:\na) Contador - Chefe de Secção, padrão XII-B, da Secção de Contabilidade do Departamento Municipal de Esportes, no de Chefe da Secção de Contabilidade da Secretaria Municipal de Esportes;\nb) Chefe de Secção, padrão X-A, da Secção Administrativa do Departamento Municipal de Esportes, no de Chefe da Secção Administrativa da Secretaria Municipal de Esportes;\ne) Chefe da Secção Técnica, padrão XI-A, do Departamento Municipal de Esportes, no de Chefe da Secção Técnica Esportiva e Educacional, da Divisão de Estudos e Planejamento da Secretaria Municipal de Esportes.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Fica extinto o Conselho Municipal de Esportes.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - O Centro Municipal de Campismo - CEMUCAM-SP, criado pela Lei nº 7239, de 30 de dezembro de 1968, passa a subordinar-se, diretamente, à Secretaria de Turismo e Fomento.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Ficam criados, passando a integrar as correspondentes Tabelas do Quadro Geral do Funcionalismo, os cargos e funções gratificadas especificados nas tabelas anexas à presente lei, nas quais se discriminam as respectivas denominações, lotação, padrão de vencimentos ou remuneração, gratificação e forma de provimento ou designação.\nParágrafo Único. Os cargos constantes das tabelas referidas neste artigo serão preenchidos, preferencialmente, por servidores remanejados de outras Secretarias da Administração.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O Executivo definirá, em decreto, a organização interna e as atribuições dos órgãos que compõem a Secretaria Municipal de Esportes.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Para ocorrer às despesas com a execução desta lei, neste exercício, fica o Executivo autorizado a abrir, na Secretaria das Finanças, créditos adicionais especiais, até o montante de NCr$ 400.000,00 (quatrocentos mil cruzeiros novos), a serem cobertos com recursos provenientes da anulação parcial, de igual importância, da dotação da verba 1110.3111.09 - pessoal civil - item 0211 - Regime Especial de Trabalho e, nos anos subsequentes, pelas verbas orçamentárias próprias.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário e, em especial, a Lei nº 6957, de 7 de outubro de 1966, no que couber.\nPrefeitura do Município de São Paulo, aos 23 de junho de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Ernesto Tolle\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Fábio Riodi Yassuda\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 23 de junho de 1969.\nO Diretor, Paulo de Souza Sandoval.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.323, de 23/06/1969 was altered by acts of 1 date(s), the latest 1974-12-11."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07329",
+   "short": "Lei 7329/1969",
+   "title": "Lei nº 7.329, de 11/07/1969 (Estabelece normas para execução de serviço de transporte individual de passageiros em veículos de aluguel taxímetro, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7329-de-11-de-julho-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07329"
+   ],
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7329-de-11-de-julho-de-1969",
+     "sha256": "247510b5aa76f72d45a31a288d51c119ca68ae09265c191410fbc369960e72e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.329, DE 11 DE JULHO DE 1969.\nEstabelece normas para execução de serviço de transporte individual de passageiros em veículos de aluguel taxímetro, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 27 de junho de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O transporte individual de passageiros, no Município, em veículos de aluguel providos de taxímetro, constitui serviço de interesse público, que somente poderá ser executado mediante prévia e expressa autorização da Prefeitura, a, qual será consubstanciada pela outorga de Termo de Permissão e Alvará de Estacionamento, nas condições estabelecidas por esta lei e demais atos normativos que sejam expedidos pelo Executivo.\nI - De quem pode ser autorizado a explorar o serviço\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A exploração do serviço de transporte de passageiro por melo de táxi, ressalvado o disposto nos artigos 7º, parágrafo 2º, 11 e 20, parágrafo 2º, só poderá ser permitida:\na) a pessoa jurídica, constituída sob a forma de empresa comercial, para a execução daquele serviço;\nb) a pessoa física, motorista profissional autônomo.\n§ 1º - Para efeito deste artigo, especificamente em relação ao item \"b\", poderão fazer uso de mesmo veículo, até 2 (dois) motoristas profissionais autônomos, sendo que o referido veículo deverá ser, obrigatoriamente, de propriedade de um deles ou de ambos.\n§ 2º - Para a exploração do serviço de transporte de passageiros por meio de táxi, praticado por dois motoristas profissionais autônomos fazendo uso de um mesmo veículo, ambos os motoristas deverão portar licença específica expedida pela Secretaria Municipal de Transportes na qual conste o vínculo específico entre os referidos motoristas e um único veículo.\n§ 3º - Os motoristas profissionais autônomos enquadrados nas condições do parágrafo 1º deste artigo só poderão obter a licença específica junto à Secretaria Municipal de Transportes, desde que não tenham qualquer vínculo com outro veículo destinado ao serviço de táxi com o respectivo alvará em vigor.\n§ 4º - Nos termos do parágrafo 1º deste artigo, a comprovação da propriedade do veículo será feita através do CRV - Certificado de Registro de Veículos expedido pela repartição competente.\n§ 5º - Para a obtenção da licença específica de que trata o parágrafo 2º, os motoristas deverão estar previamente inscritos no Cadastro Municipal de Condutores de Táxi.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os táxis em serviço no Município somente poderão ser dirigidos por motoristas devidamente inscritos no Cadastro Municipal de Condutores de Táxis.\nII - Da pessoa jurídica e da permissão\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A pessoa jurídica que se constituir na forma desta lei para a exploração do serviço de transporte de passageiro por meio de táxi, será outorgada Termo de Permissão, do qual constará os seus direitos e obrigações.\nParágrafo Único. A permissão para executar o serviço, exceto no caso previsto neste artigo, estará implicitamente compreendida no Alvará do Estacionamento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A pessoa jurídica que pretender a permissão deverá promover, preliminarmente, sua inscrição no Cadastro Municipal de Empresas de Táxis, satisfazendo as seguintes exigências:\nI - Estar legalmente constituída, sob a forma de empresa comercial, com capital social registrado não inferior ao valor correspondente a quinhentas vezes o salário mínimo vigente no Município á data de sua constituição;\nII - Dispor de sede e escritório no Município;\nIII - Apresentar folha corrida de antecedentes criminais, relativamente a cada um dos sócios e, no caso de sociedade anônima, apenas dos membros da Diretoria e do Conselho Fiscal.\nParágrafo Único. No caso do item III deste artigo será negada inscrição, se constar condenação:\na) por crime doloso;\nb) por crime culposo, se reincidente, num período de 3 (três) anos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Termo de Permissão será outorgado à empresa que, devidamente inscrita nos termos do artigo anterior, comprove:\na) ser proprietária de, pelo menos, 15 (quinze) veículos de aluguel, devendo os que ainda não estejam licenciados como táxi, ter 1 (um) ano de fabricação, no máximo;\nb) dispor do uso de área mínima de 500,00m² (quinhentos metros quadrados), destinada a estacionamento dos veículos com, pelo menos, 150,00m² (cento e cinquenta metros quadrados) de área coberta, e instalação obrigatória para escritório;\nc) estar inscrita no Cadastro Fiscal de Serviços.\nParágrafo Único. Outorgado o Termo de Permissão, a empresa deverá requerer Alvará de Estacionamento para cada veículo da frota, assegurada a expedição daquele Alvará, nos termos da letra \"a\" deste artigo, a veículo que ainda não esteja licenciado como táxi.\nIII - Do motorista profissional autônomo\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O motorista profissional autônomo para obter o Alvará de Estacionamento, deverá estar previamente inscrito no Cadastro Municipal de Condutores de Táxis e comprovar:\na) ser proprietário do veículo;\nb) estar em situação regular perante o Instituto Nacional de Previdência Social.\n§ 1º - Para os efeitos desta lei, entende-se por motorista profissional autônomo o assim considerado na forma e condições especificadas na legislação federal.\n§ 2º - Ocorrendo invalidez ou incapacidade que impossibilite a prestação do serviço, comprovadas pelo Instituto Nacional de Previdência Social, o motorista profissional autônomo poderá indicar outro condutor para dirigir o veículo de sua propriedade, enquanto durar a inatividade.\nIV - Do condutor de táxi e da sua inscrição no cadastro\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Para conduzir veículos de transporte de passageiros a taxímetro, é obrigatória a prévia inscrição no Cadastro Municipal de Condutores de Táxis.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Para promover a inscrição no Cadastro, o interessado deverá satisfazer os seguintes requisitos:\nI - Ser portador de Carteira Nacional de Habilitação, da categoria profissional;\nII - Possuir exame de sanidade, em vigor;\nIII - Apresentar atestado de residência;\nIV - Apresentar folha corrida de antecedentes criminais;\nV - Ter concluído Curso Especial de Treinamento e Orientação, ministrado ou reconhecido pela Prefeitura.\n§ 1º - No caso do item IV deste artigo será negada inscrição, se constar condenação:\na) por crime doloso;\nb) por crime culposo, se reincidente, até 3 (três) vezes, num período de 4 (quatro) anos.\n§ 2º - A exigência prevista no item V deste artigo poderá ser dispensada, a juízo da Prefeitura, para condutor que já tenha, por período não inferior a 1 (um) ano, conduzido veículo de transporte de passageiro a taxímetro, no Município.\n§ 3º - Para os efeitos desta lei, será considerada como residência do interessado a que constar do atestado fornecido para a inscrição no Cadastro Municipal de Condutores de Táxis, sendo obrigatória a comunicação e comprovação de qualquer mudança.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - A inscrição no Cadastro Municipal de Condutores de Táxis será sempre revalidada quando se vencer o prazo de vigência do exame de sanidade e, periodicamente, conforme dispuser o regulamento a ser expedido.\n§ 1º - Não sendo revalidada até 30 (trinta) dias, a contar, em cada caso, da data fixada para vencimento, a inscrição ficará automaticamente cancelada.\n§ 2º - Para a revalidação serão exigidos os requisitos previstos no artigo anterior, exceto o de que trata o item V.\nV - Do Registro de Condutor\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - E obrigatório o registro de condutor para dirigir táxi de empresa; de motorista autônomo declarado inválido ou incapaz pelo Instituto Nacional de Previdência Social, enquanto perdurar a inatividade; de espólio ou viúva de motorista autônomo; de herdeiros de motorista autônomo, até que todos tenham adquirido plena capacidade civil.\nParágrafo Único. O registro somente será procedido se o interessado indicar condutor inscrito no Cadastro Municipal de Condutores de Táxis, e que atenda, ainda, as exigências legais e regulamentares.\nVI - Do Veículo\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Os veículos a serem utilizados no serviço definido nesta lei deverão ser da categoria automóvel ou utilitário, dotados de 2 (duas) ou mais portas, e encontrar-se em bom estado de funcionamento, segurança, higiene e conservação, tudo comprovado em vistoria prévia.\n§ 1º Os veículos utilitários ou similares (peruas), deverão ter suas marcas e modelos estabelecidos pela Secretaria Municipal de Transportes.\n§ 2º Aos veículos utilitários ou similares (peruas), licenciados como táxi ou lotação, fica vedado o transporte de carga.\n§ 3º Aos veículos utilitários ou similares (peruas), do tipo \"kombi\", fica vedado transportar passageiros no banco dianteiro, que se destinará apenas ao motorista.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os veículos pertencentes a empresas poderão ser dotados de sistema de controle pelo rádio, desde que autorizados pelo Conselho Nacional de Telecomunicações (CONTEL).\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Os veículos de propriedade de empresas deverão, ainda, apresentar características especiais de identificação, aprovadas previamente pela Prefeitura, a saber:\na) pintura padronizada, de cor uniforme;\nb) siglas ou símbolos;\nc) inscrição do número de orderâ dentro da frota.\n§ 1º -\n§ 2º - Para os veículos cujos Alvarás de Estacionamento tenham sido expedidos anteriormente à data de vigência desta lei o disposto na letra \"a\" do \"caput\" deste artigo e no parágrafo anterior serão exigíveis somente a partir de 1º de janeiro de 1973.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - Além de outras condições a serem estatuídas em regulamento, os veículos deverão ser dotados de:\na) taxímetro ou aparelho registrador, devidamente lacrado pela autoridade competente;\nb) caixa luminosa, com a palavra \"Táxi\";\nc) dispositivo luminoso que indique a situação de \"livre\" ou \"em atendimento\";\nd) cartão de identificação do proprietário e do condutor;\ne) tabela de tarifas em vigor.\nf) Tabela contendo a fórmula da operação aritmética de conversão da quantidade de Unidades Taximétricas em moeda corrente.\nVII - Do Alvará de Estacionamento\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - O Alvará de Estacionamento é o documento pelo qual é autorizada a utilização do veículo para a prestação dos serviços definidos nesta lei, bem como seu estacionamento em via pública nos pontos previamente estabelecidos.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O alvará requerido em caráter inicial somente poderá ser expedido para veículo que tenha, no máximo, 5 (cinco) anos de fabricação e após ter o requerente comprovado o preenchimento das exigências contidas nos artigos 6º, 12º a 15º, quando se tratar de empresa, e nos artigos 7º, 9º, 12º a 15º, quando motorista autônomo, bem como das condições que forem estabelecidas em regulamento.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Ao motorista profissional autônomo somente poderá ser concedido um Alvará, e relativo a veiculo de sua propriedade, nos termos da legislação federal.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Fica permitida a transferência de alvará de estacionamento de pessoas jurídicas ou físicas para quem, satisfazendo as exigências legais e regulamentares, possa executar o serviço de transporte individual do passageiros por meio de táxi.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Por força do disposto no artigo anterior, fica expressamente permitida a transferência de alvará:\na) ocorrendo sucessão, fusão ou incorporação de empresa por outra permissionária do serviço;\nb) ocorrendo a morte do motorista autônomo, à viúva ou a seus herdeiros, enquanto pelo menos um deles for incapaz;\nc) ao espólio, à viúva ou a herdeiro de motorista autônomo.\n§ 1º - Aquele que adquirir a propriedade do veículo deverá preencher as exigências desta lei, salvo nos casos previstos na letra \"e\" deste artigo.\n§ 2º - Ao espólio, à viúva e aos herdeiros de motorista autônomo é assegurado o direito de registrar condutor para dirigir o veículo.\n§ 3º - Nas hipóteses previstas nas letras \"c\", \"d\" e \"e\", o Alvará somente poderá ser transferido para empresa permissionária ou motorista profissional inscrito no Cadastro Municipal de Condutores de Táxis.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - Atendidas as formalidades legais e regulamentares, a transferência do Alvará será procedida mediante o cancelamento do anterior e expedição de outro em nome do adquirente do veículo, e pelo prazo restante do primitivo.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - A renovação do Alvará deverá ser solicitada anualmente, em época determinada, de acordo com escalonamento e prazo estabelecidos em decreto, e só será concedida mediante o pagamento da respectiva taxa e demais tributos eventualmente devidos.\nParágrafo Único - O pedido de renovação deverá ser instruído com os documentos que forem exigidos em regulamento.\n§ 2º -\n§ 3º -\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - Os alvarás vencidos a partir de 1º de janeiro de 1976, cuja renovação não for efetivada na época prevista, poderão ser renovados, observado o limite máximo de 3 (três) anos contados do vencimento, desde que os interessados o requeiram e paguem, por ano ou fração decorrida, além das taxas e demais tributos devidos, acrescidos dos juros de mora e correção monetária, multa correspondente a 1 (uma) Unidade de Valor Fiscal do Município de São Paulo.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - A liquidação da empresa ou cessação definitiva de suas atividades importará na caducidade do Termo de Permissão, sendo permitida a transferência de todos os seus alvarás, desde que acompanhando os respectivos veículos da frota, respeitadas as formalidades legais e regulamentares.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - O permissionário poderá pleitear a substituição do veículo indicado no Alvará, por outro de fabricação mais recente, de igual ou maior número de portas, observadas as demais exigências estabelecidas em regulamento.\n§ 1º - Excepcionalmente, nos casos de roubo, furto ou perda total, devidamente comprovados por documentação expedida pelos órgãos públicos competentes, o permissionário poderá pleitear substituição do veículo indicado no Alvará por outro fabricado até 5 (cinco) anos antes da ocorrência do fato.\n§ 2º - Deferida a substituição, será cancelado o Alvará anterior e expedido outro relativo ao novo veículo, pelo prazo restante de validade do primitivo, paga, quando devida, a taxa prevista nesta lei.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Não será expedido Alvará a permissionário em débito com tributos relativos à atividade ou multas municipais que digam respeito ao veículo ou ao serviço permitido, até que se comprove o pagamento.\nVIII - Dos pontos de estacionamento\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - Os pontos de estacionamento serão fixados pela Prefeitura tendo em vista o interesse público, com especificação da categoria, localização e número de ordem, bem como dos tipos e quantidade máxima de veículos que neles poderão estacionar.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - Os pontos de estacionamento serão de duas categorias:\na) privativos;\nb) livres.\n§ 1º - O ponto privativo é o destinado, exclusivamente, ao estacionamento dos veículos para ele designados no respectivo Alvará.\n§ 2º - Os pontos livres destinam-se a utilização por qualquer táxi, observada a quantidade de vagas fixadas.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - Qualquer ponto de estacionamento poderá, a todo o tempo e a juízo da Prefeitura, ser extinto, transferido, aumentado ou diminuído na sua extensão; ter modificados sua categoria e número de ordem, bem como reduzido ou ampliado o limite de veículos autorizados a nele estacionar.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - A Prefeitura, poderá autorizar a transferência de veículo de ponto de estacionamento de qualquer categoria para outro privativo, ou determiná-la \"ex-officio\", por motivo de interesse público.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Para o estacionamento em determinados pontos privativos poderão, ouvido o órgão próprio da Prefeitura quanto aos locais de interesse turístico, ser estabelecidas condições especiais, notadamente quanto ao tipo, capacidade, ano de fabricação ou outras características relativas aos veículos.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - Os permissionários de cada ponto de estacionamento privativo deverão escolher um coordenador e seu auxiliar, sem qualquer ônus para o Município.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - A utilização, fiscalização, sinalização e quaisquer outros assuntos relativos aos pontos de estacionamento, inclusive as atribuições dos coordenadores e seus auxiliares, serão especificados em regulamento.\nIX - Do transporte de passageiros por lotação\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34 - Os veículos de aluguel a taxímetro destinados ao transporte individual de passageiros, desde que dotados de no mínimo 3 (três) portas, poderão executar serviços de lotação, com prévia autorização da Secretaria Municipal de Transportes, que designará os pontos iniciais, terminais e itinerário básico, e estabelecerá as marcas e modelos dos veículos, além das demais exigências para a execução do serviço.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 - Os pontos de estacionamento não poderão ser utilizados, de qualquer forma, para o transporte de passageiros por lotação.\nX - Das obrigações dos permissionários e condutores de táxis\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36 - Os permissionários e condutores de táxis deverão respeitar as disposições legais e regulamentares, bem como facilitar, por todos os meios, a atividade da fiscalização municipal.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - As empresas permissionárias serão obrigadas, ainda, a:\na) manter a frota em boas condições de tráfego;\nb) manter atualizados a contabilidade e sistema de controle operacional da frota, exibindo-os, sempre que solicitados, à fiscalização municipal;\nc) fornecer a Prefeitura resultados contábeis, dados estatísticos e quaisquer elementos que forem solicitados para fins de controle e fiscalização;\nd) atender às obrigações trabalhistas, fiscais e previdenciárias;\ne) ser proprietária de, no mínimo, 20 (vinte) táxis dentro do prazo de 2 (dois) anos; 25 (vinte e cinco), dentro de 3 (três) anos; 30 (trinta), dentro de 4 (quatro) anos; 40 (quarenta), dentro de 5 (cinco) anos, prazos esses contados da data de outorga do Termo de Permissão;\nf) manter capital social realizado ou integralizado, suficiente para a execução do serviço;\ng) registrar condutores em número, pelo menos, igual a quantidade de veículos da frota;\nh) entregar à Prefeitura relação de condutores registrados e mantê-la atualizada;\ni) manter em atividade toda a frota no período diurno e, no mínimo, 50% (cinquenta por cento) no período noturno, bem como aos sábados, domingos e feriados;\nj) manter os motoristas uniformizados e exercer sobre eles rigorosa fiscalização quanto ao comportamento e aparência física;\nk) comunicar à Prefeitura quaisquer alterações de localização da sede, escritório e área destinada ao estacionamento dos veículos.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38 - Os motoristas profissionais autônomos serão obrigados, ainda, a:\na) manter o veículo em boas condições de tráfego;\nb) fornecer à Prefeitura dados estatísticos e quaisquer elementos que forem solicitados para fins de controle e fiscalização;\nc) atender às obrigações fiscais e previdenciárias.\nParágrafo Único. Ao motorista profissional autônomo é vedado manter preposto para dirigir o veículo.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39 - É obrigação de todo o condutor de táxi observar os deveres e proibições do Código Nacional de Trânsito e, especialmente:\na) tratar com polidez e urbanidade os passageiros e o público;\nb) trajar-se adequadamente;\nc) não recusar passageiros, salvo nos casos expressamente previstos em lei;\nd) não violar o taxímetro;\ne) não cobrar acima da tabela;\nf) não retardar, propositadamente, a marcha do veículo ou seguir itinerário mais extenso ou desnecessário;\ng) não permitir excesso de lotação;\nh) não efetuar o transporte remunerado, sem que o veículo esteja devidamente licenciado para esse fim;\ni) trazer consigo o Alvará de Estacionamento e o Registro de Condutor, exceto este último documento, se proprietário do veículo.\n"
+      },
+      "art-0039-a": {
+       "label": "Art. 39-A",
+       "kind": "article",
+       "text": "Art. 39-A - Deverá ser disponibilizada aos usuários ferramenta para avaliação do condutor, do veículo e da qualidade geral do serviço prestado.\nXI - Das Taxas\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40 - Os permissionários ficam sujeitos às seguintes taxas:\nI - De Licença para Estacionamento de Veículos, anual, relativa ao veiculo que estacione em:\na) ponto privativo - 20% (vinte por cento) do valor do salário mínimo;\nb) ponto livre - 10% (dez por cento) do valor do salário mínimo.\nII - De Expediente, referente a:\na) Inscrição, ou sua revalidação, no Cadastro Municipal de Condutores de Táxis - 2% (dois por cento) do valor do salário mínimo;\nb) registro para condutor de veiculo de propriedade de terceiros - 10% (dez por cento) do valor do salário mínimo;\nc) alvará de estacionamento ou sua renovação - NCr$5,00 (cinco cruzeiros novos);\nd) termo de permissão para empresa - 50% (cinquenta por cento) do valor do salário mínimo;\ne) substituição do veículo:\n1) 5% (cinco por cento) do valor do salário mínimo;\n2) isento, quando se tratar de veiculo fabricado no ano do pedido;\nf) transferência de alvará de estacionamento, somente nos casos do artigo 20, para:\n1) espólio, viúva ou herdeiros de motorista autônomo - 10% (dez por cento) do valor do salário mínimo;\n2) empresa, motorista profissional autônomo e co-proprietário do veiculo também autônomo - 20% (vinte por cento) do valor do salário mínimo;\ng) transferência dos atuais \"Alvarás de Permissão para Estacionamento\" em vigor - expedidos nos termos da Lei nº 6.479, de 10 de janeiro de 1964 - e somente durante o prazo de vigência dos mesmos, para:\n1) empresa - isento;\n2) motorista profissional autônomo - 20% (vinte por cento) do valor do salário mínimo;\nh) transferência de veículo de ponto de estacionamento de qualquer categoria para ponto privativo:\n1) a requerimento do interessado - 1 (um) salário mínimo;\n2) \"ex-officio\" - isento;\nIII - De Serviços Diversos: vistoria prévia - NCr$ 5,00 (cinco cruzeiros novos).\nXII - Das Penalidades\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41 - A inobservância das obrigações estatuídas nesta lei, bem como nos demais atos expedidos para sua regulamentação, sujeitará o infrator às seguintes penalidades, aplicáveis separada ou cumulativamente, independentemente da ordem em que estão classificadas:\nI - Multa;\nII - Advertência;\nIII - Suspensão ou cassação do Registro de Condutor;\nIV - Suspensão ou cassação da inscrição no Cadastro Municipal de Condutores de Táxis;\nV - Suspensão ou cassação do Alvará de Estacionamento;\nVI - Suspensão ou cassação do Termo de Permissão;\nVII - Remoção do veículo;\nVIII - Retenção do veículo;\nIX - Apreensão do veículo.\nParágrafo Único. As penas de advertência e suspensão implicarão obrigatoriamente em anotação desabonadora, que deverá constar do prontuário do condutor.\n§ 1º As penas de advertência e suspensão implicarão obrigatoriamente em anotação desabonadora, que deverá constar do prontuário do condutor.\n§ 2º Os resultados das avaliações dos usuários previstas no art. 39-A desta lei ensejarão a aplicação das penalidades estabelecidas no \"caput\" deste artigo, nos termos do regulamento.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42 - Aos permissionários e aos condutores de táxis serão aplicadas penalidades classificadas em Grupos A, B, C e D, nos seguintes casos de infração:\nPenalidades do Grupo A:\nI - Não trajar-se adequadamente.\nII - Não tratar com polidez e urbanidade os passageiros e o público.\nIII - Não devolver objetos ou valores esquecidos ou deixados no interior do veículo.\nIV - Não portar no veículo guia atualizado das ruas de São Paulo.\nV - Transitar com veículo em más condições de higiene.\nVI - Não apresentar no veículo, afixado em local determinado pela Secretaria Municipal de Transportes, a identificação do permissionário e do condutor.\nVII - Não apresentar no veículo elementos de identificação ou orientação exigidos pela Secretaria Municipal de Transportes.\nVIII - Deixar de comunicar Secretaria Municipal de Transportes, no prazo de 30 (trinta) dias, qualquer alteração de residência ou endereço postal, ou fornecê-lo erroneamente.\nPenalidades do Grupo B:\nIX - Transitar com veículo em más condições de funcionamento e conservação.\nX - Utilizar veículo no serviço de táxi com equipamentos que não sejam originais de fábrica ou aprovados pela Secretaria Municipal de Transportes.\nXI - Desrespeitar a capacidade legal de lotação do veículo.\nXII - Desobedecer regulamento do ponto de estacionamento aprovado pela Secretaria Municipal de Transportes.\nXIII - Angariar passageiro com veículo estacionado a menos de 100 (cem) metros de ponto de estacionamento oficialmente implantado.\nXIV - Conduzir veículo com a inscrição no Cadastro Municipal de Condutores de Táxi ou Alvará de Estacionamento vencidos.\nXV - Não apresentar no veículo, afixado em local determinado pela Secretaria Municipal de Transportes, a tabela de tarifas e a tabela contendo a fórmula da operação aritmética de conversão da Quantidade de Unidades Taximétricas em moeda corrente.\nXVI - Retardar propositadamente a marcha do veículo, bem como seguir itinerário mais extenso ou desnecessário.\nXVII - Utilizar o táxi no transporte de lotação, sem a devida autorização da Secretaria Municipal de Transportes.\nXVIII - Utilizar o veículo de aluguel para fins não autorizados.\nXIX - Recusar exibir à fiscalização os documentos que forem exigidos ou evadir-se quando abordado pela mesma.\nXX - Transitar sem portar o comprovante de Registro de Condutor ou Carteira de Inscrição no Cadastro Municipal de Condutores de Táxi.\nXXI - Transitar com intimação expedida pela Secretaria Municipal de Transportes, com prazo vencido.\nXXII - Transitar sem portar Alvará de Estacionamento.\nXXIII - Não utilizar caixa luminosa com a palavra \"Táxi\" de acordo com as normas estabelecidas.\nPenalidades do Grupo C:\nXXIV - Permitir que condutor não registrado dirija o veículo.\nXXV - Angariar passageiros com taxímetro previamente ligado.\nXXVI - Utilizar taxímetro defeituoso ou não aferido.\nXXVII - Usar indevidamente as bandeiras ou camuflá-las impedindo a perfeita visualização.\nXXVIII - Abandonar o veículo na via pública, para impossibilitar a ação da fiscalização, em especial próximo a pontos de estacionamento de táxi.\nXXIX - Transitar com veículo em más condições de segurança.\nXXX - Transitar com placa deslacrada.\nXXXI - Danificar propositadamente veículos de terceiros.\nXXXII - Recusar passageiros, salvo nos casos previsto em lei.\nXXXIII - Ostentar qualquer tipo de propaganda não autorizada pela Prefeitura.\nXXXIV - Alterar ou danificar sinalização de trânsito ou bens públicos.\nXXXV - Praticar atos de agitação ou balbúrdia.\nXXXVI - Obrigar os passageiros a descerem antes do local de destino.\nXXXVII - Utilizar-se de meios enganosos para se apropriar de importâncias indevidas do passageiro.\nXXXVIII - Dar fuga a pessoa perseguida pela polícia ou pelo clamor público, sob acusação de prática de crime.\nXXXIX - Arregimentar ou aceitar passageiros angariados próximo a ponto de estacionamento para o qual não esteja autorizado.\nXL - Efetuar corrida em desacordo com a regulamentação da forma de cobrança de tarifa.\nPenalidades do Grupo D:\nXLI - Conduzir táxi sem estar inscrito no Cadastro Municipal de Condutores de Táxis.\nXLII - Violar o taxímetro ou o aparelho registrador.\nXLIII - Utilizar mecanismos que interfiram no taxímetro, possibilitando um aumento no valor real da corrida.\nXLIV - Utilizar tabelas de tarifas não autorizadas ou fraudadas.\nXLV - Cobrar acima da tabela de tarifas ou similar.\nXLVI - Adulterar as placas de identificação do veículo.\nXLVII - Utilizar placas não pertencentes ao veículo.\nXLVIII - Utilizar veículo movido por combustível não autorizado em legislação específica.\nXLIX -\nL - Dirigir em estado de embriagues alcoólica ou sob efeito de substância tóxica de qualquer natureza.\nLI - Angariar passageiro no Município de São Paulo, sob qualquer forma, para transporte em veículo de aluguel (táxi) de outro município.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43 - As penas de natureza pecuniária e as demais previstas no artigo 41 são aplicáveis aos permissionários do serviço definido nesta lei, bem como aos proprietários de veículos que estejam operando o serviço sem a devida autorização da Prefeitura.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44 - A suspensão do Termo de Permissão, do Alvará de Estacionamento ou da inscrição no Cadastro Municipal de Condutores de Táxis, acarretará a apreensão do respectivo documento e a interdição do taxímetro, durante o prazo de duração da pena.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45 - Além das penalidades previstas nesta lei e demais atos expedidos para sua regulamentação, a empresa ficará sujeita às que forem consignadas no Termo de Permissão.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46 - A aplicação das penalidades e multas será procedida pela Secretaria Municipal de Transportes, cabendo ao seu titular, ou a comissão especialmente designada para esse fim, decidir em grau de recurso.\n§ 1º Os recursos deverão ser oferecidos no prazo de 30 (trinta) dias, contados da data de notificação feita diretamente ao infrator, ou através de publicação de breve edital no Diário Oficial do Município.\n§ 2º A Secretaria Municipal de Transportes poderá criar mais de uma comissão, para decidir em grau de recurso, composta, cada uma, por 3 (três) membros, na seguinte conformidade:\na) Um presidente, indicado pelo Secretário Municipal de Transportes;\nb) Um representante do Departamento de Transportes Públicos - DTP, da Secretaria Municipal de Transportes - SMT;\nc) Um representante dos Motoristas, indicado por entidade reconhecida.\n§ 3º Para interpor recurso relativo à aplicação de penalidade pecuniária é obrigatória a caução de importância a ela correspondente.\nXIII - Das Disposições Gerais\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47 - A Prefeitura poderá exercer a mais ampla fiscalização e proceder vistorias ou diligências com vistas ao cumprimento das disposições desta lei, bem como, sempre que houver interesse público, restringir ou ampliar o número de táxis em circulação no Município e, anualmente, a porcentagem estabelecida no parágrafo único do artigo 12.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48 - A fim de cuidar de assuntos relacionados com o serviço definido nesta lei, a empresa manterá representante devidamente credenciando junto à Prefeitura.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49 - Quando possuir oficina de reparos, a empresa permissionária poderá estabelecer plantões permanentes no período noturno, sábados, domingos e feriados, desde que seja para o exclusivo atendimento dos veículos da frota, observadas a legislação do trabalho, de proteção ao bem-estar e sossego públicos e demais normas aplicáveis.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50 - As oficinas de reparos de taxímetros poderão manter plantões no período noturno, sábados, domingos e feriados, observada a legislação trabalhista.\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "Art. 51 - O Curso Especial de Treinamento e Orientação destina-se a propiciar aos condutores perfeito atendimento e observância das normas de trânsito e das obrigações a que se refere a presente lei; conhecimentos sobre prevenção de acidentes, socorros de emergência, princípios de relações humanas, de cortesia e higiene, bem assim sobre localização das principais vias e logradouros públicos, dos hotéis, estações, casas de saúde, templos e outros estabelecimentos de interesse educativo, recreativo e turístico.\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "Art. 52 - Fica o Executivo autorizado a firmar convênios com os Governos da União, Estado e Municípios limítrofes, relativamente aos assuntos tratados nesta lei, sempre que entenda conveniente para o aprimoramento do serviço de transporte de passageiros por táxis e sua fiscalização.\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53 - A Prefeitura poderá, atendidas as conveniências do trânsito, estabelecer pontos obrigatórios de embarque para passageiros de táxi, em áreas previamente delimitadas.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "Art. 54 - O órgão municipal competente manterá registro atualizado dos Alvarás de Estacionamento expedidos, após a vigência desta lei, em nome de:\na) empresas permissionárias;\nb) motoristas profissionais autônomos;\nc) motoristas profissionais autônomos co-proprietários;\nd) sucessores de motorista profissional autônomo.\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55 - O Alvará de Estacionamento ou qualquer outro documento cuja expedição seja requerida, será arquivado ou cancelado sempre que o interessado não o retirar até 30 (trinta) dias, contados da data da publicação do despacho de deferimento.\nParágrafo Único. Decorridos 30 (trinta) dias da data do cancelamento ou do arquivamento, o documento caducará automaticamente.\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "Art. 56 - Não será expedido, renovado ou transferido Alvará de Estacionamento relativo a quem esteja em débito com tributos próprios á atividade ou multas municipais que digam respeito ao veículo ou ao serviço permitido, até que se comprove o pagamento.\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "Art. 57 - As autorizações concedidas anteriormente à data de vigência desta lei para motorista profissional dirigir táxi de propriedade de terceiro, serão válidas até 31 de maio de 1970.\n"
+      },
+      "art-0058": {
+       "label": "Art. 58",
+       "kind": "article",
+       "text": "Art. 58 - Os permissionários deverão substituir seus veículos a partir:\na) de 1 de janeiro de 1972, quando de fabricação anterior a 1960;\nb) de 1 de janeiro de 1973, quando de fabricação anterior a 1963;\nc) de 1 de janeiro de 1974, quando de fabricação anterior a 1967;\nd) Os permissionários de táxi das categorias comum, especial e luxo ficam obrigados a substituir o seu veículo após 10 anos de fabricação, excluído o de fabricação.\nParágrafo Único. Não serão renovados ou transferidos os Alvarás de Estacionamento relativos aos veículos que atingirem os limites fixados neste artigo.\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "Art. 59 - Ficam isentos da Taxa de Licença para Publicidade as inscrições, siglas ou símbolos que, aprovados pela Prefeitura, forem gravados, obrigatoriamente, nos táxis para efeito de característica especial de identificação.\n"
+      },
+      "art-0060": {
+       "label": "Art. 60",
+       "kind": "article",
+       "text": "Art. 60 - O item I do artigo 148 e o artigo 149 da Lei nº 6.989, de 29 de dezembro de 1966, passam a ter a seguinte redação:\n\"I - para veículos terrestres de aluguel ou a frete destinados ao transporte individual de passageiros ou de carga, e que aguardem serviço estacionados nas vias públicas - segundo o disposto na legislação em vigor.\"\n\"Art. 149 - O sujeito passivo da taxa é a pessoa natural ou jurídica proprietária do veículo.\"\n"
+      },
+      "art-0061": {
+       "label": "Art. 61",
+       "kind": "article",
+       "text": "Art. 61 - O valor do salário mínimo que serve de índice para o cálculo das taxas, multas e cauções previstas nesta lei, será o vigente no Município á data da incidência ou aplicação das duas primeiras e do recolhimento da última.\nParágrafo Único. No cálculo a que se refere este artigo, arredondar-se-á, para NCr$ 0,10 (dez centavos), as frações dessa importância.\n"
+      },
+      "art-0062": {
+       "label": "Art. 62",
+       "kind": "article",
+       "text": "Art. 62 - A empresa, o motorista profissional, autônomo e o condutor que tiverem cassados Termo de Permissão, Alvará de Estacionamento e Registro de Condutor, somente poderão pleitear outros decorridos 3 (três) anos.\n"
+      },
+      "art-0063": {
+       "label": "Art. 63",
+       "kind": "article",
+       "text": "Art. 63 - O disposto nos artigos 1º a 4º, 7º, 8º, 11, 16, 18 a 24, 26 a 33, 36, 38 a 46 e nos Capítulos das Disposições Gerais, Transitórias e Finais, aplica-se, no que couber, ás pessoas físicas ou jurídicas que executam ou venham a executar o serviço de transporte de carga e frete, desde que os veículos aguardem serviço estacionados em vias públicas.\nParágrafo Único. As demais condições pertinentes ao exercício dessa atividade serão disciplinadas em regulamento.\nXIV - Das Disposições Transitórias\n"
+      },
+      "art-0064": {
+       "label": "Art. 64",
+       "kind": "article",
+       "text": "Art. 64 - Os atuais proprietários de veículos de aluguel providos de taxímetro, não terão os Alvarás de Estacionamento renovados, se não atenderem, até 31 de maio de 1970, ao estabelecido no artigo 2º desta lei.\n"
+      },
+      "art-0065": {
+       "label": "Art. 65",
+       "kind": "article",
+       "text": "Art. 65 - Os proprietários de táxi que possuem \"Alvarás de Permissão para Estacionamento\" - expedidos de conformidade com a Lei nº 6.479, de 10 de janeiro de 1964 - poderão, dentro do prazo de validade dos mesmos, transferi-los com o veiculo.\nParágrafo Único. O sucessor na propriedade do veiculo deverá satisfazer as exigências desta lei e das demais disposições regulamentares.\n"
+      },
+      "art-0066": {
+       "label": "Art. 66",
+       "kind": "article",
+       "text": "Art. 66 - Até 31 de maio de 1970, somente serão expedidos alvarás iniciais para empresas que possuam Termo de Permissão e, nos termos do artigo 23, para motoristas profissionais autônomos cujos alvarás tenham caducado, atendidas, sempre, as exigências desta lei e demais normas regulamentares.\n"
+      },
+      "art-0067": {
+       "label": "Art. 67",
+       "kind": "article",
+       "text": "Art. 67 - Fica assegurada a renovação dos \"Alvarás de Permissão para Estacionamento\" relativos a veículos pertencentes a 2 (dois) co-proprietários, observadas as seguintes condições:\na) ter sido o Alvará expedido em data anterior à da vigência desta lei;\nb) não ser qualquer dos 2 (dois), proprietário ou co-proprietário de outro táxi, cujo Alvará tenha sido expedido após a vigência desta lei;\nc) serem ambos inscritos no Cadastro Municipal de Condutores de Táxis.\n"
+      },
+      "art-0068": {
+       "label": "Art. 68",
+       "kind": "article",
+       "text": "Art. 68 - No caso de veículo pertencente a vários co-proprietários, será permitida a transferência do Alvará de Estacionamento para, no máximo, 2 (dois) deles, atendida a exigência prescrita na letra \"c\" do artigo anterior, e até 31 de maio de 1970, após o que aquele documento caducará.\nXV - Das Disposições Gerais\n"
+      },
+      "art-0069": {
+       "label": "Art. 69",
+       "kind": "article",
+       "text": "Art. 69 - As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0070": {
+       "label": "Art. 70",
+       "kind": "article",
+       "text": "Art. 70 - Esta lei entrará em vigor 30 (trinta) dias após sua publicação, revogadas a Lei nº 6.479, de 10 de janeiro de 1964, e demais disposições em contrário.\nPrefeitura do Município de São Paulo, aos 11 de julho de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Ernesto Tolle\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Fábio Riodi Yassuda\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 11 de julho de 1969.\nO Diretor, Paulo de Souza Sandoval.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.329, de 11/07/1969 was altered by acts of 13 date(s), the latest 2015-10-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07350",
+   "short": "Lei 7350/1969",
+   "title": "Lei nº 7.350, de 09/09/1969 (Aprova plano de ligação das Avenidas Sumaré e Brasil, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7350-de-9-de-setembro-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07350"
+   ],
+   "versions": [
+    {
+     "from": "1975-11-13",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7350-de-9-de-setembro-de-1969",
+     "sha256": "ce3baa5cec24acca96b837b170f82ec9bab04d49edbd0cb52b037400e76d1f17",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7350, DE 9 DE SETEMBRO DE 1969.\nAprova plano de ligação das Avenidas Sumaré e Brasil, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 29 de agosto de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 24.303-B-112, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de ligação das avenidas Sumaré e Brasil, nos 19º e 20º subdistritos - Perdizes e Jardim América, respectivamente, compreendendo os seguintes melhoramentos:\nI - Alargamento da Avenida Sumaré, no trecho compreendido entre a Rua Atalaia e seu cruzamento com as Ruas Pombal e Tefé, na extensão aproximada de 250,00 metros;\nII - Abertura de via, em prolongamento à Avenida Sumaré, na extensão aproximada de 320,00 metros, a fim de estabelecer interligação daquela artéria com a Rua Galeno de Almeida, cruzando em desnível as ruas Pombal, Petrópolis, Avenida Dr. Arnaldo e Rua Oscar Freire;\nIII - Alargamento da Rua Galeno de Almeida, no trecho compreendido entre as ruas Capote Valente e Lisboa, na extensão aproximada de 310,00 metros;\nIV - Abertura de via, desde a confluência das ruas Galeno de Almeida e Lisboa até o cruzamento das ruas Cardeal Arcoverde e Henrique Schaumann, na extensão aproximada de 200 metros;\nV - Alargamento da Rua Henrique Schaumann, nos trechos compreendidos entre a Rua Cardeal Arcoverde e a Avenida Rebouças, na extensão aproximada de 810,00 metros, e entre as ruas Luiz Morato e Patápio Silva, na extensão de 100,00 metros, mais ou menos;\nVI - Alargamento da Avenida Brasil, no trecho compreendido entre a Avenida Rebouças e a Rua Guadelupe, na extensão aproximada de 380,00 metros;\nVII - Prolongamento da Rua Cardoso de Almeida sob a Avenida Dr. Arnaldo - ligando-a com as ruas Galeno de Almeida e Arruda Alvim;\nVIII - Reserva de área junto à Rua Tefé, para implantação de viaduto sobre a Avenida Sumaré e Rua Pombal;\nIX - Modificação de alinhamentos na confluência da Rua Cardoso de Almeida e Avenida Dr. Arnaldo;\nX - Concordância do alinhamento da Rua Arruda Alvim com o da Rua Galeno de Almeida;\nXI - Alargamento da Rua João Moura, no trecho compreendido entre as ruas Galeno de Almeida e Amália de Noronha, na extensão aproximada de 180,00 metros;\nXII - Retificação de alinhamentos da Avenida Rebouças, no trecho compreendido entre as ruas Henrique Schaumann e Engenheiro Alcides Barbosa, na extensão aproximada de 45,00 metros;\nParágrafo Único. Ficam igualmente aprovadas as demais concordâncias de alinhamentos constantes da planta referida neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As construções, reconstruções ou reformas que se fizerem na via de que trata o item IV do artigo anterior, desde o cruzamento da ruas Cardeal Arcoverde e Henrique Schaumann até 98,00 metros além do mesmo, face nordeste, ficarão sujeitas ao recuo de 4,00 metros em relação ao respectivo alinhamento e não poderão ter qualquer modalidade de acesso ou abertura, sendo-lhes permitida, apenas, servidão de ar e luz.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis atingidos pelo plano ora aprovado são declarados de utilidade pública, para efeito de desapropriação, ficando a Prefeitura autorizada a efetivar as desapropriações dentro do prazo de cinco anos, contados da data desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 9 de setembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 9 de setembro de 1969.\nO Diretor, Paulo de Souza Sandoval.\nO anexo encontra-se disponível, ainda, no Paço Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.350, de 09/09/1969 was altered by acts of 1 date(s), the latest 1975-11-13."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07352",
+   "short": "Lei 7352/1969",
+   "title": "Lei nº 7.352, de 09/09/1969 (Aprova plano de urbanização do Vale do Tatuapé e adjacências, nos 27º e 36º subdistritos - Tatuapé e Vila Maria, respectivamente, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7352-de-9-de-setembro-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07352"
+   ],
+   "versions": [
+    {
+     "from": "1982-06-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7352-de-9-de-setembro-de-1969",
+     "sha256": "4f408df250ef4c71af9859d35b38d516dc1956dd79e3e7c15af7524576d6479a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7352, DE 9 DE SETEMBRO DE 1969.\nAprova plano de urbanização do Vale do Tatuapé e adjacências, nos 27º e 36º subdistritos - Tatuapé e Vila Maria, respectivamente, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 29 de agosto de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com as plantas anexas nºs 23.678 T-1109 e 24.222 T-1109, do arquivo do Departamento de Urbanismo, rubricadas pelo Presidente da Câmara e pelo Prefeito como partes integrantes desta lei, fica aprovado plano de urbanização do Vale do Tatuapé e adjacências, nos 27º e 36º subdistritos - Tatuapé e Vila Maria, respectivamente, compreendendo:\nI - Modificação de alinhamento:\na) do prolongamento da avenida ao longo do Córrego do Tatuapé, a que se refere o item I do artigo 1º da Lei nº 5.493, de 25 de abril de 1958, no trecho compreendido entre a Rua Toledo Barbosa e a praça junto à avenida marginal esquerda do Rio Tietê, restabelecendo-se, parcialmente, o alinhamento fixado pela Lei nº 4.708, de 4 de junho de 1955;\nb) de praça de que trata o item II do artigo 1º da Lei nº 5.493/58;\nc) da avenida de que trata o item I do artigo 1º da Lei nº 6.344, de 1º de julho de 1963;\nd) da avenida marginal direita do Rio Tietê, no trecho compreendido entre as praças de que trata o item II;\ne) da Rua Alcântara, no trecho compreendido entre a Rodovia Presidente Dutra e a praça de que trata a letra \"a\" do item II;\nf) da via lateral à Rodovia Presidente Dutra, no trecho compreendido entre a Rua Palmira e a avenida marginal direita do Rio Tietê;\ng) da Avenida Guilherme Cotching, junto à praça a que se refere a letra \"b\" do item seguinte;\nII - Formação de praça:\na) na cabeceira norte da Ponte Tatuapé, junto à avenida marginal direita do Rio Tietê, comportando ruas laterais, rampas de acesso, trevo de ligação entre citadas marginal e ponte, além de áreas ajardinadas;\nb) na confluência da Rodovia Presidente Dutra com a avenida marginal direita do Rio Tietê e Avenida Guilherme Cotching;\nIII - Abertura de via de ligação:\na) entre a praça descrita na letra \"a\" do item anterior e a Rodovia Presidente Dutra, ficando suprimida a ligação de que trata o item III do artigo 1º da Lei nº 5.493/58;\nb) entre a avenida marginal direita do Rio Tietê e a Rodovia Presidente Dutra.\nParágrafo Único - Ficam igualmente aprovadas as concordâncias de alinhamentos constantes das plantas mencionadas neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam suprimidos, nos trechos indicados nas plantas referidas no artigo anterior, os alinhamentos aprovados pelas Leis nºs 5.493, de 25 de abril de 1958, 4.708, de 4 de junho de 1955, 6.344, de 1º de julho de 1963, e 6.969, de 28 de novembro de 1966.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As construções nos lotes lindeiros aos logradouros de que tratam a letra \"a\" do item II e a letra \"a\" do item m do artigo 1º, bem como ao trecho da avenida marginal direita do Rio Tietê, entre a praça descrita na mesma letra \"a\" do Item II e a Rodovia Presidente Dutra, não terão qualquer modalidade de acesso ou abertura para os referidos logradouros e avenida, conforme indicado na planta nº 24.222 T-1109, integrantes desta lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os imóveis atingidos pelo plano ora aprovado são declarados de utilidade pública, para efeito de desapropriação, ficando a Prefeitura autorizada a efetivar as desapropriações dentro do prazo de cinco anos, contados da data desta lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 9 de setembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretario de Negócios Internos e Jurídicos, José Luiz de Anhaia Mello\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 9 de setembro de 1969.\nO Diretor, Paulo de Souza Sandoval.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.352, de 09/09/1969 was altered by acts of 3 date(s), the latest 1982-06-24."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07378",
+   "short": "Lei 7378/1969",
+   "title": "Lei nº 7.378, de 07/11/1969 (Dispõe sobre criação de cargos de Almoxarife, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7378-de-7-de-novembro-de-1969",
+   "first_law": "lei-1969-07378",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-11-08",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7378-de-7-de-novembro-de-1969",
+     "sha256": "789afe1225b99ea999993adf88787e6df3f768e30f2b7e4d1202c049288480c2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7378, DE 6 DE NOVEMBRO DE 1969.\nDispõe sobre criação de cargos de Almoxarife, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 24 de outubro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e incorporados à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - item XXIX, anexa à Lei nº 7265, de 17 de janeiro de 1969, 2 (dois) cargos de Almoxarife, padrão X-A, lotados, respectivamente, no Departamento de Iluminação e Energia Elétrica e no Departamento de Cemitérios, da Secretaria, de Serviços Municipais.\nParágrafo Único - Os cargos de que trata este artigo serão providos livremente pelo Prefeito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 6 de novembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nFernando Ribeiro do Val, respondendo pelo expediente da Secretaria de Negócios Internos e Jurídicos\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Serviços Municipais, José Washington Boarin.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 6 de novembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07388",
+   "short": "Lei 7388/1969",
+   "title": "Lei nº 7.388, de 19/11/1969 (Dispõe sobre a criação de cargos de Assistente Técnico do Secretário de Educação e Cultura, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7388-de-19-de-novembro-de-1969",
+   "first_law": "lei-1969-07388",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-11-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7388-de-19-de-novembro-de-1969",
+     "sha256": "3cc9be9cbe8c38867b3a194462e0f04b7ca1410dee2ed9a3fa304df527909a66",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.388, DE 19 DE NOVEMBRO DE 1969.\nDispõe sobre a criação de cargos de Assistente Técnico do Secretário de Educação e Cultura, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 7 de novembro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e incorporados à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - anexa à Lei nº 7265, de 17 de janeiro de 1969 - 2 (dois) cargos de Assistente Técnico, padrão XII-C, do Secretário de Educação e Cultura.\nParágrafo Único - Os cargos de que trata este artigo serão providos livremente pelo Prefeito, dentre portadores de diploma de nível universitário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 19 de novembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nFernando Ribeiro do Val, respondendo pelo expediente da Secretaria de Negócios Internos e Jurídicos\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Educação e Cultura, Paulo Zingg.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 19 de novembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07396",
+   "short": "Lei 7396/1969",
+   "title": "Lei nº 7.396, de 19/11/1969 (Dispõe sobre a reorganização da Assessoria Técnico-Legislativa (A.T.L.) do Gabinete do Prefeito, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7396-de-19-de-novembro-de-1969",
+   "first_law": "lei-1969-07396",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1969-11-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7396-de-19-de-novembro-de-1969",
+     "sha256": "211a9542d8d0de38a1805e53612c2cc7b4a16c6a222363586e7a8fd8bbf7be7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7396, DE 19 DE NOVEMBRO DE 1969.\nDispõe sobre a reorganização da Assessoria Técnico-Legislativa (A.T.L.) do Gabinete do Prefeito, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 7 de novembro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Assessoria Técnico-Legislativa do Gabinete do Prefeito (A.T.L.), passa a constituir-se de:\na) 1 (um) Assessor-Chefe;\nb) 1 (um) Auxiliar de Gabinete;\nc) 6 (seis) Assessores;\nd) Setor de Protocolo e Expediente;\ne) Setor de Redação e Remessa Legislativa;\nf) Setor de Controle e Registro de Atos Legislativos;\ng) Setor Administrativo e do Pessoal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º À Assessoria Técnico-Legislativa (A.T.L.) compete:\nI - Proceder à revisão e dar redação final aos projetos de lei de Iniciativa do Executivo e às respectivas mensagens e exposições de motivos;\nII - Elaborar projetos de lei e respectivas exposições de motivos, nos casos em que o Prefeito o determinar;\nIII - Acompanhar, como órgão informativo da Prefeitura, o andamento de todos os projetos de lei na Câmara Municipal;\nIV - Redigir e fundamentar os vetos opostos a projetos de lei, por determinação do Prefeito;\nV - Receber e encaminhar, para estudos, os requerimentos e indicações formulados pela Câmara Municipal, colhendo elementos junto aos órgãos da Prefeitura para as respectivas respostas;\nVI - Atender aos pedidos de informação formulados pela Câmara Municipal, sobre projetos de lei em trâmite no Legislativo;\nVII - Estudar todo e qualquer assunto de interesse da administração municipal, relacionado com as atribuições indicadas nos itens anteriores, desde que haja expressa determinação do Prefeito;\nVIII - Adquirir, coligir, classificar, conservar e arquivar publicações, obras e demais documentos que interessem, de modo geral ou especial, ao desenvolver dos trabalhos da Assessoria.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam extintas as funções gratificadas criadas pela Lei nº 4467, de 11 de maio de 1954, bem assim, na vacância, os cargos de \"Assessor\" criados pelo artigo 14 da Lei nº 6645, de 8 de janeiro de 1965, e constantes do item XV, nº 1, da Tabela I, Parte Permanente, Cargos Isolados de Provimento em Comissão, anexa à Lei nº 7265, de 17 de janeiro de 1969.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criados os cargos e função gratificada relacionados nas tabelas integrantes desta lei, nas quais se discriminam as respectivas denominações, lotação, padrões de vencimento ou remuneração, gratificação e forma de provimento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A remuneração do Assessor-Chefe e dos Assessores compreende, além dos vencimentos correspondentes aos cargos, verba de representação fixada, respectivamente, em NCr$ 500,00 (quinhentos cruzeiros novos) e NCr$ 400,00 (quatrocentos cruzeiros novos), por mês.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas a Lei nº 4467, de 11 de maio de 1954, e demais disposições em contrário.\nPrefeitura do Município de São Paulo, aos 19 de novembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nFernando Ribeiro do Val, respondendo pelo expediente da Secretaria de Negócios Internos e Jurídicos\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva Waldemar Moraes de Barros, respondendo pelo expediente da Secretaria de Abastecimento\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 19 de novembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07410",
+   "short": "Lei 7410/1969",
+   "title": "Lei nº 7.410, de 30/12/1969 (Confere nova redação a dispositivos da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7410-de-30-de-dezembro-de-1969",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1969-07410"
+   ],
+   "versions": [
+    {
+     "from": "1987-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7410-de-30-de-dezembro-de-1969",
+     "sha256": "ec523ec9a81308144e89a7f4d0d685b101f46cb6223b9ea89e431af9b968b58d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.410, DE 30 DE DEZEMBRO DE 1969.\nConfere nova redação a dispositivos da Lei nº 6.989, de 29 de dezembro de 1966, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 24 de dezembro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A letra \"e\" do item II do artigo 18 e os artigos 20, 21 e respectivos §§ 1º e 2º, 40, 41 e respectivos parágrafos, 1º e 2º, 49, 50 eliminados seu parágrafo único, 52, 56 acrescido-lhe parágrafo único, 57, 61 e respectivo parágrafo único, 76 e respectivo parágrafo único, 119, 120 e respectivos §§ 1º e 2º, e 138, acrescido-lhe parágrafo único, todos da Lei nº 6.989, de 29 de dezembro de 1966, passam a ter a seguinte redação:\na) \"e) de empresas editoras de jornais ou revistas - destinados à publicação de noticiário e informação de caráter geral e de interesse da coletividade - e de empresas radioemissoras ou de televisão, legalmente estabelecidas no Município, quando utilizados direta e exclusivamente nos seus serviços específicos, e desde que, gratuitamente, ponham á disposição da Prefeitura, para divulgação de matéria administrativa ou fiscal:\n1 - as empresas editoras de jornais, um quarto de página por quinzena;\n2 - as empresas editoras de revistas, meia página por número publicado;\n3 - as empresas radioemissoras, sessenta segundos por dia, corridos ou fracionados, entre 20,00 e 23,00 hs.,\n4 - as empresas de televisão, duas projeções de 15 segundos cada, aos sábados, entre 19,00 e 23,00 horas\".\nb) \"Art. 20 - Os débitos não pagos nos prazos regulamentares ficam acrescidos de:\nI - multa de:\na) 10% (dez por cento), se o pagamento efetuar-se dentro de 5 (cinco) dias após o vencimento;\nb) 20% (vinte por cento), nos demais casos;\nII - juros moratórios, à razão de 1% (um por cento) ao mês, devidos a partir do mês imediato ao do vencimento, contando-se como mês completo qualquer fração deste;\nIII - correção monetária, sem prejuízo das custas e demais despesas judiciais\".\nc) \"Art. 21 - O não pagamento de duas prestações seguidas implica o vencimento integral do débito lançado.\n§ 1º - Não se admite o pagamento de qualquer prestação se não estiverem pagas tôdas as anteriores.\n§ 2º - Vencido o débito, nos termos deste artigo, aquele permanecerá em cobrança amigável, na repartição competente, pelo prazo máximo de 90 (noventa) dias, sendo a seguir inscrito para cobrança executiva, ainda que no mesmo exercício a que corresponda o tributo\".\nd) \"Art. 40 - Os débitos não pagos nos prazos regulamentares ficam acrescidos de:\nI - multa de:\na) 10% (dez por cento), se o pagamento efetuar-se dentro de 5 (cinco) dias após o vencimento;\nb) 20% (vinte por cento) nos demais casos;\nII - juros moratórios, à razão de 1% (um por cento) ao mês, devidos a partir do mês imediato ao do vencimento, contando-se como mês completo qualquer fração deste;\nIII - correção monetária, sem prejuízo das custas e demais despesas judiciais\".\ne) \"Art. 41 - O não pagamento de duas prestações seguidas implica o vencimento integral do débito lançado.\n§ 1º - Não se admite o pagamento de qualquer prestação se não estiverem pagas todas as anteriores.\n§ 2º - Vencido o débito, nos termos deste artigo, aquele permanecerá em cobrança amigável na repartição competente, pelo prazo máximo de 90 (noventa) dias, sendo a seguir inscrito para cobrança executiva, ainda que no mesmo exercício a que corresponda o tributo\".\nf)\ng) \"Art. 50 - Os serviços especificados no artigo anterior ficam sujeitos ao imposto, ainda que a respectiva prestação envolva fornecimento de mercadorias\".\nh) \"Art. 52 - O imposto não incide:\nI - nas hipóteses de imunidade previstas na Constituição Federal, observado, se caso, os dispostos em lei complementar;\nII - nos serviços prestados:\na) em relação de emprego;\nb) por trabalhadores avulsos definidos no Decreto federal nº 63.912, de 26 de dezembro de 1968, e por diretores ou membros dos conselhos consultivos, administrativo ou fiscal de sociedades\".\ni)\nj)\nl) \"Art. 61 - São isentas do imposto as prestações do serviço efetuadas por:\nI - proprietário de um único veículo de aluguel dirigido por ele próprio e utilizado no transporte de passageiros, sem qualquer auxiliar ou associado;\nII - profissional, no seu domicilio, sem porta aberta para a via pública, por conta própria e sem empregados, sem reclames ou letreiros, com receita bruta até NCr$ 2.000,00 (dois mil cruzeiros novos) anuais, não se considerando empregados os filhos e mulher do sujeito passivo;\nIII - associações culturais e as desportivas, sem venda de \"poules\" ou talões de apostas;\nIV - pensões familiares, até cinco pensionistas;\nV - sapateiros remendões, que trabalham individualmente e por conta própria;\nVI - engraxates ambulantes;\nVII -\nVIII - locadores de livros novos ou usados, observadas as exigências da Lei nº 4.333, de 30 de dezembro de 1952;\nIX - empresários de espetáculos teatrais e circenses, nos termos da legislação municipal;\nX - promoventes de concertos, recitais, \"shows\", \"avant-premiéres\" cinematográficas, exposições, quermesses e espetáculos similares, realizados para fins assistenciais, fora dos locais referidos no inciso\nVII e observados os prazos e condições da legislação municipal;\nXI - parques zoológicos, nos termos da Lei nº 6.758, de 29 de novembro de 1965.\nParágrafo Único. Salvo as isenções do inciso X que, por facultativas, devem ser solicitadas antecipadamente para cada espetáculo, e as dos incisos V e VI, as demais dependem de requerimento anual, na forma, prazo e condições regulamentares\".\nm) \"Art. 76 - Os profissionais e as sociedades referidos, respectivamente, nos artigos 56 e 57, deverão recolher o imposto, anualmente, em prestações, na forma, local e prazos regulamentares.\nParágrafo Único. A primeira prestação será recolhida no ato da inscrição ou da sua renovação anual; as demais, no prazo determinado em regulamento\".\nn) \"Art. 119 - Os débitos não pagos nos prazos regulamentares ficam acrescidos de:\nI - multa de:\na) 10% (dez por cento), se o pagamento efetuar-se dentro de 5 (cinco) dias após o vencimento;\nb) 20% (vinte por cento), nos demais casos;\nII - Juros moratórios, à razão de 1% (um por cento) ao mês, devidos a partir do mês imediato ao do vencimento, contando-se como mês completo qualquer fração deste;\nIII - correção monetária, sem prejuízo das custas e demais despesas judiciais\".\no) \"Art. 120 - O não pagamento de três prestações seguidas implica o vencimento integral do débito lançado.\n§ 1º - Não se admite o pagamento de qualquer prestação, se não estiverem pagas tôdas as anteriores.\n§ 2º - Nos termos deste artigo, o débito vencido permanecerá em cobrança amigável na repartição competente, pelo prazo máximo de 90 (noventa) dias, sendo, a seguir, inscrito para cobrança executiva\".\np) \"Art. 138 - A taxa será lançada, anualmente, no nome do sujeito passivo, e arrecadada:\nI - quanto aos veículos terrestres, no mesmo sistema estabelecido pela legislação federal para recolhimento da Taxa Rodoviária única;\nII - quanto aos veículos fluviais, no mês correspondente ao do pagamento efetuado no exercício anterior.\nParágrafo Único. A taxa relativa aos veículos terrestres, no exercício de 1970, para conformidade com a legislação federal, será recolhida, no mês do licenciamento cuja ordem numérica corresponda à do último algarismo da placa de identificação, com acréscimo ou redução de tantos dos seus duodécimos quantos bastem para o acerto da diferença entre as duas sistemáticas de licenciamento, salvo os casos em que haja coincidência.\"\nParágrafo Único.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A redação da letra \"a\", do inciso II, do artigo 160 da Lei nº 6.989, de 29 de dezembro de 1966 - modificada pelo artigo 20 da Lei nº 7.047, de 6 de setembro de 1967 - passa a ser a seguinte:\n\"a) quando anuais:\n1 - relativas aos itens 1, letra \"a\", \"b\" e \"c\", e 2 da tabela a que se refere o artigo 155, - e não pagas pelo interessado no anúncio ou pelo promovente da publicidade, até 31 de janeiro de cada ano - conjuntamente com a renovação da taxa de licença para localização, funcionamento e instalação de atividades comerciais, industriais, profissionais, de prestação de serviços e similares;\n2 - relativas ao item 1, letra \"d\", e demais itens até 31 de janeiro de cada ano\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A tabela a que se refere o artigo 53 da Lei nº 6.989, de 29 de dezembro de 1966, substituída pela Lei nº 7.047, de 6 de setembro de 1967, fica alterada, a saber:\n\"I - artigo 49, inciso I a VIII e XI a XIII - o dobro do salário mínimo vigente no Município, à época do lançamento;\nII - artigo 49, inciso IX - 1% (um por cento) sobre os preços constantes de convênios de assistência médica ou hospitalar com pessoas jurídicas de direito público interno, à base de leitos-dia, deduzindo o valor dos medicamentos e dos honorários médicos (quando o profissional não mantiver relação de emprego com o estabelecimento e for inscrito no Cadastro Fiscal de Serviços), e 2% (dois por cento) nos demais casos e serviços;\nIII - artigo 49, incisos XIV a XVI, XX a XXII, XXXIII, XXXIV, XXXVI, XXXIX, XL, LVIII, LXI e LXII - 2% (dois por cento) sobre o preço dos serviços;\nIV - artigo 49, inciso XXVII:\na) barbeiros - um salário mínimo anual, por profissional ou por cadeira, o que for em maior número, pago antecipadamente, por trimestre, até o dia 15 dos meses iniciais;\nb) cabeleireiros - um salário mínimo anual, por profissional ou por secador, o que for em maior número, pago antecipadamente, por trimestre, até o dia 15 dos meses iniciais;\nc) manicures, pedicures, tratamento de pele e outros serviços de salões de beleza - um salário mínimo anual, por profissional, pago antecipadamente, por trimestre, até o dia 15 dos meses iniciais;\nV - artigo 49, inciso XXXV: representação de produtos nacionais - 2% (dois por cento) sobre o total das comissões; demais formas de agenciamento, representação e corretagem ou intermediação de quaisquer títulos - 5% (cinco por cento) sobre o montante das comissões;\nVI - artigo 49 - inciso XXXVIII - 2% (dois por cento) sobre as comissões, inclusive bonificações a qualquer título, percebidas na veiculação e 5% (cinco por cento) sobre o preço dos serviços de confecção, redação, produção e veiculação, esta última quando efetuada diretamente;\nVII - artigo 49, inciso XLVII:\na) auto-escolas - um salário mínimo anual, por carro licenciado, pago antecipadamente, por trimestre, até o dia 15 dos meses iniciais;\nb) escolas de cabeleireiros e escolas de danças - 5% (cinco por cento) sobre o preço dos serviços;\nc) ensino pré-primário, primário, complementar, médio e superior, sob inspeção federal ou estadual e demais escolas ou estabelecimentos de ensino - 2% (dois por cento) sobre o preço dos serviços;\nVIII - artigo 49, incisos XXIX e LXVII - um salário mínimo anual, pago antecipadamente, por trimestre, até o dia 15 dos meses iniciais;\nIX - artigo 49, inciso XXXI:\na) cinemas - 5% sobre o custo ou o valor do ingresso;\nb) demais atividades - 10% sobre o custo ou o valor do ingresso;\nX - artigo 49, demais incisos - 5% (cinco por cento) sobre o preço dos serviços\".\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os itens V, VI e XI da tabela a que se refere o artigo 182 da Lei nº 6.989, de 29 de dezembro de 1966, passam a ter a seguinte redação:\n\"V - Certidão de tributos municipais:\na) comum ....................................................................... NCr$ 8,00\nb) com narrativa ............................................................. NCr$ 8,00 e\nmais posteriormente, por linha datilografada ................................. NCr$ 0,05\".\n\"VI - Certidões de recibos ................................................... NCr$ 8,00\".\nXI - Taxa de expediente (aplicada a requerimentos, memoriais, avisos-recibos, guias, alvarás, plantas e quaisquer anexos a petições:\na) para a primeira lauda ....................................................... NCr$ 3,00\nb) por lauda a seguir .......................................................... NCr$ 0,50\nc) por documento anexado ..................................................... NCr$ 0,50\".\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O lançamento do imposto predial, relativo a imóveis que sirvam, exclusivamente, de residência do respectivo proprietário, enfiteuta, usufrutuário, fiduciário ou compromissário comprador, calcular-se-á, no exercício de 1970, com bases nas Plantas Genéricas de Valores, concedendo-se, sobre o valor venal assim apurado, descontos proporcionais que o reduzam à importância nunca superior à resultante do produto do valor venal do exercido anterior, considerado pelo fator 1,50.\nParágrafo Único. Excluem-se da regra deste artigo, ficando sujeitos à avaliação, segundo os critérios e métodos estabelecidos no Decreto nº 7.331, de 29 de dezembro de 1967, os imóveis:\nI - que tiverem sido objeto de reforma e dela decorrer aumento da área construída;\nII - cujos valores venais, constantes do lançamento anterior, houverem resultado de operação por dados avaliativos inferiores aos reais.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Nenhum lançamento do imposto predial para o exercício de 1970, referente a imóvel construído, devidamente inscrito, será inferior ao montante devido aquele título no exercício de 1969, salvo ocorrendo modificação substancial nas características físicas do imóvel.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A redação do \"caput\" do artigo 2º da Lei nº 7.047, de 6 de setembro de 1967, mantidos os seus §§ 1º e 2º, passa a ser a seguinte:\n\"Art. 2º - Todo aquele que utilizar serviços prestados por firmas ou por profissionais autônomos - salvo os especificados nos itens I a VIII, XI a XIII, XXVII, XXIX e LXVII do artigo 49 da Lei nº 6.989, de 29 de dezembro de 1966, em sua nova redação - desde que devidamente inscritos - deverá exigir nota fiscal, na qual conste o número de inscrição do prestador de serviços no Cadastro Fiscal de Serviços\".\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A taxa de licença para localização, funcionamento e instalação de atividades comerciais, industriais, profissionais, de prestação de serviços e similares, poderá ser lançada e arrecadada conjuntamente com o imposto sobre serviços de qualquer natureza, no caso de prestadores de serviços sujeitos ao pagamento por alíquotas fixas.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O pagamento de imposto poderá efetuar-se em apólices reajustáveis do Tesouro Municipal, pelo valor reajustado no mês do vencimento destas, para quitação de prestação ou de imposto cujo vencimento se opere no mês imediatamente anterior ao das apólices.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Esta lei entrará em vigor:\na) em 1 de janeiro de 1970, quanto ao disposto nas letras \"A\", \"B\", \"C\", \"D\", \"E\", \"M\", \"N\" \"O\" e \"P\" do artigo 1º, e nos artigos 3º, 4º, 5º e 6º;\nb) a partir da data da publicação do Decreto-lei federal nº 834, de 8 de setembro de 1969, quanto ao disposto nas letras \"F\", \"G\", \"H\", \"I\", \"J\", \"L\" e no parágrafo único do artigo 1º, bem como ao prescrito no artigo 7º;\nc) na data de sua publicação, quanto aos demais dispositivos.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Revogam-se as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 30 de dezembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 30 de dezembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.410, de 30/12/1969 was altered by acts of 2 date(s), the latest 1987-12-29."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
