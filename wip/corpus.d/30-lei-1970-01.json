@@ -1,0 +1,1255 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1970",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-03",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "20 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1969-07413": {
+   "label": "Lei nº 7.413, de 30/12/1969",
+   "title": "Altera a Tabela Única-Parte Suplementar-Carreiras-itens 15, anexa à Lei nº 7265, de 17 de janeiro de 1969, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-12-30",
+   "published": "1970-01-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7413-de-30-de-dezembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1969-07415": {
+   "label": "Lei nº 7.415, de 30/12/1969",
+   "title": "Dispõe sobre criação, na Secretaria Municipal de Transportes, do Conselho Municipal de Acidentes e disciplina de tráfego, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1969-12-30",
+   "published": "1970-01-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7415-de-30-de-dezembro-de-1969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07427": {
+   "label": "Lei nº 7.427, de 24/03/1970",
+   "title": "Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo municipal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-03-24",
+   "published": "1970-03-25",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7427-de-24-de-marco-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07428": {
+   "label": "Lei nº 7.428, de 24/03/1970",
+   "title": "Confere nova redação ao artigo 28, acresce parágrafo ao artigo 29, revoga o artigo 30, todos da Lei nº 4060, de 14 de junho de 1951, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-03-24",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7428-de-24-de-marco-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07433": {
+   "label": "Lei nº 7.433, de 01/04/1970",
+   "title": "Dispõe sobre localização e funcionamento de estabelecimento que comercie com fogos de estampido ou de artifício, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-01",
+   "published": "1970-04-02",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7433-de-1-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07438": {
+   "label": "Lei nº 7.438, de 07/04/1970",
+   "title": "Revoga a Lei nº 7.254, de 10 de janeiro de 1969.",
+   "kind": "law",
+   "enacted": "1970-04-07",
+   "published": "1970-04-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7438-de-7-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07440": {
+   "label": "Lei nº 7.440, de 07/04/1970",
+   "title": "Dispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais.",
+   "kind": "law",
+   "enacted": "1970-04-07",
+   "published": "1970-04-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7440-de-7-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07446": {
+   "label": "Lei nº 7.446, de 16/04/1970",
+   "title": "Dispõe sobre criação de cargos de Assistente Técnico, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-16",
+   "published": "1970-04-17",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7446-de-16-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07456": {
+   "label": "Lei nº 7.456, de 28/04/1970",
+   "title": "Autoriza o executivo a instituir a \"Fundação Museu da Tecnologia de São Paulo\", e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-28",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7456-de-28-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07457": {
+   "label": "Lei nº 7.457, de 28/04/1970",
+   "title": "Dispõe sobre a estrutura da Secretaria de Bem Estar Social, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-28",
+   "published": "1970-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7457-de-28-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07459": {
+   "label": "Lei nº 7.459, de 28/04/1970",
+   "title": "Dispõe sobre criação de cargos de Professor Primário, no Departamento Municipal de Ensino, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-28",
+   "published": "1970-04-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7459-de-28-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07461": {
+   "label": "Lei nº 7.461, de 28/04/1970",
+   "title": "Aprova plano de melhoramentos no 20º subdistrito - Jardim América, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-04-28",
+   "published": "1970-05-01",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7461-de-28-de-abril-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07483": {
+   "label": "Lei nº 7.483, de 25/06/1970",
+   "title": "Dispõe sobre a criação de cargos de Assistente do Prefeito, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-06-25",
+   "published": "1970-06-26",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7483-de-25-de-junho-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07487": {
+   "label": "Lei nº 7.487, de 03/07/1970",
+   "title": "Altera a natureza e forma de provimento de cargos que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-07-03",
+   "published": "1970-07-07",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7487-de-3-de-julho-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07504": {
+   "label": "Lei nº 7.504, de 10/09/1970",
+   "title": "Dispõe sobre criação do centro de treinamento e desenvolvimento do pessoal da secretaria das finanças, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-09-10",
+   "published": "1970-09-11",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7504-de-10-de-setembro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07520": {
+   "label": "Lei nº 7.520, de 21/09/1970",
+   "title": "Dispõe sobre aquisição do imóvel situado à Avenida Brigadeiro Luiz Antonio nº 4805, nesta Capital, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-09-21",
+   "published": "1970-09-22",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7520-de-21-de-setembro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07526": {
+   "label": "Lei nº 7.526, de 21/09/1970",
+   "title": "Dá nova redação ao parágrafo único do artigo 19 do Decreto-lei nº 365/1946.",
+   "kind": "law",
+   "enacted": "1970-09-21",
+   "published": "1970-09-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7526-de-21-de-setembro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07534": {
+   "label": "Lei nº 7.534, de 09/10/1970",
+   "title": "Modifica parcialmente os planos de melhoramentos aprovados pelas leis nºs. 6206, de 28 de dezembro de 1962, e 6869, de 10 de maio de 1966; dispõe sobre doação de áreas municipais à União, para ampliação e construção da nova sede da Escola Técnica Federal de São Paulo, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-10-09",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7534-de-9-de-outubro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07535": {
+   "label": "Lei nº 7.535, de 09/10/1970",
+   "title": "Autoriza alteração de nome de logradouro situado no 30º subdistrito - Ibirapuera.",
+   "kind": "law",
+   "enacted": "1970-10-09",
+   "published": "1970-10-10",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7535-de-9-de-outubro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1970-07572": {
+   "label": "Lei nº 7.572, de 29/12/1970",
+   "title": "Dispõe sobre lançamento dos Impostos Predial e Territorial Urbano para o exercício de 1971, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1970-12-29",
+   "published": "1970-12-30",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7572-de-29-de-dezembro-de-1970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1969-07413",
+   "short": "Lei 7413/1969",
+   "title": "Lei nº 7.413, de 30/12/1969 (Altera a Tabela Única-Parte Suplementar-Carreiras-itens 15, anexa à Lei nº 7265, de 17 de janeiro de 1969, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7413-de-30-de-dezembro-de-1969",
+   "first_law": "lei-1969-07413",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-01-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7413-de-30-de-dezembro-de-1969",
+     "sha256": "54afeafccd70906720968f3cad45a819b4055f073fff1ac4579b8bb4565764d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7413, DE 30 DE DEZEMBRO DE 1969.\nAltera a Tabela Única-Parte Suplementar-Carreiras-itens 15, anexa à Lei nº 7265, de 17 de janeiro de 1969, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de dezembro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica introduzida na Tabela única - Parte Suplementar - Carreiras - item 15, anexa à Lei nº 7265, de 17 de janeiro de 1969, a alteração constante da tabela que integra a presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, retroagindo em seus efeitos a 1 de janeiro de 1969.\nPrefeitura do Município de São Paulo, aos 30 de dezembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, José Washington Boarin\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 30 de dezembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1969-07415",
+   "short": "Lei 7415/1969",
+   "title": "Lei nº 7.415, de 30/12/1969 (Dispõe sobre criação, na Secretaria Municipal de Transportes, do Conselho Municipal de Acidentes e disciplina de tráfego, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7415-de-30-de-dezembro-de-1969",
+   "first_law": "lei-1969-07415",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-01-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7415-de-30-de-dezembro-de-1969",
+     "sha256": "b45dabf5d47795ddb28c19c9cc160b62d0a6a669b9f1f0efde10afd2ef5427e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7415, DE 30 DE DEZEMBRO DE 1969.\nDispõe sobre criação, na Secretaria Municipal de Transportes, do Conselho Municipal de Acidentes e disciplina de tráfego, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de dezembro de 1969, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado, na Secretaria Municipal de Transportes, o Conselho Municipal de Acidentes e Disciplina de Tráfego, incumbido de julgar acidentes e infrações de tráfego ocorridos com veículos e máquinas da Prefeitura, bem como de exercer funções de assessoramento, consultoria e planejamento sobre matéria que lhe seja pertinente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Conselho de que trata o artigo anterior será integrado pelo Secretário de Transportes, que o presidirá, como membro nato, e por mais 4 (quatro) membros, com mandato de 2 (dois) anos, designados pelo Prefeito, mediante proposta do Presidente do órgão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Presidente e demais membros do Conselho Municipal de Acidentes e Disciplina de Tráfego perceberão - por sessão realizada, até o máximo de 8 (oito) por mês - respectivamente, gratificação de valor igual a 1 e 1/2 (um e meio) e 1 (um) salário mínimo vigente na região do Município.\nParágrafo Único. As reuniões que excederem ao número estabelecido neste artigo, serão convocadas em caráter extraordinário e sem ônus para os cofres públicos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Conselho ora instituído será secretariado por servidor designado pelo Prefeito, mediante indicação do Secretário de Transportes, fazendo jus, pelo exercício da função, à gratificação mensal correspondente a 1 (um) salário mínimo vigente na região do Município.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As autoridades encarregadas do controle de veículos e máquinas da Prefeitura, tão logo tenham conhecimento da ocorrência do acidente ou infrações de tráfego com os mesmos, deverão providenciar a imediata instauração de sindicância, de caráter sumário para apuração de responsabilidade.\n§ 1º - Concluída a sindicância, no prazo máximo de 15 (quinze) dias, o processo respectivo será encaminhado ao Conselho Municipal de Acidentes e Disciplina de Tráfego para julgamento e, reconhecida a culpa do servidor, o mesmo será responsabilizado nos termos da legislação vigente.\n§ 2º - Se considerado isento de culpa pelos eventos, acidentes ou danos ocorridos, o servidor, se o requerer, terá direito à assistência jurídica gratuita patrocinada pela Prefeitura, tanto na instância administrativa quanto na judicial.\n§ 3º - Para os fins do disposto no parágrafo anterior, será designado Procurador da Prefeitura para prestar serviços junto à Secretaria Municipal de Transportes.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O regulamento do órgão ora criado será objeto de ato executivo, a ser expedido dentro de 90 (noventa) dias, a contar da data da publicação desta lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor a 1 de janeiro de 1970, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 30 de dezembro de 1969, 416º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário Municipal de Transportes, Renato Guimarães.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 30 de dezembro de 1969.\nO Diretor, Alberto Nicolau.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07427",
+   "short": "Lei 7427/1970",
+   "title": "Lei nº 7.427, de 24/03/1970 (Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo municipal, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7427-de-24-de-marco-de-1970",
+   "first_law": "lei-1970-07427",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-03-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7427-de-24-de-marco-de-1970",
+     "sha256": "f9234cbbe5faa1f62a6178860ed9d1b07548b4e3812844b7327dc4df13faae33",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7427, DE 24 DE MARÇO DE 1970.\nDispõe sobre revalorização dos padrões de vencimentos do funcionalismo municipal, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei faço saber que a Câmara Municipal, em sessão de 18 de março de 1970 decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revalorizados em 20% a escala de padrões de vencimentos do funcionalismo municipal e os proventos dos inativos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As funções gratificadas a que se referem os artigos 2º, 3º 4º e 6º da Lei nº 7253, de 10 de janeiro de 1969, bem como a de que trata a Tabela \"B\" anexa à Lei nº 7396, de 19 de novembro de 1969, ficam revalorizadas em 20%.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As verbas de representação do Subprefeito de Santo Amaro, dos Diretores de Departamento, do Auditor da Fazenda, dos Administradores Regionais, do Assessor-Chefe e dos Assessores da Assessoria Técnico-Legislativa, instituídas em lei, ficam revalorizadas em 20%.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º É fixada no valor correspondente a 20% do padrão inicial da carreira de Tesoureiro, a importância a ser paga a título de \"quebra de caixa\" aos Tesoureiros efetivos ou extranumerários.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os valores mensais do salário-família, por alimentário, e do salário-esposa passam a ser, respectivamente, de NCr$ 17,00 e 12,60.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O valor mensal das pensões vitalícias pagas pela Prefeitura fica revalorizado em 20%.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Montepio Municipal reajustará, com base nos valores estabelecidos em lei, as pensões devidas aos beneficiários de servidores falecidos até 31 de janeiro de 1970.\n§ 1º O reajustamento será feito de acordo com tabela a ser elaborada pelo Montepio Municipal e aprovada pelo Prefeito, correndo a despesa resultante à conta da verba própria consignada no orçamento vigente.\n§ 2º Não serão reajustadas as seguintes pensões:\na) as concedidas nos termos da Lei nº 1236, de 11 de setembro de 1909, dos Atos nºs. 1233, de 8 de maio de 1918, e 147, de 16 de abril de 1931 (chamadas pensões vitalícias), exceto quando os beneficiários estiverem nas condições previstas pelo Ato nº 514, de 6 de setembro de 1933, com idade limite de 18 anos, para os menores em geral;\nb) os legados, exceto quando o legatário for a progenitora do ex-servidor, se se tratar de menor de 18 anos ou de pessoa inválida sem outra renda, desde que igual ou superior ao salário mínimo vigente do Município.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os servidores e os inativos do Município não poderão receber retribuição mensal excedente a 2 vezes o valor atribuído ao maior padrão da escala de vencimentos do funcionalismo Municipal.\n§ 1º O limite de retribuição fixado neste artigo poderá ser excedido no caso de acumulação de proventos da aposentadoria com vencimentos e verba de representação, se houver, de cargo isolado de provimento em comissão, bem como no de acumulação de retribuição com gratificações instituídas em lei ou com pagamentos assemelhados.\n§ 2º O excesso, nos casos a que se refere o parágrafo procedente, corresponderá ao valor do padrão de vencimentos do cargo em comissão, acrescido ao da verba de representação, se for o caso; ao da gratificação pelo exercício de função gratificada; ou ao dos pagamentos assemelhados.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Serão arredondadas para NCr$ 0,10 as frações inferiores a essa importância, relativas aos vencimentos, proventos, gratificações e verbas de representação ora revalorizados.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 Para atender aos encargos resultantes desta lei, bem como os decorrentes do aumento de salários a ser concedido por decreto, fica o Executivo autorizado a abrir, na Secretaria das Finanças, créditos suplementares às verbas próprias do orçamento de 1970, até o montante de NCr$ 30.000.000,00, mediante utilização de recursos provenientes de operações de crédito e outros hábeis, especificados na Lei federal nº 4320, de 17 de março de 1964.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 Esta lei entrará em vigor na data de sua publicação, retroagindo em seus efeitos a 1º de fevereiro de 1970.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 Ficam revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 24 de março de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Vidigal\nO Secretário de Bem Estar Social, Suzanna Frank Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Suzanna Frank\nVespasiano Consiglio, respondendo pela Secretaria de Turismo e Fomento\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 24 de março de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07428",
+   "short": "Lei 7428/1970",
+   "title": "Lei nº 7.428, de 24/03/1970 (Confere nova redação ao artigo 28, acresce parágrafo ao artigo 29, revoga o artigo 30, todos da Lei nº 4060, de 14 de junho de 1951, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7428-de-24-de-marco-de-1970",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1970-07428"
+   ],
+   "versions": [
+    {
+     "from": "1971-07-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7428-de-24-de-marco-de-1970",
+     "sha256": "4fa6230c9c58c4b646d6199989ac9ed6f0cb915a2dbf1f2827820d6264071cb5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7428, DE 24 DE MARÇO DE 1970.\nConfere nova redação ao artigo 28, acresce parágrafo ao artigo 29, revoga o artigo 30, todos da Lei nº 4060, de 14 de junho de 1951, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei faço saber que a Câmara Municipal em sessão de 16 de março de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 28 da Lei nº 4060, de 14 de junho de 1951, passa a ter a seguinte redação:\n\"Art. 28 Tendo completado cinco, dez, quinze, vinte, vinte e cinco e trinta anos de serviço exclusivamente municipal, pagar-se-á aos extranumerários diaristas e tarefeiros adicional sobre seu salário ordinário. - que passará a fazer parte integrante deste - correspondente a cinco, dez, quinze, vinte, vinte e cinco e trinta por cento, respectivamente.\nParágrafo Único. Calcular-se-ão os adicionais sobre o salário ordinário recebido\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O artigo 29 da Lei nº 4060, de 14 de junho de 1951, fica acrescido do seguinte parágrafo:\n\"§ 3º Durante a licença prêmio, que será considerada para todos os efeitos como tempo de serviço prestado, pagar-se-ão os salários na base do salário ordinário de trabalho\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica mantido o disposto no parágrafo único do artigo 3º e no artigo 4º, um e outro da Lei nº 7154, de 14 de junho de 1968.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 23 de março de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Suzanna Frank\nVespasiano Consiglio, respondendo pela Secretaria de Turismo e Fomento\nO Secretário Municipal de Transportes Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 24 de março de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.428, de 24/03/1970 was altered by acts of 1 date(s), the latest 1971-07-02."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07433",
+   "short": "Lei 7433/1970",
+   "title": "Lei nº 7.433, de 01/04/1970 (Dispõe sobre localização e funcionamento de estabelecimento que comercie com fogos de estampido ou de artifício, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7433-de-1-de-abril-de-1970",
+   "first_law": "lei-1970-07433",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-02",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7433-de-1-de-abril-de-1970",
+     "sha256": "53617c3e460cfbbdd32065acaf872eb7be341adf5458280bb62cafd92eacfe9f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.433, DE 1º DE ABRIL DE 1970.\nDispõe sobre localização e funcionamento de estabelecimento que comercie com fogos de estampido ou de artifício, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 23 de março de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O funcionamento de estabelecimento que se dedique ao comércio de fogos de estampido ou de artifício, mesmo quando não seja essa a atividade principal do negócio, fica sujeito à prévia licença expedida pelo órgão municipal competente, e deverá ser requerida 60 dias antes da sua instalação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A concessão da licença dependerá de prévia vistoria da dependência do imóvel, em relação à qual é exigido:\na) exibição do protocolo relativo ao requerimento solicitando a autorização policial competente, nos termos da legislação federal em vigor;\nb) construção de alvenaria;\nc) sistema de combate a incêndios (extintor comum com capacidade de 10 litros);\nd) instalações elétricas embutidas - mediante \"conduite\" - sujeitas à aprovação pelo órgão competente da Prefeitura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Não será concedida quando se tratar.\nI - de local situado a menos de 100,00 metros de:\na) depósitos de explosivos, inflamáveis ou combustíveis, inclusive simples postos de abastecimento;\nb) maternidades, hospitais e congêneres;\nc) estabelecimentos de ensino;\nd) cinemas, teatros e outras casas de diversões;\ne) edifícios públicos;\nII - de logradouro situado em zona declarada estritamente residencial;\nIII - de armazém ou loja com pavimento superior residencial, ou não, salvo se as lajes divisórias dos pavimentos forem de concreto armado;\nIV - de prédio residencial;\nV - de barraca instalada na via pública ou em qualquer imóvel;\nVI - de seção anexa em estabelecimento que comercie com materiais explosivos, inflamáveis ou combustíveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os estabelecimentos de que trata esta lei somente poderão funcionar - inclusive aos sábados, domingos e feriados - das 8:00 às 22 horas, período esse que não poderá ser excedido, mesmo no caso de concessão de licença extraordinária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Na parte relativa ao funcionamento no período das festas de Santo Antônio, São João e São Pedro, fica extinta a Licença Especial de que trata a Tabela \"K\", referente ao artigo 127 da Lei nº 6.989, de 29 de dezembro de 1966.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os infratores das disposições da presente lei ficam sujeitos à multa correspondente a 2 vezes o valor do salário mínimo vigente no Município na data da infração, aplicada em dobro na reincidência.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, a 1º de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 1º de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07438",
+   "short": "Lei 7438/1970",
+   "title": "Lei nº 7.438, de 07/04/1970 (Revoga a Lei nº 7.254, de 10 de janeiro de 1969.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7438-de-7-de-abril-de-1970",
+   "first_law": "lei-1970-07438",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7438-de-7-de-abril-de-1970",
+     "sha256": "95dae955663c514f146e0d2c6a69d02e492120e4cd04868f8b5fb751846f7b10",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7438, DE 7 DE ABRIL DE 1970.\nRevoga a Lei nº 7.254, de 10 de janeiro de 1969.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 30 de março de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogada, em todos os seus termos, a Lei nº 7254, de 10 de janeiro de 1969.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação.\nPrefeitura do Município de São Paulo, aos 7 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nVespasiano Consiglio, respondendo pela Secretaria, de Turismo e Fomento\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 7 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07440",
+   "short": "Lei 7440/1970",
+   "title": "Lei nº 7.440, de 07/04/1970 (Dispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7440-de-7-de-abril-de-1970",
+   "first_law": "lei-1970-07440",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7440-de-7-de-abril-de-1970",
+     "sha256": "4bc2d3214a87c2feca8c32ca11bdbcacdd92b3b51474946d4312be03361bbbb6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7440, DE 7 DE ABRIL DE 1970.\nDispõe sobre criação de cargo e de função gratificada, na Secretaria de Serviços Municipais.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 30 de março de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado, incorporado à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - anexa à Lei nº 7265, de 17 de janeiro de 1969, um cargo de Encarregado da Usina de Tratamento e Industrialização do Lixo, padrão X-A, lotado no Departamento de Limpeza Pública, da Secretaria de Serviços Municipais.\nParágrafo Único - O cargo de que trata este artigo é de livre provimento pelo Prefeito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica criada, passando a integrar a Tabela \"B\" anexa à Lei nº 7108, de 10 de janeiro de 1968, a função gratificada de Auxiliar de Encarregado da Usina de Tratamento e Industrialização do Lixo, F.S.2, lotada no Departamento de Limpeza Pública, da Secretaria de Serviços Municipais, e de livre designação pelo Secretário, dentre servidores municipais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do VaL\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nVespasiano Consiglio, respondendo pela Secretaria de Turismo e Fomento\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria dó Departamento de Administração do Município de São Paulo, em 7 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07446",
+   "short": "Lei 7446/1970",
+   "title": "Lei nº 7.446, de 16/04/1970 (Dispõe sobre criação de cargos de Assistente Técnico, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7446-de-16-de-abril-de-1970",
+   "first_law": "lei-1970-07446",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-17",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7446-de-16-de-abril-de-1970",
+     "sha256": "c84d2b64018091c0aa8d378f1069c050ac54fdb8ec3b5ba5095f0ffc3cf54741",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7446, DE 16 DE ABRIL DE 1970.\nDispõe sobre criação de cargos de Assistente Técnico, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 3 de abril de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e incorporados à Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão- item XVIII, anexa à Lei nº 7265, de 17 de janeiro de 1969, 4 cargos de Assistente Técnico, padrão XII-C, lotados, respectivamente, nos Departamento de Arquitetura; de Cadastro, Avaliações e Taxa de Melhoria; de Obras Públicas; e de Urbanismo.\nParágrafo Único - Os cargos de que trata este artigo serão providos livremente pelo Prefeito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 1969.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 16 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nVespasiano Consiglio, respondendo pela Secretaria de Turismo e Fomento\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 16 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07456",
+   "short": "Lei 7456/1970",
+   "title": "Lei nº 7.456, de 28/04/1970 (Autoriza o executivo a instituir a \"Fundação Museu da Tecnologia de São Paulo\", e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7456-de-28-de-abril-de-1970",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1970-07456"
+   ],
+   "versions": [
+    {
+     "from": "1989-12-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7456-de-28-de-abril-de-1970",
+     "sha256": "15ea2110dc1b98ca9f7978ebf1548a6b8e7f3f58fd8dd608e01888a89b44f135",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.456, DE 28 DE ABRIL DE 1970.\nAutoriza o executivo a instituir a \"Fundação Museu da Tecnologia de São Paulo\", e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de abril de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a instituir fundação, denominada \"Museu da Tecnologia de São Paulo\", com a finalidade de reunir e expor objetos, aparelhos, instrumentos, máquinas, equipamentos é documentação, antigos ou modernos, que deram origem à formação e desenvolvimento das atividades produtoras do país, visando especificamente:\na) a preservação dos bens de caráter histórico representados pelo acervo dessa natureza;\nb) a difusão popular dos trabalhos reunidos, desde nossas origens até a presente época, a fim de incentivar o conhecimento e respeito à obras dos antepassados, preservar as antiqualhas, bem como estimular nos jovens o espírito criador.\nParágrafo Único - Para consecução de seus objetivos, a Fundação poderá:\na) promover estudos e pesquisas em torno das origens da evolução tecnológica, principalmente no país;\nb) programar exposições e mostras especializadas que focalizem assuntos de interesse no setor de suas finalidades;\nc) realizar conferências, científicas e educativas, palestras e demonstrações a respeito do desenvolvimento tecnológico nacional e internacional;\nd) incentivar e promover a publicação de teses, monografias, revistas e impressos, de divulgação popular, inerentes aos seus objetivos básicos;\ne) favorecer a exibição de filmes e \"slides\" pertinentes às suas finalidades;\nf) celebrar convênios e acordos com entidades congêneres, nacionais ou internacionais, de modo a estar sempre atualizada a respeito de procedimentos tecnológicos, inclusive aqueles destinados à conquista espacial e utilização da energia atômica;\ng) instalar e desenvolver biblioteca, discoteca e cinescópio especializados;\nh) incentivar, amparar e apoiar a juventude, de forma a estimular o espírito inventivo e criador, com relação à ciência e à técnica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A \"Fundação Museu da Tecnologia de São Paulo\" terá sede e foro na Cidade de São Paulo, gozando de autonomia administrativa e financeira, competindo-lhe a gestão de seus bens, direitos e rendimentos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Fundação será administrada pelos seguintes órgãos.\nI - Diretoria Executiva;\nII - Conselho Deliberativo.\n§ 1º O Estatuto da Fundação, que deverá ser aprovado por decreto do Executivo, fixará a composição e atribuições dos órgãos da administração e, bem assim, os requisitos para investidura de seus dirigentes, observado o disposto no parágrafo seguinte.\n§ 2º A primeira Diretoria Executiva, cuja nomeação competirá ao Prefeito, exercerá mandato pelo prazo de 5 anos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Fundação será dotada inicialmente do patrimônio de NCr$ 1.000.000,00, ficando o Prefeito, para esse fim, autorizado a abrir, na Secretaria das Finanças, crédito adicional especial naquela importância, a ser coberto com recurso proveniente da anulação parcial, em igual valor, da verba 2100.4110.02 - Obras Públicas, projeto 3310 - Construção de edifícios públicos, do orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Além da dotação a que se refere o artigo anterior, constituirão, ainda, patrimônio da Fundação:\na) auxílios ou subvenções concedidas pelos poderes públicos;\nb) doações e legados;\nc) receitas oriundas de suas atividades ou da gestão dos seus bens patrimoniais;\nd) saldos dos exercícios findos;\ne) receitas eventuais.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Todos os servidores da Fundação estarão sujeitos ao regime da legislação trabalhista.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º No caso de extinção da Fundação, por qualquer motivo, seus bens reverterão ou incorporar-se-ão ao patrimônio do Município.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário do Turismo e Fomento, Amadeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 28 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.456, de 28/04/1970 was altered by acts of 1 date(s), the latest 1989-12-22."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07457",
+   "short": "Lei 7457/1970",
+   "title": "Lei nº 7.457, de 28/04/1970 (Dispõe sobre a estrutura da Secretaria de Bem Estar Social, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7457-de-28-de-abril-de-1970",
+   "first_law": "lei-1970-07457",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7457-de-28-de-abril-de-1970",
+     "sha256": "a3e84fff74ea032545546e81a8fd7a6e6a393416744e28e7508ad3bc1a5274ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7457, DE 28 DE ABRIL DE 1970.\nDispõe sobre a estrutura da Secretaria de Bem Estar Social, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 10 de abril de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Secretaria de Bem Estar Social-SEBES, criada pela Lei nº 6882, de 18 de maio de 1966, compete:\nI - Estudar, planejar, supervisionar, pesquisar, proceder a levantamentos e programar atividades relacionadas com o Bem Estar Social;\nII - Executar e desenvolver programação própria, ou mediante convênio com entidades públicas e privadas, em todos os subsetores das funções que lhe são específicas;\nIII - Assessorar e apoiar a iniciativa particular, incrementando a criação e ampliação de recursos sociais e a coordenação dos existentes.\nIV - Promover a capacitação do munícipe, objetivando integrá-lo no processo de mudança do contexto metropolitano.\nV - Propiciar o aumento de oportunidade de participação ativa da população, na vida da Cidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Secretaria de Bem Estar Social constitui-se de:\na) Gabinete do Secretário;\nb) Assessoria Coordenadora de Planejamento Setorial;\nc) Departamento de Integração Social;\nd) Departamento de Habitação e Trabalho;\ne) Junta Técnico-Administrativa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Gabinete do Secretário compõe-se de:\na) Chefe de Gabinete;\nb) 2 oficiais de Gabinete;\nc) 1 Assistente Técnico;\nd) 1 Assistente Jurídico;\ne) 1 Assistente de Relações Públicas;\nf) 1 Assistente Administrativo; e, ainda, dos seguintes órgãos:\nI - Seção de Contabilidade, com serviço de Almoxarifado;\nII - Seção Administrativa, com:\na) Serviço de Expediente e Correspondência;\nb) Serviço de Pessoal;\nc) Serviço de Transportes;\nd) Serviço de Zeladoria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Assessoria Coordenadora de Planejamento Setorial - SEBES-PLAN compõe-se de:\na) Assessor Coordenador;\nb) Auxiliar de Gabinete;\nc) Assistente Técnico;\nd) Seção de Expediente;\ne) Seção de Serviços Técnicos Auxiliares.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete à Assessoria Coordenadora de Planejamento Setorial - SEBES-PLAN.\na) elaborar o plano setorial, fixando as diretrizes de programação subsetorial, normas técnicas e padrões de atendimento; medidas assecuratórias de implantação de programas e sistema de controle técnico, físico e financeiro dos programas dos subsetores;\nb) coordenar a elaboração do Orçamento Programa e Orçamento Plurianual, baseado nas prioridades levantadas pelos subsetores, em consonância com a orientação determinada pela Secretaria e demais órgãos competentes da administração municipal;\nc) realizar pesquisas, estudos e levantamentos e determinar a natureza dos males, no campo social, a fim de oferecer elementos ao pleno desenvolvimento das atividades da Secretaria, bem como propor a execução de planos experimentais.\nd) manter sistema de estatística, documentação e divulgação técnico-científica e constante treinamento e aperfeiçoamento do pessoal da Secretaria, bem como programas especiais abertos à comunidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Departamento de Integração Social-INTE compõe-se de:\na) Diretor;\nb) Auxiliar de Gabinete;\nc) Assistente Técnico; e, ainda, dos seguintes órgãos;\nI - Seção de Expediente;\nII - Serviço de Contabilidade;\nIII - Divisão de Promoção Comunitária-INTE 1, constituída de:\na) Chefia de Divisão;\nb) Auxiliar de Gabinete;\nc) Serviço de Expediente;\nd) Seção de Desenvolvimento Comunitário, com Centros de Comunidade;\ne) Seção de Educação de Base e Lazer.\nIV - Divisão de Amparo e Reintegração Social-INTE 2, constituída de:\na) Chefia de Divisão;\nb) Auxiliar de Gabinete;\nc) Serviço de Expediente;\nd) Seção de Recursos Sociais, com:\n1 - Serviço de Cadastro de Recursos;\n2 - Serviço de Assistência Técnica e Subvenções;\n3 - Serviço de Programas Especiais;\ne) Seção de Reintegração Social, com Centro de Reintegração Social.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Compete ao Departamento de Integração Social - INTE:\na) implantar, executar e supervisionar programas relativos à educação de base e supletiva, associativismo e nucleação cooperativa, comunicação social, desenvolvimento comunitário, lazer, cultura popular, recuperação de grupos especiais, cadastramento de recursos sociais, assistência suplementar técnica e financeira a entidades sociais, amparo ao menor e à família, atendimento a situações de emergência e calamidade pública e a outras conjunturas que venham a se incluir no campo funcional do Departamento;\nb) manter, supervisionando, Centros Comunitários e núcleos de programação específica, bem como estabelecimentos próprios para o atendimento de projetos especiais.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Departamento de Habitação e Trabalho - HABI compõe-se de:\na) Diretor;\nb) Auxiliar de Gabinete;\nc) Assistente Técnico; e, ainda, dos seguintes órgãos:\nI - Seção de Expediente;\nII - Serviço de Contabilidade;\nIII - Divisão de Habitação - HABI 1, constituída de:\na) Chefia de Divisão;\nb) Auxiliar de Gabinete;\nc) Serviço de Expediente;\nd) Seção de Projetos e Controle;\ne) Seção de Implantação de Programas;\nIV - Divisão de Mão-de-Obra - HABI 2, constituída de:\na) Chefia de Divisão;\nb) Auxiliar de Gabinete;\nc) Serviço de Expediente;\nd) Seção de Cadastro de Mão-de-Obra;\ne) Seção de Adestramento e Capacitação de Mão-de-Obra;\nf) Seção de Integração no Mercado de Trabalho.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Compete ao Departamento de Habitação e Trabalho - HABI:\na) coordenar, elaborar, implantar, executar, supervisionar, controlar e promover programas de habitação de interesse social, em especial nos grupos de renda baixa, projetos específicos e a erradicação de aglomerados de subhabitação;\nb) implantar, executar e supervisionar planos que visem a formação e adestramento rápido de mão-de-obra, habilitação profissional, treinamento de supervisores e monitores, bem como a seleção e integração de mão-de-obra habilitada no mercado do trabalho.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 A Junta Técnico-Administrativa - SEBES-JTA, é o órgão incumbido de assistir o Secretário na coordenação e compatibilização dos programas e atividades da Secretaria.\nParágrafo Único - A Junta de que trata este artigo é composta pelos Diretores dos Departamentos, Assessor Coordenador de Planejamento Setorial e pelo Chefe do Gabinete, sob a presidência do Secretário de Bem Estar Social.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 Fica extinta a Divisão de Serviço Social, da Secretaria de Bem Estar Social, com todos os órgãos que compõem sua estrutura.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 Os cargos de Chefia integrantes do Quadro Geral do Funcionalismo Municipal, a seguir enumerados, ficam assim transformados:\na) Assistência Social - Chefe da Divisão de Serviço Social, padrão XII-C, no de Chefe da Divisão de Promoção Comunitária, padrão XII-C, do Departamento de Integração Social;\nb) Assistente Social - Chefe da Seção de Defesa Social, padrão XII-B, no de Chefe da Seção de Desenvolvimento Comunitário, padrão XII-B, da Divisão de Promoção Comunitária, do Departamento de Integração Social;\nc) Assistente Social - Chefe da Seção de Assistência Social, padrão XII-B, no de Chefe da Seção de Educação de Base e Lazer, padrão XII-B, da Divisão de Promoção Comunitária, do Departamento de integração Social.\nParágrafo Único - Os cargos a que se refere este artigo, na vacância, passam a ser de livre provimento em comissão, pelo Prefeito, dentre titulares da carreira de Assistente Social.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 A carreira de Assistente Social, constante da Tabela II anexa à Lei nº 7265, de 17 de janeiro de 1969, é acrescida do padrão \"X-D\", fixada sua lotação em 6 cargos, ficando os demais padrões ampliados como segue: de 8 cargos, o padrão \"X-C\"; de 16 cargos, o padrão \"X-B\"; e de 59 cargos, o padrão \"X-A\".\nParágrafo Único - VETADO.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 Ficam criados, passando a integrar as correspondentes Tabelas do Quadro Geral do Funcionalismo Municipal, os cargos e funções gratificadas especificados nas tabelas anexas à presente lei, nas quais se discriminam as respectivas denominações, lotação, padrão de vencimento ou remuneração, gratificação e forma de provimento ou designação.\nParágrafo Único - Ficam extintas as funções gratificadas que, especificadas na coluna \"SITUAÇÃO ATUAL\", não estão incluídas na coluna \"SITUAÇÃO NOVA\", da Tabela \"B\", integrante desta lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 O Executivo definirá, em decreto, a organização interna e as atribuições específicas dos órgãos que compõem a Secretaria de Bem Estar Social.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 As despesas com a execução desta lei correrão por conta das verbas próprias do orçamento de 1970, suplementadas se necessário.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretario de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amadeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretario Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 28 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07459",
+   "short": "Lei 7459/1970",
+   "title": "Lei nº 7.459, de 28/04/1970 (Dispõe sobre criação de cargos de Professor Primário, no Departamento Municipal de Ensino, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7459-de-28-de-abril-de-1970",
+   "first_law": "lei-1970-07459",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-04-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7459-de-28-de-abril-de-1970",
+     "sha256": "a28a40b0f2e0d1c45d3a683a5ba4b50343c8d190fe99768c9c6b68f571f95a56",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7459, DE 28 DE ABRIL DE 1970.\nDispõe sobre criação de cargos de Professor Primário, no Departamento Municipal de Ensino, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 20 de abril de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados 2.600 cargos de Professor Primário, padrão V-A, no Departamento Municipal de Ensino, incorporados à Tabela III - Quadro do Ensino Primário - Parte Permanente - Cargos de Carreira, item IV, nº 1 - anexa à Lei nº 7265, de 17 de janeiro de 1969.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os Professores Primários, Educadores Recreacionistas e Educadores Musicais não poderão ser comissionados fora do cargo de sua lotação, salvo se para exercício em outro órgão integrante da Secretaria de Educação e Cultura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amadeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 28 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07461",
+   "short": "Lei 7461/1970",
+   "title": "Lei nº 7.461, de 28/04/1970 (Aprova plano de melhoramentos no 20º subdistrito - Jardim América, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7461-de-28-de-abril-de-1970",
+   "first_law": "lei-1970-07461",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-05-01",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7461-de-28-de-abril-de-1970",
+     "sha256": "50b050c0d1bc640925cc6753a720b689c2b6cc12e59416e7254af12c84aa2a84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.461, DE 28 DE ABRIL DE 1970.\n(Projeto de Lei Nº 26/1970)\nAprova plano de melhoramentos no 20º subdistrito - Jardim América, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 20 de abril de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa, nº 24.304 F-543, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de melhoramentos, no 20º subdistrito - Jardim América, consistente no seguinte.\nI - traçado de faixa de terreno, com 4,00 metros de largura, no trecho compreendido entre a Rua Iguatemi e um ponto situado a 125,00 metros, mais ou menos, além dessa mesma via, destinada à abertura de viela sanitária ou área gravada de servidão \"non aedificandi\";\nII - supressão parcial do alinhamento da via de fundo de vale, - aprovado pela Lei nº 6.672, de 4 de junho de 1965 - entre as Ruas Iguatemi e Grécia;\nIII - restabelecimento do alinhamento da Rua Grécia, lado impar, no cruzamento com o trecho da via de fundo de vale, ora suprimido.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Se a faixa de terreno a que se refere o item I do artigo anterior for utilizada para abertura de viela sanitária, as construções, reconstruções ou reformas que se fizerem nos lotes lindeiros ficarão sujeitas ao recuo mínimo de 1,60 metros em relação aos alinhamentos da viela, e não poderão ter para esta qualquer modalidade de acesso ou abertura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os imóveis necessários à execução do plano ora aprovado são declarados de utilidade pública, para efeito de desapropriação ou de instituição de servidão, ficando a Prefeitura autorizada a efetivar as desapropriações dentro do prazo de cinco anos contados da data desta lei, bem como a receber referidos imóveis em doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de abril de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 28 de abril de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07483",
+   "short": "Lei 7483/1970",
+   "title": "Lei nº 7.483, de 25/06/1970 (Dispõe sobre a criação de cargos de Assistente do Prefeito, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7483-de-25-de-junho-de-1970",
+   "first_law": "lei-1970-07483",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-06-26",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7483-de-25-de-junho-de-1970",
+     "sha256": "df30acd7cf336b532ef886d9c5326b91a35966dddfe5412ed10db12c8c302f72",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7483, DE 25 DE JUNHO DE 1970.\nDispõe sobre a criação de cargos de Assistente do Prefeito, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 15 de junho de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados, incorporados ao item XIII da Tabela I - Parte Permanente - Cargos Isolados de Provimento em Comissão - anexa à Lei nº 7.265, de 17 de janeiro de 1969. 5 cargos de Assistente do Prefeito, padrão XII-D, de livre provimento pelo Chefe do Executivo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 25 de junho de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 25 de junho de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07487",
+   "short": "Lei 7487/1970",
+   "title": "Lei nº 7.487, de 03/07/1970 (Altera a natureza e forma de provimento de cargos que especifica, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7487-de-3-de-julho-de-1970",
+   "first_law": "lei-1970-07487",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-07-07",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7487-de-3-de-julho-de-1970",
+     "sha256": "391fbf8937691f0efc5c545e8bc54cf984f9d17a73a660fd8fd9e44185f11f42",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7487, DE 3 DE JULHO DE 1970.\nAltera a natureza e forma de provimento de cargos que especifica, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 29 de junho de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os cargos de Chefe de Divisão, da Divisão Pré-nupcial e Assistência à Maternidade e da Divisão de Puericultura, bem como o de Chefe de Serviço Médico - constantes, respectivamente, 1ª letra \"a\", nºs. 1 e 2, e da letra \"c\", nº 1, todos do item XII da Tabela II, anexa à Lei nº 7.265, de 17 de janeiro de 1969 - passam a ser isolados, de provimento em comissão, incorporados à Tabela I, anexa à mesma lei.\nParágrafo Único - Os cargos de que trata este artigo, ressalvada a situação de seus titulares efetivos, serão providos livremente pelo Prefeito, dentre portadores de diplomas de Médico, e que possuam reconhecida capacidade e experiência em administração hospitalar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 3 de julho de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Carlos Eduardo de Camargo Aranha\nO Secretário das Finanças, Fernando Ribeiro do Val\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Vespasiano Consiglio\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amadeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 3 de julho de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07504",
+   "short": "Lei 7504/1970",
+   "title": "Lei nº 7.504, de 10/09/1970 (Dispõe sobre criação do centro de treinamento e desenvolvimento do pessoal da secretaria das finanças, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7504-de-10-de-setembro-de-1970",
+   "first_law": "lei-1970-07504",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-09-11",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7504-de-10-de-setembro-de-1970",
+     "sha256": "77893b748ba03f24c4c0a6db9a33afb601a00e02bd7a9bef26e95583bfe0307e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7504, DE 10 DE SETEMBRO DE 1970.\n(Projeto de Lei Nº 76/1970 - executivo)\nDispõe sobre criação do centro de treinamento e desenvolvimento do pessoal da secretaria das finanças, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Centro de Treinamento e Desenvolvimento do Pessoal, na Secretaria das Finanças, ao qual compete, com relação aos servidores lotados nas unidades e órgãos que a integram:\na) estudar e formular, em obediência aos planos do Executivo, as diretrizes e a política a ser adotada, no que diz respeito às suas finalidades;\nb) pesquisar e avaliar as necessidades de adestramento, em todas as áreas e níveis funcionais;\nc) planejar, elaborar, dirigir, aprovar e executar, direta ou indiretamente, programas e atividades de treinamento.\nd) organizar manuais e criar instrumentos de trabalho, destinados a facilitar e aperfeiçoar o desempenho das diversas funções;\ne) manter estreito relacionamento com o Departamento de Administração do Município de São Paulo - DAMU-SP, e entidades congêneres ao Centro, públicas ou particulares, nacionais ou estrangeiras, podendo estabelecer contratos ou convênios, visando a execução de projetos e atividades afins;\nf) entender-se com instituições de ensino especializadas em pedagogia, visando a atualização de métodos de ensino;\ng) aferir o proveito dos servidores submetidos a treinamento e conceder-lhes os correspondentes certificados.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O adestramento técnico e funcional promovido pelo Centro ora criado efetuar-se-á observadas as características peculiares dos serviços afetos à Secretaria das Finanças, e terá por objeto:\na) a adaptação funcional de servidores nomeados transferidos ou removidos;\nb) o ajustamento do servidor às suas funções;\nc) a experiência adequada para melhor desempenho do cargo ou função;\nd) a especialização funcional;\ne) a integração do servidor no trabalho e nos programas de desenvolvimento econômico e social do Município;\nf) a preparação e aperfeiçoamento do servidor para o exercício de cargos ou funções de nível superior ou para o desempenho de atividades novas ou mais complexas, bem como para sua participação nos trabalhos destinados à atualização e redução dos custos operacionais dos serviços;\ng) a preparação e formação de pessoal técnico, habilitado para a implantação e evolução do sistema de treinamento de que trata esta lei.\nParágrafo Único. O treinamento a cargo do Centro referido neste artigo, poderá realizar-se durante o período de expediente e no próprio local de trabalho do servidor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Centro ora instituído será dirigido por um Conselho Diretor e uma Comissão Executiva exercendo suas atribuições através dos seguintes órgãos:\nI - Central Normativo;\nII - Central Executivo.\n§ 1º O Órgão Central Normativo compor-se-á de 5 membros, os quais serão de livre escolha pelo Prefeito, dentre funcionários da Secretaria das Finanças, sem prejuízo de funções, direitos e vantagens do cargo de que são titulares, satisfeitas as exigências dos padrões de eficiência.\n§ 2º O Órgão Central Executivo será integrado por 3 membros, livremente designados pelo Prefeito, com prejuízo de funções e sem prejuízo dos direitos e vantagens do cargo de que são titulares, satisfeitas as exigências dos padrões de eficiência.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam criados, para execução dos serviços sob responsabilidade do Centro de Treinamento e Desenvolvimento do Pessoal da Secretaria das Finanças, os seguintes cargos:\na) 1 de Comissário Executivo - Presidente;\nb) 2 de Comissário Executivo;\nc) 10 de Professor.\n§ 1º As respectivas discriminação, lotação, padrão de vencimentos e forma de provimento dos mesmos são as constantes da Tabela anexa à presente lei.\n§ 2º Se a nomeação para os cargos ora criados recair em servidor municipal em exercício, poderá o nomeado optar pelos vencimentos ou salários correspondentes ao seu cargo efetivo ou função.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A estrutura interna, as atribuições específicas dos órgãos e a lotação dos serviços do Centro de Treinamento e Desenvolvimento do Pessoal da Secretaria das Finanças, inclusive do Conselho Diretor e da Comissão Executiva, serão objeto de regulamento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para ocorrer às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial de Cr$ 60.000,00, a ser coberto com recurso proveniente da anulação parcial, em idêntica importância, da verba 1.600.3150.19 - Despesas de Exercícios Anteriores - Projeto 4470 - reposição e restituições, do orçamento vigente.\nParágrafo Único. Nos exercícios subsequentes, serão consignadas verbas orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 10 de setembro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Calim Eid\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 10 de setembro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07520",
+   "short": "Lei 7520/1970",
+   "title": "Lei nº 7.520, de 21/09/1970 (Dispõe sobre aquisição do imóvel situado à Avenida Brigadeiro Luiz Antonio nº 4805, nesta Capital, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7520-de-21-de-setembro-de-1970",
+   "first_law": "lei-1970-07520",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-09-22",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7520-de-21-de-setembro-de-1970",
+     "sha256": "e02bb7dbd5b28fae9f8b0bf57326e87a41e72240700e988c5a2070f5a2db861e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7520, DE 21 DE SETEMBRO DE 1970.\nDispõe sobre aquisição do imóvel situado à Avenida Brigadeiro Luiz Antonio nº 4805, nesta Capital, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a adquirir o imóvel situado à Avenida Brigadeiro Luiz Antonio nº 4805, nesta Capital, de propriedade do Serviço Social do Comércio - SESC, onde funciona a Maternidade \"João Daudt D`Oliveira\".\nParágrafo Único - A aquisição de que trata este artigo, se fará pelo preço de Cr$ 1.621.547,00, compreendendo, terreno, construções, instrumental médico cirúrgico, bem como os demais equipamentos e instalações existentes, de conformidade com laudos avaliativos elaborados pelos órgãos competentes da Prefeitura.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área de terreno referida no parágrafo único do artigo anterior, assinalada na planta anexa nº P-18.03-B 1, do arquivo do Departamento de Cadastro, Avaliações e Taxa de Melhoria, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, assim se descreve:\nÁrea delimitada pelo perímetro 1-2-3-4-5-6-1, de formato irregular, com cerca de 1.590,00m², confrontando: pela frente (linha reta 1-6), na extensão aproximada de 25,00 metros, segundo o alinhamento da Avenida Brigadeiro Luiz Antonio, com o leito dessa mesma artéria; pelo lado direito (linha reta 1-2), de quem da área olha para a citada avenida, na extensão aproximada de 90,00 metros, com propriedade de quem de direito; pelo lado esquerdo (linha quebrada 6-5-4-3), na extensão total aproximada de 112,00 metros, com propriedade de quem de direito; pelos fundos (linha reta 2-3), na extensão aproximada de 3,00 metros, segundo o alinhamento da Rua Bento de Andrade, com o leito dessa mesma via.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para atender às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial na importância mencionada no parágrafo único do artigo 1º, a ser coberto com recursos provenientes da anulação parcial, em idêntico valor, da verba 2100.4110.71 - Obras Públicas, projeto 3310 - Construção de Edifícios Públicos, do orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 21 de setembro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 21 de setembro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07526",
+   "short": "Lei 7526/1970",
+   "title": "Lei nº 7.526, de 21/09/1970 (Dá nova redação ao parágrafo único do artigo 19 do Decreto-lei nº 365/1946.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7526-de-21-de-setembro-de-1970",
+   "first_law": "lei-1970-07526",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-09-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7526-de-21-de-setembro-de-1970",
+     "sha256": "e44a437e1e1fe8f46101a23dd754f70e47d73522a8613b330f3b51c243c9983b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7526, DE 21 DE SETEMBRO DE 1970.\nDá nova redação ao parágrafo único do artigo 19 do Decreto-lei nº 365/1946.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, faço saber que a Câmara Municipal, em sessão de 9 de setembro de 1970, decretou e eu promulgo a seguinte lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O parágrafo único do artigo 19 do Decreto-lei nº 365, de 10 de setembro de 1946, passa a ter a seguinte redação:\n\"Parágrafo Único - A Prefeitura poderá, dentro da regulamentação que expedir, determinar, no entanto, redução dos preços de passagens em determinadas horas do dia para o transporte de estudantes dos cursos primário, secundário, profissional e superior.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 21 de setembro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Municipal de Transportes, Renato Guimarães\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 21 de setembro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07534",
+   "short": "Lei 7534/1970",
+   "title": "Lei nº 7.534, de 09/10/1970",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7534-de-9-de-outubro-de-1970",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1970-07534"
+   ],
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7534-de-9-de-outubro-de-1970",
+     "sha256": "ae1ef7c10d90e27bd3bc07474bf848f74b1224a10a35b75c48314e77d2e14130",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7534, DE 9 DE OUTUBRO DE 1970.\nModifica parcialmente os planos de melhoramentos aprovados pelas leis nºs. 6206, de 28 de dezembro de 1962, e 6869, de 10 de maio de 1966; dispõe sobre doação de áreas municipais à União, para ampliação e construção da nova sede da Escola Técnica Federal de São Paulo, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 24.419-P-898, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, ficam introduzidas alterações nos planos de melhoramentos aprovados pelas Leis nºs. 6206, de 28 de dezembro de 1962, e 6869, de 10 de maio de 1966, a saber:\nI -\nII - Supressão da avenida projetada, aprovada pela referida Lei nº 6869/66, no trecho compreendido entre a mesma avenida auxiliar e a praça prevista na confluência da avenida projetada, Ruas Pedro Vicente, Tapajós, Carnot e prolongamento da Rua Olarias.\nIII - Redução da praça referida no item anterior, eliminada a sua parte que se localiza entre a Rua Pedro Vicente e a avenida projetada, mencionada no item anterior;\nIV - Supressão do prolongamento da Rua Porto Seguro, aprovado pela Lei nº 6206, de 28 de dezembro de 1962, entre a Avenida Cruzeiro do Sul e a Rua Canindé;\nV - Supressão parcial do prolongamento da Rua Canindé, de que trata a Lei citada no item precedente, no trecho compreendido entre a avenida auxiliar e, aproximadamente, 112,00 metros aquém desta;\nVI - Fechamento do prolongamento da Rua Canindé, em ponto situado 112,00 metros, mais ou menos, aquém da avenida auxiliar;\nVII - Restabelecimento dos antigos alinhamentos das seguintes vias:\na) da Avenida Cruzeiro do Sul, na confluência com o prolongamento da Rua Porto Seguro;\nb) da avenida auxiliar, nas confluências com o prolongamento da Rua Canindé e com a avenida projetada;\nc) da Rua Pedro Vicente, na confluência com a praça de cuja redução trata o item III.\nParágrafo Único. Ficam igualmente aprovadas as concordâncias de alinhamentos constantes da planta mencionada neste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam desincorporadas da classe dos bens públicos de uso comum do povo e transferidas para a dos bens patrimoniais do Município, as áreas resultantes das medidas de que tratam os itens II; III, em parte, IV e V do artigo 1º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução da presente lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 9 de outubro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 9 de outubro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.534, de 09/10/1970 was altered by acts of 3 date(s), the latest 2022-09-14."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07535",
+   "short": "Lei 7535/1970",
+   "title": "Lei nº 7.535, de 09/10/1970 (Autoriza alteração de nome de logradouro situado no 30º subdistrito - Ibirapuera.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7535-de-9-de-outubro-de-1970",
+   "first_law": "lei-1970-07535",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-10-10",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7535-de-9-de-outubro-de-1970",
+     "sha256": "f464837aafbf227655fb0065a829e4b750c0374199171c186334fdd7b9165201",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7535, DE 9 DE OUTUBRO DE 1970.\nAutoriza alteração de nome de logradouro situado no 30º subdistrito - Ibirapuera.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a alterar a denominação da Travessa das Pérolas, que começa na Avenida Engenheiro Armando de Arruda Pereira e termina na Rua do Céu, situando-se entre a Rua das Rolinhas e a Avenida Barro Branco, no 30º subdistrito - Ibirapuera.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 9 de outubro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 9 de outubro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1970-07572",
+   "short": "Lei 7572/1970",
+   "title": "Lei nº 7.572, de 29/12/1970 (Dispõe sobre lançamento dos Impostos Predial e Territorial Urbano para o exercício de 1971, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7572-de-29-de-dezembro-de-1970",
+   "first_law": "lei-1970-07572",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1970-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7572-de-29-de-dezembro-de-1970",
+     "sha256": "f84491337abafac9bc4b83611bfd6eabf08200c2f077ada694854f6416bbab10",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7572, DE 29 DE DEZEMBRO DE 1970.\nDispõe sobre lançamento dos Impostos Predial e Territorial Urbano para o exercício de 1971, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Para fins de lançamento do Imposto Territorial Urbano, bem como do Imposto Predial incidente sobre prédios de habitação particular, ou múltipla composta de unidades autônomas, são mantidos, para o exercício de 1971 os valores venais constantes dos lançamentos de 1970.\nParágrafo Único - Excluem-se da regra deste artigo, ficando sujeitas à competente avaliação fiscal, as habitações:\nI - que tiverem sido objeto de reforma e desta decorrer aumento de área ou mudança do tipo de construção;\nII - cujos valores venais, constantes do lançamento anterior, houverem resultado de apuração por dados avaliativos inferiores aos reais ou diversos dos critérios aprovados pela repartição tributadora.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nenhum lançamento do Imposto Predial para o exercício de 1971, referente a imóvel construído e regularmente inscrito, será inferior ao montante devido àquele título no exercício de 1970, salvo ocorrendo modificação substancial nas suas características.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O artigo 15 da Lei nº 6.989, de 29 de dezembro de 1966, modificado pelo artigo 6º da Lei nº 7.047, de 6 de setembro de 1967, passa a vigorar com a seguinte redação:\n\"Art. 15 - O lançamento relativo a Imóveis construídos é efetuado ou revisto de ofício com o acréscimo de:\nI - 100% (cem por cento), se não lhes foi expedido \"habite-se\" ou auto de vistoria ou alvará de conservação de obras particulares, salvo as construções populares até 60,00m² (sessenta metros quadrados), incluídas as edículas, e que contenham, no mínimo, sala, dois dormitórios, banheiro e cozinha;\nII - 20% (vinte por cento), quando sonegados à inscrição e nos demais casos, inclusive as casas populares nas condições do inciso anterior.\nParágrafo Único - A aplicação dos acréscimos de que trata este artigo vigorará até o exercício no qual o sujeito passivo regularize a inscrição.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor a 1º de janeiro de 1971, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 29 de dezembro de 1970, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretario de Obras, Sérgio Roberto Ugolini\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 29 de dezembro de 1970.\nO Diretor, Alberto Nicolau\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
