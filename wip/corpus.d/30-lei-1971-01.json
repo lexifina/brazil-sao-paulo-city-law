@@ -1,0 +1,1130 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-PAULO",
+  "name": "São Paulo (city)",
+  "slug": "brazil-sao-paulo-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal (CADLEM)",
+   "email": "legislacao@prefeitura.sp.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. São Paulo municipal laws almost always say \"Esta lei entrará em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial da Cidade (the Lei Orgânica by its latest amendment).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\")."
+ },
+ "sources": [
+  {
+   "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 1971",
+   "url": "https://legislacao.prefeitura.sp.gov.br",
+   "retrieved": "2026-11-03",
+   "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+   "notes": "16 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-1971-07582": {
+   "label": "Lei nº 7.582, de 04/01/1971",
+   "title": "Reclassifica o cargo de Entregador de Avisos, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-01-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7582-de-4-de-janeiro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07583": {
+   "label": "Lei nº 7.583, de 04/01/1971",
+   "title": "Dispõe sobre reclassificação de cargo de Chefe de Zona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-01-04",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7583-de-4-de-janeiro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07616": {
+   "label": "Lei nº 7.616, de 31/05/1971",
+   "title": "Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Câmara Municipal de São Paulo, e dá outras providências",
+   "kind": "law",
+   "enacted": "1971-05-31",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7616-de-31-de-maio-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07617": {
+   "label": "Lei nº 7.617, de 31/05/1971",
+   "title": "Dá nova redação ao artigo 2º da Lei nº 7.583, de 4 de janeiro de 1971, e acrescenta-lhe parágrafos.",
+   "kind": "law",
+   "enacted": "1971-05-31",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7617-de-31-de-maio-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07619": {
+   "label": "Lei nº 7.619, de 23/06/1971",
+   "title": "Dispõe sobre constituição da Companhia de Processamento de Dados do Município de São Paulo - PRODAM-SP, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-06-23",
+   "published": "1971-06-24",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7619-de-23-de-junho-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07624": {
+   "label": "Lei nº 7.624, de 02/07/1971",
+   "title": "Revoga em todos os seus termos, a Lei nº 7.374, de 29 de outubro de 1969 e o artigo 3º da Lei nº 7.428, de 24 de março de 1970, bem como dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-07-02",
+   "published": "1971-07-03",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7624-de-2-de-julho-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07637": {
+   "label": "Lei nº 7.637, de 20/09/1971",
+   "title": "Declara reservada área devoluta pertencente ao Município, situada no 45.° subdistrito — Pinheiros, ne­cessária à execução do plano de melhoramentos aprovado pela Lei n.° 5.399, de 24 de outubro de 1957, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-09-20",
+   "published": "1971-09-21",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7637-de-20-de-setembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07651": {
+   "label": "Lei nº 7.651, de 20/09/1971",
+   "title": "Dispõe sobre criação de cargos de Diretor Escolar e de Inspetor Regional de Educação, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-09-20",
+   "published": "1971-09-23",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7651-de-20-de-setembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07656": {
+   "label": "Lei nº 7.656, de 07/10/1971",
+   "title": "Dá nova redação ao § 1º do artigo 21 do Ato nº 326, de 21 de março de 1932, às Letras \"B\" e \"C\" do artigo 1º, bem como ao artigo 7º, \"caput\", da Lei nº 7.179, de 17 de setembro de 1968.",
+   "kind": "law",
+   "enacted": "1971-10-07",
+   "published": "1971-10-09",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7656-de-7-de-outubro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07662": {
+   "label": "Lei nº 7.662, de 18/10/1971",
+   "title": "Disciplina construções em área situada no 8 subdistrito - Santana, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-10-18",
+   "published": "1971-10-19",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7662-de-18-de-outubro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07668": {
+   "label": "Lei nº 7.668, de 19/11/1971",
+   "title": "Dá nova redação ao artigo 3º da Lei nº 7616, de 31 de maio de 1971.",
+   "kind": "law",
+   "enacted": "1971-11-19",
+   "published": "1971-11-20",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7668-de-19-de-novembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07670": {
+   "label": "Lei nº 7.670, de 24/11/1971",
+   "title": "Autoriza a constituição da Empresa Municipal de Urbanização - EMURB, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-11-24",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7670-de-24-de-novembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07671": {
+   "label": "Lei nº 7.671, de 24/11/1971",
+   "title": "Aprova plano de formação de parque público, no 18º subdistrito - Ipiranga, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-11-24",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7671-de-24-de-novembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07674": {
+   "label": "Lei nº 7.674, de 03/12/1971",
+   "title": "Dá nova redação dao artigo 3º da Lei nº 7.582, de 4 de janeiro de 1971, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-12-03",
+   "published": "1971-12-04",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7674-de-3-de-dezembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07685": {
+   "label": "Lei nº 7.685, de 28/12/1971",
+   "title": "Referenda convênio celebrado entre a Prefeitura do Município de São Paulo e o Centro Interamericano de Feiras e Salões S.A., e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-12-28",
+   "published": "1971-12-29",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7685-de-28-de-dezembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-1971-07687": {
+   "label": "Lei nº 7.687, de 29/12/1971",
+   "title": "Altera dispositivos das Leis nºs 6.989, de 29 de dezembro de 1966 e 7.047, de 6 de setembro de 1967, e dá outras providências.",
+   "kind": "law",
+   "enacted": "1971-12-29",
+   "published": null,
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7687-de-29-de-dezembro-de-1971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-1971-07582",
+   "short": "Lei 7582/1971",
+   "title": "Lei nº 7.582, de 04/01/1971 (Reclassifica o cargo de Entregador de Avisos, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7582-de-4-de-janeiro-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07582"
+   ],
+   "versions": [
+    {
+     "from": "1971-12-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7582-de-4-de-janeiro-de-1971",
+     "sha256": "290a7b67c37b6eaeca8416103a2e9d48325ac3a34ba3a380f8c96f2c929f81c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7582, DE 4 DE JANEIRO DE 1971.\nReclassifica o cargo de Entregador de Avisos, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 30 de dezembro de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica reclassificado, no padrão VI-C, o cargo de Entregador de Avisos, padrão II-A, constante da Tabela Única, Parte Suplementar, anexa à Lei nº 7.265, de 17 de janeiro de 1969.\nParágrafo Único - O disposto neste artigo aplica-se aos inativos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, retroagindo, os seus efeitos, a 30 de outubro de 1969.\nPrefeitura do Município de São Paulo, aos 4 de janeiro de 1971, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf.\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Calim Eid\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 4 de janeiro de 1971.\nO Diretor, Alberto Nicolau.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.582, de 04/01/1971 was altered by acts of 1 date(s), the latest 1971-12-03."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07583",
+   "short": "Lei 7583/1971",
+   "title": "Lei nº 7.583, de 04/01/1971 (Dispõe sobre reclassificação de cargo de Chefe de Zona, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7583-de-4-de-janeiro-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07583"
+   ],
+   "versions": [
+    {
+     "from": "1982-10-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7583-de-4-de-janeiro-de-1971",
+     "sha256": "f0ca732f49c42c817424606b446fc3024d63a1339952a48c4025a1bb061d953b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7583, DE 4 DE JANEIRO DE 1971.\nDispõe sobre reclassificação de cargo de Chefe de Zona, e dá outras providências.\nPaulo Salim Maluf, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 30 de dezembro de 1970, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica reclassificado no padrão XII-C o cargo de Chefe de Zona, padrão XI-A, constante da Tabela única, Parte Suplementar, anexa à Lei nº 7.265, de 17 de janeiro de 1969.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os titulares dos cargos a que se refere o artigo anterior ficam obrigados à prestação de 49,00 (quarenta e nove) horas semanais de trabalho, em dois turnos, percebendo adicional correspondente a 1/3 (um terço) de sua retribuição atual ou futura, que se incorporará a esta para todos os efeitos.\n§ 1º Na hipótese de aposentadoria, esta só será concedida com o adicional de que cuida este artigo, quando o funcionário tiver exercido o respectivo cargo no regime de trabalho de que trata este artigo, pelo menos durante 3 (três) anos.\n§ 2º Fica dispensado da exigência do parágrafo anterior, o funcionário que, antes de atendê-la, for aposentado compulsoriamente por motivo previsto em lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 4 de janeiro de 1971, 417º da fundação de São Paulo.\nO Prefeito, Paulo Salim Maluf\nO Secretário de Negócios Internos e Jurídicos, Aécio Mennucci\nO Secretário das Finanças, Vespasiano Consiglio\nO Secretário de Obras, Sérgio Roberto Ugolini\nO Secretário de Educação e Cultura, Paulo Zingg\nO Secretário de Higiene e Saúde, Tito Lopes da Silva\nO Secretário de Abastecimento, Calim Eid\nO Secretário de Serviços Municipais, Rubens de Camargo Vidigal\nO Secretário de Bem Estar Social, Susanna Frank\nO Secretário de Turismo e Fomento, Amedeu Augusto Papa\nO Secretário Municipal de Transportes, Renato Guimarães\nO Secretário Municipal de Esportes, Carlos Joel Nelli.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 4 de janeiro de 1971.\nO Diretor Alberto Nicolau.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.583, de 04/01/1971 was altered by acts of 2 date(s), the latest 1982-10-21."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07616",
+   "short": "Lei 7616/1971",
+   "title": "Lei nº 7.616, de 31/05/1971 (Dispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Câmara Municipal de São Paulo, e dá outras providências)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7616-de-31-de-maio-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07616"
+   ],
+   "versions": [
+    {
+     "from": "1971-11-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7616-de-31-de-maio-de-1971",
+     "sha256": "033038b7659fcc3a02dce196712c93cd3187a47b81c0c6ab72773d359b27abbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7616, DE 31 DE MAIO DE 1971.\nDispõe sobre revalorização dos padrões de vencimentos do funcionalismo da Câmara Municipal de São Paulo, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 24 de maio de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revalorizados em 10% (dez por cento) os padrões de vencimentos do funcionalismo da Câmara Municipal de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A revalorização de que trata o art. 1º é extensivo aos proventos dos inativos e ao valor das funções gratificadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É fixada no valor correspondente a 20% (vinte por cento) do padrão \"Q\", a importância a ser paga a título de \"quebra de caixa\" ao servidor integrante do cargo de Tesoureiro.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os valores mensais do salário-família, por alimentário, e do salário-esposa passam a ser, respectivamente, de Cr$ 20,00 (vinte cruzeiros) e Cr$ 15,20 (quinze cruzeiros e vinte centavos).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os servidores e os inativos da Câmara Municipal de São Paulo não poderão receber retribuição mensal excedente a 2 (duas) vezes o valor atribuído ao maior padrão de vencimentos do funcionalismo da Câmara.\n§ 1º O limite de retribuição fixado neste artigo poderá ser excedido no caso de acumulação de proventos da aposentadoria com vencimentos e verba de representação, se houver, de cargo isolado de provimento em comissão, bem como no de acumulação de retribuição com gratificações instituídas em lei ou com pagamentos assemelhados.\n§ 2º O excesso, nos casos a que se refere o parágrafo precedente, corresponderá ao valor do padrão de vencimentos do cargo em comissão, acrescido ao da verba de representação, se for o caso; ao da gratificação pelo exercício de função gratificada; ou ao dos pagamentos assemelhados.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Serão arredondadas para Cr$ 0,10 (dez centavos) as frações inferiores a essa importância, relativas aos vencimentos, proventos, gratificações e verbas de representação ora revalorizados.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas resultantes da execução desta lei correrão à conta dos recursos provenientes das consignações próprias do orçamento vigente, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1 de março de 1971.\nPrefeitura do Município de São Paulo, aos 31 de maio de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Ruy Barbosa Nogueira\nO Secretário das Finanças, Álvaro Coutinho.\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar, Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Machado\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 31 de maio de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.616, de 31/05/1971 was altered by acts of 1 date(s), the latest 1971-11-19."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07617",
+   "short": "Lei 7617/1971",
+   "title": "Lei nº 7.617, de 31/05/1971 (Dá nova redação ao artigo 2º da Lei nº 7.583, de 4 de janeiro de 1971, e acrescenta-lhe parágrafos.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7617-de-31-de-maio-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07617"
+   ],
+   "versions": [
+    {
+     "from": "1982-10-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7617-de-31-de-maio-de-1971",
+     "sha256": "dd39fa87a33e7686702db4dc3bf29a051f43d735d1a43dd93cc34bafa17a75a9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.617, DE 31 DE MAIO DE 1971.\nDá nova redação ao artigo 2º da lei nº 7.583, de 4 de janeiro de 1971, e acrescenta-lhe parágrafos.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 24 de maio de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 2º da lei nº 7.583, de 4 de janeiro de 1971, passa a ter a seguinte redação, acrescido de parágrafos:\n\"Art. 2º Os titulares dos cargos a que se refere o artigo anterior ficam obrigados à prestação de 49,00 (quarenta e nove) horas semanais de trabalho, em dois turnos, percebendo adicional correspondente a 1/3 (um terço) de sua retribuição atual ou futura, que se incorporará a esta para todos os efeitos.\n§ 1º Na hipótese de aposentadoria, esta só será concedida com o adicional de que cuida este artigo, quando o funcionário tiver exercido o respectivo cargo no regime de trabalho de que trata este artigo, pelo menos durante 3 (três) anos.\n§ 2º Fica dispensado da exigência do parágrafo anterior, o funcionário que, antes de atendê-la, for aposentado compulsoriamente por motivo previsto em lei\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 31 de maio de 1971, 418º da fundação de São Paulo.\nO Prefeito, Jose Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Ruy Barbosa Nogueira\nO Secretário das Finanças, Álvaro Coutinho.\nO Secretário de Obras, Oscar Costa\nO Secretario de Educação e Cultura Paulo Nathanael Pereira de Souza\nO Secretario de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Maciado\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretario Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 31 de maio de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.617, de 31/05/1971 was altered by acts of 1 date(s), the latest 1982-10-21."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07619",
+   "short": "Lei 7619/1971",
+   "title": "Lei nº 7.619, de 23/06/1971 (Dispõe sobre constituição da Companhia de Processamento de Dados do Município de São Paulo - PRODAM-SP, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7619-de-23-de-junho-de-1971",
+   "first_law": "lei-1971-07619",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-06-24",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7619-de-23-de-junho-de-1971",
+     "sha256": "beaeb061b0d86fbc7e056a7ca8ef48c2b2104105b2a5e1c04473007fc2ee1c7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.619, DE 23 DE JUNHO DE 1971.\nDispõe sobre constituição da Companhia de Processamento de Dados do Município de São Paulo - PRODAM-SP, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 4 de junho de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o executivo autorizado a promover as medidas e atos necessários à constituição e instalação de sociedade anônima a denominar-se Companhia de Processamento de Dados do Município de São Paulo - PRODAM - SP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O capital da sociedade a constituir-se será inicialmente, de Cr$ 15.000.000,00 (quinze milhões de cruzeiros), devendo o Município subscrever e realizar, no mínimo, 51% (cinquenta e um por cento) do mesmo, em dinheiro ou em bens, estes últimos sujeitos à prévia avaliação e discriminação em ato Executivo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A PRODAM - SP tem por objetivo:\nI - A execução de serviços de processamento de dados e tratamento de informações para os órgãos da administração direta ou indireta do Município;\nII - A execução, mediante convênio, de serviços de processamento de dados de interesse de qualquer outra entidade ou órgão de administração pública;\nIII - A assessoria técnica a órgãos de administração pública em geral.\nParágrafo Único - A PRODAM - SP poderá, consoante normas a serem estabelecidas nos Estatutos e sem prejuízo dos objetivos consignados nos incisos I, II e III deste artigo, executar serviços de processamento de dados para entidades privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Serão transferidos à PRODAM - SP, quando conveniente, e mediante autorização do Prefeito, os serviços, equipamentos e materiais de processamento de dados, já existentes na administração direta ou indireta do Município.\nParágrafo Único - Os equipamentos e materiais referidos neste artigo, que vierem a ser transferidos à PRODAM - SP, serão incorporados ao seu capital, como subscrição do Município, mediante laudo de avaliação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A PRODAM - SP será administrada por uma Diretoria Executiva e um Conselho de Administração, e exercerá suas atividades com pessoal próprio ou com servidores que lhe forem postos à disposição para o exercício de funções diretamente ligadas ou relacionadas com organização e técnicas de processamento de dados.\n§ 1º O servidor requisitado de órgãos da administração pública poderá optar pela percepção dos salários pagos pela PRODAM - SP, com prejuízo dos vencimentos ou salários do cargo ou função de que é titular.\n§ 2º Caso não se verifique a opção prevista no parágrafo anterior, o servidor somente poderá perceber, da PRODAM - SP, incentivos ou prêmios de produção, de conformidade com escala previamente estabelecida pelo Conselho de Administração.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica o Município autorizado a prestar garantias e avais a financiamentos e outras operações de crédito que a PRODAM - SP vier a realizar para obtenção de recursos necessários à construção, ampliação e aperfeiçoamento de suas instalações e equipamentos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para atender às despesas com a execução desta lei fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial, até o montante de Cr$ 15.000.000,00 (quinze milhões de cruzeiros), a ser coberto com recursos provenientes da anulação parcial, em idêntico valor, da verba 2100.4110.94 - Obras públicas - projeto 4140 - Obras e serviços do sistema viário - 01, do orçamento vigente.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 23 de junho de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Ruy Barbosa Nogueira\nO Secretário das Finanças, Álvaro Coutinho.\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nIon de Freitas, respondendo pela Secretária de Serviços Municipais\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Machado\nO Secretário Municipal de Transportes. lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 23 de junho de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07624",
+   "short": "Lei 7624/1971",
+   "title": "Lei nº 7.624, de 02/07/1971",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7624-de-2-de-julho-de-1971",
+   "first_law": "lei-1971-07624",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-07-03",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7624-de-2-de-julho-de-1971",
+     "sha256": "2a7b56067aaad2e285ded8fc02c368957cb56aeb734521cacad35557c1df6b89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.624, DE 2 DE JULHO DE 1971.\nRevoga em todos os seus termos, a Lei nº 7.374, de 29 de outubro de 1969 e o artigo 3º da Lei nº 7.428, de 24 de março de 1970, bem como dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei:\nFaço saber que a Câmara Municipal, em sessão de 30 de junho de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogadas, em todos os seus termos a Lei nº 7374, de 29 de outubro de 1969, e o artigo 3º da Lei nº 7428, de 24 de março de 1970.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica restabelecida a vigência, em toda sua inteireza, do artigo 3º da Lei nº 3810, de 1 de dezembro de 1949, e seu correspondente parágrafo único; da Lei nº 6299, de 4 de junho de 1963; e do artigo 30 da Lei nº 4060, de 14 de junho de 1951.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 2 de julho de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Ruy Barbosa Nogueira\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nIon de Freitas, respondendo pelo expediente da Secretaria de Serviços Municipais.\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Machado\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 2 de julho de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07637",
+   "short": "Lei 7637/1971",
+   "title": "Lei nº 7.637, de 20/09/1971",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7637-de-20-de-setembro-de-1971",
+   "first_law": "lei-1971-07637",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-09-21",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7637-de-20-de-setembro-de-1971",
+     "sha256": "8dc14321306bab496f7b58ce733b5aeb3ba1613bcadb0a4044736f8d5c046dea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.° 7.637, DE 20 DE SETEMBRO DE 1971\nDeclara reservada área devoluta pertencente ao Município, situada no 45.° subdistrito - Pinheiros, necessária à execução do plano de melhoramentos aprovado pela Lei n.° 5.399, de 24 de outubro de 1957, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual n.° 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.° - Fica declarada reservada, nos termos do artigo 5.° da Lei n.° 3.859, de 31 de março de 1950, área devoluta pertencente ao Município, situada no 45.° subdistrito - Pinheiros, necessária à execução do plano de melhoramentos aprovado pela Lei n.° 5.399, de 24 de outubro de 1957, assinalada na planta anexa n.° B-2221, do arquivo do Departamento Patrimonial, rubricada pelo Presidente da Câmara e pelo Prefeito, como parte integrante desta lei, e que assim se descreve:\ndelimitada pelo perímetro A-D-E-A, de formato triangular, com cerca de 3,32 m2 (três metros e trinta e dois decímetros quadrados), confrontando: pela frente (linha A-D), na extensão aproximada de 13,30 metros, segundo o alinhamento da Rua Sumidouro, com o leito dessa mesma via; de um lado, (linha (A-E), na extensão aproximada de 0,50 metros, com área de propriedade municipal; de outro (linha D-E), na extensão aproximada de 13,30 metros, segundo o alinhamento aprovado pela Lei n.° 5.399, de 24 de outubro de 1957, com área de propriedade municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2",
+       "kind": "article",
+       "text": "Art. 2.° - As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3",
+       "kind": "article",
+       "text": "Art. 3.° - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de setembro de 1971, 418.° da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 20 de setembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07651",
+   "short": "Lei 7651/1971",
+   "title": "Lei nº 7.651, de 20/09/1971 (Dispõe sobre criação de cargos de Diretor Escolar e de Inspetor Regional de Educação, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7651-de-20-de-setembro-de-1971",
+   "first_law": "lei-1971-07651",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-09-23",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7651-de-20-de-setembro-de-1971",
+     "sha256": "13cfdf11454970171cb16638fc3824365d0528ee1bac5e1d098ebfa3d6996300",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7651, DE 20 DE SETEMBRO DE 1971.\nDispõe sobre criação de cargos de Diretor Escolar e de Inspetor Regional de Educação, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados e incorporados à Tabela III - Quadro do Ensino Primário - anexa à Lei nº 7.265, de 17 de janeiro de 1969, 150 (cento e cinquenta) cargos de Diretor Escolar, padrão VIII-A, e 26 (vinte e seis) de Inspetor Regional de Educação, padrão VIII-B.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 20 de setembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Machado\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 20 de setembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07656",
+   "short": "Lei 7656/1971",
+   "title": "Lei nº 7.656, de 07/10/1971",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7656-de-7-de-outubro-de-1971",
+   "first_law": "lei-1971-07656",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-10-09",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7656-de-7-de-outubro-de-1971",
+     "sha256": "b6e262fb7b9349537c431dcb02f4602dbbfe9e7860c797f8ad0a44bdb962eb48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.656, DE 7 DE OUTUBRO DE 1971.\nDá nova redação ao § 1º do artigo 21 do Ato nº 326, de 21 de março de 1932, às Letras \"B\" e \"C\" do artigo 1º, bem como ao artigo 7º, \"caput\", da Lei nº 7.179, de 17 de setembro de 1968.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 22 de setembro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do artigo 21 do Ato nº 326, de 21 de março de 1932, passa a ter a seguinte redação:\n\"Art. 21 - ...\n§ 1º A concessão de sepultura a prazo fixo, de que trata este artigo, entende-se por 3 (três) anos, a contar da data da inumação, quando o inumado for pessoa de idade igual ao superior a 6 (seis) anos, e por 2 (dois) anos, quando de idade inferior a 6 (seis) anos, aplicando-se o disposto no artigo 42, uma vez exauridos esses prazos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As letras \"b\" e \"c\" do artigo 1º, bem assim o artigo 7º, \"caput\", da Lei nº 7.179, de 17 de setembro de 1968, passa a ter a seguinte redação:\nI - \"Art. 1º ...\nb) sob o regime de concessão de terrenos - em quadras especialmente reservadas para esse fim, devida, apenas, a taxa de inumação - pelos prazos improrrogáveis de 3 (três) anos, quando o inumado for pessoa de idade igual ou superior a 6 (seis) anos, e de 2 (dois) anos, quando de idade inferior a 6 (seis) anos;\nc) em quadras reservadas para indigentes, a título gratuito, pelos prazos improrrogáveis de 3 (três) anos, quando o inumado for pessoa de idade igual ou superior a 6 (seis) anos, e por 2 (dois) anos, quando de idade inferior a 6 (seis) anos.\nII - Art. 7º - Ocorrendo sepultamento antes do término da concessão, considerar-se-á a mesma prorrogada por 3 (três) anos, quando o inumado for pessoa de idade igual, ou superior a 6 (seis) anos, e por 2 (dois) anos, quando de idade inferior a 6 (seis) anos, a contar da data da inumação, com vistas à realização da exumação.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 7 de outubro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 7 de outubro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07662",
+   "short": "Lei 7662/1971",
+   "title": "Lei nº 7.662, de 18/10/1971 (Disciplina construções em área situada no 8 subdistrito - Santana, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7662-de-18-de-outubro-de-1971",
+   "first_law": "lei-1971-07662",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-10-19",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7662-de-18-de-outubro-de-1971",
+     "sha256": "e793adf25ba1c54f4e11d659d437477e07dcaceabc7f02b33fe05a82791a0f1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7662, DE 18 DE OUTUBRO DE 1971.\nDisciplina construções em área situada no 8 subdistrito - Santana, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei. Faço saber que a Câmara Municipal, em sessão de 6 de outubro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º No perímetro delimitado pelas Ruas Dr. Zuquim, Conselheiro Saraiva, Machado Pedrosa, Avenida Leôncio de Magalhães, Ruas Pedro Madureira e Álvaro de Abreu, somente serão permitidas construções, reconstruções ou reformas que, em qualquer de seus pontos, não ultrapassem a cota do piso do 2º (segundo) pavimento do atual Mirante de Santana.\nParágrafo Único - o disposto neste artigo aplica-se aos imóveis lindeiros a ambos os lados dos logradouros que formam o perímetro descrito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os imóveis em desacordo com o prescrito no artigo anterior serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 18 de outubro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 18 de outubro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07668",
+   "short": "Lei 7668/1971",
+   "title": "Lei nº 7.668, de 19/11/1971 (Dá nova redação ao artigo 3º da Lei nº 7616, de 31 de maio de 1971.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7668-de-19-de-novembro-de-1971",
+   "first_law": "lei-1971-07668",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-11-20",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7668-de-19-de-novembro-de-1971",
+     "sha256": "938d10ee91a1e45c0e40b67b996e61bbe30ba82159cf48964ef0dd62476c672f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7668, DE 19 DE NOVEMBRO DE 1971.\nDá nova redação ao artigo 3º da Lei nº 7616, de 31 de maio de 1971.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 8 de novembro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a ter a seguinte redação o artigo 3º da Lei nº 7616, de 31 de maio de 1971:\n\"Art. 3º É fixada no valor correspondente a 20% (vinte por cento) do padrão \"Q\", a importância a ser paga a título de \"quebra de caixa\" ao servidor integrante do cargo de Tesoureiro.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1 de março de 1971.\nPrefeitura do Município de São Paulo, aos 19 de novembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nPaulo Ramos Machado, respondendo pelo expediente da Secretaria de Turismo e Fomento\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 19 de novembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07670",
+   "short": "Lei 7670/1971",
+   "title": "Lei nº 7.670, de 24/11/1971 (Autoriza a constituição da Empresa Municipal de Urbanização - EMURB, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7670-de-24-de-novembro-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07670"
+   ],
+   "versions": [
+    {
+     "from": "1994-12-30",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7670-de-24-de-novembro-de-1971",
+     "sha256": "7a0c319c16544207c410607f40accae73cd8daf88ec9f57f22b6714f788eb6aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7670, DE 24 DE NOVEMBRO DE 1971.\nAutoriza a constituição da Empresa Municipal de Urbanização - EMURB, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 10 de novembro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Executivo autorizado a promover as medidas e atoa necessários à constituição, instalação a funcionamento de empresa pública, a denominar-se Empresa Municipal de Urbanização - EMURB, com sede e foro no Município de São Paulo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A EMURB, terá o capital inicial de Cr$ 50.000.000,00 (cinquenta milhões de cruzeiros), que será totalmente subscrito e integralizado pelo Município, em dinheiro, valores ou bens imóveis, estes últimos incorporados ao capital social pelo valor correspondente a avaliação feita pelo órgão competente da Prefeitura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica o Executivo autorizado a transferir para a EMURB, nos termos do artigo anterior, bens imóveis pertencentes ao Município, que sejam julgados de interesse da empresa para a realização de seus objetivos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O capital inicial da EMURB, uma vez integralizado, poderá ser aumentado por ato do Executivo, mediante a incorporação de dotações orçamentárias que lhe forem consignadas, de reservas decorrentes de lucros líquidos de suas atividades, de reavaliação do ativo, de transferência de bens móveis ou imóveis municipais, ou de cessão de créditos ou direitos de qualquer natureza.\n§ 1º - Quando os bens, créditos ou direitos, transferidos para o fim previsto no \"caput\" deste artigo, não puderem ter seu valor definitivo apurado no ato da transferência, será esta feita mediante valor prévio, e fixado o prazo de 24 (vinte e quatro) meses para a apuração final.\n§ 2º - Encerrada a apuração de que cuida o parágrafo anterior, havendo diferença, caberá ao Executivo complementar o valor faltante em pecúnia ou bem da mesma natureza, em 06 (seis) meses, devidamente corrigido, ou, ao contrário, ressarcir-se da EMURB, em iguais condições.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A EMURB terá como objetivo fundamental a execução de programas e obras de desenvolvimento urbano, obedecendo planos elaborados de acordo com os órgãos próprios da Prefeitura e aprovados previamente pela Câmara Municipal, compreendendo:\nI - A reurbanização de áreas em processo de transformação, ou em vias de deterioração;\nII - A urbanização de áreas não ocupadas;\nIII - A recuperação e reciclagem de edifícios em processo de deterioração, ou de inadequação de uso, do ponto de vista urbano.\nParágrafo Único. Para consecução de seus fins, a EMURB poderá desenvolver toda e qualquer atividade econômica a tal efeito necessária, inclusive adquirir, alienar e promover a desapropriação de imóveis, obedecida a legislação pertinente, em função da estrita execução dos programas e planos de melhoramentos específicos aprovados pelo Legislativo Municipal; realizar financiamentos e outras operações de crédito, observada a legislação pertinente; e celebrar convênios com entidades públicas ou particulares, com a autorização legislativa.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A EMURB terá, ainda, como objetivos:\nI - Promover a implantação e exploração econômica, inclusive publicitária, de equipamentos urbanos e atividades complementares, na forma e em locais definidos por decreto do Executivo, de modo a elevar a qualidade da vida urbana;\nII - Prestar serviços ou executar obras mediante contrato celebrado com entidade pública da Administração Centralizada ou Descentralizada, bem como com as entidades em que o Poder Público seja detentor da maioria do capital social, estipulando-se no contrato a remuneração a ser paga à EMURB.\n§ 1º - Os recursos obtidos nos termos do inciso I deverão ser aplicados pela EMURB na implantação, manutenção, conservação e melhoria de equipamentos urbanos.\n§ 2º - Na contratação de obras, serviços e compras, a EMURB obedecerá aos princípios da licitação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica o Município autorizado a prestar garantias e avais a financiamentos e outras operações de crédito que a EMURB venha a realizar para o perfeito desempenho de suas atribuições, até o limite de 4.500.000 (quatro milhões e quinhentos mil) Obrigações Reajustáveis do Tesouro Nacional - ORTNs, em caráter rotativo, acrescido de juros e demais encargos financeiros que vierem a incidir sobre essas operações.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A EMURB será administrada por uma Diretoria Executiva e por um Conselho de Administração, cuja composição e atribuições serão definidas em regulamento a ser baixado pelo Executivo.\n§ 1º A remuneração dos Diretores e Conselheiros será fixada por ato do Prefeito.\n§ 2º Os membros da Diretoria Executiva farão declaração pública de bens no ato da posse e no término do exercício do cargo.\n§ 3º Os nomes dos candidatos aos cargos da Diretoria Executiva, acompanhados dos respectivos currículos, serão submetidos à aprovação da Câmara Municipal.\n§ 4º O disposto no parágrafo anterior não se aplica ao cargo de Diretor eleito pelos empregados da EMURB, nos termos da Lei nº 10.731, de 6 de Junho de 1989.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º (Revogado pela Lei nº 10795/1989\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 Fica o Executivo autorizado a conceder à EMURB, enquanto esta exercer as atividades que ora lhe são atribuídas, isenção de impostos municipais incidentes sobre seu patrimônio ou serviços vinculados às suas finalidades ou delas decorrentes.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Para atender às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial no montante de Cr$ 20.000.000,00 (vinte milhões de cruzeiros), com vigência até 31 de dezembro de 1972, a ser coberto com recursos provenientes da anulação parcial, em idêntica importância, das seguintes verbas do orçamento vigente:\n2.100.4110.94, projeto 4140, alínea 01, no valor de ............................Cr$ 10.000.000,00;\n2.100.4110.94, projeto 4140, alínea 03, no valor de .............................Cr$ 5.000.000,00 e\n2.100.4110.94, projeto 3570, no valor de........................................ Cr$ 5.000.000,00.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 24 de novembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nPaulo Ramos Machado, respondendo pelo expediente da Secretaria de Turismo e Fomento.\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicado na Diretoria do Departamento de Administração do Município de São Paulo, em 24 de novembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.670, de 24/11/1971 was altered by acts of 7 date(s), the latest 1994-12-30."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07671",
+   "short": "Lei 7671/1971",
+   "title": "Lei nº 7.671, de 24/11/1971 (Aprova plano de formação de parque público, no 18º subdistrito - Ipiranga, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7671-de-24-de-novembro-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07671"
+   ],
+   "versions": [
+    {
+     "from": "1981-08-25",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7671-de-24-de-novembro-de-1971",
+     "sha256": "0d9219700d57a29eb5cf09de6b562450bd45b94e8f8eaf621797c9f118b66e9c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7671, DE 24 DE NOVEMBRO DE 1971.\n(Projeto de Lei Nº 103/1971)\nAprova plano de formação de parque público, no 18º subdistrito - Ipiranga, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, nos termos do disposto no artigo 26 do Decreto-Lei Complementar Estadual nº 9, de 31 de dezembro de 1969, sanciona e promulga a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º De acordo com a planta anexa nº 24.956-1-580, do arquivo do Departamento de Urbanismo, rubricada pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei, fica aprovado plano de formação de parque público, abrangendo a Praça do Monumento e incorporando trecho das Ruas dos Patriotas, dos Sorocabanos e Brigadeiro Jordão, no 18º subdistrito - Ipiranga.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para constituição do parque de que trata o artigo anterior, ficam aprovados os seguintes melhoramentos:\nI - Abertura de via, com largura variável de 34,00 a 40,00 metros, interligando as Avenidas Dr. Ricardo Jafet e Tereza Cristina;\nII - Abertura de via, com 20,00 metros de largura, interligando as Avenidas D. Pedro I e Dr. Ricardo Jafet;\nIII - Abertura de via, com largura variável de 18,00 a 20,00 metros, interligando a Avenida D. Pedro I e a Rua Xavier de Almeida, incorporado trecho da Rua Bom Pastor;\nIV - Alargamento da Rua Xavier de Almeida, para 20,00 metros, no trecho compreendido entre as Ruas Xavier Curado e Padre Marchetti;\nV - Abertura de via, com 20,00 metros de largura, interligando as Avenidas Dr. Ricardo Jafet e Nazaré;\nVI - Incorporação das áreas delimitadas:\na) pela Avenida D. Pedro I, Rua Tabor, divisa de terrenos. Rua Leais Paulistanos e Praça do Monumento;\nb) pela Praça do Monumento, divisa de terrenos. Ruas Bom Pastor e dos Sorocabanos;\nc) pela Praça do Monumento, Ruas dos Sorocabanos, Bom Pastor e dos Patriotas;\nd) pela Rua dos Patriotas, área de que trata a Lei nº 6.710, de 2 de setembro de 1965, Rua Xavier Curado e alinhamento da via referida no item III deste artigo;\ne) pelas Ruas Xavier de Almeida, Brigadeiro Jordão e área adjacente ao Museu do Ipiranga;\nVII - Fechamento das Ruas Armorial e Gonçalo Pedrosa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Não terão qualquer modalidade de acesso para o parque ora aprovado, os imóveis situados na Rua Bom Pastor, no trecho compreendido entre a Rua Tabor e o limite do citado parque; e para a via de cuja abertura trata o item V do artigo anterior, os localizados no trecho compreendido entre a Avenida Dr. Ricardo Jafet e a Rua Pouso Alegre.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam excluídas do disposto no artigo 2º da Lei nº 7.077, de 28 de novembro de 1967, e sujeitas às restrições estabelecidas no artigo 1º dessa mesma lei:\na) a Avenida Nazaré, entre as Ruas Padre Marchetti e Pouso Alegre;\nb) a Rua Bom Pastor, face leste, entre as Ruas dos Sorocabanos e dos Patriotas, e, face oeste, entre a Rua Tabor e o limite do parque ora criado;\nc) a Rua Tabor, entre a Avenida D. Pedro I e Rua Bom Pastor.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os imóveis atingidos pelo plano ora aprovado serão oportunamente declarados de utilidade pública, para efeito de desapropriação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 24 de novembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 24 de novembro de 1971.\nO Diretor, João Alberto Guedes.\nO anexo encontra-se disponível, ainda, no Paço Municipal\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.671, de 24/11/1971 was altered by acts of 1 date(s), the latest 1981-08-25."
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07674",
+   "short": "Lei 7674/1971",
+   "title": "Lei nº 7.674, de 03/12/1971 (Dá nova redação dao artigo 3º da Lei nº 7.582, de 4 de janeiro de 1971, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7674-de-3-de-dezembro-de-1971",
+   "first_law": "lei-1971-07674",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-12-04",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7674-de-3-de-dezembro-de-1971",
+     "sha256": "e53dc6f2c6e307ab87cd5c903a76e1fc412914a5f5d1d8181aa5c0ddbb85d104",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.674, DE 3 DE DEZEMBRO DE 1971.\nDá nova redação dao artigo 3º da Lei nº 7.582, de 4 de janeiro de 1971, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 24 de novembro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 3º da Lei nº 7.582, de 4 de janeiro de 1971, passa a ter a seguinte redação:\n\"Art. 3º Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação, retroagindo, os seus efeitos, a 30 de outubro de 1969\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para atender às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretária das Finanças, crédito adicional especial de Cr$ 886.825,00 (oitocentos e oitenta e seis mil, oitocentos e vinte e cinco cruzeiros), que será coberto com recursos provenientes da anulação parcial, em idêntica importância, da verba nº 1660.3111.0100.19 - Pessoal Civil, projeto 0106 - Tarefeiros, do orçamento vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 3 de dezembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Oscar Costa\nO Secretário de Educação e Cultura, Paulo Nathanael Pereira de Souza\nO Secretário de Higiene e Saúde, Carlos da Silva Lacaz\nO Secretário de Abastecimento, João Jacob Hoelz\nO Secretário de Serviços Municipais, Alberto Pereira Rodrigues\nO Secretário de Bem Estar Social, Leopoldina Saraiva\nO Secretário de Turismo e Fomento, Edenyr Machado\nO Secretário Municipal de Transportes, lon de Freitas\nO Secretário Municipal de Esportes, Paulo Machado de Carvalho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 3 de dezembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07685",
+   "short": "Lei 7685/1971",
+   "title": "Lei nº 7.685, de 28/12/1971 (Referenda convênio celebrado entre a Prefeitura do Município de São Paulo e o Centro Interamericano de Feiras e Salões S.A., e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7685-de-28-de-dezembro-de-1971",
+   "first_law": "lei-1971-07685",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1971-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7685-de-28-de-dezembro-de-1971",
+     "sha256": "7f62321d9a06f90370893afdd8fad503d5f51994a9bb30e44562c16db7389c6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.° 7.685, DE 28 DE DEZEMBRO DE 1971\nReferenda convênio celebrado entre a Prefeitura do Município de São Paulo e o Centro Interamericano de Feiras e Salões S.A., e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei.\nFaço saber que a Câmara Municipal, em sessão de 20 de dezembro de 1971, decretou e eu promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.° - Fica referendado, em todos os seus têrmos, o convênio celebrado pela Prefeitura do Município de São Paulo, juntamente com o Govêrno Federal e o Govêrno do Estado de São Paulo, com o Centro Interamericano de Feiras e Salões S.A., visando à participação acionária do Município no desenvolvimento do Projeto do Parque Anhembi, de acordo com o texto anexo, rubricado pelo Presidente da Câmara e pelo Prefeito como parte integrante desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2",
+       "kind": "article",
+       "text": "Art. 2.° - Para atender às despesas com a execução desta lei, fica o Prefeito autorizado a abrir, na Secretaria das Finanças, crédito adicional especial, com vigência até 31.12.72 na importância de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros), que será coberto com recursos provenientes da anulação parcial, de idêntico valor, das seguintes verbas do orçamento vigente:\nConsignação Projeto Discriminação Importância\n2100.4110.94 3570 Calerias de águas pluviais e canalizações 3.000.000,00\n4140 Obras e serviços do sistema viário\n01 - Obras de arte................................... 10.000.000,00\n02 - Pavimentação ................................. 10.000.000,00\n03 - Capeamento....................................... 2.000.000,00\n25.000.000,00\n"
+      },
+      "art-0003": {
+       "label": "Art. 3",
+       "kind": "article",
+       "text": "Art. 3.° - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPrefeitura do Município de São Paulo, aos 28 de dezembro de 1971, 418.° da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 28 de dezembro de 1971.\nO Diretor, João Alberto Guedes.\nMINISTÉRIO DA INDÚSTRIA E DO COMÉRCIO\nCONVÊNIO que fazem entre si, com vistas ao desenvolvimento do PROJETO DO PARQUE ANHEMBI, de um lado como pretendentes subscritores, o GOVÊRNO FEDERAL, por intermédio dos Ministérios da FAZENDA, da INDÚSTRIA E DO COMÉRCIO e da EMPRÊSA BRASILEIRA DE TURISMO-EMBRA- TUR, o GOVÊRNO DO ESTADO DE SÃO PAULO, por intermédio do BANCO DE DESENVOLVIMENTO DO ESTADO DE SÃO PAULO - BADESP e a PREFEITURA MUNICIPAL DE SÃO PAULO, e de outro lado o CENTRO INTERAMERICANO DE FEIRAS E SALÕES S/A.\nCONSIDERANDO:\n- que tendo em vista a decisão do Govêrno Federal de promover, em 1972, por ocasião das comemorações do Sesquicentenário da Independência, a realização da FEIRA EXPORTAÇÃO BRASIL 72, que se constituirá em grande mostra dos produtos brasileiros de exportação, em particular manufaturados e, simultâneamente a instalação do Congresso de Importadores estrangeiros;\n- que os Podêres Públicos, Federal, Estadual e Municipal têm decidido interêsse em fomentar o desenvolvimento de projetos que abriguem as melhores possibilidades de incrementar_o turismo interno e externo, com tôdas suas repercussões na promoção de negócios do País;\n- que para levar avante empreendimentos desta envergadura necessita o Centro Interamericano de Feiras e Salões S/A, responsável pela implantação do Projeto do PARQUE ANHEMBI, concluí-lo, em prazos rigorosamente pré-determinados;\n- que para tanto se torna indispensável aumentar o capital social do Centro Interamericano de Feiras e Salões S/A;\nRESOLVEM:\n- estabelecer o presente Convênio de subscrição, por meio do qual a União, o Estado de São Paulo e o Município de São Paulo terão uma participação acionária de Cr$ 25.000.000,00 (vinte e cinco milhões de cruzeiros) no capital social do \"Centro Interamericano de Feiras e Salões S/A.\", perfazendo um total de Cr$ 75.000.000,00 (setenta e cinco milhões de cruzeiros);\n- facultar a cada um dos pretendentes subscritores o exercício do direito da obtenção de têrmo de recompra do \"Centro Interamericano de Feiras e Salões S/A.\", às ações adquiridas, a partir de cinco anos contados da integralização de cada subscrição, nos têrmos do disposto no artigo 47, da Lei n.° 4.728, de 1965;\n- vincular os recursos decorrentes dêste Convênio à aplicação no desenvolvimento do Projeto do PARQUE ANHEMBI, tal como aprovado pela Resolução n.° 77 do Conselho Nacional de Turismo;\n- a integralização da subscrição será feita mediante aceitação, pelos participantes do Convênio, do organograma financeiro do Projeto a ser apresentado pelo PARQUE ANHEMBI.\nCONDIÇÕES ESPECIAIS\n- a Prefeitura Municipal de São Paulo fica com opção de substituir, no todo ou em parte, sua participação em espécie, pela execução de obras de infra estrutura do PARQUE ANHEMBI, desde que dentro dos cronogramas do PROJETO acima referido, e pelo valor de custo para ela, das referidas obras;\n- ao Banco de Desenvolvimento do Estado de São Paulo - BADESP - caberá adotar as medidas necessárias ao encaminhamento dêste Convênio à ratificação da Assembléia Legislativa de São Paulo, sem a qual fica prejudicada sua vigência;\n- à Emprêsa Brasileira de Turismo - EMBRATUR - caberá providenciar, junto aos Ministérios do Planejamento, da Indústria e do Comércio e da Fazenda os recursos, adicionais ao seu capital, para constituírem a contra partida do Govêrno Federal no empreendimento, sem os quais fica prejudicada a vigência do presente Convênio;\n- os órgãos oficiais signatários dêste Convênio organizarão um Comissariado para execução da Feira de Exportação Brasil 72 acima referida, de acordo com os interêsses das políticas brasileiras de exportação e turismo.\nSão Paulo, 20 de Setembro de 1971\na) Antônio Delfim Neto a) Laudo Natel\nMINISTRO DA FAZENDA GOVERNADOR DO ESTADO\nDE SÃO PAULO\na) Marcus Pratini de Moraes De acordo, ouvidos os órgãos\nMINISTRO DA INDÚSTRIA E Jurídicos da Prefeitura e \"ad referendum\" da\nDO COMÉRCIO Câmara Municipal de S. Paulo.\na) J. C. de Figueiredo Ferraz\nPREFEITO MUNICIPAL DE SAO PAULO\na) Carlos Alberto de Andrade\nPRESIDENTE DA EMBRATUR\na) Américo Oswaldo Campilha a) Norman Puggina\nPRESIDENTE DO BANCO DE DESENVOLVIMENTO DE SÃO PAULO\na) Caio Francisco de Alcântara Machado a) Jorge Luiz de Moraes Dantas\nPRESIDENTE DO CENTRO INTERAMERICANO DE FEIRAS E SALÕES S/A.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-1971-07687",
+   "short": "Lei 7687/1971",
+   "title": "Lei nº 7.687, de 29/12/1971 (Altera dispositivos das Leis nºs 6.989, de 29 de dezembro de 1966 e 7.047, de 6 de setembro de 1967, e dá outras providências.)",
+   "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7687-de-29-de-dezembro-de-1971",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-1971-07687"
+   ],
+   "versions": [
+    {
+     "from": "1983-12-29",
+     "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-7687-de-29-de-dezembro-de-1971",
+     "sha256": "33758611db24cee3a5c53e8736e2b5f92985c1fb820015aab1eca899df8808d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 7.687, DE 29 DE DEZEMBRO DE 1971.\nAltera dispositivos das Leis nºs 6.989, de 29 de dezembro de 1966 e 7.047, de 6 de setembro de 1967, e dá outras providências.\nJosé Carlos de Figueiredo Ferraz, Prefeito do Município de São Paulo, usando das atribuições que lhe são conferidas por lei, Faço saber que a Câmara Municipal, em sessão de 24 de dezembro de 1971, decretou e eu promulgo a seguinte lei:\nIMPOSTO PREDIAL\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o item II do artigo 16 da Lei nº 6989, de 29 de dezembro de 1966, passando o atual item III a constituir o item II, com a seguinte redação:\n\"II - em função de quaisquer dos incisos do artigo 8º e respectivos parágrafos, quando superior ao resultante da aplicação do disposto no inciso anterior deste artigo\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O § 1º do artigo 16 da Lei nº 6989, de 29 de dezembro de 1966, passa a ter a seguinte redação:\n\"§ 1º Independentemente do disposto no artigo 195, as \"Plantas Genéricas de Valores\" serão publicadas pelo Executivo e vigorarão, a partir do exercício imediato àquele em que forem editadas, enquanto não substituídas ou modificadas por outras, no todo ou em parte.\"\nIMPOSTO TERRITORIAL URBANO\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogado o parágrafo 2º do artigo 24, da Lei nº 6989, de 29 de dezembro de 1966, passando o atual § 1º a constituir parágrafo único.\nIMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A letra \"b\" do item I, do artigo 77 da Lei nº 6989, de 29 de dezembro de 1966 - com a modificação que lhe deu o item VIII do artigo 1º da Lei nº 7228, de 12 de dezembro de 1968, passa a ter a seguinte redação:\n\" - aos que, vencido o prazo regulamentar, não possuírem livros fiscais.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O item II do artigo 77, da Lei nº 6989, de 29 de dezembro de 1966 - com a redação que lhe deu o item VIII do artigo 1º da Lei nº 7228, de 12 de dezembro de 1968 - é substituído pelo seguinte:\n\"II - de 20% (vinte por cento) sobre o montante do imposto:\na) aos que deixarem de efetuar o recolhimento deste nos prazos regulamentares, além de incorrerem em mora - à razão de 1% (um por cento) ao mês, a partir do mês seguinte ao do vencimento - e em correção monetária, sem prejuízo das custas e demais despesas judiciais;\nb) aos que, sujeitos à escrita fiscal, deixarem de lançar, no livro próprio, o imposto devido\".\nTAXA DE LIMPEZA PÚBLICA\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O artigo 87 da Lei nº 6989, de 29 de dezembro de 1966, passa a ter a seguinte redação:\n\"Art. 87 - A taxa calcula-se:\nI - Tratando-se de imóvel construído, em função da sua localização e da sua área construída, na conformidade da seguinte tabela:\nZONA MONTANTE ANUAL DA TAXA POR M2 CONSTRUÍDO\n1ª ...........................................................................Cr. 1,30\n2ª ...........................................................................Cr. 0,60\n3ª ...........................................................................Cr. 0,40\nII - Tratando-se do imóvel não construído, em função da sua localização e da sua área territorial, na conformidade da seguinte tabela:\nZONA MONTANTE ANUAL DA TAXA POR M2 DE TERRENO\n1ª ...........................................................................Cr. 0,40\n2ª ...........................................................................Cr. 0,10\n3ª ...........................................................................Cr. 0,02\".\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O parágrafo 2º do artigo 87, da Lei nº 6989, de 29 de dezembro de 1966, transformado em parágrafo único pela Lei 7083, de 7 de dezembro de 1967, passa a vigorar com a seguinte redação:\n\"Parágrafo Único - Nenhum lançamento de taxa a que se referem os incisos I e II será inferior, respectivamente, a Cr$ 20,00 (vinte cruzeiros) e Cr$ 5,00 (cinco cruzeiros).\"\nTAXA DE CONSERVAÇÃO DE VIAS E LOGRADOUROS PÚBLICOS\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O artigo 93 da Lei nº 6989, de 29 de dezembro de 1966, suprimidos os seus incisos I e II, passa a ter a seguinte redação:\n\"Art. 93 - O sujeito passivo da taxa é o proprietário, o titular do domínio útil ou o possuidor do imóvel, construído ou não, situado em logradouro beneficiado pelos serviços referidos no artigo 91.\"\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O artigo 94, da Lei nº 6989, de 29 de dezembro de 1966, revogados seus parágrafos 1º e 2º, incisos e alíneas, passa a vigorar com a seguinte redação:\n\"Art. 94 - A taxa calcula-se por metro linear ou fração, em toda a extensão do imóvel, no seu limite com a via ou logradouro público, à razão anual de:\nI - Cr$ 2,00 (dois cruzeiros) para os pavimentados, no todo ou em parte da sua largura;\nII - Cr$ 0,80 (oitenta centavos) para os não pavimentados, com assentamento de guias e construção de sarjetas ou sarjetões;\nIII - Cr$ 0,50 (cinquenta centavos) para os não compreendidos nos itens anteriores.\"\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O parágrafo 3º do artigo 94, da Lei nº 6989, de 29 de dezembro de 1966, passa a constituir parágrafo único, assim redigido:\n\"Parágrafo Único - A taxa calculada nos termos deste artigo não poderá ser inferior a Cr$ 10,00 (dez cruzeiros).\"\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - O artigo 95, da Lei nº 6989, de 29 de dezembro de 1966, suprimidos os seus incisos, passa a ter a seguinte redação:\n\"Art. 95 - A taxa poderá ser lançada e arrecadada juntamente com o imposto predial ou com o imposto territorial urbano, ou separadamente, aplicando-se:\nI - sendo conjuntos os lançamentos, as normas relativas a um ou ao outro imposto, conforme a hipótese;\nII - sendo separados os lançamentos, as normas previstas em regulamento.\"\nIMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Na locação de bens móveis designada \"leasing\", o imposto sobre serviços calcular-se-á, sem deduções, à base de 2% (dois por cento) sobre as quantias recebidas pelo locador.\nTAXA DE PAVIMENTAÇÃO E DE SERVIÇOS PREPARATÓRIOS DE PAVIMENTAÇÃO\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - O parágrafo único do artigo 114, o artigo 118, \"caput\", e seu § 2º, da Lei nº 6989, de 29 de dezembro de 1966, passam a ter a seguinte redação:\na) \"Parágrafo Único - Obtida essa quota, calcular-se-ão quantias constantes e de valor não inferior a Cr$ 15,00 (quinze cruzeiros) que, aos juros simples de 12% (doze por cento) ao ano, venham amortizá-la, no máximo em 60 (sessenta) e no mínimo em 24 (vinte e quatro) prestações mensais, iguais e sucessivas.\"\nb) \"Art. 118 - O pagamento da taxa será efetuado em prestações mensais, iguais e sucessivas, nos prazos regulamentares e na seguinte conformidade:\nZONA - Nº DE PRESTAÇÕES\nUrbana - 1ª subdivisão 24\nUrbana - 2ª subdivisão até 42\nUrbana - 3ª subdivisão até 48\nRural até 60.\"\nc) \"§ 2º Será facultado ao contribuinte o pagamento antecipado da taxa, com o desconto dos juros constantes das prestações vincendas.\"\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - A redação do artigo 120, \"caput\" da Lei nº 6989, de 29 de dezembro de 1966 - alterada pela Lei nº 7410, de 30 de dezembro de 1969 - passa a ser a seguinte:\n\"Art. 120 - O não pagamento de oito prestações consecutivas acarretará o vencimento integral do débito lançado\".\nTAXA DE LICENÇA PARA LOCALIZAÇÃO, FUNCIONAMENTO OU INSTALAÇÃO DE ATIVIDADES COMERCIAIS, INDUSTRIAIS, PROFISSIONAIS, DE PRESTAÇÃO DE SERVIÇOS E SIMILARES\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O artigo 126, \"caput\", e seu § 1º, da Lei 6989, de 29 de dezembro de 1966 - modificados pela Lei nº 7228, de 12 de dezembro de 1968 - passam a vigorar com a seguinte redação:\n\"Art. 126 - A taxa de licença para localização, funcionamento ou instalação de atividades comerciais, industriais, profissionais, de prestação de serviços e similares, inclusive de negociantes ambulantes e feirantes, tem como fato gerador o licenciamento obrigatório daqueles ou o seu ordenamento e fiscalização quanto às posturas edilícias e administrativas constantes da legislação municipal e relativas à higiene, saúde, segurança, ordem, disciplina da produção e do mercado, exercício de atividades econômicas dependentes de autorização do Município, tranquilidade pública ou respeito à propriedade e aos direitos individuais ou coletivos.\n§ 1º A taxa será devida ainda que o sujeito passivo não tenha estabelecimento fixo, bastando que configure uma unidade profissional ou econômica.\"\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - O § 1º do artigo 7º da Lei nº 7047, de 6 de setembro de 1967, passa a ter a seguinte redação:\n\"§ 1º O sujeito passivo da taxa deverá inscrever cada um dos seus estabelecimentos na repartição fiscal competente, no prazo e forma regulamentares.\"\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - No interesse da Administração, proceder-se-á, quando for o caso, a inscrição provisória \"ex officio\" de estabelecimento, sem prejuízo da obrigação que tem o sujeito passivo de promover a sua inscrição regular, na forma da legislação tributária do Município.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - O artigo 10 da Lei nº 7047, de 6 de setembro de 1967 - modificado pela Lei nº 7228, de 12 de dezembro de 1968 - passa a vigorar com a seguinte redação, revogado o seu parágrafo único:\n\"Art. 10 - A taxa será lançada anualmente, exceto nas hipóteses indicadas de outra maneira na Tabela, observadas em qualquer caso as disposições regulamentares.\"\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - O artigo 13 da Lei nº 7047, de 6 de setembro de 1967, passa a ter a seguinte redação, revogados os seus itens:\n\"Art. 13 - A taxa será arrecadada adiantadamente, por meio de guia ou aviso - recibo, na forma, condições e prazo determinados em regulamento.\"\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - A licença concedida poderá ser cassada a qualquer tempo pela Prefeitura, no exercício do poder de polícia administrativa, sempre que o exercício da atividade ou funcionamento e instalação do estabelecimento violarem normas de saúde, sossego, higiene, segurança, estética e moralidade.\n§ 1º A Prefeitura definirá, por decreto, as violações às normas estatuídas no presente artigo, que implicarão no cancelamento da licença.\n§ 2º A licença só poderá ser cassada por ato do Prefeito Municipal ou do Secretário das Finanças do Município.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - As infrações serão punidas com:\nI - multa correspondente ao valor de 1 (uma) UFM:\na) àqueles que forem encontrados estabelecidos sem que tenham promovido sua regular inscrição e obtido a necessária licença, sem prejuízo, se for o caso, do fechamento do local, com o auxílio de força, quando necessário;\nb) aos que tiverem declarado elementos falsos no pedido de inscrição;\nII - multa correspondente a 1/3 (um terço) da UFM:\na) aos que promoverem a inscrição fora do prazo regulamentar;\nb) aos que deixarem de renovar os dados de sua inscrição, no prazo regulamentar;\nc) aos que cometerem infração, para a qual não haja penalidade expressamente prevista;\nIII - multa correspondente ao valor da diferença que houver, aos que tiverem recolhido, em pagamento da taxa, importância inferior à efetivamente devida, obedecido o limite mínimo de 20% (vinte por cento) da UFM;\nIV - multa correspondente a 20% (vinte por cento) do valor da taxa anual devida, por dia de não cumprimento à intimação de fechamento administrativo do estabelecimento e de 50% (cinquenta por cento) daquele valor, por dia, no caso de desobediência ao termo de fechamento;\nV - multa correspondente a 25% (vinte e cinco por cento) da UFM, aos que não mantiverem afixado, em local visível de seu estabelecimento, os documentos comprobatórios da inscrição e licença, fornecidos pela Administração.\nTAXA DE LICENÇA PARA PUBLICIDADE\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - O artigo 160 da Lei nº 6989, de 29 de dezembro de 1966 - com a modificação que lhe deram as Leis nºs 7047 e 7410, respectivamente, de 6 de setembro de 1967 e 30 de dezembro de 1969 - passa a vigorar com a seguinte redação, revogados os seus itens I e II:\n\"Art. 160 - A taxa será arrecadada antecipadamente, por meio de guia ou aviso - recibo, na forma, condições e prazo determinados em regulamento.\"\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - O artigo 161 da Lei nº 6989, de 29 de dezembro de 1966, passa a ter a seguinte redação:\n\"Art. 161 - As infrações serão punidas com:\nI - multa correspondente ao valor de um salário mínimo, aos que tenham feito publicidade sem a respectiva licença, independentemente da aplicação de outras sanções previstas na legislação do Município;\nII - multa de valor correspondente ao da diferença que houver, aos que, em pagamento da taxa, tiverem recolhido importância inferior à efetivamente devida;\nIII - multa de valor igual a 25% (vinte e cinco por cento) do salário mínimo, àqueles que não exibirem à fiscalização os documentos comprobatórios da licença ou praticarem quaisquer outras infrações.\"\nTAXA DE LICENÇA PARA ESCAVAÇÃO E RETIRADA DE MATERIAIS DO SUBSOLO\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Os artigos 170, 172 e 173 da Lei nº 6989, de 29 de dezembro de 1966, ficam assim redigidos:\na) \"Art. 170 - Constitui fato gerador da taxa o exercício do poder de polícia do Município na disciplina da prática de ato ou abstenção de fato, em razão do interesse público concernente à higiene, saúde, ordem, tranquilidade e segurança públicas.\"\nb) \"Art. 172 - O sujeito passivo deverá preencher a guia e recolher o tributo, observada a Tabela:\nI - a primeira vez, antecipadamente ao exercício de atividade, de maneira que o pedido de licença seja instruído com o comprovante do recolhimento;\nII - nos anos subsequentes, até o dia 31 de janeiro.\"\nc) \"Art. 173 - A taxa é anual e seu valor engloba vistorias e alvarás.\"\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - O artigo 174 da Lei nº 6989, de 29 de dezembro de 1966, passa a ter a redação seguinte, revogado o seu parágrafo único:\n\"Art. 174 - As infrações serão punidas com:\nI - multa correspondente a 4 (quatro) vezes o valor do salário mínimo, aos que exercitarem a atividade sem obter a licença prévia da Prefeitura, independentemente da apreensão e remoção do aparelhamento, paralisação do serviço e outras medidas administrativas para compelir o infrator a repor o terreno em seu estado primitivo;\nII - multa de valor correspondente a 30% (trinta por cento) do salário mínimo, por dia de não cumprimento da intimação e reposição do terreno no nível e no prazo fixado pela autoridade administrativa;\nIII - multa de valor igual a 25% (vinte e cinco por cento) do salário mínimo, aos que praticarem outras infrações.\"\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - A redação do artigo 175 da Lei nº 6989, de 29 de dezembro de 1966, passa a ser a seguinte:\n\"Art. 175 - Os resíduos resultantes das escavações para retirada de areia e pedregulho, ou os decorrentes da extração de qualquer mineral dependente de autorização federal, não poderão ser lançados nos cursos de água, devendo, para isso, o sujeito passivo, ou o minerador, executar as obras necessárias, sob pena de imposição de multa diária de 50% (cinquenta por cento) do valor do salário mínimo.\"\nTAXA DE LICENÇA PARA CONSTRUÇÕES, ARRUAMENTOS E LOTEAMENTOS\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 São isentos do pagamento da taxa o exame e a verificação de plantas para edificação de moradia econômica e de pequenas reformas.\n§ 1º Para os fins do disposto neste artigo, consideram-se \"moradia econômica\" e \"pequenas reformas\" as que assim forem definidas pelo Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA, nos termos da legislação federal.\n§ 2º Sobrevindo alterações nos conceitos estabelecidos pelo Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA, o Executivo, nos termos da Lei nº 7420, de 30 de dezembro de 1969, se necessário, expedirá regulamento para estabelecer medidas visando a facilitar a fiscalização das construções.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 -\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES GERAIS SOBRE TAXA DE LICENÇA\nArt. 29 - O valor do salário mínimo, para efeito de cálculo das multas previstas nesta lei, será o vigente no Município em 1 de janeiro de cada ano.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - No interesse da Administração, qualquer das taxas de licença poderá ser lançada \"ex officio\", observadas as cautelas regulamentares, sem prejuízo da aplicação das sanções previstas na legislação municipal.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31 - Os débitos não pagos nas épocas próprias ficam acrescidos de multa de 20% (vinte por cento) do valor, além de juros moratórios de 1% (um por cento) ao mês, contados estes últimos do mês seguinte ao do vencimento, e de correção monetária, sem prejuízo, quando for o caso, das custas e demais despesas judiciais.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32 - As taxas de licença serão calculadas de acordo com a Tabela anexa.\nSERVIÇOS CIVIS\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33 - Os serviços de natureza civil prestados pelo Município, que não constituam hipóteses de incidência de taxas, serão retribuídos mediante o pagamento dos preços fixados pelo Executivo.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34 - Consideram-se serviços civis, para os efeitos desta lei:\nI - os serviços de expediente;\nII - os serviços de cemitério;\nIII - os serviços de depósito;\nIV - os serviços de mercados e feiras;\nV - serviços diversos, não incluídos no campo de incidência das taxas.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 - Os preços serão calculados de modo a cobrir todo o custo das prestações e os encargos dos serviços.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES TRANSITÓRIAS SOBRE OS IMPOSTOS PREDIAL E TERRITORIAL URBANO\nArt. 36 - Os lançamentos dos impostos predial e territorial urbano, para o exercício de 1972, serão efetuados com descontos, concedidos sobre os valores venais apurados com a aplicação das \"Plantas Genéricas de Valores\", na seguinte conformidade:\nI - 1ª subdivisão da zona urbana... 25% (vinte e cinco por cento);\nII - 2ª subdivisão da zona urbana... 30% (trinta por cento);\nIII - 3ª subdivisão da zona urbana... 50% (cinquenta por cento).\nParágrafo Único - Os descontos ora estatuídos serão aplicados com observância do disposto no artigo 37.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37 - Ressalvados os casos de modificação substancial nas características físicas do imóvel, nenhum lançamento, para o exercício de 1972, será calculado sobre valor venal inferior ao adotado no lançamento de 1971.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "## DISPOSIÇÕES FINAIS\nArt. 38 - Ficam revogados os artigos 131, 132, 133, 134, 147, 148, 149, 150, 163, 164, 165, 166, 167, 181, 182, 183, 184, 185, 186, 187 e 188 da Lei nº 6989, de 29 de dezembro de 1966; os artigos 14, 16 e 17 da Lei nº 7047, de 6 de setembro de 1967; o artigo 7º da Lei nº 3.811, de 5 de dezembro de 1949, e demais disposições em contrário.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39 - Esta lei entrará em vigor em 1 de janeiro de 1972.\nPrefeitura do Município de São Paulo, aos 29 de dezembro de 1971, 418º da fundação de São Paulo.\nO Prefeito, José Carlos de Figueiredo Ferraz\nO Secretário de Negócios Internos e Jurídicos, Paulo Villaça\nO Secretário das Finanças, Álvaro Coutinho\nO Secretário de Obras, Octavio Camilo Pereira de Almeida.\nPublicada na Diretoria do Departamento de Administração do Município de São Paulo, em 29 de dezembro de 1971.\nO Diretor, João Alberto Guedes.\n"
+      }
+     },
+     "note": "Text in force as kept by the Portal da Legislação Municipal; Lei nº 7.687, de 29/12/1971 was altered by acts of 3 date(s), the latest 1983-12-29."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação \"sem revogação expressa\" or \"não informado\") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's \"Detalhes da Norma\" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its \"Alterações\" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked (\"REVOGADO(A)\").",
+  "The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses (\"(Redação dada pela ...)\", \"(Incluído pela ...)\", \"(Revogado pela ...)\", \"(Vide ...)\"), and the portal's notice \"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\".",
+  "One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages."
+ ]
+}
