@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\fetch.py", line 94, in <module>
+    main()
+  File "C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\fetch.py", line 87, in main
+    law(e["slug"], need_detail=not altered(e))
+  File "C:\Users\alany\Documents\lexifina\scripts\brazil-sao-paulo-city-law\fetch.py", line 30, in law
+    b = H.get(BASE + '/leis/' + slug)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\alany\Documents\lexifina\scripts\world-law\br_city_get.py", line 95, in get
+    raise Stop(f'{self.name}: HTTP {code} rc={r.returncode} {r.stderr.decode("utf-8", "replace")[:200]}')
+br_city_get.Stop: legislacao.prefeitura.sp.gov.br: HTTP 500 rc=0 
