@@ -1,6 +1,6 @@
 # How this repository was made (São Paulo (city))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -46,6 +46,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2026 | <https://legislacao.prefeitura.sp.gov.br> | 2026-10-31 | Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo"). |
 | Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2026 | <https://legislacao.prefeitura.sp.gov.br> | 2026-10-31 | Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo"). |
 | Prefeitura do Município de São Paulo, Portal da Legislação Municipal: the Leis of 2026 | <https://legislacao.prefeitura.sp.gov.br> | 2026-10-31 | Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo"). |
+| Prefeitura do Município de São Paulo, Portal da Legislação Municipal: Lei 16.951/2018 | <https://legislacao.prefeitura.sp.gov.br/leis/lei-16951-de-6-de-julho-de-2018> | 2026-11-05 | Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo"). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -220,7 +221,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2018-16948` | Lei nº 16.948, de 28/06/2018 (Declara o educador Paulo Freire Patrono da Educação Paulistana, e dá outras providências.) | 1 | 2018-06-29 to 2018-06-29 |
 | `lei-2018-16949` | Lei nº 16.949, de 03/07/2018 (Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo o Dia do Migrante, e dá outras providências.) | 1 | 2018-07-07 to 2018-07-07 |
 | `lei-2018-16950` | Lei nº 16.950, de 03/07/2018 | 1 | 2018-07-06 to 2018-07-06 |
-| `lei-2018-16951` | Lei nº 16.951, de 06/07/2018 | 1 | 2018-07-04 to 2018-07-04 |
+| `lei-2018-16951` | Lei nº 16.951, de 03/07/2018 | 1 | 2018-07-04 to 2018-07-04 |
 | `lei-2018-16952` | Lei nº 16.952, de 12/07/2018 | 1 | 2018-07-13 to 2018-07-13 |
 | `lei-2018-16953` | Lei nº 16.953, de 12/07/2018 | 1 | 2018-07-13 to 2018-07-13 |
 | `lei-2018-16954` | Lei nº 16.954, de 12/07/2018 | 1 | 2018-07-13 to 2018-07-13 |
@@ -1810,7 +1811,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-18835` | Lei nº 18.835, de 07/01/2026 | 1 | 2026-01-08 to 2026-01-08 |
 | `lei-2026-18946` | Lei nº 18.946, de 08/06/2026 | 1 | 2026-06-09 to 2026-06-09 |
 
-The build made 1756 commits:
+The build made 1757 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -1819,9 +1820,9 @@ The build made 1756 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1756 laws in the record.
+- 1757 laws in the record.
 - 3441 tags.
 
 ## Dates
@@ -1834,13 +1835,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1cc7512a2f4b360cfc2b1cd7704abe370d22895ef4266aa2c1aadbcda12821ca` (10048487 bytes).
+- Corpus: sha256 `848746179a78719c8c4f1a6970736874f4d426f1085f06a17db0891f429787e2` (10053349 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1756 versions of 1756 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -1966,6 +1967,8 @@ No second build of this corpus has been compared yet.
 - An act the portal shows no alteration for (no alteration note, nothing struck through, no altering act listed, situação "sem revogação expressa" or "não informado") is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial da Cidade as the portal's "Detalhes da Norma" gives it. An altered act is given only as its text in force, credited to the portal as the oldest version available and dated by the latest date of the altering acts it links to (in its alteration notes and its "Alterações" list; the date is the one in each act's portal address, the day it was signed). The wordings in between are not reconstructed, so no earlier version is given rather than a wrong one. An altered act that links to no dated altering act is left out, as are acts the portal lists as wholly revoked ("REVOGADO(A)").
 - The text in force leaves out what the page strikes through (earlier wordings) and the alteration notes in parentheses ("(Redação dada pela ...)", "(Incluído pela ...)", "(Revogado pela ...)", "(Vide ...)"), and the portal's notice "Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo".
 - One file per Art.; headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa, the preamble and, for the Lei Orgânica, its table of contents. Text after the last article (place, date, signatures) stays with the last article. Tables are one line per row, cells separated by " | "; images are left out.
+- Article 2 takes effect on publication; the official portal cites Diário Oficial da Cidade, 04/07/2018, p. 1. The law heading and signature block both date the act 03/07/2018; the catalogue signing field 06/07/2018 conflicts with the law text. Publication and in-force remain 2018-07-04.
+- The historical law metadata remains in its original part; the replacement act references a distinct corrected metadata record.
 
 ## What AI did and did not do
 
@@ -2016,3 +2019,4 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Prefeitura's portal pages.
+- GPT-6 compared one act’s date metadata with its official text and prepared this metadata correction. No legal text was generated or changed.
