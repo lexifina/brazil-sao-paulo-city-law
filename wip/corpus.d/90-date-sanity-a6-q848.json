@@ -1,0 +1,72 @@
+{
+  "corrects": "30-lei-2018-04.json",
+  "laws": {
+    "lei-2018-16951-date-corrected": {
+      "label": "Lei nº 16.951, de 03/07/2018",
+      "title": "Altera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Junina da Esperança, e dá outras providências.",
+      "kind": "law",
+      "enacted": "2018-07-03",
+      "published": "2018-07-04",
+      "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16951-de-6-de-julho-de-2018",
+      "temporary_until": null,
+      "restores": null,
+      "note": null
+    }
+  },
+  "acts": [
+    {
+      "slug": "lei-2018-16951",
+      "short": "Lei 16951/2018",
+      "title": "Lei nº 16.951, de 03/07/2018",
+      "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16951-de-6-de-julho-de-2018",
+      "first_law": "lei-2018-16951-date-corrected",
+      "earlier_laws": [],
+      "versions": [
+        {
+          "from": "2018-07-04",
+          "source_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16951-de-6-de-julho-de-2018",
+          "sha256": "0aaef0afe593c84069005b2ae2da8ce3970e7a529d1db0f52f90df99779b5a48",
+          "units": {
+            "000-titulo": {
+              "label": "Título",
+              "kind": "title",
+              "text": "# LEI Nº 16.951, DE 3 DE JULHO DE 2018\n(Projeto de Lei nº 865/17, do Vereador Eduardo Tuma - PSDB)\nAltera a Lei nº 14.485, de 19 de julho de 2007, para incluir no Calendário de Eventos da Cidade de São Paulo a Festa Junina da Esperança, e dá outras providências.\nBRUNO COVAS, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, nos termos do disposto no inciso I do artigo 84 do seu Regimento Interno, decretou e eu promulgo a seguinte lei:\n"
+            },
+            "art-0001": {
+              "label": "Art. 1º",
+              "kind": "article",
+              "text": "Art. 1º Fica inserido inciso ao art. 7º da Lei nº 14.485, de 19 de julho de 2007, com a seguinte redação:\n\"Quarto final de semana de junho:\nFesta Junina da Esperança.\" (NR)\n"
+            },
+            "art-0002": {
+              "label": "Art. 2º",
+              "kind": "article",
+              "text": "Art. 2º Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 3 de julho de 2018, 465º da fundação de São Paulo.\nBRUNO COVAS, PREFEITO\nRUBENS NAMAN RIZEK JUNIOR, Secretário Municipal de Justiça\nEDUARDO TUMA, Secretário-Chefe da Casa Civil\nPublicada na Casa Civil, em 3 de julho de 2018.\n"
+            }
+          },
+          "correction": {
+            "metadata_only": true,
+            "reason": "Correct enactment metadata from 2018-07-06 to 2018-07-03, following the official law heading and signature block; retain gazette publication and article 2 commencement on 2018-07-04. Legal text unchanged.",
+            "in_force_basis": "Article 2 takes effect on publication; the official portal cites Diário Oficial da Cidade, 04/07/2018, p. 1. The law heading and signature block both date the act 03/07/2018; the catalogue signing field 06/07/2018 conflicts with the law text. Publication and in-force remain 2018-07-04.",
+            "supersedes": "47bcef0e9a2e2deab777ae231768f31c64d5a832"
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Prefeitura do Município de São Paulo, Portal da Legislação Municipal: Lei 16.951/2018",
+      "url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16951-de-6-de-julho-de-2018",
+      "retrieved": "2026-11-05",
+      "licence": "Texts: Prefeitura do Município de São Paulo, Portal da Legislação Municipal, legislacao.prefeitura.sp.gov.br (an official open-data repository under Lei municipal 17.901/2023). Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text (\"Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\").",
+      "notes": "The legal text dates the act 3 July 2018; catalogue metadata cites Diário Oficial da Cidade, 4 July 2018, p. 1."
+    }
+  ],
+  "decisions": [
+    "Article 2 takes effect on publication; the official portal cites Diário Oficial da Cidade, 04/07/2018, p. 1. The law heading and signature block both date the act 03/07/2018; the catalogue signing field 06/07/2018 conflicts with the law text. Publication and in-force remain 2018-07-04.",
+    "The historical law metadata remains in its original part; the replacement act references a distinct corrected metadata record."
+  ],
+  "ai_use": [
+    "GPT-6 compared one act’s date metadata with its official text and prepared this metadata correction. No legal text was generated or changed."
+  ]
+}
